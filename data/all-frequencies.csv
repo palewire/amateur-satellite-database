@@ -861,48 +861,48 @@ ROBUSTA-1D (CELESTA),53111,,436.500,,1k2AFSK 2k4*/9k6GMSK,FX6FRB,active
 ROBUSTA-1F (MTCube-2),53106,,436.750,,1k2AFSK 2k4*/9k6GMSK,FX6FRA,inactive
 RSP-00,43639,,145.890/436.930,145.890,1k2AFSK 38k4 pi/4QPSK CW,8J1RSP,inactive
 RSP-01,47925,,145.810,145.810,1k2AFSK/9k6*GMSK/19k2FSK CW,8N1RSP,re-entered
-RS-1 (Radio Sputnik 1),11085,,,,,,Non-Operational
-RS-2 (Radio Sputnik 2),11086,,,,,,Non-Operational
-RS-3 (Radio Sputnik 3),12997,,,,,,Non-Operational
-RS-4 (Radio Sputnik 4),13000,,,,,,Non-Operational
-RS-5 (Radio Sputnik 5),12999,,,,,,Non-Operational
-RS-6 (Radio Sputnik 6),13002,,,,,,Non-Operational
-RS-7 (Radio Sputnik 7),13001,,,,,,Non-Operational
-RS-8 (Radio Sputnik 8),12998,,,,,,Non-Operational
-RS-9 (Radio Sputnik 9),,,,,,,Project Canceled
-RS-10 (COSMOS 1861),18129,,,29.357/29.403,CW,,Non-Operational
-RS-11 (COSMOS 1861),18129,,,29.357/29.403,CW,,Non-Operational
-RS-12 (COSMOS 2123),21089,21.210- 21.250,29.410- 29.450,29.408,SSB CW,,Non-Operational
-RS-13 (COSMOS 2123),21089,21.260- 21.300,145.860-145.900,145.862,SSB CW,,Non-Operational
-RS-14 (Informator-1),21087,,,145.822/145948,CW,,Non-Operational
-RS-15 (Radio Rosto),23439,,,29.3525/29.3987,CW,,Unknown
+RS-1 (Radio Sputnik 1),11085,,,,,,non-operational
+RS-2 (Radio Sputnik 2),11086,,,,,,non-operational
+RS-3 (Radio Sputnik 3),12997,,,,,,non-operational
+RS-4 (Radio Sputnik 4),13000,,,,,,non-operational
+RS-5 (Radio Sputnik 5),12999,,,,,,non-operational
+RS-6 (Radio Sputnik 6),13002,,,,,,non-operational
+RS-7 (Radio Sputnik 7),13001,,,,,,non-operational
+RS-8 (Radio Sputnik 8),12998,,,,,,non-operational
+RS-9 (Radio Sputnik 9),,,,,,,project canceled
+RS-10 (COSMOS 1861),18129,,,29.357/29.403,CW,,non-operational
+RS-11 (COSMOS 1861),18129,,,29.357/29.403,CW,,non-operational
+RS-12 (COSMOS 2123),21089,21.210- 21.250,29.410- 29.450,29.408,SSB CW,,non-operational
+RS-13 (COSMOS 2123),21089,21.260- 21.300,145.860-145.900,145.862,SSB CW,,non-operational
+RS-14 (Informator-1),21087,,,145.822/145948,CW,,non-operational
+RS-15 (Radio Rosto),23439,,,29.3525/29.3987,CW,,unknown
 RS-16 (Mozhayets-2),24744,,,435.510,CW,,re-entered
 RS-17 (Sputnik 40),24958,,,145.820,CW,,re-entered
 RS-18 (Sputnik 41),25533,,,145.812,CW,,re-entered
 RS-19 (Sputnik 99),25685,,,145.815,CW,,re-entered
 RS-20 (Mozhayets-3),27560,,,145.828/435.319,CW,,re-entered
 RS-21 (Kolibri-2000),27394,,,145.825,CW,,re-entered
-RS-22 (Mozhayets-4),27939,,,432.098/435.352,CW,,Unknown
-RS-23 (Tatyana),28523,,,435.215/435.315,CW,,Non-Operational
-RS-24,,,,,,,Unknown
-RS-25 (Mozhayets-5),28898,,,435.325,CW,,Unknown
-RS-26 (Sinah-1),28893,,,,,,Engineering
-RS-27 (Baumanets-1),,,,,,,Launch failed
-RS-28 (UgatuSat),35869,,,435.264,CW,,Non-Operational
-RS-29 (Sterkh),,,,,,,ID reserved
-RS-30 (Yubileiniy-1),32953,,,435.215/435.315,CW,,Non-Operational
-RS-31 to RS-37,,,,,,,for ORBCOMM
-RS-38 (Tatyana-2),35868,,,435.490,CW,,Non-Operational
-RS-39 (Chibis-M),38051,,,435.215/435.315,CW,,Non-Operational
-RS-40 (Yubileyny-2 MiR),38735,,,435.365,CW,,Non-Operational
-RS-41 (AIST-1),39492,,,435.265,CW,,Non-Operational
-RS-42,,,,,,,Unknown
-RS-43 (AIST-2),39133,,,435.215/435.265,CW,,Non-Operational
-RS-44 (DOSAAF-85),44909,145.935-145.995,435.670-435.610,435.605,SSB CW FT4,RS44,Operational
-RS-45,,,,,,,Unknown
-RS-46 (COSMOS-2491),39497,,,435.465/435.565,CW,,Non-Operational
-RS-47 (COSMOS-2499),39765,,,435.465/435.565,CW,,Non-Operational
-RS-48 (AIST-2D),41465,,,435.315,CW,,Non-Operational
+RS-22 (Mozhayets-4),27939,,,432.098/435.352,CW,,unknown
+RS-23 (Tatyana),28523,,,435.215/435.315,CW,,non-operational
+RS-24,,,,,,,unknown
+RS-25 (Mozhayets-5),28898,,,435.325,CW,,unknown
+RS-26 (Sinah-1),28893,,,,,,engineering
+RS-27 (Baumanets-1),,,,,,,launch failed
+RS-28 (UgatuSat),35869,,,435.264,CW,,non-operational
+RS-29 (Sterkh),,,,,,,id reserved
+RS-30 (Yubileiniy-1),32953,,,435.215/435.315,CW,,non-operational
+RS-31 to RS-37,,,,,,,for orbcomm
+RS-38 (Tatyana-2),35868,,,435.490,CW,,non-operational
+RS-39 (Chibis-M),38051,,,435.215/435.315,CW,,non-operational
+RS-40 (Yubileyny-2 MiR),38735,,,435.365,CW,,non-operational
+RS-41 (AIST-1),39492,,,435.265,CW,,non-operational
+RS-42,,,,,,,unknown
+RS-43 (AIST-2),39133,,,435.215/435.265,CW,,non-operational
+RS-44 (DOSAAF-85),44909,145.935-145.995,435.670-435.610,435.605,SSB CW FT4,RS44,operational
+RS-45,,,,,,,unknown
+RS-46 (COSMOS-2491),39497,,,435.465/435.565,CW,,non-operational
+RS-47 (COSMOS-2499),39765,,,435.465/435.565,CW,,non-operational
+RS-48 (AIST-2D),41465,,,435.315,CW,,non-operational
 RWASAT-1,44790,,,,,,unknown
 R5-S1,,,,,,,failure
 SACRED,,,436.870,,1200bps AFSK,WA4CEW,failure

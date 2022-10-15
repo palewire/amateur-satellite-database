@@ -1,0 +1,2972 @@
+[
+  {
+    "satellite":"Aalto-1",
+    "number":"42775",
+    "uplink":null,
+    "downlink":"437.220\/2402.000",
+    "beacon":"437.220",
+    "mode":"9600bps FSK CW",
+    "callsign":"OH2A1S"
+  },
+  {
+    "satellite":"AAUSAT-2",
+    "number":"32788",
+    "uplink":null,
+    "downlink":"437.426",
+    "beacon":null,
+    "mode":"1k2*MSK 9k6 FSK",
+    "callsign":"OZ2CUB"
+  },
+  {
+    "satellite":"AAUSAT-4",
+    "number":"41460",
+    "uplink":null,
+    "downlink":"437.425",
+    "beacon":"437.425",
+    "mode":"2k4*\/9k6\/19k2 GFSK CW",
+    "callsign":"OZ4CUB"
+  },
+  {
+    "satellite":"AISTECHSAT-2",
+    "number":"43768",
+    "uplink":null,
+    "downlink":"436.730",
+    "beacon":null,
+    "mode":"4k8\/9k6* FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"AISTECHSAT-3",
+    "number":"44103",
+    "uplink":null,
+    "downlink":"436.730",
+    "beacon":null,
+    "mode":"4k8\/9k6* FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"AlfaCrux",
+    "number":"52160",
+    "uplink":"437.225",
+    "downlink":"437.100*\/437.225",
+    "beacon":null,
+    "mode":"4800bps FSK Digipeater",
+    "callsign":null
+  },
+  {
+    "satellite":"AmicalSat",
+    "number":"46287",
+    "uplink":null,
+    "downlink":"436.100*\/2415.300",
+    "beacon":null,
+    "mode":"1k2*AFSK\/9k6 GMSK",
+    "callsign":"RS17S"
+  },
+  {
+    "satellite":"AmurSat (AmGU-1)",
+    "number":"44394",
+    "uplink":null,
+    "downlink":"436.250",
+    "beacon":null,
+    "mode":"4800bps mobitex",
+    "callsign":null
+  },
+  {
+    "satellite":"AO-7 (Phase-2B)",
+    "number":"7530",
+    "uplink":"145.850-145.950",
+    "downlink":"29.400- 29.500",
+    "beacon":"29.502",
+    "mode":"A",
+    "callsign":null
+  },
+  {
+    "satellite":"AO-7 (Phase-2B)",
+    "number":"7530",
+    "uplink":"432.125-432.175",
+    "downlink":"145.975-145.925",
+    "beacon":"145.970",
+    "mode":"B C",
+    "callsign":null
+  },
+  {
+    "satellite":"AO-27 (EYESAT-A)",
+    "number":"22825",
+    "uplink":"145.850",
+    "downlink":"436.795",
+    "beacon":null,
+    "mode":"1200bps AFSK FM",
+    "callsign":null
+  },
+  {
+    "satellite":"AO-73 (FUNcube-1)",
+    "number":"39444",
+    "uplink":"435.130-435.150",
+    "downlink":"145.970-145.950",
+    "beacon":"145.935",
+    "mode":"1200*bps BPSK SSB",
+    "callsign":null
+  },
+  {
+    "satellite":"AO-91 (Fox-1B RadFxSat)",
+    "number":"43017",
+    "uplink":"435.250",
+    "downlink":"145.960",
+    "beacon":"145.960",
+    "mode":"FM* CTCSS 67.0Hz\/200bps DUV",
+    "callsign":null
+  },
+  {
+    "satellite":"AO-92 (Fox-1D)",
+    "number":"43137",
+    "uplink":"435.350\/1267.350",
+    "downlink":"145.880",
+    "beacon":"145.880",
+    "mode":"FM CTCSS 67.0Hz\/200bps DUV",
+    "callsign":null
+  },
+  {
+    "satellite":"AO-95 (Fox-1Cliff)",
+    "number":"43770",
+    "uplink":"435.300\/1267.300",
+    "downlink":"145.920",
+    "beacon":"145.920",
+    "mode":"FM CTCSS 67.0Hz\/200bps DUV*",
+    "callsign":null
+  },
+  {
+    "satellite":"AO-109 (RadFXsat-2 Fox-1E)",
+    "number":"47311",
+    "uplink":"145.860-145.890",
+    "downlink":"435.790-435.760",
+    "beacon":"435.750",
+    "mode":"1k2 BPSK SSB CW* FT4*",
+    "callsign":null
+  },
+  {
+    "satellite":"Arduiqube (DIY-1 DO-111)",
+    "number":"47963",
+    "uplink":null,
+    "downlink":"437.125",
+    "beacon":"437.125",
+    "mode":"50\/100*bdRTTY 500bdFSK CW",
+    "callsign":null
+  },
+  {
+    "satellite":"Armadillo",
+    "number":"44352",
+    "uplink":null,
+    "downlink":"437.525",
+    "beacon":null,
+    "mode":"19k2*\/38k4 GMSK",
+    "callsign":"KE5DTW"
+  },
+  {
+    "satellite":"Astrocast-0.1",
+    "number":"43798",
+    "uplink":null,
+    "downlink":"437.147\/2403.000",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":"HB9GSF"
+  },
+  {
+    "satellite":"Athenoxat-1",
+    "number":"41168",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":"437.485",
+    "mode":"2k4*GMSK 4k8*AFSK CW",
+    "callsign":"ATX1"
+  },
+  {
+    "satellite":"BCCSAT-1",
+    "number":"48041",
+    "uplink":null,
+    "downlink":"435.635",
+    "beacon":"435.635",
+    "mode":"4800bps GMSK CW",
+    "callsign":"HS0W"
+  },
+  {
+    "satellite":"BDSat",
+    "number":"52175",
+    "uplink":null,
+    "downlink":"145.850\/436.025*",
+    "beacon":"436.025",
+    "mode":"9600*bps GFSK CW",
+    "callsign":"OK0BDS"
+  },
+  {
+    "satellite":"BEESAT-5",
+    "number":"48083",
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"DB0BEI"
+  },
+  {
+    "satellite":"BEESAT-6",
+    "number":"48083",
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"DB0BEJ"
+  },
+  {
+    "satellite":"BEESAT-7",
+    "number":"48084",
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"DB0BEK"
+  },
+  {
+    "satellite":"BEESAT-8",
+    "number":"48084",
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"DB0BEL"
+  },
+  {
+    "satellite":"BEESAT-9",
+    "number":"44412",
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"4k8*\/9k6 mobitex GMSK",
+    "callsign":"DP0BEM"
+  },
+  {
+    "satellite":"BisonSat",
+    "number":"40968",
+    "uplink":null,
+    "downlink":"437.375",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"N7SKC"
+  },
+  {
+    "satellite":"BlueWalker-3",
+    "number":"53807",
+    "uplink":null,
+    "downlink":"437.500\/2210.000",
+    "beacon":null,
+    "mode":"2k4*\/9k6 FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"Bobcat-1",
+    "number":"46922",
+    "uplink":null,
+    "downlink":"436.600",
+    "beacon":null,
+    "mode":"9k6\/38k4\/57k6* GMSK",
+    "callsign":"BOBCAT-1"
+  },
+  {
+    "satellite":"BRO-4",
+    "number":"49066",
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"BRO-5",
+    "number":"51061",
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"BRO-6",
+    "number":"52422",
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"BRO-7",
+    "number":"52174",
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"BSUSat-1(CubeBel-1)",
+    "number":"43666",
+    "uplink":"436.200",
+    "downlink":"436.200\/436.990*",
+    "beacon":null,
+    "mode":"4k8\/9k6* GMSK Digipeater",
+    "callsign":"EU10S"
+  },
+  {
+    "satellite":"BugSat-1",
+    "number":"40014",
+    "uplink":null,
+    "downlink":"437.445",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"LU7AA"
+  },
+  {
+    "satellite":"BY70-2",
+    "number":"45857",
+    "uplink":null,
+    "downlink":"436.200",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":null
+  },
+  {
+    "satellite":"BY70-3",
+    "number":"46839",
+    "uplink":null,
+    "downlink":"437.600",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":"NPUBY3"
+  },
+  {
+    "satellite":"CAPE-1",
+    "number":"31130",
+    "uplink":null,
+    "downlink":"435.245",
+    "beacon":"435.248",
+    "mode":"1200bps AFSK",
+    "callsign":"K5USL"
+  },
+  {
+    "satellite":"CAPE-3",
+    "number":"47309",
+    "uplink":null,
+    "downlink":"145.825\/437.325*",
+    "beacon":null,
+    "mode":"1k2*AFSK 9k6 FSK",
+    "callsign":"W5UL-11"
+  },
+  {
+    "satellite":"CAS-1 (HO-68 XW-1)",
+    "number":"36122",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.790",
+    "mode":"CW",
+    "callsign":"BJ1SA"
+  },
+  {
+    "satellite":"CAS-2T",
+    "number":"41847",
+    "uplink":"145.925",
+    "downlink":"435.615",
+    "beacon":"435.710",
+    "mode":"FM CW*",
+    "callsign":"CAS2T"
+  },
+  {
+    "satellite":"CAS-3A (XW-2A)",
+    "number":"40903",
+    "uplink":"435.030-435.050",
+    "downlink":"145.685-145.665",
+    "beacon":"145.640\/145.660",
+    "mode":"9k6\/19k2 GMSK\/CW*",
+    "callsign":"BJ1SB"
+  },
+  {
+    "satellite":"CAS-3B (XW-2B)",
+    "number":"40911",
+    "uplink":"435.090-435.110",
+    "downlink":"145.750-145.730",
+    "beacon":"145.705\/145.725",
+    "mode":"9k6\/19k2 GMSK\/CW*",
+    "callsign":"BJ1SC"
+  },
+  {
+    "satellite":"CAS-3C (XW-2C)",
+    "number":"40906",
+    "uplink":"435.150-435.170",
+    "downlink":"145.815-145.795",
+    "beacon":"145.770\/145.790",
+    "mode":"9k6\/19k2 GMSK\/CW*",
+    "callsign":"BJ1SD"
+  },
+  {
+    "satellite":"CAS-3D (XW-2D)",
+    "number":"40907",
+    "uplink":"435.210-435.230",
+    "downlink":"145.880-145.860",
+    "beacon":"145.835\/145.855",
+    "mode":"9k6\/19k2 GMSK\/CW*",
+    "callsign":"BJ1SE"
+  },
+  {
+    "satellite":"CAS-3E (XW-2E)",
+    "number":"40909",
+    "uplink":"435.270-435.290",
+    "downlink":"145.935-145.915",
+    "beacon":"145.890\/145.910",
+    "mode":"9k6 GMSK\/CW*",
+    "callsign":"BJ1SF"
+  },
+  {
+    "satellite":"CAS-3F (XW-2F)",
+    "number":"40910",
+    "uplink":"435.330-435.350",
+    "downlink":"146.000-145.980",
+    "beacon":"145.955\/145.975",
+    "mode":"9k6 GMSK\/CW*",
+    "callsign":"BJ1SG"
+  },
+  {
+    "satellite":"CAS-3G (DCBB KAITUO-1B)",
+    "number":"40912",
+    "uplink":null,
+    "downlink":"145.475*\/437.950",
+    "beacon":null,
+    "mode":"9k6* GMSK",
+    "callsign":"BJ1SH"
+  },
+  {
+    "satellite":"CAS-3H (LilacSat-2)",
+    "number":"40908",
+    "uplink":"144.350\/144.390",
+    "downlink":"144.390\/437.225*",
+    "beacon":"437.200",
+    "mode":"1k2\/4k8*\/9k6 AFSK\/GFSK",
+    "callsign":"BJ1SI"
+  },
+  {
+    "satellite":"CAS-3I (NUDT-PhoneSat)",
+    "number":"40900",
+    "uplink":null,
+    "downlink":"437.300",
+    "beacon":null,
+    "mode":"9k6 GFSK",
+    "callsign":"BJ1SJ"
+  },
+  {
+    "satellite":"CAS-4A (ZHUHAI-1 01)",
+    "number":"42761",
+    "uplink":"435.210-435.230",
+    "downlink":"145.880-145.860",
+    "beacon":null,
+    "mode":"SSB*",
+    "callsign":null
+  },
+  {
+    "satellite":"CAS-4A (ZHUHAI-1 01)",
+    "number":"42761",
+    "uplink":null,
+    "downlink":"145.835",
+    "beacon":"145.855",
+    "mode":"4800bps GMSK CW",
+    "callsign":"BJ1SK"
+  },
+  {
+    "satellite":"CAS-4B (ZHUHAI-1 02)",
+    "number":"42759",
+    "uplink":"435.270-435.290",
+    "downlink":"145.935-145.915",
+    "beacon":null,
+    "mode":"SSB*",
+    "callsign":null
+  },
+  {
+    "satellite":"CAS-4B (ZHUHAI-1 02)",
+    "number":"42759",
+    "uplink":null,
+    "downlink":"145.890",
+    "beacon":"145.910",
+    "mode":"4800bps GMSK CW",
+    "callsign":"BJ1SL"
+  },
+  {
+    "satellite":"CAS-6 (TIANQIN-1 TO-108)",
+    "number":"44881",
+    "uplink":"435.270-435.290",
+    "downlink":"145.935-145.915",
+    "beacon":null,
+    "mode":"SSB",
+    "callsign":null
+  },
+  {
+    "satellite":"CAS-6 (TIANQIN-1 TO-108)",
+    "number":"44881",
+    "uplink":null,
+    "downlink":"145.890",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"BJ1SO"
+  },
+  {
+    "satellite":"CAS-6 (TIANQIN-1 TO-108)",
+    "number":"44881",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"145.910",
+    "mode":"CW",
+    "callsign":"BJ1SO"
+  },
+  {
+    "satellite":"CAS-9 (XW-3 HO-113)",
+    "number":"50466",
+    "uplink":"145.870",
+    "downlink":"435.180",
+    "beacon":null,
+    "mode":"VHF\/UHF SSB*",
+    "callsign":null
+  },
+  {
+    "satellite":"CAS-9 (XW-3 HO-113)",
+    "number":"50466",
+    "uplink":null,
+    "downlink":"435.725",
+    "beacon":null,
+    "mode":"4k8*GMSK telemetry",
+    "callsign":"CAS9"
+  },
+  {
+    "satellite":"CAS-9 (XW-3 HO-113)",
+    "number":"50466",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.575",
+    "mode":"UHF CW*",
+    "callsign":null
+  },
+  {
+    "satellite":"CELESTA (ROBUSTA-1D)",
+    "number":"53111",
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":"FX6FRB",
+    "mode":"1k2AFSK 2k4*\/9k6GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"CHOMPTT",
+    "number":"43855",
+    "uplink":null,
+    "downlink":"437.560",
+    "beacon":null,
+    "mode":"1k2*AFSK\/9k6GMSK",
+    "callsign":"WI2XVT"
+  },
+  {
+    "satellite":"Cliff (Fox-1C AO-95)",
+    "number":"43770",
+    "uplink":"435.300\/1267.300",
+    "downlink":"145.920",
+    "beacon":"145.920",
+    "mode":"FM CTCSS 67.0Hz\/200bps DUV",
+    "callsign":null
+  },
+  {
+    "satellite":"Connecta-T1.1",
+    "number":"52739",
+    "uplink":null,
+    "downlink":"401.525",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"CONT11"
+  },
+  {
+    "satellite":"CO-55 (CUTE-I)",
+    "number":"27844",
+    "uplink":null,
+    "downlink":"437.470",
+    "beacon":"436.838",
+    "mode":"1200bps AFSK CW*",
+    "callsign":"JQ1YCY"
+  },
+  {
+    "satellite":"CO-57 (XI-IV)",
+    "number":"27848",
+    "uplink":null,
+    "downlink":"437.490",
+    "beacon":"436.848",
+    "mode":"1200bps AFSK CW*",
+    "callsign":"JQ1YCW"
+  },
+  {
+    "satellite":"CO-58 (XI-V)",
+    "number":"28895",
+    "uplink":null,
+    "downlink":"437.345",
+    "beacon":"437.465",
+    "mode":"1200bps AFSK CW*",
+    "callsign":"JQ1YGW"
+  },
+  {
+    "satellite":"CO-65 (CUTE1.7+APDII)",
+    "number":"32785",
+    "uplink":null,
+    "downlink":"437.475",
+    "beacon":"437.275",
+    "mode":"1200bps AFSK CW*",
+    "callsign":"JQ1YTC"
+  },
+  {
+    "satellite":"CO-66 (SEEDS-II)",
+    "number":"32791",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":"437.485",
+    "mode":"1k2AFSK CW* DigiTalker",
+    "callsign":"JQ1YGU"
+  },
+  {
+    "satellite":"Cliff (Fox-1C AO-95)",
+    "number":null,
+    "uplink":"435.300\/1267.300",
+    "downlink":"145.920",
+    "beacon":null,
+    "mode":"FM CTCSS 67.0Hz\/200bps DUV",
+    "callsign":null
+  },
+  {
+    "satellite":"CSIM-FD",
+    "number":"43793",
+    "uplink":null,
+    "downlink":"437.250",
+    "beacon":null,
+    "mode":"9k6*\/19k2 GMSK",
+    "callsign":"CSIM"
+  },
+  {
+    "satellite":"CTIM-FD",
+    "number":"52950",
+    "uplink":null,
+    "downlink":"437.250",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null
+  },
+  {
+    "satellite":"CubeBel-1(BSUSat-1)",
+    "number":"43666",
+    "uplink":"436.200",
+    "downlink":"436.200\/436.990*",
+    "beacon":null,
+    "mode":"4k8\/9k6* GMSK Digipeater",
+    "callsign":"EU10S"
+  },
+  {
+    "satellite":"CubeBug-2 (LO-74)",
+    "number":"39440",
+    "uplink":null,
+    "downlink":"437.445",
+    "beacon":null,
+    "mode":"1k2AFSK 9k6*FSK",
+    "callsign":"CUBEB2-6"
+  },
+  {
+    "satellite":"CubeSX-HSE",
+    "number":"47952",
+    "uplink":null,
+    "downlink":"435.650\/10455.000",
+    "beacon":null,
+    "mode":"9k6FSK\/DVB-S2",
+    "callsign":"RS13S"
+  },
+  {
+    "satellite":"CubeSX-HSE-2 (SXC3-213 HSE-AIS)",
+    "number":"53383",
+    "uplink":null,
+    "downlink":"435.570",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS21S"
+  },
+  {
+    "satellite":"CubeSX-Sirius-HSE",
+    "number":"47951",
+    "uplink":null,
+    "downlink":"437.050\/10465.000",
+    "beacon":null,
+    "mode":"2k4\/9k6*FSK\/DVB-S2",
+    "callsign":"RS14S"
+  },
+  {
+    "satellite":"CUTE",
+    "number":"49263",
+    "uplink":null,
+    "downlink":"437.250\/2402.000",
+    "beacon":null,
+    "mode":"9k6*\/19k2GMSK 1MbpsBPSK",
+    "callsign":"CUTE"
+  },
+  {
+    "satellite":"CUTE-I (CO-55)",
+    "number":"27844",
+    "uplink":null,
+    "downlink":"437.470",
+    "beacon":"436.838",
+    "mode":"1200bps AFSK CW*",
+    "callsign":"JQ1YCY"
+  },
+  {
+    "satellite":"CUTE1.7+APDII (CO-65)",
+    "number":"32785",
+    "uplink":null,
+    "downlink":"437.475",
+    "beacon":"437.275",
+    "mode":"1200bps AFSK CW*",
+    "callsign":"JQ1YTC"
+  },
+  {
+    "satellite":"DCBB (CAS-3G KAITUO-1B)",
+    "number":"40912",
+    "uplink":null,
+    "downlink":"145.475*\/437.950",
+    "beacon":null,
+    "mode":"9k6* GMSK",
+    "callsign":"BJ1SH"
+  },
+  {
+    "satellite":"DEKART",
+    "number":"46493",
+    "uplink":null,
+    "downlink":"437.000",
+    "beacon":null,
+    "mode":"4800bps mobitex",
+    "callsign":null
+  },
+  {
+    "satellite":"DELFI-C3 (DO-64)",
+    "number":"32789",
+    "uplink":null,
+    "downlink":"145.870",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":"DLFIC3"
+  },
+  {
+    "satellite":"Delfi-PQ",
+    "number":"51074",
+    "uplink":null,
+    "downlink":"436.650",
+    "beacon":null,
+    "mode":"1k2*\/2k4\/19k2 FSK",
+    "callsign":"DLFIPQ"
+  },
+  {
+    "satellite":"DHABISAT (MYSAT-2)",
+    "number":"49017",
+    "uplink":null,
+    "downlink":"436.908",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":"A68MX"
+  },
+  {
+    "satellite":"Diwata-2 (PO-101)",
+    "number":"43678",
+    "uplink":"437.500",
+    "downlink":"145.900",
+    "beacon":"145.900",
+    "mode":"FM* tone 141.3Hz CW",
+    "callsign":"D1W2PH"
+  },
+  {
+    "satellite":"DIY-1 (Arduiqube DO-111)",
+    "number":"47963",
+    "uplink":null,
+    "downlink":"437.125",
+    "beacon":"437.125",
+    "mode":"100bdRTTY 500*bdFSK CW",
+    "callsign":"CONDOL"
+  },
+  {
+    "satellite":"DOSAAF-85 (RS-44)",
+    "number":"44909",
+    "uplink":"145.935-145.995",
+    "downlink":"435.670-435.610",
+    "beacon":"435.605",
+    "mode":"SSB CW FT4",
+    "callsign":"RS44"
+  },
+  {
+    "satellite":"DO-64 (DELFI-C3)",
+    "number":"32789",
+    "uplink":null,
+    "downlink":"145.870",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":"DLFIC3"
+  },
+  {
+    "satellite":"DO-111 (DIY-1 Arduiqube)",
+    "number":"47963",
+    "uplink":null,
+    "downlink":"437.125",
+    "beacon":"437.125",
+    "mode":"50\/100*bdRTTY 500bdFSK CW",
+    "callsign":null
+  },
+  {
+    "satellite":"Duchifat-1",
+    "number":"40021",
+    "uplink":"435.220",
+    "downlink":"145.825\/145.980",
+    "beacon":"145.980",
+    "mode":"1200bps BPSK CW",
+    "callsign":"4X4HSL"
+  },
+  {
+    "satellite":"D-Star ONE iSat",
+    "number":"43879",
+    "uplink":"437.325",
+    "downlink":"435.525\/435.700*",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":"DP2GOS"
+  },
+  {
+    "satellite":"D-Star ONE Sparrow",
+    "number":"43881",
+    "uplink":"437.325",
+    "downlink":"435.525\/435.700*",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":"DP1GOS"
+  },
+  {
+    "satellite":"E1P-U2",
+    "number":"37855",
+    "uplink":"437.305",
+    "downlink":"437.498",
+    "beacon":null,
+    "mode":"1200bps AFSK_USBreceive",
+    "callsign":"K7MSU-1"
+  },
+  {
+    "satellite":"Egycubesat-1 (NARSScube-1)",
+    "number":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":"437.970",
+    "mode":"CW",
+    "callsign":null
+  },
+  {
+    "satellite":"EO-88 (FUNcube-5 Nayif-1)",
+    "number":"42017",
+    "uplink":"435.015-435.045",
+    "downlink":"145.990-145.960",
+    "beacon":"145.940",
+    "mode":"1200bps BPSK SSB",
+    "callsign":null
+  },
+  {
+    "satellite":"Es'Hail-2 (Phase-4A QO-100)",
+    "number":"43700",
+    "uplink":"2400.050-2400.300",
+    "downlink":"10489.550-10489.800",
+    "beacon":null,
+    "mode":"Linear  transponder",
+    "callsign":null
+  },
+  {
+    "satellite":"E-ST@R-II",
+    "number":"41459",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":"437.485",
+    "mode":"1200bps AFSK CW",
+    "callsign":"E-STAR-II"
+  },
+  {
+    "satellite":"FacSat-1",
+    "number":"43721",
+    "uplink":null,
+    "downlink":"437.350",
+    "beacon":null,
+    "mode":"9600bps MSK",
+    "callsign":null
+  },
+  {
+    "satellite":"FalconSAT-3",
+    "number":"30776",
+    "uplink":"145.840",
+    "downlink":"435.103",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"PFS3-11 12"
+  },
+  {
+    "satellite":"FEES-2",
+    "number":"51441",
+    "uplink":null,
+    "downlink":"145.000\/437.200*",
+    "beacon":null,
+    "mode":"9600bps FSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FIREBIRD-3",
+    "number":"40377",
+    "uplink":null,
+    "downlink":"437.396*\/437.405",
+    "beacon":null,
+    "mode":"19200bps FSK",
+    "callsign":"K7MSU"
+  },
+  {
+    "satellite":"FIREBIRD-4",
+    "number":"40378",
+    "uplink":null,
+    "downlink":"437.219*\/437.230",
+    "beacon":null,
+    "mode":"19200bps FSK",
+    "callsign":"K7MSU"
+  },
+  {
+    "satellite":"FMN-1 (FengMaNiu-1)",
+    "number":"43192",
+    "uplink":"145.945",
+    "downlink":"435.350",
+    "beacon":null,
+    "mode":"9600*bps BPSK FM",
+    "callsign":"BUAABJ"
+  },
+  {
+    "satellite":"FossaSat-2E1",
+    "number":"50985",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E2",
+    "number":"50984",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E3",
+    "number":"50990",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E4",
+    "number":"50987",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E5",
+    "number":"51001",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E6",
+    "number":"50991",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E7",
+    "number":"50991",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E8",
+    "number":"50991",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E9",
+    "number":"50991",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E10",
+    "number":"50991",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E11",
+    "number":"50991",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E12",
+    "number":"50991",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"FossaSat-2E13",
+    "number":"50991",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"9600bps GFSK 125k LoRa*",
+    "callsign":null
+  },
+  {
+    "satellite":"Fox-1B (RadFxSat AO-91)",
+    "number":"43017",
+    "uplink":"435.250",
+    "downlink":"145.960",
+    "beacon":"145.960",
+    "mode":"FM* CTCSS 67.0Hz\/200bps DUV",
+    "callsign":null
+  },
+  {
+    "satellite":"Fox-1C (Cliff AO-95)",
+    "number":"43770",
+    "uplink":"435.300\/1267.300",
+    "downlink":"145.920",
+    "beacon":"145.920",
+    "mode":"FM CTCSS 67.0Hz\/200bps DUV*",
+    "callsign":null
+  },
+  {
+    "satellite":"Fox-1D (AO-92)",
+    "number":"43137",
+    "uplink":"435.350\/1267.350",
+    "downlink":"145.880",
+    "beacon":"145.880",
+    "mode":"FM CTCSS 67.0Hz\/200bps DUV",
+    "callsign":null
+  },
+  {
+    "satellite":"Fox-1E (RadFXsat-2 AO-109)",
+    "number":"47311",
+    "uplink":"145.860-145.890",
+    "downlink":"435.790-435.760",
+    "beacon":"435.750",
+    "mode":"1k2 BPSK SSB CW* FT4*",
+    "callsign":null
+  },
+  {
+    "satellite":"FO-29 (JAS-2)",
+    "number":"24278",
+    "uplink":"145.900-146.000",
+    "downlink":"435.900-435.800",
+    "beacon":"435.795",
+    "mode":"SSB* CW DigiTalker",
+    "callsign":null
+  },
+  {
+    "satellite":"FO-99 (NEXUS)",
+    "number":"43937",
+    "uplink":"145.900-145.930",
+    "downlink":"435.910-435.880",
+    "beacon":"435.900\/437.075*",
+    "mode":"9k6\/38k4FSK pi\/4QPSK CW*",
+    "callsign":"JS1YAV"
+  },
+  {
+    "satellite":"FUNcube-1 (AO-73)",
+    "number":"39444",
+    "uplink":"435.130-435.150",
+    "downlink":"145.970-145.950",
+    "beacon":"145.935",
+    "mode":"1200*bps BPSK SSB",
+    "callsign":null
+  },
+  {
+    "satellite":"FUNcube-4",
+    "number":"43792",
+    "uplink":null,
+    "downlink":"145.895",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":null
+  },
+  {
+    "satellite":"FUNcube-5 (Nayif-1 EO-88)",
+    "number":"42017",
+    "uplink":"435.015-435.045",
+    "downlink":"145.990-145.960",
+    "beacon":"145.940",
+    "mode":"1200bps BPSK SSB",
+    "callsign":null
+  },
+  {
+    "satellite":"FUNcube-6 (JY1Sat JO-97)",
+    "number":"43803",
+    "uplink":"435.100-435.120",
+    "downlink":"145.875-145.855",
+    "beacon":"145.840",
+    "mode":"SSB 1k2*BPSK CW",
+    "callsign":"JY1SAT"
+  },
+  {
+    "satellite":"FUTABA",
+    "number":"53463",
+    "uplink":null,
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1200bps AFSK CW",
+    "callsign":"JG6YBW"
+  },
+  {
+    "satellite":"Geoscan-Edelveis",
+    "number":"53385",
+    "uplink":null,
+    "downlink":"436.200",
+    "beacon":null,
+    "mode":"9600bps GFSK USP",
+    "callsign":"RS20S"
+  },
+  {
+    "satellite":"GOMX-1",
+    "number":"39430",
+    "uplink":null,
+    "downlink":"437.250",
+    "beacon":"437.250",
+    "mode":"1k2\/2k4\/4k8*\/9k6GMSK CW",
+    "callsign":null
+  },
+  {
+    "satellite":"GO-32 (TechSat-1B)",
+    "number":"25397",
+    "uplink":"145.850\/145.930",
+    "downlink":"435.225*\/435.325",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"4XTECH-11 12"
+  },
+  {
+    "satellite":"GRBALPHA",
+    "number":"47959",
+    "uplink":"145.905",
+    "downlink":"437.025",
+    "beacon":"437.025",
+    "mode":"9k6GFSK Digipeater CW",
+    "callsign":"OM9GRB"
+  },
+  {
+    "satellite":"GREENCUBE",
+    "number":"53109",
+    "uplink":null,
+    "downlink":"435.310",
+    "beacon":null,
+    "mode":"0k3\/1k2*\/2k4*\/4k8\/9k6 FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"Grizu-263A",
+    "number":"51025",
+    "uplink":null,
+    "downlink":"435.675\/437.190*",
+    "beacon":null,
+    "mode":"2k4*\/4k8 FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"HA-1 (Zhou Enlai Huai'An-1)",
+    "number":"43156",
+    "uplink":"145.930",
+    "downlink":"436.950",
+    "beacon":"437.350\/437.644*",
+    "mode":"FM 9600bps BPSK",
+    "callsign":"BI4ST"
+  },
+  {
+    "satellite":"Hirogari (OPUSAT-II)",
+    "number":"47930",
+    "uplink":"436.500",
+    "downlink":"145.900",
+    "beacon":"145.900",
+    "mode":"1k2AFSK\/9k6\/13k6GMSK CW",
+    "callsign":"JL3ZKS"
+  },
+  {
+    "satellite":"HITOMI (PRISM)",
+    "number":"33493",
+    "uplink":null,
+    "downlink":"437.425",
+    "beacon":"437.250",
+    "mode":"1k2AFSK 9k6GMSK CW*",
+    "callsign":"JQ1YCX"
+  },
+  {
+    "satellite":"HORYU-4",
+    "number":"41340",
+    "uplink":null,
+    "downlink":"437.375\/2400.300",
+    "beacon":"437.375*",
+    "mode":"1k2 AFSK 9k6 GMSK S-BPSK CW*",
+    "callsign":"JG6YBW"
+  },
+  {
+    "satellite":"HO-68 (XW-1 CAS-1)",
+    "number":"36122",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.790",
+    "mode":"CW",
+    "callsign":"BJ1SA"
+  },
+  {
+    "satellite":"HO-113 (XW-3 CAS-9)",
+    "number":"50466",
+    "uplink":"145.870",
+    "downlink":"435.180",
+    "beacon":null,
+    "mode":"VHF\/UHF SSB*",
+    "callsign":null
+  },
+  {
+    "satellite":"HO-113 (XW-3 CAS-9)",
+    "number":"50466",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.575",
+    "mode":"UHF CW*",
+    "callsign":null
+  },
+  {
+    "satellite":"HO-113 (XW-3 CAS-9)",
+    "number":"50466",
+    "uplink":null,
+    "downlink":"435.725",
+    "beacon":null,
+    "mode":"4k8*GMSK telemetry",
+    "callsign":"CAS9"
+  },
+  {
+    "satellite":"HSU-SAT1",
+    "number":"53462",
+    "uplink":null,
+    "downlink":"437.280",
+    "beacon":"437.280",
+    "mode":"1k2AFSK 9K6GMSK SSTV CW",
+    "callsign":"JS1YHS"
+  },
+  {
+    "satellite":"Humsat-D",
+    "number":"39433",
+    "uplink":null,
+    "downlink":"437.325*\/437.525",
+    "beacon":"437.325",
+    "mode":"1200*bps MSK CW",
+    "callsign":"HUMDE"
+  },
+  {
+    "satellite":"InnoSat-2",
+    "number":"43738",
+    "uplink":null,
+    "downlink":"435.500*\/437.450",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"INSPIREsat-1",
+    "number":"51657",
+    "uplink":null,
+    "downlink":"437.500",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"BCT"
+  },
+  {
+    "satellite":"INS-2TD",
+    "number":"51658",
+    "uplink":null,
+    "downlink":"435.080",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":"INDUST-10"
+  },
+  {
+    "satellite":"ION-MK01",
+    "number":"46274",
+    "uplink":null,
+    "downlink":"437.515",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"ION-SCV 005",
+    "number":"52163",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"IO-86 (LAPAN-A2 ORARI)",
+    "number":"40931",
+    "uplink":"145.880\/145.825",
+    "downlink":"435.880\/145.825",
+    "beacon":"437.425",
+    "mode":"FM tone 88.5Hz\/APRS",
+    "callsign":"YBSAT\/YBOX-1"
+  },
+  {
+    "satellite":"IRIS-A",
+    "number":"51044",
+    "uplink":null,
+    "downlink":"435.575\/436.915*",
+    "beacon":null,
+    "mode":"9600*bps GMSK LoRa",
+    "callsign":"BN0IOT"
+  },
+  {
+    "satellite":"iSat (D-Star ONE)",
+    "number":"43879",
+    "uplink":"437.325",
+    "downlink":"435.525\/435.700*",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":"DP2GOS"
+  },
+  {
+    "satellite":"ISOI (SXC3-219 Medex)",
+    "number":"53381",
+    "uplink":null,
+    "downlink":"437.650",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS19S"
+  },
+  {
+    "satellite":"ISS",
+    "number":"25544",
+    "uplink":"145.825",
+    "downlink":"145.825",
+    "beacon":null,
+    "mode":"1200bps AFSK",
+    "callsign":"RS0ISS ARISS"
+  },
+  {
+    "satellite":"ISS",
+    "number":"25544",
+    "uplink":"145.990",
+    "downlink":"437.800",
+    "beacon":null,
+    "mode":"FM* tone 67.0Hz 9k6*FSK",
+    "callsign":"NA1SS"
+  },
+  {
+    "satellite":"IT-SPINS",
+    "number":"49017",
+    "uplink":null,
+    "downlink":"437.405",
+    "beacon":null,
+    "mode":"19200bps GMSK",
+    "callsign":"K7MSU"
+  },
+  {
+    "satellite":"ITUpSat-1",
+    "number":"35935",
+    "uplink":null,
+    "downlink":"437.325",
+    "beacon":"437.325",
+    "mode":"19200bps GFSK CW*",
+    "callsign":"ITUPSAT"
+  },
+  {
+    "satellite":"JAGSAT-1",
+    "number":"53771",
+    "uplink":null,
+    "downlink":"437.325",
+    "beacon":null,
+    "mode":"9600bps 2GFSK",
+    "callsign":null
+  },
+  {
+    "satellite":"JAS-2 (FO-29)",
+    "number":"24278",
+    "uplink":"145.900-146.000",
+    "downlink":"435.900-435.800",
+    "beacon":"435.795",
+    "mode":"SSB* CW (DigiTalker)",
+    "callsign":null
+  },
+  {
+    "satellite":"JO-97 (JY1Sat FUNcube-6)",
+    "number":"43803",
+    "uplink":"435.100-435.120",
+    "downlink":"145.875-145.855",
+    "beacon":"145.840",
+    "mode":"SSB* 1k2BPSK CW",
+    "callsign":"JY1SAT"
+  },
+  {
+    "satellite":"Juvenile-1F(Shaonian-Xing)",
+    "number":"43199",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"436.370",
+    "mode":"9600bps BPSK",
+    "callsign":"MXSAT-1"
+  },
+  {
+    "satellite":"JY1Sat (FUNcube-6 JO-97)",
+    "number":"43803",
+    "uplink":"435.100-435.120",
+    "downlink":"145.875-145.855",
+    "beacon":"145.840",
+    "mode":"SSB 1k2*BPSK CW",
+    "callsign":"JY1SAT"
+  },
+  {
+    "satellite":"Kaidun-1",
+    "number":"41915",
+    "uplink":null,
+    "downlink":"437.600",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":"AXNWPU-4"
+  },
+  {
+    "satellite":"KAITUO-1B (CAS-3G DCBB)",
+    "number":"40912",
+    "uplink":null,
+    "downlink":"145.475*\/437.950",
+    "beacon":null,
+    "mode":"9k6* GMSK",
+    "callsign":"BJ1SH"
+  },
+  {
+    "satellite":"KAI-1",
+    "number":"53378",
+    "uplink":null,
+    "downlink":"435.665*\/435.765",
+    "beacon":null,
+    "mode":"1k2AFSK 2k4*FSK",
+    "callsign":"RS26S"
+  },
+  {
+    "satellite":"KAZSCISAT-1",
+    "number":"43787",
+    "uplink":null,
+    "downlink":"435.500",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"KITSUNE",
+    "number":"52148",
+    "uplink":null,
+    "downlink":"437.375",
+    "beacon":"400.960",
+    "mode":"4800*bps GMSK CW*",
+    "callsign":"JG6YBW JG6YNH"
+  },
+  {
+    "satellite":"KKS-1 (KISEKI)",
+    "number":"33499",
+    "uplink":null,
+    "downlink":"437.445",
+    "beacon":"437.385",
+    "mode":"1200bps AFSK CW*",
+    "callsign":"JQ1YYY"
+  },
+  {
+    "satellite":"KOSEN-1",
+    "number":"49402",
+    "uplink":null,
+    "downlink":"21.125-21.150",
+    "beacon":"435.525",
+    "mode":"1k2AFSK\/9k6FSK CW*",
+    "callsign":"JR5YGJ"
+  },
+  {
+    "satellite":"KSU-Cubesat",
+    "number":"47954",
+    "uplink":null,
+    "downlink":"437.130",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"KSUC1"
+  },
+  {
+    "satellite":"KUZBASS-300 (SXC3-218 KuzSTU)",
+    "number":"53375",
+    "uplink":null,
+    "downlink":"437.700",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS34S"
+  },
+  {
+    "satellite":"LAPAN-A2 (ORARI IO-86)",
+    "number":"40931",
+    "uplink":"145.880\/145.825",
+    "downlink":"435.880\/145.825",
+    "beacon":"437.425",
+    "mode":"1k2*AFSK FM tone 88.5Hz",
+    "callsign":"YBSAT\/YBOX-1"
+  },
+  {
+    "satellite":"LEDSAT",
+    "number":"49069",
+    "uplink":null,
+    "downlink":"435.190",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"Light-1",
+    "number":"51509",
+    "uplink":null,
+    "downlink":"437.710",
+    "beacon":null,
+    "mode":"1k2 BPSK 2k4*GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"LightSail-2",
+    "number":"44420",
+    "uplink":null,
+    "downlink":"437.025",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"KK6HIT-10"
+  },
+  {
+    "satellite":"LilacSat-2 (CAS-3H)",
+    "number":"40908",
+    "uplink":"144.350\/144.390",
+    "downlink":"144.390\/437.225*",
+    "beacon":"437.200",
+    "mode":"1k2\/4k8*\/9k6 AFSK\/GFSK",
+    "callsign":"BJ1SI"
+  },
+  {
+    "satellite":"LituanicaSAT-2 (LT01)",
+    "number":"42768",
+    "uplink":null,
+    "downlink":"437.265",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"LY0LS"
+  },
+  {
+    "satellite":"LO-74 (CubeBug-2)",
+    "number":"39440",
+    "uplink":null,
+    "downlink":"437.445",
+    "beacon":null,
+    "mode":"1k2AFSK 9k6FSK",
+    "callsign":"CUBEB2-6"
+  },
+  {
+    "satellite":"LO-87 (NuSat-1)",
+    "number":"41557",
+    "uplink":null,
+    "downlink":"436.445",
+    "beacon":null,
+    "mode":"9k6\/19k2\/40k0* GFSK",
+    "callsign":null
+  },
+  {
+    "satellite":"LO-90 (LilacSat-1 CN02)",
+    "number":"42725",
+    "uplink":"145.985",
+    "downlink":"436.510",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"ON02CN"
+  },
+  {
+    "satellite":"Lucky-7",
+    "number":"44406",
+    "uplink":null,
+    "downlink":"437.525",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GFSK",
+    "callsign":null
+  },
+  {
+    "satellite":"LUME-1",
+    "number":"43908",
+    "uplink":null,
+    "downlink":"437.060",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"Max Valier Sat",
+    "number":"42778",
+    "uplink":null,
+    "downlink":"145.860",
+    "beacon":"145.960*\/437.325",
+    "mode":"CW",
+    "callsign":"II3MV"
+  },
+  {
+    "satellite":"MCubed-2",
+    "number":"39469",
+    "uplink":null,
+    "downlink":"437.479",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"NOCALL"
+  },
+  {
+    "satellite":"MeznSat",
+    "number":"46489",
+    "uplink":null,
+    "downlink":"436.600",
+    "beacon":null,
+    "mode":"1k2\/2k4\/4k8* BPSK",
+    "callsign":"A68MZ"
+  },
+  {
+    "satellite":"MIET-AIS (SXC3-214)",
+    "number":"53377",
+    "uplink":null,
+    "downlink":"437.900",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS28S"
+  },
+  {
+    "satellite":"MIMAN",
+    "number":"52900",
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":"2400bps FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"MONITOR-1 (SXC3-212 MGU)",
+    "number":"53374",
+    "uplink":null,
+    "downlink":"437.550",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS32S"
+  },
+  {
+    "satellite":"MOVE-2",
+    "number":"43780",
+    "uplink":"437.800",
+    "downlink":"145.950",
+    "beacon":"145.950",
+    "mode":"12k5 BPSK CW",
+    "callsign":"DB0MVE"
+  },
+  {
+    "satellite":"MO-105 (SMOG-P)",
+    "number":"44832",
+    "uplink":null,
+    "downlink":"437.150",
+    "beacon":null,
+    "mode":"12.5kbps GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"MO-110 (SMOG-1)",
+    "number":"47964",
+    "uplink":null,
+    "downlink":"437.345",
+    "beacon":"437.345",
+    "mode":"2GMSK CW",
+    "callsign":null
+  },
+  {
+    "satellite":"MO-112 (MIR-SAT1)",
+    "number":"48868",
+    "uplink":"145.9875",
+    "downlink":"436.925",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"3B8MIR"
+  },
+  {
+    "satellite":"MXSAT-1(Shaonian-Xing Juvenile-1F)",
+    "number":"43199",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"436.370",
+    "mode":"9600bps BPSK",
+    "callsign":"MXSAT-1"
+  },
+  {
+    "satellite":"MYSAT-1",
+    "number":"44045",
+    "uplink":null,
+    "downlink":"435.775",
+    "beacon":null,
+    "mode":"1k2*\/4k8\/9k6 BPSK",
+    "callsign":"A68MY"
+  },
+  {
+    "satellite":"MYSAT-2 (DHABISAT)",
+    "number":"49017",
+    "uplink":null,
+    "downlink":"436.908",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":"A68MX"
+  },
+  {
+    "satellite":"M-Cubed",
+    "number":"37855",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"NanosatC-Br2",
+    "number":"47950",
+    "uplink":null,
+    "downlink":"145.865",
+    "beacon":null,
+    "mode":"1k2*\/2k4\/4k8\/9k6BPSK",
+    "callsign":"NCBR2"
+  },
+  {
+    "satellite":"Nayif-1 (FUNcube-5 EO-88)",
+    "number":"42017",
+    "uplink":"435.015-435.045",
+    "downlink":"145.990-145.960",
+    "beacon":"145.940",
+    "mode":"1200*bps BPSK SSB",
+    "callsign":null
+  },
+  {
+    "satellite":"NETSAT-1",
+    "number":"46506",
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"DP2NSA"
+  },
+  {
+    "satellite":"NETSAT-2",
+    "number":"46507",
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"DP2NSB"
+  },
+  {
+    "satellite":"NETSAT-3",
+    "number":"46505",
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"DP2NSC"
+  },
+  {
+    "satellite":"NETSAT-4",
+    "number":"46504",
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"DP2NSD"
+  },
+  {
+    "satellite":"NEXUS (FO-99)",
+    "number":"43937",
+    "uplink":"145.900-145.930",
+    "downlink":"435.910-435.880",
+    "beacon":"435.900\/437.075*",
+    "mode":"9k6\/38k4FSK pi\/4QPSK CW*",
+    "callsign":"JS1YAV"
+  },
+  {
+    "satellite":"Norbi",
+    "number":"46494",
+    "uplink":null,
+    "downlink":"436.700",
+    "beacon":null,
+    "mode":"9600bps FSK\/250k_LoRa",
+    "callsign":"CUBSAT"
+  },
+  {
+    "satellite":"NO-44 (PCSAT-1)",
+    "number":"26931",
+    "uplink":"145.827",
+    "downlink":"145.827",
+    "beacon":null,
+    "mode":"1200bps AFSK",
+    "callsign":"(A) W3ADO-1"
+  },
+  {
+    "satellite":"NO-44 (PCSAT-1)",
+    "number":"26931",
+    "uplink":"435.250",
+    "downlink":"145.827",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"(A) PCSAT-1"
+  },
+  {
+    "satellite":"NO-104 (PSAT-2)",
+    "number":"44354",
+    "uplink":"28.120\/145.825",
+    "downlink":"145.825\/435.350*\/437.605",
+    "beacon":null,
+    "mode":"1k2 SSTV* PSK31",
+    "callsign":null
+  },
+  {
+    "satellite":"NO-116 (SanoSat-1)",
+    "number":"51031",
+    "uplink":null,
+    "downlink":"436.235",
+    "beacon":"436.235",
+    "mode":"500*bps GFSK RTTY* CW",
+    "callsign":"AM9NPQ"
+  },
+  {
+    "satellite":"OPS-SAT",
+    "number":"44878",
+    "uplink":null,
+    "downlink":"437.200",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"DP0OPS"
+  },
+  {
+    "satellite":"ORBICRAFT-ZORKIY",
+    "number":"47960",
+    "uplink":null,
+    "downlink":"437.850*\/437.950\/10465.000",
+    "beacon":null,
+    "mode":"2k4\/9k6*FSK DVB-S2",
+    "callsign":"RS15S"
+  },
+  {
+    "satellite":"OreSat-0",
+    "number":"52017",
+    "uplink":null,
+    "downlink":"436.500\/2425.000",
+    "beacon":"436.500",
+    "mode":"9k6FSK 96kGMSK 1M_DPSK CW",
+    "callsign":"KJ7SAT"
+  },
+  {
+    "satellite":"Painani-1",
+    "number":"44365",
+    "uplink":null,
+    "downlink":"437.475",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"SPACE"
+  },
+  {
+    "satellite":"Painani-2",
+    "number":"48942",
+    "uplink":null,
+    "downlink":"437.475\/2410.300",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"PCSAT-1 (NO-44)",
+    "number":"26931",
+    "uplink":"145.827",
+    "downlink":"145.827",
+    "beacon":null,
+    "mode":"1200bps AFSK",
+    "callsign":"(A) W3ADO-1"
+  },
+  {
+    "satellite":"Phase-4A (Es'Hail-2 QO-100)",
+    "number":"43700",
+    "uplink":"2400.050-2400.300",
+    "downlink":"10489.550-10489.800",
+    "beacon":null,
+    "mode":"Linear  transponder",
+    "callsign":null
+  },
+  {
+    "satellite":"PicSat",
+    "number":"43132",
+    "uplink":"145.910",
+    "downlink":"435.525",
+    "beacon":null,
+    "mode":"1k2*\/9k6 BPSK FM",
+    "callsign":"PICSAT-2"
+  },
+  {
+    "satellite":"PLANETUM-1",
+    "number":"52738",
+    "uplink":"145.925",
+    "downlink":"436.680",
+    "beacon":"436.680",
+    "mode":"9k6*GFSK CW Digipeater",
+    "callsign":null
+  },
+  {
+    "satellite":"PlantSat",
+    "number":"52188",
+    "uplink":null,
+    "downlink":"437.240",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"PLATFORM-1",
+    "number":"52770",
+    "uplink":null,
+    "downlink":"400.360",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GFSK",
+    "callsign":"SS2141"
+  },
+  {
+    "satellite":"PolyITAN-1",
+    "number":"40042",
+    "uplink":null,
+    "downlink":"437.677",
+    "beacon":"437.677",
+    "mode":"9600*bps BFSK CW",
+    "callsign":"EM0UKP"
+  },
+  {
+    "satellite":"PO-101 (Diwata-2)",
+    "number":"43678",
+    "uplink":"437.500",
+    "downlink":"145.900",
+    "beacon":"145.900",
+    "mode":"FM* tone 141.3Hz CW",
+    "callsign":"D1W2PH"
+  },
+  {
+    "satellite":"PRISM (HITOMI)",
+    "number":"33493",
+    "uplink":null,
+    "downlink":"437.425",
+    "beacon":"437.250",
+    "mode":"1k2AFSK 9k6GMSK CW*",
+    "callsign":"JQ1YCX"
+  },
+  {
+    "satellite":"PSAT-2 (NO-104)",
+    "number":"44354",
+    "uplink":"29.350\/145.825",
+    "downlink":"145.825\/435.350*\/437.605",
+    "beacon":null,
+    "mode":"1k2 SSTV* PSK31",
+    "callsign":null
+  },
+  {
+    "satellite":"QO-100 (Phase-4A Es'Hail-2)",
+    "number":"43700",
+    "uplink":"2400.050-2400.300",
+    "downlink":"10489.550-10489.800",
+    "beacon":null,
+    "mode":"Linear  transponder",
+    "callsign":null
+  },
+  {
+    "satellite":"RadFxSat (Fox-1B AO-91)",
+    "number":"43017",
+    "uplink":"435.250",
+    "downlink":"145.960",
+    "beacon":"145.960",
+    "mode":"FM* CTCSS 67.0Hz\/200bps DUV",
+    "callsign":null
+  },
+  {
+    "satellite":"RadFXsat-2 (Fox-1E AO-109)",
+    "number":"47311",
+    "uplink":"145.860-145.890",
+    "downlink":"435.790-435.760",
+    "beacon":"435.750",
+    "mode":"1k2 BPSK SSB CW* FT4*",
+    "callsign":null
+  },
+  {
+    "satellite":"RANDEV",
+    "number":"52898",
+    "uplink":null,
+    "downlink":"436.030",
+    "beacon":null,
+    "mode":"1k2*\/9k6 BPSK",
+    "callsign":"RANDEV"
+  },
+  {
+    "satellite":"Reaktor Hello World",
+    "number":"43743",
+    "uplink":null,
+    "downlink":"437.775\/2410.000",
+    "beacon":"437.775",
+    "mode":"9k6* 2GFSK\/1MbpsMSK CW*",
+    "callsign":"OH2RHW1"
+  },
+  {
+    "satellite":"RESHUCUBE (SXC3-2111 SibSU)",
+    "number":"53382",
+    "uplink":null,
+    "downlink":"435.380",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS8S"
+  },
+  {
+    "satellite":"ROBUSTA-1B",
+    "number":"42792",
+    "uplink":null,
+    "downlink":"437.325",
+    "beacon":"437.325",
+    "mode":"1200bps AFSK CW",
+    "callsign":"FX6FR"
+  },
+  {
+    "satellite":"ROBUSTA-1D (CELESTA)",
+    "number":"53111",
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":"1k2AFSK 2k4*\/9k6GMSK",
+    "callsign":"FX6FRB"
+  },
+  {
+    "satellite":"SALSAT",
+    "number":"46495",
+    "uplink":null,
+    "downlink":"435.900\/435.950",
+    "beacon":null,
+    "mode":"1200bps AFSK",
+    "callsign":null
+  },
+  {
+    "satellite":"SanoSat-1 (NO-116)",
+    "number":"51031",
+    "uplink":null,
+    "downlink":"436.235",
+    "beacon":"436.235",
+    "mode":"500*bps GFSK RTTY* CW",
+    "callsign":"AM9NPQ"
+  },
+  {
+    "satellite":"SaudiSat-1C (SO-50)",
+    "number":"27607",
+    "uplink":"145.850",
+    "downlink":"436.795",
+    "beacon":null,
+    "mode":"FM* tone 67.0Hz",
+    "callsign":null
+  },
+  {
+    "satellite":"SEEDS-II (CO-66)",
+    "number":"32791",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":"437.485",
+    "mode":"1k2AFSK CW* DigiTalker",
+    "callsign":"JQ1YGU"
+  },
+  {
+    "satellite":"SelfieSat",
+    "number":"53951",
+    "uplink":null,
+    "downlink":"437.500",
+    "beacon":null,
+    "mode":"9600bps 2FSK",
+    "callsign":"WJ2XOX"
+  },
+  {
+    "satellite":"Shaonian-Xing(Juvenile-1F)",
+    "number":"43199",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"436.370",
+    "mode":"9600bps BPSK",
+    "callsign":"MXSAT-1"
+  },
+  {
+    "satellite":"Siren (SXC3-217)",
+    "number":"53384",
+    "uplink":null,
+    "downlink":"437.750",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS30S"
+  },
+  {
+    "satellite":"Skoltech-B1",
+    "number":"53379",
+    "uplink":null,
+    "downlink":"435.000*\/435.600",
+    "beacon":null,
+    "mode":"9600bps GMSK USP",
+    "callsign":"R0AJU-1"
+  },
+  {
+    "satellite":"Skoltech-B2",
+    "number":"53380",
+    "uplink":null,
+    "downlink":"435.000*\/435.600",
+    "beacon":null,
+    "mode":"9600bps GMSK USP",
+    "callsign":"R0AJU-1"
+  },
+  {
+    "satellite":"SMOG-1 (MO-110)",
+    "number":"47964",
+    "uplink":null,
+    "downlink":"437.345",
+    "beacon":"437.345",
+    "mode":"2GMSK CW",
+    "callsign":null
+  },
+  {
+    "satellite":"SMOG-P (MO-105)",
+    "number":"44832",
+    "uplink":null,
+    "downlink":"437.150",
+    "beacon":null,
+    "mode":"12.5kbps GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"Sokrat",
+    "number":"44404",
+    "uplink":null,
+    "downlink":"436.000",
+    "beacon":null,
+    "mode":"4800bps mobitex GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"SOMP",
+    "number":"39134",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":"437.503",
+    "mode":"1200bps AFSK CW*",
+    "callsign":"DP0TUD"
+  },
+  {
+    "satellite":"SOMP-2B",
+    "number":"47445",
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"DP2TUD"
+  },
+  {
+    "satellite":"SO-50 (SaudiSat-1C)",
+    "number":"27607",
+    "uplink":"145.850",
+    "downlink":"436.795",
+    "beacon":null,
+    "mode":"FM* tone 67.0Hz",
+    "callsign":null
+  },
+  {
+    "satellite":"SO-114 (EASAT-2)",
+    "number":"51081",
+    "uplink":"145.875",
+    "downlink":"436.666",
+    "beacon":"436.666",
+    "mode":"1k2\/2k4 AFSK APRS FM CW*",
+    "callsign":"AM5SAT"
+  },
+  {
+    "satellite":"Sparrow (D-Star ONE)",
+    "number":"43881",
+    "uplink":"437.325",
+    "downlink":"435.525\/435.700*",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":"DP1GOS"
+  },
+  {
+    "satellite":"SPROUT",
+    "number":"39770",
+    "uplink":null,
+    "downlink":"437.525",
+    "beacon":"437.525",
+    "mode":"1k2AFSK 9k6GMSK CW*",
+    "callsign":"JQ1ZJQ"
+  },
+  {
+    "satellite":"STARS (KUKAI mother)",
+    "number":"33498",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":"437.305",
+    "mode":"1200bps FM CW*",
+    "callsign":"JR5YBN"
+  },
+  {
+    "satellite":"STARS (KUKAI daughter)",
+    "number":"33498",
+    "uplink":null,
+    "downlink":"437.465",
+    "beacon":"437.275",
+    "mode":"1200bps FM CW*",
+    "callsign":"JR5YBO"
+  },
+  {
+    "satellite":"STEP CubeLab (STEP-1)",
+    "number":"43138",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":"437.485",
+    "mode":"9600bps FSK CW*",
+    "callsign":null
+  },
+  {
+    "satellite":"STEP CubeLab-II",
+    "number":"52897",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"STEP2"
+  },
+  {
+    "satellite":"STRaND-1",
+    "number":"39090",
+    "uplink":null,
+    "downlink":"437.568",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"SUCHAI",
+    "number":"42788",
+    "uplink":null,
+    "downlink":"437.225",
+    "beacon":"437.229",
+    "mode":"CW",
+    "callsign":"SUCHAI"
+  },
+  {
+    "satellite":"SUCHAI-2",
+    "number":"52192",
+    "uplink":null,
+    "downlink":"437.230",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"SUCHAI-3",
+    "number":"52191",
+    "uplink":null,
+    "downlink":"437.250",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null
+  },
+  {
+    "satellite":"Suomi-100",
+    "number":"43804",
+    "uplink":null,
+    "downlink":"437.775\/2410.000",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"SWSU-55 No3 (SWGU No7)",
+    "number":"53309",
+    "uplink":null,
+    "downlink":"437.050\/437.075",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS1S"
+  },
+  {
+    "satellite":"SWSU-55 No5 (SWGU No9)",
+    "number":"53308",
+    "uplink":null,
+    "downlink":"437.050\/437.100",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS3S"
+  },
+  {
+    "satellite":"SWSU-55 No6 (SWGU No10)",
+    "number":"53321",
+    "uplink":null,
+    "downlink":"437.050\/437.087",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS4S"
+  },
+  {
+    "satellite":"SWSU-55 No7 (SWGU No11)",
+    "number":"53310",
+    "uplink":null,
+    "downlink":"437.050\/437.1125",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS5S"
+  },
+  {
+    "satellite":"SWSU-55 No8 (SWGU No12)",
+    "number":"53311",
+    "uplink":null,
+    "downlink":"437.050\/437.000",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS6S"
+  },
+  {
+    "satellite":"SXC3-212 (MGU MONITOR-1)",
+    "number":"53374",
+    "uplink":null,
+    "downlink":"437.550",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS32S"
+  },
+  {
+    "satellite":"SXC3-213 (HSE-AIS CubeSX-HSE-2)",
+    "number":"53383",
+    "uplink":null,
+    "downlink":"435.570",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS21S"
+  },
+  {
+    "satellite":"SXC3-214 (MIET-AIS)",
+    "number":"53377",
+    "uplink":null,
+    "downlink":"437.900",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS28S"
+  },
+  {
+    "satellite":"SXC3-215 (Vizard)",
+    "number":"53386",
+    "uplink":null,
+    "downlink":"437.800",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS33S"
+  },
+  {
+    "satellite":"SXC3-216 (UTMN)",
+    "number":"53376",
+    "uplink":null,
+    "downlink":"435.670",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS23S"
+  },
+  {
+    "satellite":"SXC3-217 (Siren)",
+    "number":"53384",
+    "uplink":null,
+    "downlink":"437.750",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS30S"
+  },
+  {
+    "satellite":"SXC3-218 (KuzSTU KUZBASS-300)",
+    "number":"53375",
+    "uplink":null,
+    "downlink":"437.700",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS34S"
+  },
+  {
+    "satellite":"SXC3-219 (Medex ISOI)",
+    "number":"53381",
+    "uplink":null,
+    "downlink":"437.650",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS19S"
+  },
+  {
+    "satellite":"SXC3-2110 (Voenmeh)",
+    "number":"53373",
+    "uplink":null,
+    "downlink":"436.050",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS29S"
+  },
+  {
+    "satellite":"SXC3-2111 (SibSU RESHUCUBE)",
+    "number":"53382",
+    "uplink":null,
+    "downlink":"435.380",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS8S"
+  },
+  {
+    "satellite":"TBEx-A",
+    "number":"44356",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"KF6RFX"
+  },
+  {
+    "satellite":"TBEx-B",
+    "number":"44359",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"KF6RFX"
+  },
+  {
+    "satellite":"TechSat-1B (GO-32)",
+    "number":"25397",
+    "uplink":"145.850\/145.930",
+    "downlink":"435.225*\/435.325",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"4XTECH-11 12"
+  },
+  {
+    "satellite":"TeikyoSat-4",
+    "number":"49396",
+    "uplink":null,
+    "downlink":"437.450\/5831.000",
+    "beacon":"437.450",
+    "mode":"1k2AFSK\/9k6GMSK\/115k2FSK CW*",
+    "callsign":"JS1YHH"
+  },
+  {
+    "satellite":"Tevel-1",
+    "number":"51013",
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"T1OFK"
+  },
+  {
+    "satellite":"Tevel-2",
+    "number":"51069",
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"T2YRC"
+  },
+  {
+    "satellite":"Tevel-3",
+    "number":"50988",
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"T3TYB"
+  },
+  {
+    "satellite":"Tevel-4",
+    "number":"51063",
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"T4ATA"
+  },
+  {
+    "satellite":"Tevel-5",
+    "number":"50998",
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"T5SNG"
+  },
+  {
+    "satellite":"Tevel-6",
+    "number":"50999",
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"T6NZR"
+  },
+  {
+    "satellite":"Tevel-7",
+    "number":"51062",
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"T7ADM"
+  },
+  {
+    "satellite":"Tevel-8",
+    "number":"50989",
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"T8GBS"
+  },
+  {
+    "satellite":"Tianwang-1A (TW-1A SECM-1)",
+    "number":"40928",
+    "uplink":null,
+    "downlink":"435.645",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"Tianwang-1C (TW-1C NJFA-1)",
+    "number":"40926",
+    "uplink":null,
+    "downlink":"435.645",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"Tianyi-2 (TY-2 Xiaoxiang-2)",
+    "number":"43155",
+    "uplink":"435.350\/2403.000\/5653.000",
+    "downlink":"435.350*\/2403.000\/5833.000",
+    "beacon":null,
+    "mode":"9k6 GMSK\/5Mbps OFDM",
+    "callsign":null
+  },
+  {
+    "satellite":"Tianyi-4 (TY-4 Xiaoxiang-4)",
+    "number":"43669",
+    "uplink":"435.925\/2409.000\/5659.000",
+    "downlink":"435.925*\/2409.000\/5839.000",
+    "beacon":null,
+    "mode":"9k6 GMSK\/5Mbps OFDM",
+    "callsign":null
+  },
+  {
+    "satellite":"TigriSat",
+    "number":"40043",
+    "uplink":null,
+    "downlink":"435.000",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"HNATIG"
+  },
+  {
+    "satellite":"TO-108 (CAS-6 TIANQIN-1)",
+    "number":"44881",
+    "uplink":"435.270-435.290",
+    "downlink":"145.935-145.915",
+    "beacon":null,
+    "mode":"SSB*",
+    "callsign":null
+  },
+  {
+    "satellite":"TRSI-2",
+    "number":"52419",
+    "uplink":null,
+    "downlink":"437.075",
+    "beacon":null,
+    "mode":"2400bps BPSK",
+    "callsign":null
+  },
+  {
+    "satellite":"TRSI-3",
+    "number":"52420",
+    "uplink":null,
+    "downlink":"437.075",
+    "beacon":"437.075",
+    "mode":"MFSK CW",
+    "callsign":null
+  },
+  {
+    "satellite":"Tsiolkovsky_Ryazan-1",
+    "number":"53312",
+    "uplink":null,
+    "downlink":"437.050\/437.025",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS9S"
+  },
+  {
+    "satellite":"Tsiolkovsky_Ryazan-2",
+    "number":"53313",
+    "uplink":null,
+    "downlink":"437.050\/437.0125",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS12S"
+  },
+  {
+    "satellite":"TTU100",
+    "number":"46312",
+    "uplink":null,
+    "downlink":"435.450*\/10465.000",
+    "beacon":"ES1WS",
+    "mode":"9k6* FSK\/GMSK\/MSK\/OQPSK",
+    "callsign":null
+  },
+  {
+    "satellite":"TY-4 (Tianyi-4 Xiaoxiang-4)",
+    "number":"43669",
+    "uplink":"435.925\/2409.000\/5659.000",
+    "downlink":"435.925*\/2409.000\/5839.000",
+    "beacon":null,
+    "mode":"9k6 GMSK\/5Mbps OFDM",
+    "callsign":null
+  },
+  {
+    "satellite":"UniSat-6",
+    "number":"40012",
+    "uplink":null,
+    "downlink":"437.421",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"II0US"
+  },
+  {
+    "satellite":"UniSat-7",
+    "number":"47945",
+    "uplink":null,
+    "downlink":"437.425",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"II0US"
+  },
+  {
+    "satellite":"UO-11 (UoSAT-2)",
+    "number":"14781",
+    "uplink":null,
+    "downlink":"145.826*\/435.025",
+    "beacon":"2401.500",
+    "mode":"(V)FM (S)PSK",
+    "callsign":"UOSAT-2"
+  },
+  {
+    "satellite":"UPMSat-2",
+    "number":"46276",
+    "uplink":null,
+    "downlink":"437.405",
+    "beacon":null,
+    "mode":"1200bps BFSK",
+    "callsign":"UPMST2"
+  },
+  {
+    "satellite":"UTMN (SXC3-216)",
+    "number":"53376",
+    "uplink":null,
+    "downlink":"435.670",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS23S"
+  },
+  {
+    "satellite":"UVSQ-Sat",
+    "number":"47438",
+    "uplink":"145.905",
+    "downlink":"437.020",
+    "beacon":null,
+    "mode":"1k2\/9k6* BPSK FM*",
+    "callsign":"LATMOS-1"
+  },
+  {
+    "satellite":"UWE-4",
+    "number":"43880",
+    "uplink":"437.375",
+    "downlink":"435.600*\/437.375\/437.385",
+    "beacon":null,
+    "mode":"9600bps FSK Digipeater",
+    "callsign":"DP0UWH"
+  },
+  {
+    "satellite":"VDNH-80",
+    "number":"44392",
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":"4800bps mobitex",
+    "callsign":null
+  },
+  {
+    "satellite":"VELOX-III",
+    "number":"41935",
+    "uplink":null,
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1200bps AFSK CW",
+    "callsign":"JG6YBW"
+  },
+  {
+    "satellite":"Vizard (SXC3-215)",
+    "number":"53386",
+    "uplink":null,
+    "downlink":"437.800",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS33S"
+  },
+  {
+    "satellite":"Voenmeh (SXC3-2110)",
+    "number":"53373",
+    "uplink":null,
+    "downlink":"436.050",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS29S"
+  },
+  {
+    "satellite":"VZLUsat-1 (CZ02)",
+    "number":"42790",
+    "uplink":null,
+    "downlink":"437.240",
+    "beacon":"437.240",
+    "mode":"4800bps MSK CW*",
+    "callsign":"VZLUSAT1"
+  },
+  {
+    "satellite":"VZLUsat-2",
+    "number":"51085",
+    "uplink":null,
+    "downlink":"437.325",
+    "beacon":null,
+    "mode":"1k2\/4k8\/9k6 GMSK",
+    "callsign":null
+  },
+  {
+    "satellite":"Xiaoxiang-2 (TY-2 Tianyi-2)",
+    "number":"43155",
+    "uplink":"435.350\/2403.000\/5653.000",
+    "downlink":"435.350*\/2403.000\/5833.000",
+    "beacon":null,
+    "mode":"9k6 GMSK\/5Mbps OFDM",
+    "callsign":null
+  },
+  {
+    "satellite":"Xiaoxiang-4 (TY-4 Tianyi-4)",
+    "number":"43669",
+    "uplink":"435.925\/2409.000\/5659.000",
+    "downlink":"435.925*\/2409.000\/5839.000",
+    "beacon":null,
+    "mode":"9k6 GMSK\/5Mbps OFDM",
+    "callsign":null
+  },
+  {
+    "satellite":"XI-IV (CO-57)",
+    "number":"27848",
+    "uplink":null,
+    "downlink":"437.490",
+    "beacon":"436.848",
+    "mode":"1200bps AFSK CW*",
+    "callsign":"JQ1YCW"
+  },
+  {
+    "satellite":"XI-V (CO-58)",
+    "number":"28895",
+    "uplink":null,
+    "downlink":"437.345",
+    "beacon":"437.465",
+    "mode":"1200bps AFSK CW*",
+    "callsign":"JQ1YGW"
+  },
+  {
+    "satellite":"XW-1 (HO-68 CAS-1)",
+    "number":"36122",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.790",
+    "mode":"CW",
+    "callsign":"BJ1SA"
+  },
+  {
+    "satellite":"XW-2A (CAS-3A)",
+    "number":"40903",
+    "uplink":"435.030-435.050",
+    "downlink":"145.685-145.665",
+    "beacon":"145.640\/145.660",
+    "mode":"9k6\/19k2 GMSK\/CW*",
+    "callsign":"BJ1SB"
+  },
+  {
+    "satellite":"XW-2B (CAS-3B)",
+    "number":"40911",
+    "uplink":"435.090-435.110",
+    "downlink":"145.750-145.730",
+    "beacon":"145.705\/145.725",
+    "mode":"9k6\/19k2 GMSK\/CW*",
+    "callsign":"BJ1SC"
+  },
+  {
+    "satellite":"XW-2C (CAS-3C)",
+    "number":"40906",
+    "uplink":"435.150-435.170",
+    "downlink":"145.815-145.795",
+    "beacon":"145.770\/145.790",
+    "mode":"9k6\/19k2 GMSK\/CW*",
+    "callsign":"BJ1SD"
+  },
+  {
+    "satellite":"XW-2D (CAS-3D)",
+    "number":"40907",
+    "uplink":"435.210-435.230",
+    "downlink":"145.880-145.860",
+    "beacon":"145.835\/145.855",
+    "mode":"9k6\/19k2 GMSK\/CW*",
+    "callsign":"BJ1SE"
+  },
+  {
+    "satellite":"XW-2E (CAS-3E)",
+    "number":"40909",
+    "uplink":"435.270-435.290",
+    "downlink":"145.935-145.915",
+    "beacon":"145.890\/145.910",
+    "mode":"9k6 GMSK\/CW*",
+    "callsign":"BJ1SF"
+  },
+  {
+    "satellite":"XW-2F (CAS-3F)",
+    "number":"40910",
+    "uplink":"435.330-435.350",
+    "downlink":"146.000-145.980",
+    "beacon":"145.955\/145.975",
+    "mode":"9k6 GMSK\/CW*",
+    "callsign":"BJ1SG"
+  },
+  {
+    "satellite":"XW-3 (CAS-9 HO-113)",
+    "number":"50466",
+    "uplink":"145.870",
+    "downlink":"435.180",
+    "beacon":null,
+    "mode":"VHF\/UHF SSB*",
+    "callsign":null
+  },
+  {
+    "satellite":"XW-3 (CAS-9 HO-113)",
+    "number":"50466",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.575",
+    "mode":"UHF CW*",
+    "callsign":null
+  },
+  {
+    "satellite":"XW-3 (CAS-9 HO-113)",
+    "number":"50466",
+    "uplink":null,
+    "downlink":"435.725",
+    "beacon":null,
+    "mode":"4k8*GMSK telemetry",
+    "callsign":"CAS9"
+  },
+  {
+    "satellite":"Yarilo-1",
+    "number":"46490",
+    "uplink":null,
+    "downlink":"435.350",
+    "beacon":null,
+    "mode":null,
+    "callsign":null
+  },
+  {
+    "satellite":"Yarilo-2",
+    "number":"46490",
+    "uplink":null,
+    "downlink":"435.550",
+    "beacon":null,
+    "mode":null,
+    "callsign":null
+  },
+  {
+    "satellite":"ZACube-1",
+    "number":"39417",
+    "uplink":"145.860",
+    "downlink":"437.355",
+    "beacon":"14.099",
+    "mode":"1k2AFSK\/9k6* GMSK CW",
+    "callsign":"123456"
+  },
+  {
+    "satellite":"Zhou Enlai (Huai'An-1 HA-1)",
+    "number":"43156",
+    "uplink":"145.930",
+    "downlink":"436.950",
+    "beacon":"437.350\/437.644*",
+    "mode":"FM 9600bps BPSK",
+    "callsign":"BI4ST"
+  },
+  {
+    "satellite":"Z-Sat",
+    "number":"49399",
+    "uplink":"435.480",
+    "downlink":"145.875",
+    "beacon":"145.875",
+    "mode":"9k6GMSK FM CW*",
+    "callsign":"JJ2YPO"
+  }
+]

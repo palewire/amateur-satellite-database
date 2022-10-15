@@ -8627,7 +8627,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-2 (Radio Sputnik 2)",
@@ -8637,7 +8637,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-3 (Radio Sputnik 3)",
@@ -8647,7 +8647,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-4 (Radio Sputnik 4)",
@@ -8657,7 +8657,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-5 (Radio Sputnik 5)",
@@ -8667,7 +8667,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-6 (Radio Sputnik 6)",
@@ -8677,7 +8677,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-7 (Radio Sputnik 7)",
@@ -8687,7 +8687,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-8 (Radio Sputnik 8)",
@@ -8697,7 +8697,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-9 (Radio Sputnik 9)",
@@ -8707,7 +8707,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Project Canceled"
+    "status":"project canceled"
   },
   {
     "satellite":"RS-10 (COSMOS 1861)",
@@ -8717,7 +8717,7 @@
     "beacon":"29.357\/29.403",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-11 (COSMOS 1861)",
@@ -8727,7 +8727,7 @@
     "beacon":"29.357\/29.403",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-12 (COSMOS 2123)",
@@ -8737,7 +8737,7 @@
     "beacon":"29.408",
     "mode":"SSB CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-13 (COSMOS 2123)",
@@ -8747,7 +8747,7 @@
     "beacon":"145.862",
     "mode":"SSB CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-14 (Informator-1)",
@@ -8757,7 +8757,7 @@
     "beacon":"145.822\/145948",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-15 (Radio Rosto)",
@@ -8767,7 +8767,7 @@
     "beacon":"29.3525\/29.3987",
     "mode":"CW",
     "callsign":null,
-    "status":"Unknown"
+    "status":"unknown"
   },
   {
     "satellite":"RS-16 (Mozhayets-2)",
@@ -8837,7 +8837,7 @@
     "beacon":"432.098\/435.352",
     "mode":"CW",
     "callsign":null,
-    "status":"Unknown"
+    "status":"unknown"
   },
   {
     "satellite":"RS-23 (Tatyana)",
@@ -8847,7 +8847,7 @@
     "beacon":"435.215\/435.315",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-24",
@@ -8857,7 +8857,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Unknown"
+    "status":"unknown"
   },
   {
     "satellite":"RS-25 (Mozhayets-5)",
@@ -8867,7 +8867,7 @@
     "beacon":"435.325",
     "mode":"CW",
     "callsign":null,
-    "status":"Unknown"
+    "status":"unknown"
   },
   {
     "satellite":"RS-26 (Sinah-1)",
@@ -8877,7 +8877,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Engineering"
+    "status":"engineering"
   },
   {
     "satellite":"RS-27 (Baumanets-1)",
@@ -8887,7 +8887,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Launch failed"
+    "status":"launch failed"
   },
   {
     "satellite":"RS-28 (UgatuSat)",
@@ -8897,7 +8897,7 @@
     "beacon":"435.264",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-29 (Sterkh)",
@@ -8907,7 +8907,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"ID reserved"
+    "status":"id reserved"
   },
   {
     "satellite":"RS-30 (Yubileiniy-1)",
@@ -8917,7 +8917,7 @@
     "beacon":"435.215\/435.315",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-31 to RS-37",
@@ -8927,7 +8927,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"for ORBCOMM"
+    "status":"for orbcomm"
   },
   {
     "satellite":"RS-38 (Tatyana-2)",
@@ -8937,7 +8937,7 @@
     "beacon":"435.490",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-39 (Chibis-M)",
@@ -8947,7 +8947,7 @@
     "beacon":"435.215\/435.315",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-40 (Yubileyny-2 MiR)",
@@ -8957,7 +8957,7 @@
     "beacon":"435.365",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-41 (AIST-1)",
@@ -8967,7 +8967,7 @@
     "beacon":"435.265",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-42",
@@ -8977,7 +8977,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Unknown"
+    "status":"unknown"
   },
   {
     "satellite":"RS-43 (AIST-2)",
@@ -8987,7 +8987,7 @@
     "beacon":"435.215\/435.265",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-44 (DOSAAF-85)",
@@ -8997,7 +8997,7 @@
     "beacon":"435.605",
     "mode":"SSB CW FT4",
     "callsign":"RS44",
-    "status":"Operational"
+    "status":"operational"
   },
   {
     "satellite":"RS-45",
@@ -9007,7 +9007,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"Unknown"
+    "status":"unknown"
   },
   {
     "satellite":"RS-46 (COSMOS-2491)",
@@ -9017,7 +9017,7 @@
     "beacon":"435.465\/435.565",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-47 (COSMOS-2499)",
@@ -9027,7 +9027,7 @@
     "beacon":"435.465\/435.565",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RS-48 (AIST-2D)",
@@ -9037,7 +9037,7 @@
     "beacon":"435.315",
     "mode":"CW",
     "callsign":null,
-    "status":"Non-Operational"
+    "status":"non-operational"
   },
   {
     "satellite":"RWASAT-1",

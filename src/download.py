@@ -25,9 +25,17 @@ def cli():
     for c in df.columns:
         df[c] = df[c].str.strip()
 
+    # Lowercase all the statuses
+    df.status = df.status.str.lower()
+
     # Write out
-    df.to_csv("./data/satellites.csv", index=False)
-    df.to_json("./data/satellites.json", orient="records", indent=2)
+    df.to_csv("./data/all-frequencies.csv", index=False)
+    df.to_json("./data/all-frequencies.json", orient="records", indent=2)
+
+    # Filter to active, then write that out
+    active_df = df[df.status == "active"].drop(["status"], axis=1).copy()
+    active_df.to_csv("./data/active-frequencies.csv", index=False)
+    active_df.to_json("./data/active-frequencies.json", orient="records", indent=2)
 
 
 if __name__ == "__main__":
