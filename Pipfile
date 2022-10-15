@@ -16,6 +16,9 @@ pytest = "*"
 twine = "*"
 
 [packages]
+click = "*"
+requests = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.9"
