@@ -2,9 +2,9 @@ The amateur satellites in space. A machine-readable mirror of [JE9PEL's website]
 
 ## Features
 
-🪞 Mirrors existing sources
-♻️ Converts to alternative formats
-🧹 Cleans minor flaws
+- 🪞 Mirrors existing sources
+- ♻️ Converts to alternative formats
+- 🧹 Cleans minor flaws
 
 ## Files
 
