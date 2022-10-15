@@ -14,4 +14,4 @@ Files are automatically updated via [GitHub Action](https://github.com/palewire/
 File | URL
 :--- | :--
 All frequencies | [all-frequencies.csv](https://raw.githubusercontent.com/palewire/ham-satellite-database/main/data/all-frequencies.csv), [all-frequencies.json](https://raw.githubusercontent.com/palewire/ham-satellite-database/main/data/all-frequencies.json)
-Active frequencies  | [all-frequencies.csv](https://raw.githubusercontent.com/palewire/ham-satellite-database/main/data/active-frequencies.csv), [all-frequencies.json](https://raw.githubusercontent.com/palewire/ham-satellite-database/main/data/active-frequencies.json)
+Active frequencies  | [active-frequencies.csv](https://raw.githubusercontent.com/palewire/ham-satellite-database/main/data/active-frequencies.csv), [active-frequencies.json](https://raw.githubusercontent.com/palewire/ham-satellite-database/main/data/active-frequencies.json)
