@@ -5090,6 +5090,16 @@
     "status":"inactive"
   },
   {
+    "satellite":"HO-107 (HuskySat-1)",
+    "number":"45119",
+    "uplink":null,
+    "downlink":"435.800\/24049.000",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":null,
+    "status":"inactive"
+  },
+  {
     "satellite":"HO-113 (XW-3 CAS-9)",
     "number":"50466",
     "uplink":"145.870",
@@ -5338,6 +5348,16 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "status":"active"
+  },
+  {
+    "satellite":"ION-SCV 002",
+    "number":"47504",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"unknown"
   },
   {
     "satellite":"ION-SCV 003",
