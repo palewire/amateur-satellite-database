@@ -7,7 +7,7 @@ def cli():
     """Download data from JE9PEL's website."""
     # Download the data
     url = "http://www.ne.jp/asahi/hamradio/je9pel/satslist.csv"
-    df = pd.read_csv(url, delimiter=";", header=None, on_bad_lines="warn", dtype=str)
+    df = pd.read_csv(url, delimiter=";", header=None, dtype=str)
 
     # Name the columns
     df.columns = [
