@@ -1182,7 +1182,7 @@
     "satellite":"GO-32 (TechSat-1B)",
     "number":"25397",
     "uplink":"145.850\/145.930",
-    "downlink":"435.225*\/435.325",
+    "downlink":"435.225\/435.325*",
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":"4XTECH-11 12"
