@@ -33,7 +33,9 @@ jobs:
 
       - id: download
         name: Download raw data
-        run: pipenv run python src/download.py
+        run: |
+          pipenv run python src/download.py satnogs
+          pipenv run python src/download.py je9pel
         shell: bash
 
       - id: commit
