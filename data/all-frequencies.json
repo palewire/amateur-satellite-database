@@ -8001,7 +8001,7 @@
   },
   {
     "satellite":"Polytech_Universe-1",
-    "number":"53371",
+    "number":"53372",
     "uplink":null,
     "downlink":"436.896\/436.996",
     "beacon":null,
@@ -8011,7 +8011,7 @@
   },
   {
     "satellite":"Polytech_Universe-2",
-    "number":"53372",
+    "number":"53371",
     "uplink":null,
     "downlink":"437.476\/437.576",
     "beacon":null,
@@ -9370,7 +9370,7 @@
     "status":"active"
   },
   {
-    "satellite":"SiriusSat-1(SXC1-181 RS13S)",
+    "satellite":"SiriusSat-1(SXC1-181)",
     "number":"43595",
     "uplink":null,
     "downlink":"435.570\/435.619",
@@ -9380,7 +9380,7 @@
     "status":"re-entered"
   },
   {
-    "satellite":"SiriusSat-2(SXC1-182 RS14S)",
+    "satellite":"SiriusSat-2(SXC1-182)",
     "number":"43596",
     "uplink":null,
     "downlink":"435.670\/435.719",
@@ -10250,7 +10250,7 @@
     "status":"inactive"
   },
   {
-    "satellite":"SWSU-55 No1 (SWGU No5)",
+    "satellite":"SWSU-55 No1 (YuZGU No5)",
     "number":null,
     "uplink":null,
     "downlink":"437.050\/437.050",
@@ -10260,17 +10260,17 @@
     "status":"inactive"
   },
   {
-    "satellite":"SWSU-55 No2 (SWGU No6)",
-    "number":null,
+    "satellite":"SWSU-55 No2 (YuZGU No6)",
+    "number":"53305",
     "uplink":null,
     "downlink":"437.050\/437.062",
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS11S",
-    "status":"inactive"
+    "status":"active"
   },
   {
-    "satellite":"SWSU-55 No3 (SWGU No7)",
+    "satellite":"SWSU-55 No3 (YuZGU No7)",
     "number":"53309",
     "uplink":null,
     "downlink":"437.050\/437.075",
@@ -10280,17 +10280,17 @@
     "status":"active"
   },
   {
-    "satellite":"SWSU-55 No4 (SWGU No8)",
-    "number":null,
+    "satellite":"SWSU-55 No4 (YuZGU No8)",
+    "number":"53307",
     "uplink":null,
     "downlink":"437.050\/437.082",
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS2S",
-    "status":"inactive"
+    "status":"active"
   },
   {
-    "satellite":"SWSU-55 No5 (SWGU No9)",
+    "satellite":"SWSU-55 No5 (YuZGU No9)",
     "number":"53308",
     "uplink":null,
     "downlink":"437.050\/437.100",
@@ -10300,7 +10300,7 @@
     "status":"active"
   },
   {
-    "satellite":"SWSU-55 No6 (SWGU No10)",
+    "satellite":"SWSU-55 No6 (YuZGU No10)",
     "number":"53321",
     "uplink":null,
     "downlink":"437.050\/437.087",
@@ -10310,7 +10310,7 @@
     "status":"active"
   },
   {
-    "satellite":"SWSU-55 No7 (SWGU No11)",
+    "satellite":"SWSU-55 No7 (YuZGU No11)",
     "number":"53310",
     "uplink":null,
     "downlink":"437.050\/437.1125",
@@ -10320,7 +10320,7 @@
     "status":"active"
   },
   {
-    "satellite":"SWSU-55 No8 (SWGU No12)",
+    "satellite":"SWSU-55 No8 (YuZGU No12)",
     "number":"53311",
     "uplink":null,
     "downlink":"437.050\/437.000",
@@ -10450,44 +10450,44 @@
     "status":"re-entered"
   },
   {
-    "satellite":"Tanusha-SWSU-1 (RS-6S)",
+    "satellite":"Tanusha-SWSU-1 (YuZGU-1)",
     "number":"42911",
     "uplink":null,
     "downlink":"437.050",
     "beacon":"145.800",
     "mode":"9600bps FSK Voice",
     "callsign":"RS6S",
-    "status":"inactive"
+    "status":"re-entered"
   },
   {
-    "satellite":"Tanusha-SWSU-2 (RS-7S)",
+    "satellite":"Tanusha-SWSU-2 (YuZGU-2)",
     "number":"42912",
     "uplink":null,
     "downlink":"437.050",
     "beacon":"145.800",
     "mode":"9600bps FSK Voice",
     "callsign":"RS7S",
-    "status":"inactive"
+    "status":"re-entered"
   },
   {
-    "satellite":"Tanusha-SWSU-3 (RS-8S)",
+    "satellite":"Tanusha-SWSU-3 (YuZGU-3)",
     "number":"43597",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
     "mode":"1200bps AFSK Voice",
     "callsign":"RS8S",
-    "status":"inactive"
+    "status":"re-entered"
   },
   {
-    "satellite":"Tanusha-SWSU-4 (RS-9S)",
+    "satellite":"Tanusha-SWSU-4 (YuZGU-4)",
     "number":"43598",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
     "mode":"1200bps AFSK Voice",
     "callsign":"RS9S",
-    "status":"inactive"
+    "status":"re-entered"
   },
   {
     "satellite":"TARGIT",
@@ -10900,7 +10900,7 @@
     "status":"re-entered"
   },
   {
-    "satellite":"Tomsk-TPU-120 (RS04S)",
+    "satellite":"Tomsk-TPU-120",
     "number":"42910",
     "uplink":null,
     "downlink":"437.025",
@@ -12148,6 +12148,126 @@
     "mode":"1k2AFSK\/9k6GMSK",
     "callsign":"BN0YS",
     "status":"inactive"
+  },
+  {
+    "satellite":"YuZGU-1 (Tanusha-SWSU-1)",
+    "number":"42911",
+    "uplink":null,
+    "downlink":"437.050",
+    "beacon":"145.800",
+    "mode":"9600bps FSK Voice",
+    "callsign":"RS6S",
+    "status":"re-entered"
+  },
+  {
+    "satellite":"YuZGU-2 (Tanusha-SWSU-2)",
+    "number":"42912",
+    "uplink":null,
+    "downlink":"437.050",
+    "beacon":"145.800",
+    "mode":"9600bps FSK Voice",
+    "callsign":"RS7S",
+    "status":"re-entered"
+  },
+  {
+    "satellite":"YuZGU-3 (Tanusha-SWSU-3)",
+    "number":"43597",
+    "uplink":null,
+    "downlink":"437.050",
+    "beacon":null,
+    "mode":"1200bps AFSK Voice",
+    "callsign":"RS8S",
+    "status":"re-entered"
+  },
+  {
+    "satellite":"YuZGU-4 (Tanusha-SWSU-4)",
+    "number":"43598",
+    "uplink":null,
+    "downlink":"437.050",
+    "beacon":null,
+    "mode":"1200bps AFSK Voice",
+    "callsign":"RS9S",
+    "status":"re-entered"
+  },
+  {
+    "satellite":"YuZGU No5 (SWSU-55 No1)",
+    "number":null,
+    "uplink":null,
+    "downlink":"437.050\/437.050",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS10S",
+    "status":"inactive"
+  },
+  {
+    "satellite":"YuZGU No6 (SWSU-55 No2)",
+    "number":"53305",
+    "uplink":null,
+    "downlink":"437.050\/437.062",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS11S",
+    "status":"active"
+  },
+  {
+    "satellite":"YuZGU No7 (SWSU-55 No3)",
+    "number":"53309",
+    "uplink":null,
+    "downlink":"437.050\/437.075",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS1S",
+    "status":"active"
+  },
+  {
+    "satellite":"YuZGU No8 (SWSU-55 No4)",
+    "number":"53307",
+    "uplink":null,
+    "downlink":"437.050\/437.082",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS2S",
+    "status":"active"
+  },
+  {
+    "satellite":"YuZGU No9 (SWSU-55 No5)",
+    "number":"53308",
+    "uplink":null,
+    "downlink":"437.050\/437.100",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS3S",
+    "status":"active"
+  },
+  {
+    "satellite":"YuZGU No10 (SWSU-55 No6)",
+    "number":"53321",
+    "uplink":null,
+    "downlink":"437.050\/437.087",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS4S",
+    "status":"active"
+  },
+  {
+    "satellite":"YuZGU No11 (SWSU-55 No7)",
+    "number":"53310",
+    "uplink":null,
+    "downlink":"437.050\/437.1125",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS5S",
+    "status":"active"
+  },
+  {
+    "satellite":"YuZGU No12 (SWSU-55 No8)",
+    "number":"53311",
+    "uplink":null,
+    "downlink":"437.050\/437.000",
+    "beacon":null,
+    "mode":"1k145 AFSK SSTV AUDIO",
+    "callsign":"RS6S",
+    "status":"active"
   },
   {
     "satellite":"ZACube-1",
