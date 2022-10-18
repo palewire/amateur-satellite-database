@@ -1332,15 +1332,6 @@
     "callsign":"INDUST-10"
   },
   {
-    "satellite":"ION-MK01",
-    "number":"46274",
-    "uplink":null,
-    "downlink":"437.515",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":null
-  },
-  {
     "satellite":"ION-SCV 005",
     "number":"52163",
     "uplink":null,
