@@ -20608,21 +20608,21 @@
   {
     "sat_id":"WQYT-3877-9353-7434-8931",
     "norad_cat_id":37388.0,
-    "name":"Youthsat",
+    "name":"YOUTHSAT",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2011-04-20T00:00:00Z",
     "deployed":null,
-    "website":"http:\/\/www.isro.org\/satellites\/youthsat.aspx",
-    "operator":"ISRO",
-    "countries":"IN,RU",
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T01:00:23.314188Z",
-    "citation":"http:\/\/www.isro.org\/satellites\/youthsat.aspx",
+    "updated":"2022-10-20T21:56:45.671982Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -21894,6 +21894,29 @@
     ]
   },
   {
+    "sat_id":"CQOD-6844-7035-7264-5887",
+    "norad_cat_id":51827.0,
+    "name":"Object D",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-02-17T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-20T21:58:58.728093Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"XKUH-3270-0013-3739-7799",
     "norad_cat_id":99343.0,
     "name":"ARTEMIS 1",
@@ -23064,6 +23087,98 @@
 
     ],
     "updated":"2022-10-17T21:19:22.043006Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JWSU-6284-1667-7528-7658",
+    "norad_cat_id":51098.0,
+    "name":"STORK-3",
+    "names":"",
+    "image":"satellites\/stork-1__1_0lvVYBH.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-01-13T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"PL",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-20T22:00:52.935319Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YTUM-9506-8517-5231-7089",
+    "norad_cat_id":53754.0,
+    "name":"SHERPA-LTC2",
+    "names":"",
+    "image":"satellites\/sherpa-ltc-2_varuna-tdm__1.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-09-05T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-20T22:00:47.575815Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TRPL-5967-8308-1579-8630",
+    "norad_cat_id":53367.0,
+    "name":"Object A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-08-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-20T21:58:05.213312Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SYCH-4070-5435-2059-3481",
+    "norad_cat_id":43559.0,
+    "name":"LEMUR 2 ALEXANDER",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-05-21T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-20T21:57:56.794096Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
