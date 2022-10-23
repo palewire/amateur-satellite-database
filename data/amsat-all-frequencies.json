@@ -183,7 +183,7 @@
     "beacon":null,
     "mode":"9k6\/153k6 FSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"YHMC-8015-3517-5780-3458"
   },
   {
@@ -5073,12 +5073,12 @@
   {
     "name":"Galassia",
     "norad_id":"41170",
-    "uplink":"436.400",
+    "uplink":null,
     "downlink":"144.200\/145.000",
-    "beacon":"145.800",
-    "mode":"9600bps GMSK",
+    "beacon":"436.400",
+    "mode":"4k8*AFSK 9k6GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"GMGG-8364-0705-0161-3298"
   },
   {

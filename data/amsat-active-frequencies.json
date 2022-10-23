@@ -1290,6 +1290,16 @@
     "satnogs_id":"TXQM-7768-3090-1795-9214"
   },
   {
+    "name":"Galassia",
+    "norad_id":"41170",
+    "uplink":null,
+    "downlink":"144.200\/145.000",
+    "beacon":"436.400",
+    "mode":"4k8*AFSK 9k6GMSK",
+    "callsign":null,
+    "satnogs_id":"GMGG-8364-0705-0161-3298"
+  },
+  {
     "name":"Geoscan-Edelveis",
     "norad_id":"53385",
     "uplink":null,
