@@ -613,7 +613,7 @@
     "mode":"FM USB",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"BWUQ-1126-2556-9888-6948"
   },
   {
     "name":"AO-16 (PACSAT)",
@@ -624,7 +624,7 @@
     "mode":"1200bps JAS",
     "callsign":"PACSAT-11 12",
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"BWUQ-1126-2556-9888-6948"
   },
   {
     "name":"AO-21 (RS-14)",
@@ -8379,7 +8379,7 @@
     "mode":"FM USB",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"BWUQ-1126-2556-9888-6948"
   },
   {
     "name":"PACSAT (AO-16)",
@@ -8390,7 +8390,7 @@
     "mode":"1200bps JAS",
     "callsign":"PACSAT-11 12",
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"BWUQ-1126-2556-9888-6948"
   },
   {
     "name":"Painani-1",
@@ -11888,7 +11888,7 @@
     "mode":"9k6 GMSK\/5Mbps OFDM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"XWTX-3100-8924-6311-9373"
   },
   {
     "name":"Tianyi-4 (TY-4 Xiaoxiang-4)",
@@ -12317,7 +12317,7 @@
     "mode":"9k6 GMSK\/5Mbps OFDM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"XWTX-3100-8924-6311-9373"
   },
   {
     "name":"TY-4 (Tianyi-4 Xiaoxiang-4)",
@@ -13120,7 +13120,7 @@
     "mode":"9k6 GMSK\/5Mbps OFDM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"XWTX-3100-8924-6311-9373"
   },
   {
     "name":"Xiaoxiang-4 (TY-4 Tianyi-4)",
