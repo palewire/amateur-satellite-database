@@ -5281,14 +5281,14 @@
   },
   {
     "name":"GREENCUBE",
-    "norad_id":"53109",
+    "norad_id":"53106",
     "uplink":null,
     "downlink":"435.310",
     "beacon":null,
     "mode":"0k3\/1k2*\/2k4*\/4k8\/9k6 FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":"ZYKO-7290-5830-6811-4050"
+    "satnogs_id":"KGEF-8685-2681-9687-2264"
   },
   {
     "name":"GRIFEX",
@@ -7448,14 +7448,14 @@
   },
   {
     "name":"MTCube-2 (ROBUSTA-1F)",
-    "norad_id":"53106",
+    "norad_id":"53109",
     "uplink":null,
     "downlink":"436.750",
     "beacon":null,
     "mode":"1k2AFSK 2k4*\/9k6GMSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":"KGEF-8685-2681-9687-2264"
+    "satnogs_id":"ZYKO-7290-5830-6811-4050"
   },
   {
     "name":"myPocketQub",
@@ -9472,14 +9472,14 @@
   },
   {
     "name":"ROBUSTA-1F (MTCube-2)",
-    "norad_id":"53106",
+    "norad_id":"53109",
     "uplink":null,
     "downlink":"436.750",
     "beacon":null,
     "mode":"1k2AFSK 2k4*\/9k6GMSK",
     "callsign":"FX6FRA",
     "status":"inactive",
-    "satnogs_id":"KGEF-8685-2681-9687-2264"
+    "satnogs_id":"ZYKO-7290-5830-6811-4050"
   },
   {
     "name":"RSP-00",

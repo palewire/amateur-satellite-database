@@ -1341,13 +1341,13 @@
   },
   {
     "name":"GREENCUBE",
-    "norad_id":"53109",
+    "norad_id":"53106",
     "uplink":null,
     "downlink":"435.310",
     "beacon":null,
     "mode":"0k3\/1k2*\/2k4*\/4k8\/9k6 FSK",
     "callsign":null,
-    "satnogs_id":"ZYKO-7290-5830-6811-4050"
+    "satnogs_id":"KGEF-8685-2681-9687-2264"
   },
   {
     "name":"Grizu-263A",
