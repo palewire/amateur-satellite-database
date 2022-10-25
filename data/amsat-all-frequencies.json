@@ -9413,7 +9413,7 @@
     "mode":"2400bps GMSK USP",
     "callsign":"RS8S",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {
     "name":"RINCON",
@@ -11470,7 +11470,7 @@
     "mode":"2400bps GMSK USP",
     "callsign":"RS8S",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {
     "name":"TabletSat-Aurora",

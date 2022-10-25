@@ -18434,10 +18434,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -21619,7 +21619,7 @@
   },
   {
     "sat_id":"EUTM-6475-4739-7036-7152",
-    "norad_cat_id":99361.0,
+    "norad_cat_id":53382.0,
     "name":"ReshUCube",
     "names":"SXC3-2111, RS8S, SIBSU, SibGU",
     "image":"satellites\/SXC3.jpg",
@@ -21633,11 +21633,11 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-14T02:57:46.180283Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-10-24T18:33:30.200212Z",
+    "citation":"https:\/\/community.libre.space\/t\/reshucube-identification\/",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "BCHR-2666-3822-0414-1807"
     ]
   },
   {

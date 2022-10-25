@@ -2297,7 +2297,7 @@
     "beacon":null,
     "mode":"2400bps GMSK USP",
     "callsign":"RS8S",
-    "satnogs_id":null
+    "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {
     "name":"ROBUSTA-1B",
@@ -2757,7 +2757,7 @@
     "beacon":null,
     "mode":"2400bps GMSK USP",
     "callsign":"RS8S",
-    "satnogs_id":null
+    "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {
     "name":"TBEx-A",
