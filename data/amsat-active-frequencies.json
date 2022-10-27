@@ -3125,7 +3125,7 @@
     "uplink":null,
     "downlink":"437.325",
     "beacon":null,
-    "mode":"1k2\/4k8\/9k6 GMSK",
+    "mode":"1k2\/4k8*\/9k6 MSK",
     "callsign":null,
     "satnogs_id":"DJWH-7860-9983-7310-6047"
   },
