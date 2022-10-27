@@ -5819,7 +5819,7 @@
     "satnogs_id":"UUUL-8721-0443-0737-3074"
   },
   {
-    "name":"INSPIREsat-1",
+    "name":"INSPIRE-Sat1",
     "norad_id":"51657",
     "uplink":null,
     "downlink":"437.500",
@@ -5828,6 +5828,17 @@
     "callsign":"BCT",
     "status":"active",
     "satnogs_id":"KAEG-9794-2542-4829-8548"
+  },
+  {
+    "name":"INSPIRE-Sat7",
+    "norad_id":null,
+    "uplink":"145.830",
+    "downlink":"435.200\/437.410",
+    "beacon":null,
+    "mode":"9600bps BPSK FM CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"INS-1C",

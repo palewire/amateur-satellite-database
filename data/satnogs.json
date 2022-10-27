@@ -19278,15 +19278,15 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-05-25T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T22:28:59.203927Z",
+    "updated":"2022-10-27T09:01:01.585452Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -23294,6 +23294,98 @@
 
     ],
     "updated":"2022-10-24T11:04:02.453341Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RBJX-0887-6763-7405-8492",
+    "norad_cat_id":44882.0,
+    "name":"Object D",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-12-20T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-27T04:49:38.887735Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YDPA-1298-3896-7189-0939",
+    "norad_cat_id":99299.0,
+    "name":"SPRITE",
+    "names":"",
+    "image":"satellites\/LASP-SPRITE.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/lasp.colorado.edu\/home\/missions\/sprite\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-27T06:31:11.355082Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KEFI-5322-7167-3600-7282",
+    "norad_cat_id":99298.0,
+    "name":"PVDX",
+    "names":"",
+    "image":"satellites\/BSE-PVDX.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/brownspace.org\/pvdx\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-27T06:31:27.967119Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TJHB-8279-6294-1593-9842",
+    "norad_cat_id":52741.0,
+    "name":"OP15 FLT1",
+    "names":"TYVAK-0820",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-05-25T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-27T09:00:01.524838Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
