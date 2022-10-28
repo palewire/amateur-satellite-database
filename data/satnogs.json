@@ -20055,8 +20055,8 @@
   {
     "sat_id":"PWFW-2275-1349-5417-9753",
     "norad_cat_id":52742.0,
-    "name":"Centauri 5",
-    "names":"TYVAK-0212 FLT",
+    "name":"CENTAURI 5",
+    "names":"TYVAK-0212",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -20064,12 +20064,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"AU",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T02:14:27.349006Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/centauri-3.htm",
+    "updated":"2022-10-27T13:47:35.443057Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -23386,6 +23386,144 @@
 
     ],
     "updated":"2022-10-27T09:00:01.524838Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LOFO-8612-8131-7630-3874",
+    "norad_cat_id":99297.0,
+    "name":"AMBER-1",
+    "names":"",
+    "image":"satellites\/amber-1.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/sa.catapult.org.uk\/projects\/amber-1\/",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-27T17:59:45.141091Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PFSL-1691-4200-1300-4472",
+    "norad_cat_id":99293.0,
+    "name":"PROMETHEUS-2A",
+    "names":"",
+    "image":"satellites\/Prometheus2.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.airbus.com\/en\/newsroom\/press-releases\/2022-09-uk-built-prometheus-2-imaging-and-monitoring-cubesats-on-track-for",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-27T17:58:45.125019Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DXUR-4805-2458-3507-8403",
+    "norad_cat_id":99294.0,
+    "name":"PROMETHEUS-2B",
+    "names":"",
+    "image":"satellites\/Prometheus2_0Ybau1D.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-27T17:58:53.814951Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WYDE-6330-1057-1921-8166",
+    "norad_cat_id":99295.0,
+    "name":"CIRCE-1",
+    "names":"",
+    "image":"satellites\/CIRCE.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.gov.uk\/government\/news\/circe-space-weather-suite-announced-for-first-uk-satellite-launch",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-27T18:00:15.938110Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XRQT-1510-6197-3499-1107",
+    "norad_cat_id":99296.0,
+    "name":"CIRCE-2",
+    "names":"",
+    "image":"satellites\/CIRCE_tFvQmSl.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.gov.uk\/government\/news\/circe-space-weather-suite-announced-for-first-uk-satellite-launch",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-27T17:59:06.787584Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "GETZ-3271-4379-2915-6570"
+    ]
+  },
+  {
+    "sat_id":"DKXM-0957-7924-4757-0455",
+    "norad_cat_id":99292.0,
+    "name":"Stork 6",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2022-10-27T18:14:49.201929Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
