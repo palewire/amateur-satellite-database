@@ -2684,6 +2684,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CatSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.185\/10470.000",
+    "beacon":null,
+    "mode":"9k6\/38k4GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"CELESTA (ROBUSTA-1D)",
     "norad_id":"53111",
     "uplink":null,
@@ -6622,6 +6633,17 @@
     "satnogs_id":"WMGA-3000-1529-8035-2634"
   },
   {
+    "name":"KUbeSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.085",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"KUTESat Pathfinder",
     "norad_id":null,
     "uplink":null,
@@ -7180,6 +7202,17 @@
     "mode":"1200bps AFSK",
     "callsign":"K7MSU-1",
     "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"MESAT-1",
+    "norad_id":null,
+    "uplink":"145.910-145.940",
+    "downlink":"435.810-435.840",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -8358,6 +8391,17 @@
     "callsign":"OUFTI-1",
     "status":"inactive",
     "satnogs_id":"SPNS-3514-9662-2262-1618"
+  },
+  {
+    "name":"Owlsat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.975",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"O\/OREOS",
@@ -10514,6 +10558,17 @@
     "callsign":null,
     "status":"non-amateur",
     "satnogs_id":"WGLD-4065-3704-6772-2147"
+  },
+  {
+    "name":"SOC-i",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.125",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Sokrat",
