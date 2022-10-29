@@ -310,16 +310,6 @@
     "satnogs_id":"KTHL-8173-4603-8149-6885"
   },
   {
-    "name":"BRO-5",
-    "norad_id":"51061",
-    "uplink":null,
-    "downlink":"401.735",
-    "beacon":null,
-    "mode":"4800bps FSK",
-    "callsign":null,
-    "satnogs_id":"EAPL-5646-6568-7428-1685"
-  },
-  {
     "name":"BRO-6",
     "norad_id":"52422",
     "uplink":null,

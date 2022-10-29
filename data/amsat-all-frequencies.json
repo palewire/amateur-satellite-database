@@ -1723,7 +1723,7 @@
     "beacon":null,
     "mode":"4800bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"EAPL-5646-6568-7428-1685"
   },
   {
