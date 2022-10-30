@@ -5830,7 +5830,7 @@
     "satnogs_id":"UUUL-8721-0443-0737-3074"
   },
   {
-    "name":"INSPIRE-Sat1",
+    "name":"INSPIRESat-1",
     "norad_id":"51657",
     "uplink":null,
     "downlink":"437.500",
@@ -5841,7 +5841,7 @@
     "satnogs_id":"KAEG-9794-2542-4829-8548"
   },
   {
-    "name":"INSPIRE-Sat7",
+    "name":"INSPIRESat-7",
     "norad_id":null,
     "uplink":"145.830",
     "downlink":"435.200\/437.410",
@@ -5850,6 +5850,17 @@
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
+  },
+  {
+    "name":"INSPIRE-2 (AU03)",
+    "norad_id":"42731",
+    "uplink":null,
+    "downlink":"436.330",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"ON03AU",
+    "status":"re-entered",
+    "satnogs_id":"YTEY-0876-3631-8329-6453"
   },
   {
     "name":"INS-1C",
@@ -6202,17 +6213,6 @@
     "callsign":"ITUPSAT",
     "status":"active",
     "satnogs_id":"FMZT-1887-7286-8009-2095"
-  },
-  {
-    "name":"i-INSPIRE II (AU03)",
-    "norad_id":"42731",
-    "uplink":null,
-    "downlink":"436.330",
-    "beacon":null,
-    "mode":"4800bps GMSK",
-    "callsign":"ON03AU",
-    "status":"re-entered",
-    "satnogs_id":"YTEY-0876-3631-8329-6453"
   },
   {
     "name":"JAGSAT-1",
@@ -11146,7 +11146,7 @@
     "name":"SUCHAI",
     "norad_id":"42788",
     "uplink":null,
-    "downlink":"437.225",
+    "downlink":null,
     "beacon":"437.229",
     "mode":"CW",
     "callsign":"SUCHAI",

@@ -1460,7 +1460,7 @@
     "satnogs_id":"UUUL-8721-0443-0737-3074"
   },
   {
-    "name":"INSPIRE-Sat1",
+    "name":"INSPIRESat-1",
     "norad_id":"51657",
     "uplink":null,
     "downlink":"437.500",
@@ -2543,7 +2543,7 @@
     "name":"SUCHAI",
     "norad_id":"42788",
     "uplink":null,
-    "downlink":"437.225",
+    "downlink":null,
     "beacon":"437.229",
     "mode":"CW",
     "callsign":"SUCHAI",
