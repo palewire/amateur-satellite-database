@@ -13626,7 +13626,7 @@
     "name":"EDGECUBE",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -13636,7 +13636,7 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:43.069637Z",
+    "updated":"2022-10-30T07:29:45.510659Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -18243,10 +18243,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",

@@ -1195,7 +1195,7 @@
     "uplink":"435.350\/1267.350",
     "downlink":"145.880",
     "beacon":"145.880",
-    "mode":"FM CTCSS 67.0Hz\/200bps DUV",
+    "mode":"FM* CTCSS 67.0Hz\/200bps DUV",
     "callsign":null,
     "satnogs_id":"FVKF-5969-0532-6737-5899"
   },
