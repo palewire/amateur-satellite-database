@@ -1265,7 +1265,7 @@
     "uplink":"435.100-435.120",
     "downlink":"145.875-145.855",
     "beacon":"145.840",
-    "mode":"SSB 1k2*BPSK CW",
+    "mode":"1200bps BPSK SSB CW",
     "callsign":"JY1SAT",
     "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
@@ -1332,10 +1332,10 @@
   {
     "name":"GREENCUBE",
     "norad_id":"53106",
-    "uplink":null,
+    "uplink":"435.310",
     "downlink":"435.310",
     "beacon":null,
-    "mode":"0k3\/1k2*\/2k4*\/4k8\/9k6 FSK",
+    "mode":"0k3\/1k2*\/2k4FSK Digipeater",
     "callsign":null,
     "satnogs_id":"KGEF-8685-2681-9687-2264"
   },
@@ -1595,7 +1595,7 @@
     "uplink":"435.100-435.120",
     "downlink":"145.875-145.855",
     "beacon":"145.840",
-    "mode":"SSB* 1k2BPSK CW",
+    "mode":"1200bps BPSK SSB CW",
     "callsign":"JY1SAT",
     "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
@@ -1615,7 +1615,7 @@
     "uplink":"435.100-435.120",
     "downlink":"145.875-145.855",
     "beacon":"145.840",
-    "mode":"SSB 1k2*BPSK CW",
+    "mode":"1200bps BPSK SSB CW",
     "callsign":"JY1SAT",
     "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
