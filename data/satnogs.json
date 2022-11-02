@@ -18721,7 +18721,9 @@
     "operator":"None",
     "countries":"CL",
     "telemetries":[
-
+      {
+        "decoder":"suchai2"
+      }
     ],
     "updated":"2022-04-20T12:14:00.105795Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-4-rideshare-ccsfs-slc-40-1-april-2022-16-24-utc\/9104\/2",
@@ -18744,7 +18746,9 @@
     "operator":"None",
     "countries":"CL",
     "telemetries":[
-
+      {
+        "decoder":"suchai2"
+      }
     ],
     "updated":"2022-06-26T16:52:45.922098Z",
     "citation":"https:\/\/spel.cl\/",
@@ -18767,7 +18771,9 @@
     "operator":"None",
     "countries":"CL",
     "telemetries":[
-
+      {
+        "decoder":"suchai2"
+      }
     ],
     "updated":"2022-04-20T12:13:25.550733Z",
     "citation":"https:\/\/spel.cl\/",
