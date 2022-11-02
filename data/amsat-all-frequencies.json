@@ -4709,7 +4709,7 @@
   },
   {
     "name":"FossaSat-2E7",
-    "norad_id":"50991",
+    "norad_id":"52778",
     "uplink":null,
     "downlink":"401.700",
     "beacon":null,
@@ -4720,7 +4720,7 @@
   },
   {
     "name":"FossaSat-2E8",
-    "norad_id":"50991",
+    "norad_id":"52779",
     "uplink":null,
     "downlink":"401.700",
     "beacon":null,
@@ -4731,7 +4731,7 @@
   },
   {
     "name":"FossaSat-2E9",
-    "norad_id":"50991",
+    "norad_id":null,
     "uplink":null,
     "downlink":"401.700",
     "beacon":null,
@@ -4742,7 +4742,7 @@
   },
   {
     "name":"FossaSat-2E10",
-    "norad_id":"50991",
+    "norad_id":null,
     "uplink":null,
     "downlink":"401.700",
     "beacon":null,
@@ -4753,29 +4753,29 @@
   },
   {
     "name":"FossaSat-2E11",
-    "norad_id":"50991",
+    "norad_id":"52750",
     "uplink":null,
     "downlink":"401.700",
     "beacon":null,
     "mode":"9600bps GFSK 125k LoRa*",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"RQGN-8584-9526-1967-0454"
   },
   {
     "name":"FossaSat-2E12",
-    "norad_id":"50991",
+    "norad_id":"52773",
     "uplink":null,
     "downlink":"401.700",
     "beacon":null,
     "mode":"9600bps GFSK 125k LoRa*",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"MYQU-2688-4982-5356-0669"
   },
   {
     "name":"FossaSat-2E13",
-    "norad_id":"50991",
+    "norad_id":"52776",
     "uplink":null,
     "downlink":"401.700",
     "beacon":null,
@@ -11341,7 +11341,7 @@
     "satnogs_id":"BTIX-5441-6034-5221-2014"
   },
   {
-    "name":"SWSU-55 No1 (YuZGU-55 5)",
+    "name":"SWSU-55 No1 (YuZGU-5)",
     "norad_id":null,
     "uplink":null,
     "downlink":"437.050\/437.050",
@@ -11352,7 +11352,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No2 (YuZGU-55 6)",
+    "name":"SWSU-55 No2 (YuZGU-6)",
     "norad_id":"53305",
     "uplink":null,
     "downlink":"437.050\/437.062",
@@ -11363,7 +11363,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No3 (YuZGU-55 7)",
+    "name":"SWSU-55 No3 (YuZGU-7)",
     "norad_id":"53309",
     "uplink":null,
     "downlink":"437.050\/437.075",
@@ -11374,7 +11374,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No4 (YuZGU-55 8)",
+    "name":"SWSU-55 No4 (YuZGU-8)",
     "norad_id":"53307",
     "uplink":null,
     "downlink":"437.050\/437.082",
@@ -11385,7 +11385,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No5 (YuZGU-55 9)",
+    "name":"SWSU-55 No5 (YuZGU-9)",
     "norad_id":"53308",
     "uplink":null,
     "downlink":"437.050\/437.100",
@@ -11396,7 +11396,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No6 (YuZGU-55 10)",
+    "name":"SWSU-55 No6 (YuZGU-10)",
     "norad_id":"53321",
     "uplink":null,
     "downlink":"437.050\/437.087",
@@ -11407,7 +11407,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No7 (YuZGU-55 11)",
+    "name":"SWSU-55 No7 (YuZGU-11)",
     "norad_id":"53310",
     "uplink":null,
     "downlink":"437.050\/437.1125",
@@ -11418,7 +11418,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No8 (YuZGU-55 12)",
+    "name":"SWSU-55 No8 (YuZGU-12)",
     "norad_id":"53311",
     "uplink":null,
     "downlink":"437.050\/437.000",
@@ -13475,7 +13475,7 @@
     "satnogs_id":"PGHZ-9811-8576-7503-9559"
   },
   {
-    "name":"YuZGU-55 5 (SWSU-55 No1)",
+    "name":"YuZGU-5 (SWSU-55 No1)",
     "norad_id":null,
     "uplink":null,
     "downlink":"437.050\/437.050",
@@ -13486,7 +13486,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-55 6 (SWSU-55 No2)",
+    "name":"YuZGU-6 (SWSU-55 No2)",
     "norad_id":"53305",
     "uplink":null,
     "downlink":"437.050\/437.062",
@@ -13497,7 +13497,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-55 7 (SWSU-55 No3)",
+    "name":"YuZGU-7 (SWSU-55 No3)",
     "norad_id":"53309",
     "uplink":null,
     "downlink":"437.050\/437.075",
@@ -13508,7 +13508,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-55 8 (SWSU-55 No4)",
+    "name":"YuZGU-8 (SWSU-55 No4)",
     "norad_id":"53307",
     "uplink":null,
     "downlink":"437.050\/437.082",
@@ -13519,7 +13519,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-55 9 (SWSU-55 No5)",
+    "name":"YuZGU-9 (SWSU-55 No5)",
     "norad_id":"53308",
     "uplink":null,
     "downlink":"437.050\/437.100",
@@ -13530,7 +13530,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-55 10 (SWSU-55 No6)",
+    "name":"YuZGU-10 (SWSU-55 No6)",
     "norad_id":"53321",
     "uplink":null,
     "downlink":"437.050\/437.087",
@@ -13541,7 +13541,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-55 11 (SWSU-55 No7)",
+    "name":"YuZGU-11 (SWSU-55 No7)",
     "norad_id":"53310",
     "uplink":null,
     "downlink":"437.050\/437.1125",
@@ -13552,7 +13552,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-55 12 (SWSU-55 No8)",
+    "name":"YuZGU-12 (SWSU-55 No8)",
     "norad_id":"53311",
     "uplink":null,
     "downlink":"437.050\/437.000",
