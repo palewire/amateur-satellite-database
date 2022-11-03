@@ -18434,10 +18434,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -23554,6 +23554,29 @@
     ],
     "updated":"2022-10-28T07:52:05.874290Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XRJJ-0463-2781-5484-1167",
+    "norad_cat_id":39435.0,
+    "name":"WREN",
+    "names":"",
+    "image":"satellites\/wren.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/amsat-uk.org\/2013\/10\/24\/wren-a-ham-radio-sstv-pocketqube\/",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-02T21:09:12.874734Z",
+    "citation":"Check if it is came back alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
