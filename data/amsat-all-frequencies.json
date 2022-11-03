@@ -7711,14 +7711,14 @@
     "satnogs_id":"KUWT-6327-2943-5724-0911"
   },
   {
-    "name":"Negai*\"\";36575;;437.305 ;437.305 ;1200bps AFSK CW;JQ1ZEX;re-entered",
-    "norad_id":null,
+    "name":"Negai",
+    "norad_id":"36575",
     "uplink":null,
-    "downlink":null,
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":null,
+    "downlink":"437.305",
+    "beacon":"437.305",
+    "mode":"1200bps AFSK CW",
+    "callsign":"JQ1ZEX",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
