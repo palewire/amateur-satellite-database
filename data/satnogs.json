@@ -21897,7 +21897,9 @@
     "operator":"ESA",
     "countries":"IT",
     "telemetries":[
-
+      {
+        "decoder":"greencube"
+      }
     ],
     "updated":"2022-09-15T09:15:45.443742Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
