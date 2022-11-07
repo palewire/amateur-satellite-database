@@ -55,7 +55,7 @@
     "satnogs_id":"MTTJ-9379-5566-8860-4453"
   },
   {
-    "name":"Aalto-2 (FI01)",
+    "name":"Aalto-2",
     "norad_id":"42729",
     "uplink":null,
     "downlink":"437.335",
@@ -231,7 +231,7 @@
     "satnogs_id":"RERZ-6166-7809-6282-7939"
   },
   {
-    "name":"AIST-1 (RS-41)",
+    "name":"AIST-1",
     "norad_id":"39492",
     "uplink":null,
     "downlink":null,
@@ -242,7 +242,7 @@
     "satnogs_id":"FVRJ-8983-9120-1903-4578"
   },
   {
-    "name":"AIST-2 (RS-43)",
+    "name":"AIST-2",
     "norad_id":"39133",
     "uplink":null,
     "downlink":"435.215",
@@ -253,7 +253,7 @@
     "satnogs_id":"VWRK-3457-9973-7957-3445"
   },
   {
-    "name":"AIST-2D (RS-48)",
+    "name":"AIST-2D",
     "norad_id":"41465",
     "uplink":"145.831-145.849",
     "downlink":"435.3065-435.3235",
@@ -264,7 +264,7 @@
     "satnogs_id":"IDEJ-3292-6865-3492-6224"
   },
   {
-    "name":"ALEXANDER (PhoneSat2)",
+    "name":"ALEXANDER",
     "norad_id":"39144",
     "uplink":null,
     "downlink":"2401.200-2431.200",
@@ -363,7 +363,7 @@
     "satnogs_id":"BHEP-0319-3345-0774-6350"
   },
   {
-    "name":"AmurSat (AmGU-1)",
+    "name":"AmurSat",
     "norad_id":"44394",
     "uplink":null,
     "downlink":"436.250",
@@ -374,7 +374,7 @@
     "satnogs_id":"WPER-8728-6476-4000-7514"
   },
   {
-    "name":"ANDE (NO-61)",
+    "name":"ANDE",
     "norad_id":"29664",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -385,7 +385,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ANDE-2 (Castor)",
+    "name":"ANDE-2",
     "norad_id":"35694",
     "uplink":null,
     "downlink":"145.825",
@@ -396,7 +396,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ANDE-2 (Pollux)",
+    "name":"ANDE-2",
     "norad_id":"35693",
     "uplink":null,
     "downlink":"145.825",
@@ -451,7 +451,7 @@
     "satnogs_id":"HYSI-6582-0584-6522-0844"
   },
   {
-    "name":"AoXiang-1 (CN04)",
+    "name":"AoXiang-1",
     "norad_id":"42735",
     "uplink":null,
     "downlink":"436.150*\/437.640",
@@ -462,7 +462,7 @@
     "satnogs_id":"PYLJ-8680-4604-2076-6550"
   },
   {
-    "name":"AO-1 (Oscar-1)",
+    "name":"AO-1",
     "norad_id":"214",
     "uplink":null,
     "downlink":null,
@@ -473,7 +473,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-2 (Oscar-2)",
+    "name":"AO-2",
     "norad_id":"305",
     "uplink":null,
     "downlink":null,
@@ -484,7 +484,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-3 (Oscar-3)",
+    "name":"AO-3",
     "norad_id":"1293",
     "uplink":"145.975-146.025",
     "downlink":"144.325-144.375",
@@ -495,7 +495,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-4 (Oscar-4)",
+    "name":"AO-4",
     "norad_id":"1902",
     "uplink":"432.145-432.155",
     "downlink":"144.300-144.310",
@@ -506,7 +506,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-5 (Oscar-5)",
+    "name":"AO-5",
     "norad_id":"4321",
     "uplink":null,
     "downlink":"29.450",
@@ -517,7 +517,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-6 (Phase-2A)",
+    "name":"AO-6",
     "norad_id":"6236",
     "uplink":"145.900-146.000",
     "downlink":"29.450- 29.550",
@@ -528,7 +528,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-7 (Phase-2B)",
+    "name":"AO-7",
     "norad_id":"7530",
     "uplink":"145.850-145.950",
     "downlink":"29.400- 29.500",
@@ -539,7 +539,7 @@
     "satnogs_id":"HHSS-6325-1344-4603-7774"
   },
   {
-    "name":"AO-7 (Phase-2B)",
+    "name":"AO-7",
     "norad_id":"7530",
     "uplink":"432.125-432.175",
     "downlink":"145.975-145.925",
@@ -550,7 +550,7 @@
     "satnogs_id":"HHSS-6325-1344-4603-7774"
   },
   {
-    "name":"AO-7 (Phase-2B)",
+    "name":"AO-7",
     "norad_id":"7530",
     "uplink":null,
     "downlink":"2304.100",
@@ -561,7 +561,7 @@
     "satnogs_id":"HHSS-6325-1344-4603-7774"
   },
   {
-    "name":"AO-8 (Phase-2D)",
+    "name":"AO-8",
     "norad_id":"10703",
     "uplink":"145.850-145.900",
     "downlink":"29.400- 29.500",
@@ -572,7 +572,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-8 (Phase-2D)",
+    "name":"AO-8",
     "norad_id":"10703",
     "uplink":"145.900-146.000",
     "downlink":"435.200-435.100",
@@ -583,7 +583,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-10 (Phase-3B)",
+    "name":"AO-10",
     "norad_id":"14129",
     "uplink":"435.030-146.180",
     "downlink":"145.975-145.825",
@@ -594,7 +594,7 @@
     "satnogs_id":"WAGS-8572-2494-3083-1675"
   },
   {
-    "name":"AO-13 (Phase-3C)",
+    "name":"AO-13",
     "norad_id":"19216",
     "uplink":"435.423-435.573",
     "downlink":"145.975-145.825",
@@ -605,7 +605,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-16 (PACSAT)",
+    "name":"AO-16",
     "norad_id":"20439",
     "uplink":"145.920",
     "downlink":"437.026",
@@ -616,7 +616,7 @@
     "satnogs_id":"BWUQ-1126-2556-9888-6948"
   },
   {
-    "name":"AO-16 (PACSAT)",
+    "name":"AO-16",
     "norad_id":"20439",
     "uplink":"145.920",
     "downlink":"437.026",
@@ -627,7 +627,7 @@
     "satnogs_id":"BWUQ-1126-2556-9888-6948"
   },
   {
-    "name":"AO-21 (RS-14)",
+    "name":"AO-21",
     "norad_id":"21087",
     "uplink":null,
     "downlink":"145.800",
@@ -638,7 +638,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-24 (ARSENE)",
+    "name":"AO-24",
     "norad_id":"22654",
     "uplink":null,
     "downlink":"145.975",
@@ -649,7 +649,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-27 (EYESAT-A)",
+    "name":"AO-27",
     "norad_id":"22825",
     "uplink":"145.850",
     "downlink":"436.795",
@@ -660,7 +660,7 @@
     "satnogs_id":"XTDR-0995-4168-5549-5936"
   },
   {
-    "name":"AO-37 (ASUSAT)",
+    "name":"AO-37",
     "norad_id":"26065",
     "uplink":"145.960\/145.980",
     "downlink":"435.700",
@@ -671,7 +671,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-40 (Phase-3D)",
+    "name":"AO-40",
     "norad_id":"26609",
     "uplink":null,
     "downlink":null,
@@ -682,7 +682,7 @@
     "satnogs_id":"VMIE-3340-5003-6094-2811"
   },
   {
-    "name":"AO-49 (Rubin-2)",
+    "name":"AO-49",
     "norad_id":"27605",
     "uplink":"435.275",
     "downlink":"145.825",
@@ -693,7 +693,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-51 (Echo)",
+    "name":"AO-51",
     "norad_id":"28375",
     "uplink":"145.920",
     "downlink":"435.300",
@@ -704,7 +704,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-51 (Echo)",
+    "name":"AO-51",
     "norad_id":"28375",
     "uplink":"145.860\/145.880",
     "downlink":"2401.200",
@@ -715,7 +715,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-51 (Echo)",
+    "name":"AO-51",
     "norad_id":"28375",
     "uplink":"1268.700",
     "downlink":"435.150",
@@ -726,7 +726,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-54 (SuitSat-1)",
+    "name":"AO-54",
     "norad_id":"28933",
     "uplink":null,
     "downlink":"145.990",
@@ -737,7 +737,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-71 (AubieSat-1)",
+    "name":"AO-71",
     "norad_id":"37854",
     "uplink":null,
     "downlink":"437.475",
@@ -748,7 +748,7 @@
     "satnogs_id":null
   },
   {
-    "name":"AO-73 (FUNcube-1)",
+    "name":"AO-73",
     "norad_id":"39444",
     "uplink":"435.130-435.150",
     "downlink":"145.970-145.950",
@@ -759,18 +759,18 @@
     "satnogs_id":"OTOF-8025-8953-4756-4779"
   },
   {
-    "name":"AO-85 (Fox-1A)",
+    "name":"AO-85",
     "norad_id":"40967",
     "uplink":"435.182",
-    "downlink":"145.979",
-    "beacon":"145.979",
+    "downlink":"145.980",
+    "beacon":"145.980",
     "mode":"FM CTCSS 67.0Hz\/200bps DUV",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"VQGN-3314-0779-1450-1457"
   },
   {
-    "name":"AO-91 (Fox-1B RadFxSat)",
+    "name":"AO-91",
     "norad_id":"43017",
     "uplink":"435.250",
     "downlink":"145.960",
@@ -781,7 +781,7 @@
     "satnogs_id":"PMAW-9203-2442-8666-3249"
   },
   {
-    "name":"AO-92 (Fox-1D)",
+    "name":"AO-92",
     "norad_id":"43137",
     "uplink":"435.350\/1267.350",
     "downlink":"145.880",
@@ -792,7 +792,7 @@
     "satnogs_id":"FVKF-5969-0532-6737-5899"
   },
   {
-    "name":"AO-95 (Fox-1Cliff)",
+    "name":"AO-95",
     "norad_id":"43770",
     "uplink":"435.300\/1267.300",
     "downlink":"145.920",
@@ -803,7 +803,7 @@
     "satnogs_id":"KHIK-6754-7801-4022-8938"
   },
   {
-    "name":"AO-109 (RadFXsat-2 Fox-1E)",
+    "name":"AO-109",
     "norad_id":"47311",
     "uplink":"145.860-145.890",
     "downlink":"435.790-435.760",
@@ -858,7 +858,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Arduiqube (DIY-1 DO-111)",
+    "name":"Arduiqube",
     "norad_id":"47963",
     "uplink":null,
     "downlink":"437.125",
@@ -913,7 +913,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Argus-2 (MVP-Argus)",
+    "name":"Argus-2",
     "norad_id":"45257",
     "uplink":null,
     "downlink":"437.290",
@@ -924,7 +924,7 @@
     "satnogs_id":"GFHE-3541-7447-2114-2770"
   },
   {
-    "name":"ARISSat-1 (SuitSat-2)",
+    "name":"ARISSat-1",
     "norad_id":"37772",
     "uplink":"435.742-435.758",
     "downlink":"145.938-145.922",
@@ -935,7 +935,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ARISSat-1 (SuitSat-2)",
+    "name":"ARISSat-1",
     "norad_id":"37772",
     "uplink":null,
     "downlink":"145.950",
@@ -946,7 +946,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ARISSat-1 (SuitSat-2)",
+    "name":"ARISSat-1",
     "norad_id":"37772",
     "uplink":null,
     "downlink":"145.918",
@@ -957,7 +957,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ARISSat-1 (SuitSat-2)",
+    "name":"ARISSat-1",
     "norad_id":"37772",
     "uplink":null,
     "downlink":"145.939",
@@ -979,7 +979,7 @@
     "satnogs_id":"RHUX-5355-9162-3098-2723"
   },
   {
-    "name":"ARTSAT1-INVADER (CO-77)",
+    "name":"ARTSAT1-INVADER",
     "norad_id":"39577",
     "uplink":null,
     "downlink":"437.200",
@@ -990,7 +990,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ARTSAT2-DESPATCH (FO-81)",
+    "name":"ARTSAT2-DESPATCH",
     "norad_id":"40321",
     "uplink":null,
     "downlink":null,
@@ -1045,7 +1045,7 @@
     "satnogs_id":"PEJT-8424-9765-0690-4476"
   },
   {
-    "name":"ASTROLAND-1 (GENESIS-G)",
+    "name":"ASTROLAND-1",
     "norad_id":null,
     "uplink":"145.875",
     "downlink":"436.888",
@@ -1056,7 +1056,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ASTROLAND-2 (GENESIS-J)",
+    "name":"ASTROLAND-2",
     "norad_id":null,
     "uplink":"145.925",
     "downlink":"436.666",
@@ -1078,7 +1078,7 @@
     "satnogs_id":"VTHG-6292-4004-9767-5017"
   },
   {
-    "name":"Atlantis (US02)",
+    "name":"Atlantis",
     "norad_id":"42737",
     "uplink":null,
     "downlink":"436.390",
@@ -1089,7 +1089,7 @@
     "satnogs_id":"SNRU-8765-3595-7354-2501"
   },
   {
-    "name":"ATL-1 (MO-106)",
+    "name":"ATL-1",
     "norad_id":"44830",
     "uplink":null,
     "downlink":"437.175",
@@ -1100,7 +1100,7 @@
     "satnogs_id":"ZYHY-4125-9970-1147-2424"
   },
   {
-    "name":"AubieSat-1 (AO-71)",
+    "name":"AubieSat-1",
     "norad_id":"37854",
     "uplink":null,
     "downlink":"437.475",
@@ -1188,7 +1188,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BeEagleSat (TR01)",
+    "name":"BeEagleSat",
     "norad_id":"42736",
     "uplink":null,
     "downlink":"437.370",
@@ -1320,7 +1320,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BELL (PhoneSat1)",
+    "name":"BELL",
     "norad_id":"39142",
     "uplink":null,
     "downlink":"2401.200-2431.200",
@@ -1342,7 +1342,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BHUTAN-1 (BIRD-BT)",
+    "name":"BHUTAN-1",
     "norad_id":"43591",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -1375,7 +1375,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BIRD-B (Bangladesh BRAC)",
+    "name":"BIRD-B",
     "norad_id":"42823",
     "uplink":null,
     "downlink":"437.375",
@@ -1386,7 +1386,7 @@
     "satnogs_id":"JBXT-1713-9492-3951-4005"
   },
   {
-    "name":"BIRD-G (Ghana GhanaSat-1)",
+    "name":"BIRD-G",
     "norad_id":"42821",
     "uplink":null,
     "downlink":"437.375",
@@ -1397,7 +1397,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BIRD-J (Japan Toki)",
+    "name":"BIRD-J",
     "norad_id":"42820",
     "uplink":null,
     "downlink":"437.375",
@@ -1408,7 +1408,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BIRD-M (Mongolia Mazaalai)",
+    "name":"BIRD-M",
     "norad_id":"42822",
     "uplink":null,
     "downlink":"437.375",
@@ -1419,7 +1419,7 @@
     "satnogs_id":"BGMK-0175-7442-2160-6546"
   },
   {
-    "name":"BIRD-N (Nigeria EduSat-1)",
+    "name":"BIRD-N",
     "norad_id":"42824",
     "uplink":null,
     "downlink":"437.375",
@@ -1430,7 +1430,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BIRD-BT (BHUTAN-1)",
+    "name":"BIRD-BT",
     "norad_id":"43591",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -1441,7 +1441,7 @@
     "satnogs_id":"XGQW-0108-4259-0432-9009"
   },
   {
-    "name":"BIRD-MY (UiTMSat-1)",
+    "name":"BIRD-MY",
     "norad_id":"43589",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -1452,7 +1452,7 @@
     "satnogs_id":"AWFF-8025-3088-3256-6290"
   },
   {
-    "name":"BIRD-PH (MAYA-1)",
+    "name":"BIRD-PH",
     "norad_id":"43590",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -1463,7 +1463,7 @@
     "satnogs_id":"MWXV-7244-7952-4540-2800"
   },
   {
-    "name":"BIRD-JPN (Uguisu)",
+    "name":"BIRD-JPN",
     "norad_id":"44330",
     "uplink":null,
     "downlink":"437.375",
@@ -1474,7 +1474,7 @@
     "satnogs_id":"OZTE-8267-1332-2799-5699"
   },
   {
-    "name":"BIRD-LKA (Raavana-1)",
+    "name":"BIRD-LKA",
     "norad_id":"44329",
     "uplink":null,
     "downlink":"437.375",
@@ -1485,7 +1485,7 @@
     "satnogs_id":"DAYF-8008-3500-7638-0985"
   },
   {
-    "name":"BIRD-NPL (NepaliSat-1)",
+    "name":"BIRD-NPL",
     "norad_id":"44331",
     "uplink":null,
     "downlink":"437.375",
@@ -1496,7 +1496,7 @@
     "satnogs_id":"NNNQ-5861-2134-5231-3624"
   },
   {
-    "name":"BIRDS-4 (Tsuru)",
+    "name":"BIRDS-4",
     "norad_id":"47927",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -1507,7 +1507,7 @@
     "satnogs_id":"SCFB-5106-8061-3969-1117"
   },
   {
-    "name":"BIRDS-4 (Maya-2)",
+    "name":"BIRDS-4",
     "norad_id":"47929",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -1518,7 +1518,7 @@
     "satnogs_id":"RYZT-9821-8766-4438-4997"
   },
   {
-    "name":"BIRDS-4 (GuaraniSat-1)",
+    "name":"BIRDS-4",
     "norad_id":"47931",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -1584,7 +1584,7 @@
     "satnogs_id":"RNBQ-9045-6623-3650-8949"
   },
   {
-    "name":"BO-47 (IDEFIX)",
+    "name":"BO-47",
     "norad_id":"27422",
     "uplink":null,
     "downlink":"145.840",
@@ -1595,7 +1595,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BO-48 (IDEFIX)",
+    "name":"BO-48",
     "norad_id":"27422",
     "uplink":null,
     "downlink":"435.270",
@@ -1606,7 +1606,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BO-102 (CAS-7B BP-1B)",
+    "name":"BO-102",
     "norad_id":"44443",
     "uplink":"145.900",
     "downlink":"435.690",
@@ -1617,7 +1617,7 @@
     "satnogs_id":"LNZE-6831-5626-0234-4826"
   },
   {
-    "name":"BRAC (BIRD-B)",
+    "name":"BRAC",
     "norad_id":"42823",
     "uplink":null,
     "downlink":"437.375",
@@ -1628,7 +1628,7 @@
     "satnogs_id":"JBXT-1713-9492-3951-4005"
   },
   {
-    "name":"BRICSAT2 (USNAP1 NO-103)",
+    "name":"BRICSAT2",
     "norad_id":"44355",
     "uplink":"28.120\/145.825",
     "downlink":"145.825\/435.350\/437.605*",
@@ -1639,7 +1639,7 @@
     "satnogs_id":"XWQN-8491-1910-3675-2960"
   },
   {
-    "name":"BRICSAT-P (NO-83)",
+    "name":"BRICSAT-P",
     "norad_id":"40655",
     "uplink":"28.120",
     "downlink":"435.350",
@@ -1650,7 +1650,7 @@
     "satnogs_id":"KBEL-4970-7091-3600-7423"
   },
   {
-    "name":"BRITE-AUSTRIA (CANX-3B)",
+    "name":"BRITE-AUSTRIA",
     "norad_id":"39091",
     "uplink":null,
     "downlink":"145.890\/437.365",
@@ -1749,7 +1749,7 @@
     "satnogs_id":"JCFO-8453-2271-5998-5795"
   },
   {
-    "name":"BSUSat-1(CubeBel-1)",
+    "name":"BSUSat-1",
     "norad_id":"43666",
     "uplink":"436.200",
     "downlink":"436.200\/436.990*",
@@ -1859,7 +1859,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CANX-3A (UniBRITE)",
+    "name":"CANX-3A",
     "norad_id":"39092",
     "uplink":null,
     "downlink":"145.890",
@@ -1870,7 +1870,7 @@
     "satnogs_id":"JVIG-3362-0807-4026-2397"
   },
   {
-    "name":"CANX-3B (BRITE-AUSTRIA)",
+    "name":"CANX-3B",
     "norad_id":"39091",
     "uplink":null,
     "downlink":"145.890\/437.365",
@@ -1947,7 +1947,7 @@
     "satnogs_id":"CICP-0434-9716-2826-6897"
   },
   {
-    "name":"CAPE-2 (LO-75)",
+    "name":"CAPE-2",
     "norad_id":"39382",
     "uplink":"145.825",
     "downlink":"145.822\/437.325",
@@ -1980,7 +1980,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CAS-1 (HO-68 XW-1)",
+    "name":"CAS-1",
     "norad_id":"36122",
     "uplink":"145.925-145.975",
     "downlink":"435.765-435.715",
@@ -1991,7 +1991,7 @@
     "satnogs_id":"JJGC-7637-4682-0934-3692"
   },
   {
-    "name":"CAS-1 (HO-68 XW-1)",
+    "name":"CAS-1",
     "norad_id":"36122",
     "uplink":"145.825",
     "downlink":"435.675",
@@ -2002,7 +2002,7 @@
     "satnogs_id":"JJGC-7637-4682-0934-3692"
   },
   {
-    "name":"CAS-1 (HO-68 XW-1)",
+    "name":"CAS-1",
     "norad_id":"36122",
     "uplink":null,
     "downlink":null,
@@ -2035,7 +2035,7 @@
     "satnogs_id":"WMGA-3000-1529-8035-2634"
   },
   {
-    "name":"CAS-3A (XW-2A)",
+    "name":"CAS-3A",
     "norad_id":"40903",
     "uplink":"435.030-435.050",
     "downlink":"145.685-145.665",
@@ -2046,7 +2046,7 @@
     "satnogs_id":"UCZE-8814-2695-5595-6102"
   },
   {
-    "name":"CAS-3B (XW-2B)",
+    "name":"CAS-3B",
     "norad_id":"40911",
     "uplink":"435.090-435.110",
     "downlink":"145.750-145.730",
@@ -2057,7 +2057,7 @@
     "satnogs_id":"TZEC-4580-2722-6773-9216"
   },
   {
-    "name":"CAS-3C (XW-2C)",
+    "name":"CAS-3C",
     "norad_id":"40906",
     "uplink":"435.150-435.170",
     "downlink":"145.815-145.795",
@@ -2068,7 +2068,7 @@
     "satnogs_id":"LEDR-0123-1783-1341-9342"
   },
   {
-    "name":"CAS-3D (XW-2D)",
+    "name":"CAS-3D",
     "norad_id":"40907",
     "uplink":"435.210-435.230",
     "downlink":"145.880-145.860",
@@ -2079,7 +2079,7 @@
     "satnogs_id":"TPLI-0230-3137-9154-3991"
   },
   {
-    "name":"CAS-3E (XW-2E)",
+    "name":"CAS-3E",
     "norad_id":"40909",
     "uplink":"435.270-435.290",
     "downlink":"145.935-145.915",
@@ -2090,7 +2090,7 @@
     "satnogs_id":"DTZR-4707-4114-9612-3004"
   },
   {
-    "name":"CAS-3F (XW-2F)",
+    "name":"CAS-3F",
     "norad_id":"40910",
     "uplink":"435.330-435.350",
     "downlink":"146.000-145.980",
@@ -2101,7 +2101,7 @@
     "satnogs_id":"YWAV-5902-3690-5734-3273"
   },
   {
-    "name":"CAS-3G (DCBB KAITUO-1B)",
+    "name":"CAS-3G",
     "norad_id":"40912",
     "uplink":null,
     "downlink":"145.475*\/437.950",
@@ -2112,7 +2112,7 @@
     "satnogs_id":"MUJZ-6655-6182-7273-3855"
   },
   {
-    "name":"CAS-3H (LilacSat-2)",
+    "name":"CAS-3H",
     "norad_id":"40908",
     "uplink":"144.350\/144.390",
     "downlink":"144.390\/437.225*",
@@ -2123,7 +2123,7 @@
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },
   {
-    "name":"CAS-3I (NUDT-PhoneSat)",
+    "name":"CAS-3I",
     "norad_id":"40900",
     "uplink":null,
     "downlink":"437.300",
@@ -2134,7 +2134,7 @@
     "satnogs_id":"PDYY-8479-0832-6941-1000"
   },
   {
-    "name":"CAS-4A (ZHUHAI-1 01)",
+    "name":"CAS-4A",
     "norad_id":"42761",
     "uplink":"435.210-435.230",
     "downlink":"145.880-145.860",
@@ -2145,7 +2145,7 @@
     "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {
-    "name":"CAS-4A (ZHUHAI-1 01)",
+    "name":"CAS-4A",
     "norad_id":"42761",
     "uplink":null,
     "downlink":"145.835",
@@ -2156,7 +2156,7 @@
     "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {
-    "name":"CAS-4B (ZHUHAI-1 02)",
+    "name":"CAS-4B",
     "norad_id":"42759",
     "uplink":"435.270-435.290",
     "downlink":"145.935-145.915",
@@ -2167,7 +2167,7 @@
     "satnogs_id":"NGHO-5109-0535-2414-7008"
   },
   {
-    "name":"CAS-4B (ZHUHAI-1 02)",
+    "name":"CAS-4B",
     "norad_id":"42759",
     "uplink":null,
     "downlink":"145.890",
@@ -2266,7 +2266,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CAS-6 (TIANQIN-1 TO-108)",
+    "name":"CAS-6",
     "norad_id":"44881",
     "uplink":"435.270-435.290",
     "downlink":"145.935-145.915",
@@ -2277,7 +2277,7 @@
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
-    "name":"CAS-6 (TIANQIN-1 TO-108)",
+    "name":"CAS-6",
     "norad_id":"44881",
     "uplink":null,
     "downlink":"145.890",
@@ -2288,7 +2288,7 @@
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
-    "name":"CAS-6 (TIANQIN-1 TO-108)",
+    "name":"CAS-6",
     "norad_id":"44881",
     "uplink":null,
     "downlink":null,
@@ -2376,7 +2376,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CAS-7B (BP-1B BO-102)",
+    "name":"CAS-7B",
     "norad_id":"44443",
     "uplink":"145.900",
     "downlink":"435.690",
@@ -2387,7 +2387,7 @@
     "satnogs_id":"LNZE-6831-5626-0234-4826"
   },
   {
-    "name":"CAS-7B (BP-1B BO-102)",
+    "name":"CAS-7B",
     "norad_id":"44443",
     "uplink":null,
     "downlink":null,
@@ -2618,7 +2618,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CAS-9 (XW-3 HO-113)",
+    "name":"CAS-9",
     "norad_id":"50466",
     "uplink":"145.870",
     "downlink":"435.180",
@@ -2629,7 +2629,7 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
-    "name":"CAS-9 (XW-3 HO-113)",
+    "name":"CAS-9",
     "norad_id":"50466",
     "uplink":null,
     "downlink":"435.725",
@@ -2640,7 +2640,7 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
-    "name":"CAS-9 (XW-3 HO-113)",
+    "name":"CAS-9",
     "norad_id":"50466",
     "uplink":null,
     "downlink":null,
@@ -2695,7 +2695,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CELESTA (ROBUSTA-1D)",
+    "name":"CELESTA",
     "norad_id":"53111",
     "uplink":null,
     "downlink":"436.500",
@@ -2706,7 +2706,7 @@
     "satnogs_id":"XKZZ-2829-5729-9508-2566"
   },
   {
-    "name":"Challenger (US01)",
+    "name":"Challenger",
     "norad_id":"42721",
     "uplink":null,
     "downlink":"437.510",
@@ -2794,7 +2794,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Cliff (Fox-1C AO-95)",
+    "name":"Cliff",
     "norad_id":"43770",
     "uplink":"435.300\/1267.300",
     "downlink":"145.920",
@@ -2816,7 +2816,7 @@
     "satnogs_id":"WQDE-2540-1175-6859-2485"
   },
   {
-    "name":"Columbia (US04)",
+    "name":"Columbia",
     "norad_id":"42702",
     "uplink":null,
     "downlink":"437.055",
@@ -2838,7 +2838,7 @@
     "satnogs_id":"CCSK-6056-3870-4454-6798"
   },
   {
-    "name":"COMPASS-2\/DragSail (DE04)",
+    "name":"COMPASS-2",
     "norad_id":"42777",
     "uplink":null,
     "downlink":"437.300\/2403.000",
@@ -2871,7 +2871,7 @@
     "satnogs_id":"ZKYN-9221-2374-5641-3454"
   },
   {
-    "name":"CO-55 (CUTE-I)",
+    "name":"CO-55",
     "norad_id":"27844",
     "uplink":null,
     "downlink":"437.470",
@@ -2882,7 +2882,7 @@
     "satnogs_id":"JOVH-8612-8312-2052-1559"
   },
   {
-    "name":"CO-56 (CUTE-1.7)",
+    "name":"CO-56",
     "norad_id":"28941",
     "uplink":null,
     "downlink":"437.505",
@@ -2893,7 +2893,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CO-56 (CUTE-1.7)",
+    "name":"CO-56",
     "norad_id":"28941",
     "uplink":"1268.500",
     "downlink":"437.505",
@@ -2904,7 +2904,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CO-57 (XI-IV)",
+    "name":"CO-57",
     "norad_id":"27848",
     "uplink":null,
     "downlink":"437.490",
@@ -2915,7 +2915,7 @@
     "satnogs_id":"KZUI-4275-4790-4963-1514"
   },
   {
-    "name":"CO-58 (XI-V)",
+    "name":"CO-58",
     "norad_id":"28895",
     "uplink":null,
     "downlink":"437.345",
@@ -2926,7 +2926,7 @@
     "satnogs_id":"IYDL-1832-4040-0556-1587"
   },
   {
-    "name":"CO-65 (CUTE1.7+APDII)",
+    "name":"CO-65",
     "norad_id":"32785",
     "uplink":null,
     "downlink":"437.475",
@@ -2937,7 +2937,7 @@
     "satnogs_id":"SRMQ-6676-8759-6509-8693"
   },
   {
-    "name":"CO-65 (CUTE1.7+APDII)",
+    "name":"CO-65",
     "norad_id":"32785",
     "uplink":"1267.600",
     "downlink":"437.475",
@@ -2948,7 +2948,7 @@
     "satnogs_id":"SRMQ-6676-8759-6509-8693"
   },
   {
-    "name":"CO-66 (SEEDS-II)",
+    "name":"CO-66",
     "norad_id":"32791",
     "uplink":null,
     "downlink":"437.485",
@@ -2959,7 +2959,7 @@
     "satnogs_id":"WLHF-1710-4037-0881-2319"
   },
   {
-    "name":"CO-77 (ARTSAT1-INVADER)",
+    "name":"CO-77",
     "norad_id":"39577",
     "uplink":null,
     "downlink":"437.200",
@@ -3036,7 +3036,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CP-7 (DAVE)",
+    "name":"CP-7",
     "norad_id":"43615",
     "uplink":null,
     "downlink":"437.150",
@@ -3047,7 +3047,7 @@
     "satnogs_id":"MUDL-3446-6586-9825-4790"
   },
   {
-    "name":"CP-8 (IPEX)",
+    "name":"CP-8",
     "norad_id":"39471",
     "uplink":null,
     "downlink":"437.270",
@@ -3058,7 +3058,7 @@
     "satnogs_id":"IMUE-5672-2044-2610-5888"
   },
   {
-    "name":"CP-9 (LEO)",
+    "name":"CP-9",
     "norad_id":"44360",
     "uplink":null,
     "downlink":"437.505",
@@ -3069,7 +3069,7 @@
     "satnogs_id":"RDRK-2196-1112-4228-3474"
   },
   {
-    "name":"CP-10 (ExoCube-1)",
+    "name":"CP-10",
     "norad_id":"40380",
     "uplink":null,
     "downlink":"437.270",
@@ -3080,7 +3080,7 @@
     "satnogs_id":"CFJB-2077-3855-6332-8459"
   },
   {
-    "name":"CP-11 (ISX)",
+    "name":"CP-11",
     "norad_id":"43856",
     "uplink":null,
     "downlink":"437.150",
@@ -3091,7 +3091,7 @@
     "satnogs_id":"WSKN-9493-7628-4683-4260"
   },
   {
-    "name":"CP-12 (ExoCube-2)",
+    "name":"CP-12",
     "norad_id":"47319",
     "uplink":null,
     "downlink":"437.150",
@@ -3100,17 +3100,6 @@
     "callsign":"KK6HIT",
     "status":"inactive",
     "satnogs_id":"PRVO-2434-7302-8951-3277"
-  },
-  {
-    "name":"Cliff (Fox-1C AO-95)",
-    "norad_id":null,
-    "uplink":"435.300\/1267.300",
-    "downlink":"145.920",
-    "beacon":null,
-    "mode":"FM CTCSS 67.0Hz\/200bps DUV",
-    "callsign":null,
-    "status":"active",
-    "satnogs_id":null
   },
   {
     "name":"CryoCube-1",
@@ -3135,7 +3124,7 @@
     "satnogs_id":"CKMD-9513-1025-4842-0352"
   },
   {
-    "name":"CSS (TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"435.06839",
     "downlink":"145.98723",
@@ -3146,7 +3135,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS (TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"145.850",
     "downlink":"145.985",
@@ -3157,7 +3146,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS (TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"435.050",
     "downlink":"436.510",
@@ -3168,7 +3157,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS (TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"145.875",
     "downlink":"436.510",
@@ -3179,7 +3168,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS (TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"435.075",
     "downlink":"145.985",
@@ -3190,7 +3179,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS (TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -3201,7 +3190,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS (TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"437.550",
     "downlink":"437.550",
@@ -3212,7 +3201,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS (TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"145.850",
     "downlink":"145.985",
@@ -3223,7 +3212,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS (TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"435.050",
     "downlink":"436.510",
@@ -3300,7 +3289,7 @@
     "satnogs_id":"NGTB-2644-7604-9336-6059"
   },
   {
-    "name":"CubeBel-1(BSUSat-1)",
+    "name":"CubeBel-1",
     "norad_id":"43666",
     "uplink":"436.200",
     "downlink":"436.200\/436.990*",
@@ -3322,7 +3311,7 @@
     "satnogs_id":"HXCH-9043-9893-2952-4877"
   },
   {
-    "name":"CubeBug-2 (LO-74)",
+    "name":"CubeBug-2",
     "norad_id":"39440",
     "uplink":null,
     "downlink":"437.445",
@@ -3355,7 +3344,7 @@
     "satnogs_id":"VIJX-4340-5912-4059-7483"
   },
   {
-    "name":"CubeSX-HSE-2 (SXC3-213 HSE-AIS)",
+    "name":"CubeSX-HSE-2",
     "norad_id":"53383",
     "uplink":null,
     "downlink":"435.570",
@@ -3421,7 +3410,7 @@
     "satnogs_id":"YMFQ-1347-4330-8510-2436"
   },
   {
-    "name":"CUTE-I (CO-55)",
+    "name":"CUTE-I",
     "norad_id":"27844",
     "uplink":null,
     "downlink":"437.470",
@@ -3432,7 +3421,7 @@
     "satnogs_id":"JOVH-8612-8312-2052-1559"
   },
   {
-    "name":"CUTE-1.7 (CO-56)",
+    "name":"CUTE-1.7",
     "norad_id":"28941",
     "uplink":null,
     "downlink":"437.505",
@@ -3443,7 +3432,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CUTE-1.7 (CO-56)",
+    "name":"CUTE-1.7",
     "norad_id":"28941",
     "uplink":"1268.500",
     "downlink":"437.505",
@@ -3454,7 +3443,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CUTE1.7+APDII (CO-65)",
+    "name":"CUTE1.7+APDII",
     "norad_id":"32785",
     "uplink":null,
     "downlink":"437.475",
@@ -3465,7 +3454,7 @@
     "satnogs_id":"SRMQ-6676-8759-6509-8693"
   },
   {
-    "name":"CUTE1.7+APDII (CO-65)",
+    "name":"CUTE1.7+APDII",
     "norad_id":"32785",
     "uplink":"1267.600",
     "downlink":"437.475",
@@ -3531,7 +3520,7 @@
     "satnogs_id":null
   },
   {
-    "name":"DAVE (CP-7)",
+    "name":"DAVE",
     "norad_id":"43615",
     "uplink":null,
     "downlink":"437.150",
@@ -3553,7 +3542,7 @@
     "satnogs_id":null
   },
   {
-    "name":"DCBB (CAS-3G KAITUO-1B)",
+    "name":"DCBB",
     "norad_id":"40912",
     "uplink":null,
     "downlink":"145.475*\/437.950",
@@ -3575,7 +3564,7 @@
     "satnogs_id":"LBLF-9256-3450-0417-4224"
   },
   {
-    "name":"DELFI-C3 (DO-64)",
+    "name":"DELFI-C3",
     "norad_id":"32789",
     "uplink":null,
     "downlink":"145.870",
@@ -3586,7 +3575,7 @@
     "satnogs_id":"TNXT-1653-3073-9102-5159"
   },
   {
-    "name":"DELFI-C3 (DO-64)",
+    "name":"DELFI-C3",
     "norad_id":"32789",
     "uplink":"435.530-435.570",
     "downlink":"145.920-145.880",
@@ -3663,7 +3652,7 @@
     "satnogs_id":null
   },
   {
-    "name":"DESPATCH (FO-81)",
+    "name":"DESPATCH",
     "norad_id":"40321",
     "uplink":null,
     "downlink":null,
@@ -3674,7 +3663,7 @@
     "satnogs_id":null
   },
   {
-    "name":"DHABISAT (MYSAT-2)",
+    "name":"DHABISAT",
     "norad_id":"49017",
     "uplink":null,
     "downlink":"436.908",
@@ -3696,7 +3685,7 @@
     "satnogs_id":"ZTNW-3837-0912-0267-8403"
   },
   {
-    "name":"Diwata-2 (PO-101)",
+    "name":"Diwata-2",
     "norad_id":"43678",
     "uplink":"437.500",
     "downlink":"145.900",
@@ -3707,7 +3696,7 @@
     "satnogs_id":"HIEK-3729-5596-2727-4744"
   },
   {
-    "name":"DIY-1 (Arduiqube DO-111)",
+    "name":"DIY-1",
     "norad_id":"47963",
     "uplink":null,
     "downlink":"437.125",
@@ -3729,7 +3718,7 @@
     "satnogs_id":null
   },
   {
-    "name":"DOSAAF-85 (RS-44)",
+    "name":"DOSAAF-85",
     "norad_id":"44909",
     "uplink":"145.935-145.995",
     "downlink":"435.670-435.610",
@@ -3773,7 +3762,7 @@
     "satnogs_id":null
   },
   {
-    "name":"DO-17 (DOVE)",
+    "name":"DO-17",
     "norad_id":"20440",
     "uplink":null,
     "downlink":"145.825",
@@ -3784,7 +3773,7 @@
     "satnogs_id":null
   },
   {
-    "name":"DO-64 (DELFI-C3)",
+    "name":"DO-64",
     "norad_id":"32789",
     "uplink":null,
     "downlink":"145.870",
@@ -3795,7 +3784,7 @@
     "satnogs_id":"TNXT-1653-3073-9102-5159"
   },
   {
-    "name":"DO-64 (DELFI-C3)",
+    "name":"DO-64",
     "norad_id":"32789",
     "uplink":"435.530-435.570",
     "downlink":"145.920-145.880",
@@ -3806,7 +3795,7 @@
     "satnogs_id":"TNXT-1653-3073-9102-5159"
   },
   {
-    "name":"DO-111 (DIY-1 Arduiqube)",
+    "name":"DO-111",
     "norad_id":"47963",
     "uplink":null,
     "downlink":"437.125",
@@ -3817,7 +3806,7 @@
     "satnogs_id":"UVHJ-3379-3188-8525-8707"
   },
   {
-    "name":"DRAGONSat (AggieSat-2)",
+    "name":"DRAGONSat",
     "norad_id":"35690",
     "uplink":null,
     "downlink":"436.250",
@@ -3828,7 +3817,7 @@
     "satnogs_id":null
   },
   {
-    "name":"DRAGONSat (BEVO-1)",
+    "name":"DRAGONSat",
     "norad_id":"35690",
     "uplink":null,
     "downlink":"437.325",
@@ -3850,7 +3839,7 @@
     "satnogs_id":"ZDHX-1438-9792-0063-7767"
   },
   {
-    "name":"DragSail\/COMPASS-2 (DE04)",
+    "name":"DragSail",
     "norad_id":"42771",
     "uplink":null,
     "downlink":"437.300\/2403.000",
@@ -3861,7 +3850,7 @@
     "satnogs_id":null
   },
   {
-    "name":"DSLWP-A1(A) (LO-93)",
+    "name":"DSLWP-A1(A)",
     "norad_id":"43471",
     "uplink":null,
     "downlink":"435.425\/2222.810",
@@ -3872,7 +3861,7 @@
     "satnogs_id":null
   },
   {
-    "name":"DSLWP-A2(B) (LO-94)",
+    "name":"DSLWP-A2(B)",
     "norad_id":"43472",
     "uplink":null,
     "downlink":"435.400\/2275.220",
@@ -3927,7 +3916,7 @@
     "satnogs_id":"YXQQ-6207-4287-8188-9048"
   },
   {
-    "name":"DUTHSat (GR01)",
+    "name":"DUTHSat",
     "norad_id":"42724",
     "uplink":null,
     "downlink":"436.420",
@@ -4026,7 +4015,7 @@
     "satnogs_id":"QTXY-8933-7836-7484-6250"
   },
   {
-    "name":"E1P (Explorer-1 Prime)",
+    "name":"E1P",
     "norad_id":null,
     "uplink":"437.305",
     "downlink":"437.505",
@@ -4048,7 +4037,7 @@
     "satnogs_id":"GTMF-2365-6960-5386-3224"
   },
   {
-    "name":"Eagle-1 (BeakerSat-1)",
+    "name":"Eagle-1",
     "norad_id":"39437",
     "uplink":null,
     "downlink":"437.465",
@@ -4059,7 +4048,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Eagle-2 ($50SAT MO-76)",
+    "name":"Eagle-2",
     "norad_id":"39436",
     "uplink":null,
     "downlink":"437.505",
@@ -4092,7 +4081,7 @@
     "satnogs_id":"NMSF-0466-6077-1186-9611"
   },
   {
-    "name":"EASAT-2 (SO-114)",
+    "name":"EASAT-2",
     "norad_id":"51081",
     "uplink":"145.875",
     "downlink":"436.666",
@@ -4147,7 +4136,7 @@
     "satnogs_id":null
   },
   {
-    "name":"EduSat-1 (BIRD-N)",
+    "name":"EduSat-1",
     "norad_id":"42824",
     "uplink":null,
     "downlink":"437.375",
@@ -4158,7 +4147,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Egycubesat-1 (NARSScube-1)",
+    "name":"Egycubesat-1",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -4224,7 +4213,7 @@
     "satnogs_id":"XJEY-1734-2475-9790-3893"
   },
   {
-    "name":"EO-79 (QB50p1 FUNcube-3)",
+    "name":"EO-79",
     "norad_id":"40025",
     "uplink":"435.047-435.077",
     "downlink":"145.965-145.935",
@@ -4235,7 +4224,7 @@
     "satnogs_id":"GJDY-0208-2030-6329-7076"
   },
   {
-    "name":"EO-80 (QB50p2)",
+    "name":"EO-80",
     "norad_id":"40032",
     "uplink":"435.080",
     "downlink":"145.880\/145.840",
@@ -4246,7 +4235,7 @@
     "satnogs_id":"HHWQ-8145-7306-2252-6043"
   },
   {
-    "name":"EO-88 (FUNcube-5 Nayif-1)",
+    "name":"EO-88",
     "norad_id":"42017",
     "uplink":"435.015-435.045",
     "downlink":"145.990-145.960",
@@ -4301,7 +4290,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Es'Hail-2 (Phase-4A QO-100)",
+    "name":"Es'Hail-2",
     "norad_id":"43700",
     "uplink":"2400.050-2400.300",
     "downlink":"10489.550-10489.800",
@@ -4312,7 +4301,7 @@
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
-    "name":"Es'Hail-2 (Phase-4A QO-100)",
+    "name":"Es'Hail-2",
     "norad_id":"43700",
     "uplink":"2401.500-2409.500",
     "downlink":"10491.000-10499.000",
@@ -4323,7 +4312,7 @@
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
-    "name":"ExAlta-1 (CA03)",
+    "name":"ExAlta-1",
     "norad_id":"42734",
     "uplink":null,
     "downlink":"436.705",
@@ -4334,7 +4323,7 @@
     "satnogs_id":"KMVK-3551-1511-0480-9469"
   },
   {
-    "name":"EXOCONNECT (D-Star One)",
+    "name":"EXOCONNECT",
     "norad_id":"44413",
     "uplink":null,
     "downlink":"435.700",
@@ -4345,7 +4334,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ExoCube-1 (CP-10)",
+    "name":"ExoCube-1",
     "norad_id":"40380",
     "uplink":null,
     "downlink":"437.270",
@@ -4356,7 +4345,7 @@
     "satnogs_id":"CFJB-2077-3855-6332-8459"
   },
   {
-    "name":"ExoCube-2 (CP-12)",
+    "name":"ExoCube-2",
     "norad_id":"47319",
     "uplink":null,
     "downlink":"437.150",
@@ -4367,7 +4356,7 @@
     "satnogs_id":"PRVO-2434-7302-8951-3277"
   },
   {
-    "name":"ExseedSat-1 (VO-96)",
+    "name":"ExseedSat-1",
     "norad_id":null,
     "uplink":"435.340",
     "downlink":"145.900",
@@ -4422,7 +4411,7 @@
     "satnogs_id":"XKYJ-4339-8214-6490-1978"
   },
   {
-    "name":"FASTRAC-1 (FO-69)",
+    "name":"FASTRAC-1",
     "norad_id":"37227",
     "uplink":"145.825",
     "downlink":"437.345",
@@ -4433,7 +4422,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FASTRAC-1 (FO-69)",
+    "name":"FASTRAC-1",
     "norad_id":"37227",
     "uplink":"145.980",
     "downlink":"437.345",
@@ -4444,7 +4433,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FASTRAC-2 (FO-70)",
+    "name":"FASTRAC-2",
     "norad_id":"37380",
     "uplink":"435.025",
     "downlink":"145.825",
@@ -4455,7 +4444,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FASTRAC-2 (FO-70)",
+    "name":"FASTRAC-2",
     "norad_id":"37380",
     "uplink":"437.345",
     "downlink":"145.825",
@@ -4466,7 +4455,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FCAL (NO-62)",
+    "name":"FCAL",
     "norad_id":"29667",
     "uplink":null,
     "downlink":"437.385",
@@ -4576,7 +4565,7 @@
     "satnogs_id":"ZAOV-7296-2730-4478-2104"
   },
   {
-    "name":"FMN-1 (FengMaNiu-1)",
+    "name":"FMN-1",
     "norad_id":"43192",
     "uplink":"145.945",
     "downlink":"435.350",
@@ -4785,7 +4774,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Fox-1A (AO-85)",
+    "name":"Fox-1A",
     "norad_id":"40967",
     "uplink":"435.182",
     "downlink":"145.980",
@@ -4796,7 +4785,7 @@
     "satnogs_id":"VQGN-3314-0779-1450-1457"
   },
   {
-    "name":"Fox-1B (RadFxSat AO-91)",
+    "name":"Fox-1B",
     "norad_id":"43017",
     "uplink":"435.250",
     "downlink":"145.960",
@@ -4807,7 +4796,7 @@
     "satnogs_id":"PMAW-9203-2442-8666-3249"
   },
   {
-    "name":"Fox-1C (Cliff AO-95)",
+    "name":"Fox-1C",
     "norad_id":"43770",
     "uplink":"435.300\/1267.300",
     "downlink":"145.920",
@@ -4818,7 +4807,7 @@
     "satnogs_id":"KHIK-6754-7801-4022-8938"
   },
   {
-    "name":"Fox-1D (AO-92)",
+    "name":"Fox-1D",
     "norad_id":"43137",
     "uplink":"435.350\/1267.350",
     "downlink":"145.880",
@@ -4829,7 +4818,7 @@
     "satnogs_id":"FVKF-5969-0532-6737-5899"
   },
   {
-    "name":"Fox-1E (RadFXsat-2 AO-109)",
+    "name":"Fox-1E",
     "norad_id":"47311",
     "uplink":"145.860-145.890",
     "downlink":"435.790-435.760",
@@ -4840,7 +4829,7 @@
     "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
   {
-    "name":"FO-12 (JAS-1)",
+    "name":"FO-12",
     "norad_id":"16909",
     "uplink":"145.900-146.000",
     "downlink":"435.900-435.800",
@@ -4851,7 +4840,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FO-12 (JAS-1)",
+    "name":"FO-12",
     "norad_id":"16909",
     "uplink":"145.85\/87\/89\/91",
     "downlink":"435.910",
@@ -4862,7 +4851,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FO-20 (JAS-1b)",
+    "name":"FO-20",
     "norad_id":"20480",
     "uplink":"145.900-146.000",
     "downlink":"435.900-435.800",
@@ -4873,7 +4862,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FO-20 (JAS-1b)",
+    "name":"FO-20",
     "norad_id":"20480",
     "uplink":"145.85\/87\/89\/91",
     "downlink":"435.910",
@@ -4884,7 +4873,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FO-29 (JAS-2)",
+    "name":"FO-29",
     "norad_id":"24278",
     "uplink":"145.900-146.000",
     "downlink":"435.900-435.800",
@@ -4895,7 +4884,7 @@
     "satnogs_id":"XTKP-9404-9174-4088-2406"
   },
   {
-    "name":"FO-29 (JAS-2)",
+    "name":"FO-29",
     "norad_id":"24278",
     "uplink":"145.85\/87\/89\/91",
     "downlink":"435.910",
@@ -4906,7 +4895,7 @@
     "satnogs_id":"XTKP-9404-9174-4088-2406"
   },
   {
-    "name":"FO-69 (FASTRAC-1)",
+    "name":"FO-69",
     "norad_id":"37227",
     "uplink":"145.825",
     "downlink":"437.345",
@@ -4917,7 +4906,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FO-69 (FASTRAC-1)",
+    "name":"FO-69",
     "norad_id":"37227",
     "uplink":"145.980",
     "downlink":"437.345",
@@ -4928,7 +4917,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FO-70 (FASTRAC-2)",
+    "name":"FO-70",
     "norad_id":"37380",
     "uplink":"435.025",
     "downlink":"145.825",
@@ -4939,7 +4928,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FO-70 (FASTRAC-2)",
+    "name":"FO-70",
     "norad_id":"37380",
     "uplink":"437.345",
     "downlink":"145.825",
@@ -4950,7 +4939,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FO-81 (ARTSAT2-DESPATCH)",
+    "name":"FO-81",
     "norad_id":"40321",
     "uplink":null,
     "downlink":null,
@@ -4961,7 +4950,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FO-98 (OrigamiSat-1)",
+    "name":"FO-98",
     "norad_id":"43933",
     "uplink":null,
     "downlink":"437.505\/5840.000",
@@ -4972,7 +4961,7 @@
     "satnogs_id":"FTGL-8131-7728-0174-9617"
   },
   {
-    "name":"FO-99 (NEXUS)",
+    "name":"FO-99",
     "norad_id":"43937",
     "uplink":"145.900-145.930",
     "downlink":"435.910-435.880",
@@ -4994,7 +4983,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FUNcube-1 (AO-73)",
+    "name":"FUNcube-1",
     "norad_id":"39444",
     "uplink":"435.130-435.150",
     "downlink":"145.970-145.950",
@@ -5005,7 +4994,7 @@
     "satnogs_id":"OTOF-8025-8953-4756-4779"
   },
   {
-    "name":"FUNcube-2 (on UKube-1)",
+    "name":"FUNcube-2",
     "norad_id":"40074",
     "uplink":"435.060-435.080",
     "downlink":"145.950-145.930",
@@ -5016,7 +5005,7 @@
     "satnogs_id":"MYVF-9479-6273-3061-0441"
   },
   {
-    "name":"FUNcube-3 (QB50p1 EO-79)",
+    "name":"FUNcube-3",
     "norad_id":"40025",
     "uplink":"435.047-435.077",
     "downlink":"145.965-145.935",
@@ -5038,7 +5027,7 @@
     "satnogs_id":"SEXU-2964-9908-3979-4793"
   },
   {
-    "name":"FUNcube-5 (Nayif-1 EO-88)",
+    "name":"FUNcube-5",
     "norad_id":"42017",
     "uplink":"435.015-435.045",
     "downlink":"145.990-145.960",
@@ -5049,7 +5038,7 @@
     "satnogs_id":"SVPP-9764-1942-2462-5319"
   },
   {
-    "name":"FUNcube-6 (JY1Sat JO-97)",
+    "name":"FUNcube-6",
     "norad_id":"43803",
     "uplink":"435.100-435.120",
     "downlink":"145.875-145.855",
@@ -5126,7 +5115,7 @@
     "satnogs_id":null
   },
   {
-    "name":"GENESIS-G (ASTROLAND-1)",
+    "name":"GENESIS-G",
     "norad_id":null,
     "uplink":"145.875",
     "downlink":"436.888",
@@ -5137,7 +5126,7 @@
     "satnogs_id":null
   },
   {
-    "name":"GENESIS-J (ASTROLAND-2)",
+    "name":"GENESIS-J",
     "norad_id":null,
     "uplink":"145.925",
     "downlink":"436.666",
@@ -5181,7 +5170,7 @@
     "satnogs_id":"QNCD-8954-6090-5430-2718"
   },
   {
-    "name":"GhanaSat-1 (BIRD-G)",
+    "name":"GhanaSat-1",
     "norad_id":"42821",
     "uplink":null,
     "downlink":"437.375",
@@ -5258,7 +5247,7 @@
     "satnogs_id":null
   },
   {
-    "name":"GO-32 (TechSat-1B)",
+    "name":"GO-32",
     "norad_id":"25397",
     "uplink":"145.850\/145.930",
     "downlink":"435.225\/435.325*",
@@ -5280,7 +5269,7 @@
     "satnogs_id":"HFFD-8697-8440-3101-3937"
   },
   {
-    "name":"GRAHAM (PhoneSat1)",
+    "name":"GRAHAM",
     "norad_id":"39146",
     "uplink":null,
     "downlink":"2401.200-2431.200",
@@ -5335,7 +5324,7 @@
     "satnogs_id":"ABTD-1506-2343-8499-5530"
   },
   {
-    "name":"GuaraniSat-1 (BIRDS-4)",
+    "name":"GuaraniSat-1",
     "norad_id":"47931",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -5346,7 +5335,7 @@
     "satnogs_id":"XGOP-6666-1396-1633-1810"
   },
   {
-    "name":"HADES (SO-115)",
+    "name":"HADES",
     "norad_id":"51080",
     "uplink":"145.925",
     "downlink":"436.888",
@@ -5357,7 +5346,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Hamsat (VO-52)",
+    "name":"Hamsat",
     "norad_id":"28650",
     "uplink":"435.220-435.280",
     "downlink":"145.930-145.870",
@@ -5368,7 +5357,7 @@
     "satnogs_id":"MNUP-5257-9728-2566-4220"
   },
   {
-    "name":"Hamsat (VO-52)",
+    "name":"Hamsat",
     "norad_id":"28650",
     "uplink":"435.225-435.275",
     "downlink":"145.925-145.875",
@@ -5401,7 +5390,7 @@
     "satnogs_id":null
   },
   {
-    "name":"HAVELSAT (TR02)",
+    "name":"HAVELSAT",
     "norad_id":"42700",
     "uplink":null,
     "downlink":"436.845",
@@ -5412,7 +5401,7 @@
     "satnogs_id":"TBAT-2500-7857-8558-4608"
   },
   {
-    "name":"HawaiiSat1 (HiakaSat1)",
+    "name":"HawaiiSat1",
     "norad_id":null,
     "uplink":null,
     "downlink":"145.9805",
@@ -5434,7 +5423,7 @@
     "satnogs_id":null
   },
   {
-    "name":"HA-1 (Zhou Enlai Huai'An-1)",
+    "name":"HA-1",
     "norad_id":"43156",
     "uplink":"145.930",
     "downlink":"436.950",
@@ -5478,7 +5467,7 @@
     "satnogs_id":"JPSK-5862-0649-3000-0292"
   },
   {
-    "name":"Hirogari (OPUSAT-II)",
+    "name":"Hirogari",
     "norad_id":"47930",
     "uplink":"436.500",
     "downlink":"145.900",
@@ -5489,7 +5478,7 @@
     "satnogs_id":"ZVPZ-0777-4479-4472-0152"
   },
   {
-    "name":"HITOMI (PRISM)",
+    "name":"HITOMI",
     "norad_id":"33493",
     "uplink":null,
     "downlink":"437.425",
@@ -5500,7 +5489,7 @@
     "satnogs_id":"VAJK-7711-8203-8371-3078"
   },
   {
-    "name":"Hoopoe (IL01)",
+    "name":"Hoopoe",
     "norad_id":"42718",
     "uplink":null,
     "downlink":"437.740",
@@ -5555,7 +5544,7 @@
     "satnogs_id":"VJOC-8812-6508-8111-4056"
   },
   {
-    "name":"HO-59 (HITSAT)",
+    "name":"HO-59",
     "norad_id":"29484",
     "uplink":"145.980",
     "downlink":"437.425",
@@ -5566,7 +5555,7 @@
     "satnogs_id":null
   },
   {
-    "name":"HO-68 (XW-1 CAS-1)",
+    "name":"HO-68",
     "norad_id":"36122",
     "uplink":"145.925-145.975",
     "downlink":"435.765-435.715",
@@ -5577,7 +5566,7 @@
     "satnogs_id":"JJGC-7637-4682-0934-3692"
   },
   {
-    "name":"HO-68 (XW-1 CAS-1)",
+    "name":"HO-68",
     "norad_id":"36122",
     "uplink":"145.825",
     "downlink":"435.675",
@@ -5588,7 +5577,7 @@
     "satnogs_id":"JJGC-7637-4682-0934-3692"
   },
   {
-    "name":"HO-68 (XW-1 CAS-1)",
+    "name":"HO-68",
     "norad_id":"36122",
     "uplink":null,
     "downlink":null,
@@ -5599,7 +5588,7 @@
     "satnogs_id":"JJGC-7637-4682-0934-3692"
   },
   {
-    "name":"HO-107 (HuskySat-1)",
+    "name":"HO-107",
     "norad_id":"45119",
     "uplink":"145.910-145.940",
     "downlink":"435.840-435.810",
@@ -5610,7 +5599,7 @@
     "satnogs_id":"RPKQ-8508-2351-2344-0188"
   },
   {
-    "name":"HO-107 (HuskySat-1)",
+    "name":"HO-107",
     "norad_id":"45119",
     "uplink":null,
     "downlink":"435.800\/24049.000",
@@ -5621,7 +5610,7 @@
     "satnogs_id":"RPKQ-8508-2351-2344-0188"
   },
   {
-    "name":"HO-113 (XW-3 CAS-9)",
+    "name":"HO-113",
     "norad_id":"50466",
     "uplink":"145.870",
     "downlink":"435.180",
@@ -5632,7 +5621,7 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
-    "name":"HO-113 (XW-3 CAS-9)",
+    "name":"HO-113",
     "norad_id":"50466",
     "uplink":null,
     "downlink":null,
@@ -5643,7 +5632,7 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
-    "name":"HO-113 (XW-3 CAS-9)",
+    "name":"HO-113",
     "norad_id":"50466",
     "uplink":null,
     "downlink":"435.725",
@@ -5676,7 +5665,7 @@
     "satnogs_id":"ISTU-1593-3487-2251-7574"
   },
   {
-    "name":"HuskySat-1 (HO-107)",
+    "name":"HuskySat-1",
     "norad_id":"45119",
     "uplink":"145.910-145.940",
     "downlink":"435.840-435.810",
@@ -5687,7 +5676,7 @@
     "satnogs_id":"RPKQ-8508-2351-2344-0188"
   },
   {
-    "name":"HuskySat-1 (HO-107)",
+    "name":"HuskySat-1",
     "norad_id":"45119",
     "uplink":null,
     "downlink":"435.800*\/24049.000",
@@ -5753,7 +5742,7 @@
     "satnogs_id":"FIOW-8506-8934-6705-7282"
   },
   {
-    "name":"IDEFIX (BO-47)",
+    "name":"IDEFIX",
     "norad_id":"27422",
     "uplink":null,
     "downlink":"145.840",
@@ -5764,7 +5753,7 @@
     "satnogs_id":null
   },
   {
-    "name":"IDEFIX (BO-48)",
+    "name":"IDEFIX",
     "norad_id":"27422",
     "uplink":null,
     "downlink":"435.270",
@@ -5808,7 +5797,7 @@
     "satnogs_id":null
   },
   {
-    "name":"InflateSail (GB06)",
+    "name":"InflateSail",
     "norad_id":"42770",
     "uplink":null,
     "downlink":"436.060",
@@ -5852,7 +5841,7 @@
     "satnogs_id":null
   },
   {
-    "name":"INSPIRE-2 (AU03)",
+    "name":"INSPIRE-2",
     "norad_id":"42731",
     "uplink":null,
     "downlink":"436.330",
@@ -5885,7 +5874,7 @@
     "satnogs_id":"AWLV-5462-4771-2461-0551"
   },
   {
-    "name":"INVADER (CO-77)",
+    "name":"INVADER",
     "norad_id":"39577",
     "uplink":null,
     "downlink":"437.200",
@@ -5973,7 +5962,7 @@
     "satnogs_id":null
   },
   {
-    "name":"IO-26 (ITAMSAT)",
+    "name":"IO-26",
     "norad_id":"22826",
     "uplink":"145.875-145.950",
     "downlink":"435.822\/435.867",
@@ -5984,7 +5973,7 @@
     "satnogs_id":"NRSU-5773-9133-8545-6426"
   },
   {
-    "name":"IO-86 (LAPAN-A2 ORARI)",
+    "name":"IO-86",
     "norad_id":"40931",
     "uplink":"145.880\/145.825",
     "downlink":"435.880\/145.825",
@@ -5995,7 +5984,7 @@
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
   {
-    "name":"IPEX (CP-8)",
+    "name":"IPEX",
     "norad_id":"39471",
     "uplink":null,
     "downlink":"437.270",
@@ -6050,7 +6039,7 @@
     "satnogs_id":null
   },
   {
-    "name":"iSat (D-Star ONE)",
+    "name":"iSat",
     "norad_id":"43879",
     "uplink":"437.325",
     "downlink":"435.525\/435.700*",
@@ -6061,7 +6050,7 @@
     "satnogs_id":"VLTM-4130-8711-4931-9078"
   },
   {
-    "name":"ISOI (SXC3-219 Medex)",
+    "name":"ISOI",
     "norad_id":"53381",
     "uplink":null,
     "downlink":"437.650",
@@ -6149,7 +6138,7 @@
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
   },
   {
-    "name":"ISX (CP-11)",
+    "name":"ISX",
     "norad_id":"43856",
     "uplink":null,
     "downlink":"437.150",
@@ -6182,7 +6171,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ITF-2 (TO-89)",
+    "name":"ITF-2",
     "norad_id":"41932",
     "uplink":null,
     "downlink":"437.525",
@@ -6237,7 +6226,7 @@
     "satnogs_id":"FLRT-9057-4077-2524-9105"
   },
   {
-    "name":"JAS-1 (FO-12)",
+    "name":"JAS-1",
     "norad_id":"16909",
     "uplink":"145.900-146.000",
     "downlink":"435.900-435.800",
@@ -6248,7 +6237,7 @@
     "satnogs_id":null
   },
   {
-    "name":"JAS-1 (FO-12)",
+    "name":"JAS-1",
     "norad_id":"16909",
     "uplink":"145.85\/87\/89\/91",
     "downlink":"435.910",
@@ -6259,7 +6248,7 @@
     "satnogs_id":null
   },
   {
-    "name":"JAS-1b (FO-20)",
+    "name":"JAS-1b",
     "norad_id":"20480",
     "uplink":"145.900-146.000",
     "downlink":"435.900-435.800",
@@ -6270,7 +6259,7 @@
     "satnogs_id":null
   },
   {
-    "name":"JAS-1b (FO-20)",
+    "name":"JAS-1b",
     "norad_id":"20480",
     "uplink":"145.85\/87\/89\/91",
     "downlink":"435.910",
@@ -6281,7 +6270,7 @@
     "satnogs_id":null
   },
   {
-    "name":"JAS-2 (FO-29)",
+    "name":"JAS-2",
     "norad_id":"24278",
     "uplink":"145.900-146.000",
     "downlink":"435.900-435.800",
@@ -6292,7 +6281,7 @@
     "satnogs_id":"XTKP-9404-9174-4088-2406"
   },
   {
-    "name":"JAS-2 (FO-29)",
+    "name":"JAS-2",
     "norad_id":"24278",
     "uplink":"145.85\/87\/89\/91",
     "downlink":"435.910",
@@ -6303,7 +6292,7 @@
     "satnogs_id":"XTKP-9404-9174-4088-2406"
   },
   {
-    "name":"JAWSAT (WO-39)",
+    "name":"JAWSAT",
     "norad_id":"26061",
     "uplink":"145.860",
     "downlink":"437.070\/437.175",
@@ -6314,7 +6303,7 @@
     "satnogs_id":null
   },
   {
-    "name":"JO-97 (JY1Sat FUNcube-6)",
+    "name":"JO-97",
     "norad_id":"43803",
     "uplink":"435.100-435.120",
     "downlink":"145.875-145.855",
@@ -6336,7 +6325,7 @@
     "satnogs_id":"OXEU-3062-3001-4128-0233"
   },
   {
-    "name":"Juvenile-1F(Shaonian-Xing)",
+    "name":"Juvenile-1F",
     "norad_id":"43199",
     "uplink":null,
     "downlink":null,
@@ -6347,7 +6336,7 @@
     "satnogs_id":"UFIT-6008-6845-0096-1151"
   },
   {
-    "name":"JY1Sat (FUNcube-6 JO-97)",
+    "name":"JY1Sat",
     "norad_id":"43803",
     "uplink":"435.100-435.120",
     "downlink":"145.875-145.855",
@@ -6391,7 +6380,7 @@
     "satnogs_id":"BDQK-1293-6559-5114-9974"
   },
   {
-    "name":"KAITUO-1B (CAS-3G DCBB)",
+    "name":"KAITUO-1B",
     "norad_id":"40912",
     "uplink":null,
     "downlink":"145.475*\/437.950",
@@ -6501,7 +6490,7 @@
     "satnogs_id":"QMBR-7138-1302-4383-6769"
   },
   {
-    "name":"KKS-1 (KISEKI)",
+    "name":"KKS-1",
     "norad_id":"33499",
     "uplink":null,
     "downlink":"437.445",
@@ -6556,7 +6545,7 @@
     "satnogs_id":null
   },
   {
-    "name":"KO-23 (KITSAT-A)",
+    "name":"KO-23",
     "norad_id":"22077",
     "uplink":"145.900\/145.850",
     "downlink":"435.175",
@@ -6567,7 +6556,7 @@
     "satnogs_id":null
   },
   {
-    "name":"KO-25 (KITSAT-B)",
+    "name":"KO-25",
     "norad_id":"22828",
     "uplink":"145.980\/145.870",
     "downlink":"436.500",
@@ -6655,7 +6644,7 @@
     "satnogs_id":null
   },
   {
-    "name":"KUZBASS-300 (SXC3-218 KuzSTU)",
+    "name":"KUZBASS-300",
     "norad_id":"53375",
     "uplink":null,
     "downlink":"437.700",
@@ -6721,7 +6710,7 @@
     "satnogs_id":null
   },
   {
-    "name":"LAPAN-A2 (ORARI IO-86)",
+    "name":"LAPAN-A2",
     "norad_id":"40931",
     "uplink":"145.880\/145.825",
     "downlink":"435.880\/145.825",
@@ -6732,7 +6721,7 @@
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
   {
-    "name":"LAPAN-A3 (IPB)",
+    "name":"LAPAN-A3",
     "norad_id":"41603",
     "uplink":null,
     "downlink":"437.425",
@@ -6765,7 +6754,7 @@
     "satnogs_id":"JLZT-0277-4784-7719-1707"
   },
   {
-    "name":"LEO (CP-9)",
+    "name":"LEO",
     "norad_id":"44360",
     "uplink":null,
     "downlink":"437.505",
@@ -6820,7 +6809,7 @@
     "satnogs_id":"NEYM-8143-9281-1364-3886"
   },
   {
-    "name":"LightSat (D-Star One)",
+    "name":"LightSat",
     "norad_id":"44393",
     "uplink":null,
     "downlink":"435.700*\/436.500",
@@ -6831,7 +6820,7 @@
     "satnogs_id":"BHTH-8781-5917-5607-8999"
   },
   {
-    "name":"LilacSat-1 (CN02 LO-90)",
+    "name":"LilacSat-1",
     "norad_id":"42725",
     "uplink":"145.985",
     "downlink":"436.510",
@@ -6842,7 +6831,7 @@
     "satnogs_id":"PEAF-6165-8245-0396-3965"
   },
   {
-    "name":"LilacSat-2 (CAS-3H)",
+    "name":"LilacSat-2",
     "norad_id":"40908",
     "uplink":"144.350\/144.390",
     "downlink":"144.390\/437.225*",
@@ -6853,7 +6842,7 @@
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },
   {
-    "name":"LINK (KR01)",
+    "name":"LINK",
     "norad_id":"42714",
     "uplink":null,
     "downlink":"436.030",
@@ -6886,7 +6875,7 @@
     "satnogs_id":null
   },
   {
-    "name":"LituanicaSAT-1 (LO-78)",
+    "name":"LituanicaSAT-1",
     "norad_id":"39569",
     "uplink":"145.950",
     "downlink":"435.176",
@@ -6897,7 +6886,7 @@
     "satnogs_id":null
   },
   {
-    "name":"LituanicaSAT-1 (LO-78)",
+    "name":"LituanicaSAT-1",
     "norad_id":"39569",
     "uplink":"145.850",
     "downlink":"437.543",
@@ -6908,7 +6897,7 @@
     "satnogs_id":null
   },
   {
-    "name":"LituanicaSAT-2 (LT01)",
+    "name":"LituanicaSAT-2",
     "norad_id":"42768",
     "uplink":null,
     "downlink":"437.265",
@@ -6919,7 +6908,7 @@
     "satnogs_id":"RNRA-5585-1660-1429-1830"
   },
   {
-    "name":"LO-19 (LUSAT)",
+    "name":"LO-19",
     "norad_id":"20442",
     "uplink":"145.840-145.900",
     "downlink":"437.125\/437.150",
@@ -6930,7 +6919,7 @@
     "satnogs_id":"ZDPY-4221-9426-0630-5344"
   },
   {
-    "name":"LO-74 (CubeBug-2)",
+    "name":"LO-74",
     "norad_id":"39440",
     "uplink":null,
     "downlink":"437.445",
@@ -6941,7 +6930,7 @@
     "satnogs_id":"MRQX-2618-0103-4345-3937"
   },
   {
-    "name":"LO-87 (NuSat-1)",
+    "name":"LO-87",
     "norad_id":"41557",
     "uplink":"435.935-435.965",
     "downlink":"145.965-145.935",
@@ -6952,7 +6941,7 @@
     "satnogs_id":"WNZE-1061-4511-0110-9001"
   },
   {
-    "name":"LO-87 (NuSat-1)",
+    "name":"LO-87",
     "norad_id":"41557",
     "uplink":null,
     "downlink":"436.445",
@@ -6963,7 +6952,7 @@
     "satnogs_id":"WNZE-1061-4511-0110-9001"
   },
   {
-    "name":"LO-90 (LilacSat-1 CN02)",
+    "name":"LO-90",
     "norad_id":"42725",
     "uplink":"145.985",
     "downlink":"436.510",
@@ -6974,7 +6963,7 @@
     "satnogs_id":"PEAF-6165-8245-0396-3965"
   },
   {
-    "name":"LO-93 (DSLWP-A1)",
+    "name":"LO-93",
     "norad_id":"43471",
     "uplink":null,
     "downlink":"435.425\/436.425\/2222.810",
@@ -6985,7 +6974,7 @@
     "satnogs_id":null
   },
   {
-    "name":"LO-94 (DSLWP-A2)",
+    "name":"LO-94",
     "norad_id":"43472",
     "uplink":null,
     "downlink":"435.400\/436.400\/2275.220",
@@ -7073,7 +7062,7 @@
     "satnogs_id":"FICC-5569-8485-6311-2104"
   },
   {
-    "name":"MaSat-1 (MO-72)",
+    "name":"MaSat-1",
     "norad_id":"38081",
     "uplink":null,
     "downlink":"437.345",
@@ -7106,7 +7095,7 @@
     "satnogs_id":"ULZA-6802-2539-6219-3200"
   },
   {
-    "name":"MAYA-1 (BIRD-PH)",
+    "name":"MAYA-1",
     "norad_id":"43590",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -7117,7 +7106,7 @@
     "satnogs_id":"MWXV-7244-7952-4540-2800"
   },
   {
-    "name":"Maya-2 (BIRDS-4)",
+    "name":"Maya-2",
     "norad_id":"47929",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -7150,7 +7139,7 @@
     "satnogs_id":"KHKX-7215-9332-1437-6827"
   },
   {
-    "name":"Mazaalai (BIRD-M)",
+    "name":"Mazaalai",
     "norad_id":"42822",
     "uplink":null,
     "downlink":"437.375",
@@ -7282,7 +7271,7 @@
     "satnogs_id":null
   },
   {
-    "name":"MIET-AIS (SXC3-214)",
+    "name":"MIET-AIS",
     "norad_id":"53377",
     "uplink":null,
     "downlink":"437.900",
@@ -7337,7 +7326,7 @@
     "satnogs_id":null
   },
   {
-    "name":"MIR-SAT1 (MO-112)",
+    "name":"MIR-SAT1",
     "norad_id":"48868",
     "uplink":"145.9875",
     "downlink":"436.925",
@@ -7370,7 +7359,7 @@
     "satnogs_id":null
   },
   {
-    "name":"MONITOR-1 (SXC3-212 MGU)",
+    "name":"MONITOR-1",
     "norad_id":"53374",
     "uplink":null,
     "downlink":"437.550",
@@ -7403,7 +7392,7 @@
     "satnogs_id":"NLLB-8107-5146-3533-6638"
   },
   {
-    "name":"MO-30 (UNAMSAT-B)",
+    "name":"MO-30",
     "norad_id":"24305",
     "uplink":null,
     "downlink":"435.138",
@@ -7414,7 +7403,7 @@
     "satnogs_id":null
   },
   {
-    "name":"MO-46 (TiungSat)",
+    "name":"MO-46",
     "norad_id":"26548",
     "uplink":"145.850\/145.925",
     "downlink":"437.325",
@@ -7425,7 +7414,7 @@
     "satnogs_id":null
   },
   {
-    "name":"MO-72 (MaSat-1)",
+    "name":"MO-72",
     "norad_id":"38081",
     "uplink":null,
     "downlink":"437.345",
@@ -7436,7 +7425,7 @@
     "satnogs_id":null
   },
   {
-    "name":"MO-105 (SMOG-P)",
+    "name":"MO-105",
     "norad_id":"44832",
     "uplink":null,
     "downlink":"437.150",
@@ -7447,7 +7436,7 @@
     "satnogs_id":"NVJW-1778-4425-6707-0234"
   },
   {
-    "name":"MO-106 (ATL-1)",
+    "name":"MO-106",
     "norad_id":"44830",
     "uplink":null,
     "downlink":"437.175",
@@ -7458,7 +7447,7 @@
     "satnogs_id":"ZYHY-4125-9970-1147-2424"
   },
   {
-    "name":"MO-110 (SMOG-1)",
+    "name":"MO-110",
     "norad_id":"47964",
     "uplink":null,
     "downlink":"437.345",
@@ -7469,7 +7458,7 @@
     "satnogs_id":"AGJP-1224-9255-0586-8359"
   },
   {
-    "name":"MO-112 (MIR-SAT1)",
+    "name":"MO-112",
     "norad_id":"48868",
     "uplink":"145.9875",
     "downlink":"436.925",
@@ -7491,7 +7480,7 @@
     "satnogs_id":null
   },
   {
-    "name":"MTCube-2 (ROBUSTA-1F)",
+    "name":"MTCube-2",
     "norad_id":"53109",
     "uplink":null,
     "downlink":"436.750",
@@ -7513,7 +7502,7 @@
     "satnogs_id":null
   },
   {
-    "name":"MXSAT-1(Shaonian-Xing Juvenile-1F)",
+    "name":"MXSAT-1",
     "norad_id":"43199",
     "uplink":null,
     "downlink":null,
@@ -7535,7 +7524,7 @@
     "satnogs_id":"XJIF-4712-8503-0953-1790"
   },
   {
-    "name":"MYSAT-2 (DHABISAT)",
+    "name":"MYSAT-2",
     "norad_id":"49017",
     "uplink":null,
     "downlink":"436.908",
@@ -7579,7 +7568,7 @@
     "satnogs_id":null
   },
   {
-    "name":"NanoSat-6 (Oculus-ASR)",
+    "name":"NanoSat-6",
     "norad_id":"44346",
     "uplink":null,
     "downlink":"437.200",
@@ -7590,7 +7579,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Nanosat-7 (Prox-1)",
+    "name":"Nanosat-7",
     "norad_id":"44339",
     "uplink":"437.345",
     "downlink":"2300.000",
@@ -7634,7 +7623,7 @@
     "satnogs_id":"GEJQ-5981-2710-6410-2156"
   },
   {
-    "name":"NARSScube-1 (Egycubesat-1)",
+    "name":"NARSScube-1",
     "norad_id":"44792",
     "uplink":null,
     "downlink":null,
@@ -7656,7 +7645,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Nayif-1 (FUNcube-5 EO-88)",
+    "name":"Nayif-1",
     "norad_id":"42017",
     "uplink":"435.015-435.045",
     "downlink":"145.990-145.960",
@@ -7692,7 +7681,7 @@
     "name":"NEE-01 Pegaso",
     "norad_id":"39151",
     "uplink":null,
-    "downlink":"910.000(bandwidth 25MHz)",
+    "downlink":"910.000",
     "beacon":null,
     "mode":"AMTV-CW SSTV",
     "callsign":null,
@@ -7703,7 +7692,7 @@
     "name":"NEE-02 Krysaor",
     "norad_id":"39441",
     "uplink":null,
-    "downlink":"980.000(bandwidth 25MHz)",
+    "downlink":"980.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -7722,7 +7711,7 @@
     "satnogs_id":null
   },
   {
-    "name":"NepaliSat-1 (BIRD-NPL)",
+    "name":"NepaliSat-1",
     "norad_id":"44331",
     "uplink":null,
     "downlink":"437.375",
@@ -7777,7 +7766,7 @@
     "satnogs_id":"KPFF-6607-7806-3530-0376"
   },
   {
-    "name":"NEXUS (FO-99)",
+    "name":"NEXUS",
     "norad_id":"43937",
     "uplink":"145.900-145.930",
     "downlink":"435.910-435.880",
@@ -7810,7 +7799,7 @@
     "satnogs_id":"FCJO-8188-7789-7781-3478"
   },
   {
-    "name":"NJUST-1 (CN03)",
+    "name":"NJUST-1",
     "norad_id":"42722",
     "uplink":null,
     "downlink":"436.570",
@@ -7931,7 +7920,7 @@
     "satnogs_id":"LSCG-5988-6402-6624-6585"
   },
   {
-    "name":"NOOR-1A (UNICORN-2B)",
+    "name":"NOOR-1A",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -7942,7 +7931,7 @@
     "satnogs_id":null
   },
   {
-    "name":"NOOR-1B (UNICORN-2C)",
+    "name":"NOOR-1B",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -7986,7 +7975,7 @@
     "satnogs_id":"DNNN-7162-2135-4056-8903"
   },
   {
-    "name":"NO-44 (PCSAT-1)",
+    "name":"NO-44",
     "norad_id":"26931",
     "uplink":"145.827",
     "downlink":"145.827",
@@ -7997,7 +7986,7 @@
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
-    "name":"NO-44 (PCSAT-1)",
+    "name":"NO-44",
     "norad_id":"26931",
     "uplink":"435.250",
     "downlink":"145.827",
@@ -8008,7 +7997,7 @@
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
-    "name":"NO-44 (PCSAT-1)",
+    "name":"NO-44",
     "norad_id":"26931",
     "uplink":null,
     "downlink":"144.390",
@@ -8019,7 +8008,7 @@
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
-    "name":"NO-44 (PCSAT-1)",
+    "name":"NO-44",
     "norad_id":"26931",
     "uplink":null,
     "downlink":"144.390",
@@ -8030,7 +8019,7 @@
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
-    "name":"NO-45 (Sapphire)",
+    "name":"NO-45",
     "norad_id":"26932",
     "uplink":"145.945",
     "downlink":"437.100",
@@ -8041,7 +8030,7 @@
     "satnogs_id":null
   },
   {
-    "name":"NO-60 (RAFT)",
+    "name":"NO-60",
     "norad_id":"29661",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -8052,7 +8041,7 @@
     "satnogs_id":null
   },
   {
-    "name":"NO-61 (ANDE)",
+    "name":"NO-61",
     "norad_id":"29664",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -8063,7 +8052,7 @@
     "satnogs_id":null
   },
   {
-    "name":"NO-62 (FCAL)",
+    "name":"NO-62",
     "norad_id":"29667",
     "uplink":null,
     "downlink":"437.385",
@@ -8074,7 +8063,7 @@
     "satnogs_id":null
   },
   {
-    "name":"NO-83 (BRICsat)",
+    "name":"NO-83",
     "norad_id":"40655",
     "uplink":"28.120",
     "downlink":"435.350",
@@ -8085,7 +8074,7 @@
     "satnogs_id":"KBEL-4970-7091-3600-7423"
   },
   {
-    "name":"NO-84 (PSat-A\/B)",
+    "name":"NO-84",
     "norad_id":"40654",
     "uplink":"28.120",
     "downlink":"435.350",
@@ -8096,7 +8085,7 @@
     "satnogs_id":"SJIQ-0619-1652-1315-6120"
   },
   {
-    "name":"NO-103 (BRICSAT2 USNAP1)",
+    "name":"NO-103",
     "norad_id":"44355",
     "uplink":"28.120\/145.825",
     "downlink":"145.825\/435.350\/437.605*",
@@ -8107,7 +8096,7 @@
     "satnogs_id":"XWQN-8491-1910-3675-2960"
   },
   {
-    "name":"NO-104 (PSAT-2)",
+    "name":"NO-104",
     "norad_id":"44354",
     "uplink":"28.120\/145.825",
     "downlink":"145.825\/435.350*\/437.605",
@@ -8129,7 +8118,7 @@
     "satnogs_id":null
   },
   {
-    "name":"NO-116 (SanoSat-1)",
+    "name":"NO-116",
     "norad_id":"51031",
     "uplink":null,
     "downlink":"436.235",
@@ -8140,7 +8129,7 @@
     "satnogs_id":"BZWR-6172-2785-3507-5423"
   },
   {
-    "name":"nSight-1 (AZ02)",
+    "name":"nSight-1",
     "norad_id":"42726",
     "uplink":null,
     "downlink":"435.900\/2405.000",
@@ -8162,7 +8151,7 @@
     "satnogs_id":null
   },
   {
-    "name":"NUDT-PhoneSat (CAS-3I)",
+    "name":"NUDT-PhoneSat",
     "norad_id":"40900",
     "uplink":null,
     "downlink":"437.300",
@@ -8173,7 +8162,7 @@
     "satnogs_id":"PDYY-8479-0832-6941-1000"
   },
   {
-    "name":"NUDTSat (CN06)",
+    "name":"NUDTSat",
     "norad_id":"42787",
     "uplink":null,
     "downlink":"436.270",
@@ -8184,7 +8173,7 @@
     "satnogs_id":"IUKT-5566-7027-2323-0619"
   },
   {
-    "name":"NuSat-1 (LO-87)",
+    "name":"NuSat-1",
     "norad_id":"41557",
     "uplink":"435.935-435.965",
     "downlink":"145.965-145.935",
@@ -8195,7 +8184,7 @@
     "satnogs_id":"WNZE-1061-4511-0110-9001"
   },
   {
-    "name":"NuSat-1 (LO-87)",
+    "name":"NuSat-1",
     "norad_id":"41557",
     "uplink":null,
     "downlink":"436.445",
@@ -8228,7 +8217,7 @@
     "satnogs_id":"WPPP-5073-6177-3453-1599"
   },
   {
-    "name":"Oculus-ASR (NanoSat-6)",
+    "name":"Oculus-ASR",
     "norad_id":"44346",
     "uplink":null,
     "downlink":"437.200",
@@ -8261,7 +8250,7 @@
     "satnogs_id":null
   },
   {
-    "name":"OO-38 (OPAL)",
+    "name":"OO-38",
     "norad_id":"26063",
     "uplink":null,
     "downlink":"437.100",
@@ -8305,7 +8294,7 @@
     "satnogs_id":null
   },
   {
-    "name":"OPUSAT-II (Hirogari)",
+    "name":"OPUSAT-II",
     "norad_id":"47930",
     "uplink":"436.500",
     "downlink":"145.900",
@@ -8338,7 +8327,7 @@
     "satnogs_id":"VTFA-5315-6080-2422-3537"
   },
   {
-    "name":"OrigamiSat-1 (FO-98)",
+    "name":"OrigamiSat-1",
     "norad_id":"43933",
     "uplink":null,
     "downlink":"437.505\/5840.000",
@@ -8426,7 +8415,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PACSAT (AO-16)",
+    "name":"PACSAT",
     "norad_id":"20439",
     "uplink":"145.920",
     "downlink":"437.026",
@@ -8437,7 +8426,7 @@
     "satnogs_id":"BWUQ-1126-2556-9888-6948"
   },
   {
-    "name":"PACSAT (AO-16)",
+    "name":"PACSAT",
     "norad_id":"20439",
     "uplink":"145.920",
     "downlink":"437.026",
@@ -8470,7 +8459,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PCSAT-1 (NO-44)",
+    "name":"PCSAT-1",
     "norad_id":"26931",
     "uplink":"145.827",
     "downlink":"145.827",
@@ -8481,7 +8470,7 @@
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
-    "name":"PCSAT-1 (NO-44)",
+    "name":"PCSAT-1",
     "norad_id":"26931",
     "uplink":"435.250",
     "downlink":"145.827",
@@ -8492,7 +8481,7 @@
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
-    "name":"PCSAT-1 (NO-44)",
+    "name":"PCSAT-1",
     "norad_id":"26931",
     "uplink":null,
     "downlink":"144.390",
@@ -8503,7 +8492,7 @@
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
-    "name":"PCSAT-1 (NO-44)",
+    "name":"PCSAT-1",
     "norad_id":"26931",
     "uplink":null,
     "downlink":"144.390",
@@ -8536,7 +8525,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Pegasus (AT03)",
+    "name":"Pegasus",
     "norad_id":"42784",
     "uplink":null,
     "downlink":"436.670",
@@ -8591,7 +8580,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Phase-3B (AO-10)",
+    "name":"Phase-3B",
     "norad_id":"14129",
     "uplink":"435.030-146.180",
     "downlink":"145.975-145.825",
@@ -8602,7 +8591,7 @@
     "satnogs_id":"WAGS-8572-2494-3083-1675"
   },
   {
-    "name":"Phase-3C (AO-13)",
+    "name":"Phase-3C",
     "norad_id":"19216",
     "uplink":"435.423-435.573",
     "downlink":"145.975-145.825",
@@ -8613,7 +8602,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Phase-3D (AO-40)",
+    "name":"Phase-3D",
     "norad_id":"26609",
     "uplink":null,
     "downlink":null,
@@ -8624,7 +8613,7 @@
     "satnogs_id":"VMIE-3340-5003-6094-2811"
   },
   {
-    "name":"Phase-4A (Es'Hail-2 QO-100)",
+    "name":"Phase-4A",
     "norad_id":"43700",
     "uplink":"2400.050-2400.300",
     "downlink":"10489.550-10489.800",
@@ -8635,7 +8624,7 @@
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
-    "name":"Phase-4A (Es'Hail-2 QO-100)",
+    "name":"Phase-4A",
     "norad_id":"43700",
     "uplink":"2401.500-2409.500",
     "downlink":"10491.000-10499.000",
@@ -8646,7 +8635,7 @@
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
-    "name":"PHOENIX (TW01)",
+    "name":"PHOENIX",
     "norad_id":"42706",
     "uplink":null,
     "downlink":"436.915",
@@ -8668,7 +8657,7 @@
     "satnogs_id":"BZQX-4787-4409-1766-6854"
   },
   {
-    "name":"Phoenix (D-Star ONE)",
+    "name":"Phoenix",
     "norad_id":"43188",
     "uplink":"437.325",
     "downlink":"435.525",
@@ -8679,7 +8668,7 @@
     "satnogs_id":"MCHL-8693-9902-0813-2147"
   },
   {
-    "name":"PhoneSat1 (BELL)",
+    "name":"PhoneSat1",
     "norad_id":"39142",
     "uplink":null,
     "downlink":"2401.200-2431.200",
@@ -8690,7 +8679,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PhoneSat1 (GRAHAM)",
+    "name":"PhoneSat1",
     "norad_id":"39146",
     "uplink":null,
     "downlink":"2401.200-2431.200",
@@ -8701,7 +8690,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PhoneSat2 (ALEXANDER)",
+    "name":"PhoneSat2",
     "norad_id":"39144",
     "uplink":null,
     "downlink":"2401.200-2431.200",
@@ -8844,7 +8833,7 @@
     "satnogs_id":"UIYC-4491-1380-9406-8215"
   },
   {
-    "name":"PolyITAN-2-SAU (UA01)",
+    "name":"PolyITAN-2-SAU",
     "norad_id":"42732",
     "uplink":null,
     "downlink":"436.600",
@@ -8888,7 +8877,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PO-28 (POSAT)",
+    "name":"PO-28",
     "norad_id":"22829",
     "uplink":"145.925\/145.975",
     "downlink":"435.075\/435.275",
@@ -8899,7 +8888,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PO-34 (PANSAT)",
+    "name":"PO-34",
     "norad_id":"25520",
     "uplink":"436.500",
     "downlink":null,
@@ -8910,7 +8899,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PO-63 (PehuenSat)",
+    "name":"PO-63",
     "norad_id":"29712",
     "uplink":null,
     "downlink":"145.825",
@@ -8921,7 +8910,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PO-101 (Diwata-2)",
+    "name":"PO-101",
     "norad_id":"43678",
     "uplink":"437.500",
     "downlink":"145.900",
@@ -8954,7 +8943,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PRISM (HITOMI)",
+    "name":"PRISM",
     "norad_id":"33493",
     "uplink":null,
     "downlink":"437.425",
@@ -8987,7 +8976,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Prox-1 (Nanosat-7)",
+    "name":"Prox-1",
     "norad_id":"44339",
     "uplink":"437.345",
     "downlink":"2300.000",
@@ -8998,7 +8987,7 @@
     "satnogs_id":"KEHF-2475-1116-3928-7492"
   },
   {
-    "name":"PSAT (NO-84)",
+    "name":"PSAT",
     "norad_id":"40654",
     "uplink":"28.120\/145.825",
     "downlink":"435.350\/145.825",
@@ -9009,7 +8998,7 @@
     "satnogs_id":"SJIQ-0619-1652-1315-6120"
   },
   {
-    "name":"PSAT-2 (NO-104)",
+    "name":"PSAT-2",
     "norad_id":"44354",
     "uplink":"29.350\/145.825",
     "downlink":"145.825\/435.350*\/437.605",
@@ -9086,7 +9075,7 @@
     "satnogs_id":"XJKP-5229-8707-4977-2749"
   },
   {
-    "name":"QB50p1 (EO-79 FUNcube-3)",
+    "name":"QB50p1",
     "norad_id":"40025",
     "uplink":"435.047-435.077",
     "downlink":"145.965-145.935",
@@ -9097,7 +9086,7 @@
     "satnogs_id":"GJDY-0208-2030-6329-7076"
   },
   {
-    "name":"QB50p2 (EO-80)",
+    "name":"QB50p2",
     "norad_id":"40032",
     "uplink":"435.080",
     "downlink":"145.880\/145.840",
@@ -9108,7 +9097,7 @@
     "satnogs_id":"HHWQ-8145-7306-2252-6043"
   },
   {
-    "name":"QBEE (SE01)",
+    "name":"QBEE",
     "norad_id":"42708",
     "uplink":null,
     "downlink":"435.800",
@@ -9119,7 +9108,7 @@
     "satnogs_id":"ZCSR-6244-8593-9764-3160"
   },
   {
-    "name":"QBITO (ES01)",
+    "name":"QBITO",
     "norad_id":"42728",
     "uplink":null,
     "downlink":"436.810",
@@ -9152,7 +9141,7 @@
     "satnogs_id":"UWUF-5027-7499-9389-6895"
   },
   {
-    "name":"QO-100 (Phase-4A Es'Hail-2)",
+    "name":"QO-100",
     "norad_id":"43700",
     "uplink":"2400.050-2400.300",
     "downlink":"10489.550-10489.800",
@@ -9163,7 +9152,7 @@
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
-    "name":"QO-100 (Phase-4A Es'Hail-2)",
+    "name":"QO-100",
     "norad_id":"43700",
     "uplink":"2401.500-2409.500",
     "downlink":"10491.000-10499.000",
@@ -9185,7 +9174,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Quantutong-1 (TY-6 Tianyi-6 Xiaoxiang-6)",
+    "name":"Quantutong-1",
     "norad_id":"43158",
     "uplink":"436.100\/2415.000\/5667.000",
     "downlink":"436.100*\/2415.000\/5845.000",
@@ -9284,7 +9273,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Raavana-1 (BIRD-LKA)",
+    "name":"Raavana-1",
     "norad_id":"44329",
     "uplink":null,
     "downlink":"437.375",
@@ -9306,7 +9295,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RadFxSat (Fox-1B AO-91)",
+    "name":"RadFxSat",
     "norad_id":"43017",
     "uplink":"435.250",
     "downlink":"145.960",
@@ -9317,7 +9306,7 @@
     "satnogs_id":"PMAW-9203-2442-8666-3249"
   },
   {
-    "name":"RadFXsat-2 (Fox-1E AO-109)",
+    "name":"RadFXsat-2",
     "norad_id":"47311",
     "uplink":"145.860-145.890",
     "downlink":"435.790-435.760",
@@ -9350,7 +9339,7 @@
     "satnogs_id":"NAGJ-3385-0266-8518-2949"
   },
   {
-    "name":"RAFT (NO-60)",
+    "name":"RAFT",
     "norad_id":"29661",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -9460,7 +9449,7 @@
     "satnogs_id":"ILUP-3176-4624-1525-3825"
   },
   {
-    "name":"RESHUCUBE (SXC3-2111 SibSU)",
+    "name":"RESHUCUBE",
     "norad_id":"53382",
     "uplink":null,
     "downlink":"435.380",
@@ -9515,7 +9504,7 @@
     "satnogs_id":"YIMH-1412-6494-9671-2122"
   },
   {
-    "name":"ROBUSTA-1D (CELESTA)",
+    "name":"ROBUSTA-1D",
     "norad_id":"53111",
     "uplink":null,
     "downlink":"436.500",
@@ -9526,7 +9515,7 @@
     "satnogs_id":"XKZZ-2829-5729-9508-2566"
   },
   {
-    "name":"ROBUSTA-1F (MTCube-2)",
+    "name":"ROBUSTA-1F",
     "norad_id":"53109",
     "uplink":null,
     "downlink":"436.750",
@@ -9559,7 +9548,7 @@
     "satnogs_id":"YBRZ-1252-5198-2682-7854"
   },
   {
-    "name":"RS-1 (Radio Sputnik 1)",
+    "name":"RS-1",
     "norad_id":"11085",
     "uplink":null,
     "downlink":null,
@@ -9570,7 +9559,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-2 (Radio Sputnik 2)",
+    "name":"RS-2",
     "norad_id":"11086",
     "uplink":null,
     "downlink":null,
@@ -9581,7 +9570,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-3 (Radio Sputnik 3)",
+    "name":"RS-3",
     "norad_id":"12997",
     "uplink":null,
     "downlink":null,
@@ -9592,7 +9581,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-4 (Radio Sputnik 4)",
+    "name":"RS-4",
     "norad_id":"13000",
     "uplink":null,
     "downlink":null,
@@ -9603,7 +9592,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-5 (Radio Sputnik 5)",
+    "name":"RS-5",
     "norad_id":"12999",
     "uplink":null,
     "downlink":null,
@@ -9614,7 +9603,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-6 (Radio Sputnik 6)",
+    "name":"RS-6",
     "norad_id":"13002",
     "uplink":null,
     "downlink":null,
@@ -9625,7 +9614,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-7 (Radio Sputnik 7)",
+    "name":"RS-7",
     "norad_id":"13001",
     "uplink":null,
     "downlink":null,
@@ -9636,7 +9625,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-8 (Radio Sputnik 8)",
+    "name":"RS-8",
     "norad_id":"12998",
     "uplink":null,
     "downlink":null,
@@ -9647,7 +9636,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-9 (Radio Sputnik 9)",
+    "name":"RS-9",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -9658,7 +9647,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-10 (COSMOS 1861)",
+    "name":"RS-10",
     "norad_id":"18129",
     "uplink":null,
     "downlink":null,
@@ -9669,7 +9658,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-11 (COSMOS 1861)",
+    "name":"RS-11",
     "norad_id":"18129",
     "uplink":null,
     "downlink":null,
@@ -9680,7 +9669,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-12 (COSMOS 2123)",
+    "name":"RS-12",
     "norad_id":"21089",
     "uplink":"21.210- 21.250",
     "downlink":"29.410- 29.450",
@@ -9691,7 +9680,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-13 (COSMOS 2123)",
+    "name":"RS-13",
     "norad_id":"21089",
     "uplink":"21.260- 21.300",
     "downlink":"145.860-145.900",
@@ -9702,7 +9691,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-14 (Informator-1)",
+    "name":"RS-14",
     "norad_id":"21087",
     "uplink":null,
     "downlink":null,
@@ -9713,7 +9702,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-15 (Radio Rosto)",
+    "name":"RS-15",
     "norad_id":"23439",
     "uplink":null,
     "downlink":null,
@@ -9724,7 +9713,7 @@
     "satnogs_id":"DBOZ-6429-8624-3701-8847"
   },
   {
-    "name":"RS-16 (Mozhayets-2)",
+    "name":"RS-16",
     "norad_id":"24744",
     "uplink":null,
     "downlink":null,
@@ -9735,7 +9724,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-17 (Sputnik 40)",
+    "name":"RS-17",
     "norad_id":"24958",
     "uplink":null,
     "downlink":null,
@@ -9746,7 +9735,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-18 (Sputnik 41)",
+    "name":"RS-18",
     "norad_id":"25533",
     "uplink":null,
     "downlink":null,
@@ -9757,7 +9746,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-19 (Sputnik 99)",
+    "name":"RS-19",
     "norad_id":"25685",
     "uplink":null,
     "downlink":null,
@@ -9768,7 +9757,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-20 (Mozhayets-3)",
+    "name":"RS-20",
     "norad_id":"27560",
     "uplink":null,
     "downlink":null,
@@ -9779,7 +9768,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-21 (Kolibri-2000)",
+    "name":"RS-21",
     "norad_id":"27394",
     "uplink":null,
     "downlink":null,
@@ -9790,7 +9779,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-22 (Mozhayets-4)",
+    "name":"RS-22",
     "norad_id":"27939",
     "uplink":null,
     "downlink":null,
@@ -9801,7 +9790,7 @@
     "satnogs_id":"JQJE-9408-3483-0314-4576"
   },
   {
-    "name":"RS-23 (Tatyana)",
+    "name":"RS-23",
     "norad_id":"28523",
     "uplink":null,
     "downlink":null,
@@ -9823,7 +9812,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-25 (Mozhayets-5)",
+    "name":"RS-25",
     "norad_id":"28898",
     "uplink":null,
     "downlink":null,
@@ -9834,7 +9823,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-26 (Sinah-1)",
+    "name":"RS-26",
     "norad_id":"28893",
     "uplink":null,
     "downlink":null,
@@ -9845,7 +9834,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-27 (Baumanets-1)",
+    "name":"RS-27",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -9856,7 +9845,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-28 (UgatuSat)",
+    "name":"RS-28",
     "norad_id":"35869",
     "uplink":null,
     "downlink":null,
@@ -9867,7 +9856,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-29 (Sterkh)",
+    "name":"RS-29",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -9878,7 +9867,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-30 (Yubileiniy-1)",
+    "name":"RS-30",
     "norad_id":"32953",
     "uplink":null,
     "downlink":null,
@@ -9900,7 +9889,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-38 (Tatyana-2)",
+    "name":"RS-38",
     "norad_id":"35868",
     "uplink":null,
     "downlink":null,
@@ -9911,7 +9900,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-39 (Chibis-M)",
+    "name":"RS-39",
     "norad_id":"38051",
     "uplink":null,
     "downlink":null,
@@ -9922,7 +9911,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-40 (Yubileyny-2 MiR)",
+    "name":"RS-40",
     "norad_id":"38735",
     "uplink":null,
     "downlink":null,
@@ -9933,7 +9922,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-41 (AIST-1)",
+    "name":"RS-41",
     "norad_id":"39492",
     "uplink":null,
     "downlink":null,
@@ -9955,7 +9944,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-43 (AIST-2)",
+    "name":"RS-43",
     "norad_id":"39133",
     "uplink":null,
     "downlink":null,
@@ -9966,7 +9955,7 @@
     "satnogs_id":"VWRK-3457-9973-7957-3445"
   },
   {
-    "name":"RS-44 (DOSAAF-85)",
+    "name":"RS-44",
     "norad_id":"44909",
     "uplink":"145.935-145.995",
     "downlink":"435.670-435.610",
@@ -9988,7 +9977,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-46 (COSMOS-2491)",
+    "name":"RS-46",
     "norad_id":"39497",
     "uplink":null,
     "downlink":null,
@@ -9999,7 +9988,7 @@
     "satnogs_id":null
   },
   {
-    "name":"RS-47 (COSMOS-2499)",
+    "name":"RS-47",
     "norad_id":"39765",
     "uplink":null,
     "downlink":null,
@@ -10010,7 +9999,7 @@
     "satnogs_id":"GAUY-7904-6906-4815-9917"
   },
   {
-    "name":"RS-48 (AIST-2D)",
+    "name":"RS-48",
     "norad_id":"41465",
     "uplink":null,
     "downlink":null,
@@ -10087,7 +10076,7 @@
     "satnogs_id":"CWCJ-6029-4779-5201-8503"
   },
   {
-    "name":"SanoSat-1 (NO-116)",
+    "name":"SanoSat-1",
     "norad_id":"51031",
     "uplink":null,
     "downlink":"436.235",
@@ -10142,7 +10131,7 @@
     "satnogs_id":"NIOX-2801-2640-1045-2883"
   },
   {
-    "name":"SaudiSat-1A (SO-41)",
+    "name":"SaudiSat-1A",
     "norad_id":"26545",
     "uplink":null,
     "downlink":"436.775",
@@ -10153,7 +10142,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SaudiSat-1B (SO-42)",
+    "name":"SaudiSat-1B",
     "norad_id":"26549",
     "uplink":null,
     "downlink":"436.075",
@@ -10164,7 +10153,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SaudiSat-1C (SO-50)",
+    "name":"SaudiSat-1C",
     "norad_id":"27607",
     "uplink":"145.850",
     "downlink":"436.795",
@@ -10230,7 +10219,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SEEDS-II (CO-66)",
+    "name":"SEEDS-II",
     "norad_id":"32791",
     "uplink":null,
     "downlink":"437.485",
@@ -10307,7 +10296,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Shaonian-Xing(Juvenile-1F)",
+    "name":"Shaonian-Xing",
     "norad_id":"43199",
     "uplink":null,
     "downlink":null,
@@ -10329,7 +10318,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SHIN'EN2 (FO-82)",
+    "name":"SHIN'EN2",
     "norad_id":"40320",
     "uplink":"145.940-145.960",
     "downlink":"435.280-435.260",
@@ -10351,7 +10340,7 @@
     "satnogs_id":"JHGM-7853-8293-9677-2181"
   },
   {
-    "name":"Siren (SXC3-217)",
+    "name":"Siren",
     "norad_id":"53384",
     "uplink":null,
     "downlink":"437.750",
@@ -10362,7 +10351,7 @@
     "satnogs_id":"TSYE-5592-5507-8880-3661"
   },
   {
-    "name":"SiriusSat-1(SXC1-181)",
+    "name":"SiriusSat-1",
     "norad_id":"43595",
     "uplink":null,
     "downlink":"435.570\/435.619",
@@ -10373,7 +10362,7 @@
     "satnogs_id":"BLWY-9945-8549-3046-3067"
   },
   {
-    "name":"SiriusSat-2(SXC1-182)",
+    "name":"SiriusSat-2",
     "norad_id":"43596",
     "uplink":null,
     "downlink":"435.670\/435.719",
@@ -10428,7 +10417,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SMOG-1 (MO-110)",
+    "name":"SMOG-1",
     "norad_id":"47964",
     "uplink":null,
     "downlink":"437.345",
@@ -10439,7 +10428,7 @@
     "satnogs_id":"AGJP-1224-9255-0586-8359"
   },
   {
-    "name":"SMOG-P (MO-105)",
+    "name":"SMOG-P",
     "norad_id":"44832",
     "uplink":null,
     "downlink":"437.150",
@@ -10516,7 +10505,7 @@
     "satnogs_id":"YFNZ-9504-4902-9033-1722"
   },
   {
-    "name":"SNUSAT-1 (KR02)",
+    "name":"SNUSAT-1",
     "norad_id":"42733",
     "uplink":null,
     "downlink":"436.090",
@@ -10538,7 +10527,7 @@
     "satnogs_id":"XMWA-7479-5747-5343-7120"
   },
   {
-    "name":"SNUSAT-1b (KR03)",
+    "name":"SNUSAT-1b",
     "norad_id":"42727",
     "uplink":null,
     "downlink":"435.950",
@@ -10604,7 +10593,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SOHLA-1 (MAIDO-1)",
+    "name":"SOHLA-1",
     "norad_id":"33496",
     "uplink":null,
     "downlink":"437.505",
@@ -10626,7 +10615,7 @@
     "satnogs_id":"FVYN-9469-5031-2236-7972"
   },
   {
-    "name":"SOMP-2 (DE02)",
+    "name":"SOMP-2",
     "norad_id":"42701",
     "uplink":null,
     "downlink":"437.405",
@@ -10659,7 +10648,7 @@
     "satnogs_id":"RIHL-0447-5306-4769-4350"
   },
   {
-    "name":"SORTIE (Helio-5)",
+    "name":"SORTIE",
     "norad_id":null,
     "uplink":"450.000",
     "downlink":"468.000",
@@ -10670,7 +10659,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SO-33 (SEDSAT-1)",
+    "name":"SO-33",
     "norad_id":"25509",
     "uplink":null,
     "downlink":"437.910",
@@ -10681,7 +10670,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SO-35 (SUNSAT-1)",
+    "name":"SO-35",
     "norad_id":"25636",
     "uplink":"436.291",
     "downlink":"145.825\/2250.000",
@@ -10692,7 +10681,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SO-41 (SaudiSat-1A)",
+    "name":"SO-41",
     "norad_id":"26545",
     "uplink":null,
     "downlink":"436.775",
@@ -10703,7 +10692,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SO-42 (SaudiSat-1B)",
+    "name":"SO-42",
     "norad_id":"26549",
     "uplink":null,
     "downlink":"436.075",
@@ -10714,7 +10703,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SO-43 (Starshine)",
+    "name":"SO-43",
     "norad_id":"26929",
     "uplink":null,
     "downlink":null,
@@ -10725,7 +10714,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SO-50 (SaudiSat-1C)",
+    "name":"SO-50",
     "norad_id":"27607",
     "uplink":"145.850",
     "downlink":"436.795",
@@ -10736,7 +10725,7 @@
     "satnogs_id":"IRES-5964-9687-1982-0089"
   },
   {
-    "name":"SO-67 (SumbandilaSat)",
+    "name":"SO-67",
     "norad_id":"35870",
     "uplink":"145.875",
     "downlink":"435.345",
@@ -10747,7 +10736,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SO-114 (EASAT-2)",
+    "name":"SO-114",
     "norad_id":"51081",
     "uplink":"145.875",
     "downlink":"436.666",
@@ -10758,7 +10747,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SO-115 (HADES)",
+    "name":"SO-115",
     "norad_id":"51080",
     "uplink":"145.925",
     "downlink":"436.888",
@@ -10769,7 +10758,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SpaceCube (FR05)",
+    "name":"SpaceCube",
     "norad_id":"42717",
     "uplink":"145.860",
     "downlink":"436.880",
@@ -10780,7 +10769,7 @@
     "satnogs_id":"HJRR-9275-8249-4532-6532"
   },
   {
-    "name":"Sparrow (D-Star ONE)",
+    "name":"Sparrow",
     "norad_id":"43881",
     "uplink":"437.325",
     "downlink":"435.525\/435.700*",
@@ -10901,7 +10890,7 @@
     "satnogs_id":"RSRT-1057-1646-8612-1423"
   },
   {
-    "name":"SSETI (XO-53)",
+    "name":"SSETI",
     "norad_id":"28894",
     "uplink":null,
     "downlink":"437.250",
@@ -10934,7 +10923,7 @@
     "satnogs_id":null
   },
   {
-    "name":"STARS (KUKAI mother)",
+    "name":"STARS-mother",
     "norad_id":"33498",
     "uplink":null,
     "downlink":"437.485",
@@ -10945,7 +10934,7 @@
     "satnogs_id":"RCSI-2248-9538-7513-4618"
   },
   {
-    "name":"STARS (KUKAI daughter)",
+    "name":"STARS-daughter",
     "norad_id":"33498",
     "uplink":null,
     "downlink":"437.465",
@@ -10967,7 +10956,7 @@
     "satnogs_id":"VBFH-2959-0036-6917-5389"
   },
   {
-    "name":"STARS-C (mother)",
+    "name":"STARS-C-mother",
     "norad_id":"41895",
     "uplink":null,
     "downlink":"437.405",
@@ -10978,7 +10967,7 @@
     "satnogs_id":"ATQK-6596-4093-8198-8140"
   },
   {
-    "name":"STARS-C (daughter)",
+    "name":"STARS-C-daughter",
     "norad_id":"41895",
     "uplink":null,
     "downlink":"437.425",
@@ -11022,7 +11011,7 @@
     "satnogs_id":"ZPWZ-3490-2583-2762-0355"
   },
   {
-    "name":"STARS-II (mother)",
+    "name":"STARS-II-mother",
     "norad_id":"39579",
     "uplink":null,
     "downlink":"437.405",
@@ -11033,7 +11022,7 @@
     "satnogs_id":null
   },
   {
-    "name":"STARS-II (daughter)",
+    "name":"STARS-II-daughter",
     "norad_id":"39579",
     "uplink":null,
     "downlink":"437.425",
@@ -11044,7 +11033,7 @@
     "satnogs_id":null
   },
   {
-    "name":"STARS-Me (mother)",
+    "name":"STARS-Me-mother",
     "norad_id":"43640",
     "uplink":null,
     "downlink":"437.405",
@@ -11055,7 +11044,7 @@
     "satnogs_id":"GMXL-7215-1950-4661-9393"
   },
   {
-    "name":"STARS-Me (daughter)",
+    "name":"STARS-Me-daughter",
     "norad_id":"43640",
     "uplink":null,
     "downlink":"437.425",
@@ -11077,7 +11066,7 @@
     "satnogs_id":"NXHR-3367-8898-2473-4896"
   },
   {
-    "name":"STEP CubeLab (STEP-1)",
+    "name":"STEP CubeLab",
     "norad_id":"43138",
     "uplink":null,
     "downlink":"437.485",
@@ -11176,7 +11165,7 @@
     "satnogs_id":"PEQB-0269-2580-9928-0398"
   },
   {
-    "name":"SuitSat-1 (AO-54)",
+    "name":"SuitSat-1",
     "norad_id":"28933",
     "uplink":null,
     "downlink":"145.990",
@@ -11187,7 +11176,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SuitSat-2 (ARISSat-1)",
+    "name":"SuitSat-2",
     "norad_id":"37772",
     "uplink":"435.742-435.758",
     "downlink":"145.938-145.922",
@@ -11198,7 +11187,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SuitSat-2 (ARISSat-1)",
+    "name":"SuitSat-2",
     "norad_id":"37772",
     "uplink":null,
     "downlink":"145.950",
@@ -11209,7 +11198,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SuitSat-2 (ARISSat-1)",
+    "name":"SuitSat-2",
     "norad_id":"37772",
     "uplink":null,
     "downlink":"145.918",
@@ -11220,7 +11209,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SuitSat-2 (ARISSat-1)",
+    "name":"SuitSat-2",
     "norad_id":"37772",
     "uplink":null,
     "downlink":"145.939",
@@ -11231,7 +11220,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SumbandilaSat (SO-67)",
+    "name":"SumbandilaSat",
     "norad_id":"35870",
     "uplink":"145.875",
     "downlink":"435.345",
@@ -11275,7 +11264,7 @@
     "satnogs_id":"GJWI-0355-3023-2147-0500"
   },
   {
-    "name":"SUSat (AU01)",
+    "name":"SUSat",
     "norad_id":"42730",
     "uplink":null,
     "downlink":"436.775",
@@ -11341,7 +11330,7 @@
     "satnogs_id":"BTIX-5441-6034-5221-2014"
   },
   {
-    "name":"SWSU-55 No1 (YuZGU-5)",
+    "name":"SWSU-55 No1",
     "norad_id":null,
     "uplink":null,
     "downlink":"437.050\/437.050",
@@ -11352,7 +11341,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No2 (YuZGU-6)",
+    "name":"SWSU-55 No2",
     "norad_id":"53305",
     "uplink":null,
     "downlink":"437.050\/437.062",
@@ -11363,7 +11352,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No3 (YuZGU-7)",
+    "name":"SWSU-55 No3",
     "norad_id":"53309",
     "uplink":null,
     "downlink":"437.050\/437.075",
@@ -11374,7 +11363,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No4 (YuZGU-8)",
+    "name":"SWSU-55 No4",
     "norad_id":"53307",
     "uplink":null,
     "downlink":"437.050\/437.082",
@@ -11385,7 +11374,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No5 (YuZGU-9)",
+    "name":"SWSU-55 No5",
     "norad_id":"53308",
     "uplink":null,
     "downlink":"437.050\/437.100",
@@ -11396,7 +11385,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No6 (YuZGU-10)",
+    "name":"SWSU-55 No6",
     "norad_id":"53321",
     "uplink":null,
     "downlink":"437.050\/437.087",
@@ -11407,7 +11396,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No7 (YuZGU-11)",
+    "name":"SWSU-55 No7",
     "norad_id":"53310",
     "uplink":null,
     "downlink":"437.050\/437.1125",
@@ -11418,7 +11407,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SWSU-55 No8 (YuZGU-12)",
+    "name":"SWSU-55 No8",
     "norad_id":"53311",
     "uplink":null,
     "downlink":"437.050\/437.000",
@@ -11429,7 +11418,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SXC3-212 (MGU MONITOR-1)",
+    "name":"SXC3-212",
     "norad_id":"53374",
     "uplink":null,
     "downlink":"437.550",
@@ -11440,7 +11429,7 @@
     "satnogs_id":"HKXU-1877-4030-6508-9166"
   },
   {
-    "name":"SXC3-213 (HSE-AIS CubeSX-HSE-2)",
+    "name":"SXC3-213",
     "norad_id":"53383",
     "uplink":null,
     "downlink":"435.570",
@@ -11451,7 +11440,7 @@
     "satnogs_id":"KILB-3720-6406-0699-8042"
   },
   {
-    "name":"SXC3-214 (MIET-AIS)",
+    "name":"SXC3-214",
     "norad_id":"53377",
     "uplink":null,
     "downlink":"437.900",
@@ -11462,7 +11451,7 @@
     "satnogs_id":"OTLB-3496-1811-8002-0742"
   },
   {
-    "name":"SXC3-215 (Vizard)",
+    "name":"SXC3-215",
     "norad_id":"53386",
     "uplink":null,
     "downlink":"437.800",
@@ -11473,7 +11462,7 @@
     "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {
-    "name":"SXC3-216 (UTMN)",
+    "name":"SXC3-216",
     "norad_id":"53376",
     "uplink":null,
     "downlink":"435.670",
@@ -11484,7 +11473,7 @@
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
   {
-    "name":"SXC3-217 (Siren)",
+    "name":"SXC3-217",
     "norad_id":"53384",
     "uplink":null,
     "downlink":"437.750",
@@ -11495,7 +11484,7 @@
     "satnogs_id":"TSYE-5592-5507-8880-3661"
   },
   {
-    "name":"SXC3-218 (KuzSTU KUZBASS-300)",
+    "name":"SXC3-218",
     "norad_id":"53375",
     "uplink":null,
     "downlink":"437.700",
@@ -11506,7 +11495,7 @@
     "satnogs_id":"XXDG-8589-5393-3222-5405"
   },
   {
-    "name":"SXC3-219 (Medex ISOI)",
+    "name":"SXC3-219",
     "norad_id":"53381",
     "uplink":null,
     "downlink":"437.650",
@@ -11517,7 +11506,7 @@
     "satnogs_id":null
   },
   {
-    "name":"SXC3-2110 (Voenmeh)",
+    "name":"SXC3-2110",
     "norad_id":"53373",
     "uplink":null,
     "downlink":"436.050",
@@ -11528,7 +11517,7 @@
     "satnogs_id":"YYOS-0902-7582-8175-2841"
   },
   {
-    "name":"SXC3-2111 (SibSU RESHUCUBE)",
+    "name":"SXC3-2111",
     "norad_id":"53382",
     "uplink":null,
     "downlink":"435.380",
@@ -11550,7 +11539,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Tancredo-1 (UbatubaSat)",
+    "name":"Tancredo-1",
     "norad_id":"41391",
     "uplink":null,
     "downlink":"437.200",
@@ -11561,7 +11550,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Tanusha-SWSU-1 (YuZGU-1)",
+    "name":"Tanusha-SWSU-1",
     "norad_id":"42911",
     "uplink":null,
     "downlink":"437.050",
@@ -11572,7 +11561,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Tanusha-SWSU-2 (YuZGU-2)",
+    "name":"Tanusha-SWSU-2",
     "norad_id":"42912",
     "uplink":null,
     "downlink":"437.050",
@@ -11583,7 +11572,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Tanusha-SWSU-3 (YuZGU-3)",
+    "name":"Tanusha-SWSU-3",
     "norad_id":"43597",
     "uplink":null,
     "downlink":"437.050",
@@ -11594,7 +11583,7 @@
     "satnogs_id":"DYGX-2292-8178-2790-2062"
   },
   {
-    "name":"Tanusha-SWSU-4 (YuZGU-4)",
+    "name":"Tanusha-SWSU-4",
     "norad_id":"43598",
     "uplink":null,
     "downlink":"437.050",
@@ -11737,7 +11726,7 @@
     "satnogs_id":"WFVU-6936-7309-8185-5747"
   },
   {
-    "name":"TechSat-1B (GO-32)",
+    "name":"TechSat-1B",
     "norad_id":"25397",
     "uplink":"145.850\/145.930",
     "downlink":"435.225*\/435.325",
@@ -11891,7 +11880,7 @@
     "satnogs_id":"VNEP-7767-9055-3195-4316"
   },
   {
-    "name":"Tianwang-1A (TW-1A SECM-1)",
+    "name":"Tianwang-1A",
     "norad_id":"40928",
     "uplink":null,
     "downlink":"435.645",
@@ -11902,7 +11891,7 @@
     "satnogs_id":"YQXC-7549-6593-3361-1643"
   },
   {
-    "name":"Tianwang-1B (TW-1B NJUST-2)",
+    "name":"Tianwang-1B",
     "norad_id":"40927",
     "uplink":null,
     "downlink":"437.645",
@@ -11913,7 +11902,7 @@
     "satnogs_id":"ENOX-9963-2931-2366-2925"
   },
   {
-    "name":"Tianwang-1C (TW-1C NJFA-1)",
+    "name":"Tianwang-1C",
     "norad_id":"40926",
     "uplink":null,
     "downlink":"435.645",
@@ -11924,7 +11913,7 @@
     "satnogs_id":"XHVR-2136-6377-5531-7206"
   },
   {
-    "name":"Tianyi-1 (TY-1 Xiaoxiang-1)",
+    "name":"Tianyi-1",
     "norad_id":"41842",
     "uplink":null,
     "downlink":"437.500\/437.525",
@@ -11935,7 +11924,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Tianyi-2 (TY-2 Xiaoxiang-2)",
+    "name":"Tianyi-2",
     "norad_id":"43155",
     "uplink":"435.350\/2403.000\/5653.000",
     "downlink":"435.350*\/2403.000\/5833.000",
@@ -11946,7 +11935,7 @@
     "satnogs_id":"RQIQ-3113-9381-2241-7916"
   },
   {
-    "name":"Tianyi-3 (TY-3 Xiaoxiang-3)",
+    "name":"Tianyi-3",
     "norad_id":"43664",
     "uplink":"435.875\/2406.000\/5656.000",
     "downlink":"435.875\/2406.000\/5836.000",
@@ -11957,7 +11946,7 @@
     "satnogs_id":"XWTX-3100-8924-6311-9373"
   },
   {
-    "name":"Tianyi-4 (TY-4 Xiaoxiang-4)",
+    "name":"Tianyi-4",
     "norad_id":"43669",
     "uplink":"435.925\/2409.000\/5659.000",
     "downlink":"435.925*\/2409.000\/5839.000",
@@ -11968,7 +11957,7 @@
     "satnogs_id":"DWZS-2247-2262-5163-7605"
   },
   {
-    "name":"Tianyi-5 (TY-5 Xiaoxiang-5)",
+    "name":"Tianyi-5",
     "norad_id":"43553",
     "uplink":"436.025\/2412.000\/5665.000",
     "downlink":"436.025\/2412.000\/5842.000",
@@ -11979,7 +11968,7 @@
     "satnogs_id":"ZJCQ-6364-2928-4931-9019"
   },
   {
-    "name":"Tianyi-6 (TY-6 Xiaoxiang-6 Quantutong-1)",
+    "name":"Tianyi-6",
     "norad_id":"43158",
     "uplink":"436.100\/2415.000\/5667.000",
     "downlink":"436.100*\/2415.000\/5845.000",
@@ -12012,7 +12001,7 @@
     "satnogs_id":"TSLM-4078-5089-9909-4945"
   },
   {
-    "name":"TiungSat (MO-46)",
+    "name":"TiungSat",
     "norad_id":"26548",
     "uplink":"145.850\/145.925",
     "downlink":"437.325",
@@ -12045,7 +12034,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Toki (BIRD-J)",
+    "name":"Toki",
     "norad_id":"42820",
     "uplink":null,
     "downlink":"437.375",
@@ -12067,7 +12056,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TO-31 (TMSAT-1)",
+    "name":"TO-31",
     "norad_id":"25396",
     "uplink":"145.925\/145.975",
     "downlink":"436.925\/436.900",
@@ -12078,7 +12067,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TO-89 (ITF-2)",
+    "name":"TO-89",
     "norad_id":"41932",
     "uplink":null,
     "downlink":"437.525",
@@ -12089,7 +12078,7 @@
     "satnogs_id":"YZSP-2986-3329-8596-1356"
   },
   {
-    "name":"TO-108 (CAS-6 TIANQIN-1)",
+    "name":"TO-108",
     "norad_id":"44881",
     "uplink":"435.270-435.290",
     "downlink":"145.935-145.915",
@@ -12100,7 +12089,7 @@
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
-    "name":"TO-108 (CAS-6 TIANQIN-1)",
+    "name":"TO-108",
     "norad_id":"44881",
     "uplink":null,
     "downlink":"145.890",
@@ -12111,7 +12100,7 @@
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
-    "name":"TO-108 (CAS-6 TIANQIN-1)",
+    "name":"TO-108",
     "norad_id":"44881",
     "uplink":null,
     "downlink":null,
@@ -12166,7 +12155,7 @@
     "satnogs_id":"FWIK-4601-2533-0527-1613"
   },
   {
-    "name":"TRSI-Sat (TRSI-1)",
+    "name":"TRSI-Sat",
     "norad_id":"44831",
     "uplink":null,
     "downlink":"437.075",
@@ -12199,7 +12188,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TSAT (TestSat-Lite)",
+    "name":"TSAT",
     "norad_id":"39682",
     "uplink":null,
     "downlink":null,
@@ -12243,7 +12232,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Tsuru (BIRDS-4)",
+    "name":"Tsuru",
     "norad_id":"47927",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -12320,7 +12309,7 @@
     "satnogs_id":"OUUD-8724-9347-4069-3787"
   },
   {
-    "name":"TW-1A (Tianwang-1A SECM-1)",
+    "name":"TW-1A",
     "norad_id":"40928",
     "uplink":null,
     "downlink":"435.645",
@@ -12331,7 +12320,7 @@
     "satnogs_id":"YQXC-7549-6593-3361-1643"
   },
   {
-    "name":"TW-1B (Tianwang-1B NJUST-2)",
+    "name":"TW-1B",
     "norad_id":"40927",
     "uplink":null,
     "downlink":"437.645",
@@ -12342,7 +12331,7 @@
     "satnogs_id":"ENOX-9963-2931-2366-2925"
   },
   {
-    "name":"TW-1C (Tianwang-1C NJFA-1)",
+    "name":"TW-1C",
     "norad_id":"40926",
     "uplink":null,
     "downlink":"435.645",
@@ -12353,7 +12342,7 @@
     "satnogs_id":"XHVR-2136-6377-5531-7206"
   },
   {
-    "name":"TY-1 (Tianyi-1 Xiaoxiang-1)",
+    "name":"TY-1",
     "norad_id":"41842",
     "uplink":null,
     "downlink":"437.500\/437.525",
@@ -12364,7 +12353,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TY-2 (Tianyi-2 Xiaoxiang-2)",
+    "name":"TY-2",
     "norad_id":"43155",
     "uplink":"435.350\/2403.000\/5653.000",
     "downlink":"435.350*\/2403.000\/5833.000",
@@ -12375,7 +12364,7 @@
     "satnogs_id":"RQIQ-3113-9381-2241-7916"
   },
   {
-    "name":"TY-3 (Tianyi-3 Xiaoxiang-3)",
+    "name":"TY-3",
     "norad_id":"43664",
     "uplink":"435.875\/2406.000\/5656.000",
     "downlink":"435.875\/2406.000\/5836.000",
@@ -12386,7 +12375,7 @@
     "satnogs_id":"XWTX-3100-8924-6311-9373"
   },
   {
-    "name":"TY-4 (Tianyi-4 Xiaoxiang-4)",
+    "name":"TY-4",
     "norad_id":"43669",
     "uplink":"435.925\/2409.000\/5659.000",
     "downlink":"435.925*\/2409.000\/5839.000",
@@ -12397,7 +12386,7 @@
     "satnogs_id":"DWZS-2247-2262-5163-7605"
   },
   {
-    "name":"TY-5 (Tianyi-5 Xiaoxiang-5)",
+    "name":"TY-5",
     "norad_id":"43553",
     "uplink":"436.025\/2412.000\/5665.000",
     "downlink":"436.025\/2412.000\/5842.000",
@@ -12408,7 +12397,7 @@
     "satnogs_id":"ZJCQ-6364-2928-4931-9019"
   },
   {
-    "name":"TY-6 (Tianyi-6 Xiaoxiang-6 Quantutong-1)",
+    "name":"TY-6",
     "norad_id":"43158",
     "uplink":"436.100\/2415.000\/5667.000",
     "downlink":"436.100*\/2415.000\/5845.000",
@@ -12452,7 +12441,7 @@
     "satnogs_id":"UZLP-5382-5760-6380-2860"
   },
   {
-    "name":"UbatubaSat (Tancredo-1)",
+    "name":"UbatubaSat",
     "norad_id":"41931",
     "uplink":null,
     "downlink":"437.200",
@@ -12463,7 +12452,7 @@
     "satnogs_id":"GGHQ-0045-3828-5421-2006"
   },
   {
-    "name":"UCLSat (GB03)",
+    "name":"UCLSat",
     "norad_id":"42765",
     "uplink":null,
     "downlink":"435.975",
@@ -12474,7 +12463,7 @@
     "satnogs_id":"JLKC-1650-3566-2142-6611"
   },
   {
-    "name":"Uguisu (BIRD-JPN)",
+    "name":"Uguisu",
     "norad_id":"44330",
     "uplink":null,
     "downlink":"437.375",
@@ -12485,7 +12474,7 @@
     "satnogs_id":"OZTE-8267-1332-2799-5699"
   },
   {
-    "name":"UiTMSat-1 (BIRD-MY)",
+    "name":"UiTMSat-1",
     "norad_id":"43589",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -12518,7 +12507,7 @@
     "satnogs_id":"MYVF-9479-6273-3061-0441"
   },
   {
-    "name":"UniBRITE (CANX-3A)",
+    "name":"UniBRITE",
     "norad_id":"39092",
     "uplink":null,
     "downlink":"145.890",
@@ -12551,7 +12540,7 @@
     "satnogs_id":null
   },
   {
-    "name":"UNICORN-2B (NOOR-1A)",
+    "name":"UNICORN-2B",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -12562,7 +12551,7 @@
     "satnogs_id":null
   },
   {
-    "name":"UNICORN-2C (NOOR-1B)",
+    "name":"UNICORN-2C",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -12672,7 +12661,7 @@
     "satnogs_id":null
   },
   {
-    "name":"UNSW-EC0 (AU02)",
+    "name":"UNSW-EC0",
     "norad_id":"42723",
     "uplink":null,
     "downlink":"436.525\/2400.500",
@@ -12683,7 +12672,7 @@
     "satnogs_id":"SXFR-5969-5367-4392-2346"
   },
   {
-    "name":"UO-9 (UoSAT-1)",
+    "name":"UO-9",
     "norad_id":"12888",
     "uplink":null,
     "downlink":"145.825\/435.025",
@@ -12694,7 +12683,7 @@
     "satnogs_id":null
   },
   {
-    "name":"UO-11 (UoSAT-2)",
+    "name":"UO-11",
     "norad_id":"14781",
     "uplink":null,
     "downlink":"145.826*\/435.025",
@@ -12705,7 +12694,7 @@
     "satnogs_id":"TDVY-5283-4801-7631-6209"
   },
   {
-    "name":"UO-14 (UoSAT-3)",
+    "name":"UO-14",
     "norad_id":"20437",
     "uplink":"145.975",
     "downlink":"435.070",
@@ -12716,7 +12705,7 @@
     "satnogs_id":null
   },
   {
-    "name":"UO-15 (UoSAT-4)",
+    "name":"UO-15",
     "norad_id":"20438",
     "uplink":null,
     "downlink":null,
@@ -12727,7 +12716,7 @@
     "satnogs_id":null
   },
   {
-    "name":"UO-22 (UoSAT-5)",
+    "name":"UO-22",
     "norad_id":"21575",
     "uplink":"145.900\/145.975",
     "downlink":"435.120",
@@ -12738,7 +12727,7 @@
     "satnogs_id":null
   },
   {
-    "name":"UO-36 (UoSAT-12)",
+    "name":"UO-36",
     "norad_id":"25693",
     "uplink":"145.960",
     "downlink":"437.400\/437.025",
@@ -12760,7 +12749,7 @@
     "satnogs_id":"UCSJ-1439-6113-9699-8457"
   },
   {
-    "name":"UPSat (GR02)",
+    "name":"UPSat",
     "norad_id":"42716",
     "uplink":null,
     "downlink":"435.765",
@@ -12771,7 +12760,7 @@
     "satnogs_id":"ZGQO-8873-2944-7238-8629"
   },
   {
-    "name":"URSA MAIOR (IT02)",
+    "name":"URSA MAIOR",
     "norad_id":"42776",
     "uplink":null,
     "downlink":"435.950",
@@ -12782,7 +12771,7 @@
     "satnogs_id":"MAEY-6712-7402-2396-4318"
   },
   {
-    "name":"USNAP1 (BRICSAT2 NO-103)",
+    "name":"USNAP1",
     "norad_id":"44355",
     "uplink":"28.120\/145.825",
     "downlink":"145.825\/435.350\/437.605*",
@@ -12804,7 +12793,7 @@
     "satnogs_id":null
   },
   {
-    "name":"UTMN (SXC3-216)",
+    "name":"UTMN",
     "norad_id":"53376",
     "uplink":null,
     "downlink":"435.670",
@@ -12969,7 +12958,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Vizard (SXC3-215)",
+    "name":"Vizard",
     "norad_id":"53386",
     "uplink":null,
     "downlink":"437.800",
@@ -12980,7 +12969,7 @@
     "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {
-    "name":"Voenmeh (SXC3-2110)",
+    "name":"Voenmeh",
     "norad_id":"53373",
     "uplink":null,
     "downlink":"436.050",
@@ -12991,7 +12980,7 @@
     "satnogs_id":"YYOS-0902-7582-8175-2841"
   },
   {
-    "name":"VO-52 (Hamsat)",
+    "name":"VO-52",
     "norad_id":"28650",
     "uplink":"435.220-435.280",
     "downlink":"145.930-145.870",
@@ -13002,7 +12991,7 @@
     "satnogs_id":"MNUP-5257-9728-2566-4220"
   },
   {
-    "name":"VO-52 (Hamsat)",
+    "name":"VO-52",
     "norad_id":"28650",
     "uplink":"435.225-435.275",
     "downlink":"145.925-145.875",
@@ -13013,7 +13002,7 @@
     "satnogs_id":"MNUP-5257-9728-2566-4220"
   },
   {
-    "name":"VO-96 (ExseedSat-1)",
+    "name":"VO-96",
     "norad_id":"43758",
     "uplink":"435.340",
     "downlink":"145.900",
@@ -13024,7 +13013,7 @@
     "satnogs_id":"XQNL-8221-6393-9116-3452"
   },
   {
-    "name":"VZLUsat-1 (CZ02)",
+    "name":"VZLUsat-1",
     "norad_id":"42790",
     "uplink":null,
     "downlink":"437.240",
@@ -13112,7 +13101,7 @@
     "satnogs_id":null
   },
   {
-    "name":"WO-18 (WEBERSAT)",
+    "name":"WO-18",
     "norad_id":"20441",
     "uplink":null,
     "downlink":"437.104\/437.075",
@@ -13123,7 +13112,7 @@
     "satnogs_id":null
   },
   {
-    "name":"WO-39 (JAWSAT)",
+    "name":"WO-39",
     "norad_id":"26061",
     "uplink":"145.860",
     "downlink":"437.070\/437.175",
@@ -13156,7 +13145,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Xiaoxiang-1 (TY-1 Tianyi-1)",
+    "name":"Xiaoxiang-1",
     "norad_id":"41842",
     "uplink":null,
     "downlink":"437.500\/437.525",
@@ -13167,7 +13156,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Xiaoxiang-2 (TY-2 Tianyi-2)",
+    "name":"Xiaoxiang-2",
     "norad_id":"43155",
     "uplink":"435.350\/2403.000\/5653.000",
     "downlink":"435.350*\/2403.000\/5833.000",
@@ -13178,7 +13167,7 @@
     "satnogs_id":"RQIQ-3113-9381-2241-7916"
   },
   {
-    "name":"Xiaoxiang-3 (TY-3 Tianyi-3)",
+    "name":"Xiaoxiang-3",
     "norad_id":"43664",
     "uplink":"435.875\/2406.000\/5656.000",
     "downlink":"435.875\/2406.000\/5836.000",
@@ -13189,7 +13178,7 @@
     "satnogs_id":"XWTX-3100-8924-6311-9373"
   },
   {
-    "name":"Xiaoxiang-4 (TY-4 Tianyi-4)",
+    "name":"Xiaoxiang-4",
     "norad_id":"43669",
     "uplink":"435.925\/2409.000\/5659.000",
     "downlink":"435.925*\/2409.000\/5839.000",
@@ -13200,7 +13189,7 @@
     "satnogs_id":"DWZS-2247-2262-5163-7605"
   },
   {
-    "name":"Xiaoxiang-5 (TY-5 Tianyi-5)",
+    "name":"Xiaoxiang-5",
     "norad_id":"43553",
     "uplink":"436.025\/2412.000\/5665.000",
     "downlink":"436.025\/2412.000\/5842.000",
@@ -13211,7 +13200,7 @@
     "satnogs_id":"ZJCQ-6364-2928-4931-9019"
   },
   {
-    "name":"Xiaoxiang-6 (TY-6 Tianyi-6 Quantutong-1)",
+    "name":"Xiaoxiang-6",
     "norad_id":"43158",
     "uplink":"436.100\/2415.000\/5667.000",
     "downlink":"436.100*\/2415.000\/5845.000",
@@ -13222,7 +13211,7 @@
     "satnogs_id":"YAZV-7302-9755-5634-8209"
   },
   {
-    "name":"X-CubeSat (FR01)",
+    "name":"X-CubeSat",
     "norad_id":"42707",
     "uplink":"145.860",
     "downlink":"437.020",
@@ -13233,7 +13222,7 @@
     "satnogs_id":"OUHQ-7538-4862-1228-5686"
   },
   {
-    "name":"XI-IV (CO-57)",
+    "name":"XI-IV",
     "norad_id":"27848",
     "uplink":null,
     "downlink":"437.490",
@@ -13244,7 +13233,7 @@
     "satnogs_id":"KZUI-4275-4790-4963-1514"
   },
   {
-    "name":"XI-V (CO-58)",
+    "name":"XI-V",
     "norad_id":"28895",
     "uplink":null,
     "downlink":"437.345",
@@ -13255,7 +13244,7 @@
     "satnogs_id":"IYDL-1832-4040-0556-1587"
   },
   {
-    "name":"XO-53 (SSETI)",
+    "name":"XO-53",
     "norad_id":"28894",
     "uplink":null,
     "downlink":"437.250",
@@ -13266,7 +13255,7 @@
     "satnogs_id":null
   },
   {
-    "name":"XW-1 (HO-68 CAS-1)",
+    "name":"XW-1",
     "norad_id":"36122",
     "uplink":"145.925-145.975",
     "downlink":"435.765-435.715",
@@ -13277,7 +13266,7 @@
     "satnogs_id":"JJGC-7637-4682-0934-3692"
   },
   {
-    "name":"XW-1 (HO-68 CAS-1)",
+    "name":"XW-1",
     "norad_id":"36122",
     "uplink":"145.825",
     "downlink":"435.675",
@@ -13288,7 +13277,7 @@
     "satnogs_id":"JJGC-7637-4682-0934-3692"
   },
   {
-    "name":"XW-1 (HO-68 CAS-1)",
+    "name":"XW-1",
     "norad_id":"36122",
     "uplink":null,
     "downlink":null,
@@ -13299,7 +13288,7 @@
     "satnogs_id":"JJGC-7637-4682-0934-3692"
   },
   {
-    "name":"XW-2A (CAS-3A)",
+    "name":"XW-2A",
     "norad_id":"40903",
     "uplink":"435.030-435.050",
     "downlink":"145.685-145.665",
@@ -13310,7 +13299,7 @@
     "satnogs_id":"UCZE-8814-2695-5595-6102"
   },
   {
-    "name":"XW-2B (CAS-3B)",
+    "name":"XW-2B",
     "norad_id":"40911",
     "uplink":"435.090-435.110",
     "downlink":"145.750-145.730",
@@ -13321,7 +13310,7 @@
     "satnogs_id":"TZEC-4580-2722-6773-9216"
   },
   {
-    "name":"XW-2C (CAS-3C)",
+    "name":"XW-2C",
     "norad_id":"40906",
     "uplink":"435.150-435.170",
     "downlink":"145.815-145.795",
@@ -13332,7 +13321,7 @@
     "satnogs_id":"LEDR-0123-1783-1341-9342"
   },
   {
-    "name":"XW-2D (CAS-3D)",
+    "name":"XW-2D",
     "norad_id":"40907",
     "uplink":"435.210-435.230",
     "downlink":"145.880-145.860",
@@ -13343,7 +13332,7 @@
     "satnogs_id":"TPLI-0230-3137-9154-3991"
   },
   {
-    "name":"XW-2E (CAS-3E)",
+    "name":"XW-2E",
     "norad_id":"40909",
     "uplink":"435.270-435.290",
     "downlink":"145.935-145.915",
@@ -13354,7 +13343,7 @@
     "satnogs_id":"DTZR-4707-4114-9612-3004"
   },
   {
-    "name":"XW-2F (CAS-3F)",
+    "name":"XW-2F",
     "norad_id":"40910",
     "uplink":"435.330-435.350",
     "downlink":"146.000-145.980",
@@ -13365,7 +13354,7 @@
     "satnogs_id":"YWAV-5902-3690-5734-3273"
   },
   {
-    "name":"XW-3 (CAS-9 HO-113)",
+    "name":"XW-3",
     "norad_id":"50466",
     "uplink":"145.870",
     "downlink":"435.180",
@@ -13376,7 +13365,7 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
-    "name":"XW-3 (CAS-9 HO-113)",
+    "name":"XW-3",
     "norad_id":"50466",
     "uplink":null,
     "downlink":null,
@@ -13387,7 +13376,7 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
-    "name":"XW-3 (CAS-9 HO-113)",
+    "name":"XW-3",
     "norad_id":"50466",
     "uplink":null,
     "downlink":"435.725",
@@ -13431,7 +13420,7 @@
     "satnogs_id":"LCGS-2217-1833-6147-9866"
   },
   {
-    "name":"YuZGU-1 (Tanusha-SWSU-1)",
+    "name":"YuZGU-1",
     "norad_id":"42911",
     "uplink":null,
     "downlink":"437.050",
@@ -13442,7 +13431,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-2 (Tanusha-SWSU-2)",
+    "name":"YuZGU-2",
     "norad_id":"42912",
     "uplink":null,
     "downlink":"437.050",
@@ -13453,7 +13442,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-3 (Tanusha-SWSU-3)",
+    "name":"YuZGU-3",
     "norad_id":"43597",
     "uplink":null,
     "downlink":"437.050",
@@ -13464,7 +13453,7 @@
     "satnogs_id":"DYGX-2292-8178-2790-2062"
   },
   {
-    "name":"YuZGU-4 (Tanusha-SWSU-4)",
+    "name":"YuZGU-4",
     "norad_id":"43598",
     "uplink":null,
     "downlink":"437.050",
@@ -13475,7 +13464,7 @@
     "satnogs_id":"PGHZ-9811-8576-7503-9559"
   },
   {
-    "name":"YuZGU-5 (SWSU-55 No1)",
+    "name":"YuZGU-5",
     "norad_id":null,
     "uplink":null,
     "downlink":"437.050\/437.050",
@@ -13486,7 +13475,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-6 (SWSU-55 No2)",
+    "name":"YuZGU-6",
     "norad_id":"53305",
     "uplink":null,
     "downlink":"437.050\/437.062",
@@ -13497,7 +13486,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-7 (SWSU-55 No3)",
+    "name":"YuZGU-7",
     "norad_id":"53309",
     "uplink":null,
     "downlink":"437.050\/437.075",
@@ -13508,7 +13497,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-8 (SWSU-55 No4)",
+    "name":"YuZGU-8",
     "norad_id":"53307",
     "uplink":null,
     "downlink":"437.050\/437.082",
@@ -13519,7 +13508,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-9 (SWSU-55 No5)",
+    "name":"YuZGU-9",
     "norad_id":"53308",
     "uplink":null,
     "downlink":"437.050\/437.100",
@@ -13530,7 +13519,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-10 (SWSU-55 No6)",
+    "name":"YuZGU-10",
     "norad_id":"53321",
     "uplink":null,
     "downlink":"437.050\/437.087",
@@ -13541,7 +13530,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-11 (SWSU-55 No7)",
+    "name":"YuZGU-11",
     "norad_id":"53310",
     "uplink":null,
     "downlink":"437.050\/437.1125",
@@ -13552,7 +13541,7 @@
     "satnogs_id":null
   },
   {
-    "name":"YuZGU-12 (SWSU-55 No8)",
+    "name":"YuZGU-12",
     "norad_id":"53311",
     "uplink":null,
     "downlink":"437.050\/437.000",
@@ -13585,7 +13574,7 @@
     "satnogs_id":"OPKX-9983-8095-6593-6710"
   },
   {
-    "name":"ZA-AeroSat(AZ01)",
+    "name":"ZA-AeroSat",
     "norad_id":"42713",
     "uplink":null,
     "downlink":"437.195",
@@ -13596,7 +13585,7 @@
     "satnogs_id":"GKGO-8867-1154-9953-5426"
   },
   {
-    "name":"Zhou Enlai (Huai'An-1 HA-1)",
+    "name":"Zhou Enlai",
     "norad_id":"43156",
     "uplink":"145.930",
     "downlink":"436.950",
