@@ -8514,6 +8514,17 @@
     "satnogs_id":null
   },
   {
+    "name":"PearlAfricaSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825\/435.375",
+    "beacon":"435.375",
+    "mode":"4800bps GMSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Pegasus-1",
     "norad_id":null,
     "uplink":null,
