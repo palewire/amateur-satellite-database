@@ -19029,10 +19029,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19228,10 +19228,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -21901,8 +21901,8 @@
         "decoder":"greencube"
       }
     ],
-    "updated":"2022-09-15T09:15:45.443742Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-11-09T14:10:47.752701Z",
+    "citation":"add telemetry dashboard URL to DB page https:\/\/dashboard.satnogs.org\/d\/E_SiV4vVk\/greencube?orgId=1",
     "is_frequency_violator":false,
     "associated_satellites":[
       "LZVY-1779-1171-9871-9167"
