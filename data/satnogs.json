@@ -8578,7 +8578,7 @@
     ],
     "updated":"2022-05-01T12:08:15.885462Z",
     "citation":"https:\/\/www.researchgate.net\/publication\/325152032_NANOSATELLITE_EAGLET-1_READY_FOR_LAUNCH",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -9286,7 +9286,7 @@
     ],
     "updated":"2021-07-21T10:11:42.729538Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -14081,7 +14081,7 @@
     ],
     "updated":"2022-08-01T16:03:48.262741Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -14917,13 +14917,13 @@
     "decayed":null,
     "launched":"2018-11-18T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.nesdis.noaa.gov\/about\/our-offices\/joint-polar-satellite-system-jpss-program-office",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2021-07-27T08:28:55.595807Z",
+    "updated":"2022-11-11T09:27:56.446480Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/193",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -17751,7 +17751,7 @@
     ],
     "updated":"2022-02-25T02:27:13.479467Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/211 and https:\/\/community.libre.space\/t\/pslv-c52-february-14-2022-at-12-29-am-utc\/8972\/2",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
       "XVPO-1701-2592-7851-1083"
     ]
