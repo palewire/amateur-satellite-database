@@ -21791,11 +21791,11 @@
     "norad_cat_id":99369.0,
     "norad_follow_id":null,
     "name":"SS-1",
-    "names":"SURYA Satellite-1",
+    "names":"Surya Satellite-1",
     "image":"satellites\/SS-1.jpg",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-11-19T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/www.surya.ac.id\/content\/3\/90\/Tentang_Surya_Satelit_1",
     "operator":"None",
@@ -21803,8 +21803,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T23:23:20.005817Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-11-10T12:51:10.968033Z",
+    "citation":"-",
     "is_frequency_violator":false,
     "associated_satellites":[
 
