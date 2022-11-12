@@ -1496,7 +1496,7 @@
     "satnogs_id":"NNNQ-5861-2134-5231-3624"
   },
   {
-    "name":"BIRDS-4",
+    "name":"BIRDS-4(Tsuru)",
     "norad_id":"47927",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -1507,7 +1507,7 @@
     "satnogs_id":"SCFB-5106-8061-3969-1117"
   },
   {
-    "name":"BIRDS-4",
+    "name":"BIRDS-4(Maya-2)",
     "norad_id":"47929",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -1518,7 +1518,7 @@
     "satnogs_id":"RYZT-9821-8766-4438-4997"
   },
   {
-    "name":"BIRDS-4",
+    "name":"BIRDS-4(GuaraniSat-1)",
     "norad_id":"47931",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -1527,6 +1527,39 @@
     "callsign":"JG6YMZ",
     "status":"re-entered",
     "satnogs_id":"XGOP-6666-1396-1633-1810"
+  },
+  {
+    "name":"BIRDS-5(ZimSat-1)",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825\/435.375",
+    "beacon":"435.375",
+    "mode":"4800bps GMSK APRS CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"BIRDS-5(PearlAfricaSat-1)",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825\/435.375",
+    "beacon":"435.375",
+    "mode":"4800bps GMSK APRS CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"BIRDS-5(Taka)",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825\/435.375",
+    "beacon":"435.375",
+    "mode":"4800bps GMSK APRS CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"BIROS",

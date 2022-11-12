@@ -1053,3 +1053,5 @@ XRQT-1510-6197-3499-1107,99296.0,,CIRCE-2,,satellites/CIRCE_tFvQmSl.jpg,future,,
 DKXM-0957-7924-4757-0455,99292.0,,Stork 6,,,alive,,,,,None,,[],2022-10-27T18:14:49.201929Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 XEJD-2825-3333-5847-1008,44402.0,,LEMUR 2 WANLI,,,alive,,2019-07-05T00:00:00Z,,,None,US,[],2022-10-28T07:52:05.874290Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 XRJJ-0463-2781-5484-1167,39435.0,,WREN,,satellites/wren.jpg,alive,,,,https://amsat-uk.org/2013/10/24/wren-a-ham-radio-sstv-pocketqube/,None,DE,[],2022-11-02T21:09:12.874734Z,Check if it is came back alive,False,[]
+QMPQ-1018-9980-9755-6399,41871.0,,LEMUR 2 XIAOQING,,,alive,,2016-10-17T00:00:00Z,,,None,US,[],2022-11-12T07:39:33.409810Z,found using strf scan on 401 MHz,False,[]
+QWMK-0823-5373-1250-4835,52772.0,,CPOD FLT1,TYVAK-0032,,alive,,2022-06-25T00:00:00Z,,,None,US,[],2022-11-12T07:39:15.292297Z,found using strf scan on 401 MHz,False,[]

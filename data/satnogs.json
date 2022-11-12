@@ -24599,5 +24599,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"QMPQ-1018-9980-9755-6399",
+    "norad_cat_id":41871.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 XIAOQING",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2016-10-17T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-12T07:39:33.409810Z",
+    "citation":"found using strf scan on 401 MHz",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QWMK-0823-5373-1250-4835",
+    "norad_cat_id":52772.0,
+    "norad_follow_id":null,
+    "name":"CPOD FLT1",
+    "names":"TYVAK-0032",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-06-25T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-12T07:39:15.292297Z",
+    "citation":"found using strf scan on 401 MHz",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
