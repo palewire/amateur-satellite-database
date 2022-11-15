@@ -1610,16 +1610,6 @@
     "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
   {
-    "name":"Kaidun-1",
-    "norad_id":"41915",
-    "uplink":null,
-    "downlink":"437.600",
-    "beacon":null,
-    "mode":"1200bps BPSK",
-    "callsign":"AXNWPU-4",
-    "satnogs_id":"BDQK-1293-6559-5114-9974"
-  },
-  {
     "name":"KAITUO-1B",
     "norad_id":"40912",
     "uplink":null,
