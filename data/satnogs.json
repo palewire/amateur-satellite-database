@@ -19029,10 +19029,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -22055,7 +22055,7 @@
   {
     "sat_id":"ENSA-0326-3908-7206-0914",
     "norad_cat_id":99377.0,
-    "norad_follow_id":53321.0,
+    "norad_follow_id":53306.0,
     "name":"YuZGU-55 10",
     "names":"SWSU-55 No6 (SWSU No10), RadioSkaf RS-15, RS4S",
     "image":"",
@@ -22069,8 +22069,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-12T15:06:47.649118Z",
-    "citation":"https:\/\/community.libre.space\/t\/swsu-tsiolkovsky-ryazan-cubesats-deployed-from-the-iss-21-july-2022\/9436",
+    "updated":"2022-11-15T11:37:23.318428Z",
+    "citation":"https:\/\/twitter.com\/EU1SAT\/status\/1592322066434633728",
     "is_frequency_violator":true,
     "associated_satellites":[
 
