@@ -22803,9 +22803,9 @@
     "name":"Lunar-IceCube",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2022-08-29T00:00:00Z",
+    "launched":"2022-11-15T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -22813,7 +22813,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-29T14:56:33.788084Z",
+    "updated":"2022-11-16T08:50:15.770660Z",
     "citation":"https:\/\/sgcderek.github.io\/blog\/artemis-1.html",
     "is_frequency_violator":false,
     "associated_satellites":[
