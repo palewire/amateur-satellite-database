@@ -22510,8 +22510,8 @@
   },
   {
     "sat_id":"BFTX-5845-5159-6971-7200",
-    "norad_cat_id":99358.0,
-    "norad_follow_id":53381.0,
+    "norad_cat_id":53381.0,
+    "norad_follow_id":null,
     "name":"ISOI",
     "names":"SXC3-219, RS19Sl, MEDEX",
     "image":"satellites\/SXC3_Y1IVohc.jpg",
@@ -22525,11 +22525,11 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-14T02:47:02.629443Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-11-16T22:48:00.654393Z",
+    "citation":"https:\/\/community.libre.space\/t\/observation-6747670-isoi-99358\/9784",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "JWMP-8815-6656-8906-2224"
     ]
   },
   {
@@ -22706,7 +22706,7 @@
     "norad_follow_id":null,
     "name":"FUTABA",
     "names":"",
-    "image":"",
+    "image":"satellites\/63EC4C7D-3320-4764-855C-95907882C0D7.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":null,
@@ -22717,7 +22717,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-15T12:23:46.293690Z",
+    "updated":"2022-11-16T16:29:01.468274Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53463\/2022-08-15T10%3A41%3A08_6332056_53463_98067UC_0-OBJECT-UC_0.7010609214814849_B_r24.0_f0.5.png",
     "is_frequency_violator":false,
     "associated_satellites":[

@@ -6091,7 +6091,7 @@
     "mode":"2400bps GMSK USP",
     "callsign":"RS19S",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
   {
     "name":"ISS",
@@ -11558,7 +11558,7 @@
     "mode":"2400bps GMSK USP",
     "callsign":"RS19S",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
   {
     "name":"SXC3-2110",
