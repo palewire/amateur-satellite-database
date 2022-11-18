@@ -9164,7 +9164,7 @@
         "decoder":"mysat"
       }
     ],
-    "updated":"2021-07-21T10:11:42.717727Z",
+    "updated":"2022-11-17T19:40:59.117136Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -19073,8 +19073,8 @@
     "name":"PATCOOL",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2022-11-15T00:00:00Z",
     "launched":"2021-12-21T10:06:00Z",
     "deployed":"2022-01-26T12:10:00Z",
     "website":"",
@@ -19083,7 +19083,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-01-29T07:57:45.623633Z",
+    "updated":"2022-11-17T19:41:23.469864Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -19854,11 +19854,13 @@
     "operator":"None",
     "countries":"",
     "telemetries":[
-
+      {
+        "decoder":"geoscanedelveis"
+      }
     ],
     "updated":"2022-08-15T16:58:28.599901Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53385\/2022-08-13T21%3A58%3A48_6325542_53385_22096R_0-OBJECT-R_0.394520343333312_B_r29.0_f0.0.png",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
       "ISNT-5198-2847-1625-8133"
     ]
@@ -22827,7 +22829,7 @@
     "name":"OMOTENASHI",
     "names":"Outstanding MOon exploration Technologies demonstrated by NAno Semi-Hard Impactor",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2022-08-29T00:00:00Z",
     "deployed":null,
@@ -22837,7 +22839,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-29T14:56:33.806438Z",
+    "updated":"2022-11-17T18:02:36.666045Z",
     "citation":"https:\/\/sgcderek.github.io\/blog\/artemis-1.html",
     "is_frequency_violator":false,
     "associated_satellites":[
