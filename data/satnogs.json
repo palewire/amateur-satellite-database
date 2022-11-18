@@ -19121,8 +19121,8 @@
     "name":"TARGIT",
     "names":"",
     "image":"satellites\/targit.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2022-11-16T00:00:00Z",
     "launched":"2021-12-21T10:06:00Z",
     "deployed":"2022-01-26T13:40:00Z",
     "website":"https:\/\/www.ssdl.gatech.edu\/research\/projects\/tethering-and-ranging-mission-georgia-institute-technology-targit",
@@ -19133,8 +19133,8 @@
         "decoder":"targit"
       }
     ],
-    "updated":"2022-08-09T16:12:10.339860Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-11-18T05:16:26.227580Z",
+    "citation":"https:\/\/www.space-track.org\/#decay",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22877,9 +22877,9 @@
     "name":"ARTEMIS 1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2022-08-29T00:00:00Z",
+    "launched":"2022-11-15T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -22887,7 +22887,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-29T14:56:33.798065Z",
+    "updated":"2022-11-18T05:06:01.259727Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
