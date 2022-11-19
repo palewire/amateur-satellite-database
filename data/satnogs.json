@@ -24649,5 +24649,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"TLZR-1993-2564-0036-4315",
+    "norad_cat_id":99291.0,
+    "norad_follow_id":null,
+    "name":"XW-4",
+    "names":"CAS-10, HOPE-4",
+    "image":"satellites\/XW-4.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-19T04:56:00.860168Z",
+    "citation":"https:\/\/twitter.com\/bd5rv\/status\/1593693879798497285",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
