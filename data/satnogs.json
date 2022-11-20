@@ -24673,5 +24673,77 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RWCR-9372-3145-3963-4708",
+    "norad_cat_id":28380.0,
+    "norad_follow_id":null,
+    "name":"Cosmos 2407",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-20T04:17:27.913199Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PYCC-5269-8901-4139-7220",
+    "norad_cat_id":28521.0,
+    "norad_follow_id":null,
+    "name":"Cosmos 2414",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-20T04:16:16.621485Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OWVC-4645-6706-6384-7144",
+    "norad_cat_id":36519.0,
+    "norad_follow_id":null,
+    "name":"Cosmos 2463",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-20T04:14:45.241447Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
