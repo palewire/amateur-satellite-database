@@ -9906,10 +9906,10 @@
     "norad_cat_id":44420.0,
     "norad_follow_id":null,
     "name":"LIGHTSAIL-2",
-    "names":"WM9XPA\r\nLightSail-B",
+    "names":"WM9XPALightSail-B",
     "image":"satellites\/LightSail_2_Deployment_Test.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2022-11-15T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -9920,7 +9920,7 @@
         "decoder":"lightsail2"
       }
     ],
-    "updated":"2021-07-21T10:11:42.777021Z",
+    "updated":"2022-11-25T05:56:07.811998Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[

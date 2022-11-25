@@ -442,8 +442,7 @@ TVOC-6469-7409-1625-2760,44406.0,,Lucky-7,OK0SAT,satellites/lucky-7.jpg,alive,,2
 FVTP-0768-5406-9405-1618,44412.0,,BEESAT-9,DP0BEM,satellites/csm_BEESAT-4_FM_2_12dc8496e0.png,alive,,2019-07-05T00:00:00Z,,https://www.raumfahrttechnik.tu-berlin.de/menue/research/current_projects/beesat_9/parameter/en/,TU Berlin,,[],2021-07-21T10:11:42.771618Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 PAVN-7347-0969-1067-1772,44418.0,,NARSSCube-2,,,alive,,,,,None,,[],2021-07-21T10:11:42.773562Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 FLRT-9057-4077-2524-9105,44419.0,,JAISAT-1,,satellites/jaisat-1__1.jpg,alive,,2019-07-05T00:00:00Z,,,None,TH,[],2022-04-16T16:37:13.007090Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-NEYM-8143-9281-1364-3886,44420.0,,LIGHTSAIL-2,"WM9XPA
-LightSail-B",satellites/LightSail_2_Deployment_Test.jpg,alive,,,,,None,,[{'decoder': 'lightsail2'}],2021-07-21T10:11:42.777021Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+NEYM-8143-9281-1364-3886,44420.0,,LIGHTSAIL-2,WM9XPALightSail-B,satellites/LightSail_2_Deployment_Test.jpg,re-entered,2022-11-15T00:00:00Z,,,,None,,[{'decoder': 'lightsail2'}],2022-11-25T05:56:07.811998Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 WNFU-3656-0141-2047-7780,44426.0,,Swiatowid,SR6SAT,satellites/sat.png,re-entered,2021-03-19T12:18:38Z,,,,None,,[],2021-07-21T10:11:42.778936Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 EQAP-0335-6677-5204-0983,44427.0,,KrakSat,SR9KRA,,re-entered,2022-01-17T18:13:33Z,,,,None,,[{'decoder': 'ax25monitor'}],2022-01-19T02:16:30.163963Z,https://community.libre.space/t/last-2-weeks-of-kraksat/8751/11,False,[]
 XJEY-1734-2475-9790-3893,44429.0,,EntrySat,,satellites/iss060e003245.jpg,re-entered,2021-08-10T00:00:00Z,2019-04-17T00:00:00Z,2019-07-03T00:00:00Z,https://www.csut.eu/en/project/entrysat/,None,FR,[{'decoder': 'entrysat'}],2022-01-15T09:59:23.674929Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
