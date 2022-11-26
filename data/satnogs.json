@@ -19228,10 +19228,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -24742,6 +24742,78 @@
     "updated":"2022-11-20T04:14:45.241447Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WQPT-3457-5126-1772-6682",
+    "norad_cat_id":99290.0,
+    "norad_follow_id":null,
+    "name":"Thybolt-1",
+    "names":"",
+    "image":"satellites\/FibSeYXVIAAsyrm.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-11-25T06:16:00Z",
+    "deployed":"2022-11-25T08:10:00Z",
+    "website":"https:\/\/www.dhruvaspace.com\/dhruva-space-thybolt-mission-ham-radio-operators",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-26T06:41:09.017630Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FBWZ-9594-5872-5644-3969",
+    "norad_cat_id":99289.0,
+    "norad_follow_id":null,
+    "name":"Thybolt-2",
+    "names":"",
+    "image":"satellites\/FibSeYXVIAAsyrm_W8O31dZ.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-11-25T06:16:00Z",
+    "deployed":"2022-11-25T08:10:00Z",
+    "website":"https:\/\/www.dhruvaspace.com\/dhruva-space-thybolt-mission-ham-radio-operators",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-26T06:45:27.704708Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EFIC-2341-1789-8177-9840",
+    "norad_cat_id":99288.0,
+    "norad_follow_id":null,
+    "name":"INS-2B",
+    "names":"INDIA-BHUTAN SAT",
+    "image":"satellites\/316091443_598736008919920_1292225031143386412_n.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-11-25T06:16:00Z",
+    "deployed":"2022-11-25T08:21:00Z",
+    "website":"",
+    "operator":"ISRO",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-26T06:46:33.447702Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
