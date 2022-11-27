@@ -19228,10 +19228,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -24749,7 +24749,7 @@
   {
     "sat_id":"WQPT-3457-5126-1772-6682",
     "norad_cat_id":99290.0,
-    "norad_follow_id":null,
+    "norad_follow_id":54363.0,
     "name":"Thybolt-1",
     "names":"",
     "image":"satellites\/FibSeYXVIAAsyrm.jpg",
@@ -24763,8 +24763,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-26T06:41:09.017630Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-11-26T16:35:25.301737Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c54-eos-06-mission-2022-11-26-06-26-utc\/9805\/29?u=fredy",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24773,7 +24773,7 @@
   {
     "sat_id":"FBWZ-9594-5872-5644-3969",
     "norad_cat_id":99289.0,
-    "norad_follow_id":null,
+    "norad_follow_id":54364.0,
     "name":"Thybolt-2",
     "names":"",
     "image":"satellites\/FibSeYXVIAAsyrm_W8O31dZ.jpg",
@@ -24787,8 +24787,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-26T06:45:27.704708Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-11-26T16:35:48.324322Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c54-eos-06-mission-2022-11-26-06-26-utc\/9805\/29",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24797,7 +24797,7 @@
   {
     "sat_id":"EFIC-2341-1789-8177-9840",
     "norad_cat_id":99288.0,
-    "norad_follow_id":null,
+    "norad_follow_id":54366.0,
     "name":"INS-2B",
     "names":"INDIA-BHUTAN SAT",
     "image":"satellites\/316091443_598736008919920_1292225031143386412_n.jpg",
@@ -24811,7 +24811,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-26T06:46:33.447702Z",
+    "updated":"2022-11-26T16:22:19.146525Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":true,
     "associated_satellites":[

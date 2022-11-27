@@ -4061,11 +4061,11 @@
   {
     "name":"E1P-U2",
     "norad_id":"37855",
-    "uplink":"437.305",
-    "downlink":"437.498",
+    "uplink":null,
+    "downlink":"437.493",
     "beacon":null,
-    "mode":"1200bps AFSK_USBreceive",
-    "callsign":"K7MSU-1",
+    "mode":"1k2AFSK_USB",
+    "callsign":null,
     "status":"active",
     "satnogs_id":"GTMF-2365-6960-5386-3224"
   },
@@ -7183,6 +7183,17 @@
     "satnogs_id":"BGMK-0175-7442-2160-6546"
   },
   {
+    "name":"M-Cubed",
+    "norad_id":"37855",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"GTMF-2365-6960-5386-3224"
+  },
+  {
     "name":"MCubed-2",
     "norad_id":"39469",
     "uplink":null,
@@ -7566,17 +7577,6 @@
     "callsign":"A68MX",
     "status":"active",
     "satnogs_id":"FXJU-1542-5342-0390-1271"
-  },
-  {
-    "name":"M-Cubed",
-    "norad_id":"37855",
-    "uplink":null,
-    "downlink":"437.485",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":null,
-    "status":"active",
-    "satnogs_id":"GTMF-2365-6960-5386-3224"
   },
   {
     "name":"NanoDragon",
