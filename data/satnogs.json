@@ -21889,7 +21889,7 @@
     "norad_cat_id":53106.0,
     "norad_follow_id":null,
     "name":"GREENCUBE",
-    "names":"",
+    "names":"IO-117",
     "image":"satellites\/greencube__1.jpg",
     "status":"alive",
     "decayed":null,
@@ -21903,7 +21903,7 @@
         "decoder":"greencube"
       }
     ],
-    "updated":"2022-11-09T14:10:47.752701Z",
+    "updated":"2022-11-27T21:09:51.587277Z",
     "citation":"add telemetry dashboard URL to DB page https:\/\/dashboard.satnogs.org\/d\/E_SiV4vVk\/greencube?orgId=1",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -24176,7 +24176,7 @@
     "norad_follow_id":null,
     "name":"LEMUR 2 ALEXANDER",
     "names":"",
-    "image":"",
+    "image":"satellites\/24c826a550d711022b371e6bbaa693a786caccb9.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":"2018-05-21T00:00:00Z",
@@ -24187,8 +24187,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-20T21:57:56.794096Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-11-27T17:43:38.137199Z",
+    "citation":"https:\/\/community.libre.space\/t\/lemur-2-alexander-strf-bandscan\/9824",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24814,6 +24814,102 @@
     "updated":"2022-11-26T16:22:19.146525Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LQIA-1498-8400-4918-0119",
+    "norad_cat_id":46907.0,
+    "norad_follow_id":null,
+    "name":"KSM1-D",
+    "names":"",
+    "image":"satellites\/485b5ab8366d482143fb4d06e78bdfb7898aed9b.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-11-07T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"LU",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-27T15:54:57.964944Z",
+    "citation":"https:\/\/community.libre.space\/t\/ksm1-d-strf-bandscan\/9822",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DRIR-4756-9415-8341-9613",
+    "norad_cat_id":48941.0,
+    "norad_follow_id":null,
+    "name":"Sherpa-LTE1",
+    "names":"",
+    "image":"satellites\/4ceb13e7fd0f373a80cf6d178d6cb2525ea03417.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-27T15:55:10.499228Z",
+    "citation":"https:\/\/community.libre.space\/t\/sherpa-lte1-strf-bandscan\/9821",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CYAC-1968-5138-2774-2850",
+    "norad_cat_id":53317.0,
+    "norad_follow_id":null,
+    "name":"CZ-2D R\/B",
+    "names":"",
+    "image":"satellites\/48ff0ca450a132f748b0fd15726f47c875290272_2_354x500.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-07-29T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-27T17:43:04.637007Z",
+    "citation":"https:\/\/community.libre.space\/t\/cz-2d-r-b-strf-bandscan\/9823",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KNYA-2355-0276-3151-7942",
+    "norad_cat_id":43697.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 CHANUSIAK",
+    "names":"",
+    "image":"satellites\/24c826a550d711022b371e6bbaa693a786caccb9_r4kONF1.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-11-11T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-27T22:31:10.035680Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/1",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]

@@ -214,7 +214,7 @@
     "uplink":null,
     "downlink":"436.730",
     "beacon":null,
-    "mode":"4k8\/9k6* FSK",
+    "mode":"4k8*\/9k6 FSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":"MSIH-7029-5546-1995-2723"
