@@ -6017,6 +6017,17 @@
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
   {
+    "name":"IO-117",
+    "norad_id":"53106",
+    "uplink":"435.310",
+    "downlink":"435.310",
+    "beacon":null,
+    "mode":"0k3\/1k2*\/2k4FSK Digipeater",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"KGEF-8685-2681-9687-2264"
+  },
+  {
     "name":"IPEX",
     "norad_id":"39471",
     "uplink":null,
