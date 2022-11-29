@@ -4181,13 +4181,24 @@
   },
   {
     "name":"Egycubesat-1",
-    "norad_id":null,
+    "norad_id":"44792",
     "uplink":null,
     "downlink":null,
     "beacon":"437.970",
     "mode":"CW",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"Egycubesat-2",
+    "norad_id":"44718",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"437.974",
+    "mode":"CW",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8290,7 +8301,7 @@
     "beacon":null,
     "mode":"FM PSK31 PCM-PSK\/PM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11955,6 +11966,28 @@
     "callsign":"T8GBS",
     "status":"active",
     "satnogs_id":"VNEP-7767-9055-3195-4316"
+  },
+  {
+    "name":"Thybolt-1",
+    "norad_id":"54363",
+    "uplink":null,
+    "downlink":"436.175",
+    "beacon":"435.360",
+    "mode":"4k8\/9k6 FSK CW*",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"Thybolt-2",
+    "norad_id":"54364",
+    "uplink":null,
+    "downlink":"436.175",
+    "beacon":"435.360",
+    "mode":"4k8\/9k6 FSK CW*",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"TIANQIN-1",

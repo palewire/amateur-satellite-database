@@ -930,16 +930,6 @@
     "satnogs_id":"GTMF-2365-6960-5386-3224"
   },
   {
-    "name":"Egycubesat-1",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":null,
-    "beacon":"437.970",
-    "mode":"CW",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"EO-88",
     "norad_id":"42017",
     "uplink":"435.015-435.045",
@@ -2848,6 +2838,26 @@
     "mode":"9600bps BPSK FM",
     "callsign":"T8GBS",
     "satnogs_id":"VNEP-7767-9055-3195-4316"
+  },
+  {
+    "name":"Thybolt-1",
+    "norad_id":"54363",
+    "uplink":null,
+    "downlink":"436.175",
+    "beacon":"435.360",
+    "mode":"4k8\/9k6 FSK CW*",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"Thybolt-2",
+    "norad_id":"54364",
+    "uplink":null,
+    "downlink":"436.175",
+    "beacon":"435.360",
+    "mode":"4k8\/9k6 FSK CW*",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"TIANQIN-1",
