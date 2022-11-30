@@ -364,7 +364,7 @@
     "norad_cat_id":7530.0,
     "norad_follow_id":null,
     "name":"OSCAR 7",
-    "names":"AO-7 AMSAT OSCAR 7",
+    "names":"AO-7, AMSAT OSCAR 7",
     "image":"satellites\/AMSAT-OSCAR_7.jpg",
     "status":"alive",
     "decayed":null,
@@ -376,7 +376,7 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-14T08:49:11.693800Z",
+    "updated":"2022-11-29T12:13:05.281288Z",
     "citation":"https:\/\/www.amsat.org\/two-way-satellites\/ao-7\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -15618,19 +15618,19 @@
     "norad_cat_id":43441.0,
     "norad_follow_id":null,
     "name":"ZHUHAI-1 OHS-02",
-    "names":"CAS-4A",
+    "names":"",
     "image":"satellites\/ohs-2__1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":null,
-    "website":"https:\/\/amsat-uk.org\/satellites\/comms\/cas-4a-and-cas-4b\/",
+    "website":"",
     "operator":"None",
     "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2022-05-11T08:38:39.946758Z",
+    "updated":"2022-11-29T12:11:15.186308Z",
     "citation":"VK5Q1 and SV1QVE survey",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -24909,6 +24909,30 @@
     ],
     "updated":"2022-11-27T22:31:10.035680Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/1",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EQEE-8221-8428-9687-0741",
+    "norad_cat_id":54365.0,
+    "norad_follow_id":null,
+    "name":"Object E",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-11-26T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-29T19:15:12.079685Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/8",
     "is_frequency_violator":false,
     "associated_satellites":[
 

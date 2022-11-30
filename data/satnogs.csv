@@ -15,7 +15,7 @@ RKRU-2930-8927-7743-2506,5485.0,,SHINSEI (MS-F2),,,alive,,1971-09-28T00:00:00Z,,
 MDNJ-2178-8370-7421-2425,5580.0,,PROSPERO,"BLACK ARROW
 X-3",satellites/prospero.JPG,alive,,,,,None,GB,[],2021-07-21T10:11:41.970160Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 JLIH-4238-8564-8762-0468,5680.0,,NOSS,,,alive,,1971-12-14T00:00:00Z,,,None,,[],2022-06-10T11:31:15.245158Z,https://github.com/happysat/Deadsat/blob/main/README.md,False,[]
-HHSS-6325-1344-4603-7774,7530.0,,OSCAR 7,AO-7 AMSAT OSCAR 7,satellites/AMSAT-OSCAR_7.jpg,alive,,1974-11-15T00:00:00Z,,https://www.amsat.org/two-way-satellites/ao-7/,None,US,[],2021-10-14T08:49:11.693800Z,https://www.amsat.org/two-way-satellites/ao-7/,False,[]
+HHSS-6325-1344-4603-7774,7530.0,,OSCAR 7,"AO-7, AMSAT OSCAR 7",satellites/AMSAT-OSCAR_7.jpg,alive,,1974-11-15T00:00:00Z,,https://www.amsat.org/two-way-satellites/ao-7/,None,US,[],2022-11-29T12:13:05.281288Z,https://www.amsat.org/two-way-satellites/ao-7/,False,[]
 WAGS-8572-2494-3083-1675,14129.0,,Phase 3-B,"AO-10
 OSCAR-10",satellites/AO-10.jpg,alive,,,,,None,,[],2021-07-21T10:11:41.975296Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 TDVY-5283-4801-7631-6209,14781.0,,UOSAT 2,UO-11OSCAR-11,satellites/UoSat-2.jpg,alive,,1984-03-01T00:00:00Z,,,None,GB,[],2022-08-01T16:56:31.662777Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
@@ -680,7 +680,7 @@ NGTB-2644-7604-9336-6059,49275.0,,CUAVA-1,,,re-entered,2022-09-02T00:00:00Z,2021
 LHTR-1409-4208-5927-5766,49273.0,,MAYA-3,Maya-3,,re-entered,2022-08-06T00:00:00Z,,2021-10-06T00:00:00Z,https://stamina4space.upd.edu.ph/upcoming-satellites/maya-3and4/,None,PH,[],2022-08-09T13:03:08.186755Z,space-track.org |MAYA-3|49273| 1998-067SS|RP|2022-08-05 19:57:00| 2022-08-04 0:00:00|,False,[]
 KHKX-7215-9332-1437-6827,49274.0,,MAYA-4,Maya-4,,re-entered,2022-08-08T00:00:00Z,,2021-10-06T00:00:00Z,https://stamina4space.upd.edu.ph/upcoming-satellites/maya-3and4/,None,PH,[],2022-08-09T16:14:44.581233Z,space-track.org,False,[]
 RZPL-9612-0104-7566-7143,44519.0,,XAIOXIANG-1 07,,satellites/ty-1-07__1.jpg,alive,,,,,None,CN,[],2021-10-09T14:50:52.520359Z,VK5Q1 and SV1QVE survey,False,[]
-RHQZ-9337-7325-6057-5048,43441.0,,ZHUHAI-1 OHS-02,CAS-4A,satellites/ohs-2__1.jpg,alive,,,,https://amsat-uk.org/satellites/comms/cas-4a-and-cas-4b/,None,CN,[],2022-05-11T08:38:39.946758Z,VK5Q1 and SV1QVE survey,False,[]
+RHQZ-9337-7325-6057-5048,43441.0,,ZHUHAI-1 OHS-02,,satellites/ohs-2__1.jpg,alive,,,,,None,CN,[],2022-11-29T12:11:15.186308Z,VK5Q1 and SV1QVE survey,False,[]
 MDCA-9404-9971-4796-4779,40039.0,,PERSEUS M1,,satellites/perseus-m__2.jpg,alive,,,,,None,"RU,US",[],2021-10-09T14:50:52.591231Z,VK5Q1 and SV1QVE survey,False,[]
 YXEA-0000-2058-5722-9282,25984.0,,ORBCOMM FM 36,,satellites/orbcomm__1.jpg,alive,,,,,None,US,[],2021-10-09T14:50:52.623999Z,VK5Q1 and SV1QVE survey,False,[]
 UFLN-6095-7892-0931-3876,43813.0,,BRIO,,satellites/brio__1.jpg,alive,,,,,None,US,[],2021-10-09T14:50:52.652184Z,VK5Q1 and SV1QVE survey,False,[]
@@ -1065,3 +1065,4 @@ LQIA-1498-8400-4918-0119,46907.0,,KSM1-D,,satellites/485b5ab8366d482143fb4d06e78
 DRIR-4756-9415-8341-9613,48941.0,,Sherpa-LTE1,,satellites/4ceb13e7fd0f373a80cf6d178d6cb2525ea03417.jpeg,alive,,2021-06-30T00:00:00Z,,,None,US,[],2022-11-27T15:55:10.499228Z,https://community.libre.space/t/sherpa-lte1-strf-bandscan/9821,False,[]
 CYAC-1968-5138-2774-2850,53317.0,,CZ-2D R/B,,satellites/48ff0ca450a132f748b0fd15726f47c875290272_2_354x500.jpeg,alive,,2022-07-29T00:00:00Z,,,None,CN,[],2022-11-27T17:43:04.637007Z,https://community.libre.space/t/cz-2d-r-b-strf-bandscan/9823,False,[]
 KNYA-2355-0276-3151-7942,43697.0,,LEMUR 2 CHANUSIAK,,satellites/24c826a550d711022b371e6bbaa693a786caccb9_r4kONF1.jpeg,alive,,2018-11-11T00:00:00Z,,,None,US,[],2022-11-27T22:31:10.035680Z,https://community.libre.space/t/strf-bandscan-results/9827/1,False,[]
+EQEE-8221-8428-9687-0741,54365.0,,Object E,,,alive,,2022-11-26T00:00:00Z,,,None,CN,[],2022-11-29T19:15:12.079685Z,https://community.libre.space/t/strf-bandscan-results/9827/8,False,[]
