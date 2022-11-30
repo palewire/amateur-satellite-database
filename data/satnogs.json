@@ -24797,7 +24797,7 @@
   {
     "sat_id":"EFIC-2341-1789-8177-9840",
     "norad_cat_id":99288.0,
-    "norad_follow_id":54366.0,
+    "norad_follow_id":54365.0,
     "name":"INS-2B",
     "names":"INDIA-BHUTAN SAT",
     "image":"satellites\/316091443_598736008919920_1292225031143386412_n.jpg",
@@ -24811,7 +24811,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-26T16:22:19.146525Z",
+    "updated":"2022-11-30T09:51:01.284266Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -24933,6 +24933,78 @@
     ],
     "updated":"2022-11-29T19:15:12.079685Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/8",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QFBK-5004-0254-3120-3821",
+    "norad_cat_id":53451.0,
+    "norad_follow_id":null,
+    "name":"Object H",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-08-10T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-30T10:46:57.838271Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/8",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TPPA-2554-2390-7040-6878",
+    "norad_cat_id":46500.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 SLICERS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-09-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-30T08:33:09.284481Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/9",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JGIR-3595-1614-8715-6442",
+    "norad_cat_id":43883.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 TINYKEV",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-12-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-11-30T11:07:17.472742Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/11",
     "is_frequency_violator":false,
     "associated_satellites":[
 
