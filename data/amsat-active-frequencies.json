@@ -572,8 +572,8 @@
   {
     "name":"CAS-9",
     "norad_id":"50466",
-    "uplink":"145.870",
-    "downlink":"435.180",
+    "uplink":"145.855-145.885",
+    "downlink":"435.195-435.165",
     "beacon":null,
     "mode":"VHF\/UHF SSB*",
     "callsign":null,
@@ -1382,8 +1382,8 @@
   {
     "name":"HO-113",
     "norad_id":"50466",
-    "uplink":"145.870",
-    "downlink":"435.180",
+    "uplink":"145.855-145.885",
+    "downlink":"435.195-435.165",
     "beacon":null,
     "mode":"VHF\/UHF SSB*",
     "callsign":null,
@@ -2930,22 +2930,12 @@
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
-    "name":"TRSI-2",
-    "norad_id":"52419",
-    "uplink":null,
-    "downlink":"437.075",
-    "beacon":null,
-    "mode":"2400bps BPSK",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"TRSI-3",
     "norad_id":"52420",
     "uplink":null,
     "downlink":"437.075",
     "beacon":"437.075",
-    "mode":"MFSK CW",
+    "mode":"FSK* CW",
     "callsign":null,
     "satnogs_id":null
   },
@@ -3232,8 +3222,8 @@
   {
     "name":"XW-3",
     "norad_id":"50466",
-    "uplink":"145.870",
-    "downlink":"435.180",
+    "uplink":"145.855-145.885",
+    "downlink":"435.195-435.165",
     "beacon":null,
     "mode":"VHF\/UHF SSB*",
     "callsign":null,
