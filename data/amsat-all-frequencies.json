@@ -49,7 +49,7 @@
     "uplink":null,
     "downlink":"437.220\/2402.000",
     "beacon":"437.220",
-    "mode":"9600bps FSK CW",
+    "mode":"9600bps GFSK CW",
     "callsign":"OH2A1S",
     "status":"active",
     "satnogs_id":"MTTJ-9379-5566-8860-4453"
@@ -59,11 +59,22 @@
     "norad_id":"42729",
     "uplink":null,
     "downlink":"437.335",
-    "beacon":null,
-    "mode":"9600bps GFSK",
+    "beacon":"437.335",
+    "mode":"9600bps GFSK CW",
     "callsign":"AALTO2",
     "status":"re-entered",
     "satnogs_id":"GKTK-6186-2132-1025-6235"
+  },
+  {
+    "name":"Aalto-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.325",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"launch details not confirmed",
+    "satnogs_id":null
   },
   {
     "name":"AAUSAT-1",

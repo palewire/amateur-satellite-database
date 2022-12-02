@@ -5,7 +5,7 @@
     "uplink":null,
     "downlink":"437.220\/2402.000",
     "beacon":"437.220",
-    "mode":"9600bps FSK CW",
+    "mode":"9600bps GFSK CW",
     "callsign":"OH2A1S",
     "satnogs_id":"MTTJ-9379-5566-8860-4453"
   },
