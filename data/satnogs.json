@@ -19228,10 +19228,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -25005,6 +25005,30 @@
     ],
     "updated":"2022-11-30T11:07:17.472742Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/11",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TVZK-1463-5590-8994-0377",
+    "norad_cat_id":99287.0,
+    "norad_follow_id":null,
+    "name":"Connecta T1.2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-01T18:04:07.599287Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

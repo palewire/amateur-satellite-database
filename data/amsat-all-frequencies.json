@@ -10840,7 +10840,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"Blue LED",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
