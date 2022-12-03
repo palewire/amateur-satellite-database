@@ -1364,6 +1364,17 @@
     "satnogs_id":"XGQW-0108-4259-0432-9009"
   },
   {
+    "name":"BhutanSat",
+    "norad_id":"54365",
+    "uplink":null,
+    "downlink":"435.080",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":"INDUSR-10",
+    "status":"active",
+    "satnogs_id":"EQEE-8221-8428-9687-0741"
+  },
+  {
     "name":"Binar-1",
     "norad_id":"49272",
     "uplink":"435.810",
@@ -1547,7 +1558,7 @@
     "beacon":"435.375",
     "mode":"4800bps GMSK APRS CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -1558,7 +1569,7 @@
     "beacon":"435.375",
     "mode":"4800bps GMSK APRS CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -1569,7 +1580,7 @@
     "beacon":"435.375",
     "mode":"4800bps GMSK APRS CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -5907,6 +5918,17 @@
     "satnogs_id":"YTEY-0876-3631-8329-6453"
   },
   {
+    "name":"INS-1B",
+    "norad_id":"54365",
+    "uplink":null,
+    "downlink":"435.080",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":"INDUSR-10",
+    "status":"active",
+    "satnogs_id":"EQEE-8221-8428-9687-0741"
+  },
+  {
     "name":"INS-1C",
     "norad_id":"43116",
     "uplink":null,
@@ -8587,7 +8609,7 @@
     "beacon":"435.375",
     "mode":"4800bps GMSK APRS CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10853,7 +10875,7 @@
     "beacon":null,
     "mode":"Blue LED",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -11634,7 +11656,7 @@
     "beacon":"435.375",
     "mode":"4800bps GMSK APRS CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13801,7 +13823,7 @@
     "beacon":"435.375",
     "mode":"4800bps GMSK APRS CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {

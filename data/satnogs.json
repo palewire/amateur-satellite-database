@@ -25033,5 +25033,149 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"DXUB-5665-3673-3072-0267",
+    "norad_cat_id":99285.0,
+    "norad_follow_id":25544.0,
+    "name":"PEARLAFRICASAT-1",
+    "names":"",
+    "image":"satellites\/PearlAfricaSat-1.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"UG",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-02T14:41:03.923022Z",
+    "citation":"https:\/\/twitter.com\/astro_wakata\/status\/1598614138317594624",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QUGC-1523-3765-2252-4286",
+    "norad_cat_id":99286.0,
+    "norad_follow_id":25544.0,
+    "name":"ZIMSAT-1",
+    "names":"",
+    "image":"satellites\/zimsat-1.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"ZW",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-02T14:40:42.343005Z",
+    "citation":"https:\/\/twitter.com\/astro_wakata\/status\/1598614138317594624",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EZMZ-7189-7012-0152-6183",
+    "norad_cat_id":99284.0,
+    "norad_follow_id":25544.0,
+    "name":"TAKA",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/birds5.birds-project.com\/",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-02T14:46:24.670979Z",
+    "citation":"https:\/\/twitter.com\/astro_wakata\/status\/1598614138317594624",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QXVG-5331-9763-0459-8038",
+    "norad_cat_id":43072.0,
+    "norad_follow_id":null,
+    "name":"Iridium 116",
+    "names":"Iridium Nextv",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-12-23T00:00:00Z",
+    "deployed":"2017-12-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-02T15:40:45.941192Z",
+    "citation":"https:\/\/drive.google.com\/file\/d\/1KoV4NPzpd1bbhO_us11C71AuXbaCTUP1\/view?usp=share_link",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BDJQ-6247-9744-9996-8342",
+    "norad_cat_id":42803.0,
+    "norad_follow_id":null,
+    "name":"Iridium 113",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-06-25T00:00:00Z",
+    "deployed":"2017-06-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-02T15:40:41.921255Z",
+    "citation":"https:\/\/drive.google.com\/file\/d\/1PLz-3CUvCIuQ9ctQAv0iM-HUydl2-8dr\/view?usp=share_link",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QRWP-0898-4692-4155-2597",
+    "norad_cat_id":43073.0,
+    "norad_follow_id":null,
+    "name":"Iridium 130",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-12-23T00:00:00Z",
+    "deployed":"2017-12-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-02T17:26:37.966026Z",
+    "citation":"https:\/\/drive.google.com\/file\/d\/1dy0oNKyk8jpeMr9FQIM4x0tyJpki1Lwl\/view?usp=share_link",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

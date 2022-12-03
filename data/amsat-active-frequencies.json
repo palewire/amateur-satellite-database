@@ -270,6 +270,16 @@
     "satnogs_id":"FVTP-0768-5406-9405-1618"
   },
   {
+    "name":"BhutanSat",
+    "norad_id":"54365",
+    "uplink":null,
+    "downlink":"435.080",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":"INDUSR-10",
+    "satnogs_id":"EQEE-8221-8428-9687-0741"
+  },
+  {
     "name":"BisonSat",
     "norad_id":"40968",
     "uplink":null,
@@ -1448,6 +1458,16 @@
     "mode":"9600bps GFSK",
     "callsign":"BCT",
     "satnogs_id":"KAEG-9794-2542-4829-8548"
+  },
+  {
+    "name":"INS-1B",
+    "norad_id":"54365",
+    "uplink":null,
+    "downlink":"435.080",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":"INDUSR-10",
+    "satnogs_id":"EQEE-8221-8428-9687-0741"
   },
   {
     "name":"INS-2TD",
