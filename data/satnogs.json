@@ -25037,7 +25037,7 @@
   {
     "sat_id":"DXUB-5665-3673-3072-0267",
     "norad_cat_id":99285.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"PEARLAFRICASAT-1",
     "names":"",
     "image":"satellites\/PearlAfricaSat-1.jpg",
@@ -25051,9 +25051,9 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-02T14:41:03.923022Z",
+    "updated":"2022-12-03T11:55:01.838831Z",
     "citation":"https:\/\/twitter.com\/astro_wakata\/status\/1598614138317594624",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -25061,7 +25061,7 @@
   {
     "sat_id":"QUGC-1523-3765-2252-4286",
     "norad_cat_id":99286.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"ZIMSAT-1",
     "names":"",
     "image":"satellites\/zimsat-1.jpg",
@@ -25075,9 +25075,9 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-02T14:40:42.343005Z",
+    "updated":"2022-12-03T11:54:23.166154Z",
     "citation":"https:\/\/twitter.com\/astro_wakata\/status\/1598614138317594624",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -25085,7 +25085,7 @@
   {
     "sat_id":"EZMZ-7189-7012-0152-6183",
     "norad_cat_id":99284.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"TAKA",
     "names":"",
     "image":"",
@@ -25099,9 +25099,9 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-02T14:46:24.670979Z",
+    "updated":"2022-12-03T11:54:40.664493Z",
     "citation":"https:\/\/twitter.com\/astro_wakata\/status\/1598614138317594624",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]

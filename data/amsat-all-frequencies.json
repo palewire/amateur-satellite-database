@@ -12007,7 +12007,7 @@
     "downlink":"436.175",
     "beacon":"435.360",
     "mode":"4k8\/9k6 FSK CW*",
-    "callsign":null,
+    "callsign":"THY01",
     "status":"active",
     "satnogs_id":null
   },
@@ -12018,7 +12018,7 @@
     "downlink":"436.175",
     "beacon":"435.360",
     "mode":"4k8\/9k6 FSK CW*",
-    "callsign":null,
+    "callsign":"THY02",
     "status":"active",
     "satnogs_id":null
   },
