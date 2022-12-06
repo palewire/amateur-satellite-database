@@ -20999,12 +20999,12 @@
     "sat_id":"CDHE-8871-2737-3559-5609",
     "norad_cat_id":51840.0,
     "norad_follow_id":null,
-    "name":"OBJECT S",
-    "names":"",
+    "name":"Wenchang Chaosuan 3",
+    "names":"Jilin-1 GaoFen 03D 17, OBJECT S",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-02-27T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -21012,7 +21012,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-15T16:29:27.610786Z",
+    "updated":"2022-12-06T09:38:45.848975Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -22611,19 +22611,19 @@
     "norad_cat_id":99352.0,
     "norad_follow_id":null,
     "name":"URESAT-1",
-    "names":"URESAT 1",
-    "image":"",
+    "names":"UreSat-1 \/ Hades-B",
+    "image":"satellites\/logo_sat3.png",
     "status":"future",
     "decayed":null,
-    "launched":"2023-01-31T00:00:00Z",
+    "launched":"2022-12-18T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/uresat.ure.es\/",
     "operator":"None",
     "countries":"ES",
     "telemetries":[
 
     ],
-    "updated":"2022-08-10T17:23:05.335525Z",
+    "updated":"2022-12-06T09:47:30.118662Z",
     "citation":"https:\/\/twitter.com\/ea4gqs\/status\/1552656412118900736",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -22864,6 +22864,30 @@
 
     ],
     "updated":"2022-10-20T21:58:58.728093Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ACWN-5330-7989-4558-3161",
+    "norad_cat_id":51841.0,
+    "norad_follow_id":null,
+    "name":"Anxi Tieguanyin 1",
+    "names":"Jilin-1 GaoFen 03D 18, 2022-019T",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-02-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:38:23.884750Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25016,7 +25040,7 @@
     "norad_follow_id":null,
     "name":"Connecta T1.2",
     "names":"",
-    "image":"",
+    "image":"satellites\/connecta_t.1.2.png",
     "status":"future",
     "decayed":null,
     "launched":null,
@@ -25027,7 +25051,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-02T11:08:55.339600Z",
+    "updated":"2022-12-06T08:52:46.406706Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25173,6 +25197,1326 @@
     ],
     "updated":"2022-12-02T17:26:37.966026Z",
     "citation":"https:\/\/drive.google.com\/file\/d\/1dy0oNKyk8jpeMr9FQIM4x0tyJpki1Lwl\/view?usp=share_link",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VWLG-8789-9305-5015-7597",
+    "norad_cat_id":99243.0,
+    "norad_follow_id":null,
+    "name":"QBUA01",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"http:\/\/cubesat.com.ua\/en\/",
+    "operator":"None",
+    "countries":"UA",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.131024Z",
+    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=885",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NJFB-9884-9643-7739-4519",
+    "norad_cat_id":99244.0,
+    "norad_follow_id":null,
+    "name":"BDSAT-2",
+    "names":"",
+    "image":"satellites\/BDSAT-1024x832.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.bdsat.cz\/",
+    "operator":"None",
+    "countries":"CZ",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.137478Z",
+    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=866",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MQAA-5897-1513-7320-7285",
+    "norad_cat_id":99245.0,
+    "norad_follow_id":null,
+    "name":"INSPIRE-SAT 7",
+    "names":"",
+    "image":"satellites\/FhFQnP4XEAA25jM.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.uvsq.fr\/inspire-sat-7",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:55:06.425520Z",
+    "citation":"https:\/\/twitter.com\/uvsqsat",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GFSA-5298-0961-7410-6603",
+    "norad_cat_id":99246.0,
+    "norad_follow_id":null,
+    "name":"Launcher Orbiter SN1",
+    "names":"",
+    "image":"satellites\/Orbiter-Update_Dispensing_Mktg---layered.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/launcherspace.com\/orbiter",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.143582Z",
+    "citation":"https:\/\/twitter.com\/launcher",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QWMK-0941-8141-2713-2691",
+    "norad_cat_id":99247.0,
+    "norad_follow_id":null,
+    "name":"BroncoSat-1",
+    "names":"",
+    "image":"satellites\/366a2e_781f0f6251424688b315404d5a077236mv2.webp",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.broncospace.com\/broncosat-1",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.149314Z",
+    "citation":"https:\/\/twitter.com\/hilmnate\/status\/1529558097005625345",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RBGU-3988-4747-8869-1765",
+    "norad_cat_id":99248.0,
+    "norad_follow_id":null,
+    "name":"Nightingale-1",
+    "names":"NG1-LASR",
+    "image":"satellites\/Cesium_Astro_NG1.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.cesiumastro.com\/systems\/nightingale1",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.153914Z",
+    "citation":"https:\/\/www.google.com\/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjeuberg977AhURgf0HHdGTDOcQFnoECCkQAQ&url=https%3A%2F%2Fforum.nasaspaceflight.com%2Findex.php%3Faction%3Ddlattach%3Btopic%3D54928.0%3Battach%3D2110909&usg=AOvVaw0TpntM9j1mMnkU74bOXzGs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XNOE-4628-6127-4678-1910",
+    "norad_cat_id":99249.0,
+    "norad_follow_id":null,
+    "name":"Cornicen",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.hedron.space\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.158423Z",
+    "citation":"https:\/\/www.google.com\/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjJioa9id77AhXGgf0HHQwrBOkQFnoECBEQAQ&url=https%3A%2F%2Fforum.nasaspaceflight.com%2Findex.php%3Faction%3Ddlattach%3Btopic%3D54928.0%3Battach%3D2083290%3Bsess%3D0&usg=AOvVaw10Rcm9VT1-E-jauUxnPWVI",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DRKW-3631-2675-2255-1699",
+    "norad_cat_id":46454.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 3B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:43:31.420990Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RMNV-6988-4803-3244-6474",
+    "norad_cat_id":46457.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 3E",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:43:20.835218Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NMGY-9500-8512-0901-9594",
+    "norad_cat_id":46458.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 3F",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:43:10.914316Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CSCE-9973-2845-9544-1398",
+    "norad_cat_id":46459.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 3G",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:43:01.402642Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ACLQ-7958-6204-3115-7742",
+    "norad_cat_id":46460.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 3H",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:42:52.911755Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OJNR-7590-6973-1175-7404",
+    "norad_cat_id":46462.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 3J",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:42:43.312633Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DZMH-7417-6069-3881-1150",
+    "norad_cat_id":49004.0,
+    "norad_follow_id":null,
+    "name":"OBJECT B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:42:32.189842Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HFDA-3265-2314-3129-2762",
+    "norad_cat_id":49006.0,
+    "norad_follow_id":null,
+    "name":"OBJECT D",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:42:22.253154Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ENDY-6450-2953-5934-8440",
+    "norad_cat_id":49007.0,
+    "norad_follow_id":null,
+    "name":"OBJECT E",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:40:38.508935Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SJKL-5041-6760-9453-2190",
+    "norad_cat_id":51831.0,
+    "norad_follow_id":null,
+    "name":"OBJECT H",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:40:29.761609Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ICBG-2890-8731-1638-2672",
+    "norad_cat_id":51834.0,
+    "norad_follow_id":null,
+    "name":"OBJECT L",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:40:11.419795Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VWLK-8628-9588-9078-4800",
+    "norad_cat_id":51835.0,
+    "norad_follow_id":null,
+    "name":"OBJECT M",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:40:01.082174Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WGRO-3590-5184-5251-7229",
+    "norad_cat_id":51838.0,
+    "norad_follow_id":null,
+    "name":"OBJECT Q",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:39:50.347587Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BJJO-0291-6120-2060-7994",
+    "norad_cat_id":99250.0,
+    "norad_follow_id":null,
+    "name":"KSF3-A",
+    "names":"",
+    "image":"satellites\/KSF3-PATCH-1024x989.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/kleos.space\/satellite-launch-observer\/",
+    "operator":"None",
+    "countries":"LU",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.162834Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CMHP-8937-6862-1335-0712",
+    "norad_cat_id":99251.0,
+    "norad_follow_id":null,
+    "name":"KSF3-B",
+    "names":"",
+    "image":"satellites\/KSF3-PATCH-1024x989_S6Rdown.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/kleos.space\/satellite-launch-observer\/",
+    "operator":"None",
+    "countries":"LU",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.167418Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BPVV-5213-8604-9121-9268",
+    "norad_cat_id":99252.0,
+    "norad_follow_id":null,
+    "name":"KSF3-C",
+    "names":"",
+    "image":"satellites\/KSF3-PATCH-1024x989_PlsWiAv.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/kleos.space\/satellite-launch-observer\/",
+    "operator":"None",
+    "countries":"LU",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.171821Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TSYL-7365-6805-9003-5931",
+    "norad_cat_id":99253.0,
+    "norad_follow_id":null,
+    "name":"KSF3-D",
+    "names":"",
+    "image":"satellites\/KSF3-PATCH-1024x989_ZDWsBJl.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/kleos.space\/satellite-launch-observer\/",
+    "operator":"None",
+    "countries":"LU",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.176336Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TOGO-8873-4564-7454-6976",
+    "norad_cat_id":51839.0,
+    "norad_follow_id":null,
+    "name":"OBJECT R",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T09:38:59.407804Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PDVW-9191-3063-9872-9368",
+    "norad_cat_id":99254.0,
+    "norad_follow_id":null,
+    "name":"Vigoride-5",
+    "names":"VR-5",
+    "image":"satellites\/Fi51Gc0UcAAz5N0.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/momentus.space\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.180603Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2092101;sess=0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DLIG-3852-5642-1044-4082",
+    "norad_cat_id":99255.0,
+    "norad_follow_id":null,
+    "name":"Zeus-1",
+    "names":"",
+    "image":"satellites\/Zeus-CubeSat-in-space-with-logos.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/qosmosys.com\/",
+    "operator":"None",
+    "countries":"SG",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.184795Z",
+    "citation":"https:\/\/twitter.com\/qosmosys",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KCKF-9169-8304-1813-6974",
+    "norad_cat_id":99256.0,
+    "norad_follow_id":null,
+    "name":"Platform-2",
+    "names":"SharedSat_2211",
+    "image":"satellites\/PL2_Image.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.endurosat.com\/",
+    "operator":"None",
+    "countries":"BG",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.189018Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BEOV-3887-3126-0382-4341",
+    "norad_cat_id":99257.0,
+    "norad_follow_id":null,
+    "name":"Tomorrow-R1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.tomorrow.io\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.193411Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2064785;sess=0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HJKD-8545-6228-9588-8194",
+    "norad_cat_id":99258.0,
+    "norad_follow_id":null,
+    "name":"Tomorrow-R2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.tomorrow.io\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.197857Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2064785;sess=0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DNAM-3806-4860-5276-1787",
+    "norad_cat_id":99259.0,
+    "norad_follow_id":null,
+    "name":"Blackjack-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.darpa.mil\/program\/blackjack",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.125285Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=46289.msg2336427#msg2336427",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JLAB-5308-5939-4466-7880",
+    "norad_cat_id":99260.0,
+    "norad_follow_id":null,
+    "name":"Blackjack-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.darpa.mil\/program\/blackjack",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.206853Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=46289.msg2336427#msg2336427",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AXLY-3159-3217-5353-3614",
+    "norad_cat_id":99261.0,
+    "norad_follow_id":null,
+    "name":"Blackjack-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.darpa.mil\/program\/blackjack",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.202357Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=46289.msg2336427#msg2336427",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PAEW-9566-4058-4517-2208",
+    "norad_cat_id":99262.0,
+    "norad_follow_id":null,
+    "name":"Blackjack-4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.darpa.mil\/program\/blackjack",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.211147Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=46289.msg2336427#msg2336427",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HKPP-1325-5629-8692-2437",
+    "norad_cat_id":99263.0,
+    "norad_follow_id":null,
+    "name":"Gama Alpha",
+    "names":"",
+    "image":"satellites\/GAMA-Alpha-mission-patch-GAMA-1024x901.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.gamaspace.com\/",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.215663Z",
+    "citation":"https:\/\/nanoavionics.com\/news\/nanoavionics-and-gama-setting-sails-in-space\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YXXS-2278-2281-3643-9198",
+    "norad_cat_id":99264.0,
+    "norad_follow_id":null,
+    "name":"LYNK TOWER 1",
+    "names":"Shannon",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-01-04T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/lynk.world\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.220616Z",
+    "citation":"https:\/\/lynk.world\/lynk-announces-successful-deployment-of-worlds-first-commercial-ready-cell-tower-in-space",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TVBM-9502-9864-0598-4730",
+    "norad_cat_id":99265.0,
+    "norad_follow_id":null,
+    "name":"LYNK TOWER 2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/lynk.world\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.236902Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NTDX-8976-1799-9857-6479",
+    "norad_cat_id":99266.0,
+    "norad_follow_id":null,
+    "name":"LYNK TOWER 3",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/lynk.world\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.241202Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DTYA-7731-6964-1582-7373",
+    "norad_cat_id":99267.0,
+    "norad_follow_id":null,
+    "name":"LYNK TOWER 4",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/lynk.world\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.256942Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OGUV-3787-9777-1583-5436",
+    "norad_cat_id":99268.0,
+    "norad_follow_id":null,
+    "name":"PredaSAR 1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.predasar.com\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.273716Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VSNT-1425-8162-0510-1089",
+    "norad_cat_id":99269.0,
+    "norad_follow_id":null,
+    "name":"Umbra 01",
+    "names":"Umbra-SAR 2001",
+    "image":"satellites\/Umbra-satellite2.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/umbra.space\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.278496Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/umbra-sar-2001.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TPDX-4064-2548-6167-6896",
+    "norad_cat_id":99270.0,
+    "norad_follow_id":null,
+    "name":"Umbra 02",
+    "names":"",
+    "image":"satellites\/Umbra-satellite2_MfvJqsl.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-01-13T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/umbra.space\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.295146Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/umbra-sar-2001.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XMJY-8759-6395-2913-8943",
+    "norad_cat_id":99271.0,
+    "norad_follow_id":null,
+    "name":"Umbra 03",
+    "names":"",
+    "image":"satellites\/Umbra-satellite2_GTpzO7L.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-05-26T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/umbra.space\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.311069Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/umbra-sar-2001.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VBHK-6559-1335-8544-4252",
+    "norad_cat_id":99272.0,
+    "norad_follow_id":null,
+    "name":"Umbra 04",
+    "names":"",
+    "image":"satellites\/Umbra-satellite2_HvGxkOz.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/umbra.space\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.327781Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PECP-7624-9468-5114-8950",
+    "norad_cat_id":99273.0,
+    "norad_follow_id":null,
+    "name":"Umbra 05",
+    "names":"",
+    "image":"satellites\/Umbra-satellite2_qOxpVmL.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/umbra.space\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.334713Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DARF-2847-7242-5660-2953",
+    "norad_cat_id":99274.0,
+    "norad_follow_id":null,
+    "name":"GENMAT-1",
+    "names":"",
+    "image":"satellites\/FgexdmSaEAUXLl2.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/GENMAT.xyz",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.343594Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2116815;sess=0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HIQS-5728-4799-3132-8075",
+    "norad_cat_id":99275.0,
+    "norad_follow_id":null,
+    "name":"NOCLIP-1",
+    "names":"",
+    "image":"satellites\/Finx06nakAAGC9d.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/NOCLIP.org",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.351896Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2116815;sess=0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PUGX-2211-9154-5702-6359",
+    "norad_cat_id":99276.0,
+    "norad_follow_id":null,
+    "name":"MOXY-1",
+    "names":"",
+    "image":"satellites\/Fin3eAqakAATOAP.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/XIPROTOCOL.io",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.359847Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2116815;sess=0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LSZR-8461-9828-5431-6212",
+    "norad_cat_id":99277.0,
+    "norad_follow_id":null,
+    "name":"Star Vibe",
+    "names":"",
+    "image":"satellites\/shs-1.webp",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/scanway.space\/mission\/star-vibe\/",
+    "operator":"None",
+    "countries":"PL",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.367546Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YWEP-1897-4060-1849-8088",
+    "norad_cat_id":99278.0,
+    "norad_follow_id":null,
+    "name":"YAM-5",
+    "names":"Yet Another Mission 5",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.loftorbital.com\/missions",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.381308Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.msg2375103#msg2375103",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PQEH-9308-1876-0368-0501",
+    "norad_cat_id":99279.0,
+    "norad_follow_id":null,
+    "name":"RROCI",
+    "names":"Electro Optical\/Infrared Weather System Rapid Revisit Optical Cloud Imager (EWS RROCI)",
+    "image":"satellites\/RROCI.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.orionspace.com\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.388108Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2120132;sess=0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TNJX-3774-3484-1023-6147",
+    "norad_cat_id":99280.0,
+    "norad_follow_id":null,
+    "name":"Menut",
+    "names":"",
+    "image":"satellites\/FezIP4IWAAAmVDn.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.open-cosmos.com\/",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.395140Z",
+    "citation":"https:\/\/www.open-cosmos.com\/news\/open-cosmos-inaugurates-its-new-facilities-in-barcelona-with-the-menut-satellite",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YPWW-9437-9532-9009-5901",
+    "norad_cat_id":99281.0,
+    "norad_follow_id":null,
+    "name":"ACS -1",
+    "names":"Alpha Cube Sat (ACS)",
+    "image":"satellites\/ACS.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"http:\/\/www.alphacubesat.com\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.374685Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2116815;sess=0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RYKF-4582-4605-7595-4204",
+    "norad_cat_id":99282.0,
+    "norad_follow_id":null,
+    "name":"KelpieSat-1",
+    "names":"Kelpie-1",
+    "image":"satellites\/KelpieSats.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.aac-clyde.space\/",
+    "operator":"None",
+    "countries":"SE",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.402287Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.msg2434118#msg2434118",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EDDS-8288-7653-3819-2151",
+    "norad_cat_id":99283.0,
+    "norad_follow_id":null,
+    "name":"TAIFA-1",
+    "names":"",
+    "image":"satellites\/Taifa-1.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/sayarilabs.ke\/",
+    "operator":"None",
+    "countries":"KE",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-06T10:01:44.429590Z",
+    "citation":"https:\/\/www.endurosat.com\/news\/taifa-1-kenyan-nanosat\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
