@@ -7480,14 +7480,14 @@
     "satnogs_id":"JWFD-9682-9871-6006-7786"
   },
   {
-    "name":"MOVE-IIb",
+    "name":"MOVE-2B",
     "norad_id":"44398",
     "uplink":null,
     "downlink":"145.840",
-    "beacon":null,
-    "mode":"12k5bps QPSK",
-    "callsign":null,
-    "status":"unknown",
+    "beacon":"145.840",
+    "mode":"12k5bps BPSK CW",
+    "callsign":"DP0MVB",
+    "status":"inactive",
     "satnogs_id":"NLLB-8107-5146-3533-6638"
   },
   {
