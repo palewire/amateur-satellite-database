@@ -19029,10 +19029,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -26517,6 +26517,30 @@
     ],
     "updated":"2022-12-06T10:01:44.429590Z",
     "citation":"https:\/\/www.endurosat.com\/news\/taifa-1-kenyan-nanosat\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"THLP-9709-3501-8618-5195",
+    "norad_cat_id":99242.0,
+    "norad_follow_id":null,
+    "name":"CAS-5A",
+    "names":"CAMSAT",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-09T06:35:00Z",
+    "deployed":"2022-12-09T06:35:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-09T01:23:50.569516Z",
+    "citation":"https:\/\/mailman.amsat.org\/hyperkitty\/list\/amsat-bb@amsat.org\/thread\/PCSBZ4XTKZMIEYIF33NG32LVLA5OIYJO\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
