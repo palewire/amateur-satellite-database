@@ -1372,7 +1372,7 @@
     "mode":"1200bps FSK",
     "callsign":"INDUSR-10",
     "status":"active",
-    "satnogs_id":"EQEE-8221-8428-9687-0741"
+    "satnogs_id":"EFIC-2341-1789-8177-9840"
   },
   {
     "name":"Binar-1",
@@ -2235,23 +2235,23 @@
   {
     "name":"CAS-5A",
     "norad_id":null,
-    "uplink":"21.385-21.415",
-    "downlink":"29.505-29.475",
+    "uplink":"21.400",
+    "downlink":"29.490",
     "beacon":null,
-    "mode":"HF\/HF SSB",
+    "mode":"HF\/HF SSB Bandwidth 30kHz",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
     "name":"CAS-5A",
     "norad_id":null,
-    "uplink":"21.3925-21.4075",
-    "downlink":"435.5325-435.5175",
+    "uplink":"21.435",
+    "downlink":"435.505",
     "beacon":null,
-    "mode":"HF\/UHF SSB",
+    "mode":"HF\/UHF SSB Bandwidth 30kHz",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -2262,18 +2262,18 @@
     "beacon":"29.465",
     "mode":"HF_CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
     "name":"CAS-5A",
     "norad_id":null,
-    "uplink":"145.805-145.835",
-    "downlink":"435.555-435.525",
+    "uplink":"145.820",
+    "downlink":"435.540",
     "beacon":null,
-    "mode":"VHF\/UHF SSB",
+    "mode":"VHF\/UHF SSB Bandwidth 30kHz",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -2282,9 +2282,9 @@
     "uplink":"145.925",
     "downlink":"435.600",
     "beacon":null,
-    "mode":"VHF\/UHF FM",
+    "mode":"VHF\/UHF FM Bandwidth 30kHz",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -2295,7 +2295,7 @@
     "beacon":"435.570",
     "mode":"UHF_CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -2304,9 +2304,9 @@
     "uplink":null,
     "downlink":"435.650",
     "beacon":null,
-    "mode":"4k8\/9k6 GMSK",
+    "mode":"4k8 GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -5926,7 +5926,7 @@
     "mode":"1200bps FSK",
     "callsign":"INDUSR-10",
     "status":"active",
-    "satnogs_id":"EQEE-8221-8428-9687-0741"
+    "satnogs_id":"EFIC-2341-1789-8177-9840"
   },
   {
     "name":"INS-1C",
@@ -12009,7 +12009,7 @@
     "mode":"4k8\/9k6 FSK CW*",
     "callsign":"THY01",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"WQPT-3457-5126-1772-6682"
   },
   {
     "name":"Thybolt-2",
@@ -12020,7 +12020,7 @@
     "mode":"4k8\/9k6 FSK CW*",
     "callsign":"THY02",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"FBWZ-9594-5872-5644-3969"
   },
   {
     "name":"TIANQIN-1",
