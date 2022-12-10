@@ -550,6 +550,16 @@
     "satnogs_id":"NGHO-5109-0535-2414-7008"
   },
   {
+    "name":"CAS-5A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.570",
+    "mode":"UHF_CW",
+    "callsign":"BJ1SO",
+    "satnogs_id":null
+  },
+  {
     "name":"CAS-6",
     "norad_id":"44881",
     "uplink":"435.270-435.290",

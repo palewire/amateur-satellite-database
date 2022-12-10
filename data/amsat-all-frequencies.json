@@ -2294,8 +2294,8 @@
     "downlink":null,
     "beacon":"435.570",
     "mode":"UHF_CW",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"BJ1SO",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -2305,7 +2305,7 @@
     "downlink":"435.650",
     "beacon":null,
     "mode":"4k8 GMSK",
-    "callsign":null,
+    "callsign":"BJ1SO",
     "status":"unknown",
     "satnogs_id":null
   },

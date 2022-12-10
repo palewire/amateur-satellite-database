@@ -26545,5 +26545,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"AQBM-9065-4268-2732-0402",
+    "norad_cat_id":47719.0,
+    "norad_follow_id":null,
+    "name":"Arktika-M1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-02-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-10T10:15:17.015005Z",
+    "citation":"https:\/\/twitter.com\/tomppa77\/status\/1437808629793632262",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
