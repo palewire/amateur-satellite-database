@@ -26501,7 +26501,7 @@
   {
     "sat_id":"THLP-9709-3501-8618-5195",
     "norad_cat_id":99242.0,
-    "norad_follow_id":54682.0,
+    "norad_follow_id":54684.0,
     "name":"CAS-5A",
     "names":"CAMSAT",
     "image":"",
@@ -26515,8 +26515,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-09T15:03:12.620863Z",
-    "citation":"https:\/\/mailman.amsat.org\/hyperkitty\/list\/amsat-bb@amsat.org\/thread\/PCSBZ4XTKZMIEYIF33NG32LVLA5OIYJO\/",
+    "updated":"2022-12-10T17:42:34.990676Z",
+    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1601597036809228288 and ikhnos results by PE0SAT",
     "is_frequency_violator":false,
     "associated_satellites":[
 
