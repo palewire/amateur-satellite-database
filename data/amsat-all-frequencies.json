@@ -2234,7 +2234,7 @@
   },
   {
     "name":"CAS-5A",
-    "norad_id":null,
+    "norad_id":"54684",
     "uplink":"21.400",
     "downlink":"29.490",
     "beacon":null,
@@ -2245,7 +2245,7 @@
   },
   {
     "name":"CAS-5A",
-    "norad_id":null,
+    "norad_id":"54684",
     "uplink":"21.435",
     "downlink":"435.505",
     "beacon":null,
@@ -2256,7 +2256,7 @@
   },
   {
     "name":"CAS-5A",
-    "norad_id":null,
+    "norad_id":"54684",
     "uplink":null,
     "downlink":null,
     "beacon":"29.465",
@@ -2267,29 +2267,29 @@
   },
   {
     "name":"CAS-5A",
-    "norad_id":null,
+    "norad_id":"54684",
     "uplink":"145.820",
     "downlink":"435.540",
     "beacon":null,
     "mode":"VHF\/UHF SSB Bandwidth 30kHz",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"CAS-5A",
-    "norad_id":null,
+    "norad_id":"54684",
     "uplink":"145.925",
     "downlink":"435.600",
     "beacon":null,
     "mode":"VHF\/UHF FM Bandwidth 30kHz",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"CAS-5A",
-    "norad_id":null,
+    "norad_id":"54684",
     "uplink":null,
     "downlink":null,
     "beacon":"435.570",
@@ -2300,13 +2300,13 @@
   },
   {
     "name":"CAS-5A",
-    "norad_id":null,
+    "norad_id":"54684",
     "uplink":null,
     "downlink":"435.650",
     "beacon":null,
     "mode":"4k8 GMSK",
-    "callsign":"BJ1SO",
-    "status":"unknown",
+    "callsign":"CAS5A",
+    "status":"active",
     "satnogs_id":null
   },
   {

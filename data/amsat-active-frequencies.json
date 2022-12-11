@@ -551,12 +551,42 @@
   },
   {
     "name":"CAS-5A",
-    "norad_id":null,
+    "norad_id":"54684",
+    "uplink":"145.820",
+    "downlink":"435.540",
+    "beacon":null,
+    "mode":"VHF\/UHF SSB Bandwidth 30kHz",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-5A",
+    "norad_id":"54684",
+    "uplink":"145.925",
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"VHF\/UHF FM Bandwidth 30kHz",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-5A",
+    "norad_id":"54684",
     "uplink":null,
     "downlink":null,
     "beacon":"435.570",
     "mode":"UHF_CW",
     "callsign":"BJ1SO",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-5A",
+    "norad_id":"54684",
+    "uplink":null,
+    "downlink":"435.650",
+    "beacon":null,
+    "mode":"4k8 GMSK",
+    "callsign":"CAS5A",
     "satnogs_id":null
   },
   {
