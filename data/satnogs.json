@@ -23836,10 +23836,10 @@
   },
   {
     "sat_id":"FSSK-6949-2964-0842-4335",
-    "norad_cat_id":99329.0,
-    "norad_follow_id":54023.0,
+    "norad_cat_id":54023.0,
+    "norad_follow_id":null,
     "name":"ARGOS-4",
-    "names":"GAzelle",
+    "names":"OTB-3, GAzelle",
     "image":"satellites\/argos.png",
     "status":"alive",
     "decayed":null,
@@ -23851,7 +23851,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-09T16:28:24.616211Z",
+    "updated":"2022-12-12T08:11:44.892742Z",
     "citation":"https:\/\/www.itu.int\/online\/snl\/satbandold_snl.sh?ntc_id=122545046",
     "is_frequency_violator":false,
     "associated_satellites":[
