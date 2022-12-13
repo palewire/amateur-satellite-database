@@ -2238,7 +2238,7 @@
     "uplink":"21.400",
     "downlink":"29.490",
     "beacon":null,
-    "mode":"HF\/HF SSB Bandwidth 30kHz",
+    "mode":"HF\/HF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -2249,7 +2249,7 @@
     "uplink":"21.435",
     "downlink":"435.505",
     "beacon":null,
-    "mode":"HF\/UHF SSB Bandwidth 30kHz",
+    "mode":"HF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -2271,7 +2271,7 @@
     "uplink":"145.820",
     "downlink":"435.540",
     "beacon":null,
-    "mode":"VHF\/UHF SSB Bandwidth 30kHz",
+    "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
@@ -2282,7 +2282,7 @@
     "uplink":"145.925",
     "downlink":"435.600",
     "beacon":null,
-    "mode":"VHF\/UHF FM Bandwidth 30kHz",
+    "mode":"VHF\/UHF FM bandwidth 30kHz",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
@@ -2304,7 +2304,7 @@
     "uplink":null,
     "downlink":"435.650",
     "beacon":null,
-    "mode":"4k8 GMSK",
+    "mode":"4k8 GMSK telemery",
     "callsign":"CAS5A",
     "status":"active",
     "satnogs_id":null
@@ -2711,7 +2711,7 @@
     "uplink":"145.870",
     "downlink":"435.180",
     "beacon":null,
-    "mode":"VHF\/UHF SSB Bandwidth 30kHz",
+    "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -2733,7 +2733,7 @@
     "uplink":null,
     "downlink":"435.725",
     "beacon":null,
-    "mode":"4K8 9K6 GMSK telemetry",
+    "mode":"4K8 GMSK telemetry",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null

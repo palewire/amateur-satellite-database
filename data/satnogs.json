@@ -19029,10 +19029,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -26565,6 +26565,30 @@
     ],
     "updated":"2022-12-10T10:15:17.015005Z",
     "citation":"https:\/\/twitter.com\/tomppa77\/status\/1437808629793632262",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IQGK-7677-0554-8693-5947",
+    "norad_cat_id":54361.0,
+    "norad_follow_id":null,
+    "name":"Oceansat 3",
+    "names":"EOS-6",
+    "image":"satellites\/oceansat-3__2.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-11-26T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"ISRO",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-13T11:47:11.753041Z",
+    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/oceansat-3",
     "is_frequency_violator":false,
     "associated_satellites":[
 
