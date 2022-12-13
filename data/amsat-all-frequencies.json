@@ -2711,7 +2711,7 @@
     "uplink":"145.870",
     "downlink":"435.180",
     "beacon":null,
-    "mode":"VHF\/UHF SSB",
+    "mode":"VHF\/UHF SSB Bandwidth 30kHz",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null

@@ -245,7 +245,7 @@ CAS-8D,,,2405.300,,Inter-satellite link,,to be launched,
 CAS-9,50466,145.855-145.885,435.195-435.165,,VHF/UHF SSB*,,active,WMPC-3806-8308-1122-5138
 CAS-9,50466,,435.725,,4k8*GMSK telemetry,CAS9,active,WMPC-3806-8308-1122-5138
 CAS-9,50466,,,435.575,UHF CW*,,active,WMPC-3806-8308-1122-5138
-CAS-10,,145.870,435.180,,VHF/UHF SSB,,to be launched,
+CAS-10,,145.870,435.180,,VHF/UHF SSB Bandwidth 30kHz,,to be launched,
 CAS-10,,,,435.575,DTMF_camera CW,,to be launched,
 CAS-10,,,435.725,,4K8 9K6 GMSK telemetry,,to be launched,
 CatSat,,,437.185/10470.000,,9k6/38k4GMSK,,to be launched,
