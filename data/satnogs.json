@@ -8226,8 +8226,8 @@
     "name":"InnoSat 2",
     "names":"",
     "image":"satellites\/innosat2.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2022-12-12T19:08:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -8236,8 +8236,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.622812Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-12-14T11:24:39.925119Z",
+    "citation":"https:\/\/www.space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14886,9 +14886,9 @@
     "sat_id":"BTEP-5467-6423-3488-4155",
     "norad_cat_id":44903.0,
     "norad_follow_id":null,
-    "name":"Electro-L3",
+    "name":"Elektro-L 3",
     "names":"",
-    "image":"satellites\/elektro-l__1.jpg",
+    "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2019-12-24T00:00:00Z",
@@ -14899,8 +14899,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-27T12:49:10.002640Z",
-    "citation":"https:\/\/www.russianspaceweb.com\/elektro-l3.html",
+    "updated":"2022-12-14T12:00:59.529998Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

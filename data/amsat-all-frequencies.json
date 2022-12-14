@@ -3179,7 +3179,7 @@
     "satnogs_id":"CKMD-9513-1025-4842-0352"
   },
   {
-    "name":"CSS",
+    "name":"CSS(TIANHE)",
     "norad_id":"48274",
     "uplink":"435.06839",
     "downlink":"145.98723",
@@ -3190,7 +3190,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS",
+    "name":"CSS(TIANHE)",
     "norad_id":"48274",
     "uplink":"145.850",
     "downlink":"145.985",
@@ -3201,7 +3201,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS",
+    "name":"CSS(TIANHE)",
     "norad_id":"48274",
     "uplink":"435.050",
     "downlink":"436.510",
@@ -3212,7 +3212,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS",
+    "name":"CSS(TIANHE)",
     "norad_id":"48274",
     "uplink":"145.875",
     "downlink":"436.510",
@@ -3223,7 +3223,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS",
+    "name":"CSS(TIANHE)",
     "norad_id":"48274",
     "uplink":"435.075",
     "downlink":"145.985",
@@ -3234,7 +3234,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS",
+    "name":"CSS(TIANHE)",
     "norad_id":"48274",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -3245,7 +3245,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS",
+    "name":"CSS(TIANHE)",
     "norad_id":"48274",
     "uplink":"437.550",
     "downlink":"437.550",
@@ -3256,7 +3256,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS",
+    "name":"CSS(TIANHE)",
     "norad_id":"48274",
     "uplink":"145.850",
     "downlink":"145.985",
@@ -3267,7 +3267,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS",
+    "name":"CSS(TIANHE)",
     "norad_id":"48274",
     "uplink":"435.050",
     "downlink":"436.510",
@@ -3276,6 +3276,28 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"AYDR-6527-9294-8555-4924"
+  },
+  {
+    "name":"CSS(WENTIAN)",
+    "norad_id":"53239",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"CSS(MENGTIAN)",
+    "norad_id":"54216",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
   },
   {
     "name":"CSSWE",

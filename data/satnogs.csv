@@ -372,7 +372,7 @@ LBQI-9987-6865-3928-8294,43700.0,,Es'hail 2,QO-100,satellites/Eshail_2.jpg,alive
 EKKN-6409-4479-1170-0607,43721.0,,FACSAT-1,,,alive,,,,,None,CO,[],2021-07-21T10:11:42.616781Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 UESS-5249-7079-4000-7571,43722.0,,Centauri-2,,,alive,,,,,None,,[],2021-07-21T10:11:42.618803Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 NFHA-0834-8162-4474-6973,43728.0,,3CAT-1,,,alive,,,,,None,,[],2021-07-21T10:11:42.620818Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-UUUL-8721-0443-0737-3074,43738.0,,InnoSat 2,,satellites/innosat2.jpg,alive,,,,,None,MY,[],2021-07-21T10:11:42.622812Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+UUUL-8721-0443-0737-3074,43738.0,,InnoSat 2,,satellites/innosat2.jpg,re-entered,2022-12-12T19:08:00Z,,,,None,MY,[],2022-12-14T11:24:39.925119Z,https://www.space-track.org,False,[]
 ILUP-3176-4624-1525-3825,43743.0,,Reaktor Hello World,OH2RHW1,,alive,,2018-11-29T00:00:00Z,,https://reaktorspace.com/reaktor-hello-world/,None,FI,[],2022-08-01T11:27:48.565321Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 XQNL-8221-6393-9116-3452,43758.0,,MinXSS 2,,,alive,,,,,None,,[{'decoder': 'minxss'}],2021-07-21T10:11:42.626853Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 KRVN-6468-4574-3162-9980,43759.0,,SIRION PATHFINDER-2,,,alive,,,,,None,,[],2021-07-21T10:11:42.628827Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
@@ -650,7 +650,7 @@ YMOO-3505-4453-3161-8438,99982.0,43134.0,SIGMA,KHUSAT-03,satellites/sigma.jpg,al
 DGML-9715-7729-0918-2000,99998.0,44792.0,NARSSCube-1,Egycubesat-1,,re-entered,2021-12-20T00:00:00Z,1998-11-20T00:00:00Z,,http://www.narsscube.com,None,EG,[],2022-08-01T16:28:11.335860Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 HNBU-8319-2760-4279-6218,99999.0,,CubeSatSim,,satellites/cubsatsim.png,alive,,,,,None,,[{'decoder': 'cubesatsim'}],2021-07-21T10:11:43.135160Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 GKEP-4423-7467-9358-6493,49044.0,,NAUKA,ISS (NAUKA),,alive,,,,,None,,[],2021-07-24T05:58:20.448580Z,https://en.wikipedia.org/wiki/Nauka_(ISS_module) and https://community.libre.space/t/the-recent-launched-nauka-module/8239,False,[]
-BTEP-5467-6423-3488-4155,44903.0,,Electro-L3,,satellites/elektro-l__1.jpg,alive,,2019-12-24T00:00:00Z,,,None,RU,[],2021-07-27T12:49:10.002640Z,https://www.russianspaceweb.com/elektro-l3.html,False,[]
+BTEP-5467-6423-3488-4155,44903.0,,Elektro-L 3,,,alive,,2019-12-24T00:00:00Z,,,None,RU,[],2022-12-14T12:00:59.529998Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 UDBA-5128-1022-2939-7269,43013.0,,NOAA 20,JPSS-1,satellites/NOAA-20-JPSS-1_xG4bUaX.jpg,alive,,2018-11-18T00:00:00Z,,https://www.nesdis.noaa.gov/about/our-offices/joint-polar-satellite-system-jpss-program-office,None,US,[],2022-11-11T09:27:56.446480Z,https://gitlab.com/librespacefoundation/satnogs-ops/-/issues/193,False,[]
 CFLI-0543-9871-5411-6955,44876.0,,ANGELS,,satellites/angels.jpg,alive,,2019-12-18T00:00:00Z,,,None,FR,[],2021-07-27T08:53:30.078471Z,https://gitlab.com/librespacefoundation/satnogs-ops/-/issues/192,False,[]
 JLZT-0277-4784-7719-1707,49069.0,,LEDSAT,,satellites/ledsat.png,alive,,,,https://www.s5lab.space/index.php/ledsat-home/,None,IT,[{'decoder': 'ledsat'}],2021-08-22T20:01:48.604289Z,https://archive.org/details/ikhnos-identification-49069/2021-08-22T11%3A20%3A00_4608735_49069_21073D_0-OBJECT-D_0.28404435222222446_B_r29.0_f0.0.png,False,"['UETP-9374-3176-7626-2861', 'MUTW-4253-0680-1478-3683']"
