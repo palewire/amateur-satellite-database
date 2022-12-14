@@ -5918,15 +5918,26 @@
     "satnogs_id":"YTEY-0876-3631-8329-6453"
   },
   {
-    "name":"INS-1B",
-    "norad_id":"54365",
+    "name":"INS-1A",
+    "norad_id":"41949",
     "uplink":null,
-    "downlink":"435.080",
+    "downlink":null,
     "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":"INDUSR-10",
-    "status":"active",
-    "satnogs_id":"EFIC-2341-1789-8177-9840"
+    "mode":null,
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"INS-1B",
+    "norad_id":"41954",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
   },
   {
     "name":"INS-1C",
@@ -5938,6 +5949,17 @@
     "callsign":"INDUSR-10",
     "status":"inactive",
     "satnogs_id":"JESY-3702-6549-6226-2817"
+  },
+  {
+    "name":"INS-2B",
+    "norad_id":"54365",
+    "uplink":null,
+    "downlink":"435.080",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":"INDUSR-10",
+    "status":"active",
+    "satnogs_id":"EFIC-2341-1789-8177-9840"
   },
   {
     "name":"INS-2TD",
