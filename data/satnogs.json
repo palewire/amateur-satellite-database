@@ -21797,7 +21797,7 @@
     "image":"satellites\/SS-1.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2022-11-19T00:00:00Z",
+    "launched":"2022-11-26T19:20:42Z",
     "deployed":null,
     "website":"http:\/\/www.surya.ac.id\/content\/3\/90\/Tentang_Surya_Satelit_1",
     "operator":"None",
@@ -21805,7 +21805,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-10T12:51:10.968033Z",
+    "updated":"2022-12-15T08:57:17.063949Z",
     "citation":"-",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -26503,7 +26503,7 @@
     "norad_cat_id":99242.0,
     "norad_follow_id":54684.0,
     "name":"CAS-5A",
-    "names":"CAMSAT",
+    "names":"FO-118, Fengtai-OSCAR 118, CAMSAT",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -26515,7 +26515,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-10T17:42:34.990676Z",
+    "updated":"2022-12-15T08:14:01.678073Z",
     "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1601597036809228288 and ikhnos results by PE0SAT",
     "is_frequency_violator":false,
     "associated_satellites":[

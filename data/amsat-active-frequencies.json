@@ -276,7 +276,7 @@
     "downlink":"435.080",
     "beacon":null,
     "mode":"1200bps FSK",
-    "callsign":"INDUSR-10",
+    "callsign":"INDUSR",
     "satnogs_id":"EFIC-2341-1789-8177-9840"
   },
   {
@@ -1260,6 +1260,46 @@
     "satnogs_id":"MCYZ-8515-1099-2288-3521"
   },
   {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":"145.820",
+    "downlink":"435.540",
+    "beacon":null,
+    "mode":"VHF\/UHF SSB bandwidth 30kHz",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":"145.925",
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"VHF\/UHF FM bandwidth 30kHz",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.570",
+    "mode":"UHF_CW",
+    "callsign":"BJ1SO",
+    "satnogs_id":null
+  },
+  {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":null,
+    "downlink":"435.650",
+    "beacon":null,
+    "mode":"4k8 GMSK telemery",
+    "callsign":"CAS5A",
+    "satnogs_id":null
+  },
+  {
     "name":"FUNcube-1",
     "norad_id":"39444",
     "uplink":"435.130-435.150",
@@ -1506,7 +1546,7 @@
     "downlink":"435.080",
     "beacon":null,
     "mode":"1200bps FSK",
-    "callsign":"INDUSR-10",
+    "callsign":"INDUSR",
     "satnogs_id":"EFIC-2341-1789-8177-9840"
   },
   {
@@ -1516,7 +1556,7 @@
     "downlink":"435.080",
     "beacon":null,
     "mode":"1200bps FSK",
-    "callsign":"INDUST-10",
+    "callsign":"INDUSR",
     "satnogs_id":"AWLV-5462-4771-2461-0551"
   },
   {

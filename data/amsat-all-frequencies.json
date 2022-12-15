@@ -1370,7 +1370,7 @@
     "downlink":"435.080",
     "beacon":null,
     "mode":"1200bps FSK",
-    "callsign":"INDUSR-10",
+    "callsign":"INDUSR",
     "status":"active",
     "satnogs_id":"EFIC-2341-1789-8177-9840"
   },
@@ -5060,6 +5060,83 @@
     "satnogs_id":"MCYZ-8515-1099-2288-3521"
   },
   {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":"21.400",
+    "downlink":"29.490",
+    "beacon":null,
+    "mode":"HF\/HF SSB bandwidth 30kHz",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":"21.435",
+    "downlink":"435.505",
+    "beacon":null,
+    "mode":"HF\/UHF SSB bandwidth 30kHz",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"29.465",
+    "mode":"HF_CW",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":"145.820",
+    "downlink":"435.540",
+    "beacon":null,
+    "mode":"VHF\/UHF SSB bandwidth 30kHz",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":"145.925",
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"VHF\/UHF FM bandwidth 30kHz",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.570",
+    "mode":"UHF_CW",
+    "callsign":"BJ1SO",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"FO-118",
+    "norad_id":"54684",
+    "uplink":null,
+    "downlink":"435.650",
+    "beacon":null,
+    "mode":"4k8 GMSK telemery",
+    "callsign":"CAS5A",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"FSI-SAT",
     "norad_id":null,
     "uplink":null,
@@ -5968,7 +6045,7 @@
     "downlink":"435.080",
     "beacon":null,
     "mode":"1200bps FSK",
-    "callsign":"INDUSR-10",
+    "callsign":"INDUSR",
     "status":"inactive",
     "satnogs_id":"JESY-3702-6549-6226-2817"
   },
@@ -5979,7 +6056,7 @@
     "downlink":"435.080",
     "beacon":null,
     "mode":"1200bps FSK",
-    "callsign":"INDUSR-10",
+    "callsign":"INDUSR",
     "status":"active",
     "satnogs_id":"EFIC-2341-1789-8177-9840"
   },
@@ -5990,7 +6067,7 @@
     "downlink":"435.080",
     "beacon":null,
     "mode":"1200bps FSK",
-    "callsign":"INDUST-10",
+    "callsign":"INDUSR",
     "status":"active",
     "satnogs_id":"AWLV-5462-4771-2461-0551"
   },
