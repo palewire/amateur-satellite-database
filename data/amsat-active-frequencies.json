@@ -557,7 +557,7 @@
     "beacon":null,
     "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-5A",
@@ -567,7 +567,7 @@
     "beacon":null,
     "mode":"VHF\/UHF FM bandwidth 30kHz",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-5A",
@@ -577,7 +577,7 @@
     "beacon":"435.570",
     "mode":"UHF_CW",
     "callsign":"BJ1SO",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-5A",
@@ -587,7 +587,7 @@
     "beacon":null,
     "mode":"4k8 GMSK telemery",
     "callsign":"CAS5A",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-6",
@@ -1267,7 +1267,7 @@
     "beacon":null,
     "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FO-118",
@@ -1277,7 +1277,7 @@
     "beacon":null,
     "mode":"VHF\/UHF FM bandwidth 30kHz",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FO-118",
@@ -1287,7 +1287,7 @@
     "beacon":"435.570",
     "mode":"UHF_CW",
     "callsign":"BJ1SO",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FO-118",
@@ -1297,7 +1297,7 @@
     "beacon":null,
     "mode":"4k8 GMSK telemery",
     "callsign":"CAS5A",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FUNcube-1",

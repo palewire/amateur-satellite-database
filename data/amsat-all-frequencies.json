@@ -2241,7 +2241,7 @@
     "mode":"HF\/HF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-5A",
@@ -2252,7 +2252,7 @@
     "mode":"HF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-5A",
@@ -2263,7 +2263,7 @@
     "mode":"HF_CW",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-5A",
@@ -2274,7 +2274,7 @@
     "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-5A",
@@ -2285,7 +2285,7 @@
     "mode":"VHF\/UHF FM bandwidth 30kHz",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-5A",
@@ -2296,7 +2296,7 @@
     "mode":"UHF_CW",
     "callsign":"BJ1SO",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-5A",
@@ -2307,7 +2307,7 @@
     "mode":"4k8 GMSK telemery",
     "callsign":"CAS5A",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"CAS-5B",
@@ -5068,7 +5068,7 @@
     "mode":"HF\/HF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FO-118",
@@ -5079,7 +5079,7 @@
     "mode":"HF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FO-118",
@@ -5090,7 +5090,7 @@
     "mode":"HF_CW",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FO-118",
@@ -5101,7 +5101,7 @@
     "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FO-118",
@@ -5112,7 +5112,7 @@
     "mode":"VHF\/UHF FM bandwidth 30kHz",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FO-118",
@@ -5123,7 +5123,7 @@
     "mode":"UHF_CW",
     "callsign":"BJ1SO",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FO-118",
@@ -5134,7 +5134,7 @@
     "mode":"4k8 GMSK telemery",
     "callsign":"CAS5A",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"FSI-SAT",

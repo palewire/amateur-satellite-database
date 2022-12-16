@@ -26500,8 +26500,8 @@
   },
   {
     "sat_id":"THLP-9709-3501-8618-5195",
-    "norad_cat_id":99242.0,
-    "norad_follow_id":54684.0,
+    "norad_cat_id":54684.0,
+    "norad_follow_id":null,
     "name":"CAS-5A",
     "names":"FO-118, Fengtai-OSCAR 118, CAMSAT",
     "image":"",
@@ -26515,11 +26515,11 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-15T08:14:01.678073Z",
-    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1601597036809228288 and ikhnos results by PE0SAT",
+    "updated":"2022-12-16T11:15:34.344562Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-54684\/2022-12-16T00%3A32%3A02_6877987_54684_22167C_0-OBJECT-C_0.07271587037035943_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "UFRH-3475-3339-9474-7463"
     ]
   },
   {
