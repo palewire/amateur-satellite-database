@@ -26689,5 +26689,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"AQMD-7020-9181-7420-6447",
+    "norad_cat_id":99241.0,
+    "norad_follow_id":null,
+    "name":"MARIO",
+    "names":"",
+    "image":"satellites\/IMG_7732_FSm4cqn.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2022-11-26T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/exploration.engin.umich.edu\/blog\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-16T19:07:54.560979Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
