@@ -2713,7 +2713,7 @@
     "beacon":null,
     "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -2724,7 +2724,7 @@
     "beacon":"435.575",
     "mode":"DTMF_camera CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -2734,8 +2734,8 @@
     "downlink":"435.725",
     "beacon":null,
     "mode":"4K8 GMSK telemetry",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CAS10",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -13682,6 +13682,39 @@
     "callsign":"CAS9",
     "status":"active",
     "satnogs_id":"WMPC-3806-8308-1122-5138"
+  },
+  {
+    "name":"XW-4",
+    "norad_id":null,
+    "uplink":"145.870",
+    "downlink":"435.180",
+    "beacon":null,
+    "mode":"VHF\/UHF SSB bandwidth 30kHz",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"XW-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.575",
+    "mode":"DTMF_camera CW",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"XW-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.725",
+    "beacon":null,
+    "mode":"4K8 GMSK telemetry",
+    "callsign":"CAS10",
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"Yarilo-1",
