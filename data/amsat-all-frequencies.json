@@ -2235,39 +2235,6 @@
   {
     "name":"CAS-5A",
     "norad_id":"54684",
-    "uplink":"21.400",
-    "downlink":"29.490",
-    "beacon":null,
-    "mode":"HF\/HF SSB bandwidth 30kHz",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
-    "name":"CAS-5A",
-    "norad_id":"54684",
-    "uplink":"21.435",
-    "downlink":"435.505",
-    "beacon":null,
-    "mode":"HF\/UHF SSB bandwidth 30kHz",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
-    "name":"CAS-5A",
-    "norad_id":"54684",
-    "uplink":null,
-    "downlink":null,
-    "beacon":"29.465",
-    "mode":"HF_CW",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
-    "name":"CAS-5A",
-    "norad_id":"54684",
     "uplink":"145.820",
     "downlink":"435.540",
     "beacon":null,
@@ -2307,6 +2274,39 @@
     "mode":"4k8 GMSK telemery",
     "callsign":"CAS5A",
     "status":"active",
+    "satnogs_id":"THLP-9709-3501-8618-5195"
+  },
+  {
+    "name":"CAS-5A",
+    "norad_id":"54684",
+    "uplink":"21.400",
+    "downlink":"29.490",
+    "beacon":null,
+    "mode":"HF\/HF SSB bandwidth 30kHz",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"THLP-9709-3501-8618-5195"
+  },
+  {
+    "name":"CAS-5A",
+    "norad_id":"54684",
+    "uplink":"21.435",
+    "downlink":"435.505",
+    "beacon":null,
+    "mode":"HF\/UHF SSB bandwidth 30kHz",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"THLP-9709-3501-8618-5195"
+  },
+  {
+    "name":"CAS-5A",
+    "norad_id":"54684",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"29.465",
+    "mode":"HF_CW",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
