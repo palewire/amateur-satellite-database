@@ -26718,9 +26718,9 @@
     "sat_id":"NSYK-3243-5929-3706-2322",
     "norad_cat_id":54021.0,
     "norad_follow_id":null,
-    "name":"Centispace-1 S6",
+    "name":"CentiSpace-1 S6",
     "names":"",
-    "image":"",
+    "image":"satellites\/centispace-1-s1__1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2022-10-07T00:00:00Z",
@@ -26731,7 +26731,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-18T20:44:56.547185Z",
+    "updated":"2022-12-19T16:16:50.337437Z",
     "citation":"https:\/\/www.orbitalfocus.uk\/Diaries\/Launches\/Launches.php?year=2022",
     "is_frequency_violator":false,
     "associated_satellites":[
