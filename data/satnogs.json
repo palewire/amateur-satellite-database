@@ -26737,5 +26737,77 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"LIMQ-1213-0513-2634-2255",
+    "norad_cat_id":99239.0,
+    "norad_follow_id":null,
+    "name":"MDQSAT-1A",
+    "names":"\"Juana Azurduy\"",
+    "image":"satellites\/Maqueta_MDQubesat-1_en_Tecn\u00f3polis_Octubre_2022_04.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-02T14:55:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.innova-space.com\/en\/",
+    "operator":"None",
+    "countries":"AR",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-20T07:27:48.392707Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.msg2422889#msg2422889",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QEYL-4712-2825-4820-1289",
+    "norad_cat_id":99240.0,
+    "norad_follow_id":null,
+    "name":"MDQSAT-1B",
+    "names":"\"Sim\u00f3n Bolivar\"",
+    "image":"satellites\/Maqueta_MDQubesat-1_en_Tecn\u00f3polis_Octubre_2022_04_OEDL0bm.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-02T14:55:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.innova-space.com\/en\/",
+    "operator":"None",
+    "countries":"AR",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-20T07:27:29.956661Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.msg2422889#msg2422889",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"POWQ-0954-8603-5864-6677",
+    "norad_cat_id":53757.0,
+    "norad_follow_id":null,
+    "name":"Centispace-1 S3",
+    "names":"Cospar ID 2022-108A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-09-05T00:00:00Z",
+    "deployed":"2022-09-05T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-20T08:57:17.917702Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
