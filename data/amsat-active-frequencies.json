@@ -651,7 +651,7 @@
   },
   {
     "name":"CAS-10",
-    "norad_id":null,
+    "norad_id":"54816",
     "uplink":"145.870",
     "downlink":"435.180",
     "beacon":null,
@@ -661,7 +661,7 @@
   },
   {
     "name":"CAS-10",
-    "norad_id":null,
+    "norad_id":"54816",
     "uplink":null,
     "downlink":null,
     "beacon":"435.575",
@@ -671,7 +671,7 @@
   },
   {
     "name":"CAS-10",
-    "norad_id":null,
+    "norad_id":"54816",
     "uplink":null,
     "downlink":"435.725",
     "beacon":null,
@@ -3381,7 +3381,7 @@
   },
   {
     "name":"XW-4",
-    "norad_id":null,
+    "norad_id":"54816",
     "uplink":"145.870",
     "downlink":"435.180",
     "beacon":null,
@@ -3391,7 +3391,7 @@
   },
   {
     "name":"XW-4",
-    "norad_id":null,
+    "norad_id":"54816",
     "uplink":null,
     "downlink":null,
     "beacon":"435.575",
@@ -3401,7 +3401,7 @@
   },
   {
     "name":"XW-4",
-    "norad_id":null,
+    "norad_id":"54816",
     "uplink":null,
     "downlink":"435.725",
     "beacon":null,

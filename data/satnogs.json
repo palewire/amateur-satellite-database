@@ -24677,7 +24677,7 @@
   {
     "sat_id":"TLZR-1993-2564-0036-4315",
     "norad_cat_id":99291.0,
-    "norad_follow_id":null,
+    "norad_follow_id":54816.0,
     "name":"XW-4",
     "names":"CAS-10, HOPE-4",
     "image":"satellites\/XW-4.jpg",
@@ -24691,7 +24691,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-18T01:30:43.025003Z",
+    "updated":"2022-12-20T21:59:23.972951Z",
     "citation":"https:\/\/twitter.com\/bd5rv\/status\/1593693879798497285",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -26790,9 +26790,9 @@
     "sat_id":"POWQ-0954-8603-5864-6677",
     "norad_cat_id":53757.0,
     "norad_follow_id":null,
-    "name":"Centispace-1 S3",
-    "names":"Cospar ID 2022-108A",
-    "image":"",
+    "name":"CentiSpace-1 S3",
+    "names":"",
+    "image":"satellites\/centispace-1-s1__1_RZERXZT.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2022-09-05T00:00:00Z",
@@ -26803,8 +26803,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-20T08:57:17.917702Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-12-20T17:10:03.045575Z",
+    "citation":"https:\/\/www.orbitalfocus.uk\/Diaries\/Launches\/Launches.php?year=2022",
     "is_frequency_violator":false,
     "associated_satellites":[
 
