@@ -22847,6 +22847,30 @@
     ]
   },
   {
+    "sat_id":"GARM-1563-5597-4412-1588",
+    "norad_cat_id":37793.0,
+    "norad_follow_id":null,
+    "name":"AprizeSat-6",
+    "names":"EV 6, exactView 6, Myriota 2",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2011-08-17T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-22T11:40:48.925248Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"CQOD-6844-7035-7264-5887",
     "norad_cat_id":51827.0,
     "norad_follow_id":null,
@@ -24679,19 +24703,19 @@
     "norad_cat_id":99291.0,
     "norad_follow_id":54816.0,
     "name":"XW-4",
-    "names":"CAS-10, HOPE-4",
+    "names":"CAS-10, HOPE-4, Macao Student Science Satellite 1, Macau Student Science Popularization Satellite No. 1",
     "image":"satellites\/XW-4.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-12-18T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"CN",
+    "countries":"CN,MO",
     "telemetries":[
 
     ],
-    "updated":"2022-12-20T21:59:23.972951Z",
+    "updated":"2022-12-22T11:43:39.253335Z",
     "citation":"https:\/\/twitter.com\/bd5rv\/status\/1593693879798497285",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -26805,6 +26829,150 @@
     ],
     "updated":"2022-12-20T17:10:03.045575Z",
     "citation":"https:\/\/www.orbitalfocus.uk\/Diaries\/Launches\/Launches.php?year=2022",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HYAE-6054-8137-1918-7560",
+    "norad_cat_id":99235.0,
+    "norad_follow_id":null,
+    "name":"Pleiades Yearling",
+    "names":"",
+    "image":"satellites\/366a2e_781f0f6251424688b315404d5a077236mv2_uVlcXSp.webp",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-02T14:55:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.broncospace.com\/proves",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-22T11:45:41.026348Z",
+    "citation":"https:\/\/www.broncospace.com\/proves",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WRAS-5638-4914-9749-8955",
+    "norad_cat_id":99236.0,
+    "norad_follow_id":null,
+    "name":"Pleiades - Sapling Giganteum",
+    "names":"",
+    "image":"satellites\/366a2e_781f0f6251424688b315404d5a077236mv2_QORKUTj.webp",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-02T14:55:00Z",
+    "deployed":null,
+    "website":"https:\/\/github.com\/stanford-ssi\/sapling",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-22T11:45:15.137085Z",
+    "citation":"https:\/\/github.com\/stanford-ssi\/sapling",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FIDX-2591-9245-4209-0806",
+    "norad_cat_id":99237.0,
+    "norad_follow_id":null,
+    "name":"Pleiades - Sapling Sempervirens",
+    "names":"",
+    "image":"satellites\/366a2e_781f0f6251424688b315404d5a077236mv2_Natn98b.webp",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-02T14:55:00Z",
+    "deployed":null,
+    "website":"https:\/\/github.com\/stanford-ssi\/sapling",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-22T11:44:59.603440Z",
+    "citation":"https:\/\/github.com\/stanford-ssi\/sapling",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WNBG-5222-9642-7959-5062",
+    "norad_cat_id":39425.0,
+    "norad_follow_id":null,
+    "name":"AprizeSat 8",
+    "names":"EV 12, exactView 12",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-11-21T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-22T11:40:26.795249Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/aprizesat-1_latinsat-1.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UISA-7569-4916-7535-5038",
+    "norad_cat_id":39416.0,
+    "norad_follow_id":null,
+    "name":"AprizeSat 7",
+    "names":"EV 5R, exactView 5R",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-11-21T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AR,US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-22T11:40:14.936697Z",
+    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/aprizesat-3-4#rf-communications 400585000",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EIXA-7920-3563-3042-5758",
+    "norad_cat_id":40018.0,
+    "norad_follow_id":null,
+    "name":"AprizeSat 9",
+    "names":"EV 11, exactView 11, Myriota 4",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-06-19T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AR,AU,US",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-22T11:39:45.013754Z",
+    "citation":"https:\/\/planet4589.org\/home\/legacy\/space\/book\/html.old\/commercial_s\/leo_and_meo_\/n_american_l\/aprize\/2002-058H.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
