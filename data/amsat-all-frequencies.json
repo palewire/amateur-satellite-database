@@ -2714,7 +2714,7 @@
     "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"CAS-10",
@@ -2725,7 +2725,7 @@
     "mode":"DTMF_camera CW",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"CAS-10",
@@ -2736,7 +2736,7 @@
     "mode":"4K8 GMSK telemetry",
     "callsign":"CAS10",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"CatSat",
@@ -13692,7 +13692,7 @@
     "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"XW-4",
@@ -13703,7 +13703,7 @@
     "mode":"DTMF_camera CW",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"XW-4",
@@ -13714,7 +13714,7 @@
     "mode":"4K8 GMSK telemetry",
     "callsign":"CAS10",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"Yarilo-1",

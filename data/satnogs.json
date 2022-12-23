@@ -24700,8 +24700,8 @@
   },
   {
     "sat_id":"TLZR-1993-2564-0036-4315",
-    "norad_cat_id":99291.0,
-    "norad_follow_id":54816.0,
+    "norad_cat_id":54816.0,
+    "norad_follow_id":null,
     "name":"XW-4",
     "names":"CAS-10, HOPE-4, Macao Student Science Satellite 1, Macau Student Science Popularization Satellite No. 1",
     "image":"satellites\/XW-4.jpg",
@@ -24715,11 +24715,11 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-22T11:43:39.253335Z",
-    "citation":"https:\/\/twitter.com\/bd5rv\/status\/1593693879798497285",
+    "updated":"2022-12-22T23:22:19.853492Z",
+    "citation":"space-track.org and network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "VCIQ-3591-2954-8941-6637"
     ]
   },
   {

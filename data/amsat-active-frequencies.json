@@ -657,7 +657,7 @@
     "beacon":null,
     "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"CAS-10",
@@ -667,7 +667,7 @@
     "beacon":"435.575",
     "mode":"DTMF_camera CW",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"CAS-10",
@@ -677,7 +677,7 @@
     "beacon":null,
     "mode":"4K8 GMSK telemetry",
     "callsign":"CAS10",
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"CELESTA",
@@ -3387,7 +3387,7 @@
     "beacon":null,
     "mode":"VHF\/UHF SSB bandwidth 30kHz",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"XW-4",
@@ -3397,7 +3397,7 @@
     "beacon":"435.575",
     "mode":"DTMF_camera CW",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"XW-4",
@@ -3407,7 +3407,7 @@
     "beacon":null,
     "mode":"4K8 GMSK telemetry",
     "callsign":"CAS10",
-    "satnogs_id":null
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"Yarilo-1",
