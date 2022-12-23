@@ -9152,8 +9152,8 @@
     "name":"MySat-1",
     "names":"",
     "image":"satellites\/mysat-1-cropped.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2022-12-16T00:00:00Z",
     "launched":"2018-11-17T00:00:00Z",
     "deployed":"2019-02-13T00:00:00Z",
     "website":"https:\/\/twitter.com\/MYSAT_2",
@@ -9164,8 +9164,8 @@
         "decoder":"mysat"
       }
     ],
-    "updated":"2022-11-17T19:40:59.117136Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2022-12-23T07:57:21.758368Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -15233,8 +15233,8 @@
     "name":"SPACEBEE-4",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2022-12-21T00:00:00Z",
     "launched":"2018-01-12T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/swarm.space",
@@ -15243,8 +15243,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-09-16T07:45:51.240117Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/spacebee.htm",
+    "updated":"2022-12-23T07:58:50.803236Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
