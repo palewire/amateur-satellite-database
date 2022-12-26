@@ -680,16 +680,6 @@
     "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
-    "name":"CELESTA",
-    "norad_id":"53111",
-    "uplink":null,
-    "downlink":"436.500",
-    "beacon":"FX6FRB",
-    "mode":"1k2AFSK 2k4*\/9k6GMSK",
-    "callsign":null,
-    "satnogs_id":"XKZZ-2829-5729-9508-2566"
-  },
-  {
     "name":"CHOMPTT",
     "norad_id":"43855",
     "uplink":null,
@@ -2400,16 +2390,6 @@
     "satnogs_id":"YIMH-1412-6494-9671-2122"
   },
   {
-    "name":"ROBUSTA-1D",
-    "norad_id":"53111",
-    "uplink":null,
-    "downlink":"436.500",
-    "beacon":null,
-    "mode":"1k2AFSK 2k4*\/9k6GMSK",
-    "callsign":"FX6FRB",
-    "satnogs_id":"XKZZ-2829-5729-9508-2566"
-  },
-  {
     "name":"SALSAT",
     "norad_id":"46495",
     "uplink":null,
@@ -2678,36 +2658,6 @@
     "mode":"9600bps GMSK",
     "callsign":null,
     "satnogs_id":"MUVJ-0454-0662-1172-2559"
-  },
-  {
-    "name":"SWSU-55 No2",
-    "norad_id":"53312",
-    "uplink":null,
-    "downlink":"437.050\/437.062",
-    "beacon":null,
-    "mode":"1k145 AFSK SSTV AUDIO",
-    "callsign":"RS11S",
-    "satnogs_id":null
-  },
-  {
-    "name":"SWSU-55 No3",
-    "norad_id":"53313",
-    "uplink":null,
-    "downlink":"437.050\/437.075",
-    "beacon":null,
-    "mode":"1k145 AFSK SSTV AUDIO",
-    "callsign":"RS1S",
-    "satnogs_id":null
-  },
-  {
-    "name":"SWSU-55 No4",
-    "norad_id":"53306",
-    "uplink":null,
-    "downlink":"437.050\/437.082",
-    "beacon":null,
-    "mode":"1k145 AFSK SSTV AUDIO",
-    "callsign":"RS2S",
-    "satnogs_id":null
   },
   {
     "name":"SWSU-55 No5",
@@ -3438,36 +3388,6 @@
     "mode":null,
     "callsign":null,
     "satnogs_id":"NOPA-4112-5533-4054-3584"
-  },
-  {
-    "name":"YuZGU-6",
-    "norad_id":"53312",
-    "uplink":null,
-    "downlink":"437.050\/437.062",
-    "beacon":null,
-    "mode":"1k145 AFSK SSTV AUDIO",
-    "callsign":"RS11S",
-    "satnogs_id":null
-  },
-  {
-    "name":"YuZGU-7",
-    "norad_id":"53313",
-    "uplink":null,
-    "downlink":"437.050\/437.075",
-    "beacon":null,
-    "mode":"1k145 AFSK SSTV AUDIO",
-    "callsign":"RS1S",
-    "satnogs_id":null
-  },
-  {
-    "name":"YuZGU-8",
-    "norad_id":"53306",
-    "uplink":null,
-    "downlink":"437.050\/437.082",
-    "beacon":null,
-    "mode":"1k145 AFSK SSTV AUDIO",
-    "callsign":"RS2S",
-    "satnogs_id":null
   },
   {
     "name":"YuZGU-9",
