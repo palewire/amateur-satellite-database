@@ -2030,16 +2030,6 @@
     "satnogs_id":"UFIT-6008-6845-0096-1151"
   },
   {
-    "name":"MYSAT-1",
-    "norad_id":"44045",
-    "uplink":null,
-    "downlink":"435.775",
-    "beacon":null,
-    "mode":"1k2*\/4k8\/9k6 BPSK",
-    "callsign":"A68MY",
-    "satnogs_id":"XJIF-4712-8503-0953-1790"
-  },
-  {
     "name":"MYSAT-2",
     "norad_id":"49017",
     "uplink":null,
