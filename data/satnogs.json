@@ -26977,5 +26977,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"DSPC-0548-9563-9265-1510",
+    "norad_cat_id":54227.0,
+    "norad_follow_id":null,
+    "name":"MATS",
+    "names":"MATS:2022-147A",
+    "image":"satellites\/mats__2.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-11-04T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.su.se\/english\/research\/research-projects\/mats-the-next-swedish-research-satellite",
+    "operator":"None",
+    "countries":"SE",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-28T07:59:47.721453Z",
+    "citation":"https:\/\/www.su.se\/english\/research\/research-projects\/mats-the-next-swedish-research-satellite",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
