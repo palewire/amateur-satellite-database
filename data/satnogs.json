@@ -3356,19 +3356,19 @@
     "norad_cat_id":40043.0,
     "norad_follow_id":null,
     "name":"TIGRISAT",
-    "names":"",
+    "names":"HNATIG",
     "image":"satellites\/tigrisat__1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2014-06-19T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/web.uniroma1.it\/scuolaingegneriaaerospaziale\/en\/about-us\/about-us",
     "operator":"None",
     "countries":"IQ,IT",
     "telemetries":[
 
     ],
-    "updated":"2022-05-01T12:08:07.505378Z",
+    "updated":"2022-12-30T10:54:02.315136Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -19682,7 +19682,7 @@
     ],
     "updated":"2022-07-22T07:49:03.707083Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -25051,7 +25051,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T08:52:46.406706Z",
+    "updated":"2022-12-30T10:46:52.637261Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27128,18 +27128,18 @@
     "norad_follow_id":null,
     "name":"TJREVERB",
     "names":"",
-    "image":"",
+    "image":"satellites\/9D5A6681-79D7-4275-A700-50C7B0602412.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":"2022-11-26T19:20:42Z",
     "deployed":"2022-12-29T12:05:00Z",
-    "website":"",
+    "website":"https:\/\/activities.tjhsst.edu\/cubesat\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2022-12-29T13:18:59.904944Z",
+    "updated":"2022-12-30T10:45:51.091328Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27166,6 +27166,30 @@
     "updated":"2022-12-29T13:18:59.807505Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZRIG-5715-6535-7174-9598",
+    "norad_cat_id":44843.0,
+    "norad_follow_id":null,
+    "name":"Tianyi-17",
+    "names":"Object F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-12-07T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/web.archive.org\/web\/20200217205731\/http:\/\/en.spacety.com\/en_missions.html",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-30T10:46:17.239657Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/15",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
