@@ -26717,13 +26717,13 @@
   {
     "sat_id":"AQMD-7020-9181-7420-6447",
     "norad_cat_id":99241.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"MARIO",
     "names":"",
     "image":"satellites\/IMG_7732_FSm4cqn.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":"2022-11-26T00:00:00Z",
+    "launched":"2022-11-26T19:20:42Z",
     "deployed":"2022-12-29T12:15:00Z",
     "website":"https:\/\/exploration.engin.umich.edu\/blog\/",
     "operator":"None",
@@ -26731,7 +26731,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-29T12:01:48.418323Z",
+    "updated":"2022-12-29T13:18:59.940036Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27005,21 +27005,21 @@
   {
     "sat_id":"VUIJ-4442-3257-2619-1322",
     "norad_cat_id":99234.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"SPORT",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":null,
-    "deployed":null,
+    "deployed":"2022-12-29T13:55:00Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2022-12-29T09:35:57.640537Z",
+    "updated":"2022-12-29T14:06:24.906983Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27029,21 +27029,21 @@
   {
     "sat_id":"ZCND-2493-6441-2637-5373",
     "norad_cat_id":99233.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"LORIS",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":null,
-    "deployed":null,
+    "deployed":"2022-12-29T13:45:00Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2022-12-29T09:35:57.604911Z",
+    "updated":"2022-12-29T14:06:26.212556Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27053,21 +27053,21 @@
   {
     "sat_id":"LENB-9037-9456-1559-8946",
     "norad_cat_id":99232.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"ORCASat",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":null,
-    "deployed":null,
+    "deployed":"2022-12-29T13:45:00Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2022-12-29T09:35:57.578008Z",
+    "updated":"2022-12-29T14:06:27.684947Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27077,13 +27077,13 @@
   {
     "sat_id":"NAEW-9759-0504-8538-0109",
     "norad_cat_id":99230.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"NUTSat",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-11-26T19:20:42Z",
     "deployed":"2022-12-29T12:15:00Z",
     "website":"",
     "operator":"None",
@@ -27091,7 +27091,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-29T12:01:27.122260Z",
+    "updated":"2022-12-29T13:18:59.832693Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27101,21 +27101,21 @@
   {
     "sat_id":"HICO-4044-2713-1337-0678",
     "norad_cat_id":99229.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"petitSat",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":null,
-    "deployed":null,
+    "deployed":"2022-12-29T13:55:00Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2022-12-29T09:35:57.531810Z",
+    "updated":"2022-12-29T14:06:29.858419Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27125,13 +27125,13 @@
   {
     "sat_id":"GSVY-0685-7956-3934-6462",
     "norad_cat_id":99228.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"TJREVERB",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-11-26T19:20:42Z",
     "deployed":"2022-12-29T12:05:00Z",
     "website":"",
     "operator":"None",
@@ -27139,7 +27139,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-29T12:00:11.570665Z",
+    "updated":"2022-12-29T13:18:59.904944Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27149,13 +27149,13 @@
   {
     "sat_id":"DESY-4487-8777-3725-3847",
     "norad_cat_id":99231.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"DanteSat",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-11-26T19:20:42Z",
     "deployed":"2022-12-29T12:05:00Z",
     "website":"",
     "operator":"None",
@@ -27163,7 +27163,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-29T12:00:07.208501Z",
+    "updated":"2022-12-29T13:18:59.807505Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":true,
     "associated_satellites":[
