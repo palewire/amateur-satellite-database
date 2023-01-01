@@ -26164,7 +26164,7 @@
   },
   {
     "sat_id":"VSNT-1425-8162-0510-1089",
-    "norad_cat_id":99269.0,
+    "norad_cat_id":48906.0,
     "norad_follow_id":null,
     "name":"Umbra 01",
     "names":"Umbra-SAR 2001",
@@ -26179,8 +26179,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T10:01:44.278496Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/umbra-sar-2001.htm",
+    "updated":"2022-12-31T15:34:15.159016Z",
+    "citation":"https:\/\/space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26188,7 +26188,7 @@
   },
   {
     "sat_id":"TPDX-4064-2548-6167-6896",
-    "norad_cat_id":99270.0,
+    "norad_cat_id":50986.0,
     "norad_follow_id":null,
     "name":"Umbra 02",
     "names":"",
@@ -26203,8 +26203,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T10:01:44.295146Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/umbra-sar-2001.htm",
+    "updated":"2022-12-31T15:34:15.142002Z",
+    "citation":"https:\/\/space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26212,7 +26212,7 @@
   },
   {
     "sat_id":"XMJY-8759-6395-2913-8943",
-    "norad_cat_id":99271.0,
+    "norad_cat_id":52753.0,
     "norad_follow_id":null,
     "name":"Umbra 03",
     "names":"",
@@ -26227,8 +26227,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T10:01:44.311069Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/umbra-sar-2001.htm",
+    "updated":"2022-12-31T15:34:15.123842Z",
+    "citation":"https:\/\/space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27189,6 +27189,126 @@
     ],
     "updated":"2022-12-30T10:46:17.239657Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/15",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UIOI-1341-4569-4790-3695",
+    "norad_cat_id":99225.0,
+    "norad_follow_id":null,
+    "name":"KuwaitSat-1",
+    "names":"",
+    "image":"satellites\/KS_logo.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-03T14:56:00Z",
+    "deployed":null,
+    "website":"https:\/\/kuwaitsat.space\/",
+    "operator":"None",
+    "countries":"KW",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-31T17:50:00.240556Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter-6",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RJCF-5779-9216-5641-4111",
+    "norad_cat_id":99224.0,
+    "norad_follow_id":null,
+    "name":"BRO-8",
+    "names":"",
+    "image":"satellites\/Screenshot_2022-12-31_at_18-09-44_BRO-8-6-812x356.png_PNG_Image_812__356_pixels.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-03T14:57:00Z",
+    "deployed":null,
+    "website":"https:\/\/unseenlabs.space\/",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-31T17:51:24.323213Z",
+    "citation":"https:\/\/unseenlabs.space\/wp-content\/uploads\/2022\/12\/Press-Release-BRO-8.pdf",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MXLF-5468-2040-9772-6013",
+    "norad_cat_id":99226.0,
+    "norad_follow_id":null,
+    "name":"MilSpace2-1",
+    "names":"Birkeland, ex BROS 1.",
+    "image":"satellites\/milspace2__1.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-03T14:57:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.nlr.org\/news\/norwegian-dutch-research-mission-for-radar-signals\/",
+    "operator":"None",
+    "countries":"NL,NO",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-31T17:52:06.133772Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/milspace2.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VHJE-6004-5828-3149-6931",
+    "norad_cat_id":99227.0,
+    "norad_follow_id":null,
+    "name":"MilSpace2-2",
+    "names":"Huygens, ex BROS 2.",
+    "image":"satellites\/milspace2__1_s5nqYPW.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-03T14:57:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.nlr.org\/news\/norwegian-dutch-research-mission-for-radar-signals\/",
+    "operator":"None",
+    "countries":"NL,NO",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-31T17:49:21.057538Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/milspace2.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DSGV-8067-8332-8825-6416",
+    "norad_cat_id":99223.0,
+    "norad_follow_id":null,
+    "name":"Guardian - Alpha",
+    "names":"",
+    "image":"satellites\/Guardian-Alpha.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-03T14:56:00Z",
+    "deployed":null,
+    "website":"https:\/\/orbastro.com\/",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2022-12-31T18:45:33.879243Z",
+    "citation":"https:\/\/www.linkedin.com\/posts\/ashdj_this-is-guardian-alpha-it-is-a-3u-satellite-activity-6790574860306268160-mZsa\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
