@@ -15860,7 +15860,7 @@
     "name":"FLOCK 3K 4",
     "names":"",
     "image":"satellites\/index_3.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -15870,7 +15870,7 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-10T08:50:00.714958Z",
+    "updated":"2023-01-01T09:45:39.908560Z",
     "citation":"VK5Q1 and SV1QVE survey",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27079,7 +27079,7 @@
     "norad_cat_id":99230.0,
     "norad_follow_id":null,
     "name":"NUTSat",
-    "names":"",
+    "names":"BN0UT",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -27091,8 +27091,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-29T13:18:59.832693Z",
-    "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
+    "updated":"2023-01-01T11:26:22.345520Z",
+    "citation":"https:\/\/www.tasa.org.tw\/inprogress.php?c=20030402&ln=en",
     "is_frequency_violator":false,
     "associated_satellites":[
 
