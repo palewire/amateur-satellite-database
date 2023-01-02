@@ -4080,7 +4080,7 @@
     "norad_cat_id":40928.0,
     "norad_follow_id":null,
     "name":"TIANWANG 1A",
-    "names":"TW-1A\r\nShangkeda-2\r\nSECM",
+    "names":"TW-1AShangkeda-2SECM",
     "image":"satellites\/TIANWANG-1A.jpg",
     "status":"alive",
     "decayed":null,
@@ -4088,11 +4088,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.236805Z",
+    "updated":"2023-01-01T16:21:40.813858Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -4160,11 +4160,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"DK",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.240764Z",
+    "updated":"2023-01-01T16:12:05.368245Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -4734,7 +4734,7 @@
     "norad_cat_id":41557.0,
     "norad_follow_id":null,
     "name":"\u00d1uSat 1",
-    "names":"FRESCO, LO-87, NuSat 1, LUSEX",
+    "names":"FRESCO, LO-87, NuSat 1, LUSEX, NewSat 1",
     "image":"satellites\/NUSAT-1_iNMftIO.jpg",
     "status":"alive",
     "decayed":null,
@@ -4746,7 +4746,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-02T19:31:24.739638Z",
+    "updated":"2023-01-01T16:18:33.130395Z",
     "citation":"http:\/\/lusex.org.ar\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -4762,15 +4762,15 @@
     "image":"satellites\/NUSAT-2.jpeg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2016-05-30T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"AR",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.302221Z",
+    "updated":"2023-01-01T16:18:43.210493Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -8548,11 +8548,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"KZ",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.664284Z",
+    "updated":"2023-01-01T16:11:35.774059Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -11072,11 +11072,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"AR",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.847709Z",
+    "updated":"2023-01-01T16:18:07.661970Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -15204,7 +15204,7 @@
   },
   {
     "sat_id":"ANJN-0857-0652-4935-2307",
-    "norad_cat_id":null,
+    "norad_cat_id":99219.0,
     "norad_follow_id":null,
     "name":"MESAT-1",
     "names":"",
@@ -15219,7 +15219,7 @@
     "telemetries":[
 
     ],
-    "updated":"2021-09-16T07:19:16.559043Z",
+    "updated":"2023-01-01T16:42:20.068832Z",
     "citation":"https:\/\/umaine.edu\/wisenetlab\/mesat1",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -15324,7 +15324,7 @@
   },
   {
     "sat_id":"LUNR-6930-6214-4841-5140",
-    "norad_cat_id":null,
+    "norad_cat_id":99220.0,
     "norad_follow_id":null,
     "name":"NPS-Cenetix-Orbital 1",
     "names":"Naval Postgraduate School - Center for Network Innovation and Experimentation",
@@ -15339,7 +15339,7 @@
     "telemetries":[
 
     ],
-    "updated":"2021-09-16T07:15:43.590629Z",
+    "updated":"2023-01-01T16:41:53.169771Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25235,7 +25235,7 @@
     "image":"satellites\/BDSAT-1024x832.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
+    "launched":"2022-01-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.bdsat.cz\/",
     "operator":"None",
@@ -25243,7 +25243,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T10:01:44.137478Z",
+    "updated":"2023-01-01T16:19:00.180253Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=866",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -26387,7 +26387,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
+    "launched":"2023-01-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.loftorbital.com\/missions",
     "operator":"None",
@@ -26395,7 +26395,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T10:01:44.381308Z",
+    "updated":"2023-01-01T16:12:21.199841Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.msg2375103#msg2375103",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -26411,7 +26411,7 @@
     "image":"satellites\/RROCI.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
+    "launched":"2022-01-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.orionspace.com\/",
     "operator":"None",
@@ -26419,7 +26419,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T10:01:44.388108Z",
+    "updated":"2023-01-01T16:19:08.143047Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2120132;sess=0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27127,7 +27127,7 @@
     "norad_cat_id":99228.0,
     "norad_follow_id":null,
     "name":"TJREVERB",
-    "names":"",
+    "names":"WJ2XXB",
     "image":"satellites\/9D5A6681-79D7-4275-A700-50C7B0602412.jpeg",
     "status":"alive",
     "decayed":null,
@@ -27139,7 +27139,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-30T10:45:51.091328Z",
+    "updated":"2023-01-01T12:27:13.453279Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27213,7 +27213,7 @@
     ],
     "updated":"2022-12-31T17:50:00.240556Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter-6",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -27309,6 +27309,102 @@
     ],
     "updated":"2022-12-31T18:45:33.879243Z",
     "citation":"https:\/\/www.linkedin.com\/posts\/ashdj_this-is-guardian-alpha-it-is-a-3u-satellite-activity-6790574860306268160-mZsa\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UEZS-6977-3732-6269-1943",
+    "norad_cat_id":99222.0,
+    "norad_follow_id":null,
+    "name":"Sphere-1",
+    "names":"Star Sphere  (Sony )",
+    "image":"satellites\/1643490024223.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-03T14:56:00Z",
+    "deployed":null,
+    "website":"https:\/\/starsphere.sony.com\/en\/",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-01T16:23:32.145463Z",
+    "citation":"https:\/\/www.linkedin.com\/posts\/rhea-space-activity_sony-plans-to-launch-a-six-unit-cubesat-with-activity-6893296786576859137-qebP\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZVIO-0893-8720-4254-3996",
+    "norad_cat_id":99221.0,
+    "norad_follow_id":null,
+    "name":"NSLSat-2",
+    "names":"NSL-2, NSL 2",
+    "image":"satellites\/nslsat-1__1_QUOWfpf.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-03T14:56:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.aac-clyde.space\/",
+    "operator":"None",
+    "countries":"IL",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-01T16:41:36.555085Z",
+    "citation":"https:\/\/www.forbes.com\/sites\/elizabethhowell1\/2019\/09\/18\/israeli-company-plans-second-satellite-launch-for-the-internet-of-things\/?sh=672a6ff82272",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CRQN-9332-8658-6519-0456",
+    "norad_cat_id":99218.0,
+    "norad_follow_id":null,
+    "name":"STERNULA-1",
+    "names":"",
+    "image":"satellites\/1666947267601.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-03T14:56:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.sternula.com\/",
+    "operator":"None",
+    "countries":"DK",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-01T17:57:00.397999Z",
+    "citation":"https:\/\/www.linkedin.com\/posts\/sternula_a-big-step-was-achieved-yesterday-our-activity-6991683603004850176-kToi?utm_source=share&utm_medium=member_desktop",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"REKY-2761-8978-3233-4536",
+    "norad_cat_id":99215.0,
+    "norad_follow_id":null,
+    "name":"EOS SAT-1",
+    "names":"",
+    "image":"satellites\/1672151589979.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-01-03T14:56:00Z",
+    "deployed":null,
+    "website":"https:\/\/dragonflyaerospace.com\/",
+    "operator":"None",
+    "countries":"ZA",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-01T19:21:32.659789Z",
+    "citation":"https:\/\/www.linkedin.com\/posts\/dragonfly-aerospace_eosabrsat-dragonflyaerospace-aerospace-activity-7013512108340330497-kNjR?utm_source=share&utm_medium=member_desktop",
     "is_frequency_violator":false,
     "associated_satellites":[
 
