@@ -1920,6 +1920,16 @@
     "satnogs_id":"QXDQ-9755-0160-9983-1765"
   },
   {
+    "name":"MARIO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"WL2XYF",
+    "satnogs_id":null
+  },
+  {
     "name":"Max Valier Sat",
     "norad_id":"42778",
     "uplink":null,
@@ -2548,6 +2558,16 @@
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"DP1GOS",
     "satnogs_id":"QTXY-8933-7836-7484-6250"
+  },
+  {
+    "name":"SPORT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.860",
+    "beacon":null,
+    "mode":"1k2\/9k6* BPSK",
+    "callsign":"SPORT",
+    "satnogs_id":null
   },
   {
     "name":"SPROUT",

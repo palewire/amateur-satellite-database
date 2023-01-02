@@ -27391,7 +27391,7 @@
     "norad_cat_id":99215.0,
     "norad_follow_id":null,
     "name":"EOS SAT-1",
-    "names":"",
+    "names":"EOS AgriSat-1",
     "image":"satellites\/1672151589979.jpg",
     "status":"future",
     "decayed":null,
@@ -27403,7 +27403,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-01T19:21:32.659789Z",
+    "updated":"2023-01-02T04:07:54.239886Z",
     "citation":"https:\/\/www.linkedin.com\/posts\/dragonfly-aerospace_eosabrsat-dragonflyaerospace-aerospace-activity-7013512108340330497-kNjR?utm_source=share&utm_medium=member_desktop",
     "is_frequency_violator":false,
     "associated_satellites":[

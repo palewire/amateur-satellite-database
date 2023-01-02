@@ -7128,6 +7128,17 @@
     "satnogs_id":"ZDPY-4221-9426-0630-5344"
   },
   {
+    "name":"LORIS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.165",
+    "beacon":null,
+    "mode":"19200bps GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"LO-74",
     "norad_id":"39440",
     "uplink":null,
@@ -7269,6 +7280,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"FICC-5569-8485-6311-2104"
+  },
+  {
+    "name":"MARIO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"WL2XYF",
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"MaSat-1",
@@ -11063,6 +11085,17 @@
     "mode":"1200bps AFSK",
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SPORT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.860",
+    "beacon":null,
+    "mode":"1k2\/9k6* BPSK",
+    "callsign":"SPORT",
+    "status":"active",
     "satnogs_id":null
   },
   {
