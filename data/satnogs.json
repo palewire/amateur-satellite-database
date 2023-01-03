@@ -2078,7 +2078,7 @@
     "image":"satellites\/strand1.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2013-02-25T12:31:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -2088,8 +2088,8 @@
         "decoder":"strand"
       }
     ],
-    "updated":"2021-07-21T10:11:42.111161Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-01-03T04:24:21.323362Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/strand-1.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -2946,7 +2946,7 @@
     "image":"satellites\/FUNCUBE-1.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2013-11-21T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -2954,8 +2954,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.160070Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-01-03T04:24:21.296047Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/funcube-1.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -3066,7 +3066,7 @@
     "image":"satellites\/MCUBED-2.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2013-12-05T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -3076,8 +3076,8 @@
         "decoder":"mxl"
       }
     ],
-    "updated":"2021-07-21T10:11:42.167065Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-01-03T04:24:21.265086Z",
+    "citation":"https:\/\/www.jpl.nasa.gov\/missions\/m-cubed-cove-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -12114,7 +12114,7 @@
     "image":"satellites\/grbalpha.png",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2021-03-22T06:07:00Z",
     "deployed":null,
     "website":"https:\/\/om3ksi.sk\/en\/grbalpha-en\/",
     "operator":"None",
@@ -12124,8 +12124,8 @@
         "decoder":"grbalpha"
       }
     ],
-    "updated":"2022-04-04T15:17:18.371087Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-01-03T04:24:21.351092Z",
+    "citation":"https:\/\/www.om3ksi.sk\/en\/2021\/03\/19\/do-not-miss-the-launch-of-the-second-slovak-satellite-grbalpha\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27405,6 +27405,30 @@
     ],
     "updated":"2023-01-02T04:07:54.239886Z",
     "citation":"https:\/\/www.linkedin.com\/posts\/dragonfly-aerospace_eosabrsat-dragonflyaerospace-aerospace-activity-7013512108340330497-kNjR?utm_source=share&utm_medium=member_desktop",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QTAD-9084-3962-8352-5563",
+    "norad_cat_id":44313.0,
+    "norad_follow_id":null,
+    "name":"Tianqi 3",
+    "names":"Tao Xingzhi",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-06-05T00:00:00Z",
+    "deployed":null,
+    "website":"http:\/\/www.guodiangaoke.com",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-03T08:20:10.607923Z",
+    "citation":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2019-032D",
     "is_frequency_violator":false,
     "associated_satellites":[
 
