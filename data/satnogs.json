@@ -27697,5 +27697,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"DFQT-2791-5327-1731-7261",
+    "norad_cat_id":99209.0,
+    "norad_follow_id":null,
+    "name":"EPIC CHIMERA LEO 1",
+    "names":"",
+    "image":"satellites\/Imagen_de_WhatsApp_2023-01-03_a_las_18.25.37.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T14:56:00Z",
+    "deployed":null,
+    "website":"https:\/\/epic-aerospace.com",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-04T05:56:28.360212Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/251",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

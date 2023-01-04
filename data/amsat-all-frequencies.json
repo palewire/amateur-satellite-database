@@ -7129,7 +7129,7 @@
   },
   {
     "name":"LORIS",
-    "norad_id":null,
+    "norad_id":"55124",
     "uplink":null,
     "downlink":"437.165",
     "beacon":null,
@@ -7283,7 +7283,7 @@
   },
   {
     "name":"MARIO",
-    "norad_id":null,
+    "norad_id":"55123",
     "uplink":null,
     "downlink":"437.485",
     "beacon":null,
@@ -11089,7 +11089,7 @@
   },
   {
     "name":"SPORT",
-    "norad_id":null,
+    "norad_id":"55129",
     "uplink":null,
     "downlink":"400.860",
     "beacon":null,
