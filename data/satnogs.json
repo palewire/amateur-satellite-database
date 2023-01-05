@@ -26373,7 +26373,7 @@
     ],
     "updated":"2023-01-03T14:56:28.841400Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -26409,9 +26409,9 @@
     "name":"RROCI",
     "names":"Electro Optical\/Infrared Weather System Rapid Revisit Optical Cloud Imager (EWS RROCI)",
     "image":"satellites\/RROCI.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2022-01-03T00:00:00Z",
+    "launched":"2023-01-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.orionspace.com\/",
     "operator":"None",
@@ -26419,7 +26419,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-01T16:19:08.143047Z",
+    "updated":"2023-01-04T21:06:58.075596Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2120132;sess=0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -26716,8 +26716,8 @@
   },
   {
     "sat_id":"AQMD-7020-9181-7420-6447",
-    "norad_cat_id":99241.0,
-    "norad_follow_id":55123.0,
+    "norad_cat_id":55123.0,
+    "norad_follow_id":null,
     "name":"MARIO",
     "names":"",
     "image":"satellites\/IMG_7732_FSm4cqn.jpg",
@@ -26731,7 +26731,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T20:31:25.524831Z",
+    "updated":"2023-01-04T21:32:20.488281Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27007,19 +27007,19 @@
     "norad_cat_id":99234.0,
     "norad_follow_id":55129.0,
     "name":"SPORT",
-    "names":"",
+    "names":"Scintillation Prediction Observations Research Task",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":"2022-12-29T13:55:00Z",
-    "website":"",
+    "website":"https:\/\/www.nasa.gov\/mission_pages\/sport\/index.html",
     "operator":"None",
-    "countries":"",
+    "countries":"BR,US",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T20:35:43.812146Z",
+    "updated":"2023-01-04T21:06:40.859793Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27029,7 +27029,7 @@
   {
     "sat_id":"ZCND-2493-6441-2637-5373",
     "norad_cat_id":99233.0,
-    "norad_follow_id":55124.0,
+    "norad_follow_id":55125.0,
     "name":"LORIS",
     "names":"",
     "image":"",
@@ -27043,7 +27043,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T21:14:31.624181Z",
+    "updated":"2023-01-04T22:08:30.574003Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27055,19 +27055,19 @@
     "norad_cat_id":99232.0,
     "norad_follow_id":55126.0,
     "name":"ORCASat",
-    "names":"",
+    "names":"Optical Reference Calibration Satellite",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-12-29T00:00:00Z",
     "deployed":"2022-12-29T13:45:00Z",
-    "website":"",
+    "website":"https:\/\/www.orcasat.ca\/",
     "operator":"None",
-    "countries":"",
+    "countries":"CA",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T20:54:16.748398Z",
+    "updated":"2023-01-04T21:06:33.456930Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27077,7 +27077,7 @@
   {
     "sat_id":"NAEW-9759-0504-8538-0109",
     "norad_cat_id":99230.0,
-    "norad_follow_id":55125.0,
+    "norad_follow_id":55124.0,
     "name":"NUTSat",
     "names":"BN0UT",
     "image":"",
@@ -27091,7 +27091,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T21:15:09.318816Z",
+    "updated":"2023-01-04T22:08:43.392567Z",
     "citation":"https:\/\/www.tasa.org.tw\/inprogress.php?c=20030402&ln=en",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27103,19 +27103,19 @@
     "norad_cat_id":99229.0,
     "norad_follow_id":55130.0,
     "name":"petitSat",
-    "names":"",
+    "names":"Plasma Enhancements in the Ionosphere-Thermosphere Satellite",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":"2022-12-29T13:55:00Z",
-    "website":"",
+    "website":"https:\/\/www.nasa.gov\/feature\/goddard\/2017\/nasa-team-pursues-blobs-and-bubbles-with-new-petitsat-mission\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T21:15:27.746439Z",
+    "updated":"2023-01-04T21:09:03.586698Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
