@@ -220,6 +220,16 @@
     "satnogs_id":"PPRG-8689-8762-8343-4648"
   },
   {
+    "name":"BDSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.850\/436.025",
+    "beacon":"436.025",
+    "mode":"9600bps GFSK CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BEESAT-5",
     "norad_id":"48083",
     "uplink":null,

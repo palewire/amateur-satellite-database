@@ -6984,13 +6984,13 @@
     "decayed":null,
     "launched":null,
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.planet.com\/pulse\/planet-openlst-radio-solution-for-cubesats\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.499196Z",
+    "updated":"2023-01-05T08:30:21.691761Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -17534,6 +17534,30 @@
     ]
   },
   {
+    "sat_id":"UMCX-3971-5287-7241-1183",
+    "norad_cat_id":43838.0,
+    "norad_follow_id":null,
+    "name":"Ladybird 3",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-07-12T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T08:32:15.400684Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"MNLY-9142-9092-4264-5633",
     "norad_cat_id":44312.0,
     "norad_follow_id":null,
@@ -22871,6 +22895,30 @@
     ]
   },
   {
+    "sat_id":"PGXS-0999-2535-6993-5240",
+    "norad_cat_id":48252.0,
+    "norad_follow_id":null,
+    "name":"Tianqi-9",
+    "names":"Tianqi Xingzuo 09",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-04-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T08:32:43.433366Z",
+    "citation":"https:\/\/r4uab.ru\/satellite-frequencies-band-400-403-mhz\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"CQOD-6844-7035-7264-5887",
     "norad_cat_id":51827.0,
     "norad_follow_id":null,
@@ -25203,30 +25251,6 @@
     ]
   },
   {
-    "sat_id":"VWLG-8789-9305-5015-7597",
-    "norad_cat_id":99243.0,
-    "norad_follow_id":null,
-    "name":"QBUA01",
-    "names":"",
-    "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
-    "deployed":null,
-    "website":"http:\/\/cubesat.com.ua\/en\/",
-    "operator":"None",
-    "countries":"UA",
-    "telemetries":[
-
-    ],
-    "updated":"2022-12-21T21:31:48.358027Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=885",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"NJFB-9884-9643-7739-4519",
     "norad_cat_id":99244.0,
     "norad_follow_id":null,
@@ -26363,7 +26387,7 @@
     "image":"satellites\/shs-1.webp",
     "status":"alive",
     "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
+    "launched":"2023-01-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/scanway.space\/mission\/star-vibe\/",
     "operator":"None",
@@ -26371,7 +26395,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T14:56:28.841400Z",
+    "updated":"2023-01-05T08:30:38.757664Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -27462,24 +27486,24 @@
     "sat_id":"OPLW-1406-2652-7673-4190",
     "norad_cat_id":99215.0,
     "norad_follow_id":null,
-    "name":"PolyItan HP-30",
-    "names":"",
+    "name":"QBUA01",
+    "names":"PolyItan HP-30",
     "image":"satellites\/image.webp",
     "status":"alive",
     "decayed":null,
     "launched":"2023-01-03T14:56:00Z",
     "deployed":null,
-    "website":"https:\/\/kpi.ua\/node\/19769",
+    "website":"http:\/\/cubesat.com.ua\/en\/",
     "operator":"None",
     "countries":"UA",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:12:18.441554Z",
-    "citation":"https:\/\/www.kmu.gov.ua\/en\/news\/stvorenyi-ukrainskymy-vchenymy-nanosuputnyk-polyitan-hp-30-zapustiat-na-orbitu-zemli",
+    "updated":"2023-01-05T11:06:35.042815Z",
+    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=885 and https:\/\/www.kmu.gov.ua\/en\/news\/stvorenyi-ukrainskymy-vchenymy-nanosuputnyk-polyitan-hp-30-zapustiat-na-orbitu-zemli",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "VWLG-8789-9305-5015-7597"
     ]
   },
   {
@@ -27717,6 +27741,102 @@
     ],
     "updated":"2023-01-04T05:56:28.360212Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/251",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZENY-1587-4367-2325-6527",
+    "norad_cat_id":44486.0,
+    "norad_follow_id":null,
+    "name":"Qiancheng-01",
+    "names":"Haichuang Qiangsheng",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-08-17T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T08:31:43.447296Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MMDC-8311-4724-9156-4372",
+    "norad_cat_id":44884.0,
+    "norad_follow_id":null,
+    "name":"2019-093F",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-12-20T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T08:31:35.250868Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TUAP-6249-9884-7536-7933",
+    "norad_cat_id":45941.0,
+    "norad_follow_id":null,
+    "name":"Tianqi-10",
+    "names":"Tianqi Xingzuo 10",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-07-25T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T08:31:28.535602Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GULY-0172-8360-2635-1516",
+    "norad_cat_id":52085.0,
+    "norad_follow_id":null,
+    "name":"2022-027B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-03-17T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T08:31:04.175705Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

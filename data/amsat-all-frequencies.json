@@ -1188,6 +1188,17 @@
     "satnogs_id":"PPRG-8689-8762-8343-4648"
   },
   {
+    "name":"BDSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.850\/436.025",
+    "beacon":"436.025",
+    "mode":"9600bps GFSK CW",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"BeaverCube",
     "norad_id":null,
     "uplink":null,
