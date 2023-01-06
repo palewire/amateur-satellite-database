@@ -10916,7 +10916,7 @@
     "decayed":null,
     "launched":"2020-09-28T11:20:32Z",
     "deployed":"2020-09-28T14:46:12Z",
-    "website":"https:\/\/www.space.tu-berlin.de\/menue\/research\/current_projects\/salsat\/",
+    "website":"https:\/\/www.tu.berlin\/forschen\/satellitenmission-salsat",
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
@@ -10924,7 +10924,7 @@
         "decoder":"salsat"
       }
     ],
-    "updated":"2022-01-31T19:42:55.774194Z",
+    "updated":"2023-01-06T06:58:32.770421Z",
     "citation":"https:\/\/www.space.tu-berlin.de\/menue\/research\/current_projects\/salsat\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -21815,22 +21815,22 @@
   {
     "sat_id":"URNK-8659-4002-1705-8826",
     "norad_cat_id":99369.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"SS-1",
     "names":"Surya Satellite-1",
     "image":"satellites\/SS-1.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2022-11-26T19:20:42Z",
-    "deployed":null,
+    "deployed":"2023-01-06T08:03:00Z",
     "website":"http:\/\/www.surya.ac.id\/content\/3\/90\/Tentang_Surya_Satelit_1",
     "operator":"None",
     "countries":"ID",
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T17:56:32.191747Z",
-    "citation":"-",
+    "updated":"2023-01-06T09:06:19.463918Z",
+    "citation":"https:\/\/twitter.com\/JAXA_Kiboriyo\/status\/1610910089682223104",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24750,8 +24750,8 @@
     "sat_id":"TLZR-1993-2564-0036-4315",
     "norad_cat_id":54816.0,
     "norad_follow_id":null,
-    "name":"XW-4",
-    "names":"CAS-10, HOPE-4, Macao Student Science Satellite 1, Macau Student Science Popularization Satellite No. 1",
+    "name":"CAS-10",
+    "names":"HO-119, XW-4, HOPE-4",
     "image":"satellites\/XW-4.jpg",
     "status":"alive",
     "decayed":null,
@@ -24763,7 +24763,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-22T23:22:19.853492Z",
+    "updated":"2023-01-06T06:49:22.722422Z",
     "citation":"space-track.org and network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -26885,30 +26885,6 @@
     ]
   },
   {
-    "sat_id":"HYAE-6054-8137-1918-7560",
-    "norad_cat_id":99235.0,
-    "norad_follow_id":null,
-    "name":"Pleiades Yearling",
-    "names":"",
-    "image":"satellites\/366a2e_781f0f6251424688b315404d5a077236mv2_uVlcXSp.webp",
-    "status":"future",
-    "decayed":null,
-    "launched":"2023-01-02T14:55:00Z",
-    "deployed":null,
-    "website":"https:\/\/www.broncospace.com\/proves",
-    "operator":"None",
-    "countries":"US",
-    "telemetries":[
-
-    ],
-    "updated":"2022-12-22T11:45:41.026348Z",
-    "citation":"https:\/\/www.broncospace.com\/proves",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"WRAS-5638-4914-9749-8955",
     "norad_cat_id":99236.0,
     "norad_follow_id":null,
@@ -26939,7 +26915,7 @@
     "name":"Pleiades - Sapling Sempervirens",
     "names":"",
     "image":"satellites\/366a2e_781f0f6251424688b315404d5a077236mv2_Natn98b.webp",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-01-02T14:55:00Z",
     "deployed":null,
@@ -26949,7 +26925,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-22T11:44:59.603440Z",
+    "updated":"2023-01-06T06:55:07.869080Z",
     "citation":"https:\/\/github.com\/stanford-ssi\/sapling",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28015,11 +27991,11 @@
   {
     "sat_id":"FREA-7490-5226-7970-6189",
     "norad_cat_id":99208.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"HSKSAT",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":"2023-01-06T08:47:00Z",
@@ -28029,7 +28005,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T18:03:53.799495Z",
+    "updated":"2023-01-06T09:41:11.013233Z",
     "citation":"https:\/\/twitter.com\/JAXA_Kiboriyo\/status\/1610910089682223104 and http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=534",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28039,11 +28015,11 @@
   {
     "sat_id":"EMJE-8499-0229-0902-7073",
     "norad_cat_id":99207.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"OPTIMAL-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":"2023-01-06T08:47:00Z",
@@ -28053,11 +28029,35 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T18:31:37.925486Z",
+    "updated":"2023-01-06T09:02:58.026915Z",
     "citation":"https:\/\/twitter.com\/JAXA_Kiboriyo\/status\/1610910089682223104",
     "is_frequency_violator":false,
     "associated_satellites":[
 
+    ]
+  },
+  {
+    "sat_id":"JTWO-0218-7578-7568-1991",
+    "norad_cat_id":99206.0,
+    "norad_follow_id":null,
+    "name":"Pleiades-Yearling",
+    "names":"PROVES-Yearling",
+    "image":"satellites\/Yearling_Vibe.jpg.webp",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.broncospace.com\/proves",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-06T06:56:08.960523Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "HYAE-6054-8137-1918-7560"
     ]
   }
 ]

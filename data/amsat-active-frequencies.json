@@ -226,7 +226,7 @@
     "downlink":"145.850\/436.025",
     "beacon":"436.025",
     "mode":"9600bps GFSK CW",
-    "callsign":null,
+    "callsign":"OK0BDT",
     "satnogs_id":null
   },
   {
@@ -1850,16 +1850,6 @@
     "satnogs_id":"IYPF-0390-6641-7081-7482"
   },
   {
-    "name":"LightSail-2",
-    "norad_id":"44420",
-    "uplink":null,
-    "downlink":"437.025",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"KK6HIT-10",
-    "satnogs_id":"NEYM-8143-9281-1364-3886"
-  },
-  {
     "name":"LilacSat-2",
     "norad_id":"40908",
     "uplink":"144.350\/144.390",
@@ -2818,26 +2808,6 @@
     "mode":"2400bps GMSK USP",
     "callsign":"RS8S",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
-  },
-  {
-    "name":"TBEx-A",
-    "norad_id":"44356",
-    "uplink":null,
-    "downlink":"437.485",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"KF6RFX",
-    "satnogs_id":"PYOC-7373-5476-5036-0283"
-  },
-  {
-    "name":"TBEx-B",
-    "norad_id":"44359",
-    "uplink":null,
-    "downlink":"437.485",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"KF6RFX",
-    "satnogs_id":"PHAW-0441-2366-3085-1098"
   },
   {
     "name":"TechSat-1B",

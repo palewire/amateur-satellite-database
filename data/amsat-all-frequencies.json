@@ -1194,7 +1194,7 @@
     "downlink":"145.850\/436.025",
     "beacon":"436.025",
     "mode":"9600bps GFSK CW",
-    "callsign":null,
+    "callsign":"OK0BDT",
     "status":"active",
     "satnogs_id":null
   },
@@ -7025,7 +7025,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"KK6HIT-10",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"NEYM-8143-9281-1364-3886"
   },
   {
@@ -11931,7 +11931,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"KF6RFX",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"PYOC-7373-5476-5036-0283"
   },
   {
@@ -11942,7 +11942,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"KF6RFX",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"PHAW-0441-2366-3085-1098"
   },
   {
