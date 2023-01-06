@@ -21815,7 +21815,7 @@
   {
     "sat_id":"URNK-8659-4002-1705-8826",
     "norad_cat_id":99369.0,
-    "norad_follow_id":null,
+    "norad_follow_id":25544.0,
     "name":"SS-1",
     "names":"Surya Satellite-1",
     "image":"satellites\/SS-1.jpg",
@@ -21829,7 +21829,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-15T08:57:17.063949Z",
+    "updated":"2023-01-05T17:56:32.191747Z",
     "citation":"-",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25265,7 +25265,9 @@
     "operator":"None",
     "countries":"CZ",
     "telemetries":[
-
+      {
+        "decoder":"bdsat2"
+      }
     ],
     "updated":"2023-01-03T14:51:54.223162Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=866",
@@ -26395,7 +26397,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T08:30:38.757664Z",
+    "updated":"2023-01-05T20:28:02.769001Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -26589,6 +26591,30 @@
     ],
     "updated":"2022-12-09T18:44:40.939612Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IEHB-5417-0260-8919-3237",
+    "norad_cat_id":54682.0,
+    "norad_follow_id":null,
+    "name":"New Satellite",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T16:29:09.766450Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27837,6 +27863,198 @@
     ],
     "updated":"2023-01-05T08:31:04.175705Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LOGD-4597-6059-0753-8381",
+    "norad_cat_id":54687.0,
+    "norad_follow_id":null,
+    "name":"Object F",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T16:20:01.271578Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/16",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FABK-1615-6681-6450-5201",
+    "norad_cat_id":54693.0,
+    "norad_follow_id":null,
+    "name":"OBJECT M",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T16:19:39.217241Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MGLU-7466-4589-4919-3983",
+    "norad_cat_id":52910.0,
+    "norad_follow_id":null,
+    "name":"CZ-2D R\/B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-06-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T16:19:21.890730Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BHWX-0674-2366-3522-7156",
+    "norad_cat_id":51060.0,
+    "norad_follow_id":null,
+    "name":"ETV-A1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-01-13T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T16:19:06.492688Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/20",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OZSG-9770-1606-7869-6093",
+    "norad_cat_id":52736.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 KAREN_B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-05-25T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T18:55:27.449326Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/21",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DTNB-5218-4687-2744-7140",
+    "norad_cat_id":46904.0,
+    "norad_follow_id":null,
+    "name":"Tianqi-11",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-11-07T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T18:55:40.932396Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/17OQEg-5Xnvwi1Kr85U0IUuyk0XNBCwHXizDbng-PnSs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FREA-7490-5226-7970-6189",
+    "norad_cat_id":99208.0,
+    "norad_follow_id":25544.0,
+    "name":"HSKSAT",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2023-01-06T08:47:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T18:03:53.799495Z",
+    "citation":"https:\/\/twitter.com\/JAXA_Kiboriyo\/status\/1610910089682223104 and http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=534",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EMJE-8499-0229-0902-7073",
+    "norad_cat_id":99207.0,
+    "norad_follow_id":25544.0,
+    "name":"OPTIMAL-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2023-01-06T08:47:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-05T18:31:37.925486Z",
+    "citation":"https:\/\/twitter.com\/JAXA_Kiboriyo\/status\/1610910089682223104",
     "is_frequency_violator":false,
     "associated_satellites":[
 
