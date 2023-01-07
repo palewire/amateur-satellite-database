@@ -3608,6 +3608,17 @@
     "satnogs_id":null
   },
   {
+    "name":"DANTESAT",
+    "norad_id":"55127",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknoen",
+    "satnogs_id":null
+  },
+  {
     "name":"DAVE",
     "norad_id":"43615",
     "uplink":null,
@@ -5819,6 +5830,17 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
+    "name":"HSKSAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.275\/2400.300",
+    "beacon":null,
+    "mode":null,
+    "callsign":"1k2AFSK 9k6GMSK",
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"HSU-SAT1",
     "norad_id":"53462",
     "uplink":null,
@@ -7128,6 +7150,17 @@
     "satnogs_id":"RNRA-5585-1660-1429-1830"
   },
   {
+    "name":"LORIS",
+    "norad_id":"55125",
+    "uplink":null,
+    "downlink":"437.165",
+    "beacon":null,
+    "mode":"19200bps GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"LO-19",
     "norad_id":"20442",
     "uplink":"145.840-145.900",
@@ -7137,17 +7170,6 @@
     "callsign":"LUSAT-11 12",
     "status":"inactive",
     "satnogs_id":"ZDPY-4221-9426-0630-5344"
-  },
-  {
-    "name":"LORIS",
-    "norad_id":"55124",
-    "uplink":null,
-    "downlink":"437.165",
-    "beacon":null,
-    "mode":"19200bps GMSK",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
   },
   {
     "name":"LO-74",
@@ -8459,6 +8481,17 @@
     "satnogs_id":"WPPP-5073-6177-3453-1599"
   },
   {
+    "name":"NUTSAT",
+    "norad_id":"55124",
+    "uplink":null,
+    "downlink":"436.850",
+    "beacon":null,
+    "mode":"9600bps",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Oculus-ASR",
     "norad_id":"44346",
     "uplink":null,
@@ -8514,6 +8547,17 @@
     "satnogs_id":"NRVR-2280-9172-8926-1963"
   },
   {
+    "name":"OPTIMAL-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"non-amateur",
+    "satnogs_id":null
+  },
+  {
     "name":"OPTOS",
     "norad_id":"39420",
     "uplink":null,
@@ -8556,6 +8600,17 @@
     "callsign":"RS15S",
     "status":"active",
     "satnogs_id":"OMJF-9743-1169-8966-7578"
+  },
+  {
+    "name":"ORCASAT",
+    "norad_id":"55126",
+    "uplink":null,
+    "downlink":"437.060",
+    "beacon":null,
+    "mode":"10.17kbit\/s FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"OreSat-0",
@@ -8808,6 +8863,17 @@
     "mode":"9600bps GFSK",
     "callsign":"CQ",
     "status":"non-amateur",
+    "satnogs_id":null
+  },
+  {
+    "name":"PETITSAT",
+    "norad_id":"55130",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -11539,6 +11605,17 @@
     "satnogs_id":"GJWI-0355-3023-2147-0500"
   },
   {
+    "name":"SuryaSatellite-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825\/435.825",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"SUSat",
     "norad_id":"42730",
     "uplink":null,
@@ -12365,11 +12442,11 @@
   },
   {
     "name":"TJREVERB",
-    "norad_id":null,
+    "norad_id":"55128",
     "uplink":null,
     "downlink":"145.825",
     "beacon":null,
-    "mode":"APRS",
+    "mode":null,
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
