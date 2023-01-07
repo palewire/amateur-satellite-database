@@ -1530,6 +1530,16 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
+    "name":"HSKSAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.275\/2400.300",
+    "beacon":null,
+    "mode":"1k2AFSK 9k6GMSK",
+    "callsign":"JJ2YSW",
+    "satnogs_id":null
+  },
+  {
     "name":"HSU-SAT1",
     "norad_id":"53462",
     "uplink":null,

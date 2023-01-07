@@ -3611,9 +3611,9 @@
     "name":"DANTESAT",
     "norad_id":"55127",
     "uplink":null,
-    "downlink":null,
+    "downlink":"437.600",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps GFSK",
     "callsign":null,
     "status":"unknoen",
     "satnogs_id":null
@@ -5835,9 +5835,9 @@
     "uplink":null,
     "downlink":"437.275\/2400.300",
     "beacon":null,
-    "mode":null,
-    "callsign":"1k2AFSK 9k6GMSK",
-    "status":"unknown",
+    "mode":"1k2AFSK 9k6GMSK",
+    "callsign":"JJ2YSW",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -8486,7 +8486,7 @@
     "uplink":null,
     "downlink":"436.850",
     "beacon":null,
-    "mode":"9600bps",
+    "mode":"1k2AFSK 9k6GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -8869,9 +8869,9 @@
     "name":"PETITSAT",
     "norad_id":"55130",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2273.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -11607,11 +11607,11 @@
   {
     "name":"SuryaSatellite-1",
     "norad_id":null,
-    "uplink":null,
-    "downlink":"145.825\/435.825",
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
+    "uplink":"145.825",
+    "downlink":"145.825",
+    "beacon":"435.825",
+    "mode":"APRS CW",
+    "callsign":"YH1SSS",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -12446,7 +12446,7 @@
     "uplink":null,
     "downlink":"145.825",
     "beacon":null,
-    "mode":null,
+    "mode":"1200bps AFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

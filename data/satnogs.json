@@ -19252,10 +19252,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -28058,6 +28058,30 @@
     "is_frequency_violator":false,
     "associated_satellites":[
       "HYAE-6054-8137-1918-7560"
+    ]
+  },
+  {
+    "sat_id":"GXVI-4151-4088-9560-7670",
+    "norad_cat_id":54046.0,
+    "norad_follow_id":null,
+    "name":"CZ-2D DEB",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-10-14T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-07T09:01:02.210850Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/23",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
     ]
   }
 ]
