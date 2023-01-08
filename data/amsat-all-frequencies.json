@@ -5830,6 +5830,39 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
+    "name":"HO-119",
+    "norad_id":"54816",
+    "uplink":"145.870",
+    "downlink":"435.180",
+    "beacon":null,
+    "mode":"VHF\/UHF SSB bandwidth 30kHz",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
+  },
+  {
+    "name":"HO-119",
+    "norad_id":"54816",
+    "uplink":null,
+    "downlink":"435.725",
+    "beacon":null,
+    "mode":"4K8 GMSK telemetry",
+    "callsign":"CAS10",
+    "status":"active",
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
+  },
+  {
+    "name":"HO-119",
+    "norad_id":"54816",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.575",
+    "mode":"DTMF_camera CW",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"TLZR-1993-2564-0036-4315"
+  },
+  {
     "name":"HSKSAT",
     "norad_id":null,
     "uplink":null,
@@ -11173,7 +11206,7 @@
     "mode":"1k2\/9k6* BPSK",
     "callsign":"SPORT",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"VUIJ-4442-3257-2619-1322"
   },
   {
     "name":"Sprites",
@@ -11610,7 +11643,7 @@
     "uplink":"145.825",
     "downlink":"145.825",
     "beacon":"435.825",
-    "mode":"APRS CW",
+    "mode":"1k2AFSK APRS CW",
     "callsign":"YH1SSS",
     "status":"unknown",
     "satnogs_id":null
@@ -12443,10 +12476,10 @@
   {
     "name":"TJREVERB",
     "norad_id":"55128",
-    "uplink":null,
+    "uplink":"145.825",
     "downlink":"145.825",
     "beacon":null,
-    "mode":"1200bps AFSK",
+    "mode":"1k2AFSK APRS",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
