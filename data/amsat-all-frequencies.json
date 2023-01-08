@@ -3613,9 +3613,9 @@
     "uplink":null,
     "downlink":"437.600",
     "beacon":null,
-    "mode":"9600bps GFSK",
+    "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknoen",
+    "status":"unknown",
     "satnogs_id":null
   },
   {

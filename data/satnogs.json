@@ -1136,13 +1136,13 @@
     "norad_cat_id":30776.0,
     "norad_follow_id":null,
     "name":"FALCONSAT 3",
-    "names":"",
+    "names":"PFS3",
     "image":"satellites\/FALCONSAT-3.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2007-03-09T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.amsat.org\/falconsat-3\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
@@ -1150,7 +1150,7 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2022-08-01T16:55:39.968652Z",
+    "updated":"2023-01-07T18:50:32.202122Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -6448,7 +6448,7 @@
     "norad_cat_id":42822.0,
     "norad_follow_id":null,
     "name":"BIRD-M",
-    "names":"Mazaalai NUMSAT-1",
+    "names":"Mazaalai, NUMSAT-1, JG6YJQ, BIRDS-1",
     "image":"satellites\/bird-m.jpg",
     "status":"re-entered",
     "decayed":"2019-05-23T19:05:55Z",
@@ -6456,11 +6456,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"MN",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.453889Z",
+    "updated":"2023-01-07T14:27:46.007397Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -6472,7 +6472,7 @@
     "norad_cat_id":42823.0,
     "norad_follow_id":null,
     "name":"BIRD-B",
-    "names":"BRAC Onnesha",
+    "names":"BRAC Onnesha, JG6YJS, BIRDS-1",
     "image":"satellites\/bird-b__2.jpg",
     "status":"re-entered",
     "decayed":"2019-05-23T19:11:14Z",
@@ -6480,11 +6480,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"BD",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.455759Z",
+    "updated":"2023-01-07T14:27:43.600661Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -7586,7 +7586,7 @@
     "norad_cat_id":43589.0,
     "norad_follow_id":null,
     "name":"UiTMSat-1",
-    "names":"JG6YKN\r\nBIRD-MY",
+    "names":"JG6YKN, BIRD-MY, BIRDS-2",
     "image":"satellites\/uitmsat.png",
     "status":"re-entered",
     "decayed":"2020-11-27T09:03:26Z",
@@ -7594,11 +7594,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"MY",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.563345Z",
+    "updated":"2023-01-07T14:27:50.039562Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -7610,7 +7610,7 @@
     "norad_cat_id":43590.0,
     "norad_follow_id":null,
     "name":"MAYA-1",
-    "names":"JG6YKM\r\nBIRD-PH",
+    "names":"JG6YKM, BIRD-PH, BIRDS-2",
     "image":"satellites\/maya-1.png",
     "status":"re-entered",
     "decayed":"2020-11-27T09:03:19Z",
@@ -7618,11 +7618,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"PH",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.565825Z",
+    "updated":"2023-01-07T14:27:52.186348Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -7634,7 +7634,7 @@
     "norad_cat_id":43591.0,
     "norad_follow_id":null,
     "name":"BHUTAN-1",
-    "names":"JG6YKL\r\nBIRD-BT",
+    "names":"JG6YKL, BIRD-BT, BIRDS-2",
     "image":"satellites\/Bhutan-1.png",
     "status":"re-entered",
     "decayed":"2020-11-19T09:55:42Z",
@@ -7642,11 +7642,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"BT",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.568352Z",
+    "updated":"2023-01-07T14:27:47.844227Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -9296,7 +9296,7 @@
     "norad_cat_id":44329.0,
     "norad_follow_id":null,
     "name":"Raavana-1",
-    "names":"JG6YLG",
+    "names":"JG6YLG, Bird LKA, BIRDS-3",
     "image":"",
     "status":"re-entered",
     "decayed":"2021-10-03T00:00:00Z",
@@ -9304,11 +9304,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"LK",
     "telemetries":[
 
     ],
-    "updated":"2021-10-09T01:06:52.159225Z",
+    "updated":"2023-01-07T14:27:54.058118Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -9320,7 +9320,7 @@
     "norad_cat_id":44330.0,
     "norad_follow_id":null,
     "name":"Uguisu",
-    "names":"JG6YLE",
+    "names":"JG6YLE, Bird JPN, BIRDS-3",
     "image":"",
     "status":"re-entered",
     "decayed":"2021-10-07T00:00:00Z",
@@ -9328,11 +9328,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2021-10-10T07:58:42.559660Z",
+    "updated":"2023-01-07T14:27:55.746146Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -9344,7 +9344,7 @@
     "norad_cat_id":44331.0,
     "norad_follow_id":null,
     "name":"NepaliSat-1",
-    "names":"JG6YLF",
+    "names":"JG6YLF, Bird NPL, BIRDS-3",
     "image":"",
     "status":"re-entered",
     "decayed":"2021-10-03T00:00:00Z",
@@ -9352,11 +9352,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"NP",
     "telemetries":[
 
     ],
-    "updated":"2021-10-09T01:11:12.895378Z",
+    "updated":"2023-01-07T14:27:58.291565Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -19252,10 +19252,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -25111,7 +25111,7 @@
     "norad_cat_id":99285.0,
     "norad_follow_id":54535.0,
     "name":"PEARLAFRICASAT-1",
-    "names":"",
+    "names":"BIRDS-5:",
     "image":"satellites\/PearlAfricaSat-1.jpg",
     "status":"alive",
     "decayed":null,
@@ -25123,7 +25123,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T22:34:07.244163Z",
+    "updated":"2023-01-07T14:28:34.295912Z",
     "citation":"https:\/\/twitter.com\/astro_wakata\/status\/1598614138317594624",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25135,7 +25135,7 @@
     "norad_cat_id":99286.0,
     "norad_follow_id":54536.0,
     "name":"ZIMSAT-1",
-    "names":"",
+    "names":"BIRDS-5",
     "image":"satellites\/zimsat-1.jpg",
     "status":"alive",
     "decayed":null,
@@ -25147,7 +25147,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T22:34:10.592709Z",
+    "updated":"2023-01-07T14:28:24.939833Z",
     "citation":"https:\/\/twitter.com\/astro_wakata\/status\/1598614138317594624",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25159,7 +25159,7 @@
     "norad_cat_id":99284.0,
     "norad_follow_id":54534.0,
     "name":"TAKA",
-    "names":"",
+    "names":"BIRDS-5",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -25171,7 +25171,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T22:34:03.764444Z",
+    "updated":"2023-01-07T14:28:02.346839Z",
     "citation":"https:\/\/twitter.com\/astro_wakata\/status\/1598614138317594624",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -26769,7 +26769,7 @@
     "norad_cat_id":55123.0,
     "norad_follow_id":null,
     "name":"MARIO",
-    "names":"",
+    "names":"WL2XYF",
     "image":"satellites\/IMG_7732_FSm4cqn.jpg",
     "status":"alive",
     "decayed":null,
@@ -26781,7 +26781,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-04T21:32:20.488281Z",
+    "updated":"2023-01-07T18:50:00.866434Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
