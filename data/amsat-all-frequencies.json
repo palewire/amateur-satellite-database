@@ -6486,7 +6486,7 @@
     "beacon":null,
     "mode":"9600bps 2GFSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {

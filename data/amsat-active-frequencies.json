@@ -1730,16 +1730,6 @@
     "satnogs_id":"FMZT-1887-7286-8009-2095"
   },
   {
-    "name":"JAGSAT-1",
-    "norad_id":"53771",
-    "uplink":null,
-    "downlink":"437.325",
-    "beacon":null,
-    "mode":"9600bps 2GFSK",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"JAS-2",
     "norad_id":"24278",
     "uplink":"145.900-146.000",

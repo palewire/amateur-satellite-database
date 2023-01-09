@@ -3342,7 +3342,9 @@
     "operator":"None",
     "countries":"",
     "telemetries":[
-
+      {
+        "decoder":"polyitan1"
+      }
     ],
     "updated":"2021-07-21T10:11:42.194176Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
@@ -4082,8 +4084,8 @@
     "name":"TIANWANG 1A",
     "names":"TW-1AShangkeda-2SECM",
     "image":"satellites\/TIANWANG-1A.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2022-12-30T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -4092,8 +4094,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-01T16:21:40.813858Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-01-08T15:48:32.128580Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17424,13 +17426,13 @@
     "decayed":null,
     "launched":"2019-08-17T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.adaspace.com\/",
     "operator":"None",
     "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2022-06-17T07:04:24.484004Z",
+    "updated":"2023-01-08T15:44:43.720650Z",
     "citation":"https:\/\/ucsusa.org\/sites\/default\/files\/2021-11\/UCS%20Satellite%20Database-Officialname-9-1-21_0.txt",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28355,20 +28357,20 @@
     "sat_id":"THUT-4206-9530-6933-4097",
     "norad_cat_id":43714.0,
     "norad_follow_id":null,
-    "name":"Tiamping 1B",
+    "name":"Tianping 1B",
     "names":"2018-094E",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2018-11-19T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/twitter.com\/planet4589\/status\/1064684586117054469",
     "operator":"None",
     "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2023-01-08T11:22:18.287426Z",
+    "updated":"2023-01-08T15:44:56.755925Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28380,19 +28382,19 @@
     "norad_cat_id":43099.0,
     "norad_follow_id":null,
     "name":"Superview-1 03",
-    "names":"2018-002A",
+    "names":"2018-002A, GaoJing-1 03",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2018-01-09T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"http:\/\/en.spacewillinfo.com",
     "operator":"None",
     "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2023-01-08T11:22:16.532555Z",
+    "updated":"2023-01-08T15:45:02.704755Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/10CVJTSOPrrSnughVjWkxhhJIkwcd1UIERrPkeUz0OjU\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28404,19 +28406,19 @@
     "norad_cat_id":40011.0,
     "norad_follow_id":null,
     "name":"Hodoyoshi 4",
-    "names":"2014-033B",
+    "names":"2014-033B, \"Reasonably Reliable Systems\"",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2014-06-19T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"http:\/\/park.itu.u-tokyo.ac.jp\/nsat\/",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2023-01-08T11:22:14.085321Z",
+    "updated":"2023-01-08T15:45:07.930219Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/199J0XckBjyW91HvR5tOgNVMNxrl026TiEGU8jaZpd68\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28428,19 +28430,19 @@
     "norad_cat_id":43719.0,
     "norad_follow_id":null,
     "name":"HYSIS",
-    "names":"2018-096A",
+    "names":"2018-096A, Hyperspectral Imaging Satellite",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2018-11-29T00:00:00Z",
     "deployed":null,
-    "website":"",
-    "operator":"None",
+    "website":"http:\/\/www.isro.gov.in\/mission_PSLV_C43.html",
+    "operator":"ISRO",
     "countries":"IN",
     "telemetries":[
 
     ],
-    "updated":"2023-01-08T11:22:08.310853Z",
+    "updated":"2023-01-08T15:45:19.596232Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/11_oiLEOkCk2nDYm0fhzkKfQ7nMfIHKAFqtE-FyRBDHM\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28452,19 +28454,19 @@
     "norad_cat_id":43662.0,
     "norad_follow_id":null,
     "name":"CFOSAT",
-    "names":"2018-083A",
+    "names":"2018-083A, China-France Oceanography Satellite",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2018-10-29T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"http:\/\/cfosat.cnes.fr\/en\/",
     "operator":"None",
-    "countries":"CN",
+    "countries":"CN,FR",
     "telemetries":[
 
     ],
-    "updated":"2023-01-08T11:22:00.163898Z",
+    "updated":"2023-01-08T15:45:28.579230Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1T1316NVsP_GJDRvMAe5OMQR4ArX9GcCLZVd9v3hBfw4\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
