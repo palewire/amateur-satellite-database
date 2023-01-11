@@ -18899,20 +18899,20 @@
     "sat_id":"ZNCS-9117-1208-5220-5290",
     "norad_cat_id":99457.0,
     "norad_follow_id":51008.0,
-    "name":"ETV-A1",
-    "names":"",
+    "name":"ICEYE-X16",
+    "names":"ex-ETV-A1",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
+    "website":"https:\/\/earth.esa.int\/eogateway\/missions\/iceye",
+    "operator":"ESA",
+    "countries":"FI",
     "telemetries":[
 
     ],
-    "updated":"2022-01-20T04:51:13.931035Z",
+    "updated":"2023-01-11T10:44:48.716089Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=52372.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -21817,7 +21817,7 @@
   {
     "sat_id":"URNK-8659-4002-1705-8826",
     "norad_cat_id":99369.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55181.0,
     "name":"SS-1",
     "names":"Surya Satellite-1",
     "image":"satellites\/SS-1.jpg",
@@ -21831,7 +21831,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-06T09:06:19.463918Z",
+    "updated":"2023-01-11T09:01:00.413670Z",
     "citation":"https:\/\/twitter.com\/JAXA_Kiboriyo\/status\/1610910089682223104",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27070,11 +27070,11 @@
     "deployed":"2022-12-29T13:45:00Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"CA",
     "telemetries":[
 
     ],
-    "updated":"2023-01-04T22:08:30.574003Z",
+    "updated":"2023-01-11T10:12:38.854370Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27098,8 +27098,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-04T21:06:33.456930Z",
-    "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
+    "updated":"2023-01-11T10:23:30.256851Z",
+    "citation":"Reverting identification for further investigation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27107,8 +27107,8 @@
   },
   {
     "sat_id":"NAEW-9759-0504-8538-0109",
-    "norad_cat_id":99230.0,
-    "norad_follow_id":55124.0,
+    "norad_cat_id":55124.0,
+    "norad_follow_id":null,
     "name":"NUTSat",
     "names":"BN0UT",
     "image":"",
@@ -27116,17 +27116,17 @@
     "decayed":null,
     "launched":"2022-11-26T19:20:42Z",
     "deployed":"2022-12-29T12:15:00Z",
-    "website":"",
+    "website":"https:\/\/www.tasa.org.tw\/inprogress.php?c=20030402&ln=en",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-01-04T22:08:43.392567Z",
-    "citation":"https:\/\/www.tasa.org.tw\/inprogress.php?c=20030402&ln=en",
+    "updated":"2023-01-11T09:56:21.037301Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55124\/2023-01-10T20%3A01%3A51_7004302_55124_98067UR_0-OBJECT-UR_0.20544462444444456_A_r24.0_f1.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "HZMW-6679-6164-0052-9691"
     ]
   },
   {
@@ -27996,7 +27996,7 @@
   {
     "sat_id":"FREA-7490-5226-7970-6189",
     "norad_cat_id":99208.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55182.0,
     "name":"HSKSAT",
     "names":"",
     "image":"",
@@ -28010,7 +28010,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-06T09:41:11.013233Z",
+    "updated":"2023-01-11T08:47:34.113168Z",
     "citation":"https:\/\/twitter.com\/JAXA_Kiboriyo\/status\/1610910089682223104 and http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=534",
     "is_frequency_violator":false,
     "associated_satellites":[
