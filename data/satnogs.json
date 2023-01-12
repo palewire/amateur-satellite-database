@@ -3554,15 +3554,15 @@
     "image":"satellites\/Firebird_Auto3.jpeg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2015-01-31T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.206574Z",
+    "updated":"2023-01-11T20:58:48.754322Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -3582,11 +3582,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.207959Z",
+    "updated":"2023-01-11T20:59:04.410043Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -4352,15 +4352,15 @@
     "image":"satellites\/galassia__2.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2015-12-16T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"SG",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.253466Z",
+    "updated":"2023-01-11T20:58:44.574395Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -26602,8 +26602,8 @@
     "sat_id":"IEHB-5417-0260-8919-3237",
     "norad_cat_id":54682.0,
     "norad_follow_id":null,
-    "name":"New Satellite",
-    "names":"",
+    "name":"Jilin-1 Gaofen-03D-44",
+    "names":"Tianfu Dongpo 08",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -26615,7 +26615,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T16:29:09.766450Z",
+    "updated":"2023-01-11T20:59:12.650599Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28468,6 +28468,54 @@
     ],
     "updated":"2023-01-08T15:45:28.579230Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1T1316NVsP_GJDRvMAe5OMQR4ArX9GcCLZVd9v3hBfw4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AYYU-5596-4794-5760-0603",
+    "norad_cat_id":54109.0,
+    "norad_follow_id":null,
+    "name":"Cosmos 2561",
+    "names":"2022-137A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-10-21T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-11T15:36:10.931321Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1A7wlN4dFBgbIorK-k1cOr0mcdpzbA7Jowp4BmWnOEI8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DIPJ-1621-9001-6340-0407",
+    "norad_cat_id":52420.0,
+    "norad_follow_id":null,
+    "name":"2022-047AC",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-11T20:58:34.985318Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
