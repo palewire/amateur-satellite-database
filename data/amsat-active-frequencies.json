@@ -2200,6 +2200,16 @@
     "satnogs_id":"BZWR-6172-2785-3507-5423"
   },
   {
+    "name":"NUTSAT",
+    "norad_id":"55124",
+    "uplink":null,
+    "downlink":"436.850",
+    "beacon":null,
+    "mode":"1k2*AFSK 9k6GFSK",
+    "callsign":"BN0UT",
+    "satnogs_id":"NAEW-9759-0504-8538-0109"
+  },
+  {
     "name":"OPS-SAT",
     "norad_id":"44878",
     "uplink":null,
