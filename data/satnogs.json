@@ -15309,15 +15309,15 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2020-09-28T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"LT,GB",
     "telemetries":[
 
     ],
-    "updated":"2022-06-08T19:22:11.843093Z",
+    "updated":"2023-01-14T12:02:58.647212Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25087,7 +25087,7 @@
   {
     "sat_id":"TVZK-1463-5590-8994-0377",
     "norad_cat_id":99287.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55012.0,
     "name":"Connecta T1.2",
     "names":"",
     "image":"satellites\/connecta_t.1.2.png",
@@ -25101,7 +25101,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T14:54:01.105166Z",
+    "updated":"2023-01-14T02:34:09.768406Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25271,7 +25271,7 @@
         "decoder":"bdsat2"
       }
     ],
-    "updated":"2023-01-10T07:15:43.895679Z",
+    "updated":"2023-01-14T10:00:21.164529Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=866",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25833,7 +25833,7 @@
   {
     "sat_id":"PDVW-9191-3063-9872-9368",
     "norad_cat_id":99254.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55036.0,
     "name":"Vigoride-5",
     "names":"VR-5",
     "image":"satellites\/Fi51Gc0UcAAz5N0.jpg",
@@ -25847,7 +25847,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:11:40.411435Z",
+    "updated":"2023-01-14T02:13:15.837291Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2092101;sess=0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25881,7 +25881,7 @@
   {
     "sat_id":"KCKF-9169-8304-1813-6974",
     "norad_cat_id":99256.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55037.0,
     "name":"Platform-2",
     "names":"SharedSat_2211",
     "image":"satellites\/PL2_Image.jpeg",
@@ -25895,7 +25895,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T14:53:17.340537Z",
+    "updated":"2023-01-14T02:20:19.570456Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27252,7 +27252,7 @@
   {
     "sat_id":"RJCF-5779-9216-5641-4111",
     "norad_cat_id":99224.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55012.0,
     "name":"BRO-8",
     "names":"",
     "image":"satellites\/Screenshot_2022-12-31_at_18-09-44_BRO-8-6-812x356.png_PNG_Image_812__356_pixels.png",
@@ -27266,7 +27266,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T14:54:44.921833Z",
+    "updated":"2023-01-14T02:08:19.726210Z",
     "citation":"https:\/\/unseenlabs.space\/wp-content\/uploads\/2022\/12\/Press-Release-BRO-8.pdf",
     "is_frequency_violator":false,
     "associated_satellites":[

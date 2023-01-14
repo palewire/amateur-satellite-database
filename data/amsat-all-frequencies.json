@@ -6226,6 +6226,28 @@
     "satnogs_id":null
   },
   {
+    "name":"ION-SCV 007",
+    "norad_id":"52761",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"ION-SCV 008",
+    "norad_id":"52761",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"IO-26",
     "norad_id":"22826",
     "uplink":"145.875-145.950",
