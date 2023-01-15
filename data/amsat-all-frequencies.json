@@ -1189,7 +1189,7 @@
   },
   {
     "name":"BDSat-2",
-    "norad_id":null,
+    "norad_id":"55038",
     "uplink":null,
     "downlink":"145.850\/436.025",
     "beacon":"436.025",
@@ -5871,7 +5871,7 @@
     "mode":"1k2AFSK 9k6GMSK",
     "callsign":"JJ2YSW",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"FREA-7490-5226-7970-6189"
   },
   {
     "name":"HSU-SAT1",

@@ -27995,8 +27995,8 @@
   },
   {
     "sat_id":"FREA-7490-5226-7970-6189",
-    "norad_cat_id":99208.0,
-    "norad_follow_id":55182.0,
+    "norad_cat_id":55182.0,
+    "norad_follow_id":null,
     "name":"HSKSAT",
     "names":"",
     "image":"",
@@ -28010,11 +28010,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-11T08:47:34.113168Z",
-    "citation":"https:\/\/twitter.com\/JAXA_Kiboriyo\/status\/1610910089682223104 and http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=534",
+    "updated":"2023-01-15T09:07:30.500777Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55182\/2023-01-15T02%3A42%3A13_7024829_55182_98067UZ_0-OBJECT-UZ_0.7143492529629629_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "MZOR-5449-3799-6021-6795"
     ]
   },
   {
