@@ -17131,9 +17131,9 @@
     "sat_id":"IHTV-3923-1637-0884-7272",
     "norad_cat_id":48907.0,
     "norad_follow_id":null,
-    "name":"Mandrake 2A",
-    "names":"MANDRAKE 2 ABLE",
-    "image":"satellites\/mandrake-2__1.jpg",
+    "name":"MANDRAKE 2 ABLE",
+    "names":"",
+    "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2021-06-30T00:00:00Z",
@@ -17144,8 +17144,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-21T07:28:44.672131Z",
-    "citation":"Eelke Survey",
+    "updated":"2023-01-15T23:12:33.742557Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/24",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28516,6 +28516,78 @@
     ],
     "updated":"2023-01-11T20:58:34.985318Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TXDT-0013-3741-7488-5458",
+    "norad_cat_id":54367.0,
+    "norad_follow_id":null,
+    "name":"Astrocast-0304",
+    "names":"2022-158G",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-11-26T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.astrocast.com\/",
+    "operator":"None",
+    "countries":"CH",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-15T19:34:58.502653Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ahwidPbIcHw7dpVBGTWkClI8DLEAbUnNLjhggt20rnQ\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JRGY-1674-7223-5551-1972",
+    "norad_cat_id":99205.0,
+    "norad_follow_id":null,
+    "name":"TAUSAT-2",
+    "names":"",
+    "image":"satellites\/tausat2.JPEG",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-15T20:39:40.652461Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/252",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DELH-6722-1461-1897-7938",
+    "norad_cat_id":99204.0,
+    "norad_follow_id":null,
+    "name":"Sharjahsat-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-15T23:29:51.906227Z",
+    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=739",
     "is_frequency_violator":false,
     "associated_satellites":[
 
