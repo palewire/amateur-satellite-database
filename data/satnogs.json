@@ -28575,19 +28575,43 @@
     "norad_follow_id":null,
     "name":"Sharjahsat-1",
     "names":"",
-    "image":"",
+    "image":"satellites\/cropped.jpg",
     "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.saasst.ae\/index.php\/hm\/cubesat",
     "operator":"None",
-    "countries":"",
+    "countries":"AE",
     "telemetries":[
 
     ],
-    "updated":"2023-01-15T23:29:51.906227Z",
+    "updated":"2023-01-16T21:24:36.967414Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=739",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NBWE-3907-6737-7604-3509",
+    "norad_cat_id":45602.0,
+    "norad_follow_id":null,
+    "name":"Xingyun-2 01",
+    "names":"2020-028A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-05-12T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-16T16:32:02.635858Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1sDkP6I_5YmEn9gcN2VEhK--bxvgYlHoBYfm4QIXE1nw\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
