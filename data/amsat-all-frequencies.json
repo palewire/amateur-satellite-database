@@ -13282,7 +13282,7 @@
     "uplink":"145.905",
     "downlink":"437.020",
     "beacon":null,
-    "mode":"1k2*\/9k6 BPSK FM*",
+    "mode":"1k2\/9k6* BPSK FM*",
     "callsign":"LATMOS-1",
     "status":"active",
     "satnogs_id":"VFOS-7446-8140-1963-2095"
