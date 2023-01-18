@@ -18923,7 +18923,7 @@
     "sat_id":"ALTL-1953-1156-3779-2525",
     "norad_cat_id":49322.0,
     "norad_follow_id":null,
-    "name":"HEAD-2F",
+    "name":"2021-091H",
     "names":"",
     "image":"",
     "status":"alive",
@@ -18932,12 +18932,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"NL",
+    "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T02:01:47.161776Z",
-    "citation":"https:\/\/www.ucsusa.org\/sites\/default\/files\/2022-02\/UCS-Satellite-Database-Officialname-1-1-2022.txt",
+    "updated":"2023-01-17T13:55:14.493939Z",
+    "citation":"planet4589.org\/space\/gcat\/data\/cat\/satcat.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27491,7 +27491,7 @@
   },
   {
     "sat_id":"OPLW-1406-2652-7673-4190",
-    "norad_cat_id":99215.0,
+    "norad_cat_id":99203.0,
     "norad_follow_id":null,
     "name":"QBUA01",
     "names":"PolyItan HP-30",
@@ -27506,7 +27506,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T11:06:35.042815Z",
+    "updated":"2023-01-17T21:47:02.122063Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=885 and https:\/\/www.kmu.gov.ua\/en\/news\/stvorenyi-ukrainskymy-vchenymy-nanosuputnyk-polyitan-hp-30-zapustiat-na-orbitu-zemli",
     "is_frequency_violator":false,
     "associated_satellites":[
