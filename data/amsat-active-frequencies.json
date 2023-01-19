@@ -300,6 +300,16 @@
     "satnogs_id":"IGGV-1318-5974-9239-7350"
   },
   {
+    "name":"Blue Diamond",
+    "norad_id":"42783",
+    "uplink":null,
+    "downlink":"401.150",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":"CNKC-2118-9597-8621-1044"
+  },
+  {
     "name":"BlueWalker-3",
     "norad_id":"53807",
     "uplink":null,
@@ -1440,6 +1450,16 @@
     "satnogs_id":"KGEF-8685-2681-9687-2264"
   },
   {
+    "name":"Green Diamond",
+    "norad_id":"42783",
+    "uplink":null,
+    "downlink":"401.150",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":"CNKC-2118-9597-8621-1044"
+  },
+  {
     "name":"Grizu-263A",
     "norad_id":"51025",
     "uplink":null,
@@ -2410,6 +2430,16 @@
     "satnogs_id":"ILUP-3176-4624-1525-3825"
   },
   {
+    "name":"Red Diamond",
+    "norad_id":"42783",
+    "uplink":null,
+    "downlink":"401.150",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":"CNKC-2118-9597-8621-1044"
+  },
+  {
     "name":"RESHUCUBE",
     "norad_id":"53382",
     "uplink":null,
@@ -2488,6 +2518,16 @@
     "mode":"9600bps BPSK",
     "callsign":"MXSAT-1",
     "satnogs_id":"UFIT-6008-6845-0096-1151"
+  },
+  {
+    "name":"SharjahSat-1",
+    "norad_id":"55040",
+    "uplink":null,
+    "downlink":"437.325\/2405.000",
+    "beacon":null,
+    "mode":"256\/1k2\/9k6*GMSK",
+    "callsign":"A60UOS",
+    "satnogs_id":null
   },
   {
     "name":"Siren",

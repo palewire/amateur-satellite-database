@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -25255,7 +25255,7 @@
   {
     "sat_id":"NJFB-9884-9643-7739-4519",
     "norad_cat_id":99244.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55098.0,
     "name":"BDSAT-2",
     "names":"",
     "image":"satellites\/BDSAT-1024x832.jpg",
@@ -25271,7 +25271,7 @@
         "decoder":"bdsat2"
       }
     ],
-    "updated":"2023-01-14T10:00:21.164529Z",
+    "updated":"2023-01-19T00:20:01.510736Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=866",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28548,7 +28548,7 @@
   {
     "sat_id":"JRGY-1674-7223-5551-1972",
     "norad_cat_id":99205.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55073.0,
     "name":"TAUSAT-2",
     "names":"",
     "image":"satellites\/tausat2.JPEG",
@@ -28562,7 +28562,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-15T20:39:40.652461Z",
+    "updated":"2023-01-19T08:39:28.009400Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/252",
     "is_frequency_violator":true,
     "associated_satellites":[
