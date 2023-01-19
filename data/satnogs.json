@@ -20497,12 +20497,12 @@
     "sat_id":"WXAX-6513-6135-2838-4507",
     "norad_cat_id":43835.0,
     "norad_follow_id":null,
-    "name":"Unknown Satellite - 18102E",
-    "names":"",
+    "name":"Xinjiang Jiaotong-0",
+    "names":"Tianfu Xinghe, Unknown Satellite - 18102E",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2018-12-07T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -20510,7 +20510,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T11:28:55.846252Z",
+    "updated":"2023-01-18T12:50:28.049983Z",
     "citation":"STRF Find of @cgbsat",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -25881,7 +25881,7 @@
   {
     "sat_id":"KCKF-9169-8304-1813-6974",
     "norad_cat_id":99256.0,
-    "norad_follow_id":55037.0,
+    "norad_follow_id":55067.0,
     "name":"Platform-2",
     "names":"SharedSat_2211",
     "image":"satellites\/PL2_Image.jpeg",
@@ -25895,7 +25895,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-14T02:20:19.570456Z",
+    "updated":"2023-01-18T23:55:14.369915Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27252,7 +27252,7 @@
   {
     "sat_id":"RJCF-5779-9216-5641-4111",
     "norad_cat_id":99224.0,
-    "norad_follow_id":55012.0,
+    "norad_follow_id":55011.0,
     "name":"BRO-8",
     "names":"",
     "image":"satellites\/Screenshot_2022-12-31_at_18-09-44_BRO-8-6-812x356.png_PNG_Image_812__356_pixels.png",
@@ -27266,7 +27266,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-14T02:08:19.726210Z",
+    "updated":"2023-01-18T23:46:50.461729Z",
     "citation":"https:\/\/unseenlabs.space\/wp-content\/uploads\/2022\/12\/Press-Release-BRO-8.pdf",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27516,7 +27516,7 @@
   {
     "sat_id":"NJEX-6170-8600-1975-0468",
     "norad_cat_id":99216.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55051.0,
     "name":"ION SCV-007",
     "names":"",
     "image":"",
@@ -27530,7 +27530,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:08:48.853953Z",
+    "updated":"2023-01-18T23:24:08.629062Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter-6",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27540,7 +27540,7 @@
   {
     "sat_id":"VPUU-7194-1121-2414-5647",
     "norad_cat_id":99217.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55033.0,
     "name":"ION SCV-008",
     "names":"",
     "image":"",
@@ -27554,7 +27554,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:08:36.265147Z",
+    "updated":"2023-01-18T23:32:31.626940Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter-6",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28572,7 +28572,7 @@
   {
     "sat_id":"DELH-6722-1461-1897-7938",
     "norad_cat_id":99204.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55040.0,
     "name":"Sharjahsat-1",
     "names":"",
     "image":"satellites\/cropped.jpg",
@@ -28586,7 +28586,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-16T21:24:36.967414Z",
+    "updated":"2023-01-19T00:12:19.893601Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=739",
     "is_frequency_violator":false,
     "associated_satellites":[
