@@ -1189,7 +1189,7 @@
   },
   {
     "name":"BDSat-2",
-    "norad_id":"55038",
+    "norad_id":"55098",
     "uplink":null,
     "downlink":"145.850\/436.025",
     "beacon":"436.025",
@@ -10715,13 +10715,13 @@
   },
   {
     "name":"SharjahSat-1",
-    "norad_id":"55040",
-    "uplink":null,
-    "downlink":"437.325\/2405.000",
-    "beacon":null,
-    "mode":"256\/1k2\/9k6*GMSK",
-    "callsign":"A60UOS",
-    "status":"active",
+    "norad_id":"55032",
+    "uplink":"437.325\/2405.000",
+    "downlink":null,
+    "beacon":"256\/1k2\/9k6*GMSK",
+    "mode":"A60UOS",
+    "callsign":"active",
+    "status":null,
     "satnogs_id":null
   },
   {
