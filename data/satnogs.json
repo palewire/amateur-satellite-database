@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -26385,22 +26385,22 @@
   {
     "sat_id":"LSZR-8461-9828-5431-6212",
     "norad_cat_id":99277.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55009.0,
     "name":"Star Vibe",
     "names":"",
-    "image":"satellites\/shs-1.webp",
+    "image":"satellites\/SV_animacja_4.png",
     "status":"alive",
     "decayed":null,
     "launched":"2023-01-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/scanway.space\/mission\/star-vibe\/",
     "operator":"None",
-    "countries":"PL",
+    "countries":"DE,PL",
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T20:28:02.769001Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-01-19T22:36:26.159635Z",
+    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1616198911084924965",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -28572,7 +28572,7 @@
   {
     "sat_id":"DELH-6722-1461-1897-7938",
     "norad_cat_id":99204.0,
-    "norad_follow_id":55040.0,
+    "norad_follow_id":55032.0,
     "name":"Sharjahsat-1",
     "names":"",
     "image":"satellites\/cropped.jpg",
@@ -28586,7 +28586,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-19T00:12:19.893601Z",
+    "updated":"2023-01-19T20:54:14.213619Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=739",
     "is_frequency_violator":false,
     "associated_satellites":[
