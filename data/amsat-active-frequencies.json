@@ -360,6 +360,16 @@
     "satnogs_id":"JCFO-8453-2271-5998-5795"
   },
   {
+    "name":"BRO-8",
+    "norad_id":"55011",
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-1",
     "norad_id":"43666",
     "uplink":"436.200",

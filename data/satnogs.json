@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -28683,6 +28683,54 @@
 
     ],
     "updated":"2023-01-20T22:19:26.911648Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LLCB-4532-4867-8038-3417",
+    "norad_cat_id":99201.0,
+    "norad_follow_id":null,
+    "name":"RoseyCubesat-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-02-14T00:00:00Z",
+    "deployed":null,
+    "website":"http:\/\/www.orbitalsolutions.mc\/our-satellites\/",
+    "operator":"None",
+    "countries":"MC,CH",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-21T00:44:26.274553Z",
+    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=892",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ROIC-1992-5104-6062-9006",
+    "norad_cat_id":52161.0,
+    "norad_follow_id":null,
+    "name":"ARCSAT",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"NO",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-21T09:50:21.940317Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[

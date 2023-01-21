@@ -1826,6 +1826,17 @@
     "satnogs_id":"JCFO-8453-2271-5998-5795"
   },
   {
+    "name":"BRO-8",
+    "norad_id":"55011",
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-1",
     "norad_id":"43666",
     "uplink":"436.200",
@@ -11359,6 +11370,17 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Star-Vibe",
+    "norad_id":"55009",
+    "uplink":null,
+    "downlink":"437.025",
+    "beacon":null,
+    "mode":"4k8\/9k6*GMSK",
+    "callsign":"OM9GRB",
     "status":"unknown",
     "satnogs_id":null
   },
