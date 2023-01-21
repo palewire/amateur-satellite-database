@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -25275,7 +25275,7 @@
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=866",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "WQEO-4762-7312-4169-4541"
     ]
   },
   {
@@ -28612,6 +28612,78 @@
     ],
     "updated":"2023-01-16T16:32:02.635858Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1sDkP6I_5YmEn9gcN2VEhK--bxvgYlHoBYfm4QIXE1nw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QJYY-6288-0691-3935-0959",
+    "norad_cat_id":48885.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 JACKSON",
+    "names":"LEMUR 2 140",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-20T12:36:15.955123Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YVHS-0035-1157-6068-2118",
+    "norad_cat_id":48923.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 ANNABANANA",
+    "names":"LEMUR 2 141",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-20T22:19:33.384787Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SCLE-0291-5281-1334-3408",
+    "norad_cat_id":44411.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 GREGROBINSON",
+    "names":"LEMUR 2 105",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-07-05T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-20T22:19:26.911648Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
