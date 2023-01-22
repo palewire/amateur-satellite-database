@@ -17734,7 +17734,7 @@
     "norad_cat_id":50466.0,
     "norad_follow_id":null,
     "name":"XW-3",
-    "names":"CAS-9",
+    "names":"HO-113, CAS-9",
     "image":"satellites\/cas9.png",
     "status":"alive",
     "decayed":null,
@@ -17748,7 +17748,7 @@
         "decoder":"cas9"
       }
     ],
-    "updated":"2021-12-28T13:44:32.148423Z",
+    "updated":"2023-01-21T15:17:46.632047Z",
     "citation":"https:\/\/community.libre.space\/t\/camsat-xw-3-cas-9-amateur-radio-satellite-launch-on-2021-12-26\/8727",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28731,6 +28731,30 @@
 
     ],
     "updated":"2023-01-21T09:50:21.940317Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BRDL-2278-8215-0445-5453",
+    "norad_cat_id":43561.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 TOMHENDERSON",
+    "names":"LEMUR 2 78",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-05-21T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-21T16:43:39.170466Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
