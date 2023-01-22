@@ -9207,15 +9207,26 @@
     "satnogs_id":null
   },
   {
-    "name":"PLATFORM-1",
+    "name":"Platform-1",
     "norad_id":"52770",
     "uplink":null,
     "downlink":"400.360",
     "beacon":null,
-    "mode":"4k8*\/9k6 GFSK",
+    "mode":"2k4\/4k8*\/9k6 GFSK",
     "callsign":"SS2141",
     "status":"active",
     "satnogs_id":"UIXV-7191-6999-4098-0253"
+  },
+  {
+    "name":"Platform-2",
+    "norad_id":"55067",
+    "uplink":null,
+    "downlink":"401.360",
+    "beacon":null,
+    "mode":"4800bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Pocket-PUCP",
@@ -12120,6 +12131,17 @@
     "callsign":"TAUSAT-1",
     "status":"re-entered",
     "satnogs_id":"XTLW-5364-9797-7013-2656"
+  },
+  {
+    "name":"Tausat-2",
+    "norad_id":"55073",
+    "uplink":null,
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":"TAUSAT-2",
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"TBEx-A",

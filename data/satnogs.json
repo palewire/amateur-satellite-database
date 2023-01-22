@@ -1138,10 +1138,10 @@
     "name":"FALCONSAT 3",
     "names":"PFS3",
     "image":"satellites\/FALCONSAT-3.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2007-03-09T00:00:00Z",
-    "deployed":null,
+    "deployed":"2023-01-21T13:34:20Z",
     "website":"https:\/\/www.amsat.org\/falconsat-3\/",
     "operator":"None",
     "countries":"US",
@@ -1150,8 +1150,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2023-01-07T18:50:32.202122Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-01-22T10:28:15.795146Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7061690\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25833,7 +25833,7 @@
   {
     "sat_id":"PDVW-9191-3063-9872-9368",
     "norad_cat_id":99254.0,
-    "norad_follow_id":55036.0,
+    "norad_follow_id":55056.0,
     "name":"Vigoride-5",
     "names":"VR-5",
     "image":"satellites\/Fi51Gc0UcAAz5N0.jpg",
@@ -25847,7 +25847,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-14T02:13:15.837291Z",
+    "updated":"2023-01-22T11:35:12.303571Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2092101;sess=0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -26409,7 +26409,7 @@
   {
     "sat_id":"YWEP-1897-4060-1849-8088",
     "norad_cat_id":99278.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55076.0,
     "name":"YAM-5",
     "names":"Yet Another Mission 5",
     "image":"",
@@ -26423,8 +26423,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:11:40.494464Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.msg2375103#msg2375103",
+    "updated":"2023-01-22T11:47:55.396143Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27396,7 +27396,7 @@
   {
     "sat_id":"CRQN-9332-8658-6519-0456",
     "norad_cat_id":99218.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55054.0,
     "name":"STERNULA-1",
     "names":"",
     "image":"satellites\/1666947267601.jpg",
@@ -27410,8 +27410,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:00:44.521130Z",
-    "citation":"https:\/\/www.linkedin.com\/posts\/sternula_a-big-step-was-achieved-yesterday-our-activity-6991683603004850176-kToi?utm_source=share&utm_medium=member_desktop",
+    "updated":"2023-01-22T11:46:59.060197Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27517,30 +27517,6 @@
     "sat_id":"NJEX-6170-8600-1975-0468",
     "norad_cat_id":99216.0,
     "norad_follow_id":55051.0,
-    "name":"ION SCV-007",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2023-01-03T14:56:00Z",
-    "deployed":null,
-    "website":"https:\/\/www.dorbit.space\/launch-deployment",
-    "operator":"None",
-    "countries":"IT",
-    "telemetries":[
-
-    ],
-    "updated":"2023-01-18T23:24:08.629062Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter-6",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"VPUU-7194-1121-2414-5647",
-    "norad_cat_id":99217.0,
-    "norad_follow_id":55060.0,
     "name":"ION SCV-008",
     "names":"",
     "image":"",
@@ -27554,8 +27530,32 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-20T10:28:39.921365Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter-6",
+    "updated":"2023-01-22T11:51:00.500681Z",
+    "citation":"space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VPUU-7194-1121-2414-5647",
+    "norad_cat_id":99217.0,
+    "norad_follow_id":55060.0,
+    "name":"ION SCV-007",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T14:56:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.dorbit.space\/launch-deployment",
+    "operator":"None",
+    "countries":"IT",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-22T11:51:14.099092Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28572,7 +28572,7 @@
   {
     "sat_id":"DELH-6722-1461-1897-7938",
     "norad_cat_id":99204.0,
-    "norad_follow_id":55032.0,
+    "norad_follow_id":55026.0,
     "name":"Sharjahsat-1",
     "names":"",
     "image":"satellites\/cropped.jpg",
@@ -28586,7 +28586,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-19T20:54:14.213619Z",
+    "updated":"2023-01-22T11:09:24.561914Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=739",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28755,6 +28755,54 @@
 
     ],
     "updated":"2023-01-21T16:43:39.170466Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PMJG-9202-8099-1239-0501",
+    "norad_cat_id":49772.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL-12",
+    "names":"BlackSky 12",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-12-02T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-22T10:33:54.415136Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BDTE-0354-2454-1861-6865",
+    "norad_cat_id":49773.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL-13",
+    "names":"BlackSky 13",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-12-02T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-22T10:33:49.173039Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[

@@ -2340,12 +2340,12 @@
     "satnogs_id":null
   },
   {
-    "name":"PLATFORM-1",
+    "name":"Platform-1",
     "norad_id":"52770",
     "uplink":null,
     "downlink":"400.360",
     "beacon":null,
-    "mode":"4k8*\/9k6 GFSK",
+    "mode":"2k4\/4k8*\/9k6 GFSK",
     "callsign":"SS2141",
     "satnogs_id":"UIXV-7191-6999-4098-0253"
   },
