@@ -28572,7 +28572,7 @@
   {
     "sat_id":"DELH-6722-1461-1897-7938",
     "norad_cat_id":99204.0,
-    "norad_follow_id":55026.0,
+    "norad_follow_id":55022.0,
     "name":"Sharjahsat-1",
     "names":"",
     "image":"satellites\/cropped.jpg",
@@ -28586,8 +28586,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-22T11:09:24.561914Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=739",
+    "updated":"2023-01-23T11:20:12.209747Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-6-2023-01-03-14-56-utc\/9848\/118",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28803,6 +28803,54 @@
 
     ],
     "updated":"2023-01-22T10:33:49.173039Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UFRI-5374-3756-9568-9873",
+    "norad_cat_id":44405.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 DUSTINTHEWIND",
+    "names":"LEMUR 2 102",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-07-05T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-23T11:11:35.236544Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XRSG-0596-6937-6386-7696",
+    "norad_cat_id":47511.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 RUAIRI EILIDH",
+    "names":"LEMUR 2 135",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-01-24T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-23T11:11:23.520468Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[

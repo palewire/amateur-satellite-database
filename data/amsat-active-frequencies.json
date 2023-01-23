@@ -1070,16 +1070,6 @@
     "satnogs_id":"EKKN-6409-4479-1170-0607"
   },
   {
-    "name":"FalconSAT-3",
-    "norad_id":"30776",
-    "uplink":"145.840",
-    "downlink":"435.103",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"PFS3-11 12",
-    "satnogs_id":"XKYJ-4339-8214-6490-1978"
-  },
-  {
     "name":"FEES-2",
     "norad_id":"51441",
     "uplink":null,

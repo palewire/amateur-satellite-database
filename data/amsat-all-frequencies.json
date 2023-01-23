@@ -4539,7 +4539,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"PFS3-11 12",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"XKYJ-4339-8214-6490-1978"
   },
   {
@@ -10737,7 +10737,7 @@
   },
   {
     "name":"SharjahSat-1",
-    "norad_id":"55032",
+    "norad_id":"55026",
     "uplink":"437.325\/2405.000",
     "downlink":null,
     "beacon":"256\/1k2\/9k6*GMSK",
