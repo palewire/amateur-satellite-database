@@ -28856,5 +28856,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"DFJV-3382-6994-0160-5316",
+    "norad_cat_id":99200.0,
+    "norad_follow_id":null,
+    "name":"Skif-D",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-25T10:38:15.401775Z",
+    "citation":"https:\/\/twitter.com\/cgbassa\/status\/1618012341203005441",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
   }
 ]
