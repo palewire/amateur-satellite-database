@@ -28862,11 +28862,35 @@
     "norad_cat_id":99200.0,
     "norad_follow_id":null,
     "name":"Skif-D",
-    "names":"",
+    "names":"\u0421\u043a\u0438\u0444-\u0414",
+    "image":"satellites\/1751705515_0_0_2939_1653_1920x0_80_0_0_9f94aec5f3544e3a5eeff53af8efc730.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-10-22T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-26T08:26:56.598258Z",
+    "citation":"https:\/\/twitter.com\/cgbassa\/status\/1618012341203005441 https:\/\/tass.ru\/kosmos\/16140271",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YXSW-6156-9050-0422-7769",
+    "norad_cat_id":44413.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 YNDRD",
+    "names":"LEMUR 2 106",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -28874,9 +28898,9 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-25T10:38:15.401775Z",
-    "citation":"https:\/\/twitter.com\/cgbassa\/status\/1618012341203005441",
-    "is_frequency_violator":true,
+    "updated":"2023-01-26T08:27:04.685283Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
