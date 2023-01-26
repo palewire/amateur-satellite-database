@@ -28572,7 +28572,7 @@
   {
     "sat_id":"DELH-6722-1461-1897-7938",
     "norad_cat_id":99204.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55104.0,
     "name":"Sharjahsat-1",
     "names":"",
     "image":"satellites\/cropped.jpg",
@@ -28586,7 +28586,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-23T21:20:07.448186Z",
+    "updated":"2023-01-25T15:27:58.905866Z",
     "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-6-2023-01-03-14-56-utc\/9848\/118",
     "is_frequency_violator":false,
     "associated_satellites":[
