@@ -28695,7 +28695,7 @@
     "norad_follow_id":null,
     "name":"RoseyCubesat-1",
     "names":"",
-    "image":"",
+    "image":"satellites\/satellite.jpeg",
     "status":"future",
     "decayed":null,
     "launched":"2023-02-14T00:00:00Z",
@@ -28706,7 +28706,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-21T00:44:26.274553Z",
+    "updated":"2023-01-26T16:12:08.042077Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=892",
     "is_frequency_violator":false,
     "associated_satellites":[
