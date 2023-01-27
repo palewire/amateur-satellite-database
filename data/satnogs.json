@@ -23047,8 +23047,8 @@
     "name":"JAGSAT-1",
     "names":"",
     "image":"satellites\/JagSat-1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2003-01-22T00:00:00Z",
     "launched":"2022-07-15T00:00:00Z",
     "deployed":"2022-09-06T00:00:00Z",
     "website":"https:\/\/www.jagsatmission.com\/",
@@ -23057,8 +23057,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-09-10T11:28:27.506721Z",
-    "citation":"https:\/\/mobile.twitter.com\/Nanoracks\/status\/1567118315385937922",
+    "updated":"2023-01-27T06:10:48.128048Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 

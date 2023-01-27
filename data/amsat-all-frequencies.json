@@ -7029,6 +7029,17 @@
     "satnogs_id":null
   },
   {
+    "name":"LBSat",
+    "norad_id":"23607",
+    "uplink":null,
+    "downlink":"137.955",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Lemur-2",
     "norad_id":null,
     "uplink":null,
@@ -13296,6 +13307,17 @@
     "mode":"38400bps FSK",
     "callsign":"UO121-11 12",
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"UPMSat",
+    "norad_id":"23607",
+    "uplink":null,
+    "downlink":"137.955",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
