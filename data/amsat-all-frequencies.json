@@ -1196,7 +1196,7 @@
     "mode":"9600bps GFSK CW",
     "callsign":"OK0BDT",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"NJFB-9884-9643-7739-4519"
   },
   {
     "name":"BeaverCube",
@@ -1834,7 +1834,7 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"RJCF-5779-9216-5641-4111"
   },
   {
     "name":"BSUSat-1",
@@ -10755,7 +10755,7 @@
     "mode":"A60UOS",
     "callsign":"active",
     "status":null,
-    "satnogs_id":null
+    "satnogs_id":"DELH-6722-1461-1897-7938"
   },
   {
     "name":"ShindaiSat",
@@ -11404,7 +11404,7 @@
     "mode":"4k8\/9k6*GMSK",
     "callsign":"OM9GRB",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LSZR-8461-9828-5431-6212"
   },
   {
     "name":"STARS-mother",
@@ -12152,7 +12152,7 @@
     "mode":"9600bps BPSK",
     "callsign":"TAUSAT-2",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JRGY-1674-7223-5551-1972"
   },
   {
     "name":"TBEx-A",

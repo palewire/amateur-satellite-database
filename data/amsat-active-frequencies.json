@@ -227,7 +227,7 @@
     "beacon":"436.025",
     "mode":"9600bps GFSK CW",
     "callsign":"OK0BDT",
-    "satnogs_id":null
+    "satnogs_id":"NJFB-9884-9643-7739-4519"
   },
   {
     "name":"BEESAT-5",
@@ -367,7 +367,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"RJCF-5779-9216-5641-4111"
   },
   {
     "name":"BSUSat-1",
