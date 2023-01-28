@@ -275,7 +275,7 @@
     "uplink":null,
     "downlink":"435.950",
     "beacon":null,
-    "mode":"4k8*\/9k6 mobitex GMSK",
+    "mode":"4k8*\/9k6 GMSK",
     "callsign":"DP0BEM",
     "satnogs_id":"FVTP-0768-5406-9405-1618"
   },
@@ -2120,44 +2120,14 @@
     "satnogs_id":"SVPP-9764-1942-2462-5319"
   },
   {
-    "name":"NETSAT-1",
-    "norad_id":"46506",
-    "uplink":null,
-    "downlink":"435.600",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":"DP2NSA",
-    "satnogs_id":"OZSW-9908-0796-8166-3293"
-  },
-  {
     "name":"NETSAT-2",
     "norad_id":"46507",
     "uplink":null,
     "downlink":"435.600",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":"DP2NSB",
     "satnogs_id":"DBTP-4321-2218-3495-4829"
-  },
-  {
-    "name":"NETSAT-3",
-    "norad_id":"46505",
-    "uplink":null,
-    "downlink":"435.600",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":"DP2NSC",
-    "satnogs_id":"PDZV-7495-4443-2585-1990"
-  },
-  {
-    "name":"NETSAT-4",
-    "norad_id":"46504",
-    "uplink":null,
-    "downlink":"435.600",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":"DP2NSD",
-    "satnogs_id":"KPFF-6607-7806-3530-0376"
   },
   {
     "name":"NEXUS",
@@ -3428,26 +3398,6 @@
     "mode":"UHF_CW",
     "callsign":"BJ1SO",
     "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
-    "name":"Yarilo-1",
-    "norad_id":"46490",
-    "uplink":null,
-    "downlink":"435.350",
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "satnogs_id":"NOPA-4112-5533-4054-3584"
-  },
-  {
-    "name":"Yarilo-2",
-    "norad_id":"46490",
-    "uplink":null,
-    "downlink":"435.550",
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "satnogs_id":"NOPA-4112-5533-4054-3584"
   },
   {
     "name":"YuZGU-9",

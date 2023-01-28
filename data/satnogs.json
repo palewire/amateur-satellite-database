@@ -28929,5 +28929,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RUXR-3870-3304-6679-0796",
+    "norad_cat_id":55261.0,
+    "norad_follow_id":null,
+    "name":"OBJECT P - 2023-007",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-28T11:37:48.958124Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-6-2023-01-03-14-56-utc\/9848\/134",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
