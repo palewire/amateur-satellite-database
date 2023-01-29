@@ -1067,6 +1067,17 @@
     "satnogs_id":"PEJT-8424-9765-0690-4476"
   },
   {
+    "name":"Astrocast-0304",
+    "norad_id":"54367",
+    "uplink":null,
+    "downlink":"1.531GHz",
+    "beacon":null,
+    "mode":"400bps QPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"TXDT-0013-3741-7488-5458"
+  },
+  {
     "name":"ASTROLAND-1",
     "norad_id":null,
     "uplink":"145.875",
@@ -1211,13 +1222,13 @@
   },
   {
     "name":"BeaverCube",
-    "norad_id":null,
+    "norad_id":"53770",
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.500",
     "beacon":null,
-    "mode":null,
+    "mode":"FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -2981,7 +2992,7 @@
     "satnogs_id":"KLQH-2831-9809-0755-5637"
   },
   {
-    "name":"Connecta-T1-1",
+    "name":"Connecta-T1_1",
     "norad_id":"52739",
     "uplink":null,
     "downlink":"401.525",
@@ -2990,6 +3001,17 @@
     "callsign":"CONT11",
     "status":"active",
     "satnogs_id":"RLGA-3050-8635-4193-2562"
+  },
+  {
+    "name":"Connecta-T1_2",
+    "norad_id":"55012",
+    "uplink":null,
+    "downlink":"401.525",
+    "beacon":null,
+    "mode":"4800bps GFSK",
+    "callsign":"CONT12",
+    "status":"active",
+    "satnogs_id":"TVZK-1463-5590-8994-0377"
   },
   {
     "name":"COPPER",
@@ -6304,25 +6326,25 @@
   },
   {
     "name":"ION-SCV 007",
-    "norad_id":"52761",
+    "norad_id":"55060",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
+    "status":"active",
+    "satnogs_id":"VPUU-7194-1121-2414-5647"
   },
   {
     "name":"ION-SCV 008",
-    "norad_id":"52761",
+    "norad_id":"55051",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
+    "status":"active",
+    "satnogs_id":"NJEX-6170-8600-1975-0468"
   },
   {
     "name":"IO-26",

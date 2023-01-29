@@ -730,7 +730,7 @@
     "satnogs_id":"KHIK-6754-7801-4022-8938"
   },
   {
-    "name":"Connecta-T1-1",
+    "name":"Connecta-T1_1",
     "norad_id":"52739",
     "uplink":null,
     "downlink":"401.525",
@@ -738,6 +738,16 @@
     "mode":"9600bps GMSK",
     "callsign":"CONT11",
     "satnogs_id":"RLGA-3050-8635-4193-2562"
+  },
+  {
+    "name":"Connecta-T1_2",
+    "norad_id":"55012",
+    "uplink":null,
+    "downlink":"401.525",
+    "beacon":null,
+    "mode":"4800bps GFSK",
+    "callsign":"CONT12",
+    "satnogs_id":"TVZK-1463-5590-8994-0377"
   },
   {
     "name":"CO-55",
@@ -1658,6 +1668,26 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "satnogs_id":"FBKO-0367-5082-1850-6466"
+  },
+  {
+    "name":"ION-SCV 007",
+    "norad_id":"55060",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":"VPUU-7194-1121-2414-5647"
+  },
+  {
+    "name":"ION-SCV 008",
+    "norad_id":"55051",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":"NJEX-6170-8600-1975-0468"
   },
   {
     "name":"IO-86",

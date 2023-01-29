@@ -28939,15 +28939,15 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-01-15T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2023-01-28T11:37:48.958124Z",
+    "updated":"2023-01-29T10:06:15.556462Z",
     "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-6-2023-01-03-14-56-utc\/9848\/134",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28963,15 +28963,15 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-11-26T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"IN",
     "telemetries":[
 
     ],
-    "updated":"2023-01-28T15:11:53.103312Z",
+    "updated":"2023-01-29T10:06:07.709549Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28987,16 +28987,88 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-02-27T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2023-01-28T15:27:58.398295Z",
+    "updated":"2023-01-29T10:06:21.110939Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YLTK-3147-4578-6192-2704",
+    "norad_cat_id":46612.0,
+    "norad_follow_id":null,
+    "name":"Flock 4V 20",
+    "names":"2020-061BJ",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-09-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-29T10:05:56.850937Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Q4wCaARd6bwEATgfFEsxWL6YYqKu06WDSb69lKnfLFg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NWKD-9025-0576-4214-2642",
+    "norad_cat_id":44814.0,
+    "norad_follow_id":null,
+    "name":"Flock 4P 1",
+    "names":"2019-081L",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-11-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-29T10:05:51.913575Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Q4wCaARd6bwEATgfFEsxWL6YYqKu06WDSb69lKnfLFg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NSIA-3525-8055-9033-7864",
+    "norad_cat_id":44811.0,
+    "norad_follow_id":null,
+    "name":"Flock 4P 4",
+    "names":"2019-081H",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-11-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-29T10:05:46.812061Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Q4wCaARd6bwEATgfFEsxWL6YYqKu06WDSb69lKnfLFg\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
