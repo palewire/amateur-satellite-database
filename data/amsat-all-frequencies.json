@@ -8548,11 +8548,22 @@
   },
   {
     "name":"NSLSat-1",
-    "norad_id":null,
+    "norad_id":"44391",
     "uplink":null,
-    "downlink":"~401\/~2200",
+    "downlink":"401.200",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"ZTQP-4601-1879-5083-5831"
+  },
+  {
+    "name":"NSLSat-2",
+    "norad_id":"55067",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -9274,7 +9285,7 @@
   },
   {
     "name":"Platform-2",
-    "norad_id":"55067",
+    "norad_id":null,
     "uplink":null,
     "downlink":"401.360",
     "beacon":null,

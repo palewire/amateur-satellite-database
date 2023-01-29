@@ -28953,5 +28953,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RWJT-2508-8726-3708-7733",
+    "norad_cat_id":54366.0,
+    "norad_follow_id":null,
+    "name":"ANAND",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-28T15:11:53.103312Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SXYS-2180-8616-7867-1442",
+    "norad_cat_id":51832.0,
+    "norad_follow_id":null,
+    "name":"OBJECT J - 2022-019",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-28T15:27:58.398295Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
