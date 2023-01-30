@@ -858,14 +858,36 @@
     "satnogs_id":null
   },
   {
-    "name":"ARCE-1A\/1B\/1C",
+    "name":"ARCE-1A",
     "norad_id":null,
     "uplink":null,
     "downlink":"2417.000\/2449.2815",
     "beacon":null,
     "mode":"BPSK QPSK FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"ARCE-1B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2417.000\/2449.2815",
+    "beacon":null,
+    "mode":"BPSK QPSK FSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"ARCE-1C",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2417.000\/2449.2815",
+    "beacon":null,
+    "mode":"BPSK QPSK FSK",
+    "callsign":null,
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -1139,6 +1161,17 @@
     "downlink":"437.475",
     "beacon":null,
     "mode":"1200bps AFSK CW",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"Aurora",
+    "norad_id":"48956",
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"FM",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":null
@@ -2860,6 +2893,17 @@
     "satnogs_id":"WWFS-5618-7245-9667-1046"
   },
   {
+    "name":"Challenger",
+    "norad_id":"51073",
+    "uplink":null,
+    "downlink":"401.300",
+    "beacon":null,
+    "mode":"2400bps AFSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
     "name":"ChargerSat-1",
     "norad_id":"39405",
     "uplink":null,
@@ -3499,13 +3543,13 @@
   },
   {
     "name":"CubeSail-1\/2",
-    "norad_id":null,
+    "norad_id":"43851",
     "uplink":null,
     "downlink":"437.305\/437.505",
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -3548,6 +3592,17 @@
     "downlink":"437.505",
     "beacon":"437.505",
     "mode":"9600bps GMSK CW",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"CuPID",
+    "norad_id":"49264",
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"38k4 GFSK",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":null
@@ -3675,7 +3730,7 @@
   },
   {
     "name":"D3",
-    "norad_id":null,
+    "norad_id":"53769",
     "uplink":null,
     "downlink":"437.080\/2432.000",
     "beacon":null,
@@ -3848,6 +3903,17 @@
     "callsign":"JQ1ZNN",
     "status":"deep space",
     "satnogs_id":null
+  },
+  {
+    "name":"DEWA-Sat1",
+    "norad_id":"50989",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"VNEP-7767-9055-3195-4316"
   },
   {
     "name":"DHABISAT",
@@ -4148,14 +4214,14 @@
   },
   {
     "name":"D-Star ONE EXOCONNECT",
-    "norad_id":"44413",
+    "norad_id":"44410",
     "uplink":null,
     "downlink":"435.700",
     "beacon":null,
     "mode":"4k8*\/9k6 GMSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":"YXSW-6156-9050-0422-7769"
+    "satnogs_id":null
   },
   {
     "name":"D-Star ONE iSat",
@@ -4291,14 +4357,14 @@
   },
   {
     "name":"Ecuador-UTE",
-    "norad_id":null,
+    "norad_id":"44419",
     "uplink":null,
-    "downlink":"437.050",
-    "beacon":null,
-    "mode":"1k2 AFSK SSTV CW",
+    "downlink":null,
+    "beacon":"437.050",
+    "mode":"CW",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"FLRT-9057-4077-2524-9105"
   },
   {
     "name":"EDGECUBE",
@@ -4455,6 +4521,17 @@
     "satnogs_id":"SABJ-3457-7659-3993-3753"
   },
   {
+    "name":"ESAIL",
+    "norad_id":"46273",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"ESEO",
     "norad_id":"43792",
     "uplink":"1263.500",
@@ -4522,14 +4599,14 @@
   },
   {
     "name":"EXOCONNECT",
-    "norad_id":"44413",
+    "norad_id":"44410",
     "uplink":null,
     "downlink":"435.700",
     "beacon":null,
     "mode":"4k8*\/9k6 GMSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":"YXSW-6156-9050-0422-7769"
+    "satnogs_id":null
   },
   {
     "name":"ExoCube-1",
@@ -4555,13 +4632,13 @@
   },
   {
     "name":"ExseedSat-1",
-    "norad_id":null,
+    "norad_id":"43775",
     "uplink":"435.340",
     "downlink":"145.900",
     "beacon":null,
     "mode":"FM CTCSS 67.0Hz",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -4801,7 +4878,7 @@
     "uplink":null,
     "downlink":"436.700\/436.800",
     "beacon":"436.800",
-    "mode":"125k Lora 9k6GMSK CW",
+    "mode":"125k LoRa 9k6GMSK CW",
     "callsign":null,
     "status":"failure",
     "satnogs_id":null
@@ -4812,7 +4889,7 @@
     "uplink":null,
     "downlink":"436.700\/436.800",
     "beacon":"436.800",
-    "mode":"125k Lora 9k6GMSK CW",
+    "mode":"125k LoRa 9k6GMSK CW",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":null
@@ -4823,7 +4900,7 @@
     "uplink":null,
     "downlink":"436.700\/436.900",
     "beacon":"436.900",
-    "mode":"125k Lora 9k6GMSK CW",
+    "mode":"125k LoRa 9k6GMSK CW",
     "callsign":null,
     "status":"failure",
     "satnogs_id":null
@@ -5456,6 +5533,17 @@
     "satnogs_id":null
   },
   {
+    "name":"GHRCESAT",
+    "norad_id":"47718",
+    "uplink":null,
+    "downlink":"436.000",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
     "name":"Goliat",
     "norad_id":"38080",
     "uplink":null,
@@ -5519,6 +5607,17 @@
     "mode":null,
     "callsign":null,
     "status":"non-amateur",
+    "satnogs_id":null
+  },
+  {
+    "name":"Gossamer Piccolomini",
+    "norad_id":"50993",
+    "uplink":null,
+    "downlink":"915.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -6017,6 +6116,17 @@
     "satnogs_id":"RPKQ-8508-2351-2344-0188"
   },
   {
+    "name":"HYPSO-1",
+    "norad_id":"51072",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
     "name":"ICEcube-1",
     "norad_id":null,
     "uplink":null,
@@ -6047,6 +6157,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"ICEYE-X16",
+    "norad_id":"51008",
+    "uplink":null,
+    "downlink":"401.250",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -6699,6 +6820,17 @@
     "satnogs_id":null
   },
   {
+    "name":"JITSAT",
+    "norad_id":"47716",
+    "uplink":null,
+    "downlink":"437.500",
+    "beacon":null,
+    "mode":"1100bps AM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
     "name":"JO-97",
     "norad_id":"43803",
     "uplink":"435.100-435.120",
@@ -6909,13 +7041,13 @@
   },
   {
     "name":"KNACKSAT",
-    "norad_id":null,
+    "norad_id":"43761",
     "uplink":null,
     "downlink":"435.635",
     "beacon":"435.635",
     "mode":"1k2\/9k6 GFSK CW",
     "callsign":"HS0K",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -7071,6 +7203,17 @@
     "callsign":"KK4AJJ",
     "status":"inactive",
     "satnogs_id":"KMOS-8479-8668-2060-1108"
+  },
+  {
+    "name":"LabSat",
+    "norad_id":"51086",
+    "uplink":null,
+    "downlink":"401.100",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
   },
   {
     "name":"LAICE-1",
@@ -7601,6 +7744,39 @@
     "satnogs_id":"SSBD-3811-5706-8042-1219"
   },
   {
+    "name":"MDASat-1A",
+    "norad_id":"50995",
+    "uplink":null,
+    "downlink":"401.075",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"MDASat-1B",
+    "norad_id":"51072",
+    "uplink":null,
+    "downlink":"401.075",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"MDASat-1C",
+    "norad_id":"51038",
+    "uplink":null,
+    "downlink":"401.075",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
     "name":"Mea Huaka'i Voyager",
     "norad_id":null,
     "uplink":null,
@@ -7910,13 +8086,13 @@
   },
   {
     "name":"MTCube",
-    "norad_id":null,
+    "norad_id":"44399",
     "uplink":null,
     "downlink":"436.750",
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8151,6 +8327,17 @@
     "satnogs_id":"NNNQ-5861-2134-5231-3624"
   },
   {
+    "name":"Neptuno",
+    "norad_id":"48966",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"NETSAT-1",
     "norad_id":"46506",
     "uplink":null,
@@ -8247,6 +8434,17 @@
     "mode":"1200bps FM USB",
     "callsign":null,
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"NMTSat",
+    "norad_id":"43851",
+    "uplink":null,
+    "downlink":"148.800",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8666,6 +8864,17 @@
     "callsign":"BN0UT",
     "status":"active",
     "satnogs_id":"NAEW-9759-0504-8538-0109"
+  },
+  {
+    "name":"NuX-1",
+    "norad_id":"51073",
+    "uplink":null,
+    "downlink":"437.650",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Oculus-ASR",
@@ -9218,6 +9427,28 @@
     "satnogs_id":null
   },
   {
+    "name":"PIC-A",
+    "norad_id":"47317",
+    "uplink":null,
+    "downlink":"903.800",
+    "beacon":null,
+    "mode":"19200bps GMSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"PIC-B",
+    "norad_id":"47318",
+    "uplink":null,
+    "downlink":"903.800",
+    "beacon":null,
+    "mode":"19200bps GMSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
     "name":"PicoDragon",
     "norad_id":"39413",
     "uplink":null,
@@ -9263,13 +9494,13 @@
   },
   {
     "name":"PION-BR1",
-    "norad_id":null,
+    "norad_id":"50984",
     "uplink":null,
     "downlink":"437.300",
     "beacon":null,
-    "mode":"1k2\/9k6 GFSK",
+    "mode":"1200bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -10748,14 +10979,14 @@
   },
   {
     "name":"SeeMe",
-    "norad_id":null,
+    "norad_id":"43758",
     "uplink":null,
     "downlink":"437.425\/2425.000",
     "beacon":"437.450",
     "mode":"CW",
     "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
+    "status":"inactive",
+    "satnogs_id":"XQNL-8221-6393-9116-3452"
   },
   {
     "name":"SelfieSat",
@@ -10855,6 +11086,17 @@
     "callsign":"JG6YIG",
     "status":"deep space",
     "satnogs_id":"MZIS-9467-7863-2777-4468"
+  },
+  {
+    "name":"SIGMA",
+    "norad_id":"43134",
+    "uplink":null,
+    "downlink":"435.780",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
   },
   {
     "name":"SIMBA",
@@ -11297,6 +11539,17 @@
     "satnogs_id":"HJRR-9275-8249-4532-6532"
   },
   {
+    "name":"SPACEHAUC-1",
+    "norad_id":"49277",
+    "uplink":null,
+    "downlink":"437.500",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
     "name":"SpaceTuna-1",
     "norad_id":"54537",
     "uplink":null,
@@ -11306,6 +11559,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
+  },
+  {
+    "name":"SPARTAN",
+    "norad_id":"48912",
+    "uplink":null,
+    "downlink":"400.360",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"UBOY-6066-4647-0497-6247"
   },
   {
     "name":"Sparrow",
@@ -11334,6 +11598,17 @@
     "norad_id":"40314",
     "uplink":null,
     "downlink":"437.230",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"SPiN-1",
+    "norad_id":"52743",
+    "uplink":null,
+    "downlink":"401.000",
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
@@ -11447,6 +11722,17 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":"SSETI1",
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"SSIETSAT",
+    "norad_id":"47717",
+    "uplink":null,
+    "downlink":"436.000",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
     "status":"inactive",
     "satnogs_id":null
   },
@@ -11658,6 +11944,61 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"DEWF-1046-6893-9152-7508"
+  },
+  {
+    "name":"STORK-1",
+    "norad_id":"51087",
+    "uplink":null,
+    "downlink":"401.100",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"STORK-2",
+    "norad_id":"51088",
+    "uplink":null,
+    "downlink":"401.100",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"STORK-3",
+    "norad_id":"51098",
+    "uplink":null,
+    "downlink":"401.100",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"JWSU-6284-1667-7528-7658"
+  },
+  {
+    "name":"STORK-4",
+    "norad_id":"48873",
+    "uplink":null,
+    "downlink":"401.100",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"STORK-5",
+    "norad_id":"48872",
+    "uplink":null,
+    "downlink":"401.100",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"HZZT-8310-6183-6672-9088"
   },
   {
     "name":"STRaND-1",
@@ -11889,6 +12230,17 @@
     "callsign":"SR9SAT-6",
     "status":"re-entered",
     "satnogs_id":"WNFU-3656-0141-2047-7780"
+  },
+  {
+    "name":"SW1FT",
+    "norad_id":"50993",
+    "uplink":null,
+    "downlink":"401.025",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
   },
   {
     "name":"SwissCube-1",
@@ -12189,13 +12541,13 @@
   },
   {
     "name":"TartanArtibeus-1",
-    "norad_id":null,
+    "norad_id":"51078",
     "uplink":null,
-    "downlink":"437.170",
+    "downlink":"401.820",
     "beacon":null,
-    "mode":"3000bps FSK",
+    "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -13608,14 +13960,14 @@
   },
   {
     "name":"VisionCube",
-    "norad_id":null,
+    "norad_id":"43758",
     "uplink":null,
     "downlink":"437.425",
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
     "status":"unkown",
-    "satnogs_id":null
+    "satnogs_id":"XQNL-8221-6393-9116-3452"
   },
   {
     "name":"Vizard",
@@ -13663,14 +14015,47 @@
   },
   {
     "name":"VO-96",
-    "norad_id":"43758",
+    "norad_id":"43775",
     "uplink":"435.340",
     "downlink":"145.900",
     "beacon":null,
     "mode":"FM CTCSS 67.0Hz",
     "callsign":null,
-    "status":"unknown",
-    "satnogs_id":"XQNL-8221-6393-9116-3452"
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"VR3X-A",
+    "norad_id":"47463",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"915.600",
+    "mode":"CW",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"VR3X-B",
+    "norad_id":"47467",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"915.600",
+    "mode":"CW",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"VR3X-C",
+    "norad_id":"47524",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"915.600",
+    "mode":"CW",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
   },
   {
     "name":"VZLUsat-1",

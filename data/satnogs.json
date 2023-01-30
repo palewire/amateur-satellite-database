@@ -26557,18 +26557,18 @@
     "norad_follow_id":null,
     "name":"CAS-5A",
     "names":"FO-118, Fengtai-OSCAR 118, CAMSAT",
-    "image":"",
+    "image":"satellites\/CAS-5A_\u56fe4_AaG5mO1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2022-12-09T06:35:00Z",
     "deployed":"2022-12-09T06:35:00Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2022-12-16T11:15:34.344562Z",
+    "updated":"2023-01-29T18:20:00.071158Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-54684\/2022-12-16T00%3A32%3A02_6877987_54684_22167C_0-OBJECT-C_0.07271587037035943_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -29069,6 +29069,30 @@
     ],
     "updated":"2023-01-29T10:05:46.812061Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1Q4wCaARd6bwEATgfFEsxWL6YYqKu06WDSb69lKnfLFg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GPNM-8103-3073-8250-1313",
+    "norad_cat_id":47529.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 CHANTAL",
+    "names":"LEMUR 2 130",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-01-24T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-29T21:16:07.580312Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
