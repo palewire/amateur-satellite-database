@@ -29097,5 +29097,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"UOHM-4797-2923-5579-7664",
+    "norad_cat_id":55133.0,
+    "norad_follow_id":null,
+    "name":"Object A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-30T13:36:43.071995Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/25",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
