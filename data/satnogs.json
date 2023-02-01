@@ -28585,7 +28585,9 @@
     "operator":"None",
     "countries":"AE",
     "telemetries":[
-
+      {
+        "decoder":"sharjahsat1"
+      }
     ],
     "updated":"2023-01-27T16:30:37.706771Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55104\/2023-01-26T19%3A50%3A05_7077826_55104_23001CZ_0-SHARJAHSAT-1_0.004999139259258101_B_r29.0_f0.0.png",
@@ -28705,7 +28707,9 @@
     "operator":"None",
     "countries":"MC,CH",
     "telemetries":[
-
+      {
+        "decoder":"roseycubesat1"
+      }
     ],
     "updated":"2023-01-26T16:12:08.042077Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=892",
