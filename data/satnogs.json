@@ -27052,10 +27052,10 @@
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55129\/2023-01-08T08%3A24%3A20_6993313_55129_98067UW_0-OBJECT-UW_0.8485008414814814_B_r38.5_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "SJUP-0567-6490-7403-5685",
-      "RKKL-2156-2467-5303-5398",
       "FFPU-7689-6684-1959-2893",
-      "XZTP-9500-4625-9997-1830"
+      "SJUP-0567-6490-7403-5685",
+      "XZTP-9500-4625-9997-1830",
+      "RKKL-2156-2467-5303-5398"
     ]
   },
   {
@@ -29213,6 +29213,30 @@
     ],
     "updated":"2023-01-31T10:41:05.577035Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ONCF-0266-3073-1847-3154",
+    "norad_cat_id":54373.0,
+    "norad_follow_id":null,
+    "name":"OBJECT B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-11-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-01-31T16:24:21.947230Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/28",
     "is_frequency_violator":false,
     "associated_satellites":[
 
