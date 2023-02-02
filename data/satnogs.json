@@ -28864,7 +28864,7 @@
   },
   {
     "sat_id":"DFJV-3382-6994-0160-5316",
-    "norad_cat_id":99200.0,
+    "norad_cat_id":54153.0,
     "norad_follow_id":null,
     "name":"Skif-D",
     "names":"\u0421\u043a\u0438\u0444-\u0414",
@@ -28879,7 +28879,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-26T08:26:56.598258Z",
+    "updated":"2023-02-02T08:00:58.966572Z",
     "citation":"https:\/\/twitter.com\/cgbassa\/status\/1618012341203005441 https:\/\/tass.ru\/kosmos\/16140271",
     "is_frequency_violator":true,
     "associated_satellites":[

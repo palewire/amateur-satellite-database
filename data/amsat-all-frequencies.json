@@ -9538,7 +9538,7 @@
   },
   {
     "name":"Platform-2",
-    "norad_id":null,
+    "norad_id":"55067",
     "uplink":null,
     "downlink":"401.360",
     "beacon":null,
@@ -9579,6 +9579,17 @@
     "callsign":"QBUA01",
     "status":"re-entered",
     "satnogs_id":"ABDZ-2534-3699-5764-1439"
+  },
+  {
+    "name":"PolyITAN-HP-30",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.600",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Polytech_Universe-1",
@@ -9854,6 +9865,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"LBKP-1756-4543-6904-4177"
+  },
+  {
+    "name":"QBUA01",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.600",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"QIKCOM-1",
