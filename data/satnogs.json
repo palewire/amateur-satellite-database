@@ -29226,12 +29226,60 @@
     "sat_id":"ONCF-0266-3073-1847-3154",
     "norad_cat_id":54373.0,
     "norad_follow_id":null,
-    "name":"OBJECT B",
+    "name":"MP42",
+    "names":"Object N",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"LT",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T16:37:49.800146Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/29",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RGOT-7566-7340-2860-2308",
+    "norad_cat_id":49387.0,
+    "norad_follow_id":null,
+    "name":"SDGSAT 1",
+    "names":"2021-100A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-11-05T00:00:00Z",
+    "deployed":"2021-11-05T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T13:00:17.261247Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ZBA3NzFTOe9fKosHMvHQ39Bj5q3lFOpFJa_o-WLADTo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SISM-0396-9850-6245-5319",
+    "norad_cat_id":46469.0,
+    "norad_follow_id":null,
+    "name":"2020-066A",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2022-11-27T00:00:00Z",
+    "launched":"2020-09-21T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -29239,8 +29287,296 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-31T16:24:21.947230Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/28",
+    "updated":"2023-02-02T13:00:11.736911Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/13xfkUcI8Lc50B_fhBSXaPLYbEm6gI_TVTkSwfb3-3Zs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BGTX-8905-0308-9012-6074",
+    "norad_cat_id":54020.0,
+    "norad_follow_id":null,
+    "name":"Centispace-1 S5",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-10-07T00:00:00Z",
+    "deployed":"2022-10-07T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T13:00:06.354616Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1fJjg_uU2hpTlLoHdTiFOJzVjpgHUxAN6wGc6Sm4YFe0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WAWX-9857-7939-2112-6410",
+    "norad_cat_id":53346.0,
+    "norad_follow_id":null,
+    "name":"Object A",
+    "names":"2022-090A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-08-04T00:00:00Z",
+    "deployed":"2022-08-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:59:59.679041Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1YPULX4mUgghqWedizp6a6YBB6OED4YfcETsvkIFXfN8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DJPL-9312-2705-7289-8279",
+    "norad_cat_id":43609.0,
+    "norad_follow_id":null,
+    "name":"HAIYANG 1C",
+    "names":"2018-068A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-09-07T00:00:00Z",
+    "deployed":"2018-09-07T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:59:54.343153Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Wuml7zPMOEtdtKrVw0bl0hcwIBkXoSQpxy0_-zKz4vs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XKOT-2810-1157-1690-8027",
+    "norad_cat_id":52196.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL-18",
+    "names":"2022-034B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-04-02T00:00:00Z",
+    "deployed":"2022-04-02T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:59:49.547535Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1khtMcIoATp1Yt2_DR5BM6FRXjV99UZxRjGPPatUq95A\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YZFO-5574-2504-8750-3261",
+    "norad_cat_id":48621.0,
+    "norad_follow_id":null,
+    "name":"HAIANG 2D",
+    "names":"2021-043A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-05-19T00:00:00Z",
+    "deployed":"2021-05-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:59:43.185077Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1uqSG-Sr3B9-Mh7X3nmYez_PH4BMsf4MEP_nXMmpLbjo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DQVU-4098-8246-1145-3803",
+    "norad_cat_id":42837.0,
+    "norad_follow_id":null,
+    "name":"Lemur-2 42",
+    "names":"2017-042N",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-07-14T00:00:00Z",
+    "deployed":"2017-07-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:59:37.311907Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/13pZ-Y5ktTVsjwrt8HCy_5Bx98REVtzflpTqeVS4XUPo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WYUP-8723-3132-6983-2409",
+    "norad_cat_id":41727.0,
+    "norad_follow_id":null,
+    "name":"Gaofen 3",
+    "names":"2016-049A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2016-08-09T00:00:00Z",
+    "deployed":"2016-08-09T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:59:31.212978Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1FdWndQyuYKomGMzjb0fM-nOvhq2H3VssDV_VtFe_XA8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DAEF-9355-0391-9726-6502",
+    "norad_cat_id":44785.0,
+    "norad_follow_id":null,
+    "name":"KL-Alpha A",
+    "names":"2019-077A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-11-17T00:00:00Z",
+    "deployed":"2019-11-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:59:23.503946Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1b7cdgXxVH4YtmLb7j0OTpeqbFe1cK_iIkhHJdNfL_Dk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TJGU-8129-0720-2312-3974",
+    "norad_cat_id":38860.0,
+    "norad_follow_id":null,
+    "name":"SJ-9A",
+    "names":"2012-056A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2012-10-14T00:00:00Z",
+    "deployed":"2012-10-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:59:15.455576Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1lBqVMw5PhWRclnOTps5ixyrR3tZz4aHcMr9xHHgh6OY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QFGP-7469-6688-7713-9915",
+    "norad_cat_id":33408.0,
+    "norad_follow_id":null,
+    "name":"SJ-6E",
+    "names":"2008-053A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2008-10-25T00:00:00Z",
+    "deployed":"2008-10-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:59:07.094881Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1AT0EgUqvEEWvgBWLurusBYCeBpuTKarIgoHyoCebILI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KWVN-4203-7196-0721-6330",
+    "norad_cat_id":41898.0,
+    "norad_follow_id":null,
+    "name":"Tansat",
+    "names":"2016-081A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2016-12-21T00:00:00Z",
+    "deployed":"2016-12-21T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:58:58.568530Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/13HOzb599vwkWF2SrbJKGVsDKAtA54KDdU-MUdlBHnYA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ILCN-9413-1654-5495-0334",
+    "norad_cat_id":45721.0,
+    "norad_follow_id":null,
+    "name":"Hayang 1D",
+    "names":"2020-036A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-06-10T00:00:00Z",
+    "deployed":"2020-06-10T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-02T12:58:52.433163Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1iLTGguAv3rrv3DrDzo9Pa4cP0r94xU9RYKsqaTDO6JQ\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
