@@ -379,7 +379,7 @@
     "uplink":null,
     "downlink":"436.100*\/2415.300",
     "beacon":null,
-    "mode":"1k2*AFSK\/9k6 GMSK",
+    "mode":"1k2*AFSK 9k6 GMSK",
     "callsign":"RS17S",
     "status":"active",
     "satnogs_id":"BHEP-0319-3345-0774-6350"
@@ -11044,6 +11044,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Serenity-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.100",
+    "beacon":null,
+    "mode":"4800bps FM",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"SERPENS",
     "norad_id":"40897",
     "uplink":null,
@@ -11122,14 +11133,14 @@
   },
   {
     "name":"SIMBA",
-    "norad_id":"47941",
+    "norad_id":"46279",
     "uplink":null,
-    "downlink":"435.310",
+    "downlink":"401.175",
     "beacon":null,
-    "mode":"9600bps GMSK",
+    "mode":"1200bps BPSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":"JHGM-7853-8293-9677-2181"
+    "satnogs_id":"VSTX-5196-9784-0975-3350"
   },
   {
     "name":"Siren",
@@ -11174,6 +11185,17 @@
     "callsign":"OM9SAT",
     "status":"inactive",
     "satnogs_id":"LASJ-3104-0320-4540-8721"
+  },
+  {
+    "name":"Skif-D",
+    "norad_id":"54153",
+    "uplink":null,
+    "downlink":"435.566",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"DFJV-3382-6994-0160-5316"
   },
   {
     "name":"Skoltech-B1",
@@ -14155,6 +14177,17 @@
     "callsign":"JQ1ZIJ",
     "status":"re-entered",
     "satnogs_id":null
+  },
+  {
+    "name":"WildTrackCube-SIMBA",
+    "norad_id":"47941",
+    "uplink":null,
+    "downlink":"435.310",
+    "beacon":null,
+    "mode":"1k2 FSK 9k6 GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"JHGM-7853-8293-9677-2181"
   },
   {
     "name":"WNISAT-1",

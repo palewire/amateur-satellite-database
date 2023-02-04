@@ -11974,11 +11974,11 @@
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites\/planned-missions\/siriussat-dzz",
     "operator":"None",
-    "countries":"",
+    "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.908032Z",
+    "updated":"2023-02-04T05:45:32.616352Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -11998,11 +11998,11 @@
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites\/planned-missions\/miem-3u-en",
     "operator":"None",
-    "countries":"",
+    "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.909668Z",
+    "updated":"2023-02-04T05:47:15.364134Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -19254,10 +19254,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -19560,6 +19560,30 @@
     "updated":"2022-04-20T12:14:00.105795Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-4-rideshare-ccsfs-slc-40-1-april-2022-16-24-utc\/9104\/2",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BAGA-8701-8164-0112-3038",
+    "norad_cat_id":52169.0,
+    "norad_follow_id":null,
+    "name":"MP42",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-04-01T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"LT",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-04T05:45:16.138586Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/32",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -29601,6 +29625,54 @@
     ],
     "updated":"2023-02-03T23:42:02.591427Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/33",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TEWQ-3438-7695-0326-0614",
+    "norad_cat_id":53764.0,
+    "norad_follow_id":null,
+    "name":"CZ-2D R\/B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-09-06T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-04T05:44:42.188930Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/34",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YVYJ-1731-0690-5266-9121",
+    "norad_cat_id":43118.0,
+    "norad_follow_id":null,
+    "name":"CORVUS BC3",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-01-12T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-04T05:44:31.174592Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 

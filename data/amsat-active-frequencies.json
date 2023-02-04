@@ -65,7 +65,7 @@
     "uplink":null,
     "downlink":"436.100*\/2415.300",
     "beacon":null,
-    "mode":"1k2*AFSK\/9k6 GMSK",
+    "mode":"1k2*AFSK 9k6 GMSK",
     "callsign":"RS17S",
     "satnogs_id":"BHEP-0319-3345-0774-6350"
   },
