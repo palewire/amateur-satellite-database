@@ -13150,9 +13150,9 @@
     "uplink":"435.xxx",
     "downlink":"145.818\/145.823*",
     "beacon":"2408.000",
-    "mode":"1200bps RC-BPSK CW",
+    "mode":"1200bps RC-BPSK CW*",
     "callsign":"TRIV0 TRIV1",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"APZD-5343-3708-9744-3445"
   },
   {

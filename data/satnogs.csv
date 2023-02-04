@@ -1239,7 +1239,7 @@ EOWZ-5856-6766-7295-5033,46529.0,,FLOCK 4V 17,,,alive,,2020-09-03T00:00:00Z,,,No
 MRAA-9145-4475-3174-4832,46502.0,,LEMUR-2-SUSURRUS,"Lemur-2 120, SUSURRUS",,alive,,2020-09-28T00:00:00Z,,,None,US,[],2023-01-31T10:41:23.552271Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 DLQX-6098-2108-4063-5447,46321.0,,FLOCK 4V 2,Dove 2256,,alive,,2020-09-03T00:00:00Z,,,None,US,[],2023-01-31T10:41:14.834671Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 PTXL-7183-0783-0491-6542,46314.0,,FLOCK 4V 4,Dove 2274,,alive,,2020-09-03T00:00:00Z,,,None,US,[],2023-01-31T10:41:05.577035Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-ONCF-0266-3073-1847-3154,54373.0,,MP42,Object N,,alive,,,,,None,LT,[],2023-02-02T16:37:49.800146Z,https://community.libre.space/t/strf-bandscan-results/9827/29,False,[]
+ONCF-0266-3073-1847-3154,54373.0,,OBJECT B,,,alive,,2022-11-27T00:00:00Z,,,None,CN,[],2023-02-03T23:41:37.071824Z,https://community.libre.space/t/strf-bandscan-results/9827/29,False,[]
 RGOT-7566-7340-2860-2308,49387.0,,SDGSAT 1,2021-100A,,alive,,2021-11-05T00:00:00Z,2021-11-05T00:00:00Z,,None,CN,[],2023-02-02T13:00:17.261247Z,https://docs.google.com/document/d/1ZBA3NzFTOe9fKosHMvHQ39Bj5q3lFOpFJa_o-WLADTo/edit?usp=sharing,False,[]
 SISM-0396-9850-6245-5319,46469.0,,2020-066A,,,alive,,2020-09-21T00:00:00Z,,,None,CN,[],2023-02-02T13:00:11.736911Z,https://docs.google.com/document/d/13xfkUcI8Lc50B_fhBSXaPLYbEm6gI_TVTkSwfb3-3Zs/edit?usp=sharing,False,[]
 BGTX-8905-0308-9012-6074,54020.0,,Centispace-1 S5,,,alive,,2022-10-07T00:00:00Z,2022-10-07T00:00:00Z,,None,CN,[],2023-02-02T13:00:06.354616Z,https://docs.google.com/document/d/1fJjg_uU2hpTlLoHdTiFOJzVjpgHUxAN6wGc6Sm4YFe0/edit?usp=sharing,False,[]
@@ -1254,3 +1254,4 @@ TJGU-8129-0720-2312-3974,38860.0,,SJ-9A,2012-056A,,alive,,2012-10-14T00:00:00Z,2
 QFGP-7469-6688-7713-9915,33408.0,,SJ-6E,2008-053A,,alive,,2008-10-25T00:00:00Z,2008-10-25T00:00:00Z,,None,CN,[],2023-02-02T12:59:07.094881Z,https://docs.google.com/document/d/1AT0EgUqvEEWvgBWLurusBYCeBpuTKarIgoHyoCebILI/edit?usp=sharing,False,[]
 KWVN-4203-7196-0721-6330,41898.0,,Tansat,2016-081A,,alive,,2016-12-21T00:00:00Z,2016-12-21T00:00:00Z,,None,CN,[],2023-02-02T12:58:58.568530Z,https://docs.google.com/document/d/13HOzb599vwkWF2SrbJKGVsDKAtA54KDdU-MUdlBHnYA/edit?usp=sharing,False,[]
 ILCN-9413-1654-5495-0334,45721.0,,Hayang 1D,2020-036A,,alive,,2020-06-10T00:00:00Z,2020-06-10T00:00:00Z,,None,CN,[],2023-02-02T12:58:52.433163Z,https://docs.google.com/document/d/1iLTGguAv3rrv3DrDzo9Pa4cP0r94xU9RYKsqaTDO6JQ/edit?usp=sharing,False,[]
+UDMU-2348-8197-6495-8447,54747.0,,OBJECT B,,,alive,,2022-12-14T00:00:00Z,,,None,CN,[],2023-02-03T23:42:02.591427Z,https://community.libre.space/t/strf-bandscan-results/9827/33,False,[]
