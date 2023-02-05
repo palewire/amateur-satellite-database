@@ -7789,13 +7789,13 @@
   },
   {
     "name":"MemSat",
-    "norad_id":null,
+    "norad_id":"43554",
     "uplink":null,
     "downlink":"437.350",
     "beacon":null,
     "mode":"9600bps BPSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {

@@ -707,7 +707,7 @@ MDASat-1A,50995,,401.075,,FM,,inactive,
 MDASat-1B,51072,,401.075,,FM,,inactive,
 MDASat-1C,51038,,401.075,,FM,,inactive,
 Mea Huaka'i Voyager,,,437.405/5.840GHz,,1200bps AFSK,,failure,
-MemSat,,,437.350,,9600bps BPSK,,inactive,
+MemSat,43554,,437.350,,9600bps BPSK,,re-entered,
 MEROPE,,,145.980,,1200bps AFSK,K7MSU-1,failure,
 MESAT-1,,145.910-145.940,435.810-435.840,435.800,1200bps BPSK SSB,,to be launched,
 METEOR-M1,35865,,137.100/137.900,2201.000,72kbps QPSK CW*,,weather sat,DAIX-4517-7255-2315-1676

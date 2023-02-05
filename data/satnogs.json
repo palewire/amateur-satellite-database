@@ -28722,7 +28722,7 @@
     "norad_follow_id":null,
     "name":"RoseyCubesat-1",
     "names":"",
-    "image":"satellites\/satellite.jpeg",
+    "image":"satellites\/satellite-for-satnogs.jpeg",
     "status":"future",
     "decayed":null,
     "launched":"2023-02-14T00:00:00Z",
@@ -28735,7 +28735,7 @@
         "decoder":"roseycubesat1"
       }
     ],
-    "updated":"2023-01-26T16:12:08.042077Z",
+    "updated":"2023-02-05T06:16:46.374429Z",
     "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=892",
     "is_frequency_violator":false,
     "associated_satellites":[
