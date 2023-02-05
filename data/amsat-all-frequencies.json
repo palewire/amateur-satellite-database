@@ -12661,6 +12661,17 @@
     "satnogs_id":null
   },
   {
+    "name":"TechEdSat-2",
+    "norad_id":"39143",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
     "name":"TechEdSat-3",
     "norad_id":"39415",
     "uplink":null,
@@ -12668,7 +12679,7 @@
     "beacon":"437.465",
     "mode":"1200bps AFSK CW",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12679,7 +12690,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12695,6 +12706,94 @@
   },
   {
     "name":"TechEdSat-6",
+    "norad_id":"43026",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"TechEdSat-7",
+    "norad_id":"47312",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"TechEdSat-8",
+    "norad_id":"44032",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"TechEdSat-9",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"TechEdSat-10",
+    "norad_id":"45917",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"TechEdSat-11",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.465",
+    "beacon":null,
+    "mode":"1200bps FM",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"TechEdSat-12",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"TechEdSat-13",
+    "norad_id":"51095",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"TechEdSat-14",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -12702,6 +12801,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"TechEdSat-15",
+    "norad_id":"53957",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
     "satnogs_id":null
   },
   {

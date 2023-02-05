@@ -1150,10 +1150,20 @@ Tausat-2,55073,,436.400,,9600bps BPSK,TAUSAT-2,unknown,JRGY-1674-7223-5551-1972
 TBEx-A,44356,,437.485,,9600bps GMSK,KF6RFX,re-entered,PYOC-7373-5476-5036-0283
 TBEx-B,44359,,437.485,,9600bps GMSK,KF6RFX,re-entered,PHAW-0441-2366-3085-1098
 TechEdSat-1,38854,,437.465,437.465,1200bps FM CW,KJ6TVO,re-entered,
-TechEdSat-3,39415,,437.465,437.465,1200bps AFSK CW,,inactive,
-TechEdSat-4,40455,,,,,,unknown,
+TechEdSat-2,39143,,,,,,re-entered,
+TechEdSat-3,39415,,437.465,437.465,1200bps AFSK CW,,re-entered,
+TechEdSat-4,40455,,,,,,re-entered,
 TechEdSat-5,42066,,,,,,re-entered,
-TechEdSat-6,,,,,,,unknown,
+TechEdSat-6,43026,,,,,,re-entered,
+TechEdSat-7,47312,,,,,,re-entered,
+TechEdSat-8,44032,,,,,,re-entered,
+TechEdSat-9,,,,,,,to be launched,
+TechEdSat-10,45917,,,,,,re-entered,
+TechEdSat-11,,,437.465,,1200bps FM,,to be launched,
+TechEdSat-12,,,,,,,to be launched,
+TechEdSat-13,51095,,,,,,unknown,
+TechEdSat-14,,,,,,,unknown,
+TechEdSat-15,53957,,,,,,re-entered,
 TechnoSat,42829,,435.950,435.950,4k8*/9k6 GMSK CW,DP0TBA,inactive,WFVU-6936-7309-8185-5747
 TechSat-1B,25397,145.850/145.930,435.225*/435.325,,9600bps FSK,4XTECH-11 12,active,FCHF-0545-3706-3789-8061
 TeikyoSat-3,39576,,437.450,437.450,1200bps AFSK CW,JQ1ZKM,re-entered,
