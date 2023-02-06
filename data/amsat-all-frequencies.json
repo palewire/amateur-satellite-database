@@ -12677,7 +12677,7 @@
     "uplink":null,
     "downlink":"437.465",
     "beacon":"437.465",
-    "mode":"1200bps AFSK CW",
+    "mode":"1200bps FM CW",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":null

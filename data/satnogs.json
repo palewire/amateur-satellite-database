@@ -19830,7 +19830,9 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"cirbe"
+      }
     ],
     "updated":"2022-05-24T13:59:28.705773Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/230",
@@ -27145,7 +27147,9 @@
     "operator":"None",
     "countries":"",
     "telemetries":[
-
+      {
+        "decoder":"nutsat1"
+      }
     ],
     "updated":"2023-01-11T09:56:21.037301Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55124\/2023-01-10T20%3A01%3A51_7004302_55124_98067UR_0-OBJECT-UR_0.20544462444444456_A_r24.0_f1.0.png",

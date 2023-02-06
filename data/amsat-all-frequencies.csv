@@ -1151,7 +1151,7 @@ TBEx-A,44356,,437.485,,9600bps GMSK,KF6RFX,re-entered,PYOC-7373-5476-5036-0283
 TBEx-B,44359,,437.485,,9600bps GMSK,KF6RFX,re-entered,PHAW-0441-2366-3085-1098
 TechEdSat-1,38854,,437.465,437.465,1200bps FM CW,KJ6TVO,re-entered,
 TechEdSat-2,39143,,,,,,re-entered,
-TechEdSat-3,39415,,437.465,437.465,1200bps AFSK CW,,re-entered,
+TechEdSat-3,39415,,437.465,437.465,1200bps FM CW,,re-entered,
 TechEdSat-4,40455,,,,,,re-entered,
 TechEdSat-5,42066,,,,,,re-entered,
 TechEdSat-6,43026,,,,,,re-entered,
