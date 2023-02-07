@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19137,7 +19137,7 @@
     "citation":"Space-track.org |DAILI|51443| 1998-067TF|US|2022-07-01 21:18:00| 2022-06-26 0:00:00|",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "GZUU-0828-8942-5645-7084"
     ]
   },
   {
