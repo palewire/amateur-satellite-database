@@ -1571,7 +1571,7 @@
     "norad_follow_id":null,
     "name":"METEOR M-1",
     "names":"Meteor-M N1",
-    "image":"",
+    "image":"satellites\/meteor_16b.jpg",
     "status":"alive",
     "decayed":null,
     "launched":null,
@@ -1582,7 +1582,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T01:57:47.738693Z",
+    "updated":"2023-02-07T19:58:29.129584Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -12139,7 +12139,7 @@
     "norad_follow_id":null,
     "name":"Orbicraft-Zorkiy",
     "names":"RS15S",
-    "image":"",
+    "image":"satellites\/Zorkiy-panel_lg.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2021-03-22T00:00:00Z",
@@ -12150,7 +12150,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T11:02:36.410516Z",
+    "updated":"2023-02-07T19:58:11.451425Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -22065,7 +22065,7 @@
     "name":"YuZGU-55 12",
     "names":"SWSU-55 No8 (SWSU No12), RadioSkaf RS-17, RS6S",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-07-21T00:00:00Z",
     "deployed":"2022-07-21T00:00:00Z",
@@ -22075,7 +22075,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T19:03:12.081826Z",
+    "updated":"2023-02-07T20:01:07.057051Z",
     "citation":"https:\/\/community.libre.space\/t\/swsu-tsiolkovsky-ryazan-cubesats-deployed-from-the-iss-21-july-2022\/9436",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -22088,8 +22088,8 @@
     "norad_follow_id":53310.0,
     "name":"YuZGU-55 11",
     "names":"SWSU-55 No7 & R-390 (SWSU No11), RadioSkaf RS-16, RS5S",
-    "image":"",
-    "status":"alive",
+    "image":"satellites\/swsu55-7_r-390_VmrdX1S.png",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-07-21T00:00:00Z",
     "deployed":"2022-07-21T00:00:00Z",
@@ -22099,7 +22099,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T19:02:35.032123Z",
+    "updated":"2023-02-07T20:02:25.171167Z",
     "citation":"https:\/\/community.libre.space\/t\/swsu-tsiolkovsky-ryazan-cubesats-deployed-from-the-iss-21-july-2022\/9436",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -22113,7 +22113,7 @@
     "name":"YuZGU-55 10",
     "names":"SWSU-55 No6 (SWSU No10), RadioSkaf RS-15, RS4S",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-07-21T00:00:00Z",
     "deployed":"2022-07-21T00:00:00Z",
@@ -22123,7 +22123,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-15T11:37:23.318428Z",
+    "updated":"2023-02-07T19:58:46.463370Z",
     "citation":"https:\/\/twitter.com\/EU1SAT\/status\/1592322066434633728",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -22137,7 +22137,7 @@
     "name":"YuZGU-55 9",
     "names":"SWSU-55 No5 (SWSU No9), RadioSkaf RS-14, RS3S",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-07-21T00:00:00Z",
     "deployed":"2022-07-21T00:00:00Z",
@@ -22147,7 +22147,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T19:10:44.948005Z",
+    "updated":"2023-02-07T20:00:47.949086Z",
     "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1552411914076053504",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -22161,7 +22161,7 @@
     "name":"YuZGU-55 8",
     "names":"SWSU-55 No4 (SWSU No8), RadioSkaf RS-13, RS2S",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-07-21T00:00:00Z",
     "deployed":"2022-07-21T00:00:00Z",
@@ -22171,7 +22171,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T19:15:09.119286Z",
+    "updated":"2023-02-07T20:00:54.411372Z",
     "citation":"https:\/\/community.libre.space\/t\/swsu-tsiolkovsky-ryazan-cubesats-deployed-from-the-iss-21-july-2022\/9436",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -22256,8 +22256,8 @@
     "norad_follow_id":53312.0,
     "name":"Tsiolkovsky-Ryazan 1",
     "names":"RS9S, KETs 1",
-    "image":"",
-    "status":"alive",
+    "image":"satellites\/dsc04768.jpg",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-07-21T00:00:00Z",
     "deployed":"2022-07-21T00:00:00Z",
@@ -22267,7 +22267,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-17T21:19:07.604567Z",
+    "updated":"2023-02-07T20:00:30.390700Z",
     "citation":"https:\/\/community.libre.space\/t\/swsu-tsiolkovsky-ryazan-cubesats-deployed-from-the-iss-21-july-2022\/9436",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -22280,8 +22280,8 @@
     "norad_follow_id":53313.0,
     "name":"Tsiolkovsky-Ryazan 2",
     "names":"RS12S, KETs 2",
-    "image":"",
-    "status":"alive",
+    "image":"satellites\/dsc04768_vVOhr3I.jpg",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-07-21T00:00:00Z",
     "deployed":"2022-07-21T00:00:00Z",
@@ -22291,7 +22291,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-17T21:19:38.661279Z",
+    "updated":"2023-02-07T19:59:23.741772Z",
     "citation":"https:\/\/community.libre.space\/t\/swsu-tsiolkovsky-ryazan-cubesats-deployed-from-the-iss-21-july-2022\/9436",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -29302,9 +29302,9 @@
     "sat_id":"SISM-0396-9850-6245-5319",
     "norad_cat_id":46469.0,
     "norad_follow_id":null,
-    "name":"2020-066A",
+    "name":"HAIYANG-2C",
     "names":"",
-    "image":"",
+    "image":"satellites\/hy-2d__1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2020-09-21T00:00:00Z",
@@ -29315,7 +29315,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-02T13:00:11.736911Z",
+    "updated":"2023-02-07T20:06:04.734059Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/13xfkUcI8Lc50B_fhBSXaPLYbEm6gI_TVTkSwfb3-3Zs\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -29677,6 +29677,126 @@
     ],
     "updated":"2023-02-04T05:44:31.174592Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/34",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KISQ-1649-3429-8169-4287",
+    "norad_cat_id":26702.0,
+    "norad_follow_id":null,
+    "name":"ODIN",
+    "names":"",
+    "image":"satellites\/odin.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2001-02-20T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.ohb-sweden.se\/space-missions\/odin\/",
+    "operator":"ESA",
+    "countries":"SE",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-07T20:08:21.221690Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EKAM-8316-2757-5928-1987",
+    "norad_cat_id":99198.0,
+    "norad_follow_id":null,
+    "name":"AzaadiSAT-2",
+    "names":"",
+    "image":"satellites\/photo_2023-02-06_11-12-52.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-02-10T03:48:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.spacekidzindia.in\/",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-07T20:05:52.539874Z",
+    "citation":"https:\/\/nextspaceflight.com\/launches\/details\/752",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YKHS-8519-7037-8511-0265",
+    "norad_cat_id":99199.0,
+    "norad_follow_id":null,
+    "name":"JANUS-1",
+    "names":"",
+    "image":"satellites\/Antaris-JANUS-1.webp",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-02-10T03:48:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.antaris.space\/orbitwithus",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-07T20:05:45.217467Z",
+    "citation":"https:\/\/nextspaceflight.com\/launches\/details\/752",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VRNY-5878-2152-1118-7259",
+    "norad_cat_id":46297.0,
+    "norad_follow_id":null,
+    "name":"FLOCK 4V 13",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-07T20:03:23.670097Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GTTQ-8897-2506-5133-2854",
+    "norad_cat_id":46296.0,
+    "norad_follow_id":null,
+    "name":"FLOCK 4V 10",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-07T20:03:10.745945Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
