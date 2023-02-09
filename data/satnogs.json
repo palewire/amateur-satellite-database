@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -27114,7 +27114,7 @@
     "norad_follow_id":55126.0,
     "name":"ORCASat",
     "names":"Optical Reference Calibration Satellite",
-    "image":"",
+    "image":"satellites\/ORCASat_Spacecraft_Full-2.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2022-12-29T00:00:00Z",
@@ -27125,7 +27125,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-11T10:23:30.256851Z",
+    "updated":"2023-02-08T18:37:29.672234Z",
     "citation":"Reverting identification for further investigation",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -29797,6 +29797,78 @@
     ],
     "updated":"2023-02-07T20:03:10.745945Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QPSM-8262-0207-9595-7010",
+    "norad_cat_id":44409.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 EJATTA",
+    "names":"LEMUR 2 103",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-07-05T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-08T15:12:12.459115Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VVMQ-7389-2143-8563-5297",
+    "norad_cat_id":46913.0,
+    "norad_follow_id":null,
+    "name":"R2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-11-07T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"LT",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-08T15:11:59.729938Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/37",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PTJG-8940-7559-1151-9568",
+    "norad_cat_id":55260.0,
+    "norad_follow_id":null,
+    "name":"Object N",
+    "names":"2023-007N",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-15T00:00:00Z",
+    "deployed":"2023-01-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-08T15:10:48.238213Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1aO0LfVYwL6PoLlewWy2yPjLiwyMYIUOTxkyBFHyMhr0\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
