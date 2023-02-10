@@ -29875,5 +29875,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"XXZI-3311-6741-6801-1754",
+    "norad_cat_id":49469.0,
+    "norad_follow_id":null,
+    "name":"Global-14",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-11-18T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-10T12:01:19.492562Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/39",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
