@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -29713,7 +29713,7 @@
     "name":"AzaadiSAT-2",
     "names":"",
     "image":"satellites\/photo_2023-02-06_11-12-52.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-02-10T03:48:00Z",
     "deployed":null,
@@ -29721,9 +29721,11 @@
     "operator":"None",
     "countries":"IN",
     "telemetries":[
-
+      {
+        "decoder":"azaadisat2"
+      }
     ],
-    "updated":"2023-02-07T20:05:52.539874Z",
+    "updated":"2023-02-09T18:23:27.619955Z",
     "citation":"https:\/\/nextspaceflight.com\/launches\/details\/752",
     "is_frequency_violator":false,
     "associated_satellites":[
