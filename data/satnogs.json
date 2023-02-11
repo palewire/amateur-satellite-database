@@ -27943,8 +27943,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T16:19:21.890730Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/18",
+    "updated":"2023-02-11T09:23:50.324141Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/41",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29729,7 +29729,7 @@
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55563\/2023-02-10T11%3A21%3A10_7142157_55563_23019B_0-OBJECT-B_0.1784454425925901_A_r29.0_f0.9.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "BBWX-3388-8645-9305-2509"
     ]
   },
   {
@@ -29798,6 +29798,78 @@
 
     ],
     "updated":"2023-02-07T20:03:10.745945Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CWUG-6122-3233-1283-5580",
+    "norad_cat_id":46286.0,
+    "norad_follow_id":null,
+    "name":"FLOCK 4V 14",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-11T10:51:12.171768Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KNSW-8519-2165-6089-1570",
+    "norad_cat_id":44818.0,
+    "norad_follow_id":null,
+    "name":"FLOCK 4P 5",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-11T10:51:00.858531Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MLVV-0192-6659-2897-3817",
+    "norad_cat_id":44816.0,
+    "norad_follow_id":null,
+    "name":"FLOCK 4P 7",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-11T10:50:26.976272Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[

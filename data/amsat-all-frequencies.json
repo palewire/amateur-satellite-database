@@ -1200,14 +1200,14 @@
   },
   {
     "name":"AzaadiSAT-2",
-    "norad_id":null,
+    "norad_id":"55563",
     "uplink":null,
     "downlink":"437.400",
     "beacon":null,
     "mode":"1200bps FSK LoRa",
-    "callsign":null,
+    "callsign":"AZDSAT",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"EKAM-8316-2757-5928-1987"
   },
   {
     "name":"AzTechSat-1",
