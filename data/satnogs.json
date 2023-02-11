@@ -29708,7 +29708,7 @@
   },
   {
     "sat_id":"EKAM-8316-2757-5928-1987",
-    "norad_cat_id":99198.0,
+    "norad_cat_id":55563.0,
     "norad_follow_id":null,
     "name":"AzaadiSAT-2",
     "names":"",
@@ -29725,8 +29725,8 @@
         "decoder":"azaadisat2"
       }
     ],
-    "updated":"2023-02-09T18:23:27.619955Z",
-    "citation":"https:\/\/nextspaceflight.com\/launches\/details\/752",
+    "updated":"2023-02-10T20:39:19.957742Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55563\/2023-02-10T11%3A21%3A10_7142157_55563_23019B_0-OBJECT-B_0.1784454425925901_A_r29.0_f0.9.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29895,6 +29895,30 @@
     ],
     "updated":"2023-02-10T12:01:19.492562Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/39",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NSAA-0070-5953-5605-6611",
+    "norad_cat_id":46088.0,
+    "norad_follow_id":null,
+    "name":"Global-7",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-08-07T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-10T19:34:33.992027Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/40",
     "is_frequency_violator":false,
     "associated_satellites":[
 

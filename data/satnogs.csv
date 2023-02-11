@@ -1259,7 +1259,7 @@ UDMU-2348-8197-6495-8447,54747.0,,OBJECT B,,,alive,,2022-12-14T00:00:00Z,,,None,
 TEWQ-3438-7695-0326-0614,53764.0,,CZ-2D R/B,,,alive,,2022-09-06T00:00:00Z,,,None,CN,[],2023-02-04T05:44:42.188930Z,https://community.libre.space/t/strf-bandscan-results/9827/34,False,[]
 YVYJ-1731-0690-5266-9121,43118.0,,CORVUS BC3,,,alive,,2018-01-12T00:00:00Z,,,None,US,[],2023-02-04T05:44:31.174592Z,https://community.libre.space/t/strf-bandscan-results/9827/34,False,[]
 KISQ-1649-3429-8169-4287,26702.0,,ODIN,,satellites/odin.jpg,alive,,2001-02-20T00:00:00Z,,https://www.ohb-sweden.se/space-missions/odin/,ESA,SE,[],2023-02-07T20:08:21.221690Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-EKAM-8316-2757-5928-1987,99198.0,,AzaadiSAT-2,,satellites/photo_2023-02-06_11-12-52.jpg,alive,,2023-02-10T03:48:00Z,,https://www.spacekidzindia.in/,None,IN,[{'decoder': 'azaadisat2'}],2023-02-09T18:23:27.619955Z,https://nextspaceflight.com/launches/details/752,False,[]
+EKAM-8316-2757-5928-1987,55563.0,,AzaadiSAT-2,,satellites/photo_2023-02-06_11-12-52.jpg,alive,,2023-02-10T03:48:00Z,,https://www.spacekidzindia.in/,None,IN,[{'decoder': 'azaadisat2'}],2023-02-10T20:39:19.957742Z,https://archive.org/details/ikhnos-identification-55563/2023-02-10T11%3A21%3A10_7142157_55563_23019B_0-OBJECT-B_0.1784454425925901_A_r29.0_f0.9.png,False,[]
 YKHS-8519-7037-8511-0265,99199.0,,JANUS-1,,satellites/Antaris-JANUS-1.webp,future,,2023-02-10T03:48:00Z,,https://www.antaris.space/orbitwithus,None,US,[],2023-02-07T20:05:45.217467Z,https://nextspaceflight.com/launches/details/752,False,[]
 VRNY-5878-2152-1118-7259,46297.0,,FLOCK 4V 13,,,alive,,,,,None,,[],2023-02-07T20:03:23.670097Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 GTTQ-8897-2506-5133-2854,46296.0,,FLOCK 4V 10,,,alive,,,,,None,,[],2023-02-07T20:03:10.745945Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
@@ -1267,3 +1267,4 @@ QPSM-8262-0207-9595-7010,44409.0,,LEMUR 2 EJATTA,LEMUR 2 103,,alive,,2019-07-05T
 VVMQ-7389-2143-8563-5297,46913.0,,R2,,,alive,,2020-11-07T00:00:00Z,,,None,LT,[],2023-02-08T15:11:59.729938Z,https://community.libre.space/t/strf-bandscan-results/9827/37,False,[]
 PTJG-8940-7559-1151-9568,55260.0,,Object N,2023-007N,,alive,,2023-01-15T00:00:00Z,2023-01-15T00:00:00Z,,None,CN,[],2023-02-08T15:10:48.238213Z,https://docs.google.com/document/d/1aO0LfVYwL6PoLlewWy2yPjLiwyMYIUOTxkyBFHyMhr0/edit?usp=sharing,False,[]
 XXZI-3311-6741-6801-1754,49469.0,,Global-14,,,alive,,2021-11-18T00:00:00Z,,,None,US,[],2023-02-10T12:01:19.492562Z,https://community.libre.space/t/strf-bandscan-results/9827/39,False,[]
+NSAA-0070-5953-5605-6611,46088.0,,Global-7,,,alive,,2020-08-07T00:00:00Z,,,None,US,[],2023-02-10T19:34:33.992027Z,https://community.libre.space/t/strf-bandscan-results/9827/40,False,[]
