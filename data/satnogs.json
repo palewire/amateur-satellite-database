@@ -8080,8 +8080,8 @@
     "name":"IRVINE-01",
     "names":"",
     "image":"satellites\/irvine.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-02-03T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -8092,7 +8092,7 @@
         "decoder":"irvine"
       }
     ],
-    "updated":"2023-01-27T17:04:58.100004Z",
+    "updated":"2023-02-12T08:49:51.917596Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -21392,7 +21392,7 @@
     "names":"",
     "image":"",
     "status":"alive",
-    "decayed":null,
+    "decayed":"2023-02-03T00:00:00Z",
     "launched":"2022-02-19T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -21401,8 +21401,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T18:45:06.417092Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-02-12T08:52:51.677826Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22243,7 +22243,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T19:15:26.609439Z",
+    "updated":"2023-02-12T08:54:30.390323Z",
     "citation":"https:\/\/community.libre.space\/t\/swsu-tsiolkovsky-ryazan-cubesats-deployed-from-the-iss-21-july-2022\/9436",
     "is_frequency_violator":true,
     "associated_satellites":[
