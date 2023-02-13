@@ -2220,6 +2220,16 @@
     "satnogs_id":"BZWR-6172-2785-3507-5423"
   },
   {
+    "name":"NSLSat-2",
+    "norad_id":"55067",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"FM PSK31",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"NUTSAT",
     "norad_id":"55124",
     "uplink":null,
@@ -2248,6 +2258,16 @@
     "mode":"2k4\/9k6*FSK DVB-S2",
     "callsign":"RS15S",
     "satnogs_id":"OMJF-9743-1169-8966-7578"
+  },
+  {
+    "name":"ORCASAT",
+    "norad_id":"55126",
+    "uplink":null,
+    "downlink":"437.060",
+    "beacon":null,
+    "mode":"10.17kbit\/s FSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"OreSat-0",
@@ -2878,6 +2898,16 @@
     "mode":"2400bps GMSK USP",
     "callsign":"RS8S",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
+  },
+  {
+    "name":"Tausat-2",
+    "norad_id":"55073",
+    "uplink":null,
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":"TAUSAT-2",
+    "satnogs_id":"JRGY-1674-7223-5551-1972"
   },
   {
     "name":"TechSat-1B",
