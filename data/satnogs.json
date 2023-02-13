@@ -29977,7 +29977,7 @@
     "norad_cat_id":46088.0,
     "norad_follow_id":null,
     "name":"Global-7",
-    "names":"",
+    "names":"BlackSky 5",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -29989,8 +29989,32 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-10T19:34:33.992027Z",
+    "updated":"2023-02-12T12:37:33.841543Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/40",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WISV-5387-2192-1813-5424",
+    "norad_cat_id":46089.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL-8",
+    "names":"BlackSky 6",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-08-07T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-12T12:37:25.104996Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
