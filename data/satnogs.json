@@ -27257,7 +27257,7 @@
   {
     "sat_id":"UIOI-1341-4569-4790-3695",
     "norad_cat_id":99225.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55103.0,
     "name":"KuwaitSat-1",
     "names":"",
     "image":"satellites\/KS_logo.png",
@@ -27271,7 +27271,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T14:51:11.401667Z",
+    "updated":"2023-02-13T18:17:02.923689Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter-6",
     "is_frequency_violator":true,
     "associated_satellites":[

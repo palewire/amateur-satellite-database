@@ -12316,7 +12316,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS10S",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12327,7 +12327,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS11S",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12338,7 +12338,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS1S",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12349,7 +12349,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS2S",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12360,7 +12360,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS3S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12371,7 +12371,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS4S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12382,7 +12382,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS5S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12393,7 +12393,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS6S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -13372,7 +13372,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS9S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -13383,7 +13383,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS12S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -14769,7 +14769,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS10S",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -14780,7 +14780,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS11S",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -14791,7 +14791,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS1S",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -14802,7 +14802,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS2S",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -14813,7 +14813,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS3S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -14824,7 +14824,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS4S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -14835,7 +14835,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS5S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -14846,7 +14846,7 @@
     "beacon":null,
     "mode":"1k145 AFSK SSTV AUDIO",
     "callsign":"RS6S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
