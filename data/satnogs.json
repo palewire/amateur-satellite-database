@@ -30019,5 +30019,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"PKPN-0429-5016-6529-0425",
+    "norad_cat_id":47971.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL-9",
+    "names":"BlackSky 7",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-03-22T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-15T05:33:38.536692Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

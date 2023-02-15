@@ -7183,6 +7183,17 @@
     "satnogs_id":null
   },
   {
+    "name":"KuwaitSat-1",
+    "norad_id":"55103",
+    "uplink":null,
+    "downlink":"436.980",
+    "beacon":null,
+    "mode":"38k4FSK LoRa",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
     "name":"KUZBASS-300",
     "norad_id":"53375",
     "uplink":null,
