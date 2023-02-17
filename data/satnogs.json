@@ -7786,9 +7786,9 @@
     "name":"CP7 (DAVE)",
     "names":"",
     "image":"satellites\/dave.png",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-02-12T00:00:00Z",
+    "launched":"2018-09-15T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -7796,7 +7796,7 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.583885Z",
+    "updated":"2023-02-16T17:22:30.722345Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -8838,8 +8838,8 @@
     "name":"Da Vinci",
     "names":"DAVINCI",
     "image":"satellites\/cubesat_300x300.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-02-09T00:00:00Z",
     "launched":"2018-12-16T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/web.archive.org\/web\/20170623205553\/https:\/\/projectdavincicubesat.org\/",
@@ -8848,7 +8848,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T23:33:31.875810Z",
+    "updated":"2023-02-16T17:22:13.684808Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -18636,7 +18636,7 @@
     "norad_cat_id":99468.0,
     "norad_follow_id":51087.0,
     "name":"STORK-1",
-    "names":"",
+    "names":"ThingSat",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -18648,7 +18648,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T18:33:33.719805Z",
+    "updated":"2023-02-16T17:18:08.169984Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=52372.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -21391,7 +21391,7 @@
     "name":"NACHOS",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":"2023-02-03T00:00:00Z",
     "launched":"2022-02-19T00:00:00Z",
     "deployed":null,
@@ -21401,7 +21401,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-12T08:52:51.677826Z",
+    "updated":"2023-02-16T17:22:01.605483Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -22737,8 +22737,8 @@
     "name":"TUMnanoSAT",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-01-30T00:00:00Z",
     "launched":null,
     "deployed":"2022-08-12T09:45:00Z",
     "website":"https:\/\/nanosat.utm.md\/",
@@ -22747,7 +22747,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-15T12:23:42.623063Z",
+    "updated":"2023-02-16T17:21:49.943710Z",
     "citation":"Identified after all other satellites from the same deployment have been identified, https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-22-2022-08-12-12-40-utc\/9497\/13",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -23045,7 +23045,7 @@
   {
     "sat_id":"PLSY-8313-9770-6619-1593",
     "norad_cat_id":99342.0,
-    "norad_follow_id":53769.0,
+    "norad_follow_id":53767.0,
     "name":"D3",
     "names":"",
     "image":"",
@@ -23059,7 +23059,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-09-10T11:31:06.151584Z",
+    "updated":"2023-02-16T17:22:51.756970Z",
     "citation":"https:\/\/mobile.twitter.com\/Nanoracks\/status\/1567118315385937922",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -23093,7 +23093,7 @@
   {
     "sat_id":"XYKA-7932-5497-6369-4013",
     "norad_cat_id":99339.0,
-    "norad_follow_id":53770.0,
+    "norad_follow_id":53768.0,
     "name":"BeaverCube",
     "names":"",
     "image":"",
@@ -23107,8 +23107,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-09-10T11:30:57.120275Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-02-17T00:02:50.402168Z",
+    "citation":"Not seeing TLEs loaded for 53769",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24667,11 +24667,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"PL",
     "telemetries":[
 
     ],
-    "updated":"2022-10-27T18:14:49.201929Z",
+    "updated":"2023-02-16T17:18:20.127375Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27213,17 +27213,17 @@
     "name":"DanteSat",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-02-07T00:00:00Z",
     "launched":"2022-11-26T19:20:42Z",
     "deployed":"2022-12-29T12:05:00Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T21:14:49.905857Z",
+    "updated":"2023-02-16T17:18:27.587419Z",
     "citation":"https:\/\/nanoracks.com\/upcoming-spacex-26-mission-to-launch-several-nanoracks-customer-payloads-to-the-iss\/ and https:\/\/twitter.com\/Nanoracks\/status\/1608229073142124545",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -30038,6 +30038,30 @@
 
     ],
     "updated":"2023-02-15T05:33:38.536692Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JJYB-5676-8345-7787-3666",
+    "norad_cat_id":49950.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL-16",
+    "names":"BlackSky 14",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-12-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-16T17:24:00.192982Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[

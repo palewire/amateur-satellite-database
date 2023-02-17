@@ -10054,6 +10054,17 @@
     "satnogs_id":null
   },
   {
+    "name":"R2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.050",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Raavana-1",
     "norad_id":"44329",
     "uplink":null,
