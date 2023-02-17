@@ -170,16 +170,6 @@
     "satnogs_id":"UVHJ-3379-3188-8525-8707"
   },
   {
-    "name":"Armadillo",
-    "norad_id":"44352",
-    "uplink":null,
-    "downlink":"437.525",
-    "beacon":null,
-    "mode":"19k2*\/38k4 GMSK",
-    "callsign":"KE5DTW",
-    "satnogs_id":"RHUX-5355-9162-3098-2723"
-  },
-  {
     "name":"Astrocast-0.1",
     "norad_id":"43798",
     "uplink":null,
@@ -318,16 +308,6 @@
     "mode":"2k4*\/9k6 FSK",
     "callsign":null,
     "satnogs_id":"MMZL-7798-8557-0116-9958"
-  },
-  {
-    "name":"Bobcat-1",
-    "norad_id":"46922",
-    "uplink":null,
-    "downlink":"436.600",
-    "beacon":null,
-    "mode":"9k6\/38k4\/57k6* GMSK",
-    "callsign":"BOBCAT-1",
-    "satnogs_id":"RNBQ-9045-6623-3650-8949"
   },
   {
     "name":"BRO-4",
@@ -1080,16 +1060,6 @@
     "satnogs_id":"EKKN-6409-4479-1170-0607"
   },
   {
-    "name":"FEES-2",
-    "norad_id":"51441",
-    "uplink":null,
-    "downlink":"145.000\/437.200*",
-    "beacon":null,
-    "mode":"9600bps FSK 125k LoRa*",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"FIREBIRD-3",
     "norad_id":"40377",
     "uplink":null,
@@ -1620,16 +1590,6 @@
     "satnogs_id":"ISTU-1593-3487-2251-7574"
   },
   {
-    "name":"InnoSat-2",
-    "norad_id":"43738",
-    "uplink":null,
-    "downlink":"435.500*\/437.450",
-    "beacon":null,
-    "mode":"4800bps GMSK",
-    "callsign":null,
-    "satnogs_id":"UUUL-8721-0443-0737-3074"
-  },
-  {
     "name":"INSPIRESat-1",
     "norad_id":"51657",
     "uplink":null,
@@ -1918,16 +1878,6 @@
     "mode":"9600bps GMSK",
     "callsign":null,
     "satnogs_id":"JLZT-0277-4784-7719-1707"
-  },
-  {
-    "name":"Light-1",
-    "norad_id":"51509",
-    "uplink":null,
-    "downlink":"437.710",
-    "beacon":null,
-    "mode":"1k2 BPSK 2k4*GMSK",
-    "callsign":null,
-    "satnogs_id":"IYPF-0390-6641-7081-7482"
   },
   {
     "name":"LilacSat-2",
@@ -2278,16 +2228,6 @@
     "mode":"9k6FSK 96kGMSK 1M_DPSK CW",
     "callsign":"KJ7SAT",
     "satnogs_id":"VTFA-5315-6080-2422-3537"
-  },
-  {
-    "name":"Painani-1",
-    "norad_id":"44365",
-    "uplink":null,
-    "downlink":"437.475",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"SPACE",
-    "satnogs_id":"WBJA-6977-6678-2578-1332"
   },
   {
     "name":"Painani-2",
@@ -2998,26 +2938,6 @@
     "mode":"SSB*",
     "callsign":null,
     "satnogs_id":"VMQF-4924-7475-1891-3199"
-  },
-  {
-    "name":"Tianwang-1A",
-    "norad_id":"40928",
-    "uplink":null,
-    "downlink":"435.645",
-    "beacon":null,
-    "mode":"4k8*\/9k6 GMSK",
-    "callsign":null,
-    "satnogs_id":"YQXC-7549-6593-3361-1643"
-  },
-  {
-    "name":"Tianwang-1C",
-    "norad_id":"40926",
-    "uplink":null,
-    "downlink":"435.645",
-    "beacon":null,
-    "mode":"4k8*\/9k6 GMSK",
-    "callsign":null,
-    "satnogs_id":"XHVR-2136-6377-5531-7206"
   },
   {
     "name":"Tianyi-2",

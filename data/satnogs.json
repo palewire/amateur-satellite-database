@@ -9470,8 +9470,8 @@
     "name":"PSAT-2",
     "names":"NO-104",
     "image":"satellites\/Screenshot_from_2019-07-19_21-51-31.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-02-15T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -9480,8 +9480,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.745161Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-02-17T08:18:51.582101Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
