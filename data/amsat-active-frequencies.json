@@ -1360,16 +1360,6 @@
     "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
   {
-    "name":"FUTABA",
-    "norad_id":"53463",
-    "uplink":null,
-    "downlink":"437.375",
-    "beacon":"437.375",
-    "mode":"1200bps AFSK CW",
-    "callsign":"JG6YBW",
-    "satnogs_id":"TXQM-7768-3090-1795-9214"
-  },
-  {
     "name":"Galassia",
     "norad_id":"41170",
     "uplink":null,

@@ -29735,11 +29735,11 @@
   {
     "sat_id":"YKHS-8519-7037-8511-0265",
     "norad_cat_id":99199.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55564.0,
     "name":"JANUS-1",
     "names":"",
     "image":"satellites\/Antaris-JANUS-1.webp",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-02-10T03:48:00Z",
     "deployed":null,
@@ -29749,8 +29749,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-07T20:05:45.217467Z",
-    "citation":"https:\/\/nextspaceflight.com\/launches\/details\/752",
+    "updated":"2023-02-17T14:21:01.157789Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
