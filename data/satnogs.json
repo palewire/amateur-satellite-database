@@ -9472,15 +9472,15 @@
     "image":"satellites\/Screenshot_from_2019-07-19_21-51-31.png",
     "status":"re-entered",
     "decayed":"2023-02-15T00:00:00Z",
-    "launched":null,
+    "launched":"2019-06-25T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"http:\/\/www.aprs.org\/psat2.html",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-02-17T08:18:51.582101Z",
+    "updated":"2023-02-18T13:07:30.589980Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -21051,8 +21051,8 @@
     "sat_id":"CDHE-8871-2737-3559-5609",
     "norad_cat_id":51840.0,
     "norad_follow_id":null,
-    "name":"Wenchang Chaosuan 3",
-    "names":"Jilin-1 GaoFen 03D 17, OBJECT S",
+    "name":"OBJECT S",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -21064,8 +21064,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T09:38:45.848975Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-02-18T13:08:48.026883Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/46",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25842,7 +25842,7 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-02-27T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -25850,8 +25850,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T09:38:59.407804Z",
-    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "updated":"2023-02-18T13:08:48.114364Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/46",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27400,10 +27400,10 @@
   },
   {
     "sat_id":"ZVIO-0893-8720-4254-3996",
-    "norad_cat_id":99221.0,
-    "norad_follow_id":55067.0,
-    "name":"NSLSat-2",
-    "names":"NSL-2, NSL 2",
+    "norad_cat_id":55067.0,
+    "norad_follow_id":null,
+    "name":"NSL-2",
+    "names":"NSL 2, NSLSat-2",
     "image":"satellites\/nslsat-1__1_QUOWfpf.jpg",
     "status":"alive",
     "decayed":null,
@@ -27415,11 +27415,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-27T15:27:32.832669Z",
-    "citation":"https:\/\/www.forbes.com\/sites\/elizabethhowell1\/2019\/09\/18\/israeli-company-plans-second-satellite-launch-for-the-internet-of-things\/?sh=672a6ff82272",
+    "updated":"2023-02-18T13:12:33.859488Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/38",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "QSNU-3471-7810-0104-1586"
     ]
   },
   {
@@ -30063,6 +30063,318 @@
     ],
     "updated":"2023-02-16T17:24:00.192982Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MYLS-7530-0716-5179-6292",
+    "norad_cat_id":54686.0,
+    "norad_follow_id":null,
+    "name":"OBJECT E",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:48.397616Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/44",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OCHQ-7630-9294-3300-6371",
+    "norad_cat_id":54685.0,
+    "norad_follow_id":null,
+    "name":"OBJECT D",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:48.353006Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/44",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TEZI-0662-7612-1720-0668",
+    "norad_cat_id":54689.0,
+    "norad_follow_id":null,
+    "name":"OBJECT H",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:48.305284Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/44",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YLZB-1654-4154-6549-8817",
+    "norad_cat_id":52444.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 3D 27",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-05-05T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:48.265182Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/44",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YXEZ-8996-7590-4018-3948",
+    "norad_cat_id":52392.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 3D 7",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-04-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:48.234318Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/44",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DDPD-7849-0546-8001-0725",
+    "norad_cat_id":52388.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 4A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-04-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:48.201067Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/44",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NOED-8387-5402-1880-1985",
+    "norad_cat_id":52445.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 3D 28",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-05-05T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:48.162589Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/44",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PMHJ-5885-0599-8029-1305",
+    "norad_cat_id":52390.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 3D 5",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-04-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:48.086831Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/46",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FSDL-9653-3749-1798-4720",
+    "norad_cat_id":53453.0,
+    "norad_follow_id":null,
+    "name":"OBJECT K",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-08-10T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:48.058565Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/46",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FBYH-5243-6522-7826-1920",
+    "norad_cat_id":51844.0,
+    "norad_follow_id":null,
+    "name":"OBJECT W",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-02-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:47.994213Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/46",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GBJP-6795-6768-0900-1036",
+    "norad_cat_id":53452.0,
+    "norad_follow_id":null,
+    "name":"OBJECT J",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-08-10T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:08:47.955336Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/46",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZSLY-8269-0973-2950-7647",
+    "norad_cat_id":54254.0,
+    "norad_follow_id":null,
+    "name":"OBJECT D",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-11-16T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:07:54.047910Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/46",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZRHY-7442-7220-2877-7148",
+    "norad_cat_id":54695.0,
+    "norad_follow_id":null,
+    "name":"OBJECT P",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-12-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-18T13:07:41.295480Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/46",
     "is_frequency_violator":false,
     "associated_satellites":[
 

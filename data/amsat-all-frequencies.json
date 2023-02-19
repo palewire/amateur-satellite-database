@@ -8896,7 +8896,7 @@
     "mode":"FM PSK31",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ZVIO-0893-8720-4254-3996"
   },
   {
     "name":"NUDT-PhoneSat",
@@ -9655,7 +9655,7 @@
     "mode":"4800bps GFSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"ZVIO-0893-8720-4254-3996"
   },
   {
     "name":"Pocket-PUCP",
