@@ -8840,7 +8840,7 @@
     "beacon":null,
     "mode":"1k2 SSTV* PSK31",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"NSIX-5794-4320-6173-0330"
   },
   {
@@ -9863,7 +9863,7 @@
     "beacon":null,
     "mode":"1k2 SSTV* PSK31",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"NSIX-5794-4320-6173-0330"
   },
   {

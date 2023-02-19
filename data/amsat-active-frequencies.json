@@ -2140,16 +2140,6 @@
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
-    "name":"NO-104",
-    "norad_id":"44354",
-    "uplink":"28.120\/145.825",
-    "downlink":"145.825\/435.350*\/437.605",
-    "beacon":null,
-    "mode":"1k2 SSTV* PSK31",
-    "callsign":null,
-    "satnogs_id":"NSIX-5794-4320-6173-0330"
-  },
-  {
     "name":"NO-116",
     "norad_id":"51031",
     "uplink":null,
@@ -2318,16 +2308,6 @@
     "mode":"1k2AFSK 9k6GMSK CW*",
     "callsign":"JQ1YCX",
     "satnogs_id":"VAJK-7711-8203-8371-3078"
-  },
-  {
-    "name":"PSAT-2",
-    "norad_id":"44354",
-    "uplink":"29.350\/145.825",
-    "downlink":"145.825\/435.350*\/437.605",
-    "beacon":null,
-    "mode":"1k2 SSTV* PSK31",
-    "callsign":null,
-    "satnogs_id":"NSIX-5794-4320-6173-0330"
   },
   {
     "name":"QO-100",
