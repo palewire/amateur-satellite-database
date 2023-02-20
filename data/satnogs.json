@@ -27138,20 +27138,20 @@
     "norad_follow_id":null,
     "name":"NUTSat",
     "names":"BN0UT",
-    "image":"",
+    "image":"satellites\/2U1.png",
     "status":"alive",
     "decayed":null,
     "launched":"2022-11-26T19:20:42Z",
     "deployed":"2022-12-29T12:15:00Z",
     "website":"https:\/\/www.tasa.org.tw\/inprogress.php?c=20030402&ln=en",
     "operator":"None",
-    "countries":"",
+    "countries":"TW",
     "telemetries":[
       {
         "decoder":"nutsat1"
       }
     ],
-    "updated":"2023-01-11T09:56:21.037301Z",
+    "updated":"2023-02-19T17:02:24.818582Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55124\/2023-01-10T20%3A01%3A51_7004302_55124_98067UR_0-OBJECT-UR_0.20544462444444456_A_r24.0_f1.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
