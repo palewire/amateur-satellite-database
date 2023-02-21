@@ -30379,5 +30379,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GMPZ-7256-9086-2869-1114",
+    "norad_cat_id":46317.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 SQUAREJAWS",
+    "names":"LEMUR 2 117",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-09-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-21T08:31:10.529766Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VZUL-5498-6549-6120-5802",
+    "norad_cat_id":43730.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL-1",
+    "names":"BlackSky 1",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-11-29T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-21T08:31:01.145474Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
