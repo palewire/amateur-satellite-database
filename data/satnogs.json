@@ -22209,8 +22209,8 @@
     "name":"YuZGU-55 6",
     "names":"SWSU-55 No2 (SWSU No6), RadioSkaf RS-11, RS11S",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-02-14T00:00:00Z",
     "launched":"2022-07-21T00:00:00Z",
     "deployed":"2022-07-21T00:00:00Z",
     "website":"https:\/\/swsu.ru\/space\/avtonomnaya-intellektualnaya-gruppirovka-mka\/english\/",
@@ -22219,7 +22219,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T19:14:31.887108Z",
+    "updated":"2023-02-22T08:36:59.724701Z",
     "citation":"https:\/\/community.libre.space\/t\/swsu-tsiolkovsky-ryazan-cubesats-deployed-from-the-iss-21-july-2022\/9436",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -22233,8 +22233,8 @@
     "name":"YuZGU-55 5",
     "names":"SWSU-55 No1 & R-390 (SWSU No5), RadioSkaf RS-10, Ruzaevka-390, RS10S",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-02-14T00:00:00Z",
     "launched":"2022-07-21T00:00:00Z",
     "deployed":"2022-07-21T00:00:00Z",
     "website":"https:\/\/r4uab.ru\/2022\/01\/31\/v-ramkah-kosmicheskogo-eksperimenta-radioskaf-budut-zapushheny-10-sputnikov\/",
@@ -22243,7 +22243,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-12T08:54:30.390323Z",
+    "updated":"2023-02-22T08:37:30.119971Z",
     "citation":"https:\/\/community.libre.space\/t\/swsu-tsiolkovsky-ryazan-cubesats-deployed-from-the-iss-21-july-2022\/9436",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -22761,8 +22761,8 @@
     "name":"FUTABA",
     "names":"",
     "image":"satellites\/63EC4C7D-3320-4764-855C-95907882C0D7.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-02-16T00:00:00Z",
     "launched":null,
     "deployed":"2022-08-12T09:45:00Z",
     "website":"https:\/\/www.kyutech.ac.jp\/whats-new\/topics\/entry-8496.html",
@@ -22771,7 +22771,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-16T16:29:01.468274Z",
+    "updated":"2023-02-22T08:38:10.947613Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53463\/2022-08-15T10%3A41%3A08_6332056_53463_98067UC_0-OBJECT-UC_0.7010609214814849_B_r24.0_f0.5.png",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28777,8 +28777,8 @@
     "name":"LEMUR 2 TOMHENDERSON",
     "names":"LEMUR 2 78",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-02-13T00:00:00Z",
     "launched":"2018-05-21T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28787,8 +28787,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-21T16:43:39.170466Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-02-22T08:38:52.171323Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
