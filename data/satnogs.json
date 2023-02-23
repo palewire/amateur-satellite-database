@@ -26592,7 +26592,9 @@
     "operator":"None",
     "countries":"CN",
     "telemetries":[
-
+      {
+        "decoder":"cas5a"
+      }
     ],
     "updated":"2023-01-29T18:20:00.071158Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-54684\/2022-12-16T00%3A32%3A02_6877987_54684_22167C_0-OBJECT-C_0.07271587037035943_B_r24.0_f0.0.png",
