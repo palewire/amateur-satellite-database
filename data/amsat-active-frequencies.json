@@ -390,16 +390,6 @@
     "satnogs_id":"SSPH-6065-9070-7605-2882"
   },
   {
-    "name":"CAPE-1",
-    "norad_id":"31130",
-    "uplink":null,
-    "downlink":"435.245",
-    "beacon":"435.248",
-    "mode":"1200bps AFSK",
-    "callsign":"K5USL",
-    "satnogs_id":"CICP-0434-9716-2826-6897"
-  },
-  {
     "name":"CAPE-3",
     "norad_id":"47309",
     "uplink":null,
@@ -1705,7 +1695,7 @@
     "uplink":"145.990",
     "downlink":"437.800",
     "beacon":null,
-    "mode":"FM* tone 67.0Hz 9k6*FSK",
+    "mode":"FM* tone 67.0Hz 9k6 FSK",
     "callsign":"NA1SS",
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
   },

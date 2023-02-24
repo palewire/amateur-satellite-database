@@ -4328,16 +4328,16 @@
     "image":"satellites\/athenoxat-1__1.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2015-12-16T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"http:\/\/www.micro-space.org",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.251869Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-02-23T14:58:33.472330Z",
+    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=396",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",

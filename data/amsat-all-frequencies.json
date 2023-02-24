@@ -2130,7 +2130,7 @@
     "beacon":"435.248",
     "mode":"1200bps AFSK",
     "callsign":"K5USL",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"CICP-0434-9716-2826-6897"
   },
   {
@@ -6638,7 +6638,7 @@
     "uplink":"145.990",
     "downlink":"437.800",
     "beacon":null,
-    "mode":"FM* tone 67.0Hz 9k6*FSK",
+    "mode":"FM* tone 67.0Hz 9k6 FSK",
     "callsign":"NA1SS",
     "status":"active",
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
