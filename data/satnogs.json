@@ -4332,12 +4332,12 @@
     "deployed":null,
     "website":"http:\/\/www.micro-space.org",
     "operator":"None",
-    "countries":"",
+    "countries":"SG",
     "telemetries":[
 
     ],
-    "updated":"2023-02-23T14:58:33.472330Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=396",
+    "updated":"2023-02-24T13:23:31.605902Z",
+    "citation":"Na",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -26100,7 +26100,7 @@
   {
     "sat_id":"YXXS-2278-2281-3643-9198",
     "norad_cat_id":99264.0,
-    "norad_follow_id":null,
+    "norad_follow_id":48938.0,
     "name":"LYNK TOWER 1",
     "names":"Shannon",
     "image":"",
@@ -26114,8 +26114,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T10:01:44.220616Z",
-    "citation":"https:\/\/lynk.world\/lynk-announces-successful-deployment-of-worlds-first-commercial-ready-cell-tower-in-space",
+    "updated":"2023-02-24T12:41:49.747587Z",
+    "citation":"Na",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30425,6 +30425,30 @@
     ],
     "updated":"2023-02-21T08:31:01.145474Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OWNR-5564-8604-7838-0387",
+    "norad_cat_id":49470.0,
+    "norad_follow_id":null,
+    "name":"Global-15",
+    "names":"2021-106B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-11-18T00:00:00Z",
+    "deployed":"2021-11-18T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-24T16:09:02.498453Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/148-Ako9gbFdceO4tqklG7DJAkZz6Qw5b8mNtyuv05JU\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
