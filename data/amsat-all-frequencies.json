@@ -821,7 +821,7 @@
     "beacon":"145.920",
     "mode":"FM CTCSS 67.0Hz\/200bps DUV*",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"KHIK-6754-7801-4022-8938"
   },
   {
@@ -2999,7 +2999,7 @@
     "beacon":"145.920",
     "mode":"FM CTCSS 67.0Hz\/200bps DUV",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"KHIK-6754-7801-4022-8938"
   },
   {
@@ -5122,7 +5122,7 @@
     "beacon":"145.920",
     "mode":"FM CTCSS 67.0Hz\/200bps DUV*",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"KHIK-6754-7801-4022-8938"
   },
   {

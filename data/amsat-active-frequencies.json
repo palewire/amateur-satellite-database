@@ -140,16 +140,6 @@
     "satnogs_id":"FVKF-5969-0532-6737-5899"
   },
   {
-    "name":"AO-95",
-    "norad_id":"43770",
-    "uplink":"435.300\/1267.300",
-    "downlink":"145.920",
-    "beacon":"145.920",
-    "mode":"FM CTCSS 67.0Hz\/200bps DUV*",
-    "callsign":null,
-    "satnogs_id":"KHIK-6754-7801-4022-8938"
-  },
-  {
     "name":"AO-109",
     "norad_id":"47311",
     "uplink":"145.860-145.890",
@@ -690,16 +680,6 @@
     "satnogs_id":"GYLI-0056-5213-2621-8146"
   },
   {
-    "name":"Cliff",
-    "norad_id":"43770",
-    "uplink":"435.300\/1267.300",
-    "downlink":"145.920",
-    "beacon":"145.920",
-    "mode":"FM CTCSS 67.0Hz\/200bps DUV",
-    "callsign":null,
-    "satnogs_id":"KHIK-6754-7801-4022-8938"
-  },
-  {
     "name":"Connecta-T1_1",
     "norad_id":"52739",
     "uplink":null,
@@ -1218,16 +1198,6 @@
     "mode":"FM* CTCSS 67.0Hz\/200bps DUV",
     "callsign":null,
     "satnogs_id":"PMAW-9203-2442-8666-3249"
-  },
-  {
-    "name":"Fox-1C",
-    "norad_id":"43770",
-    "uplink":"435.300\/1267.300",
-    "downlink":"145.920",
-    "beacon":"145.920",
-    "mode":"FM CTCSS 67.0Hz\/200bps DUV*",
-    "callsign":null,
-    "satnogs_id":"KHIK-6754-7801-4022-8938"
   },
   {
     "name":"Fox-1D",
