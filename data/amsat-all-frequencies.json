@@ -1012,6 +1012,17 @@
     "satnogs_id":null
   },
   {
+    "name":"ARKSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.450",
+    "beacon":null,
+    "mode":"9600bps NBFM",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Armadillo",
     "norad_id":"44352",
     "uplink":null,
@@ -1174,6 +1185,17 @@
     "mode":"FM",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"AuroraSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.875\/2428.000",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -4642,6 +4664,17 @@
     "satnogs_id":"KMVK-3551-1511-0480-9469"
   },
   {
+    "name":"ExAlta-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.875\/2428.000",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"EXOCONNECT",
     "norad_id":"44410",
     "uplink":null,
@@ -7381,15 +7414,15 @@
     "satnogs_id":null
   },
   {
-    "name":"Light-1",
-    "norad_id":"51509",
+    "name":"LightCube",
+    "norad_id":null,
     "uplink":null,
-    "downlink":"437.710",
+    "downlink":"437.175",
     "beacon":null,
-    "mode":"1k2 BPSK 2k4*GMSK",
+    "mode":"1200bps AFSK",
     "callsign":null,
-    "status":"re-entered",
-    "satnogs_id":"IYPF-0390-6641-7081-7482"
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"LightSail-A",
@@ -7423,6 +7456,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"BHTH-8781-5917-5607-8999"
+  },
+  {
+    "name":"Light-1",
+    "norad_id":"51509",
+    "uplink":null,
+    "downlink":"437.710",
+    "beacon":null,
+    "mode":"1k2 BPSK 2k4*GMSK",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":"IYPF-0390-6641-7081-7482"
   },
   {
     "name":"LilacSat-1",
@@ -8470,15 +8514,15 @@
     "satnogs_id":"KPFF-6607-7806-3530-0376"
   },
   {
-    "name":"NEXUS",
-    "norad_id":"43937",
-    "uplink":"145.900-145.930",
-    "downlink":"435.910-435.880",
-    "beacon":"435.900\/437.075*",
-    "mode":"9k6\/38k4FSK pi\/4QPSK CW*",
-    "callsign":"JS1YAV",
-    "status":"active",
-    "satnogs_id":"MCYZ-8515-1099-2288-3521"
+    "name":"NEUDOSE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.050",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"NEUTRON-1",
@@ -8490,6 +8534,17 @@
     "callsign":"WH6DNU-1",
     "status":"re-entered",
     "satnogs_id":"XGRU-5599-1697-8515-6186"
+  },
+  {
+    "name":"NEXUS",
+    "norad_id":"43937",
+    "uplink":"145.900-145.930",
+    "downlink":"435.910-435.880",
+    "beacon":"435.900\/437.075*",
+    "mode":"9k6\/38k4FSK pi\/4QPSK CW*",
+    "callsign":"JS1YAV",
+    "status":"active",
+    "satnogs_id":"MCYZ-8515-1099-2288-3521"
   },
   {
     "name":"NIUSAT",
@@ -11427,6 +11482,17 @@
     "callsign":"DP0TBE",
     "status":"inactive",
     "satnogs_id":"GRBF-7624-2517-1207-4873"
+  },
+  {
+    "name":"SNoOPI",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"P-band",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"SNUGLITE",
@@ -14837,6 +14903,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"NOPA-4112-5533-4054-3584"
+  },
+  {
+    "name":"YukonSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.875\/2428.000",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"YUSAT-1",
