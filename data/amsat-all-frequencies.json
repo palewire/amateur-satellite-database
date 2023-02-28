@@ -3795,6 +3795,17 @@
     "satnogs_id":null
   },
   {
+    "name":"DAILI",
+    "norad_id":"51443",
+    "uplink":null,
+    "downlink":"914.700",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"non-amateur",
+    "satnogs_id":"ZTNW-3837-0912-0267-8403"
+  },
+  {
     "name":"DANDE",
     "norad_id":"39267",
     "uplink":null,
@@ -3982,15 +3993,15 @@
     "satnogs_id":"FXJU-1542-5342-0390-1271"
   },
   {
-    "name":"DAILI",
-    "norad_id":"51443",
+    "name":"DIDO-3",
+    "norad_id":"46284",
     "uplink":null,
-    "downlink":"914.700",
+    "downlink":"400.450",
     "beacon":null,
-    "mode":"FM",
+    "mode":"1200bps BPSK",
     "callsign":null,
-    "status":"non-amateur",
-    "satnogs_id":"ZTNW-3837-0912-0267-8403"
+    "status":"active",
+    "satnogs_id":"UTVH-8269-9182-3451-8658"
   },
   {
     "name":"Diwata-2",

@@ -900,6 +900,16 @@
     "satnogs_id":"FXJU-1542-5342-0390-1271"
   },
   {
+    "name":"DIDO-3",
+    "norad_id":"46284",
+    "uplink":null,
+    "downlink":"400.450",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":null,
+    "satnogs_id":"UTVH-8269-9182-3451-8658"
+  },
+  {
     "name":"Diwata-2",
     "norad_id":"43678",
     "uplink":"437.500",
