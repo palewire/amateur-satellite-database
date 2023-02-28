@@ -2414,7 +2414,7 @@
     "uplink":null,
     "downlink":"435.650",
     "beacon":null,
-    "mode":"4k8 GMSK telemery",
+    "mode":"4k8 GMSK image data",
     "callsign":"CAS5A",
     "status":"active",
     "satnogs_id":"THLP-9709-3501-8618-5195"
@@ -5406,7 +5406,7 @@
     "uplink":null,
     "downlink":"435.650",
     "beacon":null,
-    "mode":"4k8 GMSK telemery",
+    "mode":"4k8 GMSK image data",
     "callsign":"CAS5A",
     "status":"active",
     "satnogs_id":"THLP-9709-3501-8618-5195"
