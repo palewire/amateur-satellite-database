@@ -670,6 +670,26 @@
     "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
+    "name":"Centauri-3",
+    "norad_id":"47966",
+    "uplink":null,
+    "downlink":"400.180",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":"ZJER-5082-9774-9829-7564"
+  },
+  {
+    "name":"Centauri-4",
+    "norad_id":"48898",
+    "uplink":null,
+    "downlink":"400.180",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "satnogs_id":"AXQA-7364-6026-4427-9296"
+  },
+  {
     "name":"CHOMPTT",
     "norad_id":"43855",
     "uplink":null,
@@ -1800,6 +1820,46 @@
     "satnogs_id":"NJBJ-3838-9654-0508-8247"
   },
   {
+    "name":"KSM1-A",
+    "norad_id":"46912",
+    "uplink":null,
+    "downlink":"401.030",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":"HUNW-6973-2030-4958-5201"
+  },
+  {
+    "name":"KSM1-B",
+    "norad_id":"46914",
+    "uplink":null,
+    "downlink":"401.060",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":"MWRL-6562-0983-3996-2101"
+  },
+  {
+    "name":"KSM1-C",
+    "norad_id":"46906",
+    "uplink":null,
+    "downlink":"401.120",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":"ZQAV-4893-1919-8347-2035"
+  },
+  {
+    "name":"KSM1-D",
+    "norad_id":"46907",
+    "uplink":null,
+    "downlink":"401.090",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":"LQIA-1498-8400-4918-0119"
+  },
+  {
     "name":"KSU-Cubesat",
     "norad_id":"47954",
     "uplink":null,
@@ -2218,6 +2278,16 @@
     "mode":"1k2*\/9k6 BPSK FM",
     "callsign":"PICSAT-2",
     "satnogs_id":"HJCD-0974-5560-7412-4382"
+  },
+  {
+    "name":"PIXL-1",
+    "norad_id":"47448",
+    "uplink":null,
+    "downlink":"400.575",
+    "beacon":null,
+    "mode":"9600bps MSK",
+    "callsign":null,
+    "satnogs_id":"HGYE-7318-8290-9065-4147"
   },
   {
     "name":"PLANETUM-1",

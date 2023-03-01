@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -27080,10 +27080,10 @@
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55129\/2023-01-08T08%3A24%3A20_6993313_55129_98067UW_0-OBJECT-UW_0.8485008414814814_B_r38.5_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "FFPU-7689-6684-1959-2893",
       "SJUP-0567-6490-7403-5685",
-      "XZTP-9500-4625-9997-1830",
-      "RKKL-2156-2467-5303-5398"
+      "RKKL-2156-2467-5303-5398",
+      "FFPU-7689-6684-1959-2893",
+      "XZTP-9500-4625-9997-1830"
     ]
   },
   {
@@ -27308,8 +27308,8 @@
     "sat_id":"MXLF-5468-2040-9772-6013",
     "norad_cat_id":55015.0,
     "norad_follow_id":null,
-    "name":"MilSpace2-1",
-    "names":"Birkeland, ex BROS 1.",
+    "name":"Birkeland",
+    "names":"Milspace2-1, ex BROS 1.",
     "image":"satellites\/milspace2__1.jpg",
     "status":"alive",
     "decayed":null,
@@ -27321,8 +27321,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-28T13:10:47.004460Z",
-    "citation":"Space track",
+    "updated":"2023-03-01T07:13:03.931371Z",
+    "citation":"Changed name according space track",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27332,8 +27332,8 @@
     "sat_id":"VHJE-6004-5828-3149-6931",
     "norad_cat_id":55093.0,
     "norad_follow_id":null,
-    "name":"MilSpace2-2",
-    "names":"Huygens, ex BROS 2.",
+    "name":"Huygens",
+    "names":"Milspace2-1, ex BROS 2.",
     "image":"satellites\/milspace2__1_s5nqYPW.jpg",
     "status":"alive",
     "decayed":null,
@@ -27345,8 +27345,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-28T13:12:00.915583Z",
-    "citation":"Space track",
+    "updated":"2023-03-01T07:12:59.429845Z",
+    "citation":"Changed name according space track",
     "is_frequency_violator":false,
     "associated_satellites":[
 
