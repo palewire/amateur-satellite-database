@@ -26596,8 +26596,8 @@
         "decoder":"cas5a"
       }
     ],
-    "updated":"2023-01-29T18:20:00.071158Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-54684\/2022-12-16T00%3A32%3A02_6877987_54684_22167C_0-OBJECT-C_0.07271587037035943_B_r24.0_f0.0.png",
+    "updated":"2023-02-28T23:20:17.136392Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/hgwbU6JVz\/cas-5a?orgId=1&refresh=30s",
     "is_frequency_violator":false,
     "associated_satellites":[
       "UFRH-3475-3339-9474-7463"
@@ -27153,8 +27153,8 @@
         "decoder":"nutsat1"
       }
     ],
-    "updated":"2023-02-19T17:02:24.818582Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55124\/2023-01-10T20%3A01%3A51_7004302_55124_98067UR_0-OBJECT-UR_0.20544462444444456_A_r24.0_f1.0.png",
+    "updated":"2023-02-28T23:24:47.945896Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/hplsMfA4k\/nutsat-1?orgId=1&refresh=30s",
     "is_frequency_violator":false,
     "associated_satellites":[
       "HZMW-6679-6164-0052-9691"
@@ -27306,7 +27306,7 @@
   },
   {
     "sat_id":"MXLF-5468-2040-9772-6013",
-    "norad_cat_id":99226.0,
+    "norad_cat_id":55015.0,
     "norad_follow_id":null,
     "name":"MilSpace2-1",
     "names":"Birkeland, ex BROS 1.",
@@ -27321,8 +27321,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T14:58:28.119330Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/milspace2.htm",
+    "updated":"2023-02-28T13:10:47.004460Z",
+    "citation":"Space track",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27330,7 +27330,7 @@
   },
   {
     "sat_id":"VHJE-6004-5828-3149-6931",
-    "norad_cat_id":99227.0,
+    "norad_cat_id":55093.0,
     "norad_follow_id":null,
     "name":"MilSpace2-2",
     "names":"Huygens, ex BROS 2.",
@@ -27345,8 +27345,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T14:55:19.720481Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/milspace2.htm",
+    "updated":"2023-02-28T13:12:00.915583Z",
+    "citation":"Space track",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28619,8 +28619,8 @@
         "decoder":"sharjahsat1"
       }
     ],
-    "updated":"2023-01-27T16:30:37.706771Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55104\/2023-01-26T19%3A50%3A05_7077826_55104_23001CZ_0-SHARJAHSAT-1_0.004999139259258101_B_r29.0_f0.0.png",
+    "updated":"2023-02-28T23:22:10.754725Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/HqCRmvA4z\/sharjahsat-1?orgId=1",
     "is_frequency_violator":false,
     "associated_satellites":[
       "GIXZ-8644-9624-1184-1105"
@@ -29727,8 +29727,8 @@
         "decoder":"azaadisat2"
       }
     ],
-    "updated":"2023-02-10T20:39:19.957742Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55563\/2023-02-10T11%3A21%3A10_7142157_55563_23019B_0-OBJECT-B_0.1784454425925901_A_r29.0_f0.9.png",
+    "updated":"2023-02-28T23:21:26.438214Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/xZLPf30Vk\/azaadisat-2?orgId=1&refresh=30s&var-suid=99198&var-filter=version%7C!%3D%7C1.50.0",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BBWX-3388-8645-9305-2509"
@@ -30449,6 +30449,54 @@
     ],
     "updated":"2023-02-24T16:09:02.498453Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/148-Ako9gbFdceO4tqklG7DJAkZz6Qw5b8mNtyuv05JU\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JFWC-2606-2022-6839-3095",
+    "norad_cat_id":99196.0,
+    "norad_follow_id":null,
+    "name":"Sakura",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/sites.google.com\/p.chibakoudai.jp\/gardens-03\/home-english\/missions",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-28T13:14:34.952129Z",
+    "citation":"Adding Temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LZAR-9879-8329-7254-6929",
+    "norad_cat_id":99197.0,
+    "norad_follow_id":null,
+    "name":"Kashiwa",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/sites.google.com\/view\/gardens-02\/english_ver\/home?pli=1",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-02-28T13:13:29.148097Z",
+    "citation":"Adding Temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
