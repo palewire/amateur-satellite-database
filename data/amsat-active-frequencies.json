@@ -562,10 +562,10 @@
   {
     "name":"CAS-5A",
     "norad_id":"54684",
-    "uplink":null,
+    "uplink":"145.975",
     "downlink":"435.650",
     "beacon":null,
-    "mode":"4k8 GMSK image data",
+    "mode":"4k8 GMSK image*data",
     "callsign":"CAS5A",
     "satnogs_id":"THLP-9709-3501-8618-5195"
   },
