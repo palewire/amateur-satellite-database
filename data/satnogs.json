@@ -19055,10 +19055,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -28619,8 +28619,8 @@
         "decoder":"sharjahsat1"
       }
     ],
-    "updated":"2023-02-28T23:22:10.754725Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/HqCRmvA4z\/sharjahsat-1?orgId=1",
+    "updated":"2023-03-06T10:59:42.461043Z",
+    "citation":"Description Update",
     "is_frequency_violator":false,
     "associated_satellites":[
       "GIXZ-8644-9624-1184-1105"
