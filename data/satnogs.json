@@ -30501,5 +30501,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GCBP-7957-7560-7256-2297",
+    "norad_cat_id":37386.0,
+    "norad_follow_id":null,
+    "name":"USA 229",
+    "names":"2011-014A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2011-04-15T00:00:00Z",
+    "deployed":"2011-04-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-06T18:16:08.863932Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1UZEd0IrC9KKJwIjuxqFtBoEHGKTf_RephOhPt74xrsE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
