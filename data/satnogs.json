@@ -26596,8 +26596,8 @@
         "decoder":"cas5a"
       }
     ],
-    "updated":"2023-02-28T23:20:17.136392Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/hgwbU6JVz\/cas-5a?orgId=1&refresh=30s",
+    "updated":"2023-03-07T01:33:29.586705Z",
+    "citation":"Fix dashboard link",
     "is_frequency_violator":false,
     "associated_satellites":[
       "UFRH-3475-3339-9474-7463"
@@ -30521,6 +30521,102 @@
     ],
     "updated":"2023-03-06T18:16:08.863932Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1UZEd0IrC9KKJwIjuxqFtBoEHGKTf_RephOhPt74xrsE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ASVO-0164-9326-5445-2097",
+    "norad_cat_id":37387.0,
+    "norad_follow_id":null,
+    "name":"Resourcesat 2",
+    "names":"2011-015A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2011-04-20T00:00:00Z",
+    "deployed":"2011-04-20T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-07T01:40:59.430133Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1c8CEvHTS2P-3Zx2BgouP_fhzx2J8_4-4Qg7g1KxU0fs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IKJO-3978-3757-3156-8710",
+    "norad_cat_id":43015.0,
+    "norad_follow_id":null,
+    "name":"Mirata",
+    "names":"2017-03C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-11-18T00:00:00Z",
+    "deployed":"2017-11-18T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-07T01:40:53.212732Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1QWPckQnx30qAU0ADV2aRApBnva3vvsw0OXWHohH01co\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TJCV-8849-3542-4986-0124",
+    "norad_cat_id":28051.0,
+    "norad_follow_id":null,
+    "name":"IRS P6",
+    "names":"2003-046A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2003-10-17T00:00:00Z",
+    "deployed":"2003-10-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-07T01:40:48.993912Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1cbObrVUPkNrKBkwYA6y5rjp1SpUYLn_WQvv9tKgGcwA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OTOT-7113-2745-3396-5552",
+    "norad_cat_id":44078.0,
+    "norad_follow_id":null,
+    "name":"Emisat",
+    "names":"2019-018A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-04-01T00:00:00Z",
+    "deployed":"2019-04-01T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-07T01:40:44.326705Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1fTDArajsfKph_FVbMgZOAaaTNLnn2OGgx5IE-nySQ1w\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
