@@ -622,10 +622,10 @@
   {
     "name":"CAS-9",
     "norad_id":"50466",
-    "uplink":null,
+    "uplink":"145.985",
     "downlink":"435.725",
     "beacon":null,
-    "mode":"4k8*GMSK telemetry",
+    "mode":"4k8*GMSK image data",
     "callsign":"CAS9",
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
@@ -1492,10 +1492,10 @@
   {
     "name":"HO-113",
     "norad_id":"50466",
-    "uplink":null,
+    "uplink":"145.985",
     "downlink":"435.725",
     "beacon":null,
-    "mode":"4k8*GMSK telemetry",
+    "mode":"4k8*GMSK image data",
     "callsign":"CAS9",
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
