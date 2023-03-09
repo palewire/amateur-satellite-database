@@ -30621,5 +30621,173 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"PKNM-4652-7495-9605-1383",
+    "norad_cat_id":41187.0,
+    "norad_follow_id":null,
+    "name":"Orbcomm FM108",
+    "names":"2015-081J",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-12-22T00:00:00Z",
+    "deployed":"2015-12-22T00:00:00Z",
+    "website":"https:\/\/www.orbcomm.com\/eu\/partners\/connectivity\/satellite",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-08T20:17:21.827048Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1oHXowxjYGYfa0eZdNRzoft1RoEciGFwrMKUPuPVlrhA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZUMI-4607-5931-2163-9163",
+    "norad_cat_id":41184.0,
+    "norad_follow_id":null,
+    "name":"Orbcomm FM112",
+    "names":"2015-081F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-12-22T00:00:00Z",
+    "deployed":"2015-12-22T00:00:00Z",
+    "website":"https:\/\/www.orbcomm.com\/eu\/partners\/connectivity\/satellite",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-08T20:17:18.522563Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Rf3i4cg6sL_rot118yhZgyfDaRdje8VgsMsE7vkbutc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZIYA-4922-3299-6184-7938",
+    "norad_cat_id":41185.0,
+    "norad_follow_id":null,
+    "name":"Orbcomm FM113",
+    "names":"2015-081G",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-12-22T00:00:00Z",
+    "deployed":"2015-12-22T00:00:00Z",
+    "website":"https:\/\/www.orbcomm.com\/eu\/partners\/connectivity\/satellite",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-08T20:17:13.549664Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1uJtOyfyPHFJMzDOcxRNgJVSmmVozaz6FG76wKI0kDrQ\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PESR-6115-4741-5179-1211",
+    "norad_cat_id":41189.0,
+    "norad_follow_id":null,
+    "name":"Orbcomm FM116",
+    "names":"2015-081L",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-12-22T00:00:00Z",
+    "deployed":"2015-12-22T00:00:00Z",
+    "website":"https:\/\/www.orbcomm.com\/eu\/partners\/connectivity\/satellite",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-08T20:17:09.146642Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1dTAxd0UW961y6a8eKQymLDPEcRml40BK-xwuqhOGmm8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TAJO-5680-9518-6564-4795",
+    "norad_cat_id":41188.0,
+    "norad_follow_id":null,
+    "name":"Orbcomm FM117",
+    "names":"2015-081K",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-12-22T00:00:00Z",
+    "deployed":"2015-12-22T00:00:00Z",
+    "website":"https:\/\/www.orbcomm.com\/eu\/partners\/connectivity\/satellite",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-08T20:17:05.182264Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1vwLh5rFcipeKmLAdAv35NLXvyulqQ5O2c4Ppgj-Iz0Y\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MDPU-8161-8970-5020-7217",
+    "norad_cat_id":41182.0,
+    "norad_follow_id":null,
+    "name":"Orbcomm FM110",
+    "names":"2015-081D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-12-22T00:00:00Z",
+    "deployed":"2015-12-22T00:00:00Z",
+    "website":"https:\/\/www.orbcomm.com\/eu\/partners\/connectivity\/satellite",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-08T20:17:01.558645Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Sorq0skJVfS1L28--WVBYhn2bohHLxxhhMF4Mgtjs2g\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VSSL-5405-1710-5619-0455",
+    "norad_cat_id":41179.0,
+    "norad_follow_id":null,
+    "name":"Orbcomm FM114",
+    "names":"2015-081A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-12-22T00:00:00Z",
+    "deployed":"2015-12-22T00:00:00Z",
+    "website":"https:\/\/www.orbcomm.com\/eu\/partners\/connectivity\/satellite",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-08T20:16:56.598638Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1v_dzFWwPTEiP1QuDIDfndDA-gSU2fpwjq8_v4EvFLB4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
