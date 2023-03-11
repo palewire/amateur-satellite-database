@@ -14371,7 +14371,7 @@
     ],
     "updated":"2022-07-31T18:56:04.438012Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -30785,6 +30785,78 @@
     ],
     "updated":"2023-03-08T20:16:56.598638Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1v_dzFWwPTEiP1QuDIDfndDA-gSU2fpwjq8_v4EvFLB4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UWEZ-7763-9421-5997-1655",
+    "norad_cat_id":36834.0,
+    "norad_follow_id":null,
+    "name":"YAOGAN 10",
+    "names":"2010-038A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2010-08-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-10T20:06:33.882512Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1h2ET9EsT4OqTcpvAGrVMoAGnKvtL_zYg5mofg4hN3hE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WLNP-3674-9529-3403-4772",
+    "norad_cat_id":35951.0,
+    "norad_follow_id":null,
+    "name":"DMSP fD-3 F18",
+    "names":"USA 210 2009-057A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2009-10-18T00:00:00Z",
+    "deployed":"2009-10-18T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-10T20:06:29.814275Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1IOEPLczfUxuD6O8kkMr1iAUk0clb_6rH0OF0z9jKLyc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BSDY-9100-4436-7608-6479",
+    "norad_cat_id":37849.0,
+    "norad_follow_id":null,
+    "name":"SUOMI NPP",
+    "names":"2011-061A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2011-10-28T00:00:00Z",
+    "deployed":"2011-10-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-10T20:06:25.068418Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1lE-1qP7zR4aRj4NO9D1CUI5KcCRnuMZc0aMIVxZheUs\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
