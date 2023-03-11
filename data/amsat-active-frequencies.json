@@ -485,7 +485,7 @@
     "uplink":"144.350\/144.390",
     "downlink":"144.390\/437.225*",
     "beacon":"437.200",
-    "mode":"1k2\/4k8*\/9k6 AFSK\/GFSK",
+    "mode":"1k2\/4k8\/9k6* AFSK\/GFSK",
     "callsign":"BJ1SI",
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },
@@ -1915,7 +1915,7 @@
     "uplink":"144.350\/144.390",
     "downlink":"144.390\/437.225*",
     "beacon":"437.200",
-    "mode":"1k2\/4k8*\/9k6 AFSK\/GFSK",
+    "mode":"1k2\/4k8\/9k6* AFSK\/GFSK",
     "callsign":"BJ1SI",
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },
@@ -2498,6 +2498,16 @@
     "mode":"9600bps BPSK",
     "callsign":"MXSAT-1",
     "satnogs_id":"UFIT-6008-6845-0096-1151"
+  },
+  {
+    "name":"SHERPA-AC1",
+    "norad_id":"52763",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"400.481",
+    "mode":"CW",
+    "callsign":null,
+    "satnogs_id":"GZWO-4435-4264-5456-3264"
   },
   {
     "name":"Siren",
