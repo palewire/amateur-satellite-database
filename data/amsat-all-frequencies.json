@@ -3388,6 +3388,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CPOD-FLT1",
+    "norad_id":"52772",
+    "uplink":null,
+    "downlink":"401.180",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"QWMK-0823-5373-1250-4835"
+  },
+  {
     "name":"CP-1",
     "norad_id":null,
     "uplink":null,
@@ -9295,6 +9306,17 @@
     "satnogs_id":"DTPB-3536-2645-5620-7820"
   },
   {
+    "name":"OMNI-L2",
+    "norad_id":"52771",
+    "uplink":null,
+    "downlink":"401.050",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"ZCCE-7491-3336-8542-6061"
+  },
+  {
     "name":"OMOTENASHI",
     "norad_id":null,
     "uplink":null,
@@ -11361,6 +11383,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"IKUH-1736-5490-5606-9014"
+  },
+  {
+    "name":"SBUDNIC",
+    "norad_id":"52774",
+    "uplink":null,
+    "downlink":"435.000",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"SSBP-7686-6169-1385-2756"
   },
   {
     "name":"SDSAT",
@@ -14496,6 +14529,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"MEPL-6325-0282-8405-8739"
+  },
+  {
+    "name":"VEERY-FS1",
+    "norad_id":"52777",
+    "uplink":null,
+    "downlink":"137.950",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"LOUD-2988-1279-3422-4649"
   },
   {
     "name":"VELOX-I",
