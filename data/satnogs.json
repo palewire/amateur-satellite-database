@@ -24781,8 +24781,8 @@
     "name":"CAS-10",
     "names":"HO-119, XW-4, HOPE-4",
     "image":"satellites\/XW-4.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-03-14T19:18:12Z",
     "launched":"2022-12-18T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -24791,8 +24791,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-06T06:49:22.722422Z",
-    "citation":"space-track.org and network observations",
+    "updated":"2023-03-16T02:33:19.923862Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7277296\/",
     "is_frequency_violator":false,
     "associated_satellites":[
       "VCIQ-3591-2954-8941-6637"
