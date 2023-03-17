@@ -640,36 +640,6 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
-    "name":"CAS-10",
-    "norad_id":"54816",
-    "uplink":"145.870",
-    "downlink":"435.180",
-    "beacon":null,
-    "mode":"VHF\/UHF SSB bandwidth 30kHz",
-    "callsign":null,
-    "satnogs_id":"TLZR-1993-2564-0036-4315"
-  },
-  {
-    "name":"CAS-10",
-    "norad_id":"54816",
-    "uplink":null,
-    "downlink":"435.725",
-    "beacon":null,
-    "mode":"4K8 GMSK telemetry",
-    "callsign":"CAS10",
-    "satnogs_id":"TLZR-1993-2564-0036-4315"
-  },
-  {
-    "name":"CAS-10",
-    "norad_id":"54816",
-    "uplink":null,
-    "downlink":null,
-    "beacon":"435.575",
-    "mode":"DTMF_camera CW",
-    "callsign":null,
-    "satnogs_id":"TLZR-1993-2564-0036-4315"
-  },
-  {
     "name":"Centauri-3",
     "norad_id":"47966",
     "uplink":null,
@@ -1518,36 +1488,6 @@
     "mode":"UHF CW*",
     "callsign":null,
     "satnogs_id":"WMPC-3806-8308-1122-5138"
-  },
-  {
-    "name":"HO-119",
-    "norad_id":"54816",
-    "uplink":"145.870",
-    "downlink":"435.180",
-    "beacon":null,
-    "mode":"VHF\/UHF SSB bandwidth 30kHz",
-    "callsign":null,
-    "satnogs_id":"TLZR-1993-2564-0036-4315"
-  },
-  {
-    "name":"HO-119",
-    "norad_id":"54816",
-    "uplink":null,
-    "downlink":"435.725",
-    "beacon":null,
-    "mode":"4K8 GMSK telemetry",
-    "callsign":"CAS10",
-    "satnogs_id":"TLZR-1993-2564-0036-4315"
-  },
-  {
-    "name":"HO-119",
-    "norad_id":"54816",
-    "uplink":null,
-    "downlink":null,
-    "beacon":"435.575",
-    "mode":"DTMF_camera CW",
-    "callsign":null,
-    "satnogs_id":"TLZR-1993-2564-0036-4315"
   },
   {
     "name":"HSKSAT",
@@ -3318,46 +3258,6 @@
     "mode":"UHF CW*",
     "callsign":null,
     "satnogs_id":"WMPC-3806-8308-1122-5138"
-  },
-  {
-    "name":"XW-4",
-    "norad_id":"54684",
-    "uplink":"145.820",
-    "downlink":"435.540",
-    "beacon":null,
-    "mode":"VHF\/UHF SSB bandwidth 30kHz",
-    "callsign":null,
-    "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
-    "name":"XW-4",
-    "norad_id":"54684",
-    "uplink":"145.925",
-    "downlink":"435.600",
-    "beacon":null,
-    "mode":"VHF\/UHF FM bandwidth 30kHz",
-    "callsign":null,
-    "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
-    "name":"XW-4",
-    "norad_id":"54684",
-    "uplink":null,
-    "downlink":"435.650",
-    "beacon":null,
-    "mode":"4k8 GMSK telemery",
-    "callsign":"CAS5A",
-    "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
-    "name":"XW-4",
-    "norad_id":"54684",
-    "uplink":null,
-    "downlink":null,
-    "beacon":"435.570",
-    "mode":"UHF_CW",
-    "callsign":"BJ1SO",
-    "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
     "name":"ZACube-1",
