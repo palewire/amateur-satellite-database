@@ -7346,8 +7346,8 @@
     "name":"FengMaNiu 1",
     "names":"FMN-1",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-03-16T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -7356,8 +7356,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.536358Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-03-17T18:15:08.646543Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
