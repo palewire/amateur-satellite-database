@@ -30861,5 +30861,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"TSAO-4746-5053-9177-0580",
+    "norad_cat_id":null,
+    "norad_follow_id":null,
+    "name":"PW-SAT3",
+    "names":"",
+    "image":"satellites\/PW-SAT3.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/pw-sat.pl\/en\/home-page\/",
+    "operator":"None",
+    "countries":"PL",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-21T20:51:10.210727Z",
+    "citation":"https:\/\/pw-sat.pl\/en\/whats-next-pw-sat3\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
