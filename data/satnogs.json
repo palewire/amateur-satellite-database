@@ -30885,5 +30885,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RYJB-2072-5322-3255-6402",
+    "norad_cat_id":99195.0,
+    "norad_follow_id":null,
+    "name":"Connecta T2.1",
+    "names":"",
+    "image":"satellites\/connectat21.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.plan.space\/technology\/connecta-t2-1",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-22T21:23:40.465742Z",
+    "citation":"Latest Temporary NORAD ID that can be used",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
