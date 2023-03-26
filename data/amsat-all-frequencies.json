@@ -7117,6 +7117,28 @@
     "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
   {
+    "name":"JPSS-1",
+    "norad_id":"43013",
+    "uplink":null,
+    "downlink":"2.248GHz",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":"UDBA-5128-1022-2939-7269"
+  },
+  {
+    "name":"JPSS-2",
+    "norad_id":"54234",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
     "name":"Jugnu",
     "norad_id":"37839",
     "uplink":null,
@@ -8877,10 +8899,142 @@
     "satnogs_id":"OISZ-4850-1941-2572-5984"
   },
   {
+    "name":"NOAA-1",
+    "norad_id":"4793",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
+    "name":"NOAA-2",
+    "norad_id":"6235",
+    "uplink":null,
+    "downlink":"1.698GHz",
+    "beacon":null,
+    "mode":"HRPT",
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":"CLVL-1708-0584-5360-1752"
+  },
+  {
+    "name":"NOAA-3",
+    "norad_id":"6920",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
+    "name":"NOAA-4",
+    "norad_id":"7529",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
+    "name":"NOAA-5",
+    "norad_id":"9057",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
+    "name":"NOAA-6",
+    "norad_id":"11416",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
+    "name":"NOAA-7",
+    "norad_id":"12553",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
+    "name":"NOAA-8",
+    "norad_id":"13923",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
+    "name":"NOAA-9",
+    "norad_id":"15427",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":"RQTU-0962-4589-7454-8433"
+  },
+  {
+    "name":"NOAA-10",
+    "norad_id":"16969",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
+    "name":"NOAA-11",
+    "norad_id":"19531",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
     "name":"NOAA-12",
     "norad_id":"21263",
     "uplink":null,
     "downlink":"137.620\/1701.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
+  },
+  {
+    "name":"NOAA-13",
+    "norad_id":"22739",
+    "uplink":null,
+    "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -8952,6 +9106,28 @@
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"LSCG-5988-6402-6624-6585"
+  },
+  {
+    "name":"NOAA 20",
+    "norad_id":"43013",
+    "uplink":null,
+    "downlink":"2.248GHz",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":"UDBA-5128-1022-2939-7269"
+  },
+  {
+    "name":"NOAA-21",
+    "norad_id":"54234",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
   },
   {
     "name":"NOOR-1A",
