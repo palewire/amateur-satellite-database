@@ -1001,6 +1001,17 @@
     "satnogs_id":null
   },
   {
+    "name":"ARCSAT",
+    "norad_id":"52161",
+    "uplink":null,
+    "downlink":"267.300",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"ROIC-1992-5104-6062-9006"
+  },
+  {
     "name":"ARC-1",
     "norad_id":"40969",
     "uplink":null,
@@ -1054,6 +1065,17 @@
     "callsign":"WG9XFC-X",
     "status":"re-entered",
     "satnogs_id":null
+  },
+  {
+    "name":"ARGOS-4",
+    "norad_id":"54023",
+    "uplink":null,
+    "downlink":"465.988\/1.703GHz",
+    "beacon":null,
+    "mode":"QPSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"FSSK-6949-2964-0842-4335"
   },
   {
     "name":"Argus",

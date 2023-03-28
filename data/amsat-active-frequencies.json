@@ -160,6 +160,16 @@
     "satnogs_id":"UVHJ-3379-3188-8525-8707"
   },
   {
+    "name":"ARGOS-4",
+    "norad_id":"54023",
+    "uplink":null,
+    "downlink":"465.988\/1.703GHz",
+    "beacon":null,
+    "mode":"QPSK",
+    "callsign":null,
+    "satnogs_id":"FSSK-6949-2964-0842-4335"
+  },
+  {
     "name":"Astrocast-0.1",
     "norad_id":"43798",
     "uplink":null,
