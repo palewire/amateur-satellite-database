@@ -30909,5 +30909,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"FYAH-9859-4626-0049-4502",
+    "norad_cat_id":99194.0,
+    "norad_follow_id":null,
+    "name":"RUZAEVKA-390",
+    "names":"RS44S, \u0420\u0443\u0437\u0430\u0435\u0432\u043a\u0430-390",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/ruzaevka-390.r4uab.ru\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-30T09:36:19.356092Z",
+    "citation":"https:\/\/ruzaevka-390.r4uab.ru\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
