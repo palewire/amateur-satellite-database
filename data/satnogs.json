@@ -30933,5 +30933,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"LIQD-2119-7593-4558-1219",
+    "norad_cat_id":99193.0,
+    "norad_follow_id":null,
+    "name":"KILICSAT",
+    "names":"",
+    "image":"satellites\/kilicsat_satnogs.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/kilicsat.com\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-03-31T02:01:57.707996Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/253",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
