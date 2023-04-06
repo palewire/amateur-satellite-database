@@ -30975,8 +30975,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-04T15:00:17.567679Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-04-06T09:32:05.369546Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/254",
     "is_frequency_violator":false,
     "associated_satellites":[
 

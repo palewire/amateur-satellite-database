@@ -473,6 +473,17 @@
     "satnogs_id":"HYSI-6582-0584-6522-0844"
   },
   {
+    "name":"EOSSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"AoXiang-1",
     "norad_id":"42735",
     "uplink":null,
@@ -4761,6 +4772,17 @@
     "callsign":"ON02FR",
     "status":"re-entered",
     "satnogs_id":"XJEY-1734-2475-9790-3893"
+  },
+  {
+    "name":"EOS-7",
+    "norad_id":"55562",
+    "uplink":null,
+    "downlink":"145.825",
+    "beacon":null,
+    "mode":"APRS digipeater",
+    "callsign":"A55BTN",
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"EO-79",

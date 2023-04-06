@@ -1010,6 +1010,16 @@
     "satnogs_id":"GTMF-2365-6960-5386-3224"
   },
   {
+    "name":"EOS-7",
+    "norad_id":"55562",
+    "uplink":null,
+    "downlink":"145.825",
+    "beacon":null,
+    "mode":"APRS digipeater",
+    "callsign":"A55BTN",
+    "satnogs_id":null
+  },
+  {
     "name":"EO-88",
     "norad_id":"42017",
     "uplink":"435.015-435.045",
