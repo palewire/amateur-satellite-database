@@ -30964,20 +30964,20 @@
     "norad_follow_id":null,
     "name":"SSS-2B",
     "names":"APSCO-SSS-2B",
-    "image":"satellites\/2YaWZdBBuMx8A-Q4zRokWXCFH0YyoHbNk2iH1bJSbDg.png",
+    "image":"satellites\/sss-2b.png",
     "status":"future",
     "decayed":null,
     "launched":null,
     "deployed":null,
-    "website":"https:\/\/www.spacerl.com\/sss-project\/",
+    "website":"https:\/\/uzay.tubitak.gov.tr",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2023-04-06T09:32:05.369546Z",
+    "updated":"2023-04-07T11:36:38.765148Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/254",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -30999,8 +30999,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-04T15:00:31.161281Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-04-07T11:46:24.443783Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/254#note_1345058720",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31023,8 +31023,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-04T14:59:28.187042Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-04-07T11:46:07.499081Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/254#note_1345058720",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31073,6 +31073,30 @@
     ],
     "updated":"2023-04-04T15:00:52.965571Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VBLU-6813-8903-5245-2689",
+    "norad_cat_id":26857.0,
+    "norad_follow_id":null,
+    "name":"ICO F2",
+    "names":"2001-026A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2001-06-19T00:00:00Z",
+    "deployed":"2001-06-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-07T11:48:34.880798Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1fnY3pWB7R8HFPivI6Nk9TBpXQCYulsTGuyEduveQBy0\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
