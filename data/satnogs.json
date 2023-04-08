@@ -31101,5 +31101,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"NLUY-5633-4354-5527-8129",
+    "norad_cat_id":55562.0,
+    "norad_follow_id":null,
+    "name":"EOS-07",
+    "names":"A55BTN, EOS-7",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-02-10T00:00:00Z",
+    "deployed":"2023-02-10T00:00:00Z",
+    "website":"",
+    "operator":"ISRO",
+    "countries":"BT,IN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-08T08:52:47.421606Z",
+    "citation":"Adding India and Bhutan as country of origin",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
