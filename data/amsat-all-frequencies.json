@@ -1162,7 +1162,7 @@
     "beacon":null,
     "mode":"9600bps NBFM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -1338,7 +1338,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -4913,7 +4913,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7729,7 +7729,7 @@
     "beacon":null,
     "mode":"1200bps AFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8829,7 +8829,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -11997,7 +11997,7 @@
     "beacon":null,
     "mode":"P-band",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -15385,7 +15385,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
