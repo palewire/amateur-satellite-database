@@ -26538,7 +26538,7 @@
     "image":"satellites\/Taifa-1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
+    "launched":"2023-04-11T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/sayarilabs.ke\/",
     "operator":"None",
@@ -26546,11 +26546,11 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T10:01:44.429590Z",
-    "citation":"https:\/\/www.endurosat.com\/news\/taifa-1-kenyan-nanosat\/",
+    "updated":"2023-04-09T19:48:32.274263Z",
+    "citation":"Adding description from duplicate entry YHSO-7061-7256-7231-6721",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "YHSO-7061-7256-7231-6721"
     ]
   },
   {
@@ -26896,7 +26896,7 @@
     "norad_cat_id":99236.0,
     "norad_follow_id":null,
     "name":"Pleiades - Sapling Giganteum",
-    "names":"",
+    "names":"Sapling-2",
     "image":"satellites\/366a2e_781f0f6251424688b315404d5a077236mv2_QORKUTj.webp",
     "status":"future",
     "decayed":null,
@@ -26908,8 +26908,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-22T11:45:15.137085Z",
-    "citation":"https:\/\/github.com\/stanford-ssi\/sapling",
+    "updated":"2023-04-09T21:24:11.199788Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/sapling-1.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26920,7 +26920,7 @@
     "norad_cat_id":99237.0,
     "norad_follow_id":null,
     "name":"Pleiades - Sapling Sempervirens",
-    "names":"",
+    "names":"Sapling-1",
     "image":"satellites\/366a2e_781f0f6251424688b315404d5a077236mv2_Natn98b.webp",
     "status":"alive",
     "decayed":null,
@@ -26932,8 +26932,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-06T06:55:07.869080Z",
-    "citation":"https:\/\/github.com\/stanford-ssi\/sapling",
+    "updated":"2023-04-09T21:36:33.888308Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/sapling-1.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31121,6 +31121,342 @@
     ],
     "updated":"2023-04-08T08:52:47.421606Z",
     "citation":"Adding India and Bhutan as country of origin",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AOWV-3972-1112-6379-5554",
+    "norad_cat_id":99180.0,
+    "norad_follow_id":null,
+    "name":"Sateliot-0",
+    "names":"Platform-3",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-04-11T00:00:00Z",
+    "deployed":"2023-04-11T00:00:00Z",
+    "website":"https:\/\/sateliot.space",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T22:10:48.217241Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QIRV-9727-2281-6096-8256",
+    "norad_cat_id":99181.0,
+    "norad_follow_id":null,
+    "name":"IRIS-C",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"http:\/\/satellite.ncku.edu.tw\/",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T22:04:40.935848Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PDTE-7914-8172-6131-7029",
+    "norad_cat_id":99182.0,
+    "norad_follow_id":null,
+    "name":"MRC-100",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"HU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T21:55:21.840272Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZOFI-4343-0704-2759-9150",
+    "norad_cat_id":99183.0,
+    "norad_follow_id":null,
+    "name":"DISCO-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/vbn.aau.dk\/en\/projects\/disco-det-danske-studentersatellit-program",
+    "operator":"None",
+    "countries":"DK",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T21:40:30.316201Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VEJR-2097-4929-7198-9651",
+    "norad_cat_id":99184.0,
+    "norad_follow_id":null,
+    "name":"Pleiades Yearling",
+    "names":"Pleiades Yearling 2.0",
+    "image":"satellites\/YearlingV2-34.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-04-10T00:00:00Z",
+    "deployed":"2023-04-11T00:00:00Z",
+    "website":"https:\/\/www.broncospace.com\/proves",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T21:21:05.367516Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CUBE-8122-6984-5413-0457",
+    "norad_cat_id":99186.0,
+    "norad_follow_id":null,
+    "name":"DEWASAT-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T19:14:02.330926Z",
+    "citation":"https:\/\/celestrak.org supplemental TLE list",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XFVV-4114-4685-9543-2674",
+    "norad_cat_id":99185.0,
+    "norad_follow_id":null,
+    "name":"BRO-9",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T19:37:27.697654Z",
+    "citation":"Fix Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DIVJ-8110-8669-4923-0530",
+    "norad_cat_id":99179.0,
+    "norad_follow_id":null,
+    "name":"ION SCV-010",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T22:52:57.956029Z",
+    "citation":"Fix Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WIWD-2303-6727-6651-0854",
+    "norad_cat_id":99178.0,
+    "norad_follow_id":null,
+    "name":"Vigoride-6",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T22:59:13.095255Z",
+    "citation":"https:\/\/celestrak.org supplemental TLE list",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LEIH-8524-4118-4440-0024",
+    "norad_cat_id":55441.0,
+    "norad_follow_id":null,
+    "name":"ION SCV-009",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T23:05:08.734560Z",
+    "citation":"https:\/\/www.space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ELEP-6330-7885-0562-6088",
+    "norad_cat_id":99177.0,
+    "norad_follow_id":null,
+    "name":"REVELA",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T23:54:30.489698Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56357.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LFKI-9261-5756-6706-7300",
+    "norad_cat_id":99176.0,
+    "norad_follow_id":null,
+    "name":"VIREO",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-09T23:54:25.257046Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56357.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AEAC-2250-6197-4156-4584",
+    "norad_cat_id":99175.0,
+    "norad_follow_id":null,
+    "name":"LLITED A",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-10T00:04:16.123060Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56357.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JFXT-7836-6700-0360-6639",
+    "norad_cat_id":99174.0,
+    "norad_follow_id":null,
+    "name":"LLITED B",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-10T00:04:19.362639Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56357.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
