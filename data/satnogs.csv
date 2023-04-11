@@ -1317,7 +1317,7 @@ SVNK-0275-3230-3083-0188,99187.0,,ROM-2,"Space Sparrow, HADES-C",satellites/sat2
 MFFD-1441-3963-0060-3978,99188.0,,BRO-9,,,future,,,,https://unseenlabs.space/,None,FR,[],2023-04-04T15:00:52.965571Z,Add temporary NORAD ID,False,[]
 VBLU-6813-8903-5245-2689,26857.0,,ICO F2,2001-026A,,alive,,2001-06-19T00:00:00Z,2001-06-19T00:00:00Z,,None,US,[],2023-04-07T11:48:34.880798Z,https://docs.google.com/document/d/1fnY3pWB7R8HFPivI6Nk9TBpXQCYulsTGuyEduveQBy0/edit?usp=sharing,False,[]
 NLUY-5633-4354-5527-8129,55562.0,,EOS-07,"A55BTN, EOS-7",,alive,,2023-02-10T00:00:00Z,2023-02-10T00:00:00Z,,ISRO,"BT,IN",[],2023-04-08T08:52:47.421606Z,Adding India and Bhutan as country of origin,False,[]
-AOWV-3972-1112-6379-5554,99180.0,,Sateliot-0,Platform-3,,future,,2023-04-11T00:00:00Z,2023-04-11T00:00:00Z,https://sateliot.space,None,ES,[],2023-04-09T22:10:48.217241Z,Add temporary NORAD ID,False,[]
+AOWV-3972-1112-6379-5554,99180.0,,Sateliot-0,Platform-3,satellites/MicrosoftTeams-image_9.png,future,,2023-04-11T00:00:00Z,2023-04-11T00:00:00Z,https://sateliot.space,None,ES,[],2023-04-11T08:28:36.239499Z,Endurosat release image,False,[]
 QIRV-9727-2281-6096-8256,99181.0,,IRIS-C,,,future,,,,http://satellite.ncku.edu.tw/,None,TW,[],2023-04-09T22:04:40.935848Z,Add temporary NORAD ID,True,[]
 PDTE-7914-8172-6131-7029,99182.0,,MRC-100,,,future,,,,,None,HU,[],2023-04-09T21:55:21.840272Z,Add temporary NORAD ID,False,[]
 ZOFI-4343-0704-2759-9150,99183.0,,DISCO-1,,,future,,,,https://vbn.aau.dk/en/projects/disco-det-danske-studentersatellit-program,None,DK,[],2023-04-09T21:40:30.316201Z,Add temporary NORAD ID,False,[]

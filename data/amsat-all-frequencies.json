@@ -2493,7 +2493,7 @@
     "beacon":null,
     "mode":"SSB*",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {
@@ -2504,7 +2504,7 @@
     "beacon":"145.855",
     "mode":"4800bps GMSK CW",
     "callsign":"BJ1SK",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {
@@ -15583,7 +15583,7 @@
     "beacon":null,
     "mode":"SSB*",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {
@@ -15594,7 +15594,7 @@
     "beacon":"145.855",
     "mode":"4800bps GMSK CW",
     "callsign":"BJ1SK",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {

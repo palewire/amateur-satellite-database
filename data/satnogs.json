@@ -31132,7 +31132,7 @@
     "norad_follow_id":null,
     "name":"Sateliot-0",
     "names":"Platform-3",
-    "image":"",
+    "image":"satellites\/MicrosoftTeams-image_9.png",
     "status":"future",
     "decayed":null,
     "launched":"2023-04-11T00:00:00Z",
@@ -31143,8 +31143,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T22:10:48.217241Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-04-11T08:28:36.239499Z",
+    "citation":"Endurosat release image",
     "is_frequency_violator":false,
     "associated_satellites":[
 

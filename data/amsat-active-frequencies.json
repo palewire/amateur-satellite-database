@@ -510,26 +510,6 @@
     "satnogs_id":"PDYY-8479-0832-6941-1000"
   },
   {
-    "name":"CAS-4A",
-    "norad_id":"42761",
-    "uplink":"435.210-435.230",
-    "downlink":"145.880-145.860",
-    "beacon":null,
-    "mode":"SSB*",
-    "callsign":null,
-    "satnogs_id":"UKHX-2090-2661-0534-2014"
-  },
-  {
-    "name":"CAS-4A",
-    "norad_id":"42761",
-    "uplink":null,
-    "downlink":"145.835",
-    "beacon":"145.855",
-    "mode":"4800bps GMSK CW",
-    "callsign":"BJ1SK",
-    "satnogs_id":"UKHX-2090-2661-0534-2014"
-  },
-  {
     "name":"CAS-4B",
     "norad_id":"42759",
     "uplink":"435.270-435.290",
@@ -3298,26 +3278,6 @@
     "mode":"FM 9600bps BPSK",
     "callsign":"BI4ST",
     "satnogs_id":"YFPC-1248-4077-8296-8715"
-  },
-  {
-    "name":"ZHUHAI-1 01",
-    "norad_id":"42761",
-    "uplink":"435.210-435.230",
-    "downlink":"145.880-145.860",
-    "beacon":null,
-    "mode":"SSB*",
-    "callsign":null,
-    "satnogs_id":"UKHX-2090-2661-0534-2014"
-  },
-  {
-    "name":"ZHUHAI-1 01",
-    "norad_id":"42761",
-    "uplink":null,
-    "downlink":"145.835",
-    "beacon":"145.855",
-    "mode":"4800bps GMSK CW",
-    "callsign":"BJ1SK",
-    "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {
     "name":"ZHUHAI-1 02",
