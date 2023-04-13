@@ -31461,5 +31461,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"MGKM-0263-1718-7280-0648",
+    "norad_cat_id":41877.0,
+    "norad_follow_id":null,
+    "name":"Resourcesat 2A",
+    "names":"2016-074A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2016-12-07T00:00:00Z",
+    "deployed":"2016-12-07T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-12T19:06:37.181726Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1nBTohcHi3l4Qy5CQi3v6zD5KhDJCc5Qjawr_F_TQRsg\/edit",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LHVH-6029-0360-3982-9460",
+    "norad_cat_id":35931.0,
+    "norad_follow_id":null,
+    "name":"Oceansat 2",
+    "names":"2009-051A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2009-09-23T00:00:00Z",
+    "deployed":"2009-09-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-12T19:06:26.000076Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1nBTohcHi3l4Qy5CQi3v6zD5KhDJCc5Qjawr_F_TQRsg\/edit",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
