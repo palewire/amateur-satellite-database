@@ -11020,8 +11020,8 @@
     "name":"BY70-3",
     "names":"NPUBY3",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-04-08T00:00:00Z",
     "launched":"2020-11-06T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/english.ccastic.spacechina.com",
@@ -11030,8 +11030,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T11:16:21.618953Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-04-14T04:40:47.975760Z",
+    "citation":"https:\/\/www.space-track.org\/#decay",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19800,8 +19800,8 @@
     "image":"satellites\/CIRBE.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:53:17Z",
     "website":"https:\/\/lasp.colorado.edu\/home\/cirbe\/",
     "operator":"None",
     "countries":"US",
@@ -19810,8 +19810,8 @@
         "decoder":"cirbe"
       }
     ],
-    "updated":"2022-05-24T13:59:28.705773Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/230",
+    "updated":"2023-04-14T06:54:19.443840Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25290,16 +25290,16 @@
     "image":"satellites\/FhFQnP4XEAA25jM.jpg",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:52:00Z",
     "website":"https:\/\/www.uvsq.fr\/inspire-sat-7",
     "operator":"None",
     "countries":"FR",
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T09:55:06.425520Z",
-    "citation":"https:\/\/twitter.com\/uvsqsat",
+    "updated":"2023-04-14T06:54:19.477964Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25914,16 +25914,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T08:01:14Z",
     "website":"https:\/\/www.tomorrow.io\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T10:01:44.193411Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2064785;sess=0",
+    "updated":"2023-04-14T06:54:19.484263Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26538,16 +26538,16 @@
     "image":"satellites\/Taifa-1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2023-04-11T00:00:00Z",
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:50:46Z",
     "website":"https:\/\/sayarilabs.ke\/",
     "operator":"None",
     "countries":"KE",
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T19:48:32.274263Z",
-    "citation":"Adding description from duplicate entry YHSO-7061-7256-7231-6721",
+    "updated":"2023-04-14T06:54:19.448571Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YHSO-7061-7256-7231-6721"
@@ -26900,16 +26900,16 @@
     "image":"satellites\/366a2e_781f0f6251424688b315404d5a077236mv2_QORKUTj.webp",
     "status":"future",
     "decayed":null,
-    "launched":"2023-01-02T14:55:00Z",
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:51:20Z",
     "website":"https:\/\/github.com\/stanford-ssi\/sapling",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T21:24:11.199788Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/sapling-1.htm",
+    "updated":"2023-04-14T06:54:19.438280Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28707,8 +28707,8 @@
     "image":"satellites\/satellite-for-satnogs.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-02-14T00:00:00Z",
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:52:00Z",
     "website":"http:\/\/www.orbitalsolutions.mc\/our-satellites\/",
     "operator":"None",
     "countries":"MC,CH",
@@ -28717,8 +28717,8 @@
         "decoder":"roseycubesat1"
       }
     ],
-    "updated":"2023-02-05T06:16:46.374429Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=892",
+    "updated":"2023-04-14T06:54:19.466254Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30871,16 +30871,16 @@
     "image":"satellites\/connectat21.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:51:08Z",
     "website":"https:\/\/www.plan.space\/technology\/connecta-t2-1",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2023-03-22T21:23:40.465742Z",
-    "citation":"Latest Temporary NORAD ID that can be used",
+    "updated":"2023-04-14T06:54:19.496878Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30919,16 +30919,16 @@
     "image":"satellites\/kilicsat_satnogs.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:48:48Z",
     "website":"https:\/\/kilicsat.com\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-03-31T02:01:57.707996Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/253",
+    "updated":"2023-04-14T06:54:19.461894Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -30967,16 +30967,16 @@
     "image":"satellites\/sss-2b.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:48:17Z",
     "website":"https:\/\/uzay.tubitak.gov.tr",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2023-04-07T11:36:38.765148Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/254",
+    "updated":"2023-04-14T06:54:19.471757Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -31039,7 +31039,7 @@
     "image":"satellites\/sat20-removebg-preview.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-04-14T06:47:00Z",
     "deployed":null,
     "website":"https:\/\/rom-space.ro\/",
     "operator":"None",
@@ -31047,32 +31047,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-04T15:01:11.242933Z",
-    "citation":"Add temporary NORAD ID",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"MFFD-1441-3963-0060-3978",
-    "norad_cat_id":99188.0,
-    "norad_follow_id":null,
-    "name":"BRO-9",
-    "names":"",
-    "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"https:\/\/unseenlabs.space\/",
-    "operator":"None",
-    "countries":"FR",
-    "telemetries":[
-
-    ],
-    "updated":"2023-04-04T15:00:52.965571Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-04-14T05:49:18.418887Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31135,16 +31111,16 @@
     "image":"satellites\/MicrosoftTeams-image_9.png",
     "status":"future",
     "decayed":null,
-    "launched":"2023-04-11T00:00:00Z",
-    "deployed":"2023-04-11T00:00:00Z",
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:54:09Z",
     "website":"https:\/\/sateliot.space",
     "operator":"None",
     "countries":"ES",
     "telemetries":[
 
     ],
-    "updated":"2023-04-11T08:28:36.239499Z",
-    "citation":"Endurosat release image",
+    "updated":"2023-04-14T06:54:19.509464Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31159,7 +31135,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-04-14T06:47:00Z",
     "deployed":null,
     "website":"http:\/\/satellite.ncku.edu.tw\/",
     "operator":"None",
@@ -31167,8 +31143,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T22:04:40.935848Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-04-14T05:49:18.395144Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -31183,7 +31159,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-04-14T06:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -31191,8 +31167,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T21:55:21.840272Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-04-14T05:49:18.412678Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31207,7 +31183,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-04-14T06:47:00Z",
     "deployed":null,
     "website":"https:\/\/vbn.aau.dk\/en\/projects\/disco-det-danske-studentersatellit-program",
     "operator":"None",
@@ -31215,8 +31191,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T21:40:30.316201Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-04-14T05:49:18.403531Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31231,16 +31207,16 @@
     "image":"satellites\/YearlingV2-34.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-04-10T00:00:00Z",
-    "deployed":"2023-04-11T00:00:00Z",
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:52:12Z",
     "website":"https:\/\/www.broncospace.com\/proves",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T21:21:05.367516Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-04-14T06:54:19.457453Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31255,16 +31231,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:48:37Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T19:14:02.330926Z",
-    "citation":"https:\/\/celestrak.org supplemental TLE list",
+    "updated":"2023-04-14T06:54:19.515683Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31279,19 +31255,19 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T07:49:17Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T19:37:27.697654Z",
-    "citation":"Fix Status",
+    "updated":"2023-04-14T06:54:19.490651Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "MFFD-1441-3963-0060-3978"
     ]
   },
   {
@@ -31303,16 +31279,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T08:04:03Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T22:52:57.956029Z",
-    "citation":"Fix Status",
+    "updated":"2023-04-14T06:54:19.503195Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31327,16 +31303,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2023-04-14T06:47:00Z",
+    "deployed":"2023-04-14T08:09:09Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T22:59:13.095255Z",
-    "citation":"https:\/\/celestrak.org supplemental TLE list",
+    "updated":"2023-04-14T06:54:19.453090Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255\/34",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31375,7 +31351,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-04-14T06:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -31383,8 +31359,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T23:54:30.489698Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56357.0;all",
+    "updated":"2023-04-14T05:49:18.439475Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31399,7 +31375,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-04-14T06:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -31407,8 +31383,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T23:54:25.257046Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56357.0;all",
+    "updated":"2023-04-14T05:49:18.431512Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31423,7 +31399,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-04-14T06:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -31431,8 +31407,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-10T00:04:16.123060Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56357.0;all",
+    "updated":"2023-04-14T05:49:18.380741Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31447,7 +31423,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-04-14T06:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -31455,8 +31431,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-10T00:04:19.362639Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56357.0;all",
+    "updated":"2023-04-14T05:49:18.371026Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31519,7 +31495,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-04-14T00:00:00Z",
+    "launched":"2023-04-14T06:47:00Z",
     "deployed":null,
     "website":"https:\/\/visionaespacial.com\/",
     "operator":"None",
@@ -31527,8 +31503,32 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-13T20:43:42.084236Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-04-14T05:49:18.447039Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-14-06-47-utc\/10255",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GXDZ-6863-9184-9694-9376",
+    "norad_cat_id":99172.0,
+    "norad_follow_id":null,
+    "name":"NEUDOSE",
+    "names":"VE3NEU, NEUtron DOSimetry & Exploration",
+    "image":"satellites\/NEUDOSE.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/mcmasterneudose.ca",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-14T04:53:08.854118Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/255",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -6603,7 +6603,7 @@
     "name":"INSPIRESat-7",
     "norad_id":null,
     "uplink":"145.830",
-    "downlink":"435.200",
+    "downlink":"435.200\/437.410",
     "beacon":"437.410",
     "mode":"9600bps BPSK FM CW",
     "callsign":null,
