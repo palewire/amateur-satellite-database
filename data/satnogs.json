@@ -15986,14 +15986,14 @@
     "decayed":null,
     "launched":"2017-06-23T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/skyandspace.co\/",
     "operator":"None",
     "countries":"AU,IL,GB",
     "telemetries":[
 
     ],
-    "updated":"2021-10-12T07:22:47.035662Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2023-04-13T13:25:19.266147Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/Sky_and_Space_Global",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28055,7 +28055,7 @@
     "name":"Pleiades-Yearling",
     "names":"PROVES-Yearling",
     "image":"satellites\/Yearling_Vibe.jpg.webp",
-    "status":"alive",
+    "status":"dead",
     "decayed":null,
     "launched":"2023-01-03T00:00:00Z",
     "deployed":null,
@@ -28065,8 +28065,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-06T06:56:08.960523Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-04-13T13:26:59.896761Z",
+    "citation":"Failed to Deploy https:\/\/community.libre.space\/t\/observation-7407297-pleiades-yearling-99206\/10280",
     "is_frequency_violator":false,
     "associated_satellites":[
       "HYAE-6054-8137-1918-7560"
@@ -31505,6 +31505,30 @@
     ],
     "updated":"2023-04-12T19:06:26.000076Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1nBTohcHi3l4Qy5CQi3v6zD5KhDJCc5Qjawr_F_TQRsg\/edit",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MWZH-3560-0830-6670-1735",
+    "norad_cat_id":99173.0,
+    "norad_follow_id":null,
+    "name":"VCUB1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-04-14T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/visionaespacial.com\/",
+    "operator":"None",
+    "countries":"BR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-13T20:43:42.084236Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
