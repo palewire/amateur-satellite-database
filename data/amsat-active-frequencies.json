@@ -2165,7 +2165,7 @@
     "uplink":null,
     "downlink":"437.850*\/437.950\/10465.000",
     "beacon":null,
-    "mode":"2k4\/9k6*FSK DVB-S2",
+    "mode":"2k4\/4k8\/9k6*FSK SSTV",
     "callsign":"RS15S",
     "satnogs_id":"OMJF-9743-1169-8966-7578"
   },
