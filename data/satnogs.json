@@ -31557,5 +31557,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"UEAX-6836-0063-7308-4747",
+    "norad_cat_id":46479.0,
+    "norad_follow_id":null,
+    "name":"HJ-2B",
+    "names":"2020-067B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-09-27T00:00:00Z",
+    "deployed":"2020-09-27T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-16T10:30:00.662864Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1zcRnZybcaeWDUHKEpWawAt1BcH_cvhOVsBLBMF8Xvcs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YAIQ-7435-2255-0261-4653",
+    "norad_cat_id":43529.0,
+    "norad_follow_id":null,
+    "name":"Paktes 1A",
+    "names":"2018-056A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-07-09T00:00:00Z",
+    "deployed":"2018-07-09T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-04-16T10:29:52.617596Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1aaDJzKLT2Coziavm4DxHurcj49ArLy_RpShBhL6Q9Iw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

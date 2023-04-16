@@ -3118,7 +3118,7 @@
     "uplink":null,
     "downlink":"437.250\/2402.000",
     "beacon":null,
-    "mode":"9k6\/19k2 GFSK",
+    "mode":"9k6*\/19k2 GFSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
@@ -6617,7 +6617,7 @@
     "downlink":"435.200\/437.410*",
     "beacon":null,
     "mode":"9k6 BPSK FM",
-    "callsign":null,
+    "callsign":"UVSQPL",
     "status":"active",
     "satnogs_id":null
   },
@@ -10978,6 +10978,17 @@
     "satnogs_id":"ZYKO-7290-5830-6811-4050"
   },
   {
+    "name":"RoseyCubesat-1",
+    "norad_id":null,
+    "uplink":"145.850",
+    "downlink":"436.825",
+    "beacon":null,
+    "mode":"1k2*\/9k6 BPSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"RSP-00",
     "norad_id":"43639",
     "uplink":null,
@@ -11537,6 +11548,28 @@
     "callsign":"AM9NPQ",
     "status":"active",
     "satnogs_id":"BZWR-6172-2785-3507-5423"
+  },
+  {
+    "name":"Sapling-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Sapling-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":"KN6HCC",
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"SATLLA-1",
