@@ -19810,8 +19810,8 @@
         "decoder":"cirbe"
       }
     ],
-    "updated":"2023-04-15T05:46:40.631779Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-15-06-47-utc\/10255",
+    "updated":"2023-04-15T14:13:48.048876Z",
+    "citation":"add link to SatNOGS DB",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31536,7 +31536,7 @@
   },
   {
     "sat_id":"ANXM-6391-1491-9881-7191",
-    "norad_cat_id":null,
+    "norad_cat_id":99171.0,
     "norad_follow_id":null,
     "name":"LEMUR 2 ROMEO-N-LEO",
     "names":"LEMUR 2 165",
@@ -31551,8 +31551,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-15T10:31:52.789272Z",
-    "citation":"Own research",
+    "updated":"2023-04-15T15:53:06.901725Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 

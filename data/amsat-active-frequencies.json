@@ -145,7 +145,7 @@
     "uplink":"145.860-145.890",
     "downlink":"435.790-435.760",
     "beacon":"435.750",
-    "mode":"1k2 BPSK SSB CW* FT4*",
+    "mode":"1k2 BPSK SSB CW*",
     "callsign":null,
     "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
@@ -650,6 +650,16 @@
     "satnogs_id":"AXQA-7364-6026-4427-9296"
   },
   {
+    "name":"CIRBE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.250\/2402.000",
+    "beacon":null,
+    "mode":"9k6\/19k2 GFSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"CHOMPTT",
     "norad_id":"43855",
     "uplink":null,
@@ -925,7 +935,7 @@
     "uplink":"145.935-145.995",
     "downlink":"435.670-435.610",
     "beacon":"435.605",
-    "mode":"SSB CW FT4",
+    "mode":"SSB CW",
     "callsign":"RS44",
     "satnogs_id":"UFYD-5782-6372-2920-6054"
   },
@@ -1225,7 +1235,7 @@
     "uplink":"145.860-145.890",
     "downlink":"435.790-435.760",
     "beacon":"435.750",
-    "mode":"1k2 BPSK SSB CW* FT4*",
+    "mode":"1k2 BPSK SSB CW*",
     "callsign":null,
     "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
@@ -1530,6 +1540,16 @@
     "satnogs_id":"KAEG-9794-2542-4829-8548"
   },
   {
+    "name":"INSPIRESat-7",
+    "norad_id":null,
+    "uplink":"145.830",
+    "downlink":"435.200\/437.410*",
+    "beacon":null,
+    "mode":"9k6 BPSK FM",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"INS-2B",
     "norad_id":"54365",
     "uplink":null,
@@ -1738,6 +1758,16 @@
     "mode":"9600bps GMSK",
     "callsign":null,
     "satnogs_id":"NHQA-6504-1011-2518-4894"
+  },
+  {
+    "name":"KILICSAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.900",
+    "beacon":null,
+    "mode":"9k6 GMSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"KITSUNE",
@@ -2325,7 +2355,7 @@
     "uplink":"145.860-145.890",
     "downlink":"435.790-435.760",
     "beacon":"435.750",
-    "mode":"1k2 BPSK SSB CW* FT4*",
+    "mode":"1k2 BPSK SSB CW*",
     "callsign":null,
     "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
