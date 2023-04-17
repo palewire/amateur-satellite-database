@@ -3300,6 +3300,17 @@
     "satnogs_id":"TVZK-1463-5590-8994-0377"
   },
   {
+    "name":"Connecta-T2.1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.525",
+    "beacon":null,
+    "mode":"9k6 GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"COPPER",
     "norad_id":"39395",
     "uplink":null,
@@ -4191,6 +4202,17 @@
     "satnogs_id":null
   },
   {
+    "name":"DEWASAT-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.100",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"DEWA-Sat1",
     "norad_id":"50989",
     "uplink":null,
@@ -5003,6 +5025,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"EKKN-6409-4479-1170-0607"
+  },
+  {
+    "name":"FacSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.350",
+    "beacon":null,
+    "mode":"9k6 GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"FalconSAT-3",
@@ -7678,6 +7711,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Lemur-2 164\/165",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"LAPAN-A2",
     "norad_id":"40931",
     "uplink":"145.880\/145.825",
@@ -10219,6 +10263,17 @@
     "satnogs_id":"ZVIO-0893-8720-4254-3996"
   },
   {
+    "name":"Platform-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Pocket-PUCP",
     "norad_id":null,
     "uplink":null,
@@ -12540,6 +12595,17 @@
     "satnogs_id":null
   },
   {
+    "name":"SSS-2B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.800",
+    "beacon":null,
+    "mode":"9k6 GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"STACEM",
     "norad_id":null,
     "uplink":null,
@@ -13263,6 +13329,17 @@
     "mode":"9600bps GMSK D-STAR",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"Taifa-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.360",
+    "beacon":null,
+    "mode":"9k6 GMSK",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
