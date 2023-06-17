@@ -2145,6 +2145,17 @@
     "satnogs_id":"RJCF-5779-9216-5641-4111"
   },
   {
+    "name":"BRO-9",
+    "norad_id":"56185",
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"XFVV-4114-4685-9543-2674"
+  },
+  {
     "name":"BSUSat-1",
     "norad_id":"43666",
     "uplink":"436.200",
