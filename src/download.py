@@ -23,10 +23,7 @@ def je9pel():
     """Download data from JE9PEL's website."""
     # Download the data
     url = "http://www.ne.jp/asahi/hamradio/je9pel/satslist.csv"
-    df = pd.read_csv(url, delimiter=";", header=None, dtype=str)
-
-    # Name the columns
-    df.columns = [
+    fields = [
         "name",
         "norad_id",
         "uplink",
@@ -36,6 +33,14 @@ def je9pel():
         "callsign",
         "status",
     ]
+    df = pd.read_csv(
+        url,
+        delimiter=";",
+        header=None,
+        names=fields,
+        dtype=str,
+        on_bad_lines="warn",
+    )
 
     # Strip all whitespace
     for c in df.columns:
