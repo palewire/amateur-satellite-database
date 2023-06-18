@@ -5511,6 +5511,17 @@
     "satnogs_id":null
   },
   {
+    "name":"FossaSat-FEROX 14~17",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Fox-1A",
     "norad_id":"40967",
     "uplink":"435.182",
@@ -6200,6 +6211,17 @@
     "beacon":"436.888",
     "mode":"1k2\/2k4 AFSK APRS FM CW",
     "callsign":"AO4URE",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Hades-C",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.235",
+    "beacon":null,
+    "mode":"GPSK",
+    "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
   },
@@ -6963,6 +6985,17 @@
     "satnogs_id":"DIVJ-8110-8669-4923-0530"
   },
   {
+    "name":"ION-SCV 011",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"IO-26",
     "norad_id":"22826",
     "uplink":"145.875-145.950",
@@ -7159,6 +7192,17 @@
     "callsign":"RS0ISS",
     "status":"inactive",
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
+  },
+  {
+    "name":"Istanbul-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"ISX",
@@ -8437,6 +8481,17 @@
     "satnogs_id":null
   },
   {
+    "name":"MDQSAT-1C\/1D",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.900",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Mea Huaka'i Voyager",
     "norad_id":null,
     "uplink":null,
@@ -8787,6 +8842,17 @@
     "callsign":"3B8MIR",
     "status":"active",
     "satnogs_id":"VIIQ-5994-5073-6455-6748"
+  },
+  {
+    "name":"MRC-100",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.720",
+    "beacon":null,
+    "mode":"1k25_GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"MTCube",
@@ -11275,6 +11341,17 @@
     "satnogs_id":"ZYKO-7290-5830-6811-4050"
   },
   {
+    "name":"ROM-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.235",
+    "beacon":null,
+    "mode":"GPSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"RoseyCubesat-1",
     "norad_id":"56212",
     "uplink":"145.850",
@@ -11922,6 +11999,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"TPDX-4064-2548-6167-6896"
+  },
+  {
+    "name":"SATLLA-2I",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.250",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Sathyabamasat",
@@ -15067,6 +15155,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2I",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.820",
+    "beacon":null,
+    "mode":"9k6_FSK",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
