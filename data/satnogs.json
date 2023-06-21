@@ -18965,10 +18965,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -22572,7 +22572,7 @@
   {
     "sat_id":"UDZO-6677-3907-8516-6750",
     "norad_cat_id":99352.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56957.0,
     "name":"URESAT-1",
     "names":"UreSat-1 \/ Hades-B",
     "image":"satellites\/logo_sat3.png",
@@ -22586,8 +22586,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T23:12:11.603554Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-06-21T07:33:42.176592Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25867,7 +25867,7 @@
   {
     "sat_id":"HJKD-8545-6228-9588-8194",
     "norad_cat_id":99258.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56959.0,
     "name":"Tomorrow-R2",
     "names":"",
     "image":"",
@@ -25881,8 +25881,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:24:45.962255Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-06-21T07:21:15.553299Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30873,7 +30873,7 @@
   {
     "sat_id":"ZHHQ-5752-7286-6121-4715",
     "norad_cat_id":99192.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56957.0,
     "name":"Istanbul",
     "names":"Hello Space Istanbul",
     "image":"satellites\/uydu_01.png",
@@ -30887,8 +30887,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T23:11:43.532233Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-06-21T07:33:42.138326Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30969,7 +30969,7 @@
   {
     "sat_id":"SVNK-0275-3230-3083-0188",
     "norad_cat_id":99187.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56957.0,
     "name":"ROM-2",
     "names":"Space Sparrow, HADES-C",
     "image":"satellites\/sat20-removebg-preview.png",
@@ -30983,8 +30983,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T23:11:50.473076Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-06-21T07:33:42.196762Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31089,7 +31089,7 @@
   {
     "sat_id":"PDTE-7914-8172-6131-7029",
     "norad_cat_id":99182.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56957.0,
     "name":"MRC-100",
     "names":"",
     "image":"",
@@ -31103,8 +31103,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T23:11:54.820583Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-06-21T07:33:42.235529Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33997,7 +33997,7 @@
   {
     "sat_id":"TWEF-8525-8046-9814-5948",
     "norad_cat_id":99103.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56957.0,
     "name":"ION SCV-011",
     "names":"Savvy Simon",
     "image":"",
@@ -34011,8 +34011,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:24:45.987457Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-06-21T07:33:42.216414Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34045,7 +34045,7 @@
   {
     "sat_id":"JXZL-9099-0615-9027-6512",
     "norad_cat_id":99101.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56957.0,
     "name":"Outpost Mission 0",
     "names":"",
     "image":"",
@@ -34059,8 +34059,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:35:09.646445Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-06-21T07:33:42.118585Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34069,7 +34069,7 @@
   {
     "sat_id":"RINJ-3108-9789-8075-5047",
     "norad_cat_id":99100.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56957.0,
     "name":"SpeiSat",
     "names":"Guardian of Hope",
     "image":"",
@@ -34079,12 +34079,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:35:09.629180Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-06-21T07:33:42.157494Z",
+    "citation":"Network Observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34093,7 +34093,7 @@
   {
     "sat_id":"XDTB-0414-1246-0782-0962",
     "norad_cat_id":99099.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56957.0,
     "name":"SATLLA-2I",
     "names":"",
     "image":"",
@@ -34107,8 +34107,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:35:09.611132Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-06-21T07:33:42.101796Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34117,7 +34117,7 @@
   {
     "sat_id":"TOVH-3956-2034-5742-2102",
     "norad_cat_id":99098.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56933.0,
     "name":"Otter Pup",
     "names":"WN2XEL",
     "image":"",
@@ -34131,8 +34131,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:59:34.824251Z",
-    "citation":"https:\/\/apps.fcc.gov\/els\/GetAtt.html?id=322546&x=.",
+    "updated":"2023-06-21T07:49:27.746054Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34237,7 +34237,7 @@
   {
     "sat_id":"QAEA-9330-4311-4548-0260",
     "norad_cat_id":99083.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56934.0,
     "name":"Transporter 8 Satellite A",
     "names":"",
     "image":"",
@@ -34251,8 +34251,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-14T07:38:42.924884Z",
-    "citation":"Change name",
+    "updated":"2023-06-21T08:27:37.779616Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34621,7 +34621,7 @@
   {
     "sat_id":"RSUY-7664-3825-0684-2430",
     "norad_cat_id":99080.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56964.0,
     "name":"Transporter 8 Satellite D",
     "names":"",
     "image":"",
@@ -34635,8 +34635,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-14T14:33:06.354262Z",
-    "citation":"From strf observations",
+    "updated":"2023-06-21T09:04:10.070116Z",
+    "citation":"Network Observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34693,7 +34693,7 @@
   {
     "sat_id":"LFWM-4123-3835-3488-6305",
     "norad_cat_id":99079.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56987.0,
     "name":"Transporter 8 Satellite E",
     "names":"",
     "image":"",
@@ -34707,8 +34707,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-15T10:12:44.768458Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2023-06-21T09:04:37.102132Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34717,7 +34717,7 @@
   {
     "sat_id":"JPOQ-1297-7674-4432-5408",
     "norad_cat_id":99078.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56939.0,
     "name":"Transporter 8 Satellite F",
     "names":"",
     "image":"",
@@ -34731,8 +34731,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-15T10:19:24.352899Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2023-06-21T08:26:47.132414Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7717197\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
