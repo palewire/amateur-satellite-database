@@ -34045,22 +34045,22 @@
   {
     "sat_id":"JXZL-9099-0615-9027-6512",
     "norad_cat_id":99101.0,
-    "norad_follow_id":56957.0,
+    "norad_follow_id":null,
     "name":"Outpost Mission 0",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2023-06-12T21:35:00Z",
-    "deployed":null,
+    "deployed":"2023-06-21T08:12:00Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T07:33:42.118585Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-22T09:57:14.410551Z",
+    "citation":"https:\/\/twitter.com\/D_Orbit\/status\/1671793351098499074",
     "is_frequency_violator":false,
     "associated_satellites":[
 
