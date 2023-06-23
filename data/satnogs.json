@@ -22572,7 +22572,7 @@
   {
     "sat_id":"UDZO-6677-3907-8516-6750",
     "norad_cat_id":99352.0,
-    "norad_follow_id":56957.0,
+    "norad_follow_id":null,
     "name":"URESAT-1",
     "names":"UreSat-1 \/ Hades-B",
     "image":"satellites\/logo_sat3.png",
@@ -22586,8 +22586,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T07:33:42.176592Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-22T16:47:51.247854Z",
+    "citation":"Deployed, keep the deployer's TLE set at the deployment moment.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30969,7 +30969,7 @@
   {
     "sat_id":"SVNK-0275-3230-3083-0188",
     "norad_cat_id":99187.0,
-    "norad_follow_id":56957.0,
+    "norad_follow_id":null,
     "name":"ROM-2",
     "names":"Space Sparrow, HADES-C",
     "image":"satellites\/sat20-removebg-preview.png",
@@ -30983,8 +30983,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T07:33:42.196762Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-22T16:39:56.371149Z",
+    "citation":"Deployed, keep the deployer's TLE set at the deployment moment.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31089,7 +31089,7 @@
   {
     "sat_id":"PDTE-7914-8172-6131-7029",
     "norad_cat_id":99182.0,
-    "norad_follow_id":56957.0,
+    "norad_follow_id":null,
     "name":"MRC-100",
     "names":"",
     "image":"",
@@ -31103,8 +31103,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T07:33:42.235529Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-22T16:35:25.800014Z",
+    "citation":"Deployed, keep the deployer's TLE set at the deployment moment.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32949,14 +32949,14 @@
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/bsail.ru\/?page_id=2255&lang=en",
     "operator":"None",
     "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.710655Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-22T19:23:30.709415Z",
+    "citation":"https:\/\/bsail.ru\/?page_id=2255&lang=en",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33021,14 +33021,14 @@
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/bsail.ru\/?page_id=2255&lang=en",
     "operator":"None",
     "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.702128Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-22T19:23:57.875101Z",
+    "citation":"https:\/\/bsail.ru\/?page_id=2255&lang=en",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34860,10 +34860,10 @@
   },
   {
     "sat_id":"RSUY-7664-3825-0684-2430",
-    "norad_cat_id":99080.0,
-    "norad_follow_id":56964.0,
-    "name":"Transporter 8 Satellite D",
-    "names":"",
+    "norad_cat_id":56964.0,
+    "norad_follow_id":null,
+    "name":"OBJECT 23084AJ",
+    "names":"Transporter 8 Satellite D",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -34875,8 +34875,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T09:04:10.070116Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-22T23:30:45.128156Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56964\/2023-06-22T13%3A12%3A18_7743721_56964_23084AJ_0-OBJECT-AJ_0.9475867633333337_B_r24.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
 
