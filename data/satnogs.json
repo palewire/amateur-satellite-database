@@ -25867,7 +25867,7 @@
   {
     "sat_id":"HJKD-8545-6228-9588-8194",
     "norad_cat_id":99258.0,
-    "norad_follow_id":56959.0,
+    "norad_follow_id":56958.0,
     "name":"Tomorrow-R2",
     "names":"",
     "image":"",
@@ -25881,8 +25881,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T07:21:15.553299Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-23T11:10:50.584415Z",
+    "citation":"strf observations by hollosat",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34525,7 +34525,7 @@
   {
     "sat_id":"TYHN-1504-1942-6350-8970",
     "norad_cat_id":99081.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56962.0,
     "name":"Transporter 8 Satellite B",
     "names":"",
     "image":"",
@@ -34539,8 +34539,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-14T07:38:54.724014Z",
-    "citation":"Add Temporary NORAD ID and change name",
+    "updated":"2023-06-23T11:10:25.837798Z",
+    "citation":"strf observations by hollosat",
     "is_frequency_violator":false,
     "associated_satellites":[
 

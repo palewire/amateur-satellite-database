@@ -6986,7 +6986,7 @@
   },
   {
     "name":"ION-SCV 011",
-    "norad_id":null,
+    "norad_id":"56957",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
@@ -10038,6 +10038,17 @@
     "downlink":"437.525",
     "beacon":"145.980",
     "mode":"1200bps AFSK CW",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Otter-Pup",
+    "norad_id":"56933",
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"38k4_GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -14539,6 +14550,17 @@
     "mode":"1k2AFSK 9k6GMSK CW",
     "callsign":"JG6YJO",
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"Tomorrow-R2",
+    "norad_id":"56959",
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"38k4_GFSK",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
