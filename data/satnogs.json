@@ -25867,7 +25867,7 @@
   {
     "sat_id":"HJKD-8545-6228-9588-8194",
     "norad_cat_id":99258.0,
-    "norad_follow_id":56958.0,
+    "norad_follow_id":56959.0,
     "name":"Tomorrow-R2",
     "names":"",
     "image":"",
@@ -25881,8 +25881,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-23T11:10:50.584415Z",
-    "citation":"strf observations by hollosat",
+    "updated":"2023-06-24T07:47:02.120642Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7750170\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30873,7 +30873,7 @@
   {
     "sat_id":"ZHHQ-5752-7286-6121-4715",
     "norad_cat_id":99192.0,
-    "norad_follow_id":56957.0,
+    "norad_follow_id":null,
     "name":"Istanbul",
     "names":"Hello Space Istanbul",
     "image":"satellites\/uydu_01.png",
@@ -30887,8 +30887,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T07:33:42.138326Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-24T09:23:18.827114Z",
+    "citation":"Stop following deployer",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33996,8 +33996,8 @@
   },
   {
     "sat_id":"TWEF-8525-8046-9814-5948",
-    "norad_cat_id":99103.0,
-    "norad_follow_id":56957.0,
+    "norad_cat_id":56957.0,
+    "norad_follow_id":null,
     "name":"ION SCV-011",
     "names":"Savvy Simon",
     "image":"",
@@ -34011,11 +34011,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T07:33:42.216414Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-24T08:04:53.124828Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56957\/2023-06-24T07%3A33%3A12_7750358_56957_23084AB_0-ION-SCV-011_1.5207132522222366_B_r24.0_f0.5.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "WIOX-1519-1406-1867-1880"
     ]
   },
   {
@@ -34069,7 +34069,7 @@
   {
     "sat_id":"RINJ-3108-9789-8075-5047",
     "norad_cat_id":99100.0,
-    "norad_follow_id":56957.0,
+    "norad_follow_id":null,
     "name":"SpeiSat",
     "names":"Guardian of Hope",
     "image":"",
@@ -34083,8 +34083,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T07:33:42.157494Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-24T09:23:54.528930Z",
+    "citation":"Stop following deployer",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34093,7 +34093,7 @@
   {
     "sat_id":"XDTB-0414-1246-0782-0962",
     "norad_cat_id":99099.0,
-    "norad_follow_id":56957.0,
+    "norad_follow_id":null,
     "name":"SATLLA-2I",
     "names":"",
     "image":"",
@@ -34107,8 +34107,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T07:33:42.101796Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-24T09:24:23.483525Z",
+    "citation":"Stop following deployer",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34116,8 +34116,8 @@
   },
   {
     "sat_id":"TOVH-3956-2034-5742-2102",
-    "norad_cat_id":99098.0,
-    "norad_follow_id":56933.0,
+    "norad_cat_id":56933.0,
+    "norad_follow_id":null,
     "name":"Otter Pup",
     "names":"WN2XEL",
     "image":"",
@@ -34131,8 +34131,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T07:49:27.746054Z",
-    "citation":"Network Observations",
+    "updated":"2023-06-24T07:25:48.896251Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56933\/2023-06-23T23%3A57%3A41_7750184_56933_23084B_0-OBJECT-B_0.060674786296289085_A_r77.0_f20.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34981,7 +34981,7 @@
   {
     "sat_id":"URSD-5571-2115-5307-8731",
     "norad_cat_id":99077.0,
-    "norad_follow_id":56957.0,
+    "norad_follow_id":null,
     "name":"UNICORN-2I",
     "names":"",
     "image":"",
@@ -34995,8 +34995,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T13:36:42.087912Z",
-    "citation":"From matrix chat",
+    "updated":"2023-06-24T09:24:56.815744Z",
+    "citation":"Stop following deployer",
     "is_frequency_violator":false,
     "associated_satellites":[
 

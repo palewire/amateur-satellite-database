@@ -1640,6 +1640,16 @@
     "satnogs_id":"DIVJ-8110-8669-4923-0530"
   },
   {
+    "name":"ION-SCV 011",
+    "norad_id":"56957",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":"TWEF-8525-8046-9814-5948"
+  },
+  {
     "name":"IO-86",
     "norad_id":"40931",
     "uplink":"145.880\/145.825",
@@ -2108,6 +2118,16 @@
     "mode":"9600bps GMSK",
     "callsign":"3B8MIR",
     "satnogs_id":"VIIQ-5994-5073-6455-6748"
+  },
+  {
+    "name":"MRC-100",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.720",
+    "beacon":null,
+    "mode":"1k25_GMSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"MXSAT-1",
@@ -2688,6 +2708,16 @@
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"DP1GOS",
     "satnogs_id":"QTXY-8933-7836-7484-6250"
+  },
+  {
+    "name":"SpeiSat",
+    "norad_id":"56957",
+    "uplink":null,
+    "downlink":"437.500",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":"SPEIST",
+    "satnogs_id":"TWEF-8525-8046-9814-5948"
   },
   {
     "name":"SPORT",

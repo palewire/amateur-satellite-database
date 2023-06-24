@@ -6992,8 +6992,8 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
+    "status":"active",
+    "satnogs_id":"TWEF-8525-8046-9814-5948"
   },
   {
     "name":"IO-26",
@@ -8851,7 +8851,7 @@
     "beacon":null,
     "mode":"1k25_GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -10051,7 +10051,7 @@
     "mode":"38k4_GFSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"TOVH-3956-2034-5742-2102"
   },
   {
     "name":"OUFTI-1",
@@ -12868,6 +12868,17 @@
     "callsign":null,
     "status":"non-amateur",
     "satnogs_id":null
+  },
+  {
+    "name":"SpeiSat",
+    "norad_id":"56957",
+    "uplink":null,
+    "downlink":"437.500",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":"SPEIST",
+    "status":"active",
+    "satnogs_id":"TWEF-8525-8046-9814-5948"
   },
   {
     "name":"SpinSat",
