@@ -8849,7 +8849,7 @@
     "uplink":null,
     "downlink":"436.720",
     "beacon":null,
-    "mode":"1k25_GMSK",
+    "mode":"1k25\/2k5\/5k\/12k5*GMSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
