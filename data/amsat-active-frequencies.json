@@ -1682,10 +1682,10 @@
   {
     "name":"IRIS-C",
     "norad_id":"56221",
-    "uplink":null,
+    "uplink":"145.860",
     "downlink":"436.915",
     "beacon":null,
-    "mode":"9600bps BPSK",
+    "mode":"9600bps BPSK Digipeater",
     "callsign":"BN0IRC",
     "satnogs_id":"QIRV-9727-2281-6096-8256"
   },
@@ -3138,6 +3138,16 @@
     "mode":"1200bps RC-BPSK CW*",
     "callsign":"TRIV0 TRIV1",
     "satnogs_id":"APZD-5343-3708-9744-3445"
+  },
+  {
+    "name":"TRISAT-R",
+    "norad_id":"53108",
+    "uplink":null,
+    "downlink":"435.613",
+    "beacon":null,
+    "mode":"1000bps FSK",
+    "callsign":null,
+    "satnogs_id":"FWIK-4601-2533-0527-1613"
   },
   {
     "name":"TRSI-3",

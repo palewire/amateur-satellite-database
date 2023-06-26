@@ -32127,7 +32127,7 @@
     "name":"CUBEBEL-2",
     "names":"BSUSAT-2, EU11S",
     "image":"satellites\/CUBEBEL-2-resize.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32139,8 +32139,8 @@
         "decoder":"cubebel2"
       }
     ],
-    "updated":"2023-06-21T23:55:39.449330Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.753207Z",
+    "citation":"Move to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32177,7 +32177,7 @@
     "name":"ArcCube-01",
     "names":"RS25S",
     "image":"satellites\/large_ARCCUBE_01_11138b4ff1.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32187,8 +32187,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T23:59:17.898783Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.662322Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32369,7 +32369,7 @@
     "name":"Sirius-SINP-3U",
     "names":"",
     "image":"satellites\/medium_MKA_Sirius_2146a06155.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32379,8 +32379,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:01:02.836524Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.822551Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32393,7 +32393,7 @@
     "name":"StratoSat TK-1",
     "names":"RS52S",
     "image":"satellites\/large_52753_d2ba51af57.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32403,8 +32403,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.865125Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.859877Z",
+    "citation":"Move to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32417,7 +32417,7 @@
     "name":"StratoSat TK-1-A",
     "names":"RS45S",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32427,8 +32427,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.856268Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:14.017980Z",
+    "citation":"Move to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32561,7 +32561,7 @@
     "name":"Svyatobor-1",
     "names":"RS60S",
     "image":"satellites\/large_52794735676_c5827012e0_k_785593a49a.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32571,8 +32571,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.804461Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.617650Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32585,7 +32585,7 @@
     "name":"Nanozond-1",
     "names":"RS49S",
     "image":"satellites\/large_Tyum_GU_2023_44396d46c6.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32595,8 +32595,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.793914Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.728034Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32609,7 +32609,7 @@
     "name":"AHMAT-1",
     "names":"RS41S",
     "image":"satellites\/large_Ahmat_1_7564081887.jpeg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32619,8 +32619,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.784164Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.706658Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32633,7 +32633,7 @@
     "name":"CubeSX-HSE-3",
     "names":"RS42S",
     "image":"satellites\/large_Sputnik_V_Sh_E_3_ba4794ed8f.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32643,8 +32643,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.778667Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.801109Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32657,7 +32657,7 @@
     "name":"VIZARD-meteo",
     "names":"RS38S",
     "image":"satellites\/large_Vizard_meteo_bda37bb6c8.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32667,8 +32667,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.773106Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.640017Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32705,7 +32705,7 @@
     "name":"Monitor-3",
     "names":"",
     "image":"satellites\/large_Monitor_3_MGU_ee683f3379.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32715,8 +32715,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.761841Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.999840Z",
+    "citation":"Move to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32729,7 +32729,7 @@
     "name":"Monitor-4",
     "names":"",
     "image":"satellites\/large_Monitor_4_MGU_545fe1cfd3.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32739,8 +32739,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.755813Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.843945Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32753,7 +32753,7 @@
     "name":"UmKA-1",
     "names":"RS40S, \u0423\u043c\u041a\u0410-1",
     "image":"satellites\/umka.jpeg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32763,8 +32763,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T14:08:12.449050Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.880785Z",
+    "citation":"Move to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32777,7 +32777,7 @@
     "name":"KuzGTU-1",
     "names":"RS47S",
     "image":"satellites\/large_Kuz_GTU_1_31ec0dae08.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32787,8 +32787,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.749957Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.684777Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32801,7 +32801,7 @@
     "name":"UTMN2",
     "names":"RS27S",
     "image":"satellites\/large_OGU_Nanozond_1_acaf98dcd6.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32811,8 +32811,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.737255Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.941851Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32825,7 +32825,7 @@
     "name":"ReshUCube-2",
     "names":"RS37S",
     "image":"satellites\/medium_1_3_1_01d3c4dd6d.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32835,8 +32835,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.743750Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.901036Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32849,7 +32849,7 @@
     "name":"Polytech Universe-3",
     "names":"RS46S",
     "image":"satellites\/large_PU_3_543c54b2af.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32859,8 +32859,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.730720Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.961807Z",
+    "citation":"Move to alive",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32945,7 +32945,7 @@
     "name":"Yarilo No. 3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32955,8 +32955,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T19:23:30.709415Z",
-    "citation":"https:\/\/bsail.ru\/?page_id=2255&lang=en",
+    "updated":"2023-06-26T08:16:13.981195Z",
+    "citation":"Move to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32969,7 +32969,7 @@
     "name":"Norby-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32979,8 +32979,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.717416Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:13.776880Z",
+    "citation":"Move to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33017,7 +33017,7 @@
     "name":"Yarilo No. 4",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -33027,8 +33027,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T19:23:57.875101Z",
-    "citation":"https:\/\/bsail.ru\/?page_id=2255&lang=en",
+    "updated":"2023-06-26T08:16:13.921410Z",
+    "citation":"Move to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34286,8 +34286,8 @@
     "sat_id":"CGZW-4770-7854-7332-3001",
     "norad_cat_id":99091.0,
     "norad_follow_id":null,
-    "name":"CSTP-1.1",
-    "names":"",
+    "name":"STC-1.1",
+    "names":"CSTP-1.1",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -34299,8 +34299,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.691352Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T07:44:03.576504Z",
+    "citation":"Change name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34310,8 +34310,8 @@
     "sat_id":"OEVP-0911-2494-4510-3616",
     "norad_cat_id":99090.0,
     "norad_follow_id":null,
-    "name":"CSTP-1.2",
-    "names":"",
+    "name":"STC-1.2",
+    "names":"CSTP-1.2",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -34323,8 +34323,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.682611Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T07:44:34.021256Z",
+    "citation":"Change name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34337,7 +34337,7 @@
     "name":"Impulse-1",
     "names":"\u0418\u043c\u043f\u0443\u043b\u044c\u0441-1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -34347,8 +34347,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.673991Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:14.031375Z",
+    "citation":"Move to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34385,7 +34385,7 @@
     "name":"A-SEANSAT-PG1",
     "names":"PG1",
     "image":"satellites\/AX_Website_03-11.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -34395,8 +34395,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.656050Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-26T08:16:14.056671Z",
+    "citation":"Move to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
