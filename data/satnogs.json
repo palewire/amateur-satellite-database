@@ -7912,17 +7912,17 @@
     "image":"satellites\/BSUSat_1.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2018-10-29T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/bsusat.com",
     "operator":"None",
-    "countries":"",
+    "countries":"BY",
     "telemetries":[
       {
         "decoder":"cubebel1"
       }
     ],
-    "updated":"2021-07-21T10:11:42.595733Z",
+    "updated":"2023-06-27T19:00:46.669705Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -32139,8 +32139,8 @@
         "decoder":"cubebel2"
       }
     ],
-    "updated":"2023-06-26T08:16:13.753207Z",
-    "citation":"Move to alive",
+    "updated":"2023-06-27T18:29:30.367864Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/goto\/THgGlzrVz",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32149,11 +32149,11 @@
   {
     "sat_id":"TLCE-8079-2988-7210-7028",
     "norad_cat_id":99154.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57166.0,
     "name":"METEOR-M N2-3",
     "names":"METEOR 2 2-3",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32163,8 +32163,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:06:41.533482Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-27T17:17:45.054176Z",
+    "citation":"https:\/\/twitter.com\/planet4589\/status\/1673739890591248385",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32717,7 +32717,7 @@
     ],
     "updated":"2023-06-26T08:16:13.999840Z",
     "citation":"Move to alive",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -32957,7 +32957,7 @@
     ],
     "updated":"2023-06-26T08:16:13.981195Z",
     "citation":"Move to alive",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -32981,7 +32981,7 @@
     ],
     "updated":"2023-06-26T08:16:13.776880Z",
     "citation":"Move to alive",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -33029,7 +33029,7 @@
     ],
     "updated":"2023-06-26T08:16:13.921410Z",
     "citation":"Move to alive",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -34241,7 +34241,7 @@
     "name":"Rassvet-1 3",
     "names":"\u0420\u0430\u0441\u0441\u0432\u0435\u0442-1 3",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-28T11:34:00Z",
     "deployed":null,
@@ -34251,8 +34251,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.882715Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-27T20:25:53.068112Z",
+    "citation":"na",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34264,20 +34264,20 @@
     "norad_follow_id":null,
     "name":"SamSat-ION",
     "names":"",
-    "image":"satellites\/1012022.jpg",
-    "status":"future",
+    "image":"satellites\/IMG_5887_cut_nEKx1lN.jpg",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
-    "website":"",
+    "website":"http:\/\/spaceresearch.ssau.ru\/ru\/samsat-ion",
     "operator":"None",
     "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.874163Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
-    "is_frequency_violator":false,
+    "updated":"2023-06-27T15:20:16.203511Z",
+    "citation":"https:\/\/ru.wikipedia.org\/wiki\/SamSat-Ion",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
