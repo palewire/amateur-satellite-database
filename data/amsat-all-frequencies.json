@@ -216,7 +216,7 @@
     "beacon":null,
     "mode":"1145baudAFSK",
     "callsign":"RS41S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -1030,7 +1030,7 @@
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS25S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -1239,7 +1239,7 @@
     "beacon":null,
     "mode":"9k6BPSK NBFM QSPK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -1393,7 +1393,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -2174,7 +2174,7 @@
     "beacon":null,
     "mode":"4k8\/9k6 GMSK Digipeater",
     "callsign":"EU11S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -3879,7 +3879,7 @@
     "beacon":null,
     "mode":"4k8\/9k6 GMSK Digipeater",
     "callsign":"EU11S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -3945,7 +3945,7 @@
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS42S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -4517,7 +4517,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7817,7 +7817,7 @@
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS47S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8708,7 +8708,7 @@
     "beacon":null,
     "mode":"9k6 FSK",
     "callsign":"RS39S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8719,7 +8719,7 @@
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8730,7 +8730,7 @@
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8994,7 +8994,7 @@
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS49S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -9577,7 +9577,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10644,7 +10644,7 @@
     "beacon":null,
     "mode":"LoRa\/FSK",
     "callsign":"RS46S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -11282,7 +11282,7 @@
     "beacon":null,
     "mode":"9k6 FSK",
     "callsign":"RS37S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -12349,7 +12349,7 @@
     "beacon":null,
     "mode":"4k8 GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13317,7 +13317,7 @@
     "beacon":null,
     "mode":"9k6 GMSK",
     "callsign":"RS52S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13328,7 +13328,7 @@
     "beacon":"435.060",
     "mode":"20 CW",
     "callsign":"RS45S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13339,7 +13339,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13350,7 +13350,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13361,7 +13361,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13372,7 +13372,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13383,7 +13383,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13561,6 +13561,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"XRUL-9238-9871-5557-2420"
+  },
+  {
+    "name":"Svyatobor-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.875",
+    "beacon":null,
+    "mode":"2k4-9k6 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"SwampSat",
@@ -13825,17 +13836,6 @@
     "callsign":"RS8S",
     "status":"active",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
-  },
-  {
-    "name":"Svyatobor-1",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"437.875",
-    "beacon":null,
-    "mode":"2k4-9k6 GMSK_USP",
-    "callsign":null,
-    "status":"to be launched",
-    "satnogs_id":null
   },
   {
     "name":"TabletSat-Aurora",
@@ -15110,7 +15110,7 @@
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS40S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -15451,7 +15451,7 @@
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS27S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -15649,7 +15649,7 @@
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS38S",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -16177,7 +16177,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -16188,7 +16188,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
