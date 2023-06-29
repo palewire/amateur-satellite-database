@@ -18965,10 +18965,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -32681,7 +32681,7 @@
     "name":"Monitor-2",
     "names":"RS39S",
     "image":"satellites\/large_Monitor_2_f718a14fcc.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32691,9 +32691,9 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.767530Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
-    "is_frequency_violator":false,
+    "updated":"2023-06-28T15:21:32.302455Z",
+    "citation":"Alive",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -32703,7 +32703,7 @@
     "norad_cat_id":99138.0,
     "norad_follow_id":null,
     "name":"Monitor-3",
-    "names":"",
+    "names":"RS58S",
     "image":"satellites\/large_Monitor_3_MGU_ee683f3379.jpg",
     "status":"alive",
     "decayed":null,
@@ -32715,8 +32715,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-26T08:16:13.999840Z",
-    "citation":"Move to alive",
+    "updated":"2023-06-28T15:09:43.414955Z",
+    "citation":"https:\/\/r4uab.ru\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32727,7 +32727,7 @@
     "norad_cat_id":99137.0,
     "norad_follow_id":null,
     "name":"Monitor-4",
-    "names":"",
+    "names":"RS57S",
     "image":"satellites\/large_Monitor_4_MGU_545fe1cfd3.jpg",
     "status":"alive",
     "decayed":null,
@@ -32739,8 +32739,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-26T08:16:13.843945Z",
-    "citation":"Move to alive",
+    "updated":"2023-06-28T15:09:38.894372Z",
+    "citation":"https:\/\/r4uab.ru\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -33041,7 +33041,7 @@
     "name":"ZORKIY-2M",
     "names":"SXC12\u2212222",
     "image":"satellites\/1.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-28T11:34:00Z",
     "deployed":null,
@@ -33051,8 +33051,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-11T15:36:43.640667Z",
-    "citation":"https:\/\/eadaily.com\/ru\/news\/2023\/06\/09\/inostrannye-sputniki-gotovyatsya-k-zapusku-s-kosmodroma-vostochnyy",
+    "updated":"2023-06-28T12:25:51.834549Z",
+    "citation":"na",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35117,6 +35117,30 @@
     ],
     "updated":"2023-06-21T14:53:36.514802Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1QAz5xR5zZs68ooWOPcj6qsiDPGElws-nhgEuDqfHG-o\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IHGF-1692-7196-9468-5017",
+    "norad_cat_id":49949.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL-17",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-12-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-06-28T12:25:52.249450Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/49",
     "is_frequency_violator":false,
     "associated_satellites":[
 

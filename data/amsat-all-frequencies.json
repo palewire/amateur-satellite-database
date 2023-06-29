@@ -9573,9 +9573,9 @@
     "name":"Norby-2",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.600",
     "beacon":null,
-    "mode":null,
+    "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
