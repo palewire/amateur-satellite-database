@@ -10253,21 +10253,21 @@
     "sat_id":"VMQF-4924-7475-1891-3199",
     "norad_cat_id":44881.0,
     "norad_follow_id":null,
-    "name":"CAS-6",
-    "names":"TIANQIN-1, BJ1SO, TO-108",
+    "name":"CAS-6 (TO-108)",
+    "names":"2019-093C",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2019-12-20T00:00:00Z",
-    "deployed":null,
-    "website":"https:\/\/amsat-uk.org\/2019\/12\/19\/camsat-cas-6-satellite\/",
+    "deployed":"2019-12-20T00:00:00Z",
+    "website":"",
     "operator":"None",
     "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:53:50.472932Z",
-    "citation":"https:\/\/amsat-uk.org\/2019\/12\/19\/camsat-cas-6-satellite\/",
+    "updated":"2023-06-29T18:56:09.762895Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1RT7Tz9aAIFVsiLObRck8A0EBotTtFyKM4RDGbrxYaXY\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32148,10 +32148,10 @@
   },
   {
     "sat_id":"TLCE-8079-2988-7210-7028",
-    "norad_cat_id":99154.0,
-    "norad_follow_id":57166.0,
-    "name":"METEOR-M N2-3",
-    "names":"METEOR 2 2-3",
+    "norad_cat_id":57166.0,
+    "norad_follow_id":null,
+    "name":"METEOR M2-3",
+    "names":"METEOR 2 2-3, METEOR-M N2-3",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -32163,8 +32163,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-27T17:17:45.054176Z",
-    "citation":"https:\/\/twitter.com\/planet4589\/status\/1673739890591248385",
+    "updated":"2023-06-29T16:21:51.512703Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33315,8 +33315,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-01T14:57:58.047434Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1Fg10WLCVotKVxE5DJJ1R9UwbXqFkiF4ARI7vCIy2VKg\/edit?usp=sharing",
+    "updated":"2023-06-29T18:56:09.680163Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1OaoDP0-UULxvkzKrZGFWBmSfyWxlGk7jYbWInJFA2sE\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34287,7 +34287,7 @@
     "norad_cat_id":99091.0,
     "norad_follow_id":null,
     "name":"STC-1.1",
-    "names":"CSTP-1.1",
+    "names":"",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -34299,8 +34299,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-26T07:44:03.576504Z",
-    "citation":"Change name",
+    "updated":"2023-06-29T17:36:07.620676Z",
+    "citation":"Remove alternative name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34311,7 +34311,7 @@
     "norad_cat_id":99090.0,
     "norad_follow_id":null,
     "name":"STC-1.2",
-    "names":"CSTP-1.2",
+    "names":"",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -34323,8 +34323,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-26T07:44:34.021256Z",
-    "citation":"Change name",
+    "updated":"2023-06-29T17:36:51.984218Z",
+    "citation":"Remove alternative name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35117,6 +35117,198 @@
     ],
     "updated":"2023-06-21T14:53:36.514802Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1QAz5xR5zZs68ooWOPcj6qsiDPGElws-nhgEuDqfHG-o\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YPRU-6267-6659-9594-2221",
+    "norad_cat_id":44421.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2535",
+    "names":"2019-039A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-07-10T00:00:00Z",
+    "deployed":"2019-07-10T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-06-29T18:56:09.962062Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1bqQGSZOrvRqxmqTcMlva8tbOhmhnuAh8BK26GhLwbyY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MOOJ-6568-6940-9664-3268",
+    "norad_cat_id":53323.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2558",
+    "names":"2022-089A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-08-01T00:00:00Z",
+    "deployed":"2022-08-01T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-06-29T18:56:09.924888Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Hmu0a-7rdJ5_g6H73KfJo_rGCFWOTVrohwinMHIbS0o\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RCKB-8237-6193-5876-1447",
+    "norad_cat_id":48843.0,
+    "norad_follow_id":null,
+    "name":"Object D",
+    "names":"2021-050D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-11T00:00:00Z",
+    "deployed":"2021-06-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-06-29T18:56:09.882616Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1boxMzBcwEf9_CqQf7EC3xYkEj5NIKrnNhn1aQqdAqe4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GPIL-5860-2815-2518-8745",
+    "norad_cat_id":44797.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2542",
+    "names":"2019-079A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-11-25T00:00:00Z",
+    "deployed":"2019-11-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-06-29T18:56:09.854188Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1QCf9J6tlD7NEaAT30QYWyGvYPbNP6cbj-eJS83AlnLM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LKTJ-4457-5063-3267-1690",
+    "norad_cat_id":43100.0,
+    "norad_follow_id":null,
+    "name":"Superview-1 04",
+    "names":"2018-002B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-01-09T00:00:00Z",
+    "deployed":"2018-01-09T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-06-29T18:56:09.830704Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1NA1ufeFJdx9lJToDi24cZ91q1c3Y6opo46UGTPhXwKI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GJSW-6347-2795-7826-5065",
+    "norad_cat_id":45856.0,
+    "norad_follow_id":null,
+    "name":"GAOFEN DUOMO",
+    "names":"2020-042A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-07-03T00:00:00Z",
+    "deployed":"2020-07-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-06-29T18:56:09.798624Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1BxL_e1eaCLyCIDEmf8IDRGyMx_rwt2AaTZqIURAO7yg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QVEE-6103-2727-0546-2092",
+    "norad_cat_id":45016.0,
+    "norad_follow_id":null,
+    "name":"Object A",
+    "names":"2020-003A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-01-15T00:00:00Z",
+    "deployed":"2020-01-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-06-29T18:56:09.724270Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1JiIvuFgY2L9HH-LSTtj_h785Zusa4m_34dIJp0RwvJY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RWRB-2528-1524-5557-1934",
+    "norad_cat_id":48909.0,
+    "norad_follow_id":null,
+    "name":"PACE-1",
+    "names":"2021-059AG",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":"2021-06-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-06-29T18:56:09.627673Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Hh_MzX6kTLjgnjO02XUCqZXZ4Qz3bn93TlKXTbf79fs\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
