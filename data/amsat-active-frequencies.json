@@ -370,6 +370,16 @@
     "satnogs_id":"WMQB-0532-9164-6364-5821"
   },
   {
+    "name":"BSUSat-2",
+    "norad_id":null,
+    "uplink":"436.200",
+    "downlink":"436.990",
+    "beacon":null,
+    "mode":"4k8\/9k6*GMSK Digipeater",
+    "callsign":"EU11S",
+    "satnogs_id":null
+  },
+  {
     "name":"BugSat-1",
     "norad_id":"40014",
     "uplink":null,
@@ -788,6 +798,16 @@
     "mode":"4k8\/9k6* GMSK Digipeater",
     "callsign":"EU10S",
     "satnogs_id":"WMQB-0532-9164-6364-5821"
+  },
+  {
+    "name":"CubeBel-2",
+    "norad_id":null,
+    "uplink":"436.200",
+    "downlink":"436.990",
+    "beacon":null,
+    "mode":"4k8\/9k6*GMSK Digipeater",
+    "callsign":"EU11S",
+    "satnogs_id":null
   },
   {
     "name":"CubeBug-2",
@@ -1932,10 +1952,10 @@
   {
     "name":"LEDSAT",
     "norad_id":"49069",
-    "uplink":null,
+    "uplink":"435.310",
     "downlink":"435.190",
     "beacon":null,
-    "mode":"9600bps GMSK",
+    "mode":"1k2digipeater 9k6GMSK",
     "callsign":null,
     "satnogs_id":"JLZT-0277-4784-7719-1707"
   },
@@ -2200,6 +2220,16 @@
     "satnogs_id":"DNNN-7162-2135-4056-8903"
   },
   {
+    "name":"Norby-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"NO-44",
     "norad_id":"26931",
     "uplink":"145.827",
@@ -2380,6 +2410,16 @@
     "satnogs_id":"UIYC-4491-1380-9406-8215"
   },
   {
+    "name":"Polytech-Universe-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.415",
+    "beacon":null,
+    "mode":"LoRa\/FSK",
+    "callsign":"RS46S",
+    "satnogs_id":null
+  },
+  {
     "name":"PO-101",
     "norad_id":"43678",
     "uplink":"437.500",
@@ -2498,6 +2538,16 @@
     "mode":"1200bps AFSK",
     "callsign":null,
     "satnogs_id":"CWCJ-6029-4779-5201-8503"
+  },
+  {
+    "name":"SamSat-ION",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":"437.402",
+    "mode":"CW",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"SanoSat-1",

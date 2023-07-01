@@ -2172,9 +2172,9 @@
     "uplink":"436.200",
     "downlink":"436.990",
     "beacon":null,
-    "mode":"4k8\/9k6 GMSK Digipeater",
+    "mode":"4k8\/9k6*GMSK Digipeater",
     "callsign":"EU11S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3877,9 +3877,9 @@
     "uplink":"436.200",
     "downlink":"436.990",
     "beacon":null,
-    "mode":"4k8\/9k6 GMSK Digipeater",
+    "mode":"4k8\/9k6*GMSK Digipeater",
     "callsign":"EU11S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7933,10 +7933,10 @@
   {
     "name":"LEDSAT",
     "norad_id":"49069",
-    "uplink":null,
+    "uplink":"435.310",
     "downlink":"435.190",
     "beacon":null,
-    "mode":"9600bps GMSK",
+    "mode":"1k2digipeater 9k6GMSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":"JLZT-0277-4784-7719-1707"
@@ -9577,7 +9577,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -10644,7 +10644,7 @@
     "beacon":null,
     "mode":"LoRa\/FSK",
     "callsign":"RS46S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -11922,6 +11922,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"CWCJ-6029-4779-5201-8503"
+  },
+  {
+    "name":"SamSat-ION",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":"437.402",
+    "mode":"CW",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"SanoSat-1",
