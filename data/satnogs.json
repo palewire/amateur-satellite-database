@@ -32441,18 +32441,18 @@
     "name":"StratoSat TK-1-B",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/stratonautica.ru\/",
     "operator":"None",
     "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.849358Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-30T21:57:20.325061Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/formal_detail.php?serialnum=914",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32993,7 +32993,7 @@
     "name":"Rassvet-1 1",
     "names":"\u0420\u0430\u0441\u0441\u0432\u0435\u0442-1 1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-28T11:34:00Z",
     "deployed":null,
@@ -33003,8 +33003,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.620765Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-06-30T17:47:52.295841Z",
+    "citation":"na",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34287,9 +34287,9 @@
     "norad_cat_id":99091.0,
     "norad_follow_id":null,
     "name":"STC-1.1",
-    "names":"",
+    "names":"CSTP-1.1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -34299,8 +34299,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-29T17:36:07.620676Z",
-    "citation":"Remove alternative name",
+    "updated":"2023-06-30T21:57:25.589937Z",
+    "citation":"https:\/\/parabolicarc.com\/2023\/06\/27\/lunar-lander-space-telescope-launches-coming-july\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34311,9 +34311,9 @@
     "norad_cat_id":99090.0,
     "norad_follow_id":null,
     "name":"STC-1.2",
-    "names":"",
+    "names":"CSTP-1.2",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -34323,8 +34323,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-29T17:36:51.984218Z",
-    "citation":"Remove alternative name",
+    "updated":"2023-06-30T21:57:29.868722Z",
+    "citation":"https:\/\/parabolicarc.com\/2023\/06\/27\/lunar-lander-space-telescope-launches-coming-july\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35333,6 +35333,30 @@
     ],
     "updated":"2023-06-28T12:25:52.249450Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/49",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MNRE-0074-8907-5920-9982",
+    "norad_cat_id":56939.0,
+    "norad_follow_id":null,
+    "name":"LAYAN-23",
+    "names":"2023-084H",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":"2023-06-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RW",
+    "telemetries":[
+
+    ],
+    "updated":"2023-06-30T21:57:14.836649Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1LobABTrh-CeZKHdDn7dPqYiDeIhA9TpLZ1-owi1O-fs\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

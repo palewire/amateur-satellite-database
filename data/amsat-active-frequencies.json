@@ -3180,6 +3180,16 @@
     "satnogs_id":"DWZS-2247-2262-5163-7605"
   },
   {
+    "name":"UmKA-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.825\/437.625*",
+    "beacon":null,
+    "mode":"2k4*-9k6 GMSK_USP",
+    "callsign":"RS40S",
+    "satnogs_id":null
+  },
+  {
     "name":"UniSat-6",
     "norad_id":"40012",
     "uplink":null,

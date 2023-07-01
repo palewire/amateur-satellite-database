@@ -15106,11 +15106,11 @@
     "name":"UmKA-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"435.825\/437.625",
+    "downlink":"435.825\/437.625*",
     "beacon":null,
-    "mode":"2k4-9k6 GMSK_USP",
+    "mode":"2k4*-9k6 GMSK_USP",
     "callsign":"RS40S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
