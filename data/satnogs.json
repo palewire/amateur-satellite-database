@@ -34301,7 +34301,7 @@
     ],
     "updated":"2023-06-30T21:57:25.589937Z",
     "citation":"https:\/\/parabolicarc.com\/2023\/06\/27\/lunar-lander-space-telescope-launches-coming-july\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -35357,6 +35357,54 @@
     ],
     "updated":"2023-06-30T21:57:14.836649Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1LobABTrh-CeZKHdDn7dPqYiDeIhA9TpLZ1-owi1O-fs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QATA-1456-8729-8341-3508",
+    "norad_cat_id":99080.0,
+    "norad_follow_id":null,
+    "name":"Satellite 1 of 23091",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-01T23:29:33.662694Z",
+    "citation":"Change name",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UUDG-5963-0048-7414-9057",
+    "norad_cat_id":99076.0,
+    "norad_follow_id":null,
+    "name":"Euclid",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-01T15:12:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.eoportal.org\/satellite-missions\/euclid",
+    "operator":"ESA",
+    "countries":"FR,DE",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-02T00:12:31.407687Z",
+    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/euclid",
     "is_frequency_violator":false,
     "associated_satellites":[
 
