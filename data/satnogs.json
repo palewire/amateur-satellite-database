@@ -34957,7 +34957,7 @@
   {
     "sat_id":"JPOQ-1297-7674-4432-5408",
     "norad_cat_id":99078.0,
-    "norad_follow_id":56939.0,
+    "norad_follow_id":56940.0,
     "name":"Transporter 8 Satellite F",
     "names":"",
     "image":"",
@@ -34971,8 +34971,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T08:26:47.132414Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7717197\/",
+    "updated":"2023-07-02T02:13:28.243260Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
