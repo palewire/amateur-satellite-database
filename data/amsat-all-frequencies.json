@@ -8569,6 +8569,17 @@
     "satnogs_id":"DNDH-4105-0956-2682-2917"
   },
   {
+    "name":"METEOR-M N2-3",
+    "norad_id":"57166",
+    "uplink":null,
+    "downlink":"137.900",
+    "beacon":null,
+    "mode":"72kbps LRPT",
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":"TLCE-8079-2988-7210-7028"
+  },
+  {
     "name":"MeznSat",
     "norad_id":"46489",
     "uplink":null,
