@@ -30911,8 +30911,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-25T18:21:21.111237Z",
-    "citation":"TUBITAK UZAY",
+    "updated":"2023-07-04T01:42:19.292471Z",
+    "citation":"A minor change in description.",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -31127,8 +31127,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-06T10:14:24.207668Z",
-    "citation":"space-track.org",
+    "updated":"2023-07-04T01:36:56.731732Z",
+    "citation":"DISCO team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35405,6 +35405,174 @@
     ],
     "updated":"2023-07-02T00:12:31.407687Z",
     "citation":"https:\/\/www.eoportal.org\/satellite-missions\/euclid",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NILL-2972-7387-8265-9360",
+    "norad_cat_id":52200.0,
+    "norad_follow_id":null,
+    "name":"GAOFEN 3 03",
+    "names":"2022-035A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-04-06T00:00:00Z",
+    "deployed":"2022-04-06T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-04T01:36:43.273905Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1vdK0G2LtvrWNt_x5q1GbUxZjC37gP2PqWBs82wyKdTw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WCYU-8623-8568-9647-7528",
+    "norad_cat_id":99070.0,
+    "norad_follow_id":25544.0,
+    "name":"SC-ODIN",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-06T22:30:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.nasa.gov\/mission_pages\/station\/research\/experiments\/explorer\/Investigation.html#id=8248",
+    "operator":"None",
+    "countries":"CA,US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-04T02:09:03.656442Z",
+    "citation":"Set to follow ISS TLE",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GNIM-3572-6079-3146-0400",
+    "norad_cat_id":99071.0,
+    "norad_follow_id":25544.0,
+    "name":"RadSat-SK",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-06T22:30:00Z",
+    "deployed":null,
+    "website":"https:\/\/usst.ca\/cubesat",
+    "operator":"None",
+    "countries":"CA,US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-04T02:09:03.686936Z",
+    "citation":"Set to follow ISS TLE",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JGTM-1252-8431-9631-8586",
+    "norad_cat_id":99072.0,
+    "norad_follow_id":25544.0,
+    "name":"Ukpik-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-06T22:30:00Z",
+    "deployed":null,
+    "website":"https:\/\/space.uwo.ca\/research\/Missions%20and%20Instruments\/cubesat_project\/index.html",
+    "operator":"None",
+    "countries":"CA,US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-04T02:09:03.717654Z",
+    "citation":"Set to follow ISS TLE",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YUVU-2466-2581-7667-8758",
+    "norad_cat_id":99073.0,
+    "norad_follow_id":25544.0,
+    "name":"IRIS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-06T22:30:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.nasa.gov\/mission_pages\/station\/research\/experiments\/explorer\/Investigation.html#id=8255",
+    "operator":"None",
+    "countries":"CA,US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-04T02:09:03.749864Z",
+    "citation":"Set to follow ISS TLE",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KKSB-7497-2248-2429-8085",
+    "norad_cat_id":99074.0,
+    "norad_follow_id":25544.0,
+    "name":"ESSENCE",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-06T22:30:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.nasa.gov\/mission_pages\/station\/research\/experiments\/explorer\/Investigation.html#id=8259",
+    "operator":"None",
+    "countries":"CA,US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-04T02:09:03.776814Z",
+    "citation":"Set to follow ISS TLE",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TADH-7943-5789-3847-1138",
+    "norad_cat_id":99075.0,
+    "norad_follow_id":25544.0,
+    "name":"Moonlighter",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-06T22:30:00Z",
+    "deployed":null,
+    "website":"https:\/\/hackasat.com\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-04T02:09:03.803487Z",
+    "citation":"Set to follow ISS TLE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
