@@ -1384,7 +1384,7 @@ IAID-3852-6397-8056-8089,99135.0,,KuzGTU-1,RS47S,satellites/large_Kuz_GTU_1_31ec
 ESPB-1611-5692-0685-8383,99133.0,,UTMN2,RS27S,satellites/large_OGU_Nanozond_1_acaf98dcd6.jpg,alive,,2023-06-27T11:34:00Z,,https://spacepi.space/wiki/article/utmn-2/,None,RU,[],2023-06-26T08:16:13.941851Z,Move to alive,True,[]
 SEMQ-5896-1667-7154-6568,99134.0,,ReshUCube-2,RS37S,satellites/medium_1_3_1_01d3c4dd6d.jpg,alive,,2023-06-27T11:34:00Z,,https://spacepi.space/wiki/article/resh-u-cube-2/,None,RU,[],2023-06-26T08:16:13.901036Z,Move to alive,True,[]
 BFHE-2231-6239-4744-4815,99132.0,,Polytech Universe-3,RS46S,satellites/large_PU_3_543c54b2af.jpg,alive,,2023-06-27T11:34:00Z,,https://spacepi.space/wiki/article/politeh-yunivers-3/,None,RU,[],2023-06-26T08:16:13.961807Z,Move to alive,True,[]
-RPCA-9898-4095-5229-9696,99131.0,,Avion Kaluga 650,,,future,,2023-06-27T11:34:00Z,,,None,RU,[],2023-06-22T00:13:56.724119Z,https://community.libre.space/t/soyuz-2-1b-fregat-vostochny-launch-2023-06-27/10446/9,False,[]
+RPCA-9898-4095-5229-9696,99131.0,,Avion Kaluga 650,,,alive,,2023-06-27T11:34:00Z,,,None,RU,[],2023-07-03T23:51:21.065129Z,Satellite has been deployed,False,[]
 REOO-2119-3738-4964-1579,99130.0,,ASRTU-1,,,future,,2024-03-01T00:00:00Z,,,None,"CN,RU",[],2023-06-11T15:36:31.629236Z,https://forum.novosti-kosmonavtiki.ru/index.php?topic=16307.2920,False,[]
 YYQF-3337-2968-5093-7946,99129.0,,Druzhba ATURK,,,future,,2023-06-28T11:34:00Z,,,None,RU,[],2023-05-31T17:30:04.022056Z,https://community.libre.space/t/soyuz-2-1b-fregat-vostochny-launch-2023-06-27/10446/9,False,[]
 BCCC-4892-7994-6676-5561,99127.0,,Yarilo No. 3,,,alive,,2023-06-27T11:34:00Z,,https://bsail.ru/?page_id=2255&lang=en,None,RU,[],2023-06-26T08:16:13.981195Z,Move to alive,True,[]

@@ -32873,7 +32873,7 @@
     "name":"Avion Kaluga 650",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -32883,8 +32883,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.724119Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-07-03T23:51:21.065129Z",
+    "citation":"Satellite has been deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
