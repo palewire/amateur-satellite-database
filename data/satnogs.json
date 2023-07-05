@@ -32872,7 +32872,7 @@
     "norad_follow_id":null,
     "name":"Avion Kaluga 650",
     "names":"",
-    "image":"",
+    "image":"satellites\/avion__1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
@@ -32883,9 +32883,9 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-03T23:51:21.065129Z",
-    "citation":"Satellite has been deployed",
-    "is_frequency_violator":false,
+    "updated":"2023-07-04T22:45:36.465055Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/avion-kaluga-650.htm",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -34408,8 +34408,8 @@
     "norad_follow_id":null,
     "name":"Hors 1",
     "names":"\u0425\u043e\u0440\u0441 1",
-    "image":"",
-    "status":"future",
+    "image":"satellites\/khors-1__1.jpg",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -34419,8 +34419,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.646419Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-07-04T22:53:04.143723Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/khors-1.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34432,19 +34432,19 @@
     "norad_follow_id":null,
     "name":"Hors 2",
     "names":"\u0425\u043e\u0440\u0441 2",
-    "image":"",
-    "status":"future",
+    "image":"satellites\/khors-1__1_acuSFYs.jpg",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/space.skyrocket.de\/doc_sdat\/khors-1.htm",
     "operator":"None",
     "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.636033Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-07-04T22:53:00.167929Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/khors-1.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 

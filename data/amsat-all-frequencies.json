@@ -4983,6 +4983,17 @@
     "satnogs_id":"SEXU-2964-9908-3979-4793"
   },
   {
+    "name":"Essence",
+    "norad_id":null,
+    "uplink":"437.325",
+    "downlink":"435.775",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"EstCube-1",
     "norad_id":"39161",
     "uplink":null,
@@ -7051,6 +7062,17 @@
     "satnogs_id":"QHGB-5011-7406-7134-6581"
   },
   {
+    "name":"Iris",
+    "norad_id":null,
+    "uplink":"436.650",
+    "downlink":"436.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"IRIS-A",
     "norad_id":"51044",
     "uplink":null,
@@ -8572,7 +8594,7 @@
     "name":"METEOR-M N2-3",
     "norad_id":"57166",
     "uplink":null,
-    "downlink":"137.900",
+    "downlink":"137.100*\/137.900",
     "beacon":null,
     "mode":"72kbps LRPT",
     "callsign":null,
@@ -8742,6 +8764,17 @@
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Moonlighter",
+    "norad_id":null,
+    "uplink":"914.700\/2075.000",
+    "downlink":"914.700\/2225.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -11143,6 +11176,17 @@
     "satnogs_id":"ZJCQ-6364-2928-4931-9019"
   },
   {
+    "name":"RadSat-SK",
+    "norad_id":null,
+    "uplink":"145.830",
+    "downlink":"435.400",
+    "beacon":null,
+    "mode":"9k6 GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"RadSat-u",
     "norad_id":"45262",
     "uplink":null,
@@ -12109,6 +12153,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"SSBP-7686-6169-1385-2756"
+  },
+  {
+    "name":"SC-ODIN",
+    "norad_id":null,
+    "uplink":"436.525",
+    "downlink":"436.525",
+    "beacon":null,
+    "mode":"GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"SDSAT",
@@ -15035,6 +15090,17 @@
     "callsign":"JG6YKN",
     "status":"inactive",
     "satnogs_id":"AWFF-8025-3088-3256-6290"
+  },
+  {
+    "name":"Ukpik-1",
+    "norad_id":null,
+    "uplink":"437.160",
+    "downlink":"437.160",
+    "beacon":null,
+    "mode":"9k6 2GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"UKube-1",
