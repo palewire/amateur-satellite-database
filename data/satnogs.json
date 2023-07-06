@@ -35437,7 +35437,7 @@
   {
     "sat_id":"WCYU-8623-8568-9647-7528",
     "norad_cat_id":99070.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"SC-ODIN",
     "names":"",
     "image":"",
@@ -35451,8 +35451,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-04T02:09:03.656442Z",
-    "citation":"Set to follow ISS TLE",
+    "updated":"2023-07-06T10:42:48.512917Z",
+    "citation":"deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35461,7 +35461,7 @@
   {
     "sat_id":"GNIM-3572-6079-3146-0400",
     "norad_cat_id":99071.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"RadSat-SK",
     "names":"",
     "image":"",
@@ -35475,8 +35475,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-04T02:09:03.686936Z",
-    "citation":"Set to follow ISS TLE",
+    "updated":"2023-07-06T10:42:22.985882Z",
+    "citation":"deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35485,7 +35485,7 @@
   {
     "sat_id":"JGTM-1252-8431-9631-8586",
     "norad_cat_id":99072.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"Ukpik-1",
     "names":"",
     "image":"",
@@ -35499,8 +35499,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-04T02:09:03.717654Z",
-    "citation":"Set to follow ISS TLE",
+    "updated":"2023-07-06T10:42:50.943089Z",
+    "citation":"deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35509,9 +35509,9 @@
   {
     "sat_id":"YUVU-2466-2581-7667-8758",
     "norad_cat_id":99073.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"IRIS",
-    "names":"",
+    "names":"ManitobaSat-1",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -35523,8 +35523,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-04T02:09:03.749864Z",
-    "citation":"Set to follow ISS TLE",
+    "updated":"2023-07-06T10:42:45.623300Z",
+    "citation":"Deployed",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -35533,7 +35533,7 @@
   {
     "sat_id":"KKSB-7497-2248-2429-8085",
     "norad_cat_id":99074.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"ESSENCE",
     "names":"",
     "image":"",
@@ -35547,8 +35547,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-04T02:09:03.776814Z",
-    "citation":"Set to follow ISS TLE",
+    "updated":"2023-07-06T10:42:25.022432Z",
+    "citation":"deployed",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -35557,7 +35557,7 @@
   {
     "sat_id":"TADH-7943-5789-3847-1138",
     "norad_cat_id":99075.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"Moonlighter",
     "names":"",
     "image":"",
@@ -35571,8 +35571,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-04T02:09:03.803487Z",
-    "citation":"Set to follow ISS TLE",
+    "updated":"2023-07-06T10:42:53.090679Z",
+    "citation":"deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
