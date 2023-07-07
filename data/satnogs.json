@@ -34457,7 +34457,7 @@
     "name":"SATURN",
     "names":"\u0421\u0410\u0422\u0423\u0420\u041d",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -34467,8 +34467,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-13T12:32:09.346623Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-07-06T14:44:10.265192Z",
+    "citation":"https:\/\/r4uab.ru\/tle\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
