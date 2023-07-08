@@ -1024,7 +1024,7 @@
   },
   {
     "name":"ArcCube-01",
-    "norad_id":null,
+    "norad_id":"57205",
     "uplink":null,
     "downlink":"437.600",
     "beacon":null,
@@ -1387,7 +1387,7 @@
   },
   {
     "name":"Avion-Kaluga-650",
-    "norad_id":null,
+    "norad_id":"57195",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -2168,7 +2168,7 @@
   },
   {
     "name":"BSUSat-2",
-    "norad_id":null,
+    "norad_id":"57175",
     "uplink":"436.200",
     "downlink":"436.990",
     "beacon":null,
@@ -3873,7 +3873,7 @@
   },
   {
     "name":"CubeBel-2",
-    "norad_id":null,
+    "norad_id":"57175",
     "uplink":"436.200",
     "downlink":"436.990",
     "beacon":null,
@@ -3939,7 +3939,7 @@
   },
   {
     "name":"CubeSX-HSE-3",
-    "norad_id":null,
+    "norad_id":"57178",
     "uplink":null,
     "downlink":"436.570",
     "beacon":null,
@@ -7833,7 +7833,7 @@
   },
   {
     "name":"KuzGTU-1",
-    "norad_id":null,
+    "norad_id":"57167",
     "uplink":null,
     "downlink":"437.100",
     "beacon":null,
@@ -8746,7 +8746,7 @@
   },
   {
     "name":"Monitor-3",
-    "norad_id":null,
+    "norad_id":"57180",
     "uplink":null,
     "downlink":"435.290",
     "beacon":null,
@@ -8757,7 +8757,7 @@
   },
   {
     "name":"Monitor-4",
-    "norad_id":null,
+    "norad_id":"57182",
     "uplink":null,
     "downlink":"436.080",
     "beacon":null,
@@ -9032,7 +9032,7 @@
   },
   {
     "name":"Nanozond-1",
-    "norad_id":null,
+    "norad_id":"57190",
     "uplink":null,
     "downlink":"437.000",
     "beacon":null,
@@ -12948,14 +12948,14 @@
   },
   {
     "name":"SpeiSat",
-    "norad_id":"56957",
+    "norad_id":"56991",
     "uplink":null,
     "downlink":"437.500",
     "beacon":null,
     "mode":"9k6_GMSK",
     "callsign":"SPEIST",
     "status":"active",
-    "satnogs_id":"TWEF-8525-8046-9814-5948"
+    "satnogs_id":null
   },
   {
     "name":"SpinSat",
@@ -13388,7 +13388,7 @@
   },
   {
     "name":"StratoSat-TK-1",
-    "norad_id":null,
+    "norad_id":"57177",
     "uplink":null,
     "downlink":"435.870",
     "beacon":null,
@@ -13641,7 +13641,7 @@
   },
   {
     "name":"Svyatobor-1",
-    "norad_id":null,
+    "norad_id":"57187",
     "uplink":null,
     "downlink":"437.875",
     "beacon":null,
@@ -15192,7 +15192,7 @@
   },
   {
     "name":"UmKA-1",
-    "norad_id":null,
+    "norad_id":"57172",
     "uplink":null,
     "downlink":"435.825\/437.625*",
     "beacon":null,
@@ -15533,7 +15533,7 @@
   },
   {
     "name":"UTMN-2",
-    "norad_id":null,
+    "norad_id":"57203",
     "uplink":null,
     "downlink":"435.485",
     "beacon":null,
@@ -15731,7 +15731,7 @@
   },
   {
     "name":"VIZARD-meteo",
-    "norad_id":null,
+    "norad_id":"57189",
     "uplink":null,
     "downlink":"437.825",
     "beacon":null,

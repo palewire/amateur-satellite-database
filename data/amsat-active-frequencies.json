@@ -371,7 +371,7 @@
   },
   {
     "name":"BSUSat-2",
-    "norad_id":null,
+    "norad_id":"57175",
     "uplink":"436.200",
     "downlink":"436.990",
     "beacon":null,
@@ -801,7 +801,7 @@
   },
   {
     "name":"CubeBel-2",
-    "norad_id":null,
+    "norad_id":"57175",
     "uplink":"436.200",
     "downlink":"436.990",
     "beacon":null,
@@ -2761,13 +2761,13 @@
   },
   {
     "name":"SpeiSat",
-    "norad_id":"56957",
+    "norad_id":"56991",
     "uplink":null,
     "downlink":"437.500",
     "beacon":null,
     "mode":"9k6_GMSK",
     "callsign":"SPEIST",
-    "satnogs_id":"TWEF-8525-8046-9814-5948"
+    "satnogs_id":null
   },
   {
     "name":"SPORT",
@@ -3231,7 +3231,7 @@
   },
   {
     "name":"UmKA-1",
-    "norad_id":null,
+    "norad_id":"57172",
     "uplink":null,
     "downlink":"435.825\/437.625*",
     "beacon":null,

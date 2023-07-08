@@ -6910,8 +6910,8 @@
     "name":"FLOCK 3P'-3",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-07-04T00:00:00Z",
     "launched":"2018-01-12T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.planet.com\/pulse\/planet-openlst-radio-solution-for-cubesats\/",
@@ -6920,8 +6920,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.055534Z",
-    "citation":"https:\/\/www.planet.com\/pulse\/planet-openlst-radio-solution-for-cubesats\/",
+    "updated":"2023-07-08T09:46:17.516083Z",
+    "citation":"2023-07-04",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17915,8 +17915,8 @@
     "name":"SATLLA-2A",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-06-25T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/www.ariel-asc.com\/nes-space",
@@ -17925,8 +17925,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-01-20T04:51:04.179835Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=769",
+    "updated":"2023-07-08T09:44:37.461363Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18114,8 +18114,8 @@
     "name":"WISeSAT-1",
     "names":"FossaSat-2E1",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-06-23T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/fossa.systems\/",
@@ -18124,8 +18124,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:05.860513Z",
-    "citation":"https:\/\/fossa.systems\/",
+    "updated":"2023-07-08T09:44:27.520397Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27028,8 +27028,8 @@
     "name":"ORCASat",
     "names":"Optical Reference Calibration Satellite",
     "image":"satellites\/ORCASat_Spacecraft_Full-2.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-07-07T00:00:00Z",
     "launched":"2022-12-29T00:00:00Z",
     "deployed":"2022-12-29T13:45:00Z",
     "website":"https:\/\/www.orcasat.ca\/",
@@ -27038,8 +27038,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-08T18:37:29.672234Z",
-    "citation":"Reverting identification for further investigation",
+    "updated":"2023-07-08T09:44:44.705156Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27942,8 +27942,8 @@
     "name":"HSKSAT",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-07-07T00:00:00Z",
     "launched":"2022-11-26T00:00:00Z",
     "deployed":"2023-01-06T08:47:00Z",
     "website":"https:\/\/hsk-sat.com\/",
@@ -27952,8 +27952,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:54:02.482069Z",
-    "citation":"https:\/\/hsk-sat.com\/",
+    "updated":"2023-07-08T09:44:54.283980Z",
+    "citation":"cel",
     "is_frequency_violator":false,
     "associated_satellites":[
       "MZOR-5449-3799-6021-6795"
@@ -30887,8 +30887,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-24T09:23:18.827114Z",
-    "citation":"Stop following deployer",
+    "updated":"2023-07-08T09:02:36.269733Z",
+    "citation":"Wrong NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35646,6 +35646,54 @@
     "updated":"2023-07-07T21:14:57.657320Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/50",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GMJL-5209-1625-8784-4892",
+    "norad_cat_id":99067.0,
+    "norad_follow_id":57188.0,
+    "name":"Satellite 4 from 23091",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-08T09:45:08.859725Z",
+    "citation":"oops",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HGXU-3537-8964-9124-6162",
+    "norad_cat_id":99066.0,
+    "norad_follow_id":57197.0,
+    "name":"Satellite 5 from 23091",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-08T09:46:02.286164Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446?page=7",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
