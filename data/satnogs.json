@@ -32677,7 +32677,7 @@
   {
     "sat_id":"SCGK-1611-0139-1871-0649",
     "norad_cat_id":99139.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57174.0,
     "name":"Monitor-2",
     "names":"RS39S",
     "image":"satellites\/large_Monitor_2_f718a14fcc.jpg",
@@ -32691,8 +32691,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-28T15:21:32.302455Z",
-    "citation":"Alive",
+    "updated":"2023-07-07T17:33:02.465501Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/122",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32797,7 +32797,7 @@
   {
     "sat_id":"ESPB-1611-5692-0685-8383",
     "norad_cat_id":99133.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57203.0,
     "name":"UTMN2",
     "names":"RS27S",
     "image":"satellites\/large_OGU_Nanozond_1_acaf98dcd6.jpg",
@@ -32811,8 +32811,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-26T08:16:13.941851Z",
-    "citation":"Move to alive",
+    "updated":"2023-07-07T17:34:10.388948Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/123",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32845,7 +32845,7 @@
   {
     "sat_id":"BFHE-2231-6239-4744-4815",
     "norad_cat_id":99132.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57191.0,
     "name":"Polytech Universe-3",
     "names":"RS46S",
     "image":"satellites\/large_PU_3_543c54b2af.jpg",
@@ -32859,8 +32859,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-26T08:16:13.961807Z",
-    "citation":"Move to alive",
+    "updated":"2023-07-07T17:36:33.801071Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/127",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32869,7 +32869,7 @@
   {
     "sat_id":"RPCA-9898-4095-5229-9696",
     "norad_cat_id":99131.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57195.0,
     "name":"Avion Kaluga 650",
     "names":"",
     "image":"satellites\/avion__1.jpg",
@@ -32883,8 +32883,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-04T22:45:36.465055Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/avion-kaluga-650.htm",
+    "updated":"2023-07-07T17:22:06.340977Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/119",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34285,7 +34285,7 @@
   {
     "sat_id":"CGZW-4770-7854-7332-3001",
     "norad_cat_id":99091.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57202.0,
     "name":"STC-1.1",
     "names":"CSTP-1.1",
     "image":"",
@@ -34299,8 +34299,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-30T21:57:25.589937Z",
-    "citation":"https:\/\/parabolicarc.com\/2023\/06\/27\/lunar-lander-space-telescope-launches-coming-july\/",
+    "updated":"2023-07-07T17:37:17.596245Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/128",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34309,7 +34309,7 @@
   {
     "sat_id":"OEVP-0911-2494-4510-3616",
     "norad_cat_id":99090.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57186.0,
     "name":"STC-1.2",
     "names":"CSTP-1.2",
     "image":"",
@@ -34323,9 +34323,9 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-30T21:57:29.868722Z",
-    "citation":"https:\/\/parabolicarc.com\/2023\/06\/27\/lunar-lander-space-telescope-launches-coming-july\/",
-    "is_frequency_violator":false,
+    "updated":"2023-07-07T17:35:26.787820Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/126",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -35573,6 +35573,78 @@
     ],
     "updated":"2023-07-06T10:42:53.090679Z",
     "citation":"deployed",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RFFC-8054-6177-5315-5955",
+    "norad_cat_id":99069.0,
+    "norad_follow_id":57174.0,
+    "name":"Satellite 2 from 23091",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-07T17:30:29.485460Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/120",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TMML-4957-6333-0550-1026",
+    "norad_cat_id":99068.0,
+    "norad_follow_id":57184.0,
+    "name":"Satellite 3 from 23091",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-07T17:31:25.059356Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/121",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JFMT-8455-7235-8830-9312",
+    "norad_cat_id":55982.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL-19",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-03-24T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-07T21:14:57.657320Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/50",
     "is_frequency_violator":false,
     "associated_satellites":[
 
