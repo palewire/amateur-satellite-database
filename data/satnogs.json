@@ -18965,10 +18965,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -22572,7 +22572,7 @@
   {
     "sat_id":"UDZO-6677-3907-8516-6750",
     "norad_cat_id":99352.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56989.0,
     "name":"URESAT-1",
     "names":"UreSat-1 \/ Hades-B",
     "image":"satellites\/logo_sat3.png",
@@ -22586,8 +22586,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T16:47:51.247854Z",
-    "citation":"Deployed, keep the deployer's TLE set at the deployment moment.",
+    "updated":"2023-07-08T14:29:48.908570Z",
+    "citation":"Random choice of NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30873,7 +30873,7 @@
   {
     "sat_id":"ZHHQ-5752-7286-6121-4715",
     "norad_cat_id":99192.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56228.0,
     "name":"Istanbul",
     "names":"Hello Space Istanbul",
     "image":"satellites\/uydu_01.png",
@@ -30887,8 +30887,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-08T09:02:36.269733Z",
-    "citation":"Wrong NORAD ID to follow",
+    "updated":"2023-07-08T14:28:58.036933Z",
+    "citation":"Random choice of NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30969,7 +30969,7 @@
   {
     "sat_id":"SVNK-0275-3230-3083-0188",
     "norad_cat_id":99187.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56230.0,
     "name":"ROM-2",
     "names":"Space Sparrow, HADES-C",
     "image":"satellites\/sat20-removebg-preview.png",
@@ -30983,8 +30983,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T16:39:56.371149Z",
-    "citation":"Deployed, keep the deployer's TLE set at the deployment moment.",
+    "updated":"2023-07-08T14:13:42.113520Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7745967\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34045,7 +34045,7 @@
   {
     "sat_id":"JXZL-9099-0615-9027-6512",
     "norad_cat_id":99101.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56991.0,
     "name":"Outpost Mission 0",
     "names":"",
     "image":"",
@@ -34059,8 +34059,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T09:57:14.410551Z",
-    "citation":"https:\/\/twitter.com\/D_Orbit\/status\/1671793351098499074",
+    "updated":"2023-07-08T14:29:21.855485Z",
+    "citation":"Random choice of NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34093,7 +34093,7 @@
   {
     "sat_id":"XDTB-0414-1246-0782-0962",
     "norad_cat_id":99099.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56227.0,
     "name":"SATLLA-2I",
     "names":"",
     "image":"",
@@ -34107,8 +34107,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-24T09:24:23.483525Z",
-    "citation":"Stop following deployer",
+    "updated":"2023-07-08T14:28:30.154907Z",
+    "citation":"Random choice of NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34524,10 +34524,10 @@
   },
   {
     "sat_id":"TYHN-1504-1942-6350-8970",
-    "norad_cat_id":99081.0,
-    "norad_follow_id":56962.0,
-    "name":"Transporter 8 Satellite B",
-    "names":"",
+    "norad_cat_id":56962.0,
+    "norad_follow_id":null,
+    "name":"OBJECT 23084AG",
+    "names":"Transporter 8 Satellite B",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -34539,8 +34539,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-23T11:10:25.837798Z",
-    "citation":"strf observations by hollosat",
+    "updated":"2023-07-08T18:41:35.236123Z",
+    "citation":"Add other name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34932,10 +34932,10 @@
   },
   {
     "sat_id":"LFWM-4123-3835-3488-6305",
-    "norad_cat_id":99079.0,
-    "norad_follow_id":56987.0,
-    "name":"Transporter 8 Satellite E",
-    "names":"",
+    "norad_cat_id":56987.0,
+    "norad_follow_id":null,
+    "name":"OBJECT 23084BH",
+    "names":"Transporter 8 Satellite E",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -34947,8 +34947,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T09:04:37.102132Z",
-    "citation":"Network Observations",
+    "updated":"2023-07-08T18:55:08.141805Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56987\/2023-07-06T14%3A43%3A33_7822365_56987_23084BH_0-OBJECT-BH_0.4462332111110925_A_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 

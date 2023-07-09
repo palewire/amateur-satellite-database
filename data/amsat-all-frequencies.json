@@ -15535,7 +15535,7 @@
     "name":"UTMN-2",
     "norad_id":"57203",
     "uplink":null,
-    "downlink":"435.485",
+    "downlink":"435.485\/436.125",
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS27S",
