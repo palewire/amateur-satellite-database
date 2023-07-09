@@ -2141,7 +2141,7 @@
   },
   {
     "name":"MRC-100",
-    "norad_id":null,
+    "norad_id":"56231",
     "uplink":null,
     "downlink":"436.720",
     "beacon":null,
@@ -2858,6 +2858,16 @@
     "mode":"9600bps GMSK",
     "callsign":null,
     "satnogs_id":"IFDT-2351-8184-5400-1710"
+  },
+  {
+    "name":"StratoSat-TK-1",
+    "norad_id":"57177",
+    "uplink":null,
+    "downlink":"435.870",
+    "beacon":null,
+    "mode":"9k6 GMSK",
+    "callsign":"RS52S",
+    "satnogs_id":null
   },
   {
     "name":"SUCHAI",

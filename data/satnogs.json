@@ -18965,10 +18965,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -34476,10 +34476,10 @@
   },
   {
     "sat_id":"QAEA-9330-4311-4548-0260",
-    "norad_cat_id":99083.0,
-    "norad_follow_id":56934.0,
-    "name":"Transporter 8 Satellite A",
-    "names":"",
+    "norad_cat_id":56934.0,
+    "norad_follow_id":null,
+    "name":"OBJECT C",
+    "names":"Transporter 8 Satellite A",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -34491,8 +34491,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T08:27:37.779616Z",
-    "citation":"Network Observations",
+    "updated":"2023-07-09T08:11:59.983121Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56934\/2023-07-07T23%3A06%3A07_7822475_56934_23084C_0-OBJECT-C_1.182647741481503_A_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34957,7 +34957,7 @@
   {
     "sat_id":"JPOQ-1297-7674-4432-5408",
     "norad_cat_id":99078.0,
-    "norad_follow_id":56940.0,
+    "norad_follow_id":56938.0,
     "name":"Transporter 8 Satellite F",
     "names":"",
     "image":"",
@@ -34971,8 +34971,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-02T02:13:28.243260Z",
-    "citation":"Random choice",
+    "updated":"2023-07-09T08:54:14.709210Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7799553\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
