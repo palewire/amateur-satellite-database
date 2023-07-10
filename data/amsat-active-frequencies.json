@@ -377,7 +377,7 @@
     "beacon":null,
     "mode":"4k8\/9k6*GMSK Digipeater",
     "callsign":"EU11S",
-    "satnogs_id":null
+    "satnogs_id":"PIHV-8715-3112-5892-6258"
   },
   {
     "name":"BugSat-1",
@@ -807,7 +807,7 @@
     "beacon":null,
     "mode":"4k8\/9k6*GMSK Digipeater",
     "callsign":"EU11S",
-    "satnogs_id":null
+    "satnogs_id":"PIHV-8715-3112-5892-6258"
   },
   {
     "name":"CubeBug-2",
@@ -3247,7 +3247,7 @@
     "beacon":null,
     "mode":"2k4*-9k6 GMSK_USP",
     "callsign":"RS40S",
-    "satnogs_id":null
+    "satnogs_id":"SDUV-9624-5611-1090-5908"
   },
   {
     "name":"UniSat-6",
