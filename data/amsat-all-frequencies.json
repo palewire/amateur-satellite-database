@@ -9039,7 +9039,7 @@
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS49S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"VMNV-8729-6815-0607-7666"
   },
   {
     "name":"NAPA-2",
@@ -13395,7 +13395,7 @@
     "mode":"9k6 GMSK",
     "callsign":"RS52S",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"SBTR-9192-8869-0393-0787"
   },
   {
     "name":"StratoSat-TK-1-A",
@@ -15540,7 +15540,7 @@
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS27S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ESPB-1611-5692-0685-8383"
   },
   {
     "name":"UVSQ-Sat",
