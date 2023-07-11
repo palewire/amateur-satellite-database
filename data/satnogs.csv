@@ -734,7 +734,7 @@ KTGO-9559-9207-1146-9463,48908.0,,Mandrake 2B,MANDRAKE 2 BAKER,,alive,,2021-06-3
 BEBH-6034-2662-4655-3216,47297.0,,Haisi 1,Hisea 1,satellites/haisi-1__2.jpg,alive,,2020-12-22T00:00:00Z,,,None,CN,[],2022-06-08T19:21:49.178002Z,Eelke Survey,False,[]
 AXQA-7364-6026-4427-9296,48898.0,,CENTAURI-4,TYVAK-0211,satellites/centauri-3__1_iiDD1FY.jpg,alive,,2021-06-30T00:00:00Z,,,None,AU,[],2022-06-14T13:41:13.739195Z,Eelke Survey,False,[]
 DUCU-0849-6302-0692-6552,48270.0,,AII-BRAVO,Bravo,satellites/charlie__1.jpg,alive,,2021-04-29T00:00:00Z,,,None,LT,[],2022-06-08T19:21:35.080132Z,Eelke Survey,False,[]
-IIJF-3991-0816-8884-5091,48249.0,,Qilu 4,OBJECT B,satellites/foshan-1__1.jpg,alive,,2021-04-27T00:00:00Z,,,None,CN,[],2021-11-07T14:50:23.717900Z,Eelke Survey,False,[]
+IIJF-3991-0816-8884-5091,48249.0,,Qilu 4,OBJECT B,satellites/foshan-1__1.jpg,re-entered,2023-07-10T00:00:00Z,2021-04-27T00:00:00Z,,,None,CN,[],2023-07-10T13:14:50.805633Z,Celestrak,False,[]
 RJAD-6971-5705-5997-8587,48255.0,,Jin Zijing 1-02,OBJECT H,satellites/jinzijing-1__1.jpg,alive,,2021-04-27T00:00:00Z,,,None,CN,[],2021-11-07T14:49:56.661571Z,Eelke Survey,False,[]
 XWPB-8152-0101-9678-1103,48256.0,,Taijing 2-01,OBJECT J,satellites/taijing-2-1__1_pqyLHHZ.jpg,alive,,2021-04-27T00:00:00Z,,,None,CN,[],2021-11-07T14:48:51.668065Z,Eelke Survey,False,[]
 YBRO-8204-6716-8506-0909,44315.0,,Tianxiang-1,Zhongdian Wangtong 1A,,alive,,2019-06-05T00:00:00Z,,,None,CN,[],2022-06-10T11:26:05.721231Z,https://ucsusa.org/sites/default/files/2021-11/UCS%20Satellite%20Database-Officialname-9-1-21_0.txt,False,[]

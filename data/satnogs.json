@@ -17188,8 +17188,8 @@
     "name":"Qilu 4",
     "names":"OBJECT B",
     "image":"satellites\/foshan-1__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-07-10T00:00:00Z",
     "launched":"2021-04-27T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -17198,8 +17198,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-11-07T14:50:23.717900Z",
-    "citation":"Eelke Survey",
+    "updated":"2023-07-10T13:14:50.805633Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
