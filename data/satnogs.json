@@ -34261,7 +34261,7 @@
   {
     "sat_id":"ODQC-6867-8683-7650-3513",
     "norad_cat_id":99092.0,
-    "norad_follow_id":57179.0,
+    "norad_follow_id":57173.0,
     "name":"SamSat-ION",
     "names":"",
     "image":"satellites\/IMG_5887_cut_nEKx1lN.jpg",
@@ -34275,8 +34275,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T03:25:30.568683Z",
-    "citation":"Random choice",
+    "updated":"2023-07-11T09:18:51.525086Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/155",
     "is_frequency_violator":true,
     "associated_satellites":[
 
