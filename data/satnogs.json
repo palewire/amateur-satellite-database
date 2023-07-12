@@ -35819,5 +35819,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"QTNO-6169-5375-9247-5169",
+    "norad_cat_id":43600.0,
+    "norad_follow_id":null,
+    "name":"Aeolus",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"ESA",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-12T06:52:33.550732Z",
+    "citation":"ESA",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

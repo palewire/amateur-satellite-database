@@ -4984,7 +4984,7 @@
   },
   {
     "name":"Essence",
-    "norad_id":null,
+    "norad_id":"57316",
     "uplink":"437.325",
     "downlink":"435.775",
     "beacon":null,
@@ -7063,7 +7063,7 @@
   },
   {
     "name":"Iris",
-    "norad_id":null,
+    "norad_id":"57315",
     "uplink":"436.650",
     "downlink":"436.250",
     "beacon":null,
@@ -8768,7 +8768,7 @@
   },
   {
     "name":"Moonlighter",
-    "norad_id":null,
+    "norad_id":"57317",
     "uplink":"914.700\/2075.000",
     "downlink":"914.700\/2225.000",
     "beacon":null,
@@ -11177,7 +11177,7 @@
   },
   {
     "name":"RadSat-SK",
-    "norad_id":null,
+    "norad_id":"57313",
     "uplink":"145.830",
     "downlink":"435.400",
     "beacon":null,
@@ -12156,7 +12156,7 @@
   },
   {
     "name":"SC-ODIN",
-    "norad_id":null,
+    "norad_id":"57312",
     "uplink":"436.525",
     "downlink":"436.525",
     "beacon":null,
@@ -15093,7 +15093,7 @@
   },
   {
     "name":"Ukpik-1",
-    "norad_id":null,
+    "norad_id":"57314",
     "uplink":"437.160",
     "downlink":"437.160",
     "beacon":null,
