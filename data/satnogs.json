@@ -32401,7 +32401,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"stratosattk1"
+      }
     ],
     "updated":"2023-07-09T22:51:42.323005Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57167\/2023-07-09T19%3A13%3A12_7835512_57167_23091B_0-OBJECT-B_0.34130220333335615_B_r29.0_f0.0.png",
@@ -34068,8 +34070,8 @@
   },
   {
     "sat_id":"RINJ-3108-9789-8075-5047",
-    "norad_cat_id":99100.0,
-    "norad_follow_id":56991.0,
+    "norad_cat_id":56991.0,
+    "norad_follow_id":null,
     "name":"SpeiSat",
     "names":"Guardian of Hope",
     "image":"",
@@ -34083,8 +34085,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-07T11:01:42.212306Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7822870\/",
+    "updated":"2023-07-11T14:19:28.755894Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56991\/2023-07-11T03%3A17%3A02_7843948_56991_23084BT_0-OBJECT-BT_1.0266726337037255_B_r29.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34478,7 +34480,7 @@
     "sat_id":"QAEA-9330-4311-4548-0260",
     "norad_cat_id":56934.0,
     "norad_follow_id":null,
-    "name":"OBJECT C",
+    "name":"OBJECT 23084C",
     "names":"Transporter 8 Satellite A",
     "image":"",
     "status":"alive",
@@ -34491,8 +34493,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-09T08:11:59.983121Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56934\/2023-07-07T23%3A06%3A07_7822475_56934_23084C_0-OBJECT-C_1.182647741481503_A_r24.0_f0.0.png",
+    "updated":"2023-07-11T13:48:59.707446Z",
+    "citation":"Updated name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34957,7 +34959,7 @@
   {
     "sat_id":"JPOQ-1297-7674-4432-5408",
     "norad_cat_id":99078.0,
-    "norad_follow_id":56938.0,
+    "norad_follow_id":56936.0,
     "name":"Transporter 8 Satellite F",
     "names":"",
     "image":"",
@@ -34971,8 +34973,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-09T08:54:14.709210Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7799553\/",
+    "updated":"2023-07-11T15:46:48.974702Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7843566\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35413,7 +35415,7 @@
   {
     "sat_id":"WCYU-8623-8568-9647-7528",
     "norad_cat_id":99070.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57312.0,
     "name":"SC-ODIN",
     "names":"",
     "image":"",
@@ -35427,8 +35429,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-06T10:42:48.512917Z",
-    "citation":"deployed",
+    "updated":"2023-07-11T13:29:05.770408Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35437,7 +35439,7 @@
   {
     "sat_id":"GNIM-3572-6079-3146-0400",
     "norad_cat_id":99071.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57313.0,
     "name":"RadSat-SK",
     "names":"",
     "image":"",
@@ -35451,8 +35453,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-06T10:42:22.985882Z",
-    "citation":"deployed",
+    "updated":"2023-07-11T13:29:05.731239Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35461,7 +35463,7 @@
   {
     "sat_id":"JGTM-1252-8431-9631-8586",
     "norad_cat_id":99072.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57314.0,
     "name":"Ukpik-1",
     "names":"",
     "image":"",
@@ -35475,8 +35477,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-06T10:42:50.943089Z",
-    "citation":"deployed",
+    "updated":"2023-07-11T13:29:05.681781Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35485,7 +35487,7 @@
   {
     "sat_id":"YUVU-2466-2581-7667-8758",
     "norad_cat_id":99073.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57315.0,
     "name":"IRIS",
     "names":"ManitobaSat-1",
     "image":"",
@@ -35499,8 +35501,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-06T10:42:45.623300Z",
-    "citation":"Deployed",
+    "updated":"2023-07-11T13:29:05.657511Z",
+    "citation":"Random choice",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -35509,7 +35511,7 @@
   {
     "sat_id":"KKSB-7497-2248-2429-8085",
     "norad_cat_id":99074.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57316.0,
     "name":"ESSENCE",
     "names":"",
     "image":"",
@@ -35523,8 +35525,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-06T10:42:25.022432Z",
-    "citation":"deployed",
+    "updated":"2023-07-11T13:29:05.635840Z",
+    "citation":"Random choice",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -35533,7 +35535,7 @@
   {
     "sat_id":"TADH-7943-5789-3847-1138",
     "norad_cat_id":99075.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57317.0,
     "name":"Moonlighter",
     "names":"",
     "image":"",
@@ -35547,8 +35549,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-06T10:42:53.090679Z",
-    "citation":"deployed",
+    "updated":"2023-07-11T13:29:05.611265Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35741,6 +35743,78 @@
     ],
     "updated":"2023-07-10T03:51:41.920296Z",
     "citation":"Update the name",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CMXD-4091-3803-4419-4347",
+    "norad_cat_id":47488.0,
+    "norad_follow_id":null,
+    "name":"Astrocast-0102",
+    "names":"2021-006CD",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-01-24T00:00:00Z",
+    "deployed":"2021-01-24T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CH",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-11T17:51:22.357536Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1v-GWBPzhrHwqVgooccycU_mZnweR5wJ0yo_OKzMC8e4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OEXL-4354-2785-0001-5027",
+    "norad_cat_id":47519.0,
+    "norad_follow_id":null,
+    "name":"Astrocast-0104",
+    "names":"2021-006DK",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-01-24T00:00:00Z",
+    "deployed":"2021-01-24T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CH",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-11T17:51:18.289582Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1d05WWtqfBiba7PcxWihp7cIRwsz3H9u101YHbecCunc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QJNL-5424-7348-8857-3059",
+    "norad_cat_id":47487.0,
+    "norad_follow_id":null,
+    "name":"Astrocast-0103",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-01-24T00:00:00Z",
+    "deployed":"2021-01-24T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CH",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-11T17:51:14.042365Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1xMSW4yFT0Wz-0z3hhTrz2QI8dXPIAhVaGX3BzFM3_uQ\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
