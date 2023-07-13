@@ -31089,7 +31089,7 @@
   {
     "sat_id":"PDTE-7914-8172-6131-7029",
     "norad_cat_id":99182.0,
-    "norad_follow_id":56231.0,
+    "norad_follow_id":56993.0,
     "name":"MRC-100",
     "names":"",
     "image":"",
@@ -31103,8 +31103,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-07T09:20:03.313286Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/119",
+    "updated":"2023-07-13T01:00:39.092210Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/134",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34407,8 +34407,8 @@
   },
   {
     "sat_id":"EDLR-2585-4091-5222-0195",
-    "norad_cat_id":99086.0,
-    "norad_follow_id":57188.0,
+    "norad_cat_id":57188.0,
+    "norad_follow_id":null,
     "name":"Hors 1",
     "names":"\u0425\u043e\u0440\u0441 1",
     "image":"satellites\/khors-1__1.jpg",
@@ -34422,8 +34422,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T09:15:14.661536Z",
-    "citation":"Add Followed Norad ID of https:\/\/db.satnogs.org\/satellite\/GMJL-5209-1625-8784-4892 as they probably is the same satellite",
+    "updated":"2023-07-13T00:29:45.462913Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57188\/2023-07-12T07%3A57%3A20_7841991_57188_23091Y_0-OBJECT-Y_0.04694150851850054_A_r29.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
       "GMJL-5209-1625-8784-4892"

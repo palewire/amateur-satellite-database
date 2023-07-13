@@ -3817,6 +3817,28 @@
     "satnogs_id":null
   },
   {
+    "name":"CSTP-1.1",
+    "norad_id":"57202",
+    "uplink":null,
+    "downlink":"436.075",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"CSTP-1.2",
+    "norad_id":"57186",
+    "uplink":null,
+    "downlink":"436.270",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"CSUNSat1",
     "norad_id":"42715",
     "uplink":null,
@@ -6413,6 +6435,28 @@
     "satnogs_id":"XCTG-7337-9615-0882-4390"
   },
   {
+    "name":"Hors(Khors)-1",
+    "norad_id":"57188",
+    "uplink":null,
+    "downlink":"435.300",
+    "beacon":null,
+    "mode":"9k6 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"EDLR-2585-4091-5222-0195"
+  },
+  {
+    "name":"Hors(Khors)-2",
+    "norad_id":"57197",
+    "uplink":null,
+    "downlink":"435.500",
+    "beacon":null,
+    "mode":"9k6 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"HORYU-2",
     "norad_id":"38340",
     "uplink":null,
@@ -8735,9 +8779,9 @@
   },
   {
     "name":"Monitor-2",
-    "norad_id":null,
+    "norad_id":"57184",
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.815\/435.915",
     "beacon":null,
     "mode":"9k6 FSK",
     "callsign":"RS39S",
@@ -9038,7 +9082,7 @@
     "beacon":null,
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS49S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"VMNV-8729-6815-0607-7666"
   },
   {

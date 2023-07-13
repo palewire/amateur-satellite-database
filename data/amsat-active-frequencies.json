@@ -780,6 +780,26 @@
     "satnogs_id":"CKMD-9513-1025-4842-0352"
   },
   {
+    "name":"CSTP-1.1",
+    "norad_id":"57202",
+    "uplink":null,
+    "downlink":"436.075",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"CSTP-1.2",
+    "norad_id":"57186",
+    "uplink":null,
+    "downlink":"436.270",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"CTIM-FD",
     "norad_id":"52950",
     "uplink":null,
@@ -2178,6 +2198,16 @@
     "mode":"1k2*\/2k4\/4k8\/9k6BPSK",
     "callsign":"NCBR2",
     "satnogs_id":"ZYLY-1275-5968-7283-5367"
+  },
+  {
+    "name":"Nanozond-1",
+    "norad_id":"57190",
+    "uplink":null,
+    "downlink":"437.000",
+    "beacon":null,
+    "mode":"2k4-9k6 GMSK_USP",
+    "callsign":"RS49S",
+    "satnogs_id":"VMNV-8729-6815-0607-7666"
   },
   {
     "name":"Nayif-1",
