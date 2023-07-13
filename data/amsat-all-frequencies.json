@@ -3946,7 +3946,7 @@
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS42S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"UMPN-9044-0154-0093-6402"
   },
   {
     "name":"CubeSX-Sirius-HSE",
@@ -7840,7 +7840,7 @@
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS47S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"IAID-3852-6397-8056-8089"
   },
   {
     "name":"KUZBASS-300",
@@ -13395,7 +13395,7 @@
     "mode":"9k6 GMSK",
     "callsign":"RS52S",
     "status":"active",
-    "satnogs_id":"SBTR-9192-8869-0393-0787"
+    "satnogs_id":"AMWD-8238-3001-8498-3030"
   },
   {
     "name":"StratoSat-TK-1-A",
@@ -13648,7 +13648,7 @@
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LWVG-4743-3629-4474-1375"
   },
   {
     "name":"SwampSat",
@@ -15738,7 +15738,7 @@
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS38S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"OYGZ-5054-3166-8092-6448"
   },
   {
     "name":"Voenmeh",
