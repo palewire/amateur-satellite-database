@@ -30873,7 +30873,7 @@
   {
     "sat_id":"ZHHQ-5752-7286-6121-4715",
     "norad_cat_id":99192.0,
-    "norad_follow_id":56228.0,
+    "norad_follow_id":56231.0,
     "name":"Istanbul",
     "names":"Hello Space Istanbul",
     "image":"satellites\/uydu_01.png",
@@ -30887,8 +30887,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-08T14:28:58.036933Z",
-    "citation":"Random choice of NORAD ID to follow",
+    "updated":"2023-07-14T07:35:44.659466Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/136",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34402,7 +34402,7 @@
     "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/163",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "VLLM-5536-9160-8769-5843"
     ]
   },
   {
@@ -35654,30 +35654,6 @@
     ]
   },
   {
-    "sat_id":"VLLM-5536-9160-8769-5843",
-    "norad_cat_id":99065.0,
-    "norad_follow_id":57197.0,
-    "name":"Satellite 6 from 23091",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2023-07-10T03:51:41.920296Z",
-    "citation":"Update the name",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"CMXD-4091-3803-4419-4347",
     "norad_cat_id":47488.0,
     "norad_follow_id":null,
@@ -35793,6 +35769,30 @@
     "updated":"2023-07-12T20:18:22.826498Z",
     "citation":"From PE0SAT strf observation",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YCAV-7565-7658-9428-5977",
+    "norad_cat_id":29510.0,
+    "norad_follow_id":null,
+    "name":"STEREO-A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2006-10-26T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-14T09:24:40.875143Z",
+    "citation":"https:\/\/skyriddles.wordpress.com\/2023\/07\/03\/stereo-a-comes-home\/",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
