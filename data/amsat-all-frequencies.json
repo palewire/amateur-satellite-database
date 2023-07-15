@@ -5012,7 +5012,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -7113,7 +7113,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8818,7 +8818,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11227,7 +11227,7 @@
     "beacon":null,
     "mode":"9k6 GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -12206,7 +12206,7 @@
     "beacon":null,
     "mode":"GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -15143,7 +15143,7 @@
     "beacon":null,
     "mode":"9k6 2GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
