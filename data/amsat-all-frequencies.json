@@ -8640,7 +8640,7 @@
     "uplink":null,
     "downlink":"137.100*\/137.900",
     "beacon":null,
-    "mode":"72kbps LRPT",
+    "mode":"72\/80K symbolrate LRPT",
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"TLCE-8079-2988-7210-7028"
