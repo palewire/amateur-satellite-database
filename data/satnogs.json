@@ -18965,10 +18965,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -31619,7 +31619,7 @@
   {
     "sat_id":"XJHL-5854-3769-8574-0446",
     "norad_cat_id":99169.0,
-    "norad_follow_id":56312.0,
+    "norad_follow_id":56315.0,
     "name":"AURORASAT",
     "names":"VE8ARI",
     "image":"satellites\/aurorasat-1.jpg",
@@ -31633,8 +31633,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-01T12:36:45.566254Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc\/10322\/64",
+    "updated":"2023-07-15T15:58:26.555881Z",
+    "citation":"STRF OBS",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32607,7 +32607,7 @@
   {
     "sat_id":"ULWR-5929-7873-9279-5662",
     "norad_cat_id":99142.0,
-    "norad_follow_id":57174.0,
+    "norad_follow_id":57208.0,
     "name":"AHMAT-1",
     "names":"RS41S",
     "image":"satellites\/large_Ahmat_1_7564081887.jpeg",
@@ -32621,8 +32621,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T00:23:05.376169Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7805865\/",
+    "updated":"2023-07-15T21:27:03.866006Z",
+    "citation":"Chang followed NORAD ID",
     "is_frequency_violator":true,
     "associated_satellites":[
 
