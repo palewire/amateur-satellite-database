@@ -210,7 +210,7 @@
   },
   {
     "name":"AHMAT-1",
-    "norad_id":null,
+    "norad_id":"57208",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
@@ -5160,14 +5160,14 @@
   },
   {
     "name":"FacSat-2",
-    "norad_id":null,
+    "norad_id":"56205",
     "uplink":null,
     "downlink":"437.350",
     "beacon":null,
     "mode":"9k6 GMSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"SLUI-1545-4376-6534-9457"
   },
   {
     "name":"FalconSAT-3",
@@ -6238,7 +6238,7 @@
   },
   {
     "name":"Hades-B",
-    "norad_id":null,
+    "norad_id":"56992",
     "uplink":"145.925\/145.975",
     "downlink":"436.888",
     "beacon":"436.888",
@@ -6249,7 +6249,7 @@
   },
   {
     "name":"Hades-C",
-    "norad_id":null,
+    "norad_id":"56230",
     "uplink":null,
     "downlink":"436.235",
     "beacon":null,
@@ -7261,7 +7261,7 @@
   },
   {
     "name":"Istanbul-1",
-    "norad_id":null,
+    "norad_id":"56231",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -9659,7 +9659,7 @@
   },
   {
     "name":"Norby-2",
-    "norad_id":null,
+    "norad_id":"57180",
     "uplink":null,
     "downlink":"435.600",
     "beacon":null,
@@ -10726,7 +10726,7 @@
   },
   {
     "name":"Polytech-Universe-3",
-    "norad_id":null,
+    "norad_id":"57191",
     "uplink":null,
     "downlink":"435.415",
     "beacon":null,
@@ -11375,7 +11375,7 @@
   },
   {
     "name":"ReshUCube-2",
-    "norad_id":null,
+    "norad_id":"57171",
     "uplink":null,
     "downlink":"435.640\/435.742\/436.675",
     "beacon":null,
@@ -11452,7 +11452,7 @@
   },
   {
     "name":"ROM-2",
-    "norad_id":null,
+    "norad_id":"56230",
     "uplink":null,
     "downlink":"436.235",
     "beacon":null,
@@ -12024,7 +12024,7 @@
   },
   {
     "name":"SamSat-ION",
-    "norad_id":null,
+    "norad_id":"57173",
     "uplink":null,
     "downlink":null,
     "beacon":"437.402",
@@ -12123,7 +12123,7 @@
   },
   {
     "name":"SATLLA-2I",
-    "norad_id":null,
+    "norad_id":"56227",
     "uplink":null,
     "downlink":"437.250",
     "beacon":null,
@@ -12646,7 +12646,7 @@
     "beacon":null,
     "mode":"P-band",
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":null
   },
   {
@@ -15522,7 +15522,7 @@
   },
   {
     "name":"UreSat-1",
-    "norad_id":null,
+    "norad_id":"56992",
     "uplink":"145.925\/145.975",
     "downlink":"436.888",
     "beacon":"436.888",

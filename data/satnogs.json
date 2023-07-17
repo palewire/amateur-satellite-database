@@ -31449,7 +31449,7 @@
   {
     "sat_id":"GXDZ-6863-9184-9694-9376",
     "norad_cat_id":99172.0,
-    "norad_follow_id":56315.0,
+    "norad_follow_id":56312.0,
     "name":"NEUDOSE",
     "names":"VE3NEU, NEUtron DOSimetry & Exploration",
     "image":"satellites\/NEUDOSE.png",
@@ -31465,8 +31465,8 @@
         "decoder":"neudose"
       }
     ],
-    "updated":"2023-05-17T14:03:28.089782Z",
-    "citation":"https:\/\/mcmasterneudose.ca\/mission-objectives",
+    "updated":"2023-07-16T15:09:52.443590Z",
+    "citation":"STRF OBS",
     "is_frequency_violator":false,
     "associated_satellites":[
 

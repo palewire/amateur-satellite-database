@@ -2251,7 +2251,7 @@
   },
   {
     "name":"Norby-2",
-    "norad_id":null,
+    "norad_id":"57180",
     "uplink":null,
     "downlink":"435.600",
     "beacon":null,
@@ -2441,7 +2441,7 @@
   },
   {
     "name":"Polytech-Universe-3",
-    "norad_id":null,
+    "norad_id":"57191",
     "uplink":null,
     "downlink":"435.415",
     "beacon":null,
@@ -2571,7 +2571,7 @@
   },
   {
     "name":"SamSat-ION",
-    "norad_id":null,
+    "norad_id":"57173",
     "uplink":null,
     "downlink":null,
     "beacon":"437.402",
