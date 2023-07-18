@@ -8638,7 +8638,7 @@
     "name":"METEOR-M N2-3",
     "norad_id":"57166",
     "uplink":null,
-    "downlink":"137.100*\/137.900",
+    "downlink":"137.100\/137.900",
     "beacon":null,
     "mode":"72\/80K symbolrate LRPT",
     "callsign":null,

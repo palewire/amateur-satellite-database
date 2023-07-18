@@ -5302,8 +5302,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-04-25T16:32:26.999951Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-07-17T17:20:08.159485Z",
+    "citation":"Revert last change",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31449,7 +31449,7 @@
   {
     "sat_id":"GXDZ-6863-9184-9694-9376",
     "norad_cat_id":99172.0,
-    "norad_follow_id":56312.0,
+    "norad_follow_id":56313.0,
     "name":"NEUDOSE",
     "names":"VE3NEU, NEUtron DOSimetry & Exploration",
     "image":"satellites\/NEUDOSE.png",
@@ -31465,8 +31465,8 @@
         "decoder":"neudose"
       }
     ],
-    "updated":"2023-07-16T15:09:52.443590Z",
-    "citation":"STRF OBS",
+    "updated":"2023-07-17T16:01:41.149578Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc\/10322\/82",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31571,7 +31571,7 @@
   {
     "sat_id":"XIBT-0144-7487-5046-9397",
     "norad_cat_id":99167.0,
-    "norad_follow_id":56313.0,
+    "norad_follow_id":56315.0,
     "name":"EX-ALTA-2",
     "names":"VE6UAB",
     "image":"satellites\/ExAlta-2.jpg",
@@ -31585,8 +31585,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-01T12:36:40.633568Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc\/10322\/64",
+    "updated":"2023-07-17T16:02:45.985568Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc\/10322\/82",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31619,7 +31619,7 @@
   {
     "sat_id":"XJHL-5854-3769-8574-0446",
     "norad_cat_id":99169.0,
-    "norad_follow_id":56315.0,
+    "norad_follow_id":56312.0,
     "name":"AURORASAT",
     "names":"VE8ARI",
     "image":"satellites\/aurorasat-1.jpg",
@@ -31633,8 +31633,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-15T15:58:26.555881Z",
-    "citation":"STRF OBS",
+    "updated":"2023-07-17T15:57:01.503929Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc\/10322\/82",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34432,7 +34432,7 @@
   {
     "sat_id":"QRAQ-3104-7805-7099-5968",
     "norad_cat_id":99085.0,
-    "norad_follow_id":57197.0,
+    "norad_follow_id":57196.0,
     "name":"Hors 2",
     "names":"\u0425\u043e\u0440\u0441 2",
     "image":"satellites\/khors-1__1_acuSFYs.jpg",
@@ -34446,8 +34446,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T09:18:37.708066Z",
-    "citation":"Random choice",
+    "updated":"2023-07-17T16:25:47.603570Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7865169\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
