@@ -22571,8 +22571,8 @@
   },
   {
     "sat_id":"UDZO-6677-3907-8516-6750",
-    "norad_cat_id":99352.0,
-    "norad_follow_id":56992.0,
+    "norad_cat_id":56992.0,
+    "norad_follow_id":null,
     "name":"URESAT-1",
     "names":"UreSat-1 \/ Hades-B",
     "image":"satellites\/logo_sat3.png",
@@ -22586,8 +22586,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-15T07:14:34.422964Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/139",
+    "updated":"2023-07-18T13:51:22.320445Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56992\/2023-07-18T11:48:36_7881183_56992_23084BU_0-OBJECT-BU_1.211142283333345_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30969,7 +30969,7 @@
   {
     "sat_id":"SVNK-0275-3230-3083-0188",
     "norad_cat_id":99187.0,
-    "norad_follow_id":56230.0,
+    "norad_follow_id":56994.0,
     "name":"ROM-2",
     "names":"Space Sparrow, HADES-C",
     "image":"satellites\/sat20-removebg-preview.png",
@@ -30983,8 +30983,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-08T14:13:42.113520Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7745967\/",
+    "updated":"2023-07-18T16:04:23.157406Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/139",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35792,6 +35792,798 @@
     ],
     "updated":"2023-07-14T09:24:40.875143Z",
     "citation":"https:\/\/skyriddles.wordpress.com\/2023\/07\/03\/stereo-a-comes-home\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BCAP-6819-3805-1767-9040",
+    "norad_cat_id":54151.0,
+    "norad_follow_id":null,
+    "name":"GONETS-M 24",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-10-22T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:45.209222Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/61",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XNTV-0512-6684-6659-6259",
+    "norad_cat_id":45603.0,
+    "norad_follow_id":null,
+    "name":"XINGYUN-2 02",
+    "names":"2020-028B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-05-12T00:00:00Z",
+    "deployed":"2020-05-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:45.129193Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/146rIQGdsBd8KxtXTVXompEofcE0tD_4avi4rHIjw7ZA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ACVR-3664-7909-2803-8313",
+    "norad_cat_id":54152.0,
+    "norad_follow_id":null,
+    "name":"GONETS-M 25",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-10-22T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:45.103483Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SVSA-7744-5225-3164-9270",
+    "norad_cat_id":54150.0,
+    "norad_follow_id":null,
+    "name":"GONETS-M 23",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2022-10-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:45.069242Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PNTJ-1623-4161-0765-7707",
+    "norad_cat_id":47229.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 22",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-12-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:45.025663Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QMFQ-3164-6986-5930-6670",
+    "norad_cat_id":47228.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 21",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-12-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.997339Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LRXP-4194-0472-7265-2033",
+    "norad_cat_id":47227.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 20",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-12-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.970838Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CFZU-9612-7304-5856-2121",
+    "norad_cat_id":46488.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 19",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-09-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.941366Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MSWP-0314-1111-2720-2236",
+    "norad_cat_id":46487.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 18",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-09-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.904430Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MJCL-6400-6745-5066-1439",
+    "norad_cat_id":46486.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 17",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-09-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.881389Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OJHW-6487-3767-8861-3844",
+    "norad_cat_id":44907.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 16",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-12-26T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.861108Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YEVG-8442-7263-2973-2834",
+    "norad_cat_id":44906.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 15",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-12-26T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.838374Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QZNW-3358-1674-5555-8984",
+    "norad_cat_id":44905.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 14",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-12-26T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.817758Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AVWO-6492-1389-9508-5344",
+    "norad_cat_id":43753.0,
+    "norad_follow_id":null,
+    "name":"Strela-3M 18",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-11-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.797759Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ITRE-7969-3378-8670-6684",
+    "norad_cat_id":43752.0,
+    "norad_follow_id":null,
+    "name":"Strela-3M 17",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-11-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.777842Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YITW-4383-2430-5275-0245",
+    "norad_cat_id":43751.0,
+    "norad_follow_id":null,
+    "name":"Strela-3M 16",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-11-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.757798Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RZGR-7086-2710-1601-7118",
+    "norad_cat_id":40922.0,
+    "norad_follow_id":null,
+    "name":"Strela-3M 14",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-09-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.734653Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UUOO-6379-3536-1244-7185",
+    "norad_cat_id":40921.0,
+    "norad_follow_id":null,
+    "name":"Strela-3M 14",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-09-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.672436Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ETWA-2670-6902-5093-8863",
+    "norad_cat_id":40920.0,
+    "norad_follow_id":null,
+    "name":"Strela-3M 13",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-09-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.645258Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KENW-5227-3698-9846-2263",
+    "norad_cat_id":40554.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 13",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-03-31T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.625733Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZHAU-4901-1917-7527-2674",
+    "norad_cat_id":40553.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 12",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-03-31T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.605998Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NJVY-7355-2355-3981-8540",
+    "norad_cat_id":40552.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 11",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-03-31T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.581482Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XZLA-8441-8969-0654-6386",
+    "norad_cat_id":40063.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 10",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-07-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.559411Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FJBU-4193-7031-7736-6129",
+    "norad_cat_id":39763.0,
+    "norad_follow_id":null,
+    "name":"Rodnik",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-03-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.539517Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SWQU-7713-6191-8571-8774",
+    "norad_cat_id":39762.0,
+    "norad_follow_id":null,
+    "name":"Rodnik",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-03-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.519648Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FUYM-0461-0208-7654-2611",
+    "norad_cat_id":39761.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2496",
+    "names":"Rodnik",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-03-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.499534Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GJZN-6285-3602-0375-5049",
+    "norad_cat_id":39485.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2490",
+    "names":"Rodnik",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-12-25T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.409416Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LKXL-7583-7096-6906-8403",
+    "norad_cat_id":39484.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2489",
+    "names":"Rodnik",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-12-25T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.389161Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ABWW-8070-8468-0118-6745",
+    "norad_cat_id":39483.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2488",
+    "names":"Rodnik",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-12-25T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.369065Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XFZR-0131-6472-3092-9648",
+    "norad_cat_id":39251.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 7",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-09-11T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.349065Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NOVQ-2422-6540-4494-7495",
+    "norad_cat_id":39249.0,
+    "norad_follow_id":null,
+    "name":"GONETS M 5",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-09-11T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.328279Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MHFX-6758-4443-1336-0162",
+    "norad_cat_id":39059.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2484",
+    "names":"Rodnik",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-01-15T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.304845Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EHEO-6801-7958-5211-5852",
+    "norad_cat_id":22034.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2197",
+    "names":"Strela-3",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"1992-05-13T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-18T16:04:44.276737Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
     "is_frequency_violator":false,
     "associated_satellites":[
 

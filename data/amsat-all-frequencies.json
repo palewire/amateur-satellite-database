@@ -6245,7 +6245,7 @@
     "mode":"1k2\/2k4 AFSK APRS FM CW",
     "callsign":"AO4URE",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
   {
     "name":"Hades-C",
@@ -8779,14 +8779,14 @@
   },
   {
     "name":"Monitor-2",
-    "norad_id":"57184",
+    "norad_id":"57174",
     "uplink":null,
     "downlink":"435.815\/435.915",
     "beacon":null,
-    "mode":"9k6 FSK",
+    "mode":"1k2_AFSK\/9k6 FSK",
     "callsign":"RS39S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"SCGK-1611-0139-1871-0649"
   },
   {
     "name":"Monitor-3",
@@ -15529,7 +15529,7 @@
     "mode":"1k2\/2k4 AFSK APRS FM CW",
     "callsign":"AO4URE",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
   {
     "name":"URSA MAIOR",
