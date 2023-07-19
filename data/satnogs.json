@@ -5292,8 +5292,8 @@
     "name":"NAYIF-1",
     "names":"EO-88, FUNCUBE-5",
     "image":"satellites\/NAYIF-1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-07-18T18:31:45Z",
     "launched":"2017-02-15T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.mbrsc.ae\/satellite-programme\/nayif-1",
@@ -5302,8 +5302,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-17T17:20:08.159485Z",
-    "citation":"Revert last change",
+    "updated":"2023-07-19T06:36:22.747244Z",
+    "citation":"https:\/\/community.libre.space\/t\/nayif-1-re-entry\/10714\/10",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16898,7 +16898,7 @@
     "norad_cat_id":47482.0,
     "norad_follow_id":null,
     "name":"NASA PTD-1",
-    "names":"",
+    "names":"PT1F1N",
     "image":"satellites\/ptd-1_integration_photo_2-evergreen_page.jpg",
     "status":"alive",
     "decayed":null,
@@ -16910,8 +16910,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-19T06:17:36.632785Z",
-    "citation":"https:\/\/github.com\/EelkeVisser\/strfdata\/blob\/main\/frequencies.txt",
+    "updated":"2023-07-19T08:17:59.062960Z",
+    "citation":"decodes",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19164,10 +19164,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -36584,6 +36584,54 @@
     ],
     "updated":"2023-07-18T16:04:44.276737Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DWOE-5467-4122-7963-0240",
+    "norad_cat_id":99062.0,
+    "norad_follow_id":null,
+    "name":"Maya-5",
+    "names":"DX5MYA",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2023-07-19T06:40:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-19T07:50:51.009648Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-26-2023-07-19-06-40-utc\/10723\/1",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BSOI-4945-7290-6798-4904",
+    "norad_cat_id":99061.0,
+    "norad_follow_id":null,
+    "name":"Maya-6",
+    "names":"DX6MYA",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2023-07-19T06:40:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-19T07:50:45.613942Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-26-2023-07-19-06-40-utc\/10723\/1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
