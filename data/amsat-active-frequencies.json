@@ -2070,6 +2070,26 @@
     "satnogs_id":"ULZA-6802-2539-6219-3200"
   },
   {
+    "name":"Maya-5",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.825\/437.375",
+    "beacon":"437.375",
+    "mode":"1k2APRS 4k8GMSK CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"Maya-6",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.825\/437.375",
+    "beacon":"437.375",
+    "mode":"1k2APRS 4k8GMSK CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"MCubed-2",
     "norad_id":"39469",
     "uplink":null,

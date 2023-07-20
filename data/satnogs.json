@@ -19164,10 +19164,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -32824,7 +32824,7 @@
   {
     "sat_id":"SEMQ-5896-1667-7154-6568",
     "norad_cat_id":99134.0,
-    "norad_follow_id":57171.0,
+    "norad_follow_id":57168.0,
     "name":"ReshUCube-2",
     "names":"RS37S",
     "image":"satellites\/medium_1_3_1_01d3c4dd6d.jpg",
@@ -32838,8 +32838,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T03:22:08.587819Z",
-    "citation":"Random choice",
+    "updated":"2023-07-19T16:13:41.713324Z",
+    "citation":"From the team",
     "is_frequency_violator":true,
     "associated_satellites":[
       "QATA-1456-8729-8341-3508"
@@ -34984,7 +34984,7 @@
   {
     "sat_id":"URSD-5571-2115-5307-8731",
     "norad_cat_id":99077.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56230.0,
     "name":"UNICORN-2I",
     "names":"",
     "image":"",
@@ -34998,8 +34998,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-24T09:24:56.815744Z",
-    "citation":"Stop following deployer",
+    "updated":"2023-07-19T20:32:32.266270Z",
+    "citation":"From the team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36185,7 +36185,7 @@
     "sat_id":"RZGR-7086-2710-1601-7118",
     "norad_cat_id":40922.0,
     "norad_follow_id":null,
-    "name":"Strela-3M 14",
+    "name":"Strela-3M 15",
     "names":"",
     "image":"",
     "status":"alive",
@@ -36198,8 +36198,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-18T16:04:44.734653Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "updated":"2023-07-19T17:23:40.753705Z",
+    "citation":"typo, not two \"14\"s",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36600,14 +36600,14 @@
     "decayed":null,
     "launched":null,
     "deployed":"2023-07-19T06:40:00Z",
-    "website":"",
+    "website":"https:\/\/stamina4space.upd.edu.ph\/maya-5-and-maya-6\/",
     "operator":"None",
-    "countries":"",
+    "countries":"PH",
     "telemetries":[
 
     ],
-    "updated":"2023-07-19T07:50:51.009648Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-26-2023-07-19-06-40-utc\/10723\/1",
+    "updated":"2023-07-19T17:23:57.440596Z",
+    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=806",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36624,14 +36624,14 @@
     "decayed":null,
     "launched":null,
     "deployed":"2023-07-19T06:40:00Z",
-    "website":"",
+    "website":"https:\/\/stamina4space.upd.edu.ph\/maya-5-and-maya-6\/",
     "operator":"None",
-    "countries":"",
+    "countries":"PH",
     "telemetries":[
 
     ],
-    "updated":"2023-07-19T07:50:45.613942Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-26-2023-07-19-06-40-utc\/10723\/1",
+    "updated":"2023-07-19T17:23:51.187338Z",
+    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=807",
     "is_frequency_violator":false,
     "associated_satellites":[
 
