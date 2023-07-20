@@ -1,5 +1,15 @@
 [
   {
+    "name":"1KUNS-3",
+    "norad_id":"47941",
+    "uplink":null,
+    "downlink":"435.310",
+    "beacon":null,
+    "mode":"1k2 FSK 9k6*GMSK",
+    "callsign":null,
+    "satnogs_id":"JHGM-7853-8293-9677-2181"
+  },
+  {
     "name":"Aalto-1",
     "norad_id":"42775",
     "uplink":null,
@@ -2140,6 +2150,16 @@
     "satnogs_id":"HKXU-1877-4030-6508-9166"
   },
   {
+    "name":"Monitor-3",
+    "norad_id":"57180",
+    "uplink":null,
+    "downlink":"435.290",
+    "beacon":null,
+    "mode":"2k4*-9k6 GMSK_USP",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"MOVE-2",
     "norad_id":"43780",
     "uplink":"437.800",
@@ -3428,6 +3448,16 @@
     "mode":"1k2\/4k8*\/9k6 MSK",
     "callsign":null,
     "satnogs_id":"DJWH-7860-9983-7310-6047"
+  },
+  {
+    "name":"WildTrackCube-SIMBA",
+    "norad_id":"47941",
+    "uplink":null,
+    "downlink":"435.310",
+    "beacon":null,
+    "mode":"1k2 FSK 9k6*GMSK",
+    "callsign":null,
+    "satnogs_id":"JHGM-7853-8293-9677-2181"
   },
   {
     "name":"Xiaoxiang-2",

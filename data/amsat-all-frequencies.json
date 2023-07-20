@@ -1,5 +1,16 @@
 [
   {
+    "name":"1KUNS-3",
+    "norad_id":"47941",
+    "uplink":null,
+    "downlink":"435.310",
+    "beacon":null,
+    "mode":"1k2 FSK 9k6*GMSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"JHGM-7853-8293-9677-2181"
+  },
+  {
     "name":"1KUNS-PF",
     "norad_id":"43466",
     "uplink":null,
@@ -8803,7 +8814,7 @@
     "name":"Monitor-2",
     "norad_id":"57174",
     "uplink":null,
-    "downlink":"435.815\/435.915",
+    "downlink":"435.000\/435.815\/435.915",
     "beacon":null,
     "mode":"1k2_AFSK\/9k6 FSK",
     "callsign":"RS39S",
@@ -8816,9 +8827,9 @@
     "uplink":null,
     "downlink":"435.290",
     "beacon":null,
-    "mode":"2k4-9k6 GMSK_USP",
+    "mode":"2k4*-9k6 GMSK_USP",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -15966,9 +15977,9 @@
     "uplink":null,
     "downlink":"435.310",
     "beacon":null,
-    "mode":"1k2 FSK 9k6 GMSK",
+    "mode":"1k2 FSK 9k6*GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"JHGM-7853-8293-9677-2181"
   },
   {
