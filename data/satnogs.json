@@ -35536,7 +35536,7 @@
   {
     "sat_id":"TADH-7943-5789-3847-1138",
     "norad_cat_id":99075.0,
-    "norad_follow_id":57317.0,
+    "norad_follow_id":57316.0,
     "name":"Moonlighter",
     "names":"",
     "image":"",
@@ -35550,8 +35550,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-11T13:29:05.611265Z",
-    "citation":"Random choice",
+    "updated":"2023-07-20T21:02:40.856804Z",
+    "citation":"Moonlighter's GPS data in telemetry more closely aligns with the TLE for 57316.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
