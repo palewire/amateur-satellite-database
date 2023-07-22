@@ -36592,7 +36592,7 @@
   {
     "sat_id":"DWOE-5467-4122-7963-0240",
     "norad_cat_id":99062.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57419.0,
     "name":"Maya-5",
     "names":"DX5MYA",
     "image":"",
@@ -36606,8 +36606,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-19T17:23:57.440596Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=806",
+    "updated":"2023-07-21T16:18:28.009580Z",
+    "citation":"Random choice of TBA TLE set",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36616,7 +36616,7 @@
   {
     "sat_id":"BSOI-4945-7290-6798-4904",
     "norad_cat_id":99061.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57420.0,
     "name":"Maya-6",
     "names":"DX6MYA",
     "image":"",
@@ -36630,8 +36630,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-19T17:23:51.187338Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=807",
+    "updated":"2023-07-21T16:18:31.858730Z",
+    "citation":"Random choice of TBA TLE set",
     "is_frequency_violator":false,
     "associated_satellites":[
 

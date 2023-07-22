@@ -5,7 +5,7 @@
     "uplink":null,
     "downlink":"435.310",
     "beacon":null,
-    "mode":"1k2 FSK 9k6*GMSK",
+    "mode":"1k2\/9k6*FSK",
     "callsign":null,
     "satnogs_id":"JHGM-7853-8293-9677-2181"
   },
@@ -2081,7 +2081,7 @@
   },
   {
     "name":"Maya-5",
-    "norad_id":null,
+    "norad_id":"57419",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
@@ -2091,7 +2091,7 @@
   },
   {
     "name":"Maya-6",
-    "norad_id":null,
+    "norad_id":"57420",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
@@ -3455,7 +3455,7 @@
     "uplink":null,
     "downlink":"435.310",
     "beacon":null,
-    "mode":"1k2 FSK 9k6*GMSK",
+    "mode":"1k2\/9k6*FSK",
     "callsign":null,
     "satnogs_id":"JHGM-7853-8293-9677-2181"
   },
