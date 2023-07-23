@@ -9252,18 +9252,18 @@
     "name":"M6P",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-07-19T00:00:00Z",
+    "launched":"2019-04-01T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/n-avionics.com\/platforms\/6u-cubesat-bus-m6p\/",
     "operator":"None",
-    "countries":"",
+    "countries":"LT",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.729538Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-07-22T19:09:00.424620Z",
+    "citation":"Celestrak",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -12188,8 +12188,8 @@
     "name":"DIY 1",
     "names":"Arduiqube, DO-111",
     "image":"satellites\/diy_1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-07-21T00:00:00Z",
     "launched":"2021-03-22T06:07:12Z",
     "deployed":"2021-03-24T10:00:00Z",
     "website":"http:\/\/www.diysatellite.com",
@@ -12200,8 +12200,8 @@
         "decoder":"diy1"
       }
     ],
-    "updated":"2022-02-13T15:11:10.849693Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-07-22T17:09:32.705530Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 

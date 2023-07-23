@@ -126,7 +126,7 @@ AubieSat-1,37854,,437.475,,1200bps AFSK CW,,inactive,
 Aurora,48956,,400.500,,FM,,inactive,
 AuroraSat,56312,,437.875/2428.000,,1k2/9k6 FSK,,inactive,
 AUTcube2,,,437.385,437.505,1k2AFSK 9k6FSK WSJT,JJ2YTA,unknown,
-Avion-Kaluga-650,57195,,,,,,unknown,
+Avion-Kaluga-650,57195,,435.615/435.715,,9k6 DOKA,,unknown,
 AzaadiSAT,,,437.400,,1200bps FSK SSTV LoRa,,re-entered,
 AzaadiSAT-2,55563,,437.400,,1200bps FSK LoRa,AZDSAT,inactive,EKAM-8316-2757-5928-1987
 AzTechSat-1,45261,,437.300,,9600bps GMSK/FSK,,re-entered,ABTK-2471-0556-6570-6819
@@ -1484,8 +1484,8 @@ XW-4,54816,,435.725,,4K8 GMSK telemetry,CAS10,re-entered,TLZR-1993-2564-0036-431
 XW-4,54816,,,435.575,DTMF_camera CW,,re-entered,TLZR-1993-2564-0036-4315
 Yarilo-1,46490,,435.350,,9600bps FSK,,inactive,NOPA-4112-5533-4054-3584
 Yarilo-2,46490,,435.550,,9600bps FSK,,inactive,NOPA-4112-5533-4054-3584
-Yarilo-3,,,,,,,unknown,
-Yarilo-4,,,,,,,unknown,
+Yarilo-3,57198,,435.450,,9k6 FSK,,unknown,
+Yarilo-4,,,435.400/435.720,,9k6 FSK FM,,unknown,
 YukonSat,56316,,437.875/2428.000,,1k2/9k6 FSK,,inactive,
 YUSAT-1,47439,145.825,436.250,,1k2AFSK/9k6GMSK,BN0YS,inactive,LCGS-2217-1833-6147-9866
 YuZGU-1,42911,,437.050,145.800,9600bps FSK Voice,RS6S,re-entered,

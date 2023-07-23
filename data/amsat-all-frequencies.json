@@ -1400,9 +1400,9 @@
     "name":"Avion-Kaluga-650",
     "norad_id":"57195",
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.615\/435.715",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6 DOKA",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -16336,11 +16336,11 @@
   },
   {
     "name":"Yarilo-3",
-    "norad_id":null,
+    "norad_id":"57198",
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.450",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6 FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -16349,9 +16349,9 @@
     "name":"Yarilo-4",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.400\/435.720",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6 FSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
