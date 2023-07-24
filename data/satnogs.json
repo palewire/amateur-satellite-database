@@ -18965,10 +18965,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -32607,7 +32607,7 @@
   {
     "sat_id":"ULWR-5929-7873-9279-5662",
     "norad_cat_id":99142.0,
-    "norad_follow_id":57208.0,
+    "norad_follow_id":57206.0,
     "name":"AHMAT-1",
     "names":"RS41S",
     "image":"satellites\/large_Ahmat_1_7564081887.jpeg",
@@ -32621,8 +32621,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-15T21:27:03.866006Z",
-    "citation":"Chang followed NORAD ID",
+    "updated":"2023-07-23T12:57:37.182427Z",
+    "citation":"57208 SITRO-AIS-11",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34336,7 +34336,7 @@
   {
     "sat_id":"FWIU-0278-1477-9989-7844",
     "norad_cat_id":99089.0,
-    "norad_follow_id":57192.0,
+    "norad_follow_id":57181.0,
     "name":"Impulse-1",
     "names":"\u0418\u043c\u043f\u0443\u043b\u044c\u0441-1",
     "image":"",
@@ -34350,8 +34350,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T04:04:22.424004Z",
-    "citation":"Random choice",
+    "updated":"2023-07-23T12:57:42.232523Z",
+    "citation":"Guess",
     "is_frequency_violator":false,
     "associated_satellites":[
 
