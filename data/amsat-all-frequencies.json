@@ -15273,7 +15273,7 @@
     "uplink":null,
     "downlink":"435.825\/437.625*",
     "beacon":null,
-    "mode":"2k4*-9k6 GMSK_USP",
+    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
     "callsign":"RS40S",
     "status":"active",
     "satnogs_id":"SDUV-9624-5611-1090-5908"

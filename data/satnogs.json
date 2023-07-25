@@ -18965,10 +18965,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19164,10 +19164,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -31571,7 +31571,7 @@
   {
     "sat_id":"XIBT-0144-7487-5046-9397",
     "norad_cat_id":99167.0,
-    "norad_follow_id":56315.0,
+    "norad_follow_id":56313.0,
     "name":"EX-ALTA-2",
     "names":"VE6UAB",
     "image":"satellites\/ExAlta-2.jpg",
@@ -31585,8 +31585,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-17T16:02:45.985568Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc\/10322\/82",
+    "updated":"2023-07-24T14:22:09.207146Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc\/10322\/88",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32944,7 +32944,7 @@
   {
     "sat_id":"BCCC-4892-7994-6676-5561",
     "norad_cat_id":99127.0,
-    "norad_follow_id":57199.0,
+    "norad_follow_id":57198.0,
     "name":"Yarilo No. 3",
     "names":"",
     "image":"",
@@ -32958,8 +32958,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T04:06:53.957701Z",
-    "citation":"Satellite team",
+    "updated":"2023-07-24T13:13:14.299095Z",
+    "citation":"https:\/\/celestrak.org\/NORAD\/elements\/gp.php?INTDES=2023-091",
     "is_frequency_violator":true,
     "associated_satellites":[
 
