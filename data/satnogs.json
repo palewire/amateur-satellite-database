@@ -19164,10 +19164,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -34336,7 +34336,7 @@
   {
     "sat_id":"FWIU-0278-1477-9989-7844",
     "norad_cat_id":99089.0,
-    "norad_follow_id":57181.0,
+    "norad_follow_id":57186.0,
     "name":"Impulse-1",
     "names":"\u0418\u043c\u043f\u0443\u043b\u044c\u0441-1",
     "image":"",
@@ -34350,8 +34350,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-23T12:57:42.232523Z",
-    "citation":"Guess",
+    "updated":"2023-07-25T11:45:20.755125Z",
+    "citation":"Possible TLE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
