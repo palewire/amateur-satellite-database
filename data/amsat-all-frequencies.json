@@ -8013,7 +8013,7 @@
     "uplink":"435.310",
     "downlink":"435.190",
     "beacon":null,
-    "mode":"1k2digipeater 9k6GMSK",
+    "mode":"1k2digipeater 9k6FSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":"JLZT-0277-4784-7719-1707"
@@ -13476,69 +13476,69 @@
   },
   {
     "name":"StratoSat-TK-1-A",
-    "norad_id":null,
+    "norad_id":"57167",
     "uplink":null,
     "downlink":null,
     "beacon":"435.060",
-    "mode":"20 CW",
+    "mode":"CW 20",
     "callsign":"RS45S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
     "name":"StratoSat-TK-1-B",
-    "norad_id":null,
+    "norad_id":"57167",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
     "name":"StratoSat-TK-1-C",
-    "norad_id":null,
+    "norad_id":"57167",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
     "name":"StratoSat-TK-1-D",
-    "norad_id":null,
+    "norad_id":"57167",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
     "name":"StratoSat-TK-1-E",
-    "norad_id":null,
+    "norad_id":"57167",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
     "name":"StratoSat-TK-1-F",
-    "norad_id":null,
+    "norad_id":"57167",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
     "name":"StudSat",

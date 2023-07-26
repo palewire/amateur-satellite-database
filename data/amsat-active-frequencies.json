@@ -1985,7 +1985,7 @@
     "uplink":"435.310",
     "downlink":"435.190",
     "beacon":null,
-    "mode":"1k2digipeater 9k6GMSK",
+    "mode":"1k2digipeater 9k6FSK",
     "callsign":null,
     "satnogs_id":"JLZT-0277-4784-7719-1707"
   },

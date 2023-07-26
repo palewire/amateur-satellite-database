@@ -727,7 +727,7 @@ LAPAN-A2,40931,145.880/145.825,435.880/145.825,437.425,1k2*AFSK FM tone 88.5Hz,Y
 LAPAN-A3,41603,,437.425,,1200bps FFSK,,non-amateur,BLNH-6149-6607-6959-8042
 LARES,38077,,,,,,non-amateur,
 LBSat,23607,,137.955,,,,unknown,
-LEDSAT,49069,435.310,435.190,,1k2digipeater 9k6GMSK,,active,JLZT-0277-4784-7719-1707
+LEDSAT,49069,435.310,435.190,,1k2digipeater 9k6FSK,,active,JLZT-0277-4784-7719-1707
 Lemur-2 (Spacegus),56187,,402.790,,,,unknown,
 Lemur-2 (OnReflection 164),56182,,,,,,unknown,
 Lemur-2 (Romeo-n-Leo 165),56206,,402.788,,FM,,unknown,
@@ -1224,12 +1224,12 @@ STORK-4,48873,,401.100,,9600bps FSK,,inactive,
 STORK-5,48872,,401.100,,9600bps FSK,,inactive,HZZT-8310-6183-6672-9088
 STRaND-1,39090,,437.568,,9600bps GMSK,,active,IFDT-2351-8184-5400-1710
 StratoSat-TK-1,57177,,435.870,,9k6 GMSK,RS52S,active,AMWD-8238-3001-8498-3030
-StratoSat-TK-1-A,,,,435.060,20 CW,RS45S,unknown,
-StratoSat-TK-1-B,,,,,,,unknown,
-StratoSat-TK-1-C,,,,,,,unknown,
-StratoSat-TK-1-D,,,,,,,unknown,
-StratoSat-TK-1-E,,,,,,,unknown,
-StratoSat-TK-1-F,,,,,,,unknown,
+StratoSat-TK-1-A,57167,,,435.060,CW 20,RS45S,unknown,BQFG-5755-4293-7808-3570
+StratoSat-TK-1-B,57167,,,,,,unknown,BQFG-5755-4293-7808-3570
+StratoSat-TK-1-C,57167,,,,,,unknown,BQFG-5755-4293-7808-3570
+StratoSat-TK-1-D,57167,,,,,,unknown,BQFG-5755-4293-7808-3570
+StratoSat-TK-1-E,57167,,,,,,unknown,BQFG-5755-4293-7808-3570
+StratoSat-TK-1-F,57167,,,,,,unknown,BQFG-5755-4293-7808-3570
 StudSat,36796,437.505,437.505,437.861,9600bps FSK CW,,inactive,
 STU-1,,,2402.000-2445.000,436.360,9600bps GMSK,,failure,
 SUCHAI,42788,,,437.229,CW,SUCHAI,active,XCWN-8187-6747-4526-7766
