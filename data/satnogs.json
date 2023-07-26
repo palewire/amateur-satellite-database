@@ -32770,7 +32770,7 @@
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57172\/2023-07-09T08%3A15%3A37_7829284_57172_23091G_0-OBJECT-G_0.11447406925924497_A_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "TYTP-1838-4811-0721-1176"
     ]
   },
   {
@@ -36592,7 +36592,7 @@
   {
     "sat_id":"DWOE-5467-4122-7963-0240",
     "norad_cat_id":99062.0,
-    "norad_follow_id":57419.0,
+    "norad_follow_id":57420.0,
     "name":"Maya-5",
     "names":"DX5MYA",
     "image":"",
@@ -36606,8 +36606,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-21T16:18:28.009580Z",
-    "citation":"Random choice of TBA TLE set",
+    "updated":"2023-07-26T06:10:44.412737Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-26-2023-07-19-06-40-utc\/10723\/10",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36616,7 +36616,7 @@
   {
     "sat_id":"BSOI-4945-7290-6798-4904",
     "norad_cat_id":99061.0,
-    "norad_follow_id":57420.0,
+    "norad_follow_id":57419.0,
     "name":"Maya-6",
     "names":"DX6MYA",
     "image":"",
@@ -36630,8 +36630,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-21T16:18:31.858730Z",
-    "citation":"Random choice of TBA TLE set",
+    "updated":"2023-07-26T06:10:40.668021Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-26-2023-07-19-06-40-utc\/10723\/10",
     "is_frequency_violator":false,
     "associated_satellites":[
 
