@@ -6260,13 +6260,13 @@
   },
   {
     "name":"Hades-C",
-    "norad_id":"56230",
+    "norad_id":"56994",
     "uplink":null,
     "downlink":"436.235",
     "beacon":null,
     "mode":"GPSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8493,7 +8493,7 @@
   },
   {
     "name":"Maya-5",
-    "norad_id":"57419",
+    "norad_id":"57420",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
@@ -8504,7 +8504,7 @@
   },
   {
     "name":"Maya-6",
-    "norad_id":"57420",
+    "norad_id":"57419",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
@@ -8640,7 +8640,7 @@
     "uplink":null,
     "downlink":"137.100\/137.900",
     "beacon":"2201.000",
-    "mode":"72kbps QPSK CW*",
+    "mode":"72K QPSK CW*",
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"DAIX-4517-7255-2315-1676"
@@ -8651,7 +8651,7 @@
     "uplink":null,
     "downlink":"137.100*\/137.900",
     "beacon":null,
-    "mode":"72kbps LRPT",
+    "mode":"72K LRPT",
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"DZPB-0849-7335-4514-4452"
@@ -8662,7 +8662,7 @@
     "uplink":null,
     "downlink":"137.100\/137.900",
     "beacon":"1700.000*",
-    "mode":"72kbps QPSK AHRPT*",
+    "mode":"72K QPSK AHRPT*",
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"DNDH-4105-0956-2682-2917"
@@ -8673,7 +8673,7 @@
     "uplink":null,
     "downlink":"137.100\/137.900",
     "beacon":null,
-    "mode":"72\/80K symbolrate LRPT",
+    "mode":"72K\/80K LRPT",
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"TLCE-8079-2988-7210-7028"
@@ -8816,7 +8816,7 @@
     "uplink":null,
     "downlink":"435.000\/435.815\/435.915",
     "beacon":null,
-    "mode":"1k2_AFSK\/9k6 FSK",
+    "mode":"1k2 AFSK\/9k6 FSK",
     "callsign":"RS39S",
     "status":"unknown",
     "satnogs_id":null
@@ -11485,13 +11485,13 @@
   },
   {
     "name":"ROM-2",
-    "norad_id":"56230",
+    "norad_id":"56994",
     "uplink":null,
     "downlink":"436.235",
     "beacon":null,
     "mode":"GPSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -12497,13 +12497,13 @@
   },
   {
     "name":"Sirius-SINP-3U",
-    "norad_id":null,
+    "norad_id":"57170",
     "uplink":null,
     "downlink":"436.550",
     "beacon":null,
-    "mode":"4k8 GMSK",
+    "mode":"1k2AFSK\/4k8GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -13464,7 +13464,7 @@
     "satnogs_id":"IFDT-2351-8184-5400-1710"
   },
   {
-    "name":"StratoSat-TK-1",
+    "name":"StratoSat-TK1",
     "norad_id":"57177",
     "uplink":null,
     "downlink":"435.870",
@@ -13475,7 +13475,7 @@
     "satnogs_id":"AMWD-8238-3001-8498-3030"
   },
   {
-    "name":"StratoSat-TK-1-A",
+    "name":"StratoSat-TK1-A",
     "norad_id":"57167",
     "uplink":null,
     "downlink":null,
@@ -13486,7 +13486,7 @@
     "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
-    "name":"StratoSat-TK-1-B",
+    "name":"StratoSat-TK1-B",
     "norad_id":"57167",
     "uplink":null,
     "downlink":null,
@@ -13497,7 +13497,7 @@
     "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
-    "name":"StratoSat-TK-1-C",
+    "name":"StratoSat-TK1-C",
     "norad_id":"57167",
     "uplink":null,
     "downlink":null,
@@ -13508,7 +13508,7 @@
     "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
-    "name":"StratoSat-TK-1-D",
+    "name":"StratoSat-TK1-D",
     "norad_id":"57167",
     "uplink":null,
     "downlink":null,
@@ -13519,7 +13519,7 @@
     "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
-    "name":"StratoSat-TK-1-E",
+    "name":"StratoSat-TK1-E",
     "norad_id":"57167",
     "uplink":null,
     "downlink":null,
@@ -13530,7 +13530,7 @@
     "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
-    "name":"StratoSat-TK-1-F",
+    "name":"StratoSat-TK1-F",
     "norad_id":"57167",
     "uplink":null,
     "downlink":null,
@@ -13539,6 +13539,61 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"BQFG-5755-4293-7808-3570"
+  },
+  {
+    "name":"StratoSat-TK1 picosat-B",
+    "norad_id":"57167",
+    "uplink":null,
+    "downlink":"436.260",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":"RS52SB",
+    "status":"active",
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
+  },
+  {
+    "name":"StratoSat-TK1 picosat-D",
+    "norad_id":"57167",
+    "uplink":null,
+    "downlink":"436.260",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":"RS52SD",
+    "status":"unknown",
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
+  },
+  {
+    "name":"StratoSat-TK1 picosat-E",
+    "norad_id":"57167",
+    "uplink":null,
+    "downlink":"436.260",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":"RS52SE",
+    "status":"active",
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
+  },
+  {
+    "name":"StratoSat-TK1 picosat-G",
+    "norad_id":"57168",
+    "uplink":null,
+    "downlink":"436.260",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":"RS52SG",
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"StratoSat-TK1 picosat-V",
+    "norad_id":"57322",
+    "uplink":null,
+    "downlink":"436.260",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":"RS52SV",
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"StudSat",
@@ -15357,13 +15412,13 @@
   },
   {
     "name":"UNICORN-2I",
-    "norad_id":null,
+    "norad_id":"56230",
     "uplink":null,
     "downlink":"401.820",
     "beacon":null,
     "mode":"9k6_FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {

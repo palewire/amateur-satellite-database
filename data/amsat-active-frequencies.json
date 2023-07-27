@@ -2081,7 +2081,7 @@
   },
   {
     "name":"Maya-5",
-    "norad_id":"57419",
+    "norad_id":"57420",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
@@ -2091,7 +2091,7 @@
   },
   {
     "name":"Maya-6",
-    "norad_id":"57420",
+    "norad_id":"57419",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
@@ -2930,7 +2930,7 @@
     "satnogs_id":"IFDT-2351-8184-5400-1710"
   },
   {
-    "name":"StratoSat-TK-1",
+    "name":"StratoSat-TK1",
     "norad_id":"57177",
     "uplink":null,
     "downlink":"435.870",
@@ -2938,6 +2938,36 @@
     "mode":"9k6 GMSK",
     "callsign":"RS52S",
     "satnogs_id":"AMWD-8238-3001-8498-3030"
+  },
+  {
+    "name":"StratoSat-TK1 picosat-B",
+    "norad_id":"57167",
+    "uplink":null,
+    "downlink":"436.260",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":"RS52SB",
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
+  },
+  {
+    "name":"StratoSat-TK1 picosat-E",
+    "norad_id":"57167",
+    "uplink":null,
+    "downlink":"436.260",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":"RS52SE",
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
+  },
+  {
+    "name":"StratoSat-TK1 picosat-V",
+    "norad_id":"57322",
+    "uplink":null,
+    "downlink":"436.260",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":"RS52SV",
+    "satnogs_id":null
   },
   {
     "name":"SUCHAI",
