@@ -2471,7 +2471,7 @@
     "beacon":"145.640\/145.660",
     "mode":"9k6\/19k2 GMSK\/CW*",
     "callsign":"BJ1SB",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UCZE-8814-2695-5595-6102"
   },
   {
@@ -4979,7 +4979,7 @@
     "beacon":"145.940",
     "mode":"1200bps BPSK SSB",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"SVPP-9764-1942-2462-5319"
   },
   {
@@ -5903,7 +5903,7 @@
     "beacon":"145.940",
     "mode":"1200bps BPSK SSB",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"SVPP-9764-1942-2462-5319"
   },
   {
@@ -9159,7 +9159,7 @@
     "beacon":"145.940",
     "mode":"1200*bps BPSK SSB",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"SVPP-9764-1942-2462-5319"
   },
   {
@@ -16243,7 +16243,7 @@
     "beacon":"145.640\/145.660",
     "mode":"9k6\/19k2 GMSK\/CW*",
     "callsign":"BJ1SB",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UCZE-8814-2695-5595-6102"
   },
   {

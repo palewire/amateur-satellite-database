@@ -450,16 +450,6 @@
     "satnogs_id":"WMGA-3000-1529-8035-2634"
   },
   {
-    "name":"CAS-3A",
-    "norad_id":"40903",
-    "uplink":"435.030-435.050",
-    "downlink":"145.685-145.665",
-    "beacon":"145.640\/145.660",
-    "mode":"9k6\/19k2 GMSK\/CW*",
-    "callsign":"BJ1SB",
-    "satnogs_id":"UCZE-8814-2695-5595-6102"
-  },
-  {
     "name":"CAS-3B",
     "norad_id":"40911",
     "uplink":"435.090-435.110",
@@ -1090,16 +1080,6 @@
     "satnogs_id":"NLUY-5633-4354-5527-8129"
   },
   {
-    "name":"EO-88",
-    "norad_id":"42017",
-    "uplink":"435.015-435.045",
-    "downlink":"145.990-145.960",
-    "beacon":"145.940",
-    "mode":"1200bps BPSK SSB",
-    "callsign":null,
-    "satnogs_id":"SVPP-9764-1942-2462-5319"
-  },
-  {
     "name":"Es'Hail-2",
     "norad_id":"43700",
     "uplink":"2400.050-2400.300",
@@ -1398,16 +1378,6 @@
     "mode":"1200bps BPSK",
     "callsign":null,
     "satnogs_id":"SEXU-2964-9908-3979-4793"
-  },
-  {
-    "name":"FUNcube-5",
-    "norad_id":"42017",
-    "uplink":"435.015-435.045",
-    "downlink":"145.990-145.960",
-    "beacon":"145.940",
-    "mode":"1200bps BPSK SSB",
-    "callsign":null,
-    "satnogs_id":"SVPP-9764-1942-2462-5319"
   },
   {
     "name":"FUNcube-6",
@@ -2248,16 +2218,6 @@
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS49S",
     "satnogs_id":"VMNV-8729-6815-0607-7666"
-  },
-  {
-    "name":"Nayif-1",
-    "norad_id":"42017",
-    "uplink":"435.015-435.045",
-    "downlink":"145.990-145.960",
-    "beacon":"145.940",
-    "mode":"1200*bps BPSK SSB",
-    "callsign":null,
-    "satnogs_id":"SVPP-9764-1942-2462-5319"
   },
   {
     "name":"NETSAT-2",
@@ -3538,16 +3498,6 @@
     "mode":"CW",
     "callsign":"BJ1SA",
     "satnogs_id":"JJGC-7637-4682-0934-3692"
-  },
-  {
-    "name":"XW-2A",
-    "norad_id":"40903",
-    "uplink":"435.030-435.050",
-    "downlink":"145.685-145.665",
-    "beacon":"145.640\/145.660",
-    "mode":"9k6\/19k2 GMSK\/CW*",
-    "callsign":"BJ1SB",
-    "satnogs_id":"UCZE-8814-2695-5595-6102"
   },
   {
     "name":"XW-2B",
