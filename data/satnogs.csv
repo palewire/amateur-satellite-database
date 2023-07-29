@@ -1503,7 +1503,7 @@ COYG-1007-2847-0167-7960,51099.0,,STEAMSAT-2,,,alive,,2022-01-13T00:00:00Z,,,Non
 CMXD-4091-3803-4419-4347,47488.0,,Astrocast-0102,2021-006CD,,alive,,2021-01-24T00:00:00Z,2021-01-24T00:00:00Z,,None,CH,[],2023-07-11T17:51:22.357536Z,https://docs.google.com/document/d/1v-GWBPzhrHwqVgooccycU_mZnweR5wJ0yo_OKzMC8e4/edit?usp=sharing,False,[]
 OEXL-4354-2785-0001-5027,47519.0,,Astrocast-0104,2021-006DK,,alive,,2021-01-24T00:00:00Z,2021-01-24T00:00:00Z,,None,CH,[],2023-07-11T17:51:18.289582Z,https://docs.google.com/document/d/1d05WWtqfBiba7PcxWihp7cIRwsz3H9u101YHbecCunc/edit?usp=sharing,False,[]
 QJNL-5424-7348-8857-3059,47487.0,,Astrocast-0103,,,alive,,2021-01-24T00:00:00Z,2021-01-24T00:00:00Z,,None,CH,[],2023-07-11T17:51:14.042365Z,https://docs.google.com/document/d/1xMSW4yFT0Wz-0z3hhTrz2QI8dXPIAhVaGX3BzFM3_uQ/edit?usp=sharing,False,[]
-QTNO-6169-5375-9247-5169,43600.0,,Aeolus,,,alive,,,,,ESA,,[],2023-07-12T06:52:33.550732Z,ESA,False,[]
+QTNO-6169-5375-9247-5169,43600.0,,Aeolus,,,re-entered,2023-07-28T19:00:00Z,2018-08-22T00:00:00Z,,,ESA,,[],2023-07-29T06:54:36.565280Z,bbc.com,False,[]
 ZOUN-3083-5078-3387-9726,99064.0,57195.0,Satellite 7 from 23091,,,alive,,,,,None,,[],2023-07-12T20:18:22.826498Z,From PE0SAT strf observation,True,[]
 YCAV-7565-7658-9428-5977,29510.0,,STEREO-A,,,alive,,2006-10-26T00:00:00Z,,,None,US,[],2023-07-14T09:24:40.875143Z,https://skyriddles.wordpress.com/2023/07/03/stereo-a-comes-home/,False,[]
 BCAP-6819-3805-1767-9040,54151.0,,GONETS-M 24,,,alive,,2022-10-22T00:00:00Z,,,None,RU,[],2023-07-18T16:04:45.209222Z,https://community.libre.space/t/strf-bandscan-results/9827/61,False,[]
@@ -1544,3 +1544,4 @@ BSOI-4945-7290-6798-4904,99061.0,57419.0,Maya-6,DX6MYA,,alive,,,2023-07-19T06:40
 HTZU-0578-2574-4591-7691,44539.0,,ZHUHAI-1 03E,2019-060F,,alive,,2019-09-19T00:00:00Z,2019-09-19T00:00:00Z,,None,CN,[],2023-07-28T22:28:11.872291Z,https://docs.google.com/document/d/15KLfxdOEd_NE64b04jQTOD7cMEijPZJRZ_bdfKaGFp8/edit?usp=sharing,False,[]
 ALOB-4360-3817-7285-4969,44534.0,,ZHUHAI-1 03A,2019-060A,,alive,,2019-09-19T00:00:00Z,2019-09-19T00:00:00Z,,None,CN,[],2023-07-28T22:28:07.591741Z,https://docs.google.com/document/d/10qqN1-kkbn0THrzDIlbLp9t8G3db94H8FSmhd4zZDQ8/edit?usp=sharing,False,[]
 NHAY-0435-9418-4638-8332,41757.0,,OSIRIS-REx,"Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer",,alive,,2016-09-08T00:00:00Z,,,None,US,[],2023-07-27T09:19:19.425620Z,NASA,False,[]
+CZCF-6793-2190-7987-5778,99060.0,,HERON Mk. II,,satellites/HERON_Mk_II.jpg,alive,,,,https://www.utat.ca/space-systems,None,,[],2023-07-29T07:25:09.321667Z,https://gitlab.com/librespacefoundation/satnogs-ops/-/issues/260,False,[]

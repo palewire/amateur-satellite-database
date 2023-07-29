@@ -35742,9 +35742,9 @@
     "name":"Aeolus",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-07-28T19:00:00Z",
+    "launched":"2018-08-22T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"ESA",
@@ -35752,8 +35752,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-12T06:52:33.550732Z",
-    "citation":"ESA",
+    "updated":"2023-07-29T06:54:36.565280Z",
+    "citation":"bbc.com",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36714,6 +36714,30 @@
     ],
     "updated":"2023-07-27T09:19:19.425620Z",
     "citation":"NASA",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CZCF-6793-2190-7987-5778",
+    "norad_cat_id":99060.0,
+    "norad_follow_id":null,
+    "name":"HERON Mk. II",
+    "names":"",
+    "image":"satellites\/HERON_Mk_II.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.utat.ca\/space-systems",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-29T07:25:09.321667Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/260",
     "is_frequency_violator":false,
     "associated_satellites":[
 
