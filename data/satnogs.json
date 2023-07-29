@@ -2206,7 +2206,9 @@
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"beesat2"
+      }
     ],
     "updated":"2021-07-21T10:11:42.117930Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
@@ -7258,7 +7260,9 @@
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"snet"
+      }
     ],
     "updated":"2022-01-31T19:39:53.601268Z",
     "citation":"https:\/\/www.space.tu-berlin.de\/menue\/research\/current_projects\/s_net\/",
@@ -7282,7 +7286,9 @@
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"snet"
+      }
     ],
     "updated":"2022-01-31T19:39:53.668808Z",
     "citation":"https:\/\/www.space.tu-berlin.de\/menue\/research\/current_projects\/s_net\/",
@@ -7306,7 +7312,9 @@
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"snet"
+      }
     ],
     "updated":"2022-01-31T19:39:53.689607Z",
     "citation":"https:\/\/www.space.tu-berlin.de\/menue\/research\/current_projects\/s_net\/",
@@ -7330,7 +7338,9 @@
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"snet"
+      }
     ],
     "updated":"2022-01-31T19:39:53.640170Z",
     "citation":"https:\/\/www.space.tu-berlin.de\/menue\/research\/current_projects\/s_net\/",
@@ -30873,7 +30883,7 @@
   {
     "sat_id":"ZHHQ-5752-7286-6121-4715",
     "norad_cat_id":99192.0,
-    "norad_follow_id":56231.0,
+    "norad_follow_id":56230.0,
     "name":"Istanbul",
     "names":"Hello Space Istanbul",
     "image":"satellites\/uydu_01.png",
@@ -30887,8 +30897,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-14T07:35:44.659466Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/136",
+    "updated":"2023-07-28T12:54:18.670276Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/157",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36632,6 +36642,54 @@
     ],
     "updated":"2023-07-26T06:10:40.668021Z",
     "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-26-2023-07-19-06-40-utc\/10723\/10",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HTZU-0578-2574-4591-7691",
+    "norad_cat_id":44539.0,
+    "norad_follow_id":null,
+    "name":"ZHUHAI-1 03E",
+    "names":"2019-060F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-09-19T00:00:00Z",
+    "deployed":"2019-09-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-28T22:28:11.872291Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/15KLfxdOEd_NE64b04jQTOD7cMEijPZJRZ_bdfKaGFp8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ALOB-4360-3817-7285-4969",
+    "norad_cat_id":44534.0,
+    "norad_follow_id":null,
+    "name":"ZHUHAI-1 03A",
+    "names":"2019-060A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-09-19T00:00:00Z",
+    "deployed":"2019-09-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-28T22:28:07.591741Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/10qqN1-kkbn0THrzDIlbLp9t8G3db94H8FSmhd4zZDQ8\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
