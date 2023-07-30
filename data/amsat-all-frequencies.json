@@ -4362,7 +4362,7 @@
     "downlink":"400.300",
     "beacon":null,
     "mode":"1200bps BPSK",
-    "callsign":null,
+    "callsign":"DIDO2",
     "status":"active",
     "satnogs_id":"ANTS-7659-6853-4378-3829"
   },
@@ -4373,7 +4373,7 @@
     "downlink":"400.450",
     "beacon":null,
     "mode":"1200bps BPSK",
-    "callsign":null,
+    "callsign":"DIDO-3",
     "status":"active",
     "satnogs_id":"UTVH-8269-9182-3451-8658"
   },

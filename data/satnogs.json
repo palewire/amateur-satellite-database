@@ -4364,7 +4364,7 @@
     ],
     "updated":"2023-01-11T20:58:44.574395Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -19174,10 +19174,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -36739,6 +36739,126 @@
     "updated":"2023-07-29T07:25:09.321667Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/260",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LXXL-2333-4110-5964-9846",
+    "norad_cat_id":99059.0,
+    "norad_follow_id":null,
+    "name":"NuLIoN",
+    "names":"",
+    "image":"satellites\/NuLIoN_public.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-30T01:01:00Z",
+    "deployed":"2023-07-30T01:22:21Z",
+    "website":"",
+    "operator":"None",
+    "countries":"SG",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-30T09:08:28.438983Z",
+    "citation":"na",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KSOP-3218-9459-6858-5498",
+    "norad_cat_id":99058.0,
+    "norad_follow_id":null,
+    "name":"ARCADE",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-30T01:01:00Z",
+    "deployed":"2023-07-30T01:24:51Z",
+    "website":"https:\/\/www.ntu.edu.sg\/sarc\/research-capabilities\/satellites\/arcade",
+    "operator":"None",
+    "countries":"SG",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-30T09:08:25.192158Z",
+    "citation":"na",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ARJF-4282-1922-6487-5841",
+    "norad_cat_id":99057.0,
+    "norad_follow_id":null,
+    "name":"SCOOB-II",
+    "names":"S3 2",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-30T01:01:00Z",
+    "deployed":"2023-07-30T01:24:01Z",
+    "website":"https:\/\/www.ntu.edu.sg\/sarc\/research-capabilities\/satellites\/scoob-ii",
+    "operator":"None",
+    "countries":"SG",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-30T09:08:05.507055Z",
+    "citation":"gunter",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BVGM-7941-1194-7387-5450",
+    "norad_cat_id":99056.0,
+    "norad_follow_id":null,
+    "name":"VELOX-AM",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-30T01:01:00Z",
+    "deployed":"2023-07-30T01:25:46Z",
+    "website":"",
+    "operator":"None",
+    "countries":"SG",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-30T09:08:21.579335Z",
+    "citation":"na",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BYRQ-8084-9850-7997-7193",
+    "norad_cat_id":99055.0,
+    "norad_follow_id":null,
+    "name":"GALASSIA-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-30T01:01:00Z",
+    "deployed":"2023-07-30T01:23:20Z",
+    "website":"",
+    "operator":"None",
+    "countries":"SG",
+    "telemetries":[
+
+    ],
+    "updated":"2023-07-30T09:07:34.401062Z",
+    "citation":"na",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
