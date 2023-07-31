@@ -36726,7 +36726,7 @@
     "name":"HERON Mk. II",
     "names":"",
     "image":"satellites\/HERON_Mk_II.jpg",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -36736,8 +36736,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-29T07:25:09.321667Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/260",
+    "updated":"2023-07-31T09:46:09.438275Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/260#note_1493061329",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36842,7 +36842,7 @@
   {
     "sat_id":"BYRQ-8084-9850-7997-7193",
     "norad_cat_id":99055.0,
-    "norad_follow_id":57484.0,
+    "norad_follow_id":57486.0,
     "name":"GALASSIA-2",
     "names":"",
     "image":"",
@@ -36856,8 +36856,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-30T17:28:32.865973Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7940623\/",
+    "updated":"2023-07-31T08:24:59.297401Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7940616\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
