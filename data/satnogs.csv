@@ -1550,3 +1550,4 @@ KSOP-3218-9459-6858-5498,99058.0,57485.0,ARCADE,,,alive,,2023-07-30T01:01:00Z,20
 ARJF-4282-1922-6487-5841,99057.0,57481.0,SCOOB-II,S3 2,,alive,,2023-07-30T01:01:00Z,2023-07-30T01:24:01Z,https://www.ntu.edu.sg/sarc/research-capabilities/satellites/scoob-ii,None,SG,[],2023-07-30T17:42:21.536351Z,Random Choice,True,[]
 BVGM-7941-1194-7387-5450,99056.0,57482.0,VELOX-AM,,,alive,,2023-07-30T01:01:00Z,2023-07-30T01:25:46Z,,None,SG,[],2023-07-30T17:25:19.453916Z,https://network.satnogs.org/observations/7940630/,True,[]
 BYRQ-8084-9850-7997-7193,99055.0,57486.0,GALASSIA-2,,,alive,,2023-07-30T01:01:00Z,2023-07-30T01:23:20Z,,None,SG,[],2023-07-31T08:24:59.297401Z,https://network.satnogs.org/observations/7940616/,True,[]
+LKLH-5187-3236-1861-0502,99054.0,,PRECURSOR,,satellites/precursor.jpg,future,,,,https://www.precursor.space/,None,DE,[],2023-08-01T10:40:07.293768Z,Add temporary NORAD ID,False,[]

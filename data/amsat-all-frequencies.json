@@ -5562,7 +5562,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8497,7 +8497,7 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
-    "mode":"1k2APRS 4k8GMSK CW",
+    "mode":"1k2APRS 4k8*GMSK CW",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
@@ -8508,7 +8508,7 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
-    "mode":"1k2APRS 4k8GMSK CW",
+    "mode":"1k2APRS 4k8*GMSK CW",
     "callsign":null,
     "status":"active",
     "satnogs_id":null

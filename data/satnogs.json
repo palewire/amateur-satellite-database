@@ -36862,5 +36862,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"LKLH-5187-3236-1861-0502",
+    "norad_cat_id":99054.0,
+    "norad_follow_id":null,
+    "name":"PRECURSOR",
+    "names":"",
+    "image":"satellites\/precursor.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.precursor.space\/",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-01T10:40:07.293768Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
