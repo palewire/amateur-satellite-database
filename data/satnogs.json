@@ -31459,7 +31459,7 @@
   {
     "sat_id":"GXDZ-6863-9184-9694-9376",
     "norad_cat_id":99172.0,
-    "norad_follow_id":56313.0,
+    "norad_follow_id":56315.0,
     "name":"NEUDOSE",
     "names":"VE3NEU, NEUtron DOSimetry & Exploration",
     "image":"satellites\/NEUDOSE.png",
@@ -31475,8 +31475,8 @@
         "decoder":"neudose"
       }
     ],
-    "updated":"2023-07-17T16:01:41.149578Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc\/10322\/82",
+    "updated":"2023-07-31T14:36:33.811622Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc\/10322\/90",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36746,7 +36746,7 @@
   {
     "sat_id":"LXXL-2333-4110-5964-9846",
     "norad_cat_id":99059.0,
-    "norad_follow_id":57484.0,
+    "norad_follow_id":57487.0,
     "name":"NuLIoN",
     "names":"",
     "image":"satellites\/NuLIoN_public.jpg",
@@ -36760,8 +36760,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-30T17:23:39.575336Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7940545\/",
+    "updated":"2023-07-31T16:40:28.371551Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-plsv-c56-2023-07-30-01-01-utc\/10759\/16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
