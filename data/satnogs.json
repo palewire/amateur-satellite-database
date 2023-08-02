@@ -22588,16 +22588,16 @@
     "image":"satellites\/logo_sat3.png",
     "status":"alive",
     "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
-    "deployed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":"2023-06-22T00:00:00Z",
     "website":"https:\/\/uresat.ure.es\/",
     "operator":"None",
     "countries":"ES",
     "telemetries":[
 
     ],
-    "updated":"2023-07-18T13:51:22.320445Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56992\/2023-07-18T11:48:36_7881183_56992_23084BU_0-OBJECT-BU_1.211142283333345_B_r24.0_f0.0.png",
+    "updated":"2023-08-02T06:52:30.965914Z",
+    "citation":"https:\/\/uresat.ure.es\/liberacion-del-uresat-antonio-de-nebrija\/ and https:\/\/uresat.ure.es\/uresat-en-orbita\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29345,7 +29345,7 @@
     "sat_id":"YZFO-5574-2504-8750-3261",
     "norad_cat_id":48621.0,
     "norad_follow_id":null,
-    "name":"HAIANG 2D",
+    "name":"HAIYANG 2D",
     "names":"2021-043A",
     "image":"",
     "status":"alive",
@@ -29358,8 +29358,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-02T12:59:43.185077Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1uqSG-Sr3B9-Mh7X3nmYez_PH4BMsf4MEP_nXMmpLbjo\/edit?usp=sharing",
+    "updated":"2023-08-02T06:57:13.313325Z",
+    "citation":"typo",
     "is_frequency_violator":false,
     "associated_satellites":[
 

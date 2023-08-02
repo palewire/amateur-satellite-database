@@ -12283,7 +12283,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
