@@ -495,6 +495,17 @@
     "satnogs_id":"HYSI-6582-0584-6522-0844"
   },
   {
+    "name":"ARCADE",
+    "norad_id":"57485",
+    "uplink":null,
+    "downlink":"437.760",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"EOSSAT-1",
     "norad_id":null,
     "uplink":null,
@@ -5951,6 +5962,17 @@
     "satnogs_id":"GMGG-8364-0705-0161-3298"
   },
   {
+    "name":"GALASSIA-2",
+    "norad_id":"57486",
+    "uplink":null,
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"GASPACS",
     "norad_id":"51439",
     "uplink":null,
@@ -6840,6 +6862,17 @@
     "callsign":"BCT",
     "status":"active",
     "satnogs_id":"KAEG-9794-2542-4829-8548"
+  },
+  {
+    "name":"INSPIRESat-4",
+    "norad_id":"57485",
+    "uplink":null,
+    "downlink":"437.760",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"INSPIRESat-7",
@@ -9911,6 +9944,17 @@
     "satnogs_id":"IUKT-5566-7027-2323-0619"
   },
   {
+    "name":"NuLIoN",
+    "norad_id":"57487",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"NuSat-1",
     "norad_id":"41557",
     "uplink":"435.935-435.965",
@@ -12230,6 +12274,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"SSBP-7686-6169-1385-2756"
+  },
+  {
+    "name":"SCOOB-2",
+    "norad_id":"57481",
+    "uplink":null,
+    "downlink":"437.500",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"SC-ODIN",
