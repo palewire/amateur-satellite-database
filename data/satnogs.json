@@ -36826,14 +36826,14 @@
     "decayed":null,
     "launched":"2023-07-30T01:01:00Z",
     "deployed":"2023-07-30T01:25:46Z",
-    "website":"",
+    "website":"https:\/\/www.ntu.edu.sg\/sarc\/research-capabilities\/satellites\/velox-am",
     "operator":"None",
     "countries":"SG",
     "telemetries":[
 
     ],
-    "updated":"2023-07-30T17:25:19.453916Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7940630\/",
+    "updated":"2023-08-03T09:50:23.317266Z",
+    "citation":"https:\/\/www.ntu.edu.sg\/sarc\/research-capabilities\/satellites\/velox-am",
     "is_frequency_violator":true,
     "associated_satellites":[
 
