@@ -36099,21 +36099,21 @@
     "sat_id":"QZNW-3358-1674-5555-8984",
     "norad_cat_id":44905.0,
     "norad_follow_id":null,
-    "name":"GONETS M 14",
-    "names":"",
+    "name":"Object A",
+    "names":"2019-096A",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2019-12-26T00:00:00Z",
-    "deployed":null,
+    "deployed":"2019-12-26T00:00:00Z",
     "website":"",
     "operator":"None",
     "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2023-07-18T16:04:44.817758Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/64",
+    "updated":"2023-08-02T18:34:08.522358Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1vMM0n4I5f8vtfbiwMwpKPjgXLgZq55VbDvSDExMjhtw\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
