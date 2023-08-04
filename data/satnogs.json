@@ -3554,8 +3554,8 @@
     "name":"FIREBIRD 3",
     "names":"FU3",
     "image":"satellites\/Firebird_Auto3.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-08-02T00:00:00Z",
     "launched":"2015-01-31T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -3564,8 +3564,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-11T20:58:48.754322Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-08-04T07:50:13.968243Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -3579,7 +3579,7 @@
     "names":"FU4",
     "image":"satellites\/firebird4.jpeg",
     "status":"alive",
-    "decayed":null,
+    "decayed":"2023-08-02T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -3588,8 +3588,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-11T20:59:04.410043Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-08-04T07:50:53.250647Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19174,10 +19174,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -31098,8 +31098,8 @@
   },
   {
     "sat_id":"PDTE-7914-8172-6131-7029",
-    "norad_cat_id":99182.0,
-    "norad_follow_id":56993.0,
+    "norad_cat_id":56993.0,
+    "norad_follow_id":null,
     "name":"MRC-100",
     "names":"",
     "image":"",
@@ -31113,11 +31113,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-13T01:00:39.092210Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/134",
+    "updated":"2023-08-04T10:13:43.409969Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56993\/2023-08-03T22%3A54%3A23_7960841_56993_23084BV_0-MRC-100_0.6706524303703816_B_r25.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "TFLA-5539-7118-2857-5597"
     ]
   },
   {
