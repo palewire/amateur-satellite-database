@@ -13673,7 +13673,7 @@
     "name":"Unknown",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -13683,8 +13683,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:43.036244Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-08-03T17:15:02.524678Z",
+    "citation":"Set as re-entered",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19174,10 +19174,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -36882,6 +36882,30 @@
     ],
     "updated":"2023-08-01T10:40:07.293768Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OIQT-0567-2079-6721-3646",
+    "norad_cat_id":99053.0,
+    "norad_follow_id":57483.0,
+    "name":"ORB-12 STRIDER",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-03T17:17:15.522032Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-plsv-c56-2023-07-30-01-01-utc\/10759\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
 
