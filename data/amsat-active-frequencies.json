@@ -3380,6 +3380,16 @@
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
   {
+    "name":"UTMN-2",
+    "norad_id":"57203",
+    "uplink":null,
+    "downlink":"435.485\/436.125*",
+    "beacon":null,
+    "mode":"2k4*-9k6 GMSK_USP",
+    "callsign":"RS27S",
+    "satnogs_id":"ESPB-1611-5692-0685-8383"
+  },
+  {
     "name":"UVSQ-Sat",
     "norad_id":"47438",
     "uplink":"145.905",
