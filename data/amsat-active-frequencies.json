@@ -665,7 +665,7 @@
     "uplink":null,
     "downlink":"400.180",
     "beacon":null,
-    "mode":"FM",
+    "mode":"FSK",
     "callsign":null,
     "satnogs_id":"AXQA-7364-6026-4427-9296"
   },
@@ -2455,7 +2455,7 @@
     "uplink":null,
     "downlink":"437.677",
     "beacon":"437.677",
-    "mode":"9600*bps BFSK CW",
+    "mode":"9600*bps FSK CW",
     "callsign":"EM0UKP",
     "satnogs_id":"UIYC-4491-1380-9406-8215"
   },
@@ -3375,7 +3375,7 @@
     "uplink":null,
     "downlink":"437.405",
     "beacon":null,
-    "mode":"1200bps BFSK",
+    "mode":"1200bps AFSK",
     "callsign":"UPMST2",
     "satnogs_id":"UCSJ-1439-6113-9699-8457"
   },
