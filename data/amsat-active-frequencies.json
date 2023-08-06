@@ -2660,6 +2660,16 @@
     "satnogs_id":"UFIT-6008-6845-0096-1151"
   },
   {
+    "name":"SharjahSat-1",
+    "norad_id":"55104",
+    "uplink":null,
+    "downlink":"437.325\/2405.000",
+    "beacon":null,
+    "mode":"256\/1k2\/9k6*GMSK",
+    "callsign":"A60UOS",
+    "satnogs_id":"DELH-6722-1461-1897-7938"
+  },
+  {
     "name":"SHERPA-AC1",
     "norad_id":"52763",
     "uplink":null,
