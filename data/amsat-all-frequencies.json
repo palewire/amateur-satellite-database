@@ -228,7 +228,7 @@
     "mode":"1145baudAFSK",
     "callsign":"RS41S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"BTMY-6498-5817-1415-4137"
   },
   {
     "name":"AISat",
@@ -1416,7 +1416,7 @@
     "mode":"9k6 DOKA",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"RPCA-9898-4095-5229-9696"
   },
   {
     "name":"AzaadiSAT",
@@ -6498,7 +6498,7 @@
     "mode":"9k6 FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"IKZL-1016-6920-2274-7552"
   },
   {
     "name":"HORYU-2",
@@ -8544,7 +8544,7 @@
     "mode":"1k2APRS 4k8*GMSK CW",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"DWOE-5467-4122-7963-0240"
   },
   {
     "name":"Maya-6",
@@ -8555,7 +8555,7 @@
     "mode":"1k2APRS 4k8*GMSK CW",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"BSOI-4945-7290-6798-4904"
   },
   {
     "name":"Mazaalai",
@@ -8885,7 +8885,7 @@
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"PJTC-6029-0615-1270-1207"
   },
   {
     "name":"Moonlighter",
@@ -12119,7 +12119,7 @@
     "mode":"CW",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ODQC-6867-8683-7650-3513"
   },
   {
     "name":"SanoSat-1",
@@ -12625,7 +12625,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"KYRP-5328-3519-5716-9299"
   },
   {
     "name":"SITRO-AIS-10",
@@ -12647,7 +12647,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"BTMY-6498-5817-1415-4137"
   },
   {
     "name":"SITRO-AIS-12",
@@ -16552,7 +16552,7 @@
     "mode":"9k6 FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"BCCC-4892-7994-6676-5561"
   },
   {
     "name":"Yarilo-4",

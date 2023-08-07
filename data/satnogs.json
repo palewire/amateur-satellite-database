@@ -25895,7 +25895,7 @@
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "SUDN-6278-1620-0582-3742"
     ]
   },
   {
@@ -30979,7 +30979,7 @@
   {
     "sat_id":"SVNK-0275-3230-3083-0188",
     "norad_cat_id":99187.0,
-    "norad_follow_id":56994.0,
+    "norad_follow_id":56231.0,
     "name":"ROM-2",
     "names":"Space Sparrow, HADES-C",
     "image":"satellites\/sat20-removebg-preview.png",
@@ -30993,8 +30993,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-18T16:04:23.157406Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/139",
+    "updated":"2023-08-06T22:58:16.158075Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/161",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32449,7 +32449,7 @@
   {
     "sat_id":"KANX-6033-2616-0861-1048",
     "norad_cat_id":99149.0,
-    "norad_follow_id":57167.0,
+    "norad_follow_id":57323.0,
     "name":"StratoSat TK-1-B",
     "names":"",
     "image":"",
@@ -32463,8 +32463,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T09:05:22.856310Z",
-    "citation":"Add Followed Norad ID of the deployer",
+    "updated":"2023-08-07T00:14:27.709250Z",
+    "citation":"From the team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32473,7 +32473,7 @@
   {
     "sat_id":"IIPF-8054-8479-1405-9998",
     "norad_cat_id":99148.0,
-    "norad_follow_id":57167.0,
+    "norad_follow_id":57324.0,
     "name":"StratoSat TK-1-C",
     "names":"",
     "image":"",
@@ -32487,8 +32487,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T09:05:50.678890Z",
-    "citation":"Add Followed Norad ID of the deployer",
+    "updated":"2023-08-07T00:15:04.626727Z",
+    "citation":"From the team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32497,7 +32497,7 @@
   {
     "sat_id":"HDIN-9074-4089-8994-4974",
     "norad_cat_id":99147.0,
-    "norad_follow_id":57167.0,
+    "norad_follow_id":57325.0,
     "name":"StratoSat TK-1-D",
     "names":"",
     "image":"",
@@ -32511,8 +32511,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T09:05:52.676529Z",
-    "citation":"Add Followed Norad ID of the deployer",
+    "updated":"2023-08-07T00:15:29.230280Z",
+    "citation":"From the team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32521,7 +32521,7 @@
   {
     "sat_id":"LHKG-2370-4970-1896-6067",
     "norad_cat_id":99146.0,
-    "norad_follow_id":57167.0,
+    "norad_follow_id":57326.0,
     "name":"StratoSat TK-1-E",
     "names":"",
     "image":"",
@@ -32535,8 +32535,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T09:05:54.662072Z",
-    "citation":"Add Followed Norad ID of the deployer",
+    "updated":"2023-08-07T00:15:43.863756Z",
+    "citation":"From the team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32737,8 +32737,8 @@
   },
   {
     "sat_id":"PJTC-6029-0615-1270-1207",
-    "norad_cat_id":99137.0,
-    "norad_follow_id":57182.0,
+    "norad_cat_id":57182.0,
+    "norad_follow_id":null,
     "name":"Monitor-4",
     "names":"RS57S",
     "image":"satellites\/large_Monitor_4_MGU_545fe1cfd3.jpg",
@@ -32752,11 +32752,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-07T08:04:19.973578Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/115 and https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/117",
+    "updated":"2023-08-07T00:07:59.929191Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/136?u=geoscan",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "ICFV-9580-6114-1003-9889"
     ]
   },
   {
@@ -32881,8 +32881,8 @@
   },
   {
     "sat_id":"RPCA-9898-4095-5229-9696",
-    "norad_cat_id":99131.0,
-    "norad_follow_id":57195.0,
+    "norad_cat_id":57195.0,
+    "norad_follow_id":null,
     "name":"Avion Kaluga 650",
     "names":"",
     "image":"satellites\/avion__1.jpg",
@@ -32896,11 +32896,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-07T17:22:06.340977Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/119",
+    "updated":"2023-08-07T00:05:33.660142Z",
+    "citation":"https:\/\/celestrak.org\/NORAD\/elements\/gp.php?INTDES=2023-091 + ikhnos",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "ZOUN-3083-5078-3387-9726"
     ]
   },
   {
@@ -32953,8 +32953,8 @@
   },
   {
     "sat_id":"BCCC-4892-7994-6676-5561",
-    "norad_cat_id":99127.0,
-    "norad_follow_id":57198.0,
+    "norad_cat_id":57198.0,
+    "norad_follow_id":null,
     "name":"Yarilo No. 3",
     "names":"",
     "image":"",
@@ -32968,17 +32968,17 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-24T13:13:14.299095Z",
-    "citation":"https:\/\/celestrak.org\/NORAD\/elements\/gp.php?INTDES=2023-091",
+    "updated":"2023-08-06T23:44:47.768676Z",
+    "citation":"ikhnos identificated",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "HGXU-3537-8964-9124-6162"
     ]
   },
   {
     "sat_id":"WSRI-6167-9286-6885-9902",
     "norad_cat_id":99128.0,
-    "norad_follow_id":57180.0,
+    "norad_follow_id":57181.0,
     "name":"Norby-2",
     "names":"",
     "image":"",
@@ -32992,8 +32992,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T01:48:44.067338Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/136",
+    "updated":"2023-08-06T23:55:21.514655Z",
+    "citation":"From the team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -33097,8 +33097,8 @@
   },
   {
     "sat_id":"BTMY-6498-5817-1415-4137",
-    "norad_cat_id":99122.0,
-    "norad_follow_id":57208.0,
+    "norad_cat_id":57208.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-11",
     "names":"Sputnix Smirenny",
     "image":"",
@@ -33112,11 +33112,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-12T14:24:36.383180Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/163",
+    "updated":"2023-08-06T23:25:20.971581Z",
+    "citation":"ikhnos identificated",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "NIDQ-4469-7818-4547-7781"
     ]
   },
   {
@@ -33145,8 +33145,8 @@
   },
   {
     "sat_id":"KYRP-5328-3519-5716-9299",
-    "norad_cat_id":99120.0,
-    "norad_follow_id":57201.0,
+    "norad_cat_id":57201.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-9",
     "names":"Sputnix Burdaev",
     "image":"",
@@ -33160,8 +33160,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-12T14:24:36.278555Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/163",
+    "updated":"2023-08-06T23:23:06.548556Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7909185\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33841,8 +33841,8 @@
   },
   {
     "sat_id":"NRYF-5989-9540-2532-4128",
-    "norad_cat_id":99110.0,
-    "norad_follow_id":56965.0,
+    "norad_cat_id":56965.0,
+    "norad_follow_id":null,
     "name":"Droid.001",
     "names":"",
     "image":"",
@@ -33856,7 +33856,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-05T10:06:56.658172Z",
+    "updated":"2023-08-06T22:45:46.332388Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -33865,9 +33865,9 @@
   },
   {
     "sat_id":"LZUC-1222-9616-1091-7968",
-    "norad_cat_id":99109.0,
+    "norad_cat_id":56942.0,
     "norad_follow_id":null,
-    "name":"XVI",
+    "name":"AFRL-XVI",
     "names":"",
     "image":"",
     "status":"alive",
@@ -33880,8 +33880,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:24:46.481801Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-08-06T22:41:00.224699Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33889,10 +33889,10 @@
   },
   {
     "sat_id":"JPEF-7986-7526-4793-6798",
-    "norad_cat_id":99108.0,
+    "norad_cat_id":56967.0,
     "norad_follow_id":null,
     "name":"MuSat-1",
-    "names":"",
+    "names":"MUSAT1",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -33904,8 +33904,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:24:46.260200Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-08-06T22:48:18.692809Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33961,7 +33961,7 @@
   },
   {
     "sat_id":"QGEE-4220-0249-0297-4879",
-    "norad_cat_id":99104.0,
+    "norad_cat_id":56951.0,
     "norad_follow_id":null,
     "name":"QPS-SAR-6",
     "names":"AMATERU-III",
@@ -33976,8 +33976,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:24:46.558422Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2023-08-06T22:35:27.089290Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34249,8 +34249,8 @@
   },
   {
     "sat_id":"ODQC-6867-8683-7650-3513",
-    "norad_cat_id":99092.0,
-    "norad_follow_id":57173.0,
+    "norad_cat_id":57173.0,
+    "norad_follow_id":null,
     "name":"SamSat-ION",
     "names":"",
     "image":"satellites\/IMG_5887_cut_nEKx1lN.jpg",
@@ -34264,8 +34264,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-11T09:18:51.525086Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/155",
+    "updated":"2023-08-06T23:59:01.521236Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/189?u=geoscan",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34369,8 +34369,8 @@
   },
   {
     "sat_id":"IKZL-1016-6920-2274-7552",
-    "norad_cat_id":99087.0,
-    "norad_follow_id":57197.0,
+    "norad_cat_id":57197.0,
+    "norad_follow_id":null,
     "name":"A-SEANSAT-PG1",
     "names":"PG1",
     "image":"satellites\/AX_Website_03-11.png",
@@ -34384,8 +34384,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-12T14:34:22.076201Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/163",
+    "updated":"2023-08-06T23:50:35.137003Z",
+    "citation":"From the team",
     "is_frequency_violator":false,
     "associated_satellites":[
       "VLLM-5536-9160-8769-5843"
@@ -34417,8 +34417,8 @@
   },
   {
     "sat_id":"QRAQ-3104-7805-7099-5968",
-    "norad_cat_id":99085.0,
-    "norad_follow_id":57196.0,
+    "norad_cat_id":57196.0,
+    "norad_follow_id":null,
     "name":"Hors 2",
     "names":"\u0425\u043e\u0440\u0441 2",
     "image":"satellites\/khors-1__1_acuSFYs.jpg",
@@ -34432,8 +34432,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-17T16:25:47.603570Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7865169\/",
+    "updated":"2023-08-06T23:37:05.437199Z",
+    "citation":"From SatNOGS Network observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34482,30 +34482,6 @@
     ],
     "updated":"2023-08-05T10:15:07.000524Z",
     "citation":"space-track.org",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"SUDN-6278-1620-0582-3742",
-    "norad_cat_id":99082.0,
-    "norad_follow_id":null,
-    "name":"Transporter 8 Satellite C",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2023-06-12T00:00:00Z",
-    "deployed":"2023-06-12T00:00:00Z",
-    "website":"",
-    "operator":"None",
-    "countries":"US",
-    "telemetries":[
-
-    ],
-    "updated":"2023-06-14T08:05:44.806601Z",
-    "citation":"Change name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35562,7 +35538,7 @@
     ],
     "updated":"2023-07-07T17:30:29.485460Z",
     "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/120",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -35587,30 +35563,6 @@
     "updated":"2023-07-07T21:14:57.657320Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/50",
     "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"HGXU-3537-8964-9124-6162",
-    "norad_cat_id":99066.0,
-    "norad_follow_id":57197.0,
-    "name":"Satellite 5 from 23091",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2023-06-27T00:00:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"RU",
-    "telemetries":[
-
-    ],
-    "updated":"2023-07-08T09:46:02.286164Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446?page=7",
-    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -35731,30 +35683,6 @@
     "updated":"2023-07-29T06:54:36.565280Z",
     "citation":"bbc.com",
     "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"ZOUN-3083-5078-3387-9726",
-    "norad_cat_id":99064.0,
-    "norad_follow_id":57195.0,
-    "name":"Satellite 7 from 23091",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2023-07-12T20:18:22.826498Z",
-    "citation":"From PE0SAT strf observation",
-    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -36577,9 +36505,9 @@
   },
   {
     "sat_id":"DWOE-5467-4122-7963-0240",
-    "norad_cat_id":99062.0,
-    "norad_follow_id":57420.0,
-    "name":"Maya-5",
+    "norad_cat_id":57420.0,
+    "norad_follow_id":null,
+    "name":"MAYA-5",
     "names":"DX5MYA",
     "image":"",
     "status":"alive",
@@ -36592,18 +36520,18 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-26T06:10:44.412737Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-26-2023-07-19-06-40-utc\/10723\/10",
+    "updated":"2023-08-06T15:50:52.271068Z",
+    "citation":"Use upper letters in name",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "XTZO-6540-9067-8879-9713"
     ]
   },
   {
     "sat_id":"BSOI-4945-7290-6798-4904",
-    "norad_cat_id":99061.0,
-    "norad_follow_id":57419.0,
-    "name":"Maya-6",
+    "norad_cat_id":57419.0,
+    "norad_follow_id":null,
+    "name":"MAYA-6",
     "names":"DX6MYA",
     "image":"",
     "status":"alive",
@@ -36616,11 +36544,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-26T06:10:40.668021Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-26-2023-07-19-06-40-utc\/10723\/10",
+    "updated":"2023-08-06T15:50:32.874820Z",
+    "citation":"Use capital letters in name",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "BNZB-7785-6415-4130-9387"
     ]
   },
   {
