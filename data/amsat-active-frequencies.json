@@ -2137,7 +2137,7 @@
     "beacon":null,
     "mode":"2k4*-9k6 GMSK_USP",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"KPMW-9188-6390-9743-3148"
   },
   {
     "name":"MOVE-2",
@@ -2267,7 +2267,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"KPMW-9188-6390-9743-3148"
   },
   {
     "name":"NO-44",

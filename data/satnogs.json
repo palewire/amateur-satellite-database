@@ -32182,8 +32182,8 @@
   },
   {
     "sat_id":"WWBP-0562-9795-1786-4397",
-    "norad_cat_id":99153.0,
-    "norad_follow_id":57205.0,
+    "norad_cat_id":57205.0,
+    "norad_follow_id":null,
     "name":"ArcCube-01",
     "names":"RS25S",
     "image":"satellites\/large_ARCCUBE_01_11138b4ff1.jpg",
@@ -32197,8 +32197,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-09T23:08:07.990353Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7835550\/",
+    "updated":"2023-08-07T00:28:49.741719Z",
+    "citation":"ikhnos identificated",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32425,7 +32425,7 @@
   {
     "sat_id":"TPFJ-8515-0586-8488-7013",
     "norad_cat_id":99150.0,
-    "norad_follow_id":57167.0,
+    "norad_follow_id":57322.0,
     "name":"StratoSat TK-1-A",
     "names":"RS45S",
     "image":"",
@@ -32439,8 +32439,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T09:03:38.648946Z",
-    "citation":"Add Followed Norad ID of the deployer",
+    "updated":"2023-08-07T00:19:47.824019Z",
+    "citation":"From the team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32688,7 +32688,7 @@
   },
   {
     "sat_id":"SCGK-1611-0139-1871-0649",
-    "norad_cat_id":57174.0,
+    "norad_cat_id":57184.0,
     "norad_follow_id":null,
     "name":"Monitor-2",
     "names":"RS39S",
@@ -32703,8 +32703,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-12T21:39:55.616798Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57184\/2023-07-11T08%3A04%3A19_7842018_57184_23091U_0-OBJECT-U_1.0441212214815039_A_r24.0_f0.0.png",
+    "updated":"2023-08-07T00:22:51.329574Z",
+    "citation":"Fix NORAD ID, https:\/\/archive.org\/details\/ikhnos-identification-57184\/2023-07-11T08%3A04%3A19_7842018_57184_23091U_0-OBJECT-U_1.0441212214815039_A_r24.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
       "TMML-4957-6333-0550-1026",
@@ -32713,8 +32713,8 @@
   },
   {
     "sat_id":"KPMW-9188-6390-9743-3148",
-    "norad_cat_id":99138.0,
-    "norad_follow_id":57180.0,
+    "norad_cat_id":57180.0,
+    "norad_follow_id":null,
     "name":"Monitor-3",
     "names":"RS58S",
     "image":"satellites\/large_Monitor_3_MGU_ee683f3379.jpg",
@@ -32728,11 +32728,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-07T08:03:57.395612Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/117",
+    "updated":"2023-08-07T00:30:45.621283Z",
+    "citation":"ikhnos identificated",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "QYAH-4822-4057-3930-3342"
     ]
   },
   {
@@ -32930,11 +32930,11 @@
   {
     "sat_id":"YYQF-3337-2968-5093-7946",
     "norad_cat_id":99129.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57200.0,
     "name":"Druzhba ATURK",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-28T11:34:00Z",
     "deployed":null,
@@ -32944,8 +32944,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-31T17:30:04.022056Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-08-07T00:28:26.972515Z",
+    "citation":"From the team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33002,7 +33002,7 @@
   {
     "sat_id":"QXYH-3457-2504-0128-6891",
     "norad_cat_id":99125.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57169.0,
     "name":"Rassvet-1 1",
     "names":"\u0420\u0430\u0441\u0441\u0432\u0435\u0442-1 1",
     "image":"",
@@ -33016,8 +33016,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-30T17:47:52.295841Z",
-    "citation":"na",
+    "updated":"2023-08-07T00:33:50.331870Z",
+    "citation":"From the team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34202,7 +34202,7 @@
   {
     "sat_id":"WBVE-1994-8875-0445-3979",
     "norad_cat_id":99094.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57170.0,
     "name":"Rassvet-1 2",
     "names":"\u0420\u0430\u0441\u0441\u0432\u0435\u0442-1 2",
     "image":"",
@@ -34216,8 +34216,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.891153Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-08-07T00:33:51.068618Z",
+    "citation":"From the team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34226,7 +34226,7 @@
   {
     "sat_id":"TPDM-2392-7044-7927-6251",
     "norad_cat_id":99093.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57171.0,
     "name":"Rassvet-1 3",
     "names":"\u0420\u0430\u0441\u0441\u0432\u0435\u0442-1 3",
     "image":"",
@@ -34240,8 +34240,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-27T20:25:53.068112Z",
-    "citation":"na",
+    "updated":"2023-08-07T00:33:51.888679Z",
+    "citation":"From the team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34346,11 +34346,11 @@
   {
     "sat_id":"YMVX-8330-2150-0956-9275",
     "norad_cat_id":99088.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57179.0,
     "name":"PHI-DEMO",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
@@ -34360,8 +34360,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-22T00:13:56.665259Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27\/10446\/9",
+    "updated":"2023-08-07T00:27:53.572344Z",
+    "citation":"From the team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34441,8 +34441,8 @@
   },
   {
     "sat_id":"KATA-8177-7690-1660-7290",
-    "norad_cat_id":99084.0,
-    "norad_follow_id":57174.0,
+    "norad_cat_id":57174.0,
+    "norad_follow_id":null,
     "name":"SATURN",
     "names":"\u0421\u0410\u0422\u0423\u0420\u041d",
     "image":"",
@@ -34456,11 +34456,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T10:36:40.698358Z",
-    "citation":"Add Followed Norad ID of https:\/\/db.satnogs.org\/satellite\/RFFC-8054-6177-5315-5955 as they probably is the same satellite",
+    "updated":"2023-08-07T00:20:23.285041Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/7916243\/",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "RFFC-8054-6177-5315-5955"
     ]
   },
   {
@@ -35514,30 +35514,6 @@
     ],
     "updated":"2023-07-20T21:02:40.856804Z",
     "citation":"Moonlighter's GPS data in telemetry more closely aligns with the TLE for 57316.",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"RFFC-8054-6177-5315-5955",
-    "norad_cat_id":99069.0,
-    "norad_follow_id":57174.0,
-    "name":"Satellite 2 from 23091",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2023-07-07T17:30:29.485460Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/120",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36954,6 +36930,30 @@
     ],
     "updated":"2023-08-05T08:09:33.162429Z",
     "citation":"SeeSat",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EXYP-7555-6232-5402-1667",
+    "norad_cat_id":99052.0,
+    "norad_follow_id":null,
+    "name":"Veronika",
+    "names":"",
+    "image":"satellites\/veronika.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-07T11:40:49.761053Z",
+    "citation":"Fix status",
     "is_frequency_violator":false,
     "associated_satellites":[
 

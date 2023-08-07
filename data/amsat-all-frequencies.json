@@ -1053,7 +1053,7 @@
     "mode":"2k4-9k6 GMSK_USP",
     "callsign":"RS25S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"WWBP-0562-9795-1786-4397"
   },
   {
     "name":"ARCSAT",
@@ -8863,7 +8863,7 @@
     "mode":"1k2 AFSK\/9k6 FSK",
     "callsign":"RS39S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"SCGK-1611-0139-1871-0649"
   },
   {
     "name":"Monitor-3",
@@ -8874,7 +8874,7 @@
     "mode":"2k4*-9k6 GMSK_USP",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"KPMW-9188-6390-9743-3148"
   },
   {
     "name":"Monitor-4",
@@ -9743,7 +9743,7 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"KPMW-9188-6390-9743-3148"
   },
   {
     "name":"NO-44",
