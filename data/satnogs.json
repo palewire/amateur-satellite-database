@@ -32934,7 +32934,7 @@
     "name":"Druzhba ATURK",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-06-28T11:34:00Z",
     "deployed":null,
@@ -32944,8 +32944,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-07T00:28:26.972515Z",
-    "citation":"From the team",
+    "updated":"2023-08-08T20:35:50.522398Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33026,7 +33026,7 @@
   {
     "sat_id":"ZWQX-0507-9428-9365-8363",
     "norad_cat_id":99126.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57200.0,
     "name":"Yarilo No. 4",
     "names":"",
     "image":"",
@@ -33040,8 +33040,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-26T08:16:13.921410Z",
-    "citation":"Move to alive",
+    "updated":"2023-08-08T20:34:22.852239Z",
+    "citation":"Guess",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -36954,6 +36954,54 @@
     ],
     "updated":"2023-08-07T11:40:49.761053Z",
     "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OJRG-0276-8900-7430-9976",
+    "norad_cat_id":25682.0,
+    "norad_follow_id":null,
+    "name":"Landsat 7",
+    "names":"1999-020A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"1999-04-15T00:00:00Z",
+    "deployed":"1999-04-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-08T20:34:31.892659Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1sqB8XEW-oZA_lq3Q4UjAtRrzkTKinkcds8TCPr37wXw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YPXE-2241-1061-7189-2376",
+    "norad_cat_id":99051.0,
+    "norad_follow_id":null,
+    "name":"2023-111C",
+    "names":"57492",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-08T17:14:38.748574Z",
+    "citation":"http:\/\/www.satobs.org\/seesat\/Aug-2023\/0004.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
