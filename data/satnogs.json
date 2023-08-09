@@ -4328,8 +4328,8 @@
     "name":"ATHENOXAT 1",
     "names":"ATX1",
     "image":"satellites\/athenoxat-1__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-08-09T00:28:40Z",
     "launched":"2015-12-16T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/www.micro-space.org",
@@ -4338,8 +4338,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-24T13:23:31.605902Z",
-    "citation":"Na",
+    "updated":"2023-08-09T09:00:51.422334Z",
+    "citation":"Obs",
     "is_frequency_violator":false,
     "associated_satellites":[
 
