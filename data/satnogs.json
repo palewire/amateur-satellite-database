@@ -3578,7 +3578,7 @@
     "name":"FIREBIRD 4",
     "names":"FU4",
     "image":"satellites\/firebird4.jpeg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":"2023-08-02T00:00:00Z",
     "launched":null,
     "deployed":null,
@@ -3588,8 +3588,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-04T07:50:53.250647Z",
-    "citation":"space-track.org",
+    "updated":"2023-08-09T16:19:08.130048Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=40378#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -4812,8 +4812,8 @@
     "name":"SATHYABAMASAT",
     "names":"",
     "image":"satellites\/SATHYABAMASAT.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-07-11T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -4822,8 +4822,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.308047Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-08-09T16:19:58.302727Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -7404,8 +7404,8 @@
     "name":"SHAONIAN XING",
     "names":"Juvenile-1F",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-08-01T00:00:00Z",
     "launched":"2018-02-02T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -7414,8 +7414,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T17:59:09.761227Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-08-09T16:21:04.701769Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14273,7 +14273,7 @@
     "name":"SSIETSAT",
     "names":"UNITYSAT, SriShaktiSat",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2021-02-28T00:00:00Z",
     "deployed":null,
@@ -14283,8 +14283,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T18:56:04.438012Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-08-09T16:18:37.762891Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=47717#results",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -17246,8 +17246,8 @@
     "name":"Taijing 2-01",
     "names":"OBJECT J",
     "image":"satellites\/taijing-2-1__1_pqyLHHZ.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-07-15T01:00:00Z",
     "launched":"2021-04-27T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -17256,8 +17256,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-11-07T14:48:51.668065Z",
-    "citation":"Eelke Survey",
+    "updated":"2023-08-09T16:17:01.009248Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17853,7 +17853,7 @@
     "name":"PION-BR1",
     "names":"",
     "image":"satellites\/pionbr1-satnogs.png",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
@@ -17863,8 +17863,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-02T19:27:49.866992Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/213",
+    "updated":"2023-08-09T16:15:48.857738Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=50984#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
