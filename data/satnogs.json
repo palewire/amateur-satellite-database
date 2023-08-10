@@ -1628,7 +1628,9 @@
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"beesat"
+      }
     ],
     "updated":"2021-07-21T10:11:42.083071Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
@@ -30785,7 +30787,7 @@
   },
   {
     "sat_id":"TSAO-4746-5053-9177-0580",
-    "norad_cat_id":null,
+    "norad_cat_id":99050.0,
     "norad_follow_id":null,
     "name":"PW-SAT3",
     "names":"",
@@ -30800,8 +30802,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-03-21T20:51:10.210727Z",
-    "citation":"https:\/\/pw-sat.pl\/en\/whats-next-pw-sat3\/",
+    "updated":"2023-08-10T11:06:57.278005Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
