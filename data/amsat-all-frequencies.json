@@ -3960,6 +3960,17 @@
     "satnogs_id":"MRQX-2618-0103-4345-3937"
   },
   {
+    "name":"CUBEL",
+    "norad_id":"47448",
+    "uplink":null,
+    "downlink":"400.575",
+    "beacon":null,
+    "mode":"9600bps MSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"HGYE-7318-8290-9065-4147"
+  },
+  {
     "name":"CubeSail-1\/2",
     "norad_id":"43851",
     "uplink":null,
