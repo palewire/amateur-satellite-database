@@ -9936,11 +9936,11 @@
     "name":"NSLSat-2",
     "norad_id":"55067",
     "uplink":null,
-    "downlink":"401.500",
+    "downlink":"401.500\/2245.000",
     "beacon":null,
-    "mode":"FM PSK31",
+    "mode":"PSK31 FM",
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"ZVIO-0893-8720-4254-3996"
   },
   {
@@ -13707,14 +13707,14 @@
   },
   {
     "name":"StratoSat-TK1 picosat-B",
-    "norad_id":"57167",
+    "norad_id":"57323",
     "uplink":null,
     "downlink":"436.260",
     "beacon":null,
     "mode":"LoRa",
     "callsign":"RS52SB",
     "status":"active",
-    "satnogs_id":"BQFG-5755-4293-7808-3570"
+    "satnogs_id":null
   },
   {
     "name":"StratoSat-TK1 picosat-D",
@@ -13729,14 +13729,14 @@
   },
   {
     "name":"StratoSat-TK1 picosat-E",
-    "norad_id":"57167",
+    "norad_id":"57327",
     "uplink":null,
     "downlink":"436.260",
     "beacon":null,
     "mode":"LoRa",
     "callsign":"RS52SE",
     "status":"active",
-    "satnogs_id":"BQFG-5755-4293-7808-3570"
+    "satnogs_id":null
   },
   {
     "name":"StratoSat-TK1 picosat-G",
