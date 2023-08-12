@@ -36700,7 +36700,7 @@
   {
     "sat_id":"ARJF-4282-1922-6487-5841",
     "norad_cat_id":99057.0,
-    "norad_follow_id":57481.0,
+    "norad_follow_id":57484.0,
     "name":"SCOOB-II",
     "names":"S3 2",
     "image":"",
@@ -36714,8 +36714,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-30T17:42:21.536351Z",
-    "citation":"Random Choice",
+    "updated":"2023-08-11T13:06:19.097783Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-plsv-c56-2023-07-30-01-01-utc\/10759\/29",
     "is_frequency_violator":true,
     "associated_satellites":[
 
