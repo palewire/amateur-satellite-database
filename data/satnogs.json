@@ -37008,5 +37008,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"SFVY-5922-6638-2286-0952",
+    "norad_cat_id":39150.0,
+    "norad_follow_id":null,
+    "name":"GAOFEN 1",
+    "names":"2013-018A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-04-26T00:00:00Z",
+    "deployed":"2013-04-26T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-12T07:59:38.498636Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1uiqoZL6BPKtU1O_5ZPW0iFsQ5Qa2m5WcfHXZDYurw1s\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
