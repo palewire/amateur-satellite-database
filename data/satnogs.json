@@ -32064,7 +32064,7 @@
     "sat_id":"YHCV-5439-4218-0901-5637",
     "norad_cat_id":48960.0,
     "norad_follow_id":null,
-    "name":"Astrocast-0203",
+    "name":"Astrocast-0205",
     "names":"2021-059CK",
     "image":"",
     "status":"alive",
@@ -32077,8 +32077,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-15T17:35:26.879425Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1qCvB7hOGJHMEfUPL4-VApUmP6uqtjHe_r8zqEWq5pv8\/edit?usp=sharing",
+    "updated":"2023-08-12T21:22:07.575682Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
