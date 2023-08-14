@@ -507,7 +507,7 @@
   },
   {
     "name":"EOSSAT-1",
-    "norad_id":null,
+    "norad_id":"55053",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -1455,7 +1455,7 @@
     "name":"A-SEANSAT-PG1",
     "norad_id":"57185",
     "uplink":null,
-    "downlink":"401.634",
+    "downlink":"401.500",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":null,
@@ -4577,7 +4577,7 @@
   },
   {
     "name":"Druzhba-ATURK",
-    "norad_id":null,
+    "norad_id":"57200",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -4970,6 +4970,17 @@
     "callsign":"ON02FR",
     "status":"re-entered",
     "satnogs_id":"XJEY-1734-2475-9790-3893"
+  },
+  {
+    "name":"EOSSAT-1",
+    "norad_id":"55053",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"EOS-7",
@@ -6490,7 +6501,7 @@
     "satnogs_id":"XCTG-7337-9615-0882-4390"
   },
   {
-    "name":"Hors(Khors)-1",
+    "name":"Hors-1",
     "norad_id":"57188",
     "uplink":null,
     "downlink":"435.300",
@@ -6501,15 +6512,15 @@
     "satnogs_id":"EDLR-2585-4091-5222-0195"
   },
   {
-    "name":"Hors(Khors)-2",
-    "norad_id":"57197",
+    "name":"Hors-2",
+    "norad_id":"57196",
     "uplink":null,
     "downlink":"435.500",
     "beacon":null,
     "mode":"9k6 FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":"IKZL-1016-6920-2274-7552"
+    "satnogs_id":"QRAQ-3104-7805-7099-5968"
   },
   {
     "name":"HORYU-2",
@@ -7676,6 +7687,28 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
+  },
+  {
+    "name":"Khors-1",
+    "norad_id":"57188",
+    "uplink":null,
+    "downlink":"435.300",
+    "beacon":null,
+    "mode":"9k6 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"EDLR-2585-4091-5222-0195"
+  },
+  {
+    "name":"Khors-2",
+    "norad_id":"57196",
+    "uplink":null,
+    "downlink":"435.500",
+    "beacon":null,
+    "mode":"9k6 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"QRAQ-3104-7805-7099-5968"
   },
   {
     "name":"KickSat",
@@ -16545,14 +16578,14 @@
   },
   {
     "name":"Yarilo-2",
-    "norad_id":"46490",
+    "norad_id":"46491",
     "uplink":null,
     "downlink":"435.550",
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":"NOPA-4112-5533-4054-3584"
+    "satnogs_id":"IWFP-4808-8766-5041-0735"
   },
   {
     "name":"Yarilo-3",
@@ -16567,7 +16600,7 @@
   },
   {
     "name":"Yarilo-4",
-    "norad_id":null,
+    "norad_id":"57200",
     "uplink":null,
     "downlink":"435.400\/435.720",
     "beacon":null,
