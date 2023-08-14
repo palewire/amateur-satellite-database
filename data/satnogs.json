@@ -18977,10 +18977,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -37028,6 +37028,30 @@
     ],
     "updated":"2023-08-12T07:59:38.498636Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1uiqoZL6BPKtU1O_5ZPW0iFsQ5Qa2m5WcfHXZDYurw1s\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UGMY-4381-6056-9881-7782",
+    "norad_cat_id":49400.0,
+    "norad_follow_id":null,
+    "name":"HIBARI",
+    "names":"2021-102F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-11-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-14T08:51:50.503008Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/73",
     "is_frequency_violator":false,
     "associated_satellites":[
 
