@@ -32980,7 +32980,7 @@
   {
     "sat_id":"WSRI-6167-9286-6885-9902",
     "norad_cat_id":99128.0,
-    "norad_follow_id":57181.0,
+    "norad_follow_id":57179.0,
     "name":"Norby-2",
     "names":"",
     "image":"",
@@ -32994,8 +32994,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-06T23:55:21.514655Z",
-    "citation":"From the team",
+    "updated":"2023-08-15T09:10:04.286504Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/192",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34348,7 +34348,7 @@
   {
     "sat_id":"YMVX-8330-2150-0956-9275",
     "norad_cat_id":99088.0,
-    "norad_follow_id":57179.0,
+    "norad_follow_id":57181.0,
     "name":"PHI-DEMO",
     "names":"",
     "image":"",
@@ -34362,9 +34362,9 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-07T00:27:53.572344Z",
-    "citation":"From the team",
-    "is_frequency_violator":false,
+    "updated":"2023-08-15T09:10:33.134936Z",
+    "citation":"Choose another NORAD ID to follow",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
