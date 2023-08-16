@@ -34364,7 +34364,7 @@
     ],
     "updated":"2023-08-15T09:10:33.134936Z",
     "citation":"Choose another NORAD ID to follow",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -37076,6 +37076,54 @@
     ],
     "updated":"2023-08-14T17:39:02.374834Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/74",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UQGX-7733-8956-6556-8361",
+    "norad_cat_id":45935.0,
+    "norad_follow_id":null,
+    "name":"Tianwen-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-15T15:34:37.991587Z",
+    "citation":"CNSA",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XYDH-5297-2408-7982-2518",
+    "norad_cat_id":26113.0,
+    "norad_follow_id":null,
+    "name":"IMAGE",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-15T15:34:29.224980Z",
+    "citation":"Tilley",
     "is_frequency_violator":false,
     "associated_satellites":[
 
