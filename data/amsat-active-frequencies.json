@@ -1417,7 +1417,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"BYRQ-8084-9850-7997-7193"
   },
   {
     "name":"Geoscan-Edelveis",
@@ -2317,7 +2317,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"LXXL-2333-4110-5964-9846"
   },
   {
     "name":"NUTSAT",

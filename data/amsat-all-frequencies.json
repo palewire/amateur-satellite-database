@@ -6003,7 +6003,7 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"BYRQ-8084-9850-7997-7193"
   },
   {
     "name":"GASPACS",
@@ -10007,7 +10007,7 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"LXXL-2333-4110-5964-9846"
   },
   {
     "name":"NuSat-1",

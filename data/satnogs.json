@@ -36651,8 +36651,8 @@
   },
   {
     "sat_id":"LXXL-2333-4110-5964-9846",
-    "norad_cat_id":99059.0,
-    "norad_follow_id":57487.0,
+    "norad_cat_id":57487.0,
+    "norad_follow_id":null,
     "name":"NuLIoN",
     "names":"",
     "image":"satellites\/NuLIoN_public.jpg",
@@ -36666,8 +36666,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-31T16:40:28.371551Z",
-    "citation":"https:\/\/community.libre.space\/t\/isro-plsv-c56-2023-07-30-01-01-utc\/10759\/16",
+    "updated":"2023-08-16T13:33:40.191648Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57487\/2023-08-14T18%3A22%3A31_8005041_57487_23109G_0-NULION_0.36115286407408576_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36723,8 +36723,8 @@
   },
   {
     "sat_id":"BVGM-7941-1194-7387-5450",
-    "norad_cat_id":99056.0,
-    "norad_follow_id":57482.0,
+    "norad_cat_id":57482.0,
+    "norad_follow_id":null,
     "name":"VELOX-AM",
     "names":"",
     "image":"",
@@ -36738,8 +36738,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-03T09:50:23.317266Z",
-    "citation":"https:\/\/www.ntu.edu.sg\/sarc\/research-capabilities\/satellites\/velox-am",
+    "updated":"2023-08-16T13:45:25.051869Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57482\/2023-08-14T06%3A02%3A57_8005134_57482_23109B_0-OBJECT-B_0.13688421888886637_A_r24.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -36747,8 +36747,8 @@
   },
   {
     "sat_id":"BYRQ-8084-9850-7997-7193",
-    "norad_cat_id":99055.0,
-    "norad_follow_id":57486.0,
+    "norad_cat_id":57486.0,
+    "norad_follow_id":null,
     "name":"GALASSIA-2",
     "names":"",
     "image":"",
@@ -36762,8 +36762,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-31T08:24:59.297401Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7940616\/",
+    "updated":"2023-08-16T13:41:31.869253Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57486\/2023-08-14T19%3A12%3A58_8005163_57486_23109F_0-GALASSIA-2_0.5954881662962919_B_r24.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -37124,6 +37124,54 @@
     ],
     "updated":"2023-08-15T15:34:29.224980Z",
     "citation":"Tilley",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QRIH-4498-6040-2976-3412",
+    "norad_cat_id":37180.0,
+    "norad_follow_id":null,
+    "name":"SJ-6H",
+    "names":"2010-051B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2010-10-06T00:00:00Z",
+    "deployed":"2010-10-06T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-16T21:13:02.365863Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1D108r-EY_nTSvvQv-sCpLRGFP2WvNI4jPN5XCY00-5k\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LGUH-7193-8173-4147-4046",
+    "norad_cat_id":46478.0,
+    "norad_follow_id":null,
+    "name":"HJ-2A",
+    "names":"2020-067A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-09-27T00:00:00Z",
+    "deployed":"2020-09-27T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-16T21:12:56.065905Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/17373nXsz5gwPfhuo0h7WV_WY_E-M0e9gYqxl7TG81ng\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
