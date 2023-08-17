@@ -29664,8 +29664,8 @@
     "name":"JANUS-1",
     "names":"",
     "image":"satellites\/Antaris-JANUS-1.webp",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-07-02T00:00:00Z",
     "launched":"2023-02-10T03:48:00Z",
     "deployed":null,
     "website":"https:\/\/www.antaris.space\/orbitwithus",
@@ -29674,8 +29674,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-17T14:21:01.157789Z",
-    "citation":"space-track.org",
+    "updated":"2023-08-17T07:33:19.533221Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 

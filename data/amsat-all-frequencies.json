@@ -9780,14 +9780,14 @@
   },
   {
     "name":"Norby-2",
-    "norad_id":"57180",
+    "norad_id":"57179",
     "uplink":null,
     "downlink":"435.600",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
     "status":"active",
-    "satnogs_id":"KPMW-9188-6390-9743-3148"
+    "satnogs_id":null
   },
   {
     "name":"NO-44",
@@ -9922,17 +9922,6 @@
     "satnogs_id":"NSIX-5794-4320-6173-0330"
   },
   {
-    "name":"NPS-SCAT",
-    "norad_id":"39389",
-    "uplink":null,
-    "downlink":"2401.200-2447.600",
-    "beacon":"437.525",
-    "mode":"1200bps AFSK CW",
-    "callsign":"K6NPS",
-    "status":"inactive",
-    "satnogs_id":null
-  },
-  {
     "name":"NO-116",
     "norad_id":"51031",
     "uplink":null,
@@ -9942,6 +9931,17 @@
     "callsign":"AM9NPQ",
     "status":"active",
     "satnogs_id":"BZWR-6172-2785-3507-5423"
+  },
+  {
+    "name":"NPS-SCAT",
+    "norad_id":"39389",
+    "uplink":null,
+    "downlink":"2401.200-2447.600",
+    "beacon":"437.525",
+    "mode":"1200bps AFSK CW",
+    "callsign":"K6NPS",
+    "status":"inactive",
+    "satnogs_id":null
   },
   {
     "name":"nSight-1",

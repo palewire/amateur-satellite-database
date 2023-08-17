@@ -2271,13 +2271,13 @@
   },
   {
     "name":"Norby-2",
-    "norad_id":"57180",
+    "norad_id":"57179",
     "uplink":null,
     "downlink":"435.600",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "satnogs_id":"KPMW-9188-6390-9743-3148"
+    "satnogs_id":null
   },
   {
     "name":"NO-44",
