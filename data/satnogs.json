@@ -37176,5 +37176,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"VFTS-0522-6064-1444-0039",
+    "norad_cat_id":38338.0,
+    "norad_follow_id":null,
+    "name":"Kompsat 3",
+    "names":"2012-025B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2012-05-17T00:00:00Z",
+    "deployed":"2012-05-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-17T13:24:50.265249Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/10oN_QPhgAkOrUGnYPoGQCl7YZ1O6TiIcgFv_opmQi-Y\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
