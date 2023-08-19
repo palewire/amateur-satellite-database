@@ -19176,10 +19176,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -21826,7 +21826,9 @@
     "operator":"None",
     "countries":"FR",
     "telemetries":[
-
+      {
+        "decoder":"celesta"
+      }
     ],
     "updated":"2022-07-31T23:13:08.359452Z",
     "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1549804985055121409",
@@ -37196,6 +37198,54 @@
     ],
     "updated":"2023-08-17T13:24:50.265249Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/10oN_QPhgAkOrUGnYPoGQCl7YZ1O6TiIcgFv_opmQi-Y\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IONS-1957-1972-3298-2186",
+    "norad_cat_id":52173.0,
+    "norad_follow_id":null,
+    "name":"SHAKUNTALA",
+    "names":"2022-033S",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-04-01T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-18T20:01:30.708587Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/76",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NWDH-3014-2178-3335-8446",
+    "norad_cat_id":49395.0,
+    "norad_follow_id":null,
+    "name":"ASTERISC",
+    "names":"2021-102A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-11-09T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-18T20:01:20.564913Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/77",
     "is_frequency_violator":false,
     "associated_satellites":[
 
