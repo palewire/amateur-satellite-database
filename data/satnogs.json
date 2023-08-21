@@ -19176,10 +19176,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -36989,23 +36989,23 @@
   },
   {
     "sat_id":"YPXE-2241-1061-7189-2376",
-    "norad_cat_id":99051.0,
+    "norad_cat_id":42900.0,
     "norad_follow_id":null,
-    "name":"2023-111C",
-    "names":"57492",
+    "name":"OPTSAT 3000",
+    "names":"2017-044A",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2017-08-02T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"CN",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-08-08T17:14:38.748574Z",
-    "citation":"http:\/\/www.satobs.org\/seesat\/Aug-2023\/0004.html",
+    "updated":"2023-08-20T18:37:40.558115Z",
+    "citation":"http:\/\/www.satobs.org\/seesat\/Aug-2023\/0071.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
