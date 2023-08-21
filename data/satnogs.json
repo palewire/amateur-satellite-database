@@ -4110,7 +4110,7 @@
     "norad_cat_id":40931.0,
     "norad_follow_id":null,
     "name":"LAPAN-A2",
-    "names":"ORARIIO-86",
+    "names":"ORARIIO-86, YB0X",
     "image":"satellites\/LAPAN-A2_12tCGA2.jpg",
     "status":"alive",
     "decayed":null,
@@ -4122,8 +4122,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:54:00.216954Z",
-    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/lapan-a2#mission-capabilities",
+    "updated":"2023-08-21T10:49:49.826750Z",
+    "citation":"packets",
     "is_frequency_violator":false,
     "associated_satellites":[
 
