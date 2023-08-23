@@ -899,7 +899,7 @@ AOTT-8678-9365-5674-2308,52900.0,,MIMAN,Cubesatyonsei,satellites/full_side.jpg,a
 LYKB-5376-2648-5150-0020,52898.0,,RANDEV,ASTRIS 2,satellites/20220522_013737697_01.jpg,alive,,2022-06-21T07:00:00Z,2022-06-01T09:36:00Z,http://ascl.kaist.ac.kr,None,KR,[],2022-08-01T11:42:43.384740Z,https://www.nasaspaceflight.com/2022/06/nuri-second-test-flight/ and https://space.skyrocket.de/doc_sdat/randev.htm,True,[]
 RQGN-8584-9526-1967-0454,52750.0,,FOSSASAT-2E11,,,alive,,2022-05-23T00:00:00Z,,https://fossa.systems/,None,ES,[],2023-05-28T15:10:05.752079Z,https://fossa.systems/,False,[]
 MYQU-2688-4982-5356-0669,52773.0,,FOSSASAT-2E12,,,alive,,2022-05-23T00:00:00Z,,https://fossa.systems/,None,ES,[],2023-05-28T15:10:05.773255Z,https://fossa.systems/,False,[]
-SSBP-7686-6169-1385-2756,52774.0,,SBUDNIC,,,alive,,2022-05-25T00:00:00Z,,https://sbudnic.space/about,None,"IT,US",[],2022-07-22T06:55:48.554231Z,CITATION NEEDED - https://xkcd.com/285/,True,[]
+SSBP-7686-6169-1385-2756,52774.0,,SBUDNIC,,,re-entered,2023-08-10T00:00:00Z,2022-05-25T00:00:00Z,,https://sbudnic.space/about,None,"IT,US",[],2023-08-22T19:45:02.770057Z,space-track.org,True,[]
 FXLH-9027-2252-9657-3207,48883.0,,SPACEBEE-100,,,alive,,2021-06-30T00:00:00Z,,https://swarm.space/,None,US,[],2023-05-17T14:18:00.335522Z,https://swarm.space/,False,[]
 TZRH-5939-4568-4178-0982,47883.0,,Starlink 2342,,satellites/starlink_vOSS9XQ_uWET6Ta.jpeg,alive,,,,,None,US,[],2022-12-15T19:44:52.167360Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 RLHS-9707-5174-8281-4742,36797.0,,AISSat-1,,,alive,,2010-07-12T00:00:00Z,,,None,NO,[],2022-08-01T18:42:45.641299Z,https://en.wikipedia.org/wiki/AISSat-1,False,['ZZMB-6403-8728-6534-8161']
