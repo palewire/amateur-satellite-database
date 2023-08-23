@@ -37250,5 +37250,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"KKUJ-0038-2439-0353-0160",
+    "norad_cat_id":57490.0,
+    "norad_follow_id":null,
+    "name":"FENGYUN 3F",
+    "names":"2023-111A",
+    "image":"satellites\/fengyun_series.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-08-03T00:00:00Z",
+    "deployed":"2023-08-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-23T11:06:36.855898Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/10UpzLxvSOJV_f1TlIv8xabDx8sSaxqrzWCQyeU4ch8A\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OCBU-0395-9395-5373-0619",
+    "norad_cat_id":57213.0,
+    "norad_follow_id":null,
+    "name":"H2SAT",
+    "names":"Heinrich Hertz",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-05T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-23T11:06:45.879266Z",
+    "citation":"Celestrak",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
