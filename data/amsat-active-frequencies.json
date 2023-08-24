@@ -190,16 +190,6 @@
     "satnogs_id":"QSPU-9204-4923-5881-5072"
   },
   {
-    "name":"Athenoxat-1",
-    "norad_id":"41168",
-    "uplink":null,
-    "downlink":"437.485",
-    "beacon":"437.485",
-    "mode":"2k4*GMSK 4k8*AFSK CW",
-    "callsign":"ATX1",
-    "satnogs_id":"VTHG-6292-4004-9767-5017"
-  },
-  {
     "name":"BCCSAT-1",
     "norad_id":"48041",
     "uplink":null,
