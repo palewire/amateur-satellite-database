@@ -32549,7 +32549,7 @@
   {
     "sat_id":"XCGJ-2096-8947-1485-0184",
     "norad_cat_id":99145.0,
-    "norad_follow_id":57167.0,
+    "norad_follow_id":57327.0,
     "name":"StratoSat TK-1-F",
     "names":"",
     "image":"",
@@ -32563,8 +32563,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T09:05:56.697049Z",
-    "citation":"Add Followed Norad ID of the deployer",
+    "updated":"2023-08-25T14:48:18.487880Z",
+    "citation":"https:\/\/efir.net.ru\/satellite\/RS52SE\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
