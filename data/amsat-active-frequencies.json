@@ -2225,7 +2225,7 @@
     "uplink":null,
     "downlink":"437.000",
     "beacon":null,
-    "mode":"2k4-9k6 GMSK_USP",
+    "mode":"2k4*-9k6 GMSK_USP",
     "callsign":"RS49S",
     "satnogs_id":"VMNV-8729-6815-0607-7666"
   },
@@ -2618,6 +2618,16 @@
     "mode":"FM* tone 67.0Hz",
     "callsign":null,
     "satnogs_id":"IRES-5964-9687-1982-0089"
+  },
+  {
+    "name":"SCOOB-2",
+    "norad_id":"57481",
+    "uplink":null,
+    "downlink":"437.500",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"SEEDS-II",
@@ -3438,6 +3448,16 @@
     "mode":"2400bps GMSK USP",
     "callsign":"RS33S",
     "satnogs_id":"UPJA-6543-4153-4055-9244"
+  },
+  {
+    "name":"VIZARD-meteo",
+    "norad_id":"57189",
+    "uplink":null,
+    "downlink":"437.825",
+    "beacon":null,
+    "mode":"2k4*-9k6 GMSK_USP",
+    "callsign":"RS38S",
+    "satnogs_id":"OYGZ-5054-3166-8092-6448"
   },
   {
     "name":"Voenmeh",
