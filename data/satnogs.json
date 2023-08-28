@@ -19113,6 +19113,30 @@
     ]
   },
   {
+    "sat_id":"VZCA-8126-4848-4879-5289",
+    "norad_cat_id":51051.0,
+    "norad_follow_id":null,
+    "name":"KEPLER-19",
+    "names":"2022-002BV",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-01-13T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/kepler.space",
+    "operator":"None",
+    "countries":"CA",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-28T10:32:47.138411Z",
+    "citation":"https:\/\/twitter.com\/sq3dho\/status\/1694651492689457345",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"VWRK-3457-9973-7957-3445",
     "norad_cat_id":39133.0,
     "norad_follow_id":null,
@@ -37294,6 +37318,30 @@
     ],
     "updated":"2023-08-23T11:06:45.879266Z",
     "citation":"Celestrak",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DRZS-2741-3128-5357-7818",
+    "norad_cat_id":44340.0,
+    "norad_follow_id":null,
+    "name":"NPSAT1",
+    "names":"Naval Postgraduate School Satellite-1",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-06-25T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2019-036B",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-28T10:33:00.939614Z",
+    "citation":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2019-036B",
     "is_frequency_violator":false,
     "associated_satellites":[
 
