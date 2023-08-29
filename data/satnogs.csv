@@ -267,7 +267,7 @@ SNRU-8765-3595-7354-2501,42737.0,,ATLANTIS,US02 ON02US,satellites/ATLANTIS.jpg,r
 NGHO-5109-0535-2414-7008,42759.0,,ZHUHAI-1 OVS-1B,CAS 4B,satellites/cas-4-satellite_27im88Z.jpg,alive,,2017-06-15T00:00:00Z,,,None,CN,[{'decoder': 'cas4'}],2022-04-25T16:24:15.759472Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 UKHX-2090-2661-0534-2014,42761.0,,ZHUHAI-1 OVS-01,CAS 4A,satellites/ovs-1__1_NnIrDeS.jpg,alive,,2017-06-15T00:00:00Z,,,None,CN,[{'decoder': 'cas4'}],2021-10-12T07:22:47.000825Z,https://www.n2yo.com/satellite/?s=42761,False,[]
 JLKC-1650-3566-2142-6611,42765.0,,UCLSAT,,satellites/UCLSAT.jpg,alive,,,,,None,,[],2021-07-21T10:11:42.423680Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-FCJO-8188-7789-7781-3478,42766.0,,NIUSAT,,satellites/NIUSAT.jpg,alive,,,,,None,IN,[],2022-07-08T02:02:57.047925Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+FCJO-8188-7789-7781-3478,42766.0,,NIUSAT,,satellites/NIUSAT.jpg,alive,,,,,None,IN,[],2022-07-08T02:02:57.047925Z,CITATION NEEDED - https://xkcd.com/285/,True,[]
 XGDS-0339-8787-8774-6048,42767.0,,CARTOSAT-2E,,satellites/CartoSat-2E_Auto4.jpeg,alive,,,,,None,,[],2021-07-21T10:11:42.427682Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 RNRA-5585-1660-1429-1830,42768.0,,LITUANICASAT-2,,satellites/LITUANICASAT-2.jpg,re-entered,2023-04-04T00:00:00Z,2017-06-23T00:00:00Z,,,None,LT,[],2023-06-06T17:12:55.409921Z,https://www.n2yo.com/satellite/?s=42768#results,False,[]
 SGQP-9600-2585-3107-8587,42770.0,,INFLATESAIL,,satellites/INFLATESAIL.jpg,re-entered,2017-09-03T00:00:00Z,,,,None,,[],2021-07-21T10:11:42.431573Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
