@@ -18977,10 +18977,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -37342,6 +37342,30 @@
     ],
     "updated":"2023-08-28T10:33:00.939614Z",
     "citation":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2019-036B",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WVLA-6308-0181-4747-2737",
+    "norad_cat_id":57422.0,
+    "norad_follow_id":null,
+    "name":"Xingshidai 16",
+    "names":"2023-103B, Tai'An",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-22T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-29T11:59:39.722097Z",
+    "citation":"https:\/\/planet4589.org\/space\/gcat\/data\/derived\/currentcat.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
