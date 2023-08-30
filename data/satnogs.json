@@ -18977,10 +18977,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -37366,6 +37366,30 @@
     ],
     "updated":"2023-08-29T11:59:39.722097Z",
     "citation":"https:\/\/planet4589.org\/space\/gcat\/data\/derived\/currentcat.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BNUY-4602-2342-4790-4700",
+    "norad_cat_id":29108.0,
+    "norad_follow_id":null,
+    "name":"CALIPSO",
+    "names":"2006-016B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2006-04-28T00:00:00Z",
+    "deployed":"2006-04-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-08-29T19:54:36.043506Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1kqiVSqI6PpM-sICLZmWPaFydOvJ74niYIuL_apHsN2w\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
