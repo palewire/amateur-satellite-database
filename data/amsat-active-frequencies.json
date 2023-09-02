@@ -2921,13 +2921,13 @@
   },
   {
     "name":"StratoSat-TK1",
-    "norad_id":"57177",
+    "norad_id":"57167",
     "uplink":null,
     "downlink":"435.870",
     "beacon":null,
     "mode":"9k6 GMSK",
     "callsign":"RS52S",
-    "satnogs_id":"AMWD-8238-3001-8498-3030"
+    "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
     "name":"StratoSat-TK1 picosat-B",
@@ -3668,6 +3668,16 @@
     "mode":"4800bps GMSK CW",
     "callsign":"BJ1SL",
     "satnogs_id":"NGHO-5109-0535-2414-7008"
+  },
+  {
+    "name":"Zorkiy-2M",
+    "norad_id":"57177",
+    "uplink":null,
+    "downlink":"401.480",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"ZRK2B",
+    "satnogs_id":"AMWD-8238-3001-8498-3030"
   },
   {
     "name":"Z-Sat",
