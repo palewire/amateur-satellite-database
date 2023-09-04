@@ -495,28 +495,6 @@
     "satnogs_id":"HYSI-6582-0584-6522-0844"
   },
   {
-    "name":"ARCADE",
-    "norad_id":"57485",
-    "uplink":null,
-    "downlink":"437.760",
-    "beacon":null,
-    "mode":"9600bps GFSK",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
-  },
-  {
-    "name":"EOSSAT-1",
-    "norad_id":"55053",
-    "uplink":null,
-    "downlink":null,
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
-  },
-  {
     "name":"AoXiang-1",
     "norad_id":"42735",
     "uplink":null,
@@ -1010,6 +988,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"VWJO-7516-8563-9331-1420"
+  },
+  {
+    "name":"ARCADE",
+    "norad_id":"57485",
+    "uplink":null,
+    "downlink":"437.760",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
   },
   {
     "name":"ARCE-1A",
@@ -6904,7 +6893,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -10268,7 +10257,7 @@
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
-    "mode":"38k4_GFSK",
+    "mode":"38k4 GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"TOVH-3956-2034-5742-2102"
@@ -13227,7 +13216,7 @@
     "uplink":null,
     "downlink":"437.500",
     "beacon":null,
-    "mode":"9k6_GMSK",
+    "mode":"9k6 GMSK",
     "callsign":"SPEIST",
     "status":"active",
     "satnogs_id":"RINJ-3108-9789-8075-5047"
@@ -14976,7 +14965,7 @@
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
-    "mode":"38k4_GFSK",
+    "mode":"38k4 GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"UZDF-3412-1216-9465-1714"

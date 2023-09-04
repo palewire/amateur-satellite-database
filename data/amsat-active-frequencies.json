@@ -2825,7 +2825,7 @@
     "uplink":null,
     "downlink":"437.500",
     "beacon":null,
-    "mode":"9k6_GMSK",
+    "mode":"9k6 GMSK",
     "callsign":"SPEIST",
     "satnogs_id":"RINJ-3108-9789-8075-5047"
   },

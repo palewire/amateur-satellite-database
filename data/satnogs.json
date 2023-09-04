@@ -18977,10 +18977,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19200,10 +19200,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -27472,7 +27472,7 @@
   {
     "sat_id":"OPLW-1406-2652-7673-4190",
     "norad_cat_id":99203.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55080.0,
     "name":"QBUA01",
     "names":"PolyItan HP-30",
     "image":"satellites\/image.webp",
@@ -27486,8 +27486,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-17T21:47:02.122063Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/formal_detail.php?serialnum=885 and https:\/\/www.kmu.gov.ua\/en\/news\/stvorenyi-ukrainskymy-vchenymy-nanosuputnyk-polyitan-hp-30-zapustiat-na-orbitu-zemli",
+    "updated":"2023-09-04T11:57:28.996017Z",
+    "citation":"Possible NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
       "VWLG-8789-9305-5015-7597"
