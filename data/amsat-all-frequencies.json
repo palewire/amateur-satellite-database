@@ -4950,6 +4950,17 @@
     "satnogs_id":"OYTI-8726-8857-0789-4716"
   },
   {
+    "name":"ENSO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"EntrySat",
     "norad_id":"44429",
     "uplink":null,
@@ -9053,12 +9064,12 @@
     "satnogs_id":"PDTE-7914-8172-6131-7029"
   },
   {
-    "name":"MTCube",
+    "name":"MTCube-1",
     "norad_id":"44399",
     "uplink":null,
     "downlink":"436.750",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":null
@@ -11550,6 +11561,17 @@
     "satnogs_id":"YIMH-1412-6494-9671-2122"
   },
   {
+    "name":"ROBUSTA-1C",
+    "norad_id":"44399",
+    "uplink":null,
+    "downlink":"436.750",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
     "name":"ROBUSTA-1D",
     "norad_id":"53111",
     "uplink":null,
@@ -11559,6 +11581,17 @@
     "callsign":"FX6FRB",
     "status":"inactive",
     "satnogs_id":"XKZZ-2829-5729-9508-2566"
+  },
+  {
+    "name":"ROBUSTA-1E",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"ROBUSTA-1F",
