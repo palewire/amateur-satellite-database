@@ -4546,8 +4546,8 @@
     "name":"AAUSAT 4",
     "names":"",
     "image":"satellites\/AAUSAT-4.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-09-06T00:00:00Z",
     "launched":"2016-04-25T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.en.space.aau.dk\/education\/student-projects\/aausat4",
@@ -4558,8 +4558,8 @@
         "decoder":"aausat4"
       }
     ],
-    "updated":"2023-05-06T18:53:48.824720Z",
-    "citation":"https:\/\/www.en.space.aau.dk\/education\/student-projects\/aausat4",
+    "updated":"2023-09-08T07:09:23.176892Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
