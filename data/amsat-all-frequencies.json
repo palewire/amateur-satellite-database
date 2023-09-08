@@ -11546,7 +11546,7 @@
     "beacon":null,
     "mode":"1200bps AFSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {

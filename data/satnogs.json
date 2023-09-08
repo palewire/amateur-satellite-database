@@ -18977,10 +18977,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -37414,6 +37414,30 @@
     ],
     "updated":"2023-08-30T09:27:33.213341Z",
     "citation":"ITU",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CJEJ-5829-5551-5177-8460",
+    "norad_cat_id":99049.0,
+    "norad_follow_id":81817.0,
+    "name":"S-band unknown",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-07T00:00:00Z",
+    "deployed":"2023-09-07T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-07T19:21:23.518685Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
