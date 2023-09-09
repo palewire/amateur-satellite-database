@@ -2152,8 +2152,8 @@
     "name":"SOMP",
     "names":"",
     "image":"satellites\/image_gallery.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-09-01T00:00:00Z",
     "launched":"2013-04-13T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.eoportal.org\/satellite-missions\/somp",
@@ -2162,8 +2162,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T14:22:22.759281Z",
-    "citation":"https:\/\/amsat-uk.org\/2013\/03\/22\/somp-students-oxygen-measurement-project-carries-amateur-radio-payload\/",
+    "updated":"2023-09-08T12:29:03.519513Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -4886,9 +4886,9 @@
     "name":"SWAYAM",
     "names":"",
     "image":"satellites\/SWAYAM.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-08-17T00:00:00Z",
+    "launched":"2016-06-22T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -4896,8 +4896,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.316818Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-09-08T12:15:23.833586Z",
+    "citation":"ugh",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -6938,8 +6938,8 @@
     "name":"FLOCK 3P'-2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-08-10T00:00:00Z",
     "launched":"2018-01-11T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.planet.com\/pulse\/planet-openlst-radio-solution-for-cubesats\/",
@@ -6948,8 +6948,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.075698Z",
-    "citation":"https:\/\/www.planet.com\/pulse\/planet-openlst-radio-solution-for-cubesats\/",
+    "updated":"2023-09-08T12:27:36.932010Z",
+    "citation":"Cel",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -6986,9 +6986,9 @@
     "name":"FLOCK 3P'-4",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-08-17T00:00:00Z",
+    "launched":"2018-01-12T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.planet.com\/pulse\/planet-openlst-radio-solution-for-cubesats\/",
     "operator":"None",
@@ -6996,8 +6996,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T08:30:21.691761Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-09-08T12:15:52.054089Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18652,7 +18652,7 @@
   {
     "sat_id":"RDYM-6468-8383-2209-5747",
     "norad_cat_id":99464.0,
-    "norad_follow_id":51072.0,
+    "norad_follow_id":51050.0,
     "name":"MDASat-1B",
     "names":"",
     "image":"",
@@ -18666,8 +18666,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-01-20T04:51:04.319060Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=52372.0;all",
+    "updated":"2023-09-08T12:14:21.235737Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18896,9 +18896,9 @@
     "name":"STORK-3",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-08-27T00:00:00Z",
+    "launched":"2022-01-13T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -18906,8 +18906,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-01-23T00:03:39.159653Z",
-    "citation":"https:\/\/community.libre.space\/t\/virgin-orbit-launcher-one-above-the-clouds-2022-01-13\/8787\/15",
+    "updated":"2023-09-08T12:14:59.877374Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -20230,12 +20230,12 @@
     "sat_id":"PJXR-5373-9941-9574-7131",
     "norad_cat_id":45940.0,
     "norad_follow_id":null,
-    "name":"Unknown Satellite - 20051B",
-    "names":"",
+    "name":"Tianqi-10",
+    "names":"Tianqi Xingzuo 10",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-07-14T00:00:00Z",
+    "launched":"2020-07-25T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -20243,8 +20243,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T11:23:22.898897Z",
-    "citation":"STRF Find of @cgbsat",
+    "updated":"2023-09-08T12:10:04.707903Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -20542,12 +20542,12 @@
     "sat_id":"SDAK-3381-5182-6247-0738",
     "norad_cat_id":46837.0,
     "norad_follow_id":null,
-    "name":"Unknown Satellite - 20079L",
-    "names":"",
+    "name":"Tianyan 05",
+    "names":"Dianzi keji daxue",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-08-05T00:00:00Z",
+    "launched":"2020-11-06T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -20555,8 +20555,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T11:22:29.904425Z",
-    "citation":"STRF Find of @cgbsat",
+    "updated":"2023-09-08T12:10:51.055950Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -20590,12 +20590,12 @@
     "sat_id":"LDAZ-9946-2605-5411-8232",
     "norad_cat_id":49815.0,
     "norad_follow_id":null,
-    "name":"Unknown Satellite - 21117D",
-    "names":"",
+    "name":"Lize 1",
+    "names":"Tianyi-XX",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-07-31T00:00:00Z",
+    "launched":"2021-12-07T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -20603,8 +20603,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T11:20:42.164017Z",
-    "citation":"STRF Find of @cgbsat",
+    "updated":"2023-09-08T12:12:54.530658Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24970,8 +24970,8 @@
     "name":"LEMUR 2 CHANUSIAK",
     "names":"",
     "image":"satellites\/24c826a550d711022b371e6bbaa693a786caccb9_r4kONF1.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-08-31T00:00:00Z",
     "launched":"2018-11-11T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -24980,8 +24980,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-27T22:31:10.035680Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/1",
+    "updated":"2023-09-08T12:08:33.286236Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -37438,6 +37438,30 @@
     ],
     "updated":"2023-09-07T19:21:23.518685Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EFTT-0211-2244-5217-1489",
+    "norad_cat_id":29709.0,
+    "norad_follow_id":null,
+    "name":"LAPAN-A1",
+    "names":"Lapan-TUBsat",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2007-01-10T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"ID",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-08T14:49:35.284879Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/lapan-tubsat.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
