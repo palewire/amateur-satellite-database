@@ -1840,16 +1840,6 @@
     "satnogs_id":"LCSC-5849-7353-1157-6022"
   },
   {
-    "name":"KAZSCISAT-1",
-    "norad_id":"43787",
-    "uplink":null,
-    "downlink":"435.500",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":null,
-    "satnogs_id":"NHQA-6504-1011-2518-4894"
-  },
-  {
     "name":"KILICSAT",
     "norad_id":"56181",
     "uplink":null,
@@ -1965,7 +1955,7 @@
     "uplink":"435.310",
     "downlink":"435.190",
     "beacon":null,
-    "mode":"1k2\/9k6 GMSK",
+    "mode":"1k2\/9k6 GMSK Digipeater",
     "callsign":null,
     "satnogs_id":"JLZT-0277-4784-7719-1707"
   },

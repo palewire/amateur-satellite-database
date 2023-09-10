@@ -7674,7 +7674,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"NHQA-6504-1011-2518-4894"
   },
   {
@@ -8101,7 +8101,7 @@
     "uplink":"435.310",
     "downlink":"435.190",
     "beacon":null,
-    "mode":"1k2\/9k6 GMSK",
+    "mode":"1k2\/9k6 GMSK Digipeater",
     "callsign":null,
     "status":"active",
     "satnogs_id":"JLZT-0277-4784-7719-1707"
