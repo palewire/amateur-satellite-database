@@ -15639,7 +15639,7 @@
     "mode":"9k6_FSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"ZHHQ-5752-7286-6121-4715"
   },
   {
     "name":"UNICubeSAT",
@@ -15812,7 +15812,7 @@
     "uplink":null,
     "downlink":"437.405",
     "beacon":null,
-    "mode":"1200bps AFSK",
+    "mode":"1200bps FSK",
     "callsign":"UPMST2",
     "status":"active",
     "satnogs_id":"UCSJ-1439-6113-9699-8457"

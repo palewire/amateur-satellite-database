@@ -30910,8 +30910,8 @@
   },
   {
     "sat_id":"ZHHQ-5752-7286-6121-4715",
-    "norad_cat_id":99192.0,
-    "norad_follow_id":56230.0,
+    "norad_cat_id":56230.0,
+    "norad_follow_id":null,
     "name":"Istanbul",
     "names":"Hello Space Istanbul",
     "image":"satellites\/uydu_01.png",
@@ -30925,8 +30925,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-28T12:54:18.670276Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/157",
+    "updated":"2023-09-10T22:50:52.634034Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/163",
     "is_frequency_violator":false,
     "associated_satellites":[
 

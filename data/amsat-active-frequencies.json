@@ -3365,7 +3365,7 @@
     "uplink":null,
     "downlink":"437.405",
     "beacon":null,
-    "mode":"1200bps AFSK",
+    "mode":"1200bps FSK",
     "callsign":"UPMST2",
     "satnogs_id":"UCSJ-1439-6113-9699-8457"
   },
