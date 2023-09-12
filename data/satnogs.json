@@ -37471,7 +37471,7 @@
     "sat_id":"OCRC-3744-9518-2127-6987",
     "norad_cat_id":57519.0,
     "norad_follow_id":null,
-    "name":"HJ 2E",
+    "name":"HJ 2F",
     "names":"",
     "image":"",
     "status":"alive",
@@ -37484,8 +37484,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-09-11T07:31:32.453854Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/hj-2e.htm",
+    "updated":"2023-09-11T23:06:00.954650Z",
+    "citation":"Fix the name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
