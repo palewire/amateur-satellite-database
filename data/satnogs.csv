@@ -542,7 +542,7 @@ FXJU-1542-5342-0390-1271,49017.0,,IT-SPINS,,satellites/IT-SPINSLogoBiggerFont_cr
 NRNT-7094-1320-9390-9057,90002.0,,Unknown Satellite,,,alive,,,,,None,,[],2021-07-21T10:11:42.949034Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 VDAO-1975-9433-9958-3838,90024.0,,Unknown Satellite,,,alive,,,,,None,,[],2021-07-21T10:11:42.950686Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 MKNI-6101-8432-8296-1436,99672.0,48964.0,SPARTAN,,satellites/endurosat-shared-satellite-service-2-3-2048x1151.png,alive,,2021-06-30T19:31:00Z,2021-07-21T10:56:45Z,,None,BG,[],2023-04-17T06:53:35.940903Z,https://www.space-track.org/,False,[]
-SPIN-5533-7821-5854-3271,99673.0,48966.0,Neptuno,NEPT-1,,alive,,2021-06-30T19:31:00Z,,,None,ES,[],2022-08-01T16:42:17.021877Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+SPIN-5533-7821-5854-3271,48966.0,,NEPT-1,Neptuno,satellites/neptuno__1_b4uPJUJ.jpg,alive,,2021-06-30T19:31:00Z,,,None,ES,[],2023-09-13T09:08:32.920243Z,Add info from other (merged) satellites,False,['CNVG-0141-5902-7426-2476']
 NDCC-2123-2774-3955-5971,48924.0,,Faraday Phoenix,,,alive,,2021-06-30T19:31:00Z,,,None,,[],2022-07-31T23:59:13.058395Z,https://twitter.com/Heads_InSpace/status/1429726726762991617,False,[]
 YBCN-9206-4818-8950-1213,48951.0,,Tenzing,AstroDigital Demo 8,,alive,,2021-06-30T19:31:00Z,,,None,,[],2022-06-14T11:31:10.673100Z,CITATION NEEDED - https://xkcd.com/285/,False,['YYNX-8344-7443-5559-4583']
 ICRQ-5334-8803-7039-2083,99676.0,48956.0,Aurora,AstroDigital Demo 9,,alive,,2021-06-30T19:31:00Z,,https://www.orbitalsidekick.com/,None,US,[],2022-08-01T15:55:40.376203Z,CITATION NEEDED - https://xkcd.com/285/,False,[]

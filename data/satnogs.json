@@ -12563,11 +12563,11 @@
   },
   {
     "sat_id":"SPIN-5533-7821-5854-3271",
-    "norad_cat_id":99673.0,
-    "norad_follow_id":48966.0,
-    "name":"Neptuno",
-    "names":"NEPT-1",
-    "image":"",
+    "norad_cat_id":48966.0,
+    "norad_follow_id":null,
+    "name":"NEPT-1",
+    "names":"Neptuno",
+    "image":"satellites\/neptuno__1_b4uPJUJ.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2021-06-30T19:31:00Z",
@@ -12578,11 +12578,11 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:42:17.021877Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-09-13T09:08:32.920243Z",
+    "citation":"Add info from other (merged) satellites",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "CNVG-0141-5902-7426-2476"
     ]
   },
   {
