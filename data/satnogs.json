@@ -15007,6 +15007,30 @@
     ]
   },
   {
+    "sat_id":"MRUD-1859-6245-9137-8667",
+    "norad_cat_id":49068.0,
+    "norad_follow_id":null,
+    "name":"SUNSTORM",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-13T12:40:04.829411Z",
+    "citation":"From Team member",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"SHUV-9360-7405-4358-2470",
     "norad_cat_id":99504.0,
     "norad_follow_id":null,
@@ -26866,8 +26890,8 @@
   },
   {
     "sat_id":"WRAS-5638-4914-9749-8955",
-    "norad_cat_id":99236.0,
-    "norad_follow_id":56214.0,
+    "norad_cat_id":56214.0,
+    "norad_follow_id":null,
     "name":"Sapling Giganteum",
     "names":"Sapling-2",
     "image":"satellites\/sapling_giganteum_mission_patch.png",
@@ -26881,11 +26905,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-21T23:06:42.593188Z",
-    "citation":"Flynn Dreilinger (KN6HCC)",
+    "updated":"2023-09-13T23:54:00.528040Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "ZOPR-4121-1711-3622-7855"
     ]
   },
   {
@@ -37486,6 +37510,78 @@
     ],
     "updated":"2023-09-11T23:06:00.954650Z",
     "citation":"Fix the name",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HOLZ-0409-8081-0297-1755",
+    "norad_cat_id":99048.0,
+    "norad_follow_id":null,
+    "name":"DORA",
+    "names":"Deployable Optical Receiver Aperture",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-13T22:18:47.769309Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OOWE-8073-4789-5817-7258",
+    "norad_cat_id":57800.0,
+    "norad_follow_id":null,
+    "name":"SLiM",
+    "names":"Smart Lander for investigating Moon",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-06T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-13T22:17:48.646662Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/slim.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EEEM-3058-4596-8732-3874",
+    "norad_cat_id":57754.0,
+    "norad_follow_id":null,
+    "name":"Aditya-L1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-02T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"ISRO",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-13T22:15:20.246933Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/Aditya-L1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
