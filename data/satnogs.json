@@ -37586,5 +37586,125 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"ZVTC-6180-2513-1374-0538",
+    "norad_cat_id":36358.0,
+    "norad_follow_id":null,
+    "name":"RADUGA-1M 2",
+    "names":"Globus-M 12L",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2010-01-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-14T22:27:21.391278Z",
+    "citation":"https:\/\/uhf-satcom.com\/satellite-reception\/c-band",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UFNM-4765-1729-9974-9175",
+    "norad_cat_id":31115.0,
+    "norad_follow_id":null,
+    "name":"BEIDOU 2",
+    "names":"BEIDOU-M1, COMPASS-M1",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2007-04-13T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-14T22:26:43.751765Z",
+    "citation":"Celestrak",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UQVX-4788-0848-8437-2503",
+    "norad_cat_id":38251.0,
+    "norad_follow_id":null,
+    "name":"BEIDOU 13",
+    "names":"Beidou-M4",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2012-04-29T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-14T22:26:08.407301Z",
+    "citation":"Celestrak",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CZNU-1808-4605-5450-0436",
+    "norad_cat_id":29249.0,
+    "norad_follow_id":null,
+    "name":"USA 184",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2006-06-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-14T22:25:04.151709Z",
+    "citation":"N2YO",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EFLV-7448-6657-2465-6390",
+    "norad_cat_id":29522.0,
+    "norad_follow_id":null,
+    "name":"DMSP 5D-3 F17",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2006-11-04T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-14T22:22:58.721512Z",
+    "citation":"Celestrak",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
