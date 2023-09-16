@@ -190,6 +190,16 @@
     "satnogs_id":"QSPU-9204-4923-5881-5072"
   },
   {
+    "name":"A-SEANSAT-PG1",
+    "norad_id":"57197",
+    "uplink":null,
+    "downlink":"401.634",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"ASAT1S",
+    "satnogs_id":"IKZL-1016-6920-2274-7552"
+  },
+  {
     "name":"BCCSAT-1",
     "norad_id":"48041",
     "uplink":null,
