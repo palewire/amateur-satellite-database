@@ -12645,8 +12645,8 @@
     "downlink":"401.134",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC3227",
+    "status":"active",
     "satnogs_id":"NRAD-4746-6573-1238-7533"
   },
   {
@@ -12656,8 +12656,8 @@
     "downlink":"401.170",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC3228",
+    "status":"active",
     "satnogs_id":"VLWX-1627-4909-3286-3695"
   },
   {

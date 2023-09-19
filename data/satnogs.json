@@ -32321,8 +32321,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-25T18:44:41.706413Z",
-    "citation":"https:\/\/community.libre.space\/t\/kasi-snipe-cubesats-launched-by-korea-3rd-launch-of-nuri-rocket-kslv-ii\/10475\/22",
+    "updated":"2023-09-18T10:07:10.719071Z",
+    "citation":"Fix Followed NORAD ID",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -37702,6 +37702,54 @@
     ],
     "updated":"2023-09-14T22:22:58.721512Z",
     "citation":"Celestrak",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MBWV-8802-2119-0679-0468",
+    "norad_cat_id":99047.0,
+    "norad_follow_id":null,
+    "name":"KSAT3U",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-18T10:29:47.776537Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/264",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NEOU-7691-1418-9175-1889",
+    "norad_cat_id":40118.0,
+    "norad_follow_id":null,
+    "name":"GAOFEN 2",
+    "names":"2014-049A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-08-19T00:00:00Z",
+    "deployed":"2014-08-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-18T15:56:50.344094Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1vU4xJLX51-2SDXCgiDWPxXTNWz06LIHZGe3l_gL1dD0\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
