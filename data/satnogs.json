@@ -37754,5 +37754,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"OHWY-4305-7997-0058-2030",
+    "norad_cat_id":49328.0,
+    "norad_follow_id":null,
+    "name":"Lucy",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-10-16T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-19T10:44:42.343198Z",
+    "citation":"Celestrak",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JBFL-1111-5430-5721-4420",
+    "norad_cat_id":52145.0,
+    "norad_follow_id":null,
+    "name":"Meridian-M 10",
+    "names":"Meridian 20L",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-03-22T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-19T10:44:33.305638Z",
+    "citation":"Celestrak",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
