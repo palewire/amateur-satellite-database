@@ -12667,8 +12667,8 @@
     "downlink":"401.200",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC3229",
+    "status":"active",
     "satnogs_id":"JSYE-0149-1738-9700-1441"
   },
   {

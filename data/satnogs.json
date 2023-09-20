@@ -37802,5 +37802,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"YYHG-0769-0560-2860-2490",
+    "norad_cat_id":28737.0,
+    "norad_follow_id":null,
+    "name":"SJ-7",
+    "names":"2005-024A",
+    "image":"satellites\/sj7.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2005-07-05T00:00:00Z",
+    "deployed":"2005-07-05T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-19T14:02:20.679563Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ExZjv7dxErDWU8FJhCmF5W-uoPiajf36AkrSvyNxFk0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
