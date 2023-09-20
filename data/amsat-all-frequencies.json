@@ -12678,8 +12678,8 @@
     "downlink":"401.230",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2210",
+    "status":"active",
     "satnogs_id":"EINY-8730-9827-5965-3152"
   },
   {
@@ -12689,8 +12689,8 @@
     "downlink":"401.260",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2211",
+    "status":"active",
     "satnogs_id":"KYRP-5328-3519-5716-9299"
   },
   {
