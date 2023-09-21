@@ -12700,7 +12700,7 @@
     "downlink":"401.290",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
+    "callsign":"SC2212",
     "status":"unknown",
     "satnogs_id":"PHVZ-1185-4095-1354-8720"
   },
@@ -12711,8 +12711,8 @@
     "downlink":"401.320",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2213",
+    "status":"active",
     "satnogs_id":"BTMY-6498-5817-1415-4137"
   },
   {
@@ -12722,8 +12722,8 @@
     "downlink":"401.350",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2214",
+    "status":"active",
     "satnogs_id":"PZEY-6339-9659-2258-4284"
   },
   {

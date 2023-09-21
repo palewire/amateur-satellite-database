@@ -2740,6 +2740,26 @@
     "satnogs_id":"KYRP-5328-3519-5716-9299"
   },
   {
+    "name":"SITRO-AIS-11",
+    "norad_id":"57208",
+    "uplink":null,
+    "downlink":"401.320",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2213",
+    "satnogs_id":"BTMY-6498-5817-1415-4137"
+  },
+  {
+    "name":"SITRO-AIS-12",
+    "norad_id":"57204",
+    "uplink":null,
+    "downlink":"401.350",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2214",
+    "satnogs_id":"PZEY-6339-9659-2258-4284"
+  },
+  {
     "name":"Skoltech-B1",
     "norad_id":"53379",
     "uplink":null,
