@@ -37826,5 +37826,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"WLHQ-3868-2503-9916-1013",
+    "norad_cat_id":46832.0,
+    "norad_follow_id":null,
+    "name":"NUSAT-10",
+    "names":"2020-079F, NewSat 10, Aleph-1 10, Caroline",
+    "image":"satellites\/\u00d1uSat_mockup_at_Satellogic_HQ.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-11-06T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/satellogic.com",
+    "operator":"None",
+    "countries":"AR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-20T16:13:25.276132Z",
+    "citation":"https:\/\/twitter.com\/sq3dho\/status\/1704446827301314668",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
