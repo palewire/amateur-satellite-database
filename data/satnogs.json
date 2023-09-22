@@ -19001,10 +19001,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -37846,6 +37846,30 @@
     ],
     "updated":"2023-09-20T16:13:25.276132Z",
     "citation":"https:\/\/twitter.com\/sq3dho\/status\/1704446827301314668",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WDAG-6979-8089-1968-3929",
+    "norad_cat_id":41173.0,
+    "norad_follow_id":null,
+    "name":"DAMPE",
+    "names":"2015-078A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-12-17T00:00:00Z",
+    "deployed":"2015-12-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-21T18:30:23.605490Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1AbQXMiWDVCe864U2JYLX3grdeKU0-r7mySeq0aV7Nl8\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
