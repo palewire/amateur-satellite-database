@@ -12921,7 +12921,7 @@
     "beacon":null,
     "mode":"1k2 BPSK 9k6*GMSK",
     "callsign":"DS0DH",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"YFNZ-9504-4902-9033-1722"
   },
   {
