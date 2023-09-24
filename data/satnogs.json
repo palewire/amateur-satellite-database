@@ -19001,10 +19001,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -37870,6 +37870,30 @@
     ],
     "updated":"2023-09-21T18:30:23.605490Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1AbQXMiWDVCe864U2JYLX3grdeKU0-r7mySeq0aV7Nl8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GXTB-5477-5018-1736-9320",
+    "norad_cat_id":40013.0,
+    "norad_follow_id":null,
+    "name":"DEIMOS 2",
+    "names":"2014-033D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-06-19T00:00:00Z",
+    "deployed":"2014-06-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-23T12:54:32.299638Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/14nJlt6u71Az0M5R6fbLPDe-Nzb8K4xd4ihf7iNf3HF0\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

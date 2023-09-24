@@ -1039,9 +1039,9 @@
     "uplink":null,
     "downlink":"437.600",
     "beacon":null,
-    "mode":"2k4-9k6 GMSK_USP",
+    "mode":"2k4*-9k6 GMSK_USP",
     "callsign":"RS25S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"WWBP-0562-9795-1786-4397"
   },
   {

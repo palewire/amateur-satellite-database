@@ -160,6 +160,16 @@
     "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
   {
+    "name":"ArcCube-01",
+    "norad_id":"57205",
+    "uplink":null,
+    "downlink":"437.600",
+    "beacon":null,
+    "mode":"2k4*-9k6 GMSK_USP",
+    "callsign":"RS25S",
+    "satnogs_id":"WWBP-0562-9795-1786-4397"
+  },
+  {
     "name":"Arduiqube",
     "norad_id":"47963",
     "uplink":null,
