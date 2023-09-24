@@ -7980,9 +7980,9 @@
     "uplink":null,
     "downlink":"437.100",
     "beacon":null,
-    "mode":"2k4-9k6 GMSK_USP",
+    "mode":"2k4*-9k6 GMSK_USP",
     "callsign":"RS47S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"IAID-3852-6397-8056-8089"
   },
   {

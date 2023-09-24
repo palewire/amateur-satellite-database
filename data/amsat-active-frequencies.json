@@ -1950,6 +1950,16 @@
     "satnogs_id":"GJTN-2368-5876-8326-4725"
   },
   {
+    "name":"KuzGTU-1",
+    "norad_id":"57217",
+    "uplink":null,
+    "downlink":"437.100",
+    "beacon":null,
+    "mode":"2k4*-9k6 GMSK_USP",
+    "callsign":"RS47S",
+    "satnogs_id":"IAID-3852-6397-8056-8089"
+  },
+  {
     "name":"KUZBASS-300",
     "norad_id":"53375",
     "uplink":null,
