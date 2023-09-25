@@ -4910,8 +4910,8 @@
     "name":"BEESAT-4",
     "names":"DP0BEH",
     "image":"satellites\/BEESAT-4.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-09-23T15:46:00Z",
     "launched":"2016-06-22T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.raumfahrttechnik.tu-berlin.de\/menue\/forschung\/aktuelle_projekte\/beesat_4\/parameter\/en\/",
@@ -4920,8 +4920,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.319541Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-09-24T12:48:00.792966Z",
+    "citation":"https:\/\/community.libre.space\/t\/beesat-4-re-entry\/10875\/3",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -37894,6 +37894,30 @@
     ],
     "updated":"2023-09-23T12:54:32.299638Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/14nJlt6u71Az0M5R6fbLPDe-Nzb8K4xd4ihf7iNf3HF0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LSJD-8066-0249-0041-9542",
+    "norad_cat_id":50465.0,
+    "norad_follow_id":null,
+    "name":"ZY-1 02E",
+    "names":"2021-131A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-12-26T00:00:00Z",
+    "deployed":"2021-12-26T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-24T16:07:29.329473Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/18DfCRoU9OPRhfSzoOhdblKrjRHTo9Gh3J-dPismMbJg\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

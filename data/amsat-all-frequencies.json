@@ -16628,7 +16628,7 @@
     "beacon":null,
     "mode":"9k6 FSK FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
