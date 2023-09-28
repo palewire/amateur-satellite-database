@@ -19001,10 +19001,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -37918,6 +37918,30 @@
     ],
     "updated":"2023-09-24T16:07:29.329473Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/18DfCRoU9OPRhfSzoOhdblKrjRHTo9Gh3J-dPismMbJg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XYLD-3027-5136-7090-8791",
+    "norad_cat_id":99046.0,
+    "norad_follow_id":57962.0,
+    "name":"NOUR 03",
+    "names":"NOOR 03, NOOR-03, NOUR-03",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"IR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-28T00:42:56.339297Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
