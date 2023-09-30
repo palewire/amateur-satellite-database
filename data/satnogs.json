@@ -6238,8 +6238,8 @@
     "name":"COMPASS 2",
     "names":"DRAGSAIL",
     "image":"satellites\/COMPASS-2.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-06-24T00:00:00Z",
     "launched":"2017-06-23T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.eoportal.org\/satellite-missions\/compass-2#eop-quick-facts-section",
@@ -6248,8 +6248,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-01T08:05:48.989155Z",
-    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/compass-2#eop-quick-facts-section",
+    "updated":"2023-09-29T21:44:05.424444Z",
+    "citation":"Cel",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19001,10 +19001,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -37966,6 +37966,30 @@
     ],
     "updated":"2023-09-28T16:41:39.430784Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1cSqYU7cOO3cfZQFCZvNKxQfhpyKiLVj9xDILO2KCnAQ\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DKMN-6358-3597-5024-0848",
+    "norad_cat_id":28810.0,
+    "norad_follow_id":null,
+    "name":"Reimei",
+    "names":"Index",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2005-08-24T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/global.jaxa.jp\/activity\/pr\/brochure\/files\/sat19.pdf",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-09-29T14:45:15.202645Z",
+    "citation":"Own STRF observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
