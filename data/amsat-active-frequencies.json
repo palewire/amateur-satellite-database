@@ -1622,7 +1622,7 @@
   {
     "name":"INSPIRESat-7",
     "norad_id":"56211",
-    "uplink":"145.830",
+    "uplink":"145.830\/145.970*",
     "downlink":"435.200\/437.410*",
     "beacon":null,
     "mode":"9k6 BPSK FM",
