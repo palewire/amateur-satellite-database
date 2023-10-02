@@ -19001,10 +19001,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -37990,6 +37990,30 @@
     ],
     "updated":"2023-09-29T14:45:15.202645Z",
     "citation":"Own STRF observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OEYR-7835-4087-4694-0992",
+    "norad_cat_id":47504.0,
+    "norad_follow_id":null,
+    "name":"ION SCV-002",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-01-24T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"IT",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-02T08:12:03.351042Z",
+    "citation":"Observed with STRF, https:\/\/space.skyrocket.de\/doc_sdat\/ion-scv-2.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
