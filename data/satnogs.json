@@ -19001,10 +19001,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -31057,7 +31057,7 @@
     "norad_cat_id":26857.0,
     "norad_follow_id":null,
     "name":"ICO F2",
-    "names":"2001-026A",
+    "names":"OMNI-M1",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -31069,11 +31069,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-07T11:48:34.880798Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1fnY3pWB7R8HFPivI6Nk9TBpXQCYulsTGuyEduveQBy0\/edit?usp=sharing",
+    "updated":"2023-10-03T05:50:00.054728Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "PVCQ-6126-5860-5509-4433"
     ]
   },
   {
@@ -38014,6 +38014,30 @@
     ],
     "updated":"2023-10-02T08:12:03.351042Z",
     "citation":"Observed with STRF, https:\/\/space.skyrocket.de\/doc_sdat\/ion-scv-2.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HMYH-8624-2864-5575-0545",
+    "norad_cat_id":99045.0,
+    "norad_follow_id":null,
+    "name":"ESTCube-2",
+    "names":"",
+    "image":"satellites\/estcube-2.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.estcube.eu\/project\/ESTCube-2",
+    "operator":"None",
+    "countries":"EE",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-03T06:00:48.558941Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/265",
     "is_frequency_violator":false,
     "associated_satellites":[
 
