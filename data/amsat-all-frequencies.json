@@ -9746,7 +9746,7 @@
     "satnogs_id":null
   },
   {
-    "name":"NOUR-01",
+    "name":"NOUR-1",
     "norad_id":"45529",
     "uplink":null,
     "downlink":"401.500",
@@ -9757,10 +9757,21 @@
     "satnogs_id":"TYCI-5959-1115-4385-3904"
   },
   {
-    "name":"NOUR-02",
+    "name":"NOUR-2",
     "norad_id":"51594",
     "uplink":null,
     "downlink":"401.500\/2258.000",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"non-amateur",
+    "satnogs_id":null
+  },
+  {
+    "name":"NOUR-3",
+    "norad_id":"57962",
+    "uplink":null,
+    "downlink":"401.500",
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
