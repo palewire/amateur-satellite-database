@@ -4766,7 +4766,7 @@
     "name":"NUSAT 2",
     "names":"BATATA",
     "image":"satellites\/NUSAT-2.jpeg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2016-05-30T00:00:00Z",
     "deployed":null,
@@ -4776,8 +4776,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-01T16:18:43.210493Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-05T21:06:19.245881Z",
+    "citation":"again",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -7034,11 +7034,11 @@
     "name":"PICSAT",
     "names":"",
     "image":"satellites\/picsat_DIB6RSF.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-01T00:00:00Z",
     "launched":"2018-12-01T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/picsat.obspm.fr\/",
     "operator":"None",
     "countries":"FR",
     "telemetries":[
@@ -7046,8 +7046,8 @@
         "decoder":"picsat"
       }
     ],
-    "updated":"2022-09-04T20:06:42.562605Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-05T21:06:55.452127Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -11056,18 +11056,18 @@
     "name":"NUSAT-16 (LISE)",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-09-21T00:00:00Z",
+    "launched":"2020-11-06T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/satellogic.com\/",
     "operator":"None",
     "countries":"AR",
     "telemetries":[
 
     ],
-    "updated":"2023-01-01T16:18:07.661970Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-05T21:07:48.530449Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -12756,23 +12756,23 @@
   },
   {
     "sat_id":"SOCA-5161-9322-1594-4795",
-    "norad_cat_id":99682.0,
-    "norad_follow_id":48873.0,
+    "norad_cat_id":48873.0,
+    "norad_follow_id":null,
     "name":"STORK-4",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-10-03T00:00:00Z",
+    "launched":"2021-06-30T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.satrev.space\/",
     "operator":"None",
-    "countries":"",
+    "countries":"PL",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.968697Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-05T21:09:17.685493Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18071,11 +18071,11 @@
     "name":"Grizu-263A",
     "names":"",
     "image":"satellites\/Grizu-263A_low.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-03T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/grizu263.beun.edu.tr\/cep-uydu\/grizu-263a.html",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
@@ -18083,8 +18083,8 @@
         "decoder":"grizu263a"
       }
     ],
-    "updated":"2022-02-12T21:32:27.167852Z",
-    "citation":"Identified by space track and see obs: https:\/\/network.satnogs.org\/observations\/5443535\/ http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=775",
+    "updated":"2023-10-05T21:10:13.628265Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YYGN-3644-1894-9757-7814",
@@ -21218,8 +21218,8 @@
     "name":"FOSSASAT-2E11",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-09-08T00:00:00Z",
     "launched":"2022-05-23T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/fossa.systems\/",
@@ -21228,8 +21228,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:05.752079Z",
-    "citation":"https:\/\/fossa.systems\/",
+    "updated":"2023-10-05T21:10:34.336726Z",
+    "citation":"celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24203,7 +24203,7 @@
     "names":"",
     "image":"satellites\/stork-1__1_0lvVYBH.jpg",
     "status":"alive",
-    "decayed":null,
+    "decayed":"2023-08-27T00:00:00Z",
     "launched":"2022-01-13T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -24212,8 +24212,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-20T22:00:52.935319Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-05T21:12:15.758864Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35602,8 +35602,8 @@
     "name":"STEAMSAT-2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-09-26T00:00:00Z",
     "launched":"2022-01-13T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -35612,8 +35612,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T03:54:54.443215Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/57",
+    "updated":"2023-10-05T21:11:26.237982Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38086,6 +38086,126 @@
     ],
     "updated":"2023-10-04T10:31:33.166847Z",
     "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/runner-1.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FSKO-0864-6726-9757-4938",
+    "norad_cat_id":99044.0,
+    "norad_follow_id":null,
+    "name":"ANSER LEADER",
+    "names":"Advanced Nanosatellite Systems for Earth-observation Research",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-10-07T01:36:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.inta.es\/APIWeb\/es\/presentaciones-y-seminarios\/anser\/",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-05T21:19:45.539324Z",
+    "citation":"Set to future status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JJLF-0694-7012-0829-5819",
+    "norad_cat_id":99043.0,
+    "norad_follow_id":null,
+    "name":"ANSER FOLLOWER 1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-10-07T01:36:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.inta.es\/APIWeb\/es\/presentaciones-y-seminarios\/anser\/",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-05T21:19:44.679648Z",
+    "citation":"Set to future status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZOPP-9607-7525-9879-6149",
+    "norad_cat_id":99042.0,
+    "norad_follow_id":null,
+    "name":"ANSER FOLLOWER 2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-10-07T01:36:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.inta.es\/APIWeb\/es\/presentaciones-y-seminarios\/anser\/",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-05T21:19:43.784069Z",
+    "citation":"Set to future status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JLVL-3609-6878-3879-9628",
+    "norad_cat_id":99041.0,
+    "norad_follow_id":null,
+    "name":"PRETTY",
+    "names":"Passive REflecTomeTry and dosimetrY",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-10-07T01:36:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.tugraz.at\/en\/institute\/iks\/space-missions\/pretty",
+    "operator":"None",
+    "countries":"AT",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-05T21:16:33.420247Z",
+    "citation":"Set to future status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CNPX-5092-5371-0749-4265",
+    "norad_cat_id":99040.0,
+    "norad_follow_id":null,
+    "name":"CSC-1",
+    "names":"CubeSat Carrier-1, ISISpace IOD-1",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-10-07T01:36:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.isispace.nl\/news\/two-iod-iov-satellites-on-their-way-to-kourou\/",
+    "operator":"None",
+    "countries":"NL",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-05T21:16:13.365084Z",
+    "citation":"Set to future status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
