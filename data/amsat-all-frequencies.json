@@ -6695,7 +6695,7 @@
     "beacon":"437.280",
     "mode":"1k2AFSK 9K6GMSK SSTV CW",
     "callsign":"JS1YHS",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"VNRS-0413-3415-7769-6012"
   },
   {
@@ -16188,7 +16188,7 @@
     "beacon":"437.240",
     "mode":"4800bps MSK CW*",
     "callsign":"VZLUSAT1",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"JNEM-7746-8021-4780-5184"
   },
   {

@@ -37928,7 +37928,7 @@
     "norad_cat_id":99046.0,
     "norad_follow_id":57962.0,
     "name":"NOUR 03",
-    "names":"NOOR 03, NOOR-03, NOUR-03",
+    "names":"Najm, NOOR 03, NOOR-03, NOUR-03",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -37940,8 +37940,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-09-28T00:42:56.339297Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-10-06T17:46:13.245140Z",
+    "citation":"forgot",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -37949,7 +37949,7 @@
   },
   {
     "sat_id":"EHTU-8334-9953-8853-4632",
-    "norad_cat_id":38783.0,
+    "norad_cat_id":38782.0,
     "norad_follow_id":null,
     "name":"VRSS-1",
     "names":"2012-052A",
@@ -37964,8 +37964,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-09-28T16:41:39.430784Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1cSqYU7cOO3cfZQFCZvNKxQfhpyKiLVj9xDILO2KCnAQ\/edit?usp=sharing",
+    "updated":"2023-10-06T18:43:33.406531Z",
+    "citation":"Fix NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38026,7 +38026,7 @@
     "name":"ESTCube-2",
     "names":"",
     "image":"satellites\/estcube-2.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -38036,8 +38036,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-04T06:19:24.116669Z",
-    "citation":"https:\/\/www.estcube.eu",
+    "updated":"2023-10-06T18:42:18.604528Z",
+    "citation":"Set to alive status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38098,7 +38098,7 @@
     "name":"ANSER LEADER",
     "names":"Advanced Nanosatellite Systems for Earth-observation Research",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38108,8 +38108,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-05T21:19:45.539324Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-06T18:42:18.639799Z",
+    "citation":"Set to alive status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38122,7 +38122,7 @@
     "name":"ANSER FOLLOWER 1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38132,8 +38132,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-05T21:19:44.679648Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-06T18:42:18.658855Z",
+    "citation":"Set to alive status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38146,7 +38146,7 @@
     "name":"ANSER FOLLOWER 2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38156,8 +38156,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-05T21:19:43.784069Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-06T18:42:18.677831Z",
+    "citation":"Set to alive status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38170,7 +38170,7 @@
     "name":"PRETTY",
     "names":"Passive REflecTomeTry and dosimetrY",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38180,8 +38180,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-05T21:16:33.420247Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-06T18:42:18.696619Z",
+    "citation":"Set to alive status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38194,7 +38194,7 @@
     "name":"CSC-1",
     "names":"CubeSat Carrier-1, ISISpace IOD-1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38204,8 +38204,32 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-05T21:16:13.365084Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-06T18:42:18.715407Z",
+    "citation":"Set to alive status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NFNR-3283-0235-5329-0343",
+    "norad_cat_id":55180.0,
+    "norad_follow_id":null,
+    "name":"OBJECT C",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-08T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-06T22:44:42.692210Z",
+    "citation":"Own STRF observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 

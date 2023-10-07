@@ -1590,16 +1590,6 @@
     "satnogs_id":"FREA-7490-5226-7970-6189"
   },
   {
-    "name":"HSU-SAT1",
-    "norad_id":"53462",
-    "uplink":null,
-    "downlink":"437.280",
-    "beacon":"437.280",
-    "mode":"1k2AFSK 9K6GMSK SSTV CW",
-    "callsign":"JS1YHS",
-    "satnogs_id":"VNRS-0413-3415-7769-6012"
-  },
-  {
     "name":"Humsat-D",
     "norad_id":"39433",
     "uplink":null,
@@ -3558,16 +3548,6 @@
     "mode":"2400bps GMSK USP",
     "callsign":"RS29S",
     "satnogs_id":"YYOS-0902-7582-8175-2841"
-  },
-  {
-    "name":"VZLUsat-1",
-    "norad_id":"42790",
-    "uplink":null,
-    "downlink":"437.240",
-    "beacon":"437.240",
-    "mode":"4800bps MSK CW*",
-    "callsign":"VZLUSAT1",
-    "satnogs_id":"JNEM-7746-8021-4780-5184"
   },
   {
     "name":"VZLUsat-2",
