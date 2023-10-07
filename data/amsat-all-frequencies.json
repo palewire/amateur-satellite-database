@@ -5071,15 +5071,26 @@
     "satnogs_id":null
   },
   {
-    "name":"EstCube-1",
+    "name":"ESTCube-1",
     "norad_id":"39161",
     "uplink":null,
     "downlink":"437.505\/2401.250",
     "beacon":"437.254",
-    "mode":"9600bps GMSK CW",
+    "mode":"9600bps GFSK CW",
     "callsign":"ES5E-11 ES5E\/S",
     "status":"inactive",
     "satnogs_id":"PPAK-3897-6161-8267-9600"
+  },
+  {
+    "name":"ESTCube-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.800",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"ESTELLE",

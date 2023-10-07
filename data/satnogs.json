@@ -38026,7 +38026,7 @@
     "name":"ESTCube-2",
     "names":"",
     "image":"satellites\/estcube-2.jpg",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -38036,8 +38036,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-06T18:42:18.604528Z",
-    "citation":"Set to alive status",
+    "updated":"2023-10-07T01:40:56.602355Z",
+    "citation":"Set to future status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38098,7 +38098,7 @@
     "name":"ANSER LEADER",
     "names":"Advanced Nanosatellite Systems for Earth-observation Research",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38108,8 +38108,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-06T18:42:18.639799Z",
-    "citation":"Set to alive status",
+    "updated":"2023-10-07T01:40:55.942391Z",
+    "citation":"Set to future status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38122,7 +38122,7 @@
     "name":"ANSER FOLLOWER 1",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38132,8 +38132,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-06T18:42:18.658855Z",
-    "citation":"Set to alive status",
+    "updated":"2023-10-07T01:40:55.348799Z",
+    "citation":"Set to future status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38146,7 +38146,7 @@
     "name":"ANSER FOLLOWER 2",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38156,8 +38156,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-06T18:42:18.677831Z",
-    "citation":"Set to alive status",
+    "updated":"2023-10-07T01:40:54.676969Z",
+    "citation":"Set to future status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38170,7 +38170,7 @@
     "name":"PRETTY",
     "names":"Passive REflecTomeTry and dosimetrY",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38180,8 +38180,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-06T18:42:18.696619Z",
-    "citation":"Set to alive status",
+    "updated":"2023-10-07T01:40:54.095165Z",
+    "citation":"Set to future status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38194,7 +38194,7 @@
     "name":"CSC-1",
     "names":"CubeSat Carrier-1, ISISpace IOD-1",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38204,8 +38204,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-06T18:42:18.715407Z",
-    "citation":"Set to alive status",
+    "updated":"2023-10-07T01:40:53.403150Z",
+    "citation":"Set to future status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
