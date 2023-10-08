@@ -6334,8 +6334,8 @@
     "name":"SUCHAI",
     "names":"",
     "image":"satellites\/suchai_satellite_2.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-05T19:23:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -6344,8 +6344,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.444729Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-08T04:03:46.662893Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/8281973\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
