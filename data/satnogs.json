@@ -38026,7 +38026,7 @@
     "name":"ESTCube-2",
     "names":"",
     "image":"satellites\/estcube-2.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -38036,8 +38036,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-07T01:40:56.602355Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-09T00:46:07.150730Z",
+    "citation":"Set to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38098,7 +38098,7 @@
     "name":"ANSER LEADER",
     "names":"Advanced Nanosatellite Systems for Earth-observation Research",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38108,8 +38108,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-07T01:40:55.942391Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-09T00:46:07.316679Z",
+    "citation":"Set to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38122,7 +38122,7 @@
     "name":"ANSER FOLLOWER 1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38132,8 +38132,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-07T01:40:55.348799Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-09T00:46:07.343657Z",
+    "citation":"Set to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38146,7 +38146,7 @@
     "name":"ANSER FOLLOWER 2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38156,8 +38156,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-07T01:40:54.676969Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-09T00:46:07.368442Z",
+    "citation":"Set to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38170,9 +38170,9 @@
     "name":"PRETTY",
     "names":"Passive REflecTomeTry and dosimetrY",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2023-10-07T01:36:00Z",
+    "launched":"2023-10-09T01:36:00Z",
     "deployed":null,
     "website":"https:\/\/www.tugraz.at\/en\/institute\/iks\/space-missions\/pretty",
     "operator":"None",
@@ -38180,8 +38180,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-07T01:40:54.095165Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-09T07:55:37.911866Z",
+    "citation":"correct?",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38194,7 +38194,7 @@
     "name":"CSC-1",
     "names":"CubeSat Carrier-1, ISISpace IOD-1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38204,8 +38204,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-07T01:40:53.403150Z",
-    "citation":"Set to future status",
+    "updated":"2023-10-09T00:46:07.413939Z",
+    "citation":"Set to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38230,6 +38230,174 @@
     ],
     "updated":"2023-10-06T22:44:42.692210Z",
     "citation":"Own STRF observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UOBH-0478-4458-7492-3646",
+    "norad_cat_id":40143.0,
+    "norad_follow_id":null,
+    "name":"YAOGAN 21",
+    "names":"2014-053A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-09-08T00:00:00Z",
+    "deployed":"2012-09-08T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-09T01:13:07.631439Z",
+    "citation":"n2yo.com",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PONC-2290-8188-0010-0245",
+    "norad_cat_id":99039.0,
+    "norad_follow_id":null,
+    "name":"CSC-2",
+    "names":"CubeSat Carrier-2, ISISpace IOD-2",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-10-09T01:36:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"NL",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-09T09:03:55.195857Z",
+    "citation":"swap n3ss",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NTXV-3568-8556-1732-1226",
+    "norad_cat_id":99038.0,
+    "norad_follow_id":null,
+    "name":"PVCC",
+    "names":"PROBA-V-CC",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"ESA",
+    "countries":"BE",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-09T07:55:28.730123Z",
+    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/4",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WYZF-5026-7643-6089-4033",
+    "norad_cat_id":99037.0,
+    "norad_follow_id":null,
+    "name":"MACSAT",
+    "names":"Finch 1",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"LU,RW,AE",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-09T07:55:24.582279Z",
+    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SROK-4359-8310-5715-7249",
+    "norad_cat_id":99036.0,
+    "norad_follow_id":null,
+    "name":"N3SS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-10-09T01:36:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-09T09:03:49.779745Z",
+    "citation":"swap csc-2",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DTLO-4492-3786-0512-9518",
+    "norad_cat_id":99035.0,
+    "norad_follow_id":null,
+    "name":"THEOS 2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TH",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-09T09:03:13.105249Z",
+    "citation":"Gunter",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WUYF-8239-9189-0421-5797",
+    "norad_cat_id":99034.0,
+    "norad_follow_id":null,
+    "name":"TRITON",
+    "names":"FORMOSAT-7R",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-09T09:02:53.304465Z",
+    "citation":"Gunter",
     "is_frequency_violator":false,
     "associated_satellites":[
 
