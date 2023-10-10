@@ -451,6 +451,39 @@
     "satnogs_id":null
   },
   {
+    "name":"ANSER-A",
+    "norad_id":"58018",
+    "uplink":null,
+    "downlink":"401.850",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"ANSER-B",
+    "norad_id":"58020",
+    "uplink":null,
+    "downlink":"401.850",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"ANSER-C",
+    "norad_id":"58019",
+    "uplink":null,
+    "downlink":"401.850",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"ANTELSat",
     "norad_id":"40034",
     "uplink":null,
@@ -3682,6 +3715,28 @@
     "mode":null,
     "callsign":null,
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"CSC-1",
+    "norad_id":"58021",
+    "uplink":null,
+    "downlink":"401.175",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"CSC-2",
+    "norad_id":"58021",
+    "uplink":null,
+    "downlink":"401.250",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8481,6 +8536,17 @@
     "satnogs_id":"TMBM-0361-0702-7974-9574"
   },
   {
+    "name":"MACSAT",
+    "norad_id":"58023",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"MAGNARO",
     "norad_id":null,
     "uplink":null,
@@ -9139,6 +9205,17 @@
     "callsign":"A68MX",
     "status":"active",
     "satnogs_id":"FXJU-1542-5342-0390-1271"
+  },
+  {
+    "name":"N3SS",
+    "norad_id":"58025",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"NanoDragon",
@@ -10954,6 +11031,17 @@
     "callsign":"PRATHAM",
     "status":"inactive",
     "satnogs_id":"BVPV-2085-0638-3310-5387"
+  },
+  {
+    "name":"PRETTY",
+    "norad_id":"58024",
+    "uplink":null,
+    "downlink":"137.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"PrintSat",
