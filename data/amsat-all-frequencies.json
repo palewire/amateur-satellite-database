@@ -5088,7 +5088,7 @@
     "downlink":"435.800",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
+    "callsign":"ES5EC",
     "status":"unknown",
     "satnogs_id":null
   },

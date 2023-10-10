@@ -2324,16 +2324,16 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2013-09-23T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.124690Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-09T23:24:55.213789Z",
+    "citation":"celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14910,14 +14910,14 @@
     "decayed":null,
     "launched":"2001-10-22T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/earth.esa.int\/eogateway\/missions\/proba-1\/description",
     "operator":"ESA",
     "countries":"BE",
     "telemetries":[
 
     ],
-    "updated":"2021-08-11T07:46:46.966302Z",
-    "citation":"https:\/\/en.wikipedia.org\/wiki\/PROBA",
+    "updated":"2023-10-09T23:15:32.539120Z",
+    "citation":"https:\/\/www.satdump.org\/Satellite-List\/#proba-1-norad-26958",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31241,7 +31241,7 @@
     "citation":"https:\/\/www.businesswire.com\/news\/home\/20230415005011\/en\/DEWA-Launches-Its-Second-Nanosatellite-DEWA-SAT-2-to-Enhance-Its-Operations-and-Improve-Efficiency",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "NFNR-3283-0235-5329-0343"
     ]
   },
   {
@@ -38169,7 +38169,7 @@
     "norad_follow_id":null,
     "name":"PRETTY",
     "names":"Passive REflecTomeTry and dosimetrY",
-    "image":"",
+    "image":"satellites\/b65bf44f-02f2-4316-872f-a27422f4fe88.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2023-10-09T01:36:00Z",
@@ -38180,8 +38180,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-09T07:55:37.911866Z",
-    "citation":"correct?",
+    "updated":"2023-10-09T12:37:52.883975Z",
+    "citation":"Lunghammer\/TU Graz",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38206,30 +38206,6 @@
     ],
     "updated":"2023-10-09T00:46:07.413939Z",
     "citation":"Set to alive",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"NFNR-3283-0235-5329-0343",
-    "norad_cat_id":55180.0,
-    "norad_follow_id":null,
-    "name":"OBJECT C",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2023-01-08T00:00:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2023-10-06T22:44:42.692210Z",
-    "citation":"Own STRF observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38336,7 +38312,7 @@
     "norad_cat_id":99036.0,
     "norad_follow_id":null,
     "name":"N3SS",
-    "names":"",
+    "names":"NESS",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -38348,8 +38324,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-09T09:03:49.779745Z",
-    "citation":"swap csc-2",
+    "updated":"2023-10-09T12:50:28.062046Z",
+    "citation":"Add one more name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38398,6 +38374,30 @@
     ],
     "updated":"2023-10-09T09:02:53.304465Z",
     "citation":"Gunter",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HZRL-0408-5629-4106-3523",
+    "norad_cat_id":42920.0,
+    "norad_follow_id":null,
+    "name":"FORMOSAT-5",
+    "names":"2017-049A",
+    "image":"satellites\/FORMOSAT-5_in_orbit_artist_concept_cropped.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-08-24T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-09T12:39:00.129035Z",
+    "citation":"https:\/\/twitter.com\/sq3dho\/status\/1711336994914124084",
     "is_frequency_violator":false,
     "associated_satellites":[
 
