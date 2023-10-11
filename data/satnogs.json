@@ -18898,15 +18898,15 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2021-10-14T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2022-01-23T00:14:21.190650Z",
+    "updated":"2023-10-11T03:31:26.192721Z",
     "citation":"From strf observations by cgbsat",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -27039,8 +27039,8 @@
     "name":"SPORT",
     "names":"Scintillation Prediction Observations Research Task",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-09T18:18:00Z",
     "launched":null,
     "deployed":"2022-12-29T13:55:00Z",
     "website":"https:\/\/www.nasa.gov\/mission_pages\/sport\/index.html",
@@ -27049,8 +27049,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-08T08:59:39.092157Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55129\/2023-01-08T08%3A24%3A20_6993313_55129_98067UW_0-OBJECT-UW_0.8485008414814814_B_r38.5_f0.0.png",
+    "updated":"2023-10-11T03:00:26.110980Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/8304571\/",
     "is_frequency_violator":false,
     "associated_satellites":[
       "SJUP-0567-6490-7403-5685",
@@ -38264,7 +38264,7 @@
     "norad_cat_id":99038.0,
     "norad_follow_id":58024.0,
     "name":"PVCC",
-    "names":"PROBA-V-CC",
+    "names":"VGT-CC, PROBA-V-CC",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -38276,8 +38276,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-10T01:24:14.860883Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/28",
+    "updated":"2023-10-11T04:23:27.290523Z",
+    "citation":"itu.int",
     "is_frequency_violator":false,
     "associated_satellites":[
 
