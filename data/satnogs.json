@@ -38094,7 +38094,7 @@
   {
     "sat_id":"FSKO-0864-6726-9757-4938",
     "norad_cat_id":99044.0,
-    "norad_follow_id":58018.0,
+    "norad_follow_id":58019.0,
     "name":"ANSER LEADER",
     "names":"Advanced Nanosatellite Systems for Earth-observation Research",
     "image":"",
@@ -38108,8 +38108,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-10T01:24:14.968957Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/28",
+    "updated":"2023-10-12T02:03:47.895947Z",
+    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/37",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38142,7 +38142,7 @@
   {
     "sat_id":"ZOPP-9607-7525-9879-6149",
     "norad_cat_id":99042.0,
-    "norad_follow_id":58019.0,
+    "norad_follow_id":58018.0,
     "name":"ANSER FOLLOWER 2",
     "names":"",
     "image":"",
@@ -38156,8 +38156,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-10T01:24:15.018213Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/28",
+    "updated":"2023-10-12T02:03:30.526529Z",
+    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/37",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38190,7 +38190,7 @@
   {
     "sat_id":"CNPX-5092-5371-0749-4265",
     "norad_cat_id":99040.0,
-    "norad_follow_id":58021.0,
+    "norad_follow_id":58022.0,
     "name":"CSC-1",
     "names":"CubeSat Carrier-1, ISISpace IOD-1",
     "image":"",
@@ -38204,8 +38204,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-10T01:21:09.786028Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/28",
+    "updated":"2023-10-12T02:02:54.607110Z",
+    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/37",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38238,7 +38238,7 @@
   {
     "sat_id":"PONC-2290-8188-0010-0245",
     "norad_cat_id":99039.0,
-    "norad_follow_id":58022.0,
+    "norad_follow_id":58021.0,
     "name":"CSC-2",
     "names":"CubeSat Carrier-2, ISISpace IOD-2",
     "image":"",
@@ -38252,8 +38252,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-10T01:24:14.900398Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/28",
+    "updated":"2023-10-12T02:03:00.441366Z",
+    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/37",
     "is_frequency_violator":false,
     "associated_satellites":[
 

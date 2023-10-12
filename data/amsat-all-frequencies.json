@@ -9859,7 +9859,7 @@
     "name":"NOUR-3",
     "norad_id":"57962",
     "uplink":null,
-    "downlink":"401.500",
+    "downlink":"401.500\/2258.000",
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
