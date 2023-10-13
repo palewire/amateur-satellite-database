@@ -4936,16 +4936,16 @@
     "image":"satellites\/3cat-2__2.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2016-08-16T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"ES",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.322280Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-13T11:19:33.560242Z",
+    "citation":"gunter",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19224,10 +19224,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -31685,8 +31685,8 @@
     "name":"AURORASAT",
     "names":"VE8ARI",
     "image":"satellites\/aurorasat-1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-11T00:00:00Z",
     "launched":null,
     "deployed":"2023-04-24T12:15:00Z",
     "website":"",
@@ -31695,8 +31695,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-17T15:57:01.503929Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-25-nanoracks-2023-04-24-12-05-and-12-15-utc\/10322\/82",
+    "updated":"2023-10-13T08:20:10.093422Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38262,7 +38262,7 @@
   {
     "sat_id":"NTXV-3568-8556-1732-1226",
     "norad_cat_id":99038.0,
-    "norad_follow_id":58024.0,
+    "norad_follow_id":58025.0,
     "name":"PVCC",
     "names":"VGT-CC, PROBA-V-CC",
     "image":"",
@@ -38276,8 +38276,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-11T04:23:27.290523Z",
-    "citation":"itu.int",
+    "updated":"2023-10-13T00:49:38.410114Z",
+    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/42",
     "is_frequency_violator":false,
     "associated_satellites":[
 
