@@ -19224,10 +19224,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -38398,6 +38398,30 @@
     ],
     "updated":"2023-10-09T12:39:00.129035Z",
     "citation":"https:\/\/twitter.com\/sq3dho\/status\/1711336994914124084",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VQEX-8666-4846-3939-1961",
+    "norad_cat_id":99033.0,
+    "norad_follow_id":58024.0,
+    "name":"Unknown Satellite from VV23",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-12T16:31:06.917974Z",
+    "citation":"Fix name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
