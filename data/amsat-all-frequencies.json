@@ -3719,13 +3719,13 @@
   },
   {
     "name":"CSC-1",
-    "norad_id":"58021",
+    "norad_id":"58022",
     "uplink":null,
     "downlink":"401.175",
     "beacon":null,
     "mode":"1200bps BPSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"CSC1",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3735,8 +3735,8 @@
     "downlink":"401.250",
     "beacon":null,
     "mode":"1200bps BPSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"CSC2",
+    "status":"active",
     "satnogs_id":null
   },
   {

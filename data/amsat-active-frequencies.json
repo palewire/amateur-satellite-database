@@ -780,6 +780,26 @@
     "satnogs_id":"WLHF-1710-4037-0881-2319"
   },
   {
+    "name":"CSC-1",
+    "norad_id":"58022",
+    "uplink":null,
+    "downlink":"401.175",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":"CSC1",
+    "satnogs_id":null
+  },
+  {
+    "name":"CSC-2",
+    "norad_id":"58021",
+    "uplink":null,
+    "downlink":"401.250",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":"CSC2",
+    "satnogs_id":null
+  },
+  {
     "name":"CSIM-FD",
     "norad_id":"43793",
     "uplink":null,
