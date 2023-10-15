@@ -2603,9 +2603,9 @@
     "name":"SALSAT",
     "norad_id":"46495",
     "uplink":null,
-    "downlink":"435.900\/435.950",
+    "downlink":"435.900\/435.950*",
     "beacon":null,
-    "mode":"1200bps AFSK",
+    "mode":"1200bps TUBIX10 AFSK",
     "callsign":null,
     "satnogs_id":"CWCJ-6029-4779-5201-8503"
   },
