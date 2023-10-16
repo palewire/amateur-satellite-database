@@ -30791,7 +30791,7 @@
     "sat_id":"WLNP-3674-9529-3403-4772",
     "norad_cat_id":35951.0,
     "norad_follow_id":null,
-    "name":"DMSP fD-3 F18",
+    "name":"DMSP 5D-3 F18",
     "names":"USA 210 2009-057A",
     "image":"",
     "status":"alive",
@@ -30804,8 +30804,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-03-10T20:06:29.814275Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1IOEPLczfUxuD6O8kkMr1iAUk0clb_6rH0OF0z9jKLyc\/edit?usp=sharing",
+    "updated":"2023-10-16T04:18:25.570015Z",
+    "citation":"typo",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38094,7 +38094,7 @@
   {
     "sat_id":"FSKO-0864-6726-9757-4938",
     "norad_cat_id":99044.0,
-    "norad_follow_id":58019.0,
+    "norad_follow_id":58018.0,
     "name":"ANSER LEADER",
     "names":"Advanced Nanosatellite Systems for Earth-observation Research",
     "image":"",
@@ -38108,8 +38108,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-12T02:03:47.895947Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/37",
+    "updated":"2023-10-16T04:47:46.966844Z",
+    "citation":"From Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38118,7 +38118,7 @@
   {
     "sat_id":"JJLF-0694-7012-0829-5819",
     "norad_cat_id":99043.0,
-    "norad_follow_id":58020.0,
+    "norad_follow_id":58019.0,
     "name":"ANSER FOLLOWER 1",
     "names":"",
     "image":"",
@@ -38132,8 +38132,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-10T01:24:14.993153Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/28",
+    "updated":"2023-10-16T04:51:43.050758Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38142,7 +38142,7 @@
   {
     "sat_id":"ZOPP-9607-7525-9879-6149",
     "norad_cat_id":99042.0,
-    "norad_follow_id":58018.0,
+    "norad_follow_id":58021.0,
     "name":"ANSER FOLLOWER 2",
     "names":"",
     "image":"",
@@ -38156,8 +38156,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-12T02:03:30.526529Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/37",
+    "updated":"2023-10-16T04:52:02.279114Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38310,7 +38310,7 @@
   {
     "sat_id":"SROK-4359-8310-5715-7249",
     "norad_cat_id":99036.0,
-    "norad_follow_id":58025.0,
+    "norad_follow_id":58020.0,
     "name":"N3SS",
     "names":"NESS",
     "image":"",
@@ -38324,8 +38324,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-10T01:24:14.800157Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/28",
+    "updated":"2023-10-16T04:50:18.102534Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
