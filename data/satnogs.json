@@ -38022,11 +38022,11 @@
   {
     "sat_id":"HMYH-8624-2864-5575-0545",
     "norad_cat_id":99045.0,
-    "norad_follow_id":58023.0,
+    "norad_follow_id":null,
     "name":"ESTCube-2",
     "names":"",
     "image":"satellites\/estcube-2.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -38036,8 +38036,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-10T01:24:14.942719Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/28",
+    "updated":"2023-10-17T05:32:03.972037Z",
+    "citation":"Remove NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38094,11 +38094,11 @@
   {
     "sat_id":"FSKO-0864-6726-9757-4938",
     "norad_cat_id":99044.0,
-    "norad_follow_id":58018.0,
+    "norad_follow_id":null,
     "name":"ANSER LEADER",
     "names":"Advanced Nanosatellite Systems for Earth-observation Research",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2023-10-07T01:36:00Z",
     "deployed":null,
@@ -38108,8 +38108,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-16T04:47:46.966844Z",
-    "citation":"From Network observations",
+    "updated":"2023-10-17T05:31:35.150208Z",
+    "citation":"https:\/\/europeanspaceflight.com\/two-vega-vv23-payloads-failed-to-deploy\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38142,7 +38142,7 @@
   {
     "sat_id":"ZOPP-9607-7525-9879-6149",
     "norad_cat_id":99042.0,
-    "norad_follow_id":58021.0,
+    "norad_follow_id":58018.0,
     "name":"ANSER FOLLOWER 2",
     "names":"",
     "image":"",
@@ -38156,7 +38156,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-16T04:52:02.279114Z",
+    "updated":"2023-10-17T05:32:40.505630Z",
     "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[

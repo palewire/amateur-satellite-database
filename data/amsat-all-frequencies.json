@@ -5144,7 +5144,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"ES5EC",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
