@@ -38166,7 +38166,7 @@
   {
     "sat_id":"JLVL-3609-6878-3879-9628",
     "norad_cat_id":99041.0,
-    "norad_follow_id":58024.0,
+    "norad_follow_id":58023.0,
     "name":"PRETTY",
     "names":"Passive REflecTomeTry and dosimetrY",
     "image":"satellites\/b65bf44f-02f2-4316-872f-a27422f4fe88.jpg",
@@ -38180,8 +38180,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-10T01:21:14.682725Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/28",
+    "updated":"2023-10-18T19:57:33.910898Z",
+    "citation":"PRETTY Team: We believe PRETTY is the Object H (TBC in the coming days)",
     "is_frequency_violator":false,
     "associated_satellites":[
 
