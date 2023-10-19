@@ -787,7 +787,7 @@
     "beacon":null,
     "mode":"1200bps BPSK",
     "callsign":"CSC1",
-    "satnogs_id":null
+    "satnogs_id":"CNPX-5092-5371-0749-4265"
   },
   {
     "name":"CSC-2",
@@ -797,7 +797,7 @@
     "beacon":null,
     "mode":"1200bps BPSK",
     "callsign":"CSC2",
-    "satnogs_id":null
+    "satnogs_id":"PONC-2290-8188-0010-0245"
   },
   {
     "name":"CSIM-FD",
