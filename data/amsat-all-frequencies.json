@@ -2211,6 +2211,28 @@
     "satnogs_id":"XFVV-4114-4685-9543-2674"
   },
   {
+    "name":"BRO-10",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"BRO-11",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-1",
     "norad_id":"43666",
     "uplink":"436.200",
@@ -3430,6 +3452,28 @@
     "callsign":"CONT21",
     "status":"active",
     "satnogs_id":"RYJB-2072-5322-3255-6402"
+  },
+  {
+    "name":"Connecta-T3.1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.525",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Connecta-T3.2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.525",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"COPPER",
@@ -7192,6 +7236,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"TWEF-8525-8046-9814-5948"
+  },
+  {
+    "name":"ION-SCV 012",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"IO-26",
@@ -16157,6 +16212,17 @@
     "callsign":"W1VTC2",
     "status":"re-entered",
     "satnogs_id":"IKDT-3371-2990-6146-7410"
+  },
+  {
+    "name":"Veronika",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.680",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Vigoride-6",

@@ -38426,5 +38426,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"FNGO-2772-5931-1779-2835",
+    "norad_cat_id":99032.0,
+    "norad_follow_id":null,
+    "name":"Hayasat",
+    "names":"Hayasat-1",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-29T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.bazoomq.org\/hayasat-1",
+    "operator":"None",
+    "countries":"AM",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-19T13:52:56.863230Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
