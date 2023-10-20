@@ -451,7 +451,18 @@
     "satnogs_id":null
   },
   {
-    "name":"ANSER-A",
+    "name":"ANSER Leader",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.850",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"ANSER Follower-1",
     "norad_id":"58018",
     "uplink":null,
     "downlink":"401.850",
@@ -462,18 +473,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ANSER-B",
-    "norad_id":"58020",
-    "uplink":null,
-    "downlink":"401.850",
-    "beacon":null,
-    "mode":"FM",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
-  },
-  {
-    "name":"ANSER-C",
+    "name":"ANSER Follower-2",
     "norad_id":"58019",
     "uplink":null,
     "downlink":"401.850",
@@ -5188,7 +5188,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"ES5EC",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -8592,7 +8592,7 @@
   },
   {
     "name":"MACSAT",
-    "norad_id":"58023",
+    "norad_id":"58024",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -9263,7 +9263,7 @@
   },
   {
     "name":"N3SS",
-    "norad_id":"58025",
+    "norad_id":"58020",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -11089,7 +11089,7 @@
   },
   {
     "name":"PRETTY",
-    "norad_id":"58024",
+    "norad_id":"58023",
     "uplink":null,
     "downlink":"137.500",
     "beacon":null,

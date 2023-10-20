@@ -4742,7 +4742,7 @@
     "name":"\u00d1uSat 1",
     "names":"FRESCO, LO-87, NuSat 1, LUSEX, NewSat 1",
     "image":"satellites\/NUSAT-1_iNMftIO.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2016-05-30T00:00:00Z",
     "deployed":null,
@@ -4752,8 +4752,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-01T16:18:33.130395Z",
-    "citation":"http:\/\/lusex.org.ar\/",
+    "updated":"2023-10-20T06:40:53.762401Z",
+    "citation":"AMSAT-NA TLE Distribution update",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -6408,8 +6408,8 @@
     "name":"ROBUSTA-1B",
     "names":"",
     "image":"satellites\/robusta.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-17T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/janus.cnes.fr\/en\/robusta-1b",
@@ -6418,8 +6418,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.450278Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-20T06:28:00.793885Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
