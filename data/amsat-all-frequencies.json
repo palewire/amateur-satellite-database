@@ -998,7 +998,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"AMDP-5293-8569-5719-3637"
   },
   {
     "name":"APSS-1",
@@ -8594,7 +8594,7 @@
     "name":"MACSAT",
     "norad_id":"58024",
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.050",
     "beacon":null,
     "mode":null,
     "callsign":null,

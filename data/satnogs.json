@@ -38450,5 +38450,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"AMDP-5293-8569-5719-3637",
+    "norad_cat_id":40019.0,
+    "norad_follow_id":null,
+    "name":"APRIZESAT 10",
+    "names":"2014-033K",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-06-19T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-20T16:58:24.061659Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/AprizeSat",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
