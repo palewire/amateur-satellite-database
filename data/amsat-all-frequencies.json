@@ -11091,7 +11091,7 @@
     "name":"PRETTY",
     "norad_id":"58023",
     "uplink":null,
-    "downlink":"137.500",
+    "downlink":"137.500\/137.740*",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
