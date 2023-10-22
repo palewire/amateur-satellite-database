@@ -38474,5 +38474,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"VUGG-3167-0541-2486-6729",
+    "norad_cat_id":10033.0,
+    "norad_follow_id":null,
+    "name":"OPS 5644",
+    "names":"1977-044A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"1977-06-05T00:00:00Z",
+    "deployed":"1977-06-05T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-21T13:51:46.916788Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ZgQ4NeRrI2hcsxfEqzkZkw5RC0IlRpMVi4DfMHMAZ5M\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"THVB-2523-9498-0145-1848",
+    "norad_cat_id":47253.0,
+    "norad_follow_id":null,
+    "name":"STRIX-ALPHA",
+    "names":"2020-098A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-12-15T00:00:00Z",
+    "deployed":"2020-12-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-21T14:36:21.979491Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1hb5ipcOJNRm4YkEk1LUSb_XSYU4FmoicF_7HcLctORo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

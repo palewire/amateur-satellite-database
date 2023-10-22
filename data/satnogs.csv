@@ -1617,3 +1617,5 @@ HZRL-0408-5629-4106-3523,42920.0,,FORMOSAT-5,2017-049A,satellites/FORMOSAT-5_in_
 VQEX-8666-4846-3939-1961,99033.0,58024.0,Unknown Satellite from VV23,,,alive,,,,,None,,[],2023-10-12T16:31:06.917974Z,Fix name,False,[]
 FNGO-2772-5931-1779-2835,99032.0,,Hayasat,Hayasat-1,,future,,2023-11-29T00:00:00Z,,https://www.bazoomq.org/hayasat-1,None,AM,[],2023-10-19T13:52:56.863230Z,Add temporary NORAD ID,False,[]
 AMDP-5293-8569-5719-3637,40019.0,,APRIZESAT 10,2014-033K,,alive,,2014-06-19T00:00:00Z,,,None,US,[],2023-10-20T16:58:24.061659Z,https://en.wikipedia.org/wiki/AprizeSat,False,[]
+VUGG-3167-0541-2486-6729,10033.0,,OPS 5644,1977-044A,,alive,,1977-06-05T00:00:00Z,1977-06-05T00:00:00Z,,None,US,[],2023-10-21T13:51:46.916788Z,https://docs.google.com/document/d/1ZgQ4NeRrI2hcsxfEqzkZkw5RC0IlRpMVi4DfMHMAZ5M/edit?usp=sharing,False,[]
+THVB-2523-9498-0145-1848,47253.0,,STRIX-ALPHA,2020-098A,,alive,,2020-12-15T00:00:00Z,2020-12-15T00:00:00Z,,None,JP,[],2023-10-21T14:36:21.979491Z,https://docs.google.com/document/d/1hb5ipcOJNRm4YkEk1LUSb_XSYU4FmoicF_7HcLctORo/edit?usp=sharing,False,[]

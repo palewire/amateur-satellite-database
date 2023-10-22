@@ -1190,16 +1190,6 @@
     "satnogs_id":null
   },
   {
-    "name":"FossaSat-2E2",
-    "norad_id":"50984",
-    "uplink":null,
-    "downlink":"401.700",
-    "beacon":null,
-    "mode":"9600bps GFSK 125k LoRa*",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"FossaSat-2E3",
     "norad_id":"50990",
     "uplink":null,
@@ -1222,16 +1212,6 @@
   {
     "name":"FossaSat-2E5",
     "norad_id":"51001",
-    "uplink":null,
-    "downlink":"401.700",
-    "beacon":null,
-    "mode":"9600bps GFSK 125k LoRa*",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
-    "name":"FossaSat-2E6",
-    "norad_id":"50991",
     "uplink":null,
     "downlink":"401.700",
     "beacon":null,
@@ -2548,16 +2528,6 @@
     "mode":"1k2*\/9k6 BPSK",
     "callsign":"RANDEV",
     "satnogs_id":"LYKB-5376-2648-5150-0020"
-  },
-  {
-    "name":"Reaktor Hello World",
-    "norad_id":"43743",
-    "uplink":null,
-    "downlink":"437.775\/2410.000",
-    "beacon":"437.775",
-    "mode":"9k6* 2GFSK\/1MbpsMSK CW*",
-    "callsign":"OH2RHW1",
-    "satnogs_id":"ILUP-3176-4624-1525-3825"
   },
   {
     "name":"Red Diamond",

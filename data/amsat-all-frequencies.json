@@ -1228,7 +1228,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -4066,7 +4066,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -5243,7 +5243,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -5254,7 +5254,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -5584,7 +5584,7 @@
     "beacon":null,
     "mode":"9600bps GFSK 125k LoRa*",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -5628,7 +5628,7 @@
     "beacon":null,
     "mode":"9600bps GFSK 125k LoRa*",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -8290,7 +8290,7 @@
     "beacon":null,
     "mode":"300* 1k2 AFSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -9610,7 +9610,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -11645,7 +11645,7 @@
     "beacon":"437.775",
     "mode":"9k6* 2GFSK\/1MbpsMSK CW*",
     "callsign":"OH2RHW1",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"ILUP-3176-4624-1525-3825"
   },
   {
@@ -12569,7 +12569,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"SCLE-0291-5281-1334-3408"
   },
   {
@@ -13812,7 +13812,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"JWSU-6284-1667-7528-7658"
   },
   {
@@ -13834,7 +13834,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"HZZT-8310-6183-6672-9088"
   },
   {
