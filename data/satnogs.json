@@ -38522,5 +38522,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"CNAZ-9368-1972-2448-3217",
+    "norad_cat_id":54234.0,
+    "norad_follow_id":null,
+    "name":"NOAA-21 JPSS-2",
+    "names":"2022-150A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-11-10T00:00:00Z",
+    "deployed":"2022-11-10T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-22T11:32:31.814180Z",
+    "citation":"https:\/\/grafana.v2.sondehub.org\/d\/DuhjlM_Vk\/jota-cross?orgId=1&from=1697839200000&to=1697925599000",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

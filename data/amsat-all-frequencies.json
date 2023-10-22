@@ -7675,7 +7675,7 @@
     "mode":null,
     "callsign":null,
     "status":"weather sat",
-    "satnogs_id":null
+    "satnogs_id":"CNAZ-9368-1972-2448-3217"
   },
   {
     "name":"Jugnu",
@@ -9864,7 +9864,7 @@
     "mode":null,
     "callsign":null,
     "status":"weather sat",
-    "satnogs_id":null
+    "satnogs_id":"CNAZ-9368-1972-2448-3217"
   },
   {
     "name":"NOOR-1A",
@@ -16219,7 +16219,7 @@
     "uplink":null,
     "downlink":"436.680",
     "beacon":null,
-    "mode":"1200bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
