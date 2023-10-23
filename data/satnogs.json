@@ -18869,12 +18869,12 @@
     "sat_id":"ALTL-1953-1156-3779-2525",
     "norad_cat_id":49322.0,
     "norad_follow_id":null,
-    "name":"2021-091H",
+    "name":"SSS-1",
     "names":"",
-    "image":"",
+    "image":"satellites\/SSS-1_QYon6E7.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":"2021-10-14T00:00:00Z",
+    "launched":"2021-10-14T18:24:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -18882,11 +18882,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-17T13:55:14.493939Z",
-    "citation":"planet4589.org\/space\/gcat\/data\/cat\/satcat.html",
+    "updated":"2023-10-23T11:53:49.910536Z",
+    "citation":"Move name from \"other names\" to \"name\" field",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "LZRM-2467-8982-4085-4433"
     ]
   },
   {
@@ -30998,30 +30998,6 @@
 
     ],
     "updated":"2023-04-07T15:36:43.969429Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/254#note_1345058720",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"LZRM-2467-8982-4085-4433",
-    "norad_cat_id":99191.0,
-    "norad_follow_id":null,
-    "name":"SSS-1",
-    "names":"APSCO-SSS-1",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2021-10-14T00:00:00Z",
-    "deployed":null,
-    "website":"https:\/\/www.spacerl.com\/sss-project\/",
-    "operator":"None",
-    "countries":"CN",
-    "telemetries":[
-
-    ],
-    "updated":"2023-04-07T15:36:58.797458Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/254#note_1345058720",
     "is_frequency_violator":false,
     "associated_satellites":[
