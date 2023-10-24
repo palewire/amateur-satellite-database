@@ -38522,5 +38522,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"IMJX-7102-0140-6430-7844",
+    "norad_cat_id":99031.0,
+    "norad_follow_id":null,
+    "name":"Connecta T3.1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-07T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-23T12:28:36.574788Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
