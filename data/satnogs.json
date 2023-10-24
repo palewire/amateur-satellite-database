@@ -38529,7 +38529,7 @@
     "norad_follow_id":null,
     "name":"Connecta T3.1",
     "names":"",
-    "image":"",
+    "image":"satellites\/connecta_T_3_1_.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2023-11-07T00:00:00Z",
@@ -38540,8 +38540,56 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-23T12:28:36.574788Z",
+    "updated":"2023-10-24T10:53:21.222250Z",
+    "citation":"-",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZAVF-3403-5726-0559-1255",
+    "norad_cat_id":99030.0,
+    "norad_follow_id":null,
+    "name":"Connecta T3.2",
+    "names":"",
+    "image":"satellites\/connecta_T_3_2_.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-07T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-24T10:52:35.148860Z",
     "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YSMA-9819-7931-8595-7019",
+    "norad_cat_id":56973.0,
+    "norad_follow_id":null,
+    "name":"SPACEBEE-178",
+    "names":"2023-084AT",
+    "image":"satellites\/spacebee-10__1.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-24T10:51:11.132656Z",
+    "citation":"https:\/\/twitter.com\/sq3dho\/status\/1716742700207165769",
     "is_frequency_violator":false,
     "associated_satellites":[
 
