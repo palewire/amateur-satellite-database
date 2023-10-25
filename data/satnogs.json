@@ -38265,10 +38265,10 @@
     "norad_follow_id":58024.0,
     "name":"MACSAT",
     "names":"Finch 1",
-    "image":"",
+    "image":"satellites\/macsat__oqt__1.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-10-09T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -38276,8 +38276,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-19T08:39:10.076795Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/48",
+    "updated":"2023-10-25T09:40:51.888084Z",
+    "citation":"https:\/\/twitter.com\/sq3dho\/status\/1716792542383980651",
     "is_frequency_violator":false,
     "associated_satellites":[
 
