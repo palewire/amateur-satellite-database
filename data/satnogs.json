@@ -38594,5 +38594,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"ZFWW-4105-8005-8470-1991",
+    "norad_cat_id":99029.0,
+    "norad_follow_id":null,
+    "name":"Parus-MGTU",
+    "names":"\u041f\u0430\u0440\u0443\u0441-\u041c\u0413\u0422\u0423",
+    "image":"satellites\/mka-parus-mgtu.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-10-25T00:00:00Z",
+    "deployed":"2023-10-25T23:20:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-25T18:08:59.026978Z",
+    "citation":"Keep TLE at deployment time and fix deployment time to be at UTC",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
