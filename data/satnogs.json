@@ -8240,8 +8240,8 @@
     "name":"Reaktor Hello World",
     "names":"OH2RHW1",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-24T00:00:00Z",
     "launched":"2018-11-29T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/reaktorspace.com\/reaktor-hello-world\/",
@@ -8250,8 +8250,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T11:27:48.565321Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-27T07:05:23.753544Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
