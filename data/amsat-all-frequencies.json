@@ -10516,6 +10516,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Parus-MGTU",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.200",
+    "beacon":null,
+    "mode":"9k6\/12k0 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"PCSAT-1",
     "norad_id":"26931",
     "uplink":"145.827",
