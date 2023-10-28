@@ -8241,7 +8241,7 @@
     "names":"OH2RHW1",
     "image":"",
     "status":"re-entered",
-    "decayed":"2023-10-24T00:00:00Z",
+    "decayed":"2023-10-22T00:00:00Z",
     "launched":"2018-11-29T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/reaktorspace.com\/reaktor-hello-world\/",
@@ -8250,8 +8250,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-27T07:05:23.753544Z",
-    "citation":"Network observations",
+    "updated":"2023-10-27T15:59:16.402586Z",
+    "citation":"https:\/\/kuvaspace.com\/reaktor-hello-world-bids-adieu\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
