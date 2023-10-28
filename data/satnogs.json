@@ -12785,8 +12785,8 @@
     "name":"STORK-5",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-22T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -12795,8 +12795,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.970308Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-28T06:14:11.809027Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13963,8 +13963,8 @@
     "name":"SEAM 2.0",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-17T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -13973,8 +13973,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:43.056328Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-28T06:14:35.320546Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14059,8 +14059,8 @@
     "name":"EXOCONNECT",
     "names":"D-Star One Exoconnect",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-17T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/space.skyrocket.de\/doc_sdat\/d-star-one.htm",
@@ -14069,8 +14069,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T15:49:53.507173Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-28T06:15:16.224694Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14489,7 +14489,7 @@
   {
     "sat_id":"SXFL-2149-3788-0081-7121",
     "norad_cat_id":99943.0,
-    "norad_follow_id":43851.0,
+    "norad_follow_id":43858.0,
     "name":"CubeSail-1",
     "names":"",
     "image":"",
@@ -14503,8 +14503,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:43.095848Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-10-28T06:19:43.042475Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14513,7 +14513,7 @@
   {
     "sat_id":"BTHV-9058-5312-7503-1062",
     "norad_cat_id":99944.0,
-    "norad_follow_id":43851.0,
+    "norad_follow_id":43862.0,
     "name":"NMTSat",
     "names":"WM9XLJ",
     "image":"",
@@ -14527,8 +14527,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-18T12:00:11.112450Z",
-    "citation":"https:\/\/community.libre.space\/t\/new-satellites-plan-for-electron-curie-launch-on-december-16th\/2989\/7",
+    "updated":"2023-10-28T06:18:55.210885Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16600,8 +16600,8 @@
     "name":"ET-SMART-RSS",
     "names":"EthSat6U",
     "image":"satellites\/et-smart-rss__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-21T00:00:00Z",
     "launched":"2020-12-22T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16610,8 +16610,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-18T06:49:06.722762Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2023-10-28T06:13:08.735760Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17056,8 +17056,8 @@
     "name":"STORK-5",
     "names":"MARTA",
     "image":"satellites\/stork-1__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-22T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -17066,8 +17066,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-20T17:24:43.998880Z",
-    "citation":"Eelke Survey",
+    "updated":"2023-10-28T06:12:27.075888Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18174,8 +18174,8 @@
     "name":"WISeSAT-2",
     "names":"FossaSat-2E2",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-06-25T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/fossa.systems\/",
@@ -18184,8 +18184,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:05.883690Z",
-    "citation":"https:\/\/fossa.systems\/",
+    "updated":"2023-10-28T06:11:25.600770Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18270,8 +18270,8 @@
     "name":"FossaSat-2E6",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-06-29T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/fossa.systems\/",
@@ -18280,8 +18280,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:05.817441Z",
-    "citation":"https:\/\/fossa.systems\/",
+    "updated":"2023-10-28T06:11:49.139833Z",
+    "citation":"Celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -21244,16 +21244,16 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2022-05-23T00:00:00Z",
+    "launched":null,
     "deployed":null,
-    "website":"https:\/\/fossa.systems\/",
+    "website":"",
     "operator":"None",
-    "countries":"ES",
+    "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:05.773255Z",
-    "citation":"https:\/\/fossa.systems\/",
+    "updated":"2023-10-28T06:10:45.321155Z",
+    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24202,8 +24202,8 @@
     "name":"STORK-3",
     "names":"",
     "image":"satellites\/stork-1__1_0lvVYBH.jpg",
-    "status":"alive",
-    "decayed":"2023-08-27T00:00:00Z",
+    "status":"re-entered",
+    "decayed":"2023-08-29T00:00:00Z",
     "launched":"2022-01-13T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -24212,7 +24212,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-05T21:12:15.758864Z",
+    "updated":"2023-10-28T06:10:36.775146Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -28076,8 +28076,8 @@
     "name":"CZ-2D DEB",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-08-26T11:35:00Z",
     "launched":"2022-10-14T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28086,8 +28086,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-07T09:01:02.210850Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/23",
+    "updated":"2023-10-28T06:09:56.829121Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29232,8 +29232,8 @@
     "name":"OBJECT B",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-24T16:53:00Z",
     "launched":"2022-11-27T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -29242,8 +29242,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-03T23:41:37.071824Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/29",
+    "updated":"2023-10-28T06:09:14.534035Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29954,8 +29954,8 @@
     "name":"Global-7",
     "names":"BlackSky 5",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-23T00:00:00Z",
     "launched":"2020-08-07T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -29964,8 +29964,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-12T12:37:33.841543Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/40",
+    "updated":"2023-10-28T06:07:59.574661Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31709,8 +31709,8 @@
     "name":"LightCube",
     "names":"KJ7TZG",
     "image":"satellites\/lightcube.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-17T00:00:00Z",
     "launched":null,
     "deployed":"2023-04-24T12:05:00Z",
     "website":"https:\/\/interplanetarylab.github.io\/missions\/Lightcube",
@@ -31719,8 +31719,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:05.690673Z",
-    "citation":"https:\/\/lightcube.space\/",
+    "updated":"2023-10-28T06:06:53.001452Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35194,8 +35194,8 @@
     "name":"COSMOS 2542",
     "names":"2019-079A",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-10-24T00:00:00Z",
     "launched":"2019-11-25T00:00:00Z",
     "deployed":"2019-11-25T00:00:00Z",
     "website":"",
@@ -35204,8 +35204,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-29T18:56:09.854188Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1QCf9J6tlD7NEaAT30QYWyGvYPbNP6cbj-eJS83AlnLM\/edit?usp=sharing",
+    "updated":"2023-10-28T06:04:14.932716Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38600,20 +38600,20 @@
     "norad_cat_id":99029.0,
     "norad_follow_id":null,
     "name":"Parus-MGTU",
-    "names":"\u041f\u0430\u0440\u0443\u0441-\u041c\u0413\u0422\u0423",
+    "names":"\u041f\u0430\u0440\u0443\u0441-\u041c\u0413\u0422\u0423, RS2S",
     "image":"satellites\/mka-parus-mgtu.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2023-10-25T00:00:00Z",
     "deployed":"2023-10-25T23:20:00Z",
-    "website":"",
+    "website":"https:\/\/bsail.ru\/?page_id=343&lang=ru",
     "operator":"None",
     "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2023-10-25T18:08:59.026978Z",
-    "citation":"Keep TLE at deployment time and fix deployment time to be at UTC",
+    "updated":"2023-10-28T05:56:31.415980Z",
+    "citation":"https:\/\/bsail.ru\/wp-content\/uploads\/2017\/03\/17004_Paper_Mr.-Nikolay-Nerovny-1.pdf",
     "is_frequency_violator":false,
     "associated_satellites":[
 
