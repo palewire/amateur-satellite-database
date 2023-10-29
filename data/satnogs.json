@@ -38618,5 +38618,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"BHPC-7238-8269-4730-8903",
+    "norad_cat_id":48914.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X12",
+    "names":"2012-059AM",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":"2021-06-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-28T13:26:03.402342Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Dll3x4uhR4izZxuVsM4i72GUljzPUO2WWlpw2t0agJ8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
