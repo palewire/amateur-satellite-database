@@ -11186,14 +11186,14 @@
     "decayed":null,
     "launched":"2020-11-20T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/unseenlabs.space\/",
     "operator":"None",
     "countries":"FR",
     "telemetries":[
 
     ],
-    "updated":"2022-07-03T09:00:27.704874Z",
-    "citation":"Eelke Survey",
+    "updated":"2023-10-29T11:37:33.453657Z",
+    "citation":"Add website, same as the other BROs",
     "is_frequency_violator":false,
     "associated_satellites":[
       "JMGF-6622-7201-2101-2345"
@@ -14951,9 +14951,9 @@
     "sat_id":"KTHL-8173-4603-8149-6885",
     "norad_cat_id":49066.0,
     "norad_follow_id":null,
-    "name":"BRO 4",
+    "name":"BRO-4",
     "names":"",
-    "image":"satellites\/bro-1__1.jpg",
+    "image":"satellites\/bro-1__1_DrWgqP6.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2021-08-17T00:00:00Z",
@@ -14964,8 +14964,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T14:12:07.550742Z",
-    "citation":"https:\/\/unseenlabs.space\/",
+    "updated":"2023-10-29T11:37:55.034787Z",
+    "citation":"Own STRF observations",
     "is_frequency_violator":false,
     "associated_satellites":[
       "NYVP-8844-0412-5463-4956"
