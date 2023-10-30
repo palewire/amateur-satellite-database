@@ -38141,8 +38141,8 @@
   },
   {
     "sat_id":"JLVL-3609-6878-3879-9628",
-    "norad_cat_id":99041.0,
-    "norad_follow_id":58023.0,
+    "norad_cat_id":58023.0,
+    "norad_follow_id":null,
     "name":"PRETTY",
     "names":"Passive REflecTomeTry and dosimetrY",
     "image":"satellites\/b65bf44f-02f2-4316-872f-a27422f4fe88.jpg",
@@ -38156,11 +38156,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-18T19:57:33.910898Z",
-    "citation":"PRETTY Team: We believe PRETTY is the Object H (TBC in the coming days)",
+    "updated":"2023-10-30T07:13:13.697532Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58023\/2023-10-29T10%3A27%3A54_8405505_58023_23155H_0-OBJECT-H_0.7139505033333648_A_r77.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "GWEE-7549-1991-6467-0607"
     ]
   },
   {
@@ -38237,8 +38237,8 @@
   },
   {
     "sat_id":"NTXV-3568-8556-1732-1226",
-    "norad_cat_id":99038.0,
-    "norad_follow_id":58025.0,
+    "norad_cat_id":58025.0,
+    "norad_follow_id":null,
     "name":"PVCC",
     "names":"VGT-CC, PROBA-V-CC",
     "image":"",
@@ -38252,8 +38252,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-13T00:49:38.410114Z",
-    "citation":"https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/42",
+    "updated":"2023-10-30T06:56:37.068692Z",
+    "citation":"space-track.org | https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/42 | https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/45 | https:\/\/community.libre.space\/t\/vega-vv23-2023-10-09-01-36-utc\/10895\/49",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38638,6 +38638,54 @@
     ],
     "updated":"2023-10-28T13:26:03.402342Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1Dll3x4uhR4izZxuVsM4i72GUljzPUO2WWlpw2t0agJ8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"APQS-1800-5981-4551-3856",
+    "norad_cat_id":99028.0,
+    "norad_follow_id":null,
+    "name":"KAFASAT",
+    "names":"Korea Air Force Academy Satellite",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-30T06:41:47.563579Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZUPC-4545-0225-3537-3322",
+    "norad_cat_id":99027.0,
+    "norad_follow_id":null,
+    "name":"DJIBOUTI-1A",
+    "names":"None",
+    "image":"satellites\/photo1698580525.jpeg",
+    "status":"future",
+    "decayed":"2026-03-31T00:00:00Z",
+    "launched":"2023-11-07T00:00:00Z",
+    "deployed":"2023-11-07T00:00:00Z",
+    "website":"https:\/\/spatialdjiboutien.net\/",
+    "operator":"None",
+    "countries":"DJ",
+    "telemetries":[
+
+    ],
+    "updated":"2023-10-30T10:44:04.190806Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
