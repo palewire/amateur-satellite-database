@@ -38649,7 +38649,7 @@
     "norad_follow_id":null,
     "name":"KAFASAT",
     "names":"Korea Air Force Academy Satellite",
-    "image":"",
+    "image":"satellites\/Kafasat.jpg",
     "status":"future",
     "decayed":null,
     "launched":"2023-11-07T00:00:00Z",
@@ -38660,8 +38660,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-30T06:41:47.563579Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-10-30T16:07:08.097064Z",
+    "citation":"kafasat",
     "is_frequency_violator":false,
     "associated_satellites":[
 
