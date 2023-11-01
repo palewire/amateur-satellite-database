@@ -19001,10 +19001,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -24247,8 +24247,8 @@
     "sat_id":"TRPL-5967-8308-1579-8630",
     "norad_cat_id":53367.0,
     "norad_follow_id":null,
-    "name":"Object A",
-    "names":"",
+    "name":"Ping'an 3",
+    "names":"Object A",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -24260,8 +24260,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-20T21:58:05.213312Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-11-01T10:43:57.843828Z",
+    "citation":"JM",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29903,8 +29903,8 @@
     "sat_id":"PTJG-8940-7559-1151-9568",
     "norad_cat_id":55260.0,
     "norad_follow_id":null,
-    "name":"Object N",
-    "names":"2023-007N",
+    "name":"Jin Zijing 4",
+    "names":"2023-007N, Object N",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -29916,8 +29916,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-08T15:10:48.238213Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1aO0LfVYwL6PoLlewWy2yPjLiwyMYIUOTxkyBFHyMhr0\/edit?usp=sharing",
+    "updated":"2023-11-01T10:37:17.744952Z",
+    "citation":"https:\/\/planet4589.org\/space\/gcat\/data\/derived\/currentcat.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38598,7 +38598,7 @@
   {
     "sat_id":"ZFWW-4105-8005-8470-1991",
     "norad_cat_id":99029.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58173.0,
     "name":"Parus-MGTU",
     "names":"\u041f\u0430\u0440\u0443\u0441-\u041c\u0413\u0422\u0423, RS2S",
     "image":"satellites\/mka-parus-mgtu.jpg",
@@ -38612,8 +38612,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-28T05:56:31.415980Z",
-    "citation":"https:\/\/bsail.ru\/wp-content\/uploads\/2017\/03\/17004_Paper_Mr.-Nikolay-Nerovny-1.pdf",
+    "updated":"2023-11-01T11:03:50.072993Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 

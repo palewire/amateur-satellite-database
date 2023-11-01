@@ -8222,7 +8222,7 @@
     "uplink":"435.310",
     "downlink":"435.190",
     "beacon":null,
-    "mode":"1k2\/9k6 GMSK Digipeater",
+    "mode":"1k2\/9k6* FSK Digipeater",
     "callsign":null,
     "status":"active",
     "satnogs_id":"JLZT-0277-4784-7719-1707"

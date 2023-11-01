@@ -746,7 +746,7 @@ LAPAN-A2,40931,145.880/145.825,435.880/145.825,437.425,1k2*AFSK FM tone 88.5Hz,Y
 LAPAN-A3,41603,,437.425,,1200bps FFSK,,non-amateur,BLNH-6149-6607-6959-8042
 LARES,38077,,,,,,non-amateur,
 LBSat,23607,,137.955,,,,unknown,
-LEDSAT,49069,435.310,435.190,,1k2/9k6 GMSK Digipeater,,active,JLZT-0277-4784-7719-1707
+LEDSAT,49069,435.310,435.190,,1k2/9k6* FSK Digipeater,,active,JLZT-0277-4784-7719-1707
 Lemur-2 (Spacegus),56187,,402.790,,,,unknown,
 Lemur-2 (OnReflection 164),56182,,,,,,unknown,
 Lemur-2 (Romeo-n-Leo 165),56206,,402.788,,FM,,unknown,
