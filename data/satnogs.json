@@ -38690,5 +38690,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"PESZ-7984-6069-0897-0863",
+    "norad_cat_id":99026.0,
+    "norad_follow_id":null,
+    "name":"JINJUSat-1",
+    "names":"",
+    "image":"satellites\/JINJUSat-1.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-09T00:00:00Z",
+    "deployed":"2023-11-09T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-02T10:48:33.766718Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
