@@ -19224,10 +19224,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -38724,7 +38724,7 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2023-11-07T20:00:00Z",
+    "launched":"2023-11-07T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -38732,8 +38732,320 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-02T12:50:36.898643Z",
-    "citation":"Update the name",
+    "updated":"2023-11-03T08:29:57.925849Z",
+    "citation":"Changed launch datetime",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LWBI-4017-4701-3501-2198",
+    "norad_cat_id":99024.0,
+    "norad_follow_id":null,
+    "name":"Apogeo Space 1",
+    "names":"PICO-1A-1",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.apogeo.space",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:01:02.349035Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TUNR-5974-2093-6230-0338",
+    "norad_cat_id":99023.0,
+    "norad_follow_id":null,
+    "name":"Apogeo Space 2",
+    "names":"PICO-1A-2",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.apogeo.space",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:01:02.344310Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PHPX-4103-0112-1712-7263",
+    "norad_cat_id":99022.0,
+    "norad_follow_id":null,
+    "name":"Apogeo Space 3",
+    "names":"PICO-1A-3",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.apogeo.space",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:01:02.339447Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WVNL-8804-2734-6393-2172",
+    "norad_cat_id":99021.0,
+    "norad_follow_id":null,
+    "name":"Apogeo Space 4",
+    "names":"PICO-1A-4",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.apogeo.space",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:01:02.334430Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YBFZ-1846-0530-7585-5275",
+    "norad_cat_id":99020.0,
+    "norad_follow_id":null,
+    "name":"Apogeo Space 5",
+    "names":"PICO-1A-5",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.apogeo.space",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:01:02.329386Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JJVJ-8006-8017-7636-7141",
+    "norad_cat_id":99019.0,
+    "norad_follow_id":null,
+    "name":"Apogeo Space 6",
+    "names":"PICO-1A-6",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.apogeo.space",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:01:02.324408Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OULJ-5315-8438-7012-4466",
+    "norad_cat_id":99017.0,
+    "norad_follow_id":null,
+    "name":"Apogeo Space 8",
+    "names":"PICO-1A-8",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.apogeo.space",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:01:02.319416Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FVGF-6040-9381-6877-1772",
+    "norad_cat_id":99018.0,
+    "norad_follow_id":null,
+    "name":"Apogeo Space 7",
+    "names":"PICO-1A-7",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.apogeo.space",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:01:02.314311Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MUZU-0416-9008-4872-3879",
+    "norad_cat_id":99016.0,
+    "norad_follow_id":null,
+    "name":"Apogeo Space 9",
+    "names":"PICO-1A-9",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.apogeo.space",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:01:02.308864Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XKOW-1773-2303-4677-5564",
+    "norad_cat_id":99015.0,
+    "norad_follow_id":null,
+    "name":"Sateliot 1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:30:51.720069Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RXGK-5478-2795-8497-0753",
+    "norad_cat_id":99014.0,
+    "norad_follow_id":null,
+    "name":"Sateliot 2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:30:51.711300Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DBDL-2985-5402-8531-7144",
+    "norad_cat_id":99013.0,
+    "norad_follow_id":null,
+    "name":"Sateliot 3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:30:51.702909Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JQHM-8127-3513-9403-7150",
+    "norad_cat_id":99012.0,
+    "norad_follow_id":null,
+    "name":"Sateliot 4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T08:30:51.695798Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
