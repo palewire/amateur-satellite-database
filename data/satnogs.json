@@ -31033,20 +31033,20 @@
     "norad_cat_id":26857.0,
     "norad_follow_id":null,
     "name":"ICO F2",
-    "names":"OMNI-M1",
+    "names":"OmniSpace F2; 2001-026A",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2001-06-19T00:00:00Z",
     "deployed":"2001-06-19T00:00:00Z",
-    "website":"",
+    "website":"https:\/\/omnispace.com\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-10-03T05:50:00.054728Z",
-    "citation":"space-track.org",
+    "updated":"2023-11-03T16:04:30.524216Z",
+    "citation":"na",
     "is_frequency_violator":false,
     "associated_satellites":[
       "PVCQ-6126-5860-5509-4433"
@@ -38532,7 +38532,7 @@
     "image":"satellites\/connecta_T_3_1_.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":"2023-11-07T00:00:00Z",
+    "launched":"2023-11-07T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
@@ -38540,8 +38540,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-24T10:53:21.222250Z",
-    "citation":"-",
+    "updated":"2023-11-03T15:16:43.548475Z",
+    "citation":"Add launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38556,7 +38556,7 @@
     "image":"satellites\/connecta_T_3_2_.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":"2023-11-07T00:00:00Z",
+    "launched":"2023-11-07T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
@@ -38564,8 +38564,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-24T10:52:35.148860Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2023-11-03T15:17:02.202715Z",
+    "citation":"Add launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38675,17 +38675,17 @@
     "names":"None",
     "image":"satellites\/photo1698580525.jpeg",
     "status":"future",
-    "decayed":"2026-03-31T00:00:00Z",
-    "launched":"2023-11-07T00:00:00Z",
-    "deployed":"2023-11-07T00:00:00Z",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
     "website":"https:\/\/spatialdjiboutien.net\/",
     "operator":"None",
     "countries":"DJ",
     "telemetries":[
 
     ],
-    "updated":"2023-10-30T10:44:04.190806Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-11-03T15:27:52.770183Z",
+    "citation":"Fix Launch\/Deploy\/Re-entry dates",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39045,6 +39045,126 @@
 
     ],
     "updated":"2023-11-03T08:30:51.695798Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QFRO-8807-8086-2793-1420",
+    "norad_cat_id":99011.0,
+    "norad_follow_id":null,
+    "name":"SpIRIT",
+    "names":"",
+    "image":"satellites\/spirit.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/spirit.research.unimelb.edu.au\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T09:06:12.831409Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/267",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QDDY-8878-5291-1819-3935",
+    "norad_cat_id":99010.0,
+    "norad_follow_id":null,
+    "name":"Barry-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/rogue.space\/missions\/barry-1\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T15:21:07.799688Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BSTS-8626-7603-3020-3063",
+    "norad_cat_id":99009.0,
+    "norad_follow_id":null,
+    "name":"PEARL",
+    "names":"Foxconn",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T15:46:21.795131Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0 and https:\/\/twitter.com\/HonHai_Foxconn\/status\/1720259668252230096 and https:\/\/www.digitimes.com\/news\/a20231019PD201\/foxconn-pearl-cubesat-hon-hai-research-institute-spacex.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XPKL-0131-3921-6138-6792",
+    "norad_cat_id":99008.0,
+    "norad_follow_id":null,
+    "name":"Mango 2A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T16:46:54.662141Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NUNG-8240-6931-0035-5147",
+    "norad_cat_id":99007.0,
+    "norad_follow_id":null,
+    "name":"Mango 2B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-03T16:46:58.404765Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
     "is_frequency_violator":false,
     "associated_satellites":[
