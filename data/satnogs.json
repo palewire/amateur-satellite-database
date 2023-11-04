@@ -38652,16 +38652,16 @@
     "image":"satellites\/Kafasat.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-07T00:00:00Z",
-    "deployed":null,
+    "launched":"2023-11-09T18:49:00Z",
+    "deployed":"2023-11-09T20:09:20Z",
     "website":"",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2023-10-30T16:07:08.097064Z",
-    "citation":"kafasat",
+    "updated":"2023-11-04T02:02:27.601238Z",
+    "citation":"Citation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38700,16 +38700,16 @@
     "image":"satellites\/JINJUSat-1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T00:00:00Z",
-    "deployed":"2023-11-09T00:00:00Z",
+    "launched":"2023-11-09T18:49:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-02T10:48:33.766718Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-11-04T11:47:07.641690Z",
+    "citation":"Fix launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39127,10 +39127,10 @@
     "sat_id":"XPKL-0131-3921-6138-6792",
     "norad_cat_id":99008.0,
     "norad_follow_id":null,
-    "name":"Mango 2A",
+    "name":"Lemur 2 - Mango 2A",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-11-07T18:47:00Z",
     "deployed":null,
@@ -39140,8 +39140,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-03T16:46:54.662141Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-04T10:33:01.907814Z",
+    "citation":"https:\/\/apps.fcc.gov\/els\/GetAtt.html?id=328833&x=.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39151,10 +39151,10 @@
     "sat_id":"NUNG-8240-6931-0035-5147",
     "norad_cat_id":99007.0,
     "norad_follow_id":null,
-    "name":"Mango 2B",
+    "name":"Lemur 2 - Mango 2B",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-11-07T18:47:00Z",
     "deployed":null,
@@ -39164,8 +39164,56 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-03T16:46:58.404765Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-04T10:32:56.911331Z",
+    "citation":"https:\/\/apps.fcc.gov\/els\/GetAtt.html?id=328833&x=.",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XDGK-2258-4817-3668-2837",
+    "norad_cat_id":16625.0,
+    "norad_follow_id":null,
+    "name":"USA 17",
+    "names":"1986-014F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"1986-02-09T00:00:00Z",
+    "deployed":"1986-02-09T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T09:38:54.835760Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1RaTSol-p61txJAYg6MELZaq0SpGHtEAM-jIJY0Rksi0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PKGB-3275-7461-6204-6903",
+    "norad_cat_id":98000.0,
+    "norad_follow_id":16625.0,
+    "name":"Unidentified",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T09:47:52.988714Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1RaTSol-p61txJAYg6MELZaq0SpGHtEAM-jIJY0Rksi0\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
