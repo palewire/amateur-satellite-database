@@ -36972,7 +36972,7 @@
     "image":"satellites\/veronika.jpg",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-11-07T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -36980,8 +36980,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-07T11:40:49.761053Z",
-    "citation":"Fix status",
+    "updated":"2023-11-04T16:30:54.682311Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0 and https:\/\/www.spacemanic.com\/missions\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38710,7 +38710,7 @@
     ],
     "updated":"2023-11-04T11:47:07.641690Z",
     "citation":"Fix launch date",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -39106,7 +39106,7 @@
     "name":"PEARL",
     "names":"Foxconn",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-11-07T18:47:00Z",
     "deployed":null,
@@ -39116,8 +39116,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-03T15:46:21.795131Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0 and https:\/\/twitter.com\/HonHai_Foxconn\/status\/1720259668252230096 and https:\/\/www.digitimes.com\/news\/a20231019PD201\/foxconn-pearl-cubesat-hon-hai-research-institute-spacex.html",
+    "updated":"2023-11-04T15:05:27.284850Z",
+    "citation":"Fix status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39214,6 +39214,294 @@
     ],
     "updated":"2023-11-04T09:47:52.988714Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1RaTSol-p61txJAYg6MELZaq0SpGHtEAM-jIJY0Rksi0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EFKE-9029-5731-3387-7544",
+    "norad_cat_id":99006.0,
+    "norad_follow_id":null,
+    "name":"NinjaSat",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T15:07:51.176621Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MHAO-0598-9456-4702-5334",
+    "norad_cat_id":99005.0,
+    "norad_follow_id":null,
+    "name":"Outpost Mission 2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T15:08:10.296151Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JRGY-6734-9744-8857-6516",
+    "norad_cat_id":99004.0,
+    "norad_follow_id":null,
+    "name":"ProtoM\u00e9th\u00e9e-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T16:06:28.339937Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BKIY-3032-2869-4485-1697",
+    "norad_cat_id":99002.0,
+    "norad_follow_id":null,
+    "name":"BRO-11",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/unseenlabs.space\/",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T16:24:49.760000Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BISO-5259-3723-1730-8460",
+    "norad_cat_id":99003.0,
+    "norad_follow_id":null,
+    "name":"BRO-10",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/unseenlabs.space\/",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T16:24:46.285334Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KRWU-0654-8962-9038-6960",
+    "norad_cat_id":99001.0,
+    "norad_follow_id":null,
+    "name":"SpaceVan",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T16:59:14.730159Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CGXQ-2433-2880-3773-9698",
+    "norad_cat_id":99000.0,
+    "norad_follow_id":null,
+    "name":"AMAN-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T18:04:04.983171Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GHVJ-2984-9764-1213-3491",
+    "norad_cat_id":98999.0,
+    "norad_follow_id":null,
+    "name":"Hello Test 2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T18:19:17.447084Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VGMH-9430-4932-2954-7179",
+    "norad_cat_id":98998.0,
+    "norad_follow_id":null,
+    "name":"Hello Test 1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T18:18:29.228899Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ERND-3130-4406-9124-6149",
+    "norad_cat_id":98997.0,
+    "norad_follow_id":null,
+    "name":"Picacho",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T18:32:21.061983Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OOYQ-2133-7925-7790-1283",
+    "norad_cat_id":98996.0,
+    "norad_follow_id":null,
+    "name":"ROM-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/rom-space.ro\/",
+    "operator":"None",
+    "countries":"RO",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T18:44:24.215816Z",
+    "citation":"Fix temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MYSZ-0041-3878-3705-7860",
+    "norad_cat_id":98995.0,
+    "norad_follow_id":null,
+    "name":"SPACEANT-D",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/spacein.com.my\/",
+    "operator":"None",
+    "countries":"MY",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-04T18:54:31.232745Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
