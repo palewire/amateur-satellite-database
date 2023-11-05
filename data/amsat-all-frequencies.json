@@ -10523,7 +10523,7 @@
     "beacon":null,
     "mode":"9k6\/12k0 FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11104,7 +11104,7 @@
     "uplink":null,
     "downlink":"137.500\/137.740*",
     "beacon":null,
-    "mode":"FM",
+    "mode":"38k4 GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"JLVL-3609-6878-3879-9628"
