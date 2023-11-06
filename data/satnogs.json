@@ -39060,7 +39060,7 @@
     "image":"satellites\/spirit.png",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-07T18:47:00Z",
+    "launched":"2023-11-30T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/spirit.research.unimelb.edu.au\/",
     "operator":"None",
@@ -39068,8 +39068,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-03T09:06:12.831409Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/267",
+    "updated":"2023-11-06T08:04:11.687616Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/267#note_1634870861",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39393,22 +39393,22 @@
     "norad_follow_id":null,
     "name":"Hello Test 2",
     "names":"",
-    "image":"",
+    "image":"satellites\/hello1_2_R3f9T3s.jpeg",
     "status":"future",
     "decayed":null,
     "launched":"2023-11-07T18:47:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.hellospace.ist",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-04T18:19:17.447084Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-06T10:15:53.275343Z",
+    "citation":"Fix typo in description",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "NYYP-9157-8028-1999-7228"
     ]
   },
   {
@@ -39417,22 +39417,22 @@
     "norad_follow_id":null,
     "name":"Hello Test 1",
     "names":"",
-    "image":"",
+    "image":"satellites\/hello1_2_r8VeTih.jpeg",
     "status":"future",
     "decayed":null,
     "launched":"2023-11-07T18:47:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.hellospace.ist",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-04T18:18:29.228899Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-06T10:15:33.736734Z",
+    "citation":"Fix typo in description",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "YRKL-5394-8316-1446-0991"
     ]
   },
   {
