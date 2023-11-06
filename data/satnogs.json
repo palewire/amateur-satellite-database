@@ -26265,7 +26265,7 @@
   {
     "sat_id":"VBHK-6559-1335-8544-4252",
     "norad_cat_id":99272.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55050.0,
     "name":"Umbra 04",
     "names":"",
     "image":"satellites\/Umbra-satellite2_HvGxkOz.png",
@@ -26279,8 +26279,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:11:40.468042Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.0",
+    "updated":"2023-11-05T19:18:26.707416Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26289,7 +26289,7 @@
   {
     "sat_id":"PECP-7624-9468-5114-8950",
     "norad_cat_id":99273.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55036.0,
     "name":"Umbra 05",
     "names":"",
     "image":"satellites\/Umbra-satellite2_qOxpVmL.png",
@@ -26303,8 +26303,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:11:40.441955Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.0",
+    "updated":"2023-11-05T19:18:49.908970Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38530,7 +38530,7 @@
     "name":"Connecta T3.1",
     "names":"",
     "image":"satellites\/connecta_T_3_1_.jpg",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-11-07T18:47:00Z",
     "deployed":null,
@@ -38540,8 +38540,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-03T15:16:43.548475Z",
-    "citation":"Add launch date",
+    "updated":"2023-11-05T19:29:54.255776Z",
+    "citation":"Fix status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39501,6 +39501,198 @@
 
     ],
     "updated":"2023-11-04T18:54:31.232745Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VJRG-4563-6320-7277-2016",
+    "norad_cat_id":98994.0,
+    "norad_follow_id":null,
+    "name":"GENMAT-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-05T15:52:27.471941Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZPXA-7109-5221-3293-0780",
+    "norad_cat_id":98993.0,
+    "norad_follow_id":null,
+    "name":"Intuition-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-09T18:47:00Z",
+    "deployed":null,
+    "website":"https:\/\/kplabs.space",
+    "operator":"None",
+    "countries":"PL",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-05T16:52:21.012366Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MSCV-4284-6531-0061-0912",
+    "norad_cat_id":98992.0,
+    "norad_follow_id":null,
+    "name":"MuSat-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-05T17:40:20.376066Z",
+    "citation":"https:\/\/spacenews.com\/muon-wins-option-to-monitor-ionosphere-for-space-force\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JBCY-3361-2959-8110-3669",
+    "norad_cat_id":98991.0,
+    "norad_follow_id":null,
+    "name":"OMNI-LER1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-09T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-05T17:30:11.135411Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DVFP-5425-6818-1482-0056",
+    "norad_cat_id":98990.0,
+    "norad_follow_id":null,
+    "name":"OSW Cazorla",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-09T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-05T17:50:59.893184Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OVKA-4100-6086-6292-8946",
+    "norad_cat_id":98989.0,
+    "norad_follow_id":null,
+    "name":"STORK-7",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"PL",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-05T18:57:29.664357Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GOQR-1760-0521-1027-1985",
+    "norad_cat_id":98988.0,
+    "norad_follow_id":null,
+    "name":"UMBRA 07",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-07T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-05T19:24:20.777680Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LGHP-5450-2821-1755-7868",
+    "norad_cat_id":98987.0,
+    "norad_follow_id":null,
+    "name":"UMBRA 08",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-09T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-05T19:24:16.353647Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
     "is_frequency_violator":false,
     "associated_satellites":[
