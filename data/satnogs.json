@@ -19001,10 +19001,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -38652,15 +38652,15 @@
     "image":"satellites\/Kafasat.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:49:00Z",
-    "deployed":"2023-11-09T20:09:20Z",
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T20:09:20Z",
     "website":"",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-04T02:02:27.601238Z",
+    "updated":"2023-11-07T08:34:04.904120Z",
     "citation":"Citation",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -38700,16 +38700,16 @@
     "image":"satellites\/JINJUSat-1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:49:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:48:00Z",
     "website":"",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-04T11:47:07.641690Z",
-    "citation":"Fix launch date",
+    "updated":"2023-11-07T08:33:08.743742Z",
+    "citation":"Launch Date & Deploy Date update",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39790,6 +39790,30 @@
     ],
     "updated":"2023-11-06T16:56:36.756547Z",
     "citation":"https:\/\/www.amsat-ea.org\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HOUO-8931-7668-8270-3169",
+    "norad_cat_id":43613.0,
+    "norad_follow_id":null,
+    "name":"ICESat-2",
+    "names":"Ice, Cloud and land Elevation Satellite 2",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-08-15T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-07T08:33:22.681067Z",
+    "citation":"NASA",
     "is_frequency_violator":false,
     "associated_satellites":[
 
