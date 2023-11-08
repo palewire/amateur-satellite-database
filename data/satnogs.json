@@ -12149,8 +12149,8 @@
     "sat_id":"DZKC-2045-5925-0631-5801",
     "norad_cat_id":47961.0,
     "norad_follow_id":null,
-    "name":"Sateliot-1",
-    "names":"3B5GSAT",
+    "name":"3B5GSAT",
+    "names":"Sateliot-1",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -12162,8 +12162,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-09-16T07:20:16.001612Z",
-    "citation":"http:\/\/n2yo.com\/satellite\/?s=47961",
+    "updated":"2023-11-07T15:24:14.876965Z",
+    "citation":"Change name to avoid confusion",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36972,7 +36972,7 @@
     "image":"satellites\/veronika.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -36980,8 +36980,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.404645Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.989307Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38532,7 +38532,7 @@
     "image":"satellites\/connecta_T_3_1_.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
@@ -38540,8 +38540,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.408826Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.971223Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38556,7 +38556,7 @@
     "image":"satellites\/connecta_T_3_2_.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
@@ -38564,8 +38564,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:25:41.512867Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.819127Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38676,7 +38676,7 @@
     "image":"satellites\/photo1698580525.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/spatialdjiboutien.net\/",
     "operator":"None",
@@ -38684,8 +38684,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:36:20.633214Z",
-    "citation":"Update other names field",
+    "updated":"2023-11-07T13:39:15.854575Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38724,7 +38724,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -38732,8 +38732,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:25:40.962591Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.865963Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38748,7 +38748,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38756,8 +38756,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.446376Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.923459Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38772,7 +38772,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38780,8 +38780,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.450333Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.885621Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38796,7 +38796,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38804,8 +38804,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.454176Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.895284Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38820,7 +38820,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38828,8 +38828,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.461831Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.870768Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38844,7 +38844,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38852,8 +38852,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.458022Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.828061Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38868,7 +38868,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38876,8 +38876,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.465620Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.966798Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38892,7 +38892,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38900,8 +38900,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.473294Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.899661Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38916,7 +38916,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38924,8 +38924,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.469503Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.984660Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38940,7 +38940,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38948,8 +38948,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.477100Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.913612Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38964,7 +38964,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -38972,8 +38972,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.480937Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.838152Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38988,7 +38988,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -38996,8 +38996,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.484714Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.842977Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39012,7 +39012,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39020,8 +39020,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.488649Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:16.006615Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39036,7 +39036,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39044,8 +39044,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.492453Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.957837Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39084,7 +39084,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/rogue.space\/missions\/barry-1\/",
     "operator":"None",
@@ -39092,8 +39092,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.496403Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.890458Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39108,7 +39108,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39116,8 +39116,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.500344Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:16.015705Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39132,7 +39132,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39140,8 +39140,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.504519Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.833184Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39156,7 +39156,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39164,8 +39164,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.508307Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.847840Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39228,7 +39228,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39236,8 +39236,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.512020Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.998109Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39252,7 +39252,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39260,8 +39260,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.515908Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.918353Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39276,7 +39276,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39284,8 +39284,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.519652Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.953069Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39300,7 +39300,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/unseenlabs.space\/",
     "operator":"None",
@@ -39308,8 +39308,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.527236Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:16.020352Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39324,7 +39324,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/unseenlabs.space\/",
     "operator":"None",
@@ -39332,8 +39332,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.523430Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:16.024947Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39348,7 +39348,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39356,8 +39356,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:25:40.349641Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.932505Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39372,7 +39372,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39380,8 +39380,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.530963Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:16.010990Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39396,7 +39396,7 @@
     "image":"satellites\/hello1_2_R3f9T3s.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.hellospace.ist",
     "operator":"None",
@@ -39404,8 +39404,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:25:40.309553Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.980194Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
       "NYYP-9157-8028-1999-7228"
@@ -39420,7 +39420,7 @@
     "image":"satellites\/hello1_2_r8VeTih.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.hellospace.ist",
     "operator":"None",
@@ -39428,8 +39428,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:25:39.173672Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.880927Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YRKL-5394-8316-1446-0991"
@@ -39444,7 +39444,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39452,8 +39452,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:25:38.587551Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.993815Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39468,7 +39468,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/rom-space.ro\/",
     "operator":"None",
@@ -39476,8 +39476,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:21:10.399754Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.903859Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39492,7 +39492,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/spacein.com.my\/",
     "operator":"None",
@@ -39500,8 +39500,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:25:38.007463Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.908633Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39516,7 +39516,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39524,8 +39524,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:25:37.095113Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.876013Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39540,7 +39540,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/kplabs.space",
     "operator":"None",
@@ -39548,8 +39548,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-05T16:52:21.012366Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.860493Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39588,7 +39588,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39596,8 +39596,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-05T17:30:11.135411Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.962430Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39612,7 +39612,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39620,8 +39620,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-05T17:50:59.893184Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:16.002356Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39660,7 +39660,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39668,8 +39668,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T15:25:42.529241Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.975831Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39684,7 +39684,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39692,8 +39692,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-05T19:24:16.353647Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-07T13:39:15.928052Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39778,9 +39778,9 @@
     "name":"HADES-D",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
-    "launched":"2023-11-09T18:47:00Z",
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39788,8 +39788,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T16:56:36.756547Z",
-    "citation":"https:\/\/www.amsat-ea.org\/",
+    "updated":"2023-11-07T13:41:05.737194Z",
+    "citation":"Fix status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
