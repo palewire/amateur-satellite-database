@@ -2250,16 +2250,6 @@
     "satnogs_id":"DBTP-4321-2218-3495-4829"
   },
   {
-    "name":"NEXUS",
-    "norad_id":"43937",
-    "uplink":"145.900-145.930",
-    "downlink":"435.910-435.880",
-    "beacon":"435.900\/437.075*",
-    "mode":"9k6\/38k4FSK pi\/4QPSK CW*",
-    "callsign":"JS1YAV",
-    "satnogs_id":"MCYZ-8515-1099-2288-3521"
-  },
-  {
     "name":"Norbi",
     "norad_id":"46494",
     "uplink":null,
