@@ -36660,7 +36660,7 @@
     "image":"satellites\/HERON_Mk_II.jpg",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-11-11T18:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.utat.ca\/space-systems",
     "operator":"None",
@@ -36668,8 +36668,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-31T09:46:09.438275Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/260#note_1493061329",
+    "updated":"2023-11-09T14:17:27.446122Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/5",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39080,7 +39080,7 @@
     "norad_cat_id":99010.0,
     "norad_follow_id":null,
     "name":"Barry-1",
-    "names":"",
+    "names":"B1B2",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -39092,8 +39092,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.890458Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-09T16:07:24.595498Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/11 and https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.msg2538515#msg2538515",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39103,8 +39103,8 @@
     "sat_id":"BSTS-8626-7603-3020-3063",
     "norad_cat_id":99009.0,
     "norad_follow_id":null,
-    "name":"PEARL",
-    "names":"Foxconn",
+    "name":"PEARL-1C",
+    "names":"",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -39112,13 +39112,13 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:16.015705Z",
-    "citation":"Update launch date",
-    "is_frequency_violator":false,
+    "updated":"2023-11-09T16:28:19.705818Z",
+    "citation":"Added country of origin",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -39537,7 +39537,7 @@
     "norad_follow_id":null,
     "name":"Intuition-1",
     "names":"",
-    "image":"",
+    "image":"satellites\/c8095440-15c5-404b-8c3a-b7909744af73.png",
     "status":"future",
     "decayed":null,
     "launched":"2023-11-11T18:47:00Z",
@@ -39548,8 +39548,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.860493Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-09T12:09:19.970186Z",
+    "citation":"From email discussion with the satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39814,6 +39814,54 @@
     ],
     "updated":"2023-11-07T08:33:22.681067Z",
     "citation":"NASA",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GLVU-3778-3036-0537-1969",
+    "norad_cat_id":98980.0,
+    "norad_follow_id":null,
+    "name":"PEARL-1H",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-11T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-09T16:28:28.837134Z",
+    "citation":"Added country of origin",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PRZP-7386-5227-9698-5175",
+    "norad_cat_id":98979.0,
+    "norad_follow_id":null,
+    "name":"Platform-5",
+    "names":"SHAREDSAT_22",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-11T18:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"BG",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-09T16:23:00.511970Z",
+    "citation":"https:\/\/www.itu.int\/ITU-R\/space\/asreceived\/Publication\/DisplayPublication\/52850",
     "is_frequency_violator":false,
     "associated_satellites":[
 
