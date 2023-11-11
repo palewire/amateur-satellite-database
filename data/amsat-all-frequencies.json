@@ -10517,7 +10517,7 @@
   },
   {
     "name":"Parus-MGTU",
-    "norad_id":null,
+    "norad_id":"58173",
     "uplink":null,
     "downlink":"437.200",
     "beacon":null,
