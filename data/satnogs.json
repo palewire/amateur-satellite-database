@@ -7058,20 +7058,20 @@
     "norad_cat_id":43133.0,
     "norad_follow_id":null,
     "name":"CNUSAIL-1",
-    "names":"",
-    "image":"",
+    "names":"PAPI",
+    "image":"satellites\/CNUSail-1.JPG",
     "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
+    "launched":"2018-01-12T00:00:00Z",
+    "deployed":"2018-01-12T00:00:00Z",
+    "website":"https:\/\/sites.google.com\/view\/cnuusg\/research\/cnusail-1-cubesat",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.503615Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-11-10T14:10:34.037268Z",
+    "citation":"Update CNUSail-1 Info",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -9022,8 +9022,8 @@
     "name":"NEXUS",
     "names":"JS1WAV FO-99 Fuji-OSCAR 99",
     "image":"satellites\/nexus__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-09T04:30:00Z",
     "launched":null,
     "deployed":null,
     "website":"http:\/\/sat.aero.cst.nihon-u.ac.jp\/nexus\/E0_Top.html",
@@ -9032,8 +9032,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-08-25T06:22:14.927189Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-11-10T20:47:39.574496Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/8482194\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26311,30 +26311,6 @@
     ]
   },
   {
-    "sat_id":"DARF-2847-7242-5660-2953",
-    "norad_cat_id":99274.0,
-    "norad_follow_id":null,
-    "name":"GENMAT-1",
-    "names":"",
-    "image":"satellites\/FgexdmSaEAUXLl2.jpg",
-    "status":"future",
-    "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
-    "deployed":null,
-    "website":"https:\/\/GENMAT.xyz",
-    "operator":"None",
-    "countries":"US",
-    "telemetries":[
-
-    ],
-    "updated":"2022-12-06T10:01:44.343594Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2116815;sess=0",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"HIQS-5728-4799-3132-8075",
     "norad_cat_id":99275.0,
     "norad_follow_id":null,
@@ -36656,20 +36632,20 @@
     "norad_cat_id":99060.0,
     "norad_follow_id":null,
     "name":"HERON Mk. II",
-    "names":"",
+    "names":"Heron Mark II",
     "image":"satellites\/HERON_Mk_II.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T20:04:38Z",
     "website":"https:\/\/www.utat.ca\/space-systems",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-09T14:17:27.446122Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/5",
+    "updated":"2023-11-10T23:34:25.455972Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36968,20 +36944,22 @@
     "norad_cat_id":99052.0,
     "norad_follow_id":null,
     "name":"Veronika",
-    "names":"",
+    "names":"Veronica",
     "image":"satellites\/veronika.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:43:33Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
-
+      {
+        "decoder":"veronika"
+      }
     ],
-    "updated":"2023-11-07T13:39:15.989307Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.573142Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38010,7 +37988,9 @@
     "operator":"None",
     "countries":"EE",
     "telemetries":[
-
+      {
+        "decoder":"estcube2"
+      }
     ],
     "updated":"2023-10-17T05:32:03.972037Z",
     "citation":"Remove NORAD ID to follow",
@@ -38532,16 +38512,16 @@
     "image":"satellites\/connecta_T_3_1_.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:48:10Z",
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.971223Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.517427Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38556,16 +38536,16 @@
     "image":"satellites\/connecta_T_3_2_.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:48:00Z",
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.819127Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.522353Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38676,16 +38656,16 @@
     "image":"satellites\/photo1698580525.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:43:23Z",
     "website":"https:\/\/spatialdjiboutien.net\/",
     "operator":"None",
     "countries":"DJ",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.854575Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.578111Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38701,15 +38681,15 @@
     "status":"future",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":"2023-11-11T19:48:00Z",
+    "deployed":"2023-11-11T19:48:40Z",
     "website":"",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T08:33:08.743742Z",
-    "citation":"Launch Date & Deploy Date update",
+    "updated":"2023-11-10T22:26:14.362373Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -38720,20 +38700,20 @@
     "norad_cat_id":99025.0,
     "norad_follow_id":null,
     "name":"ION SCV-013",
-    "names":"",
+    "names":"Ultimate Hugo",
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T20:13:29Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.865963Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:11:19.859486Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38748,7 +38728,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38756,8 +38736,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.923459Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.643678Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38772,7 +38752,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38780,8 +38760,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.885621Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.650086Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38796,7 +38776,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38804,8 +38784,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.895284Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.656142Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38820,7 +38800,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38828,8 +38808,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.870768Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.661930Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38844,7 +38824,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38852,8 +38832,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.828061Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.667519Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38868,7 +38848,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38876,8 +38856,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.966798Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.673128Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38892,7 +38872,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38900,8 +38880,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.899661Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.684186Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38916,7 +38896,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38924,8 +38904,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.984660Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.678677Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38940,7 +38920,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
@@ -38948,8 +38928,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.913612Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.689760Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38964,7 +38944,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -38972,8 +38952,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.838152Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.695128Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38988,7 +38968,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -38996,8 +38976,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.842977Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.700406Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39012,7 +38992,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39020,8 +39000,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:16.006615Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.705680Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39036,7 +39016,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":null,
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39044,8 +39024,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.957837Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-11T00:07:29.711218Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39084,16 +39064,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:44:27Z",
     "website":"https:\/\/rogue.space\/missions\/barry-1\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-09T16:07:24.595498Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/11 and https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.msg2538515#msg2538515",
+    "updated":"2023-11-10T23:34:25.568172Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39104,20 +39084,20 @@
     "norad_cat_id":99009.0,
     "norad_follow_id":null,
     "name":"PEARL-1C",
-    "names":"",
+    "names":"Foxconn PEARL-1C",
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:45:58Z",
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2023-11-09T16:28:19.705818Z",
-    "citation":"Added country of origin",
+    "updated":"2023-11-10T23:34:25.551570Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39132,16 +39112,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:50:57Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.833184Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.481394Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39156,16 +39136,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:51:23Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.847840Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.473529Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39228,16 +39208,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:43:04Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.998109Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.583113Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39252,16 +39232,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:46:15Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.918353Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.545391Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39276,16 +39256,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:49:26Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.953069Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.494516Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39300,16 +39280,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:47:40Z",
     "website":"https:\/\/unseenlabs.space\/",
     "operator":"None",
     "countries":"FR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:16.020352Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.528819Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39324,16 +39304,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:45:29Z",
     "website":"https:\/\/unseenlabs.space\/",
     "operator":"None",
     "countries":"FR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:16.024947Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.557428Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39348,16 +39328,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T20:14:16Z",
     "website":"",
     "operator":"None",
     "countries":"FR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.932505Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.424926Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39372,16 +39352,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:53:29Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:16.010990Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.464904Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39396,16 +39376,16 @@
     "image":"satellites\/hello1_2_R3f9T3s.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:48:02Z",
     "website":"https:\/\/www.hellospace.ist",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.980194Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.533871Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
       "NYYP-9157-8028-1999-7228"
@@ -39420,16 +39400,16 @@
     "image":"satellites\/hello1_2_r8VeTih.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:48:02Z",
     "website":"https:\/\/www.hellospace.ist",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.880927Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.539144Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YRKL-5394-8316-1446-0991"
@@ -39444,16 +39424,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:48:13Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.993815Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.511960Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39468,7 +39448,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
     "website":"https:\/\/rom-space.ro\/",
     "operator":"None",
@@ -39476,8 +39456,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.903859Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:43:29.336065Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39492,7 +39472,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
     "website":"https:\/\/spacein.com.my\/",
     "operator":"None",
@@ -39500,8 +39480,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.908633Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:43:20.740744Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39513,22 +39493,22 @@
     "norad_follow_id":null,
     "name":"GENMAT-1",
     "names":"",
-    "image":"",
+    "image":"satellites\/genmat.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
-    "website":"",
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:49:43Z",
+    "website":"https:\/\/GENMAT.xyz",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.876013Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.488277Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "DARF-2847-7242-5660-2953"
     ]
   },
   {
@@ -39540,7 +39520,7 @@
     "image":"satellites\/c8095440-15c5-404b-8c3a-b7909744af73.png",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
     "website":"https:\/\/kplabs.space",
     "operator":"None",
@@ -39548,8 +39528,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-09T12:09:19.970186Z",
-    "citation":"From email discussion with the satellite team",
+    "updated":"2023-11-10T23:42:35.721927Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39588,16 +39568,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:49:20Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.962430Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.500539Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39608,11 +39588,11 @@
     "norad_cat_id":98990.0,
     "norad_follow_id":null,
     "name":"OSW Cazorla",
-    "names":"",
+    "names":"Blue Marble Synthesizer",
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39620,8 +39600,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:16.002356Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:47:46.001800Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39660,16 +39640,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T20:06:16Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.975831Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.437211Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39684,16 +39664,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T20:05:30Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:39:15.928052Z",
-    "citation":"Update launch date",
+    "updated":"2023-11-10T23:34:25.445933Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39780,7 +39760,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
+    "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39788,8 +39768,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-07T13:41:05.737194Z",
-    "citation":"Fix status",
+    "updated":"2023-11-10T23:39:03.720813Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39828,16 +39808,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:48:22Z",
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2023-11-09T16:28:28.837134Z",
-    "citation":"Added country of origin",
+    "updated":"2023-11-10T23:34:25.506251Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39852,16 +39832,88 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-11T18:47:00Z",
-    "deployed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:44:53Z",
     "website":"",
     "operator":"None",
     "countries":"BG",
     "telemetries":[
 
     ],
-    "updated":"2023-11-09T16:23:00.511970Z",
-    "citation":"https:\/\/www.itu.int\/ITU-R\/space\/asreceived\/Publication\/DisplayPublication\/52850",
+    "updated":"2023-11-10T23:34:25.562597Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QGLR-3538-1926-9702-3703",
+    "norad_cat_id":29505.0,
+    "norad_follow_id":null,
+    "name":"SJ-6C",
+    "names":"2006-046A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2006-10-23T00:00:00Z",
+    "deployed":"2006-10-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-10T20:24:42.208044Z",
+    "citation":"The two satellites SJ-6C and SJ-6D which form Group-02 of Shijian(practice)-6 satellites, were manufactured by the Shanghai Academy of Spaceflight Technology (SAST) and DFH (Dongfanghong, or The East is Red) Satellite Co.,",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JZOW-0900-7355-5555-3949",
+    "norad_cat_id":98978.0,
+    "norad_follow_id":null,
+    "name":"IRIS-C2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T19:44:28Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-10T21:20:33.427297Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CBPJ-3191-3776-1663-7122",
+    "norad_cat_id":23802.0,
+    "norad_follow_id":null,
+    "name":"POLAR",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"1996-02-24T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-10T23:35:14.443471Z",
+    "citation":"https:\/\/twitter.com\/coastal8049\/status\/1584026756767703040",
     "is_frequency_violator":false,
     "associated_satellites":[
 
