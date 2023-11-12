@@ -39918,5 +39918,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"CVWL-5147-2655-6759-5452",
+    "norad_cat_id":98977.0,
+    "norad_follow_id":null,
+    "name":"Impulse-1 (LEO Express-1)",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2023-11-11T20:04:42Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-12T06:51:05.277160Z",
+    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
