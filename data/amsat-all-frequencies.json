@@ -401,7 +401,7 @@
     "uplink":null,
     "downlink":"401.100",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -1512,7 +1512,7 @@
     "uplink":null,
     "downlink":"401.500\/2245.000",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -6275,7 +6275,7 @@
     "uplink":null,
     "downlink":"2245.000",
     "beacon":null,
-    "mode":null,
+    "mode":"57k0 GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -6627,7 +6627,7 @@
     "uplink":null,
     "downlink":"401.075\/2262.500",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -6638,7 +6638,7 @@
     "uplink":null,
     "downlink":"401.075\/2262.500",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -6660,7 +6660,7 @@
     "uplink":null,
     "downlink":"437.120",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -7018,17 +7018,6 @@
     "satnogs_id":null
   },
   {
-    "name":"ICEYE-X16",
-    "norad_id":"51008",
-    "uplink":null,
-    "downlink":"401.250",
-    "beacon":null,
-    "mode":"FM",
-    "callsign":null,
-    "status":"inactive",
-    "satnogs_id":null
-  },
-  {
     "name":"ICEYE",
     "norad_id":null,
     "uplink":null,
@@ -7045,9 +7034,20 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"ICEYE-X16",
+    "norad_id":"51008",
+    "uplink":null,
+    "downlink":"401.250",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -7122,7 +7122,7 @@
     "uplink":null,
     "downlink":"402.680",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -7529,7 +7529,7 @@
     "uplink":null,
     "downlink":"400.455\/2254.000",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps BPSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -8497,7 +8497,7 @@
     "uplink":null,
     "downlink":"402.790\/2022.500\/2200.500\/2440.000",
     "beacon":null,
-    "mode":null,
+    "mode":"GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -8508,7 +8508,7 @@
     "uplink":null,
     "downlink":"402.790\/2022.500\/2200.500\/2440.000",
     "beacon":null,
-    "mode":null,
+    "mode":"GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -8530,7 +8530,7 @@
     "uplink":null,
     "downlink":"402.680",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -10785,7 +10785,7 @@
     "uplink":null,
     "downlink":"401.250\/401.500",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -10950,7 +10950,7 @@
     "uplink":null,
     "downlink":"435.310",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -10961,7 +10961,7 @@
     "uplink":null,
     "downlink":"435.390",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -11203,7 +11203,7 @@
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -11357,7 +11357,7 @@
     "uplink":null,
     "downlink":"401.360",
     "beacon":null,
-    "mode":"4k8 GMSK",
+    "mode":"4800bps GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -11368,7 +11368,7 @@
     "uplink":null,
     "downlink":"401.360\/2277.500",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -11577,7 +11577,7 @@
     "uplink":null,
     "downlink":"401.050*\/401.450\/402.925\/2220.000\/2262.000\/2280.700",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -13854,7 +13854,7 @@
     "uplink":null,
     "downlink":"2271.750\/2288.500",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -14611,9 +14611,9 @@
     "name":"SUPERDOVE",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"2246.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -16241,7 +16241,7 @@
     "uplink":null,
     "downlink":"2254.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -16252,7 +16252,7 @@
     "uplink":null,
     "downlink":"2254.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
