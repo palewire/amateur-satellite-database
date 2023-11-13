@@ -36945,7 +36945,7 @@
     "norad_follow_id":null,
     "name":"Veronika",
     "names":"Veronica",
-    "image":"satellites\/veronika.jpg",
+    "image":"satellites\/veronika_G6OopQK.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
@@ -36958,8 +36958,8 @@
         "decoder":"veronika"
       }
     ],
-    "updated":"2023-11-11T17:42:35.028001Z",
-    "citation":"Change status",
+    "updated":"2023-11-12T19:39:40.657469Z",
+    "citation":"Image update Requested by Samuel Toman",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39061,19 +39061,19 @@
     "norad_follow_id":null,
     "name":"Barry-1",
     "names":"B1B2",
-    "image":"",
+    "image":"satellites\/b1b2_angles_v001_0005.png",
     "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:44:27Z",
     "website":"https:\/\/rogue.space\/missions\/barry-1\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.409871Z",
-    "citation":"Change status",
+    "updated":"2023-11-12T15:51:47.645819Z",
+    "citation":"Rogue Space Systems",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39938,6 +39938,78 @@
     ],
     "updated":"2023-11-12T06:51:05.277160Z",
     "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BSXU-9221-2520-7531-0635",
+    "norad_cat_id":98976.0,
+    "norad_follow_id":null,
+    "name":"Lemur 2 Marapamasan",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-12T16:11:22.668063Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RPXC-0997-3248-3154-8977",
+    "norad_cat_id":98975.0,
+    "norad_follow_id":null,
+    "name":"Superdove 003 A13",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-12T16:11:08.192497Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CJIB-5087-6895-1673-1473",
+    "norad_cat_id":98974.0,
+    "norad_follow_id":null,
+    "name":"ICEYEX 34",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-12T16:11:15.032658Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
