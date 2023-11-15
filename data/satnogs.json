@@ -876,7 +876,7 @@
     "decayed":null,
     "launched":"2001-09-30T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"http:\/\/www.aprs.org\/pcsat.html",
     "operator":"None",
     "countries":"US",
     "telemetries":[
@@ -884,8 +884,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2022-08-01T16:54:49.644846Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-11-14T17:06:46.259002Z",
+    "citation":"http:\/\/www.aprs.org\/pcsat.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -8653,7 +8653,7 @@
     "norad_follow_id":null,
     "name":"JY1Sat",
     "names":"Jordan-OSCAR 97JO-97",
-    "image":"",
+    "image":"satellites\/jy1sat-cubesat.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2018-12-03T00:00:00Z",
@@ -8664,7 +8664,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-01T08:05:40.754530Z",
+    "updated":"2023-11-14T17:06:28.996177Z",
     "citation":"https:\/\/amsat-uk.org\/2018\/12\/14\/update-jy1sat-and-eseo-missions\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -39664,7 +39664,7 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2023-11-11T18:49:00Z",
+    "launched":null,
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39672,8 +39672,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:35.259800Z",
-    "citation":"Change status",
+    "updated":"2023-11-14T18:40:57.585495Z",
+    "citation":"https:\/\/www.dorbit.space\/cosmic-wander-november-2023",
     "is_frequency_violator":false,
     "associated_satellites":[
 
