@@ -1513,8 +1513,8 @@
     "downlink":"401.500\/2245.000",
     "beacon":null,
     "mode":"9600bps GMSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"B12",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -2251,7 +2251,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -2262,7 +2262,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3492,9 +3492,9 @@
     "uplink":null,
     "downlink":"401.525\/401.510*\/2071.000\/2240.000",
     "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":null,
-    "status":"unknown",
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":"CONT31",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3503,9 +3503,9 @@
     "uplink":null,
     "downlink":"401.525\/401.540*\/2071.000\/2240.000",
     "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":null,
-    "status":"unknown",
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":"CONT32",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3979,7 +3979,7 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"CGZW-4770-7854-7332-3001"
   },
   {
     "name":"CSTP-1.2",
@@ -3990,7 +3990,7 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"OEVP-0911-2494-4510-3616"
   },
   {
     "name":"CSUNSat1",
@@ -4560,8 +4560,8 @@
     "downlink":"401.800",
     "beacon":null,
     "mode":"2400bps FSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"DJIB1A",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7428,11 +7428,11 @@
     "name":"ION-SCV 013",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.415",
+    "downlink":"401.415\/2265.500",
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7530,8 +7530,8 @@
     "downlink":"400.455\/2254.000",
     "beacon":null,
     "mode":"9600bps BPSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"BN0TR1",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7838,8 +7838,8 @@
     "downlink":"435.185",
     "beacon":null,
     "mode":"9600bps BPSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"inactive",
+    "status":null,
     "satnogs_id":null
   },
   {
@@ -7948,8 +7948,8 @@
     "downlink":"435.835\/2404.400",
     "beacon":null,
     "mode":"1200bps FSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"KAFSAT-1",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9839,9 +9839,9 @@
     "uplink":null,
     "downlink":"402.000",
     "beacon":null,
-    "mode":null,
+    "mode":"2400bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -10951,8 +10951,8 @@
     "downlink":"435.310",
     "beacon":null,
     "mode":"9600bps GMSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"PEARLC",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -10962,8 +10962,8 @@
     "downlink":"435.390",
     "beacon":null,
     "mode":"9600bps GMSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"PEARLH",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -11205,7 +11205,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11369,8 +11369,8 @@
     "downlink":"401.360\/2277.500",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"PL0005",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -11448,7 +11448,7 @@
     "mode":"LoRa\/FSK",
     "callsign":"RS46S",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"BFHE-2231-6239-4744-4815"
   },
   {
     "name":"POPSAT-HIP1",
@@ -16781,8 +16781,8 @@
     "downlink":"145.925\/436.680",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
-    "status":"unkown",
+    "callsign":"OM9VER",
+    "status":"active",
     "satnogs_id":null
   },
   {
