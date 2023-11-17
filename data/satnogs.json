@@ -1332,8 +1332,8 @@
     "name":"DELFI-C3",
     "names":"DO-64",
     "image":"satellites\/DelfiC3_AutoE.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-13T00:00:00Z",
     "launched":"2008-04-28T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.tudelft.nl\/lr\/delfi-space\/delfi-c3",
@@ -1342,8 +1342,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-04-25T16:31:47.835225Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-11-17T09:09:53.879400Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22636,7 +22636,7 @@
     "norad_cat_id":56992.0,
     "norad_follow_id":null,
     "name":"URESAT-1",
-    "names":"UreSat-1 \/ Hades-B",
+    "names":"Hades-B, SO-120",
     "image":"satellites\/logo_sat3.png",
     "status":"alive",
     "decayed":null,
@@ -22648,8 +22648,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-02T06:52:30.965914Z",
-    "citation":"https:\/\/uresat.ure.es\/liberacion-del-uresat-antonio-de-nebrija\/ and https:\/\/uresat.ure.es\/uresat-en-orbita\/",
+    "updated":"2023-11-17T09:10:46.112052Z",
+    "citation":"amsat bb list",
     "is_frequency_violator":false,
     "associated_satellites":[
 
