@@ -6890,8 +6890,8 @@
     "name":"INS-1C",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-14T00:00:00Z",
     "launched":"2018-01-12T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.isro.gov.in\/Spacecraft\/ins-1c",
@@ -6900,8 +6900,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-01T08:06:44.910262Z",
-    "citation":"https:\/\/www.isro.gov.in\/Spacecraft\/ins-1c",
+    "updated":"2023-11-19T11:07:36.075481Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -15928,8 +15928,8 @@
     "name":"CICERO 7",
     "names":"Tyvak 0085",
     "image":"satellites\/cicero__2_BaE0X9J.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-14T00:00:00Z",
     "launched":"2018-01-12T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -15938,8 +15938,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-12T07:22:47.079169Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2023-11-19T11:10:42.631173Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -20285,14 +20285,14 @@
     "decayed":null,
     "launched":"1972-10-15T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/sgcderek.github.io\/blog\/noaa2-revival.html",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T11:32:15.503782Z",
-    "citation":"https:\/\/github.com\/happysat\/Deadsat\/blob\/main\/README.md",
+    "updated":"2023-11-19T09:58:52.650586Z",
+    "citation":"A few days ago, a long-time amateur radio satellite watcher Scott Tilley announced on Twitter that his automated L-Band receiver detected signal emissions from the old NOAA-2 satellite.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29568,8 +29568,8 @@
     "name":"OBJECT B",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-06T00:00:00Z",
     "launched":"2022-12-14T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -29578,8 +29578,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-03T23:42:02.591427Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/33",
+    "updated":"2023-11-19T11:11:18.879267Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -37665,21 +37665,21 @@
     "sat_id":"KABW-7557-2572-1703-6504",
     "norad_cat_id":55041.0,
     "norad_follow_id":null,
-    "name":"SKYKRAFT-1",
-    "names":"Skykraft Deployer 1",
-    "image":"satellites\/skykraft-deployer-1__1.jpg",
+    "name":"Skykraft 1 Deployer",
+    "names":"2023-001AJ",
+    "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2023-01-03T00:00:00Z",
+    "launched":"2023-03-01T00:00:00Z",
     "deployed":null,
-    "website":"https:\/\/www.skykraft.com.au\/",
+    "website":"",
     "operator":"None",
     "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2023-11-17T17:24:24.756804Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/skykraft-deployer-1.htm",
+    "updated":"2023-11-19T09:17:33.413081Z",
+    "citation":"Krebs, Gunter D. &ldquo;Skykraft Deployer 1&rdquo;. Gunter's Space Page. Retrieved November 19, 2023, from https:\/\/space.skyrocket.de\/doc_sdat\/skykraft-deployer-1.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38601,8 +38601,8 @@
   },
   {
     "sat_id":"ZFWW-4105-8005-8470-1991",
-    "norad_cat_id":99029.0,
-    "norad_follow_id":58173.0,
+    "norad_cat_id":58173.0,
+    "norad_follow_id":null,
     "name":"Parus-MGTU",
     "names":"\u041f\u0430\u0440\u0443\u0441-\u041c\u0413\u0422\u0423, RS2S",
     "image":"satellites\/mka-parus-mgtu.jpg",
@@ -38616,8 +38616,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-01T11:03:50.072993Z",
-    "citation":"space-track.org",
+    "updated":"2023-11-19T11:15:56.862073Z",
+    "citation":"space-track.org and It was deployed alone from ISS",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40058,6 +40058,126 @@
     ],
     "updated":"2023-11-13T15:09:22.108311Z",
     "citation":"https:\/\/www.dorbit.space\/cosmic-wander-november-2023",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SYKC-8844-4001-9503-6261",
+    "norad_cat_id":55052.0,
+    "norad_follow_id":null,
+    "name":"SKYKRAFT-1D",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-19T09:18:01.175325Z",
+    "citation":"Krebs, Gunter D. &ldquo;Skykraft Block 2&rdquo;. Gunter's Space Page. Retrieved November 19, 2023, from https:\/\/space.skyrocket.de\/doc_sdat\/skykraft_block2.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EZQS-1662-4872-9519-3980",
+    "norad_cat_id":55061.0,
+    "norad_follow_id":null,
+    "name":"SKYKRAFT-1C",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-19T09:19:01.724805Z",
+    "citation":"Krebs, Gunter D. &ldquo;Skykraft Block 2&rdquo;. Gunter's Space Page. Retrieved November 19, 2023, from https:\/\/space.skyrocket.de\/doc_sdat\/skykraft_block2.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UPNM-0845-1766-2655-4123",
+    "norad_cat_id":55058.0,
+    "norad_follow_id":null,
+    "name":"SKYKRAFT-1B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-19T09:50:52.330649Z",
+    "citation":"Krebs, Gunter D. &ldquo;Skykraft Block 2&rdquo;. Gunter's Space Page. Retrieved November 19, 2023, from https:\/\/space.skyrocket.de\/doc_sdat\/skykraft_block2.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VRCF-5981-5205-0077-6216",
+    "norad_cat_id":55054.0,
+    "norad_follow_id":null,
+    "name":"SKYKRAFT-1A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-19T09:50:48.391685Z",
+    "citation":"Krebs, Gunter D. &ldquo;Skykraft Block 2&rdquo;. Gunter's Space Page. Retrieved November 19, 2023, from https:\/\/space.skyrocket.de\/doc_sdat\/skykraft_block2.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XVAN-8708-8018-5571-1789",
+    "norad_cat_id":98972.0,
+    "norad_follow_id":null,
+    "name":"MEMESat-1",
+    "names":"KE4UGA",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"http:\/\/www.smallsat.uga.edu\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-19T10:22:18.213840Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/268",
     "is_frequency_violator":false,
     "associated_satellites":[
 
