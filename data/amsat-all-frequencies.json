@@ -403,7 +403,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -6525,10 +6525,10 @@
   {
     "name":"Hades-D",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"145.875",
     "downlink":"436.666",
     "beacon":null,
-    "mode":null,
+    "mode":"300\/1k2 APRS",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -6629,7 +6629,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -6640,7 +6640,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -6662,7 +6662,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8499,7 +8499,7 @@
     "beacon":null,
     "mode":"GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8510,7 +8510,7 @@
     "beacon":null,
     "mode":"GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11579,7 +11579,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
