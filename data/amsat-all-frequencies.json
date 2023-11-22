@@ -9834,14 +9834,14 @@
     "satnogs_id":"MCYZ-8515-1099-2288-3521"
   },
   {
-    "name":"NINJASAT",
+    "name":"NinjaSat",
     "norad_id":null,
     "uplink":null,
     "downlink":"402.000",
     "beacon":null,
     "mode":"2400bps GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":null
   },
   {

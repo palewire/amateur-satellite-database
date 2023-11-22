@@ -2340,6 +2340,16 @@
     "satnogs_id":"DBTP-4321-2218-3495-4829"
   },
   {
+    "name":"NinjaSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"402.000",
+    "beacon":null,
+    "mode":"2400bps GMSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Norbi",
     "norad_id":"46494",
     "uplink":null,
