@@ -9192,8 +9192,8 @@
     "name":"Astrocast 0.2",
     "names":"HB9GSF",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-19T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -9202,8 +9202,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.722075Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-11-22T15:35:24.797409Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33500,8 +33500,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-01T14:51:53.022800Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1G-y-VPwT2_3hI_TDe968BbAHaz6Jfba9ErzIWRonRNQ\/edit?usp=sharing",
+    "updated":"2023-11-22T15:37:04.429384Z",
+    "citation":"na",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38747,21 +38747,21 @@
     "sat_id":"LWBI-4017-4701-3501-2198",
     "norad_cat_id":99024.0,
     "norad_follow_id":null,
-    "name":"Apogeo Space 1",
-    "names":"PICO-1A-1",
+    "name":"PICO-1A-1",
+    "names":"Apogeo Space 1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "deployed":"2023-11-22T00:00:00Z",
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-13T17:42:33.982898Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-22T15:01:05.090580Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38771,21 +38771,21 @@
     "sat_id":"TUNR-5974-2093-6230-0338",
     "norad_cat_id":99023.0,
     "norad_follow_id":null,
-    "name":"Apogeo Space 2",
-    "names":"PICO-1A-2",
+    "name":"PICO-1A-2",
+    "names":"Apogeo Space 2",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "deployed":"2023-11-22T00:00:00Z",
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-13T17:42:33.962729Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-22T15:01:05.073743Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38795,21 +38795,21 @@
     "sat_id":"PHPX-4103-0112-1712-7263",
     "norad_cat_id":99022.0,
     "norad_follow_id":null,
-    "name":"Apogeo Space 3",
-    "names":"PICO-1A-3",
+    "name":"PICO-1A-3",
+    "names":"Apogeo Space 3",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "deployed":"2023-11-22T00:00:00Z",
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-13T17:42:33.968573Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-22T15:01:05.057053Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38819,21 +38819,21 @@
     "sat_id":"WVNL-8804-2734-6393-2172",
     "norad_cat_id":99021.0,
     "norad_follow_id":null,
-    "name":"Apogeo Space 4",
-    "names":"PICO-1A-4",
+    "name":"PICO-1A-4",
+    "names":"Apogeo Space 4",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "deployed":"2023-11-22T00:00:00Z",
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-13T17:42:33.957368Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-22T15:01:05.040119Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38843,21 +38843,21 @@
     "sat_id":"YBFZ-1846-0530-7585-5275",
     "norad_cat_id":99020.0,
     "norad_follow_id":null,
-    "name":"Apogeo Space 5",
-    "names":"PICO-1A-5",
+    "name":"PICO-1A-5",
+    "names":"Apogeo Space 5",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "deployed":"2023-11-22T00:00:00Z",
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-13T17:42:33.946510Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-22T15:01:05.022425Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38867,21 +38867,21 @@
     "sat_id":"JJVJ-8006-8017-7636-7141",
     "norad_cat_id":99019.0,
     "norad_follow_id":null,
-    "name":"Apogeo Space 6",
-    "names":"PICO-1A-6",
+    "name":"PICO-1A-6",
+    "names":"Apogeo Space 6",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "deployed":"2023-11-22T00:00:00Z",
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-13T17:42:33.986755Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-22T15:01:05.005415Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38891,21 +38891,21 @@
     "sat_id":"OULJ-5315-8438-7012-4466",
     "norad_cat_id":99017.0,
     "norad_follow_id":null,
-    "name":"Apogeo Space 8",
-    "names":"PICO-1A-8",
+    "name":"PICO-1A-8",
+    "names":"Apogeo Space 8",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "deployed":"2023-11-22T00:00:00Z",
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-13T17:42:33.973850Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-22T15:01:04.970790Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38915,21 +38915,21 @@
     "sat_id":"FVGF-6040-9381-6877-1772",
     "norad_cat_id":99018.0,
     "norad_follow_id":null,
-    "name":"Apogeo Space 7",
-    "names":"PICO-1A-7",
+    "name":"PICO-1A-7",
+    "names":"Apogeo Space 7",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "deployed":"2023-11-22T00:00:00Z",
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-13T17:42:33.990499Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-22T15:01:04.988278Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38939,21 +38939,21 @@
     "sat_id":"MUZU-0416-9008-4872-3879",
     "norad_cat_id":99016.0,
     "norad_follow_id":null,
-    "name":"Apogeo Space 9",
-    "names":"PICO-1A-9",
+    "name":"PICO-1A-9",
+    "names":"Apogeo Space 9",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "deployed":"2023-11-22T00:00:00Z",
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-13T17:42:33.978780Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2023-11-22T15:01:04.947930Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40298,6 +40298,126 @@
     ],
     "updated":"2023-11-21T12:49:10.738747Z",
     "citation":"https:\/\/tinygs.com\/satellite\/unknown",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ENGU-5711-4810-8806-8226",
+    "norad_cat_id":57792.0,
+    "norad_follow_id":null,
+    "name":"TIANQI 21",
+    "names":"2023-135A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-05T00:00:00Z",
+    "deployed":"2023-09-05T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-22T15:36:28.828071Z",
+    "citation":"https:\/\/tinygs.com\/packet\/7360c059-2ff5-4661-9aa4-93e0b86376f2",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YCVI-1203-6642-7116-6952",
+    "norad_cat_id":57793.0,
+    "norad_follow_id":null,
+    "name":"TIANQI 22",
+    "names":"2023-135B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-05T00:00:00Z",
+    "deployed":"2023-09-05T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-22T15:35:39.077379Z",
+    "citation":"https:\/\/tinygs.com\/packet\/e461414e-af84-4efc-8992-a044ba97938c",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CEQO-7593-2797-6026-6390",
+    "norad_cat_id":57794.0,
+    "norad_follow_id":null,
+    "name":"TIANQI 23",
+    "names":"2023-135C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-05T00:00:00Z",
+    "deployed":"2023-09-05T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-22T15:35:34.661987Z",
+    "citation":"https:\/\/tinygs.com\/packet\/61b8b70f-d0ab-49e5-a2fa-523bf8888f5c",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JTQZ-3768-5695-7919-5798",
+    "norad_cat_id":58349.0,
+    "norad_follow_id":null,
+    "name":"HAYANG 3A",
+    "names":"2023-176A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-16T00:00:00Z",
+    "deployed":"2023-11-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-22T12:58:28.949045Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1URaJydjQ1sBZSN7Y6ILxrNRlAaSkQD-5XtVuOR2QB-M\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VKWC-1448-9260-6742-1799",
+    "norad_cat_id":58400.0,
+    "norad_follow_id":null,
+    "name":"Malligyong-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-21T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-22T15:40:25.670548Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/Malligyong-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
