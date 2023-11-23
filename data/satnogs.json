@@ -39542,7 +39542,7 @@
     "name":"Intuition-1",
     "names":"",
     "image":"satellites\/c8095440-15c5-404b-8c3a-b7909744af73.png",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
@@ -39552,8 +39552,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.315150Z",
-    "citation":"Change status",
+    "updated":"2023-11-23T11:11:59.938387Z",
+    "citation":"Unkown if deployed or not",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40418,6 +40418,30 @@
     ],
     "updated":"2023-11-22T15:40:25.670548Z",
     "citation":"https:\/\/en.wikipedia.org\/wiki\/Malligyong-1",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BEBS-6223-1179-9603-3761",
+    "norad_cat_id":31598.0,
+    "norad_follow_id":null,
+    "name":"SKYMED 1",
+    "names":"2007-023A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2007-06-08T00:00:00Z",
+    "deployed":"2007-06-08T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-11-23T05:57:17.894350Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1xoH7E2Ba2yhTvtPOl4mDUZTVe5EzXQ2qwxaztfycnYo\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
