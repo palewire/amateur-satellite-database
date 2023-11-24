@@ -179,7 +179,7 @@
     "name":"AeroCube-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"902\/928",
+    "downlink":"902-928",
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
@@ -6737,7 +6737,7 @@
     "uplink":null,
     "downlink":"467.674",
     "beacon":null,
-    "mode":"1000bps Unknown",
+    "mode":"1000bps unknown",
     "callsign":null,
     "status":"non-amateur",
     "satnogs_id":"XCTG-7337-9615-0882-4390"
@@ -7265,9 +7265,9 @@
     "uplink":null,
     "downlink":"401.400",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9600bps GMSK",
+    "callsign":"INT1KP",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7838,8 +7838,8 @@
     "downlink":"435.185",
     "beacon":null,
     "mode":"9600bps BPSK",
-    "callsign":"inactive",
-    "status":null,
+    "callsign":null,
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8886,6 +8886,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"FICC-5569-8485-6311-2104"
+  },
+  {
+    "name":"Malligyong-1",
+    "norad_id":"58400",
+    "uplink":null,
+    "downlink":"468.738",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"VKWC-1448-9260-6742-1799"
   },
   {
     "name":"MANTIS",
@@ -12771,17 +12782,6 @@
     "satnogs_id":null
   },
   {
-    "name":"SamSat-218D",
-    "norad_id":"41466",
-    "uplink":"435.590-435.610",
-    "downlink":"145.850-145.890",
-    "beacon":"145.870",
-    "mode":"TRXSSAU CW",
-    "callsign":"SAMSAT-218D",
-    "status":"re-entered",
-    "satnogs_id":"IBYN-3042-2919-8911-9803"
-  },
-  {
     "name":"SALSAT",
     "norad_id":"46495",
     "uplink":null,
@@ -12793,12 +12793,23 @@
     "satnogs_id":"CWCJ-6029-4779-5201-8503"
   },
   {
+    "name":"SamSat-218D",
+    "norad_id":"41466",
+    "uplink":"435.590-435.610",
+    "downlink":"145.850-145.890",
+    "beacon":"145.870",
+    "mode":"TRXSSAU CW",
+    "callsign":"SAMSAT-218D",
+    "status":"re-entered",
+    "satnogs_id":"IBYN-3042-2919-8911-9803"
+  },
+  {
     "name":"SamSat-ION",
     "norad_id":"57173",
     "uplink":null,
     "downlink":"437.400",
     "beacon":"437.400",
-    "mode":"1k2*\/2k4 FSK,CW",
+    "mode":"1k2*\/2k4 FSK CW",
     "callsign":"RS36S",
     "status":"active",
     "satnogs_id":"ODQC-6867-8683-7650-3513"

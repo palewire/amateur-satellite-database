@@ -1700,6 +1700,16 @@
     "satnogs_id":"AWLV-5462-4771-2461-0551"
   },
   {
+    "name":"INTUITION-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.400",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"INT1KP",
+    "satnogs_id":null
+  },
+  {
     "name":"ION-SCV 005",
     "norad_id":"52163",
     "uplink":null,
@@ -2705,7 +2715,7 @@
     "uplink":null,
     "downlink":"437.400",
     "beacon":"437.400",
-    "mode":"1k2*\/2k4 FSK,CW",
+    "mode":"1k2*\/2k4 FSK CW",
     "callsign":"RS36S",
     "satnogs_id":"ODQC-6867-8683-7650-3513"
   },

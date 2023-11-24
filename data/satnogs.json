@@ -39542,18 +39542,18 @@
     "name":"Intuition-1",
     "names":"",
     "image":"satellites\/c8095440-15c5-404b-8c3a-b7909744af73.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "deployed":"2023-11-23T10:22:00Z",
     "website":"https:\/\/kplabs.space",
     "operator":"None",
     "countries":"PL",
     "telemetries":[
 
     ],
-    "updated":"2023-11-23T11:11:59.938387Z",
-    "citation":"Unkown if deployed or not",
+    "updated":"2023-11-23T12:21:01.568219Z",
+    "citation":"Przemek Recha",
     "is_frequency_violator":false,
     "associated_satellites":[
 
