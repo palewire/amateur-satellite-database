@@ -3127,7 +3127,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":"RS52SB",
-    "satnogs_id":null
+    "satnogs_id":"KANX-6033-2616-0861-1048"
   },
   {
     "name":"StratoSat-TK1 picosat-E",

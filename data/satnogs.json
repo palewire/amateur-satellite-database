@@ -6294,7 +6294,9 @@
     "operator":"None",
     "countries":"",
     "telemetries":[
-
+      {
+        "decoder":"pegasus"
+      }
     ],
     "updated":"2021-07-21T10:11:42.441061Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
@@ -13188,8 +13190,8 @@
   },
   {
     "sat_id":"FXHJ-9671-3244-3623-7704",
-    "norad_cat_id":99738.0,
-    "norad_follow_id":48082.0,
+    "norad_cat_id":48082.0,
+    "norad_follow_id":null,
     "name":"FEES",
     "names":"Flexible Experimental Embedded Satellite",
     "image":"",
@@ -13203,11 +13205,11 @@
     "telemetries":[
 
     ],
-    "updated":"2021-09-16T07:23:23.965801Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-11-24T06:54:01.648132Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/FEES",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "XGBA-1279-2610-3482-9614"
     ]
   },
   {
@@ -32452,8 +32454,8 @@
   },
   {
     "sat_id":"KANX-6033-2616-0861-1048",
-    "norad_cat_id":99149.0,
-    "norad_follow_id":57323.0,
+    "norad_cat_id":57323.0,
+    "norad_follow_id":null,
     "name":"StratoSat TK-1-B",
     "names":"",
     "image":"",
@@ -32467,11 +32469,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-07T00:14:27.709250Z",
-    "citation":"From the team",
+    "updated":"2023-11-24T06:45:08.314463Z",
+    "citation":"3rd party observations",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "WALR-9075-3889-1687-8814"
     ]
   },
   {

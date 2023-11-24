@@ -5486,7 +5486,7 @@
     "mode":"9600bps FSK\/LoRa",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"FXHJ-9671-3244-3623-7704"
   },
   {
     "name":"FEES-2",
@@ -6528,7 +6528,7 @@
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":null,
-    "mode":"300\/1k2 APRS",
+    "mode":"50\/300\/1200 FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -7032,7 +7032,7 @@
     "name":"ICEYEX",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"2246.000",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
@@ -8893,7 +8893,7 @@
     "uplink":null,
     "downlink":"468.738",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"VKWC-1448-9260-6742-1799"
@@ -12237,7 +12237,7 @@
     "uplink":null,
     "downlink":"436.235",
     "beacon":null,
-    "mode":null,
+    "mode":"500bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -13821,7 +13821,7 @@
     "uplink":null,
     "downlink":"437.425",
     "beacon":null,
-    "mode":null,
+    "mode":"1200bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -14385,7 +14385,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"KANX-6033-2616-0861-1048"
   },
   {
     "name":"StratoSat-TK1-C",
@@ -14440,7 +14440,7 @@
     "mode":"LoRa",
     "callsign":"RS52SB",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"KANX-6033-2616-0861-1048"
   },
   {
     "name":"StratoSat-TK1 picosat-D",
@@ -16247,7 +16247,7 @@
     "satnogs_id":null
   },
   {
-    "name":"UMBRA-07",
+    "name":"Umbra-07",
     "norad_id":null,
     "uplink":null,
     "downlink":"2254.000",
@@ -16258,7 +16258,7 @@
     "satnogs_id":null
   },
   {
-    "name":"UMBRA-08",
+    "name":"Umbra-08",
     "norad_id":null,
     "uplink":null,
     "downlink":"2254.000",
