@@ -38608,8 +38608,8 @@
     "name":"Parus-MGTU",
     "names":"\u041f\u0430\u0440\u0443\u0441-\u041c\u0413\u0422\u0423, RS2S",
     "image":"satellites\/mka-parus-mgtu.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-12T00:00:00Z",
     "launched":"2023-10-25T00:00:00Z",
     "deployed":"2023-10-25T23:20:00Z",
     "website":"https:\/\/bsail.ru\/?page_id=343&lang=ru",
@@ -38618,8 +38618,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-19T11:15:56.862073Z",
-    "citation":"space-track.org and It was deployed alone from ISS",
+    "updated":"2023-11-24T12:39:59.693222Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39472,7 +39472,7 @@
     "name":"ROM-3",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
@@ -39482,8 +39482,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.725860Z",
-    "citation":"Change status",
+    "updated":"2023-11-24T16:22:20.416128Z",
+    "citation":"Deployment postponed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39496,7 +39496,7 @@
     "name":"SPACEANT-D",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
@@ -39506,8 +39506,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.435906Z",
-    "citation":"Change status",
+    "updated":"2023-11-24T16:22:32.874939Z",
+    "citation":"Deployment postponed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39760,7 +39760,7 @@
     "name":"HADES-D",
     "names":"HYDRA-1",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
@@ -39770,8 +39770,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-13T15:18:51.522221Z",
-    "citation":"https:\/\/www.dorbit.space\/cosmic-wander-november-2023",
+    "updated":"2023-11-24T16:22:07.858209Z",
+    "citation":"Deployment postponed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
