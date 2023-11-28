@@ -39472,7 +39472,7 @@
     "name":"ROM-3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
@@ -39482,8 +39482,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-24T16:22:20.416128Z",
-    "citation":"Deployment postponed",
+    "updated":"2023-11-27T23:31:05.829924Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/186",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39496,7 +39496,7 @@
     "name":"SPACEANT-D",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
@@ -39506,8 +39506,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-24T16:22:32.874939Z",
-    "citation":"Deployment postponed",
+    "updated":"2023-11-27T23:31:03.904729Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/186",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39760,7 +39760,7 @@
     "name":"HADES-D",
     "names":"HYDRA-1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
@@ -39770,8 +39770,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-24T16:22:07.858209Z",
-    "citation":"Deployment postponed",
+    "updated":"2023-11-27T23:31:08.700209Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/186",
     "is_frequency_violator":false,
     "associated_satellites":[
 
