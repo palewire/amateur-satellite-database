@@ -39496,7 +39496,7 @@
     "name":"SPACEANT-D",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
@@ -39506,8 +39506,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-27T23:31:03.904729Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/186",
+    "updated":"2023-11-28T11:49:38.220634Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/194",
     "is_frequency_violator":false,
     "associated_satellites":[
 
