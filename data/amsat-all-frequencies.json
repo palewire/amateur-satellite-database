@@ -6527,10 +6527,10 @@
     "norad_id":null,
     "uplink":"145.875",
     "downlink":"436.666",
-    "beacon":null,
-    "mode":"50\/300\/1200 FSK",
+    "beacon":"436.666",
+    "mode":"50*\/300\/1k2-9k6 FSK CW*",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

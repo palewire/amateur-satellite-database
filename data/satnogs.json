@@ -36944,7 +36944,7 @@
   {
     "sat_id":"EXYP-7555-6232-5402-1667",
     "norad_cat_id":99052.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58261.0,
     "name":"Veronika",
     "names":"Veronica",
     "image":"satellites\/veronika_G6OopQK.jpg",
@@ -36960,8 +36960,8 @@
         "decoder":"veronika"
       }
     ],
-    "updated":"2023-11-13T17:42:20.122502Z",
-    "citation":".",
+    "updated":"2023-11-29T11:48:39.399865Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/212",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38652,7 +38652,7 @@
   {
     "sat_id":"APQS-1800-5981-4551-3856",
     "norad_cat_id":99028.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58317.0,
     "name":"KAFASAT",
     "names":"Korea Air Force Academy Satellite",
     "image":"satellites\/Kafasat.jpg",
@@ -38666,8 +38666,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:35.275115Z",
-    "citation":"Change status",
+    "updated":"2023-11-29T01:53:37.571013Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39108,7 +39108,7 @@
   {
     "sat_id":"BSTS-8626-7603-3020-3063",
     "norad_cat_id":99009.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58342.0,
     "name":"PEARL-1C",
     "names":"Foxconn PEARL-1C",
     "image":"",
@@ -39122,8 +39122,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:35.195233Z",
-    "citation":"Change status",
+    "updated":"2023-11-29T00:31:51.455865Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39132,7 +39132,7 @@
   {
     "sat_id":"XPKL-0131-3921-6138-6792",
     "norad_cat_id":99008.0,
-    "norad_follow_id":58334.0,
+    "norad_follow_id":58336.0,
     "name":"Lemur 2 - Mango 2A",
     "names":"",
     "image":"",
@@ -39146,8 +39146,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-28T23:27:32.327953Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-11-29T00:27:30.783700Z",
+    "citation":"By ikhnos in latest observations and that 58334 seems to fit better outpost mission 2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39300,7 +39300,7 @@
   {
     "sat_id":"BKIY-3032-2869-4485-1697",
     "norad_cat_id":99002.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58261.0,
     "name":"BRO-11",
     "names":"",
     "image":"",
@@ -39314,8 +39314,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:35.217806Z",
-    "citation":"Change status",
+    "updated":"2023-11-29T01:46:34.749963Z",
+    "citation":"By ikhnos in latest observations and that 58331 is probably BRO 10",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39324,7 +39324,7 @@
   {
     "sat_id":"BISO-5259-3723-1730-8460",
     "norad_cat_id":99003.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58331.0,
     "name":"BRO-10",
     "names":"",
     "image":"",
@@ -39338,8 +39338,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:35.239341Z",
-    "citation":"Change status",
+    "updated":"2023-11-29T01:32:16.567708Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39756,7 +39756,7 @@
   {
     "sat_id":"KDPU-1823-6370-5846-1492",
     "norad_cat_id":98981.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58298.0,
     "name":"HADES-D",
     "names":"HYDRA-1",
     "image":"",
@@ -39770,8 +39770,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-27T23:31:08.700209Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/186",
+    "updated":"2023-11-29T02:29:52.656863Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39804,7 +39804,7 @@
   {
     "sat_id":"GLVU-3778-3036-0537-1969",
     "norad_cat_id":98980.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58260.0,
     "name":"PEARL-1H",
     "names":"",
     "image":"",
@@ -39818,8 +39818,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.945608Z",
-    "citation":"Change status",
+    "updated":"2023-11-29T00:26:52.374028Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39948,7 +39948,7 @@
   {
     "sat_id":"CVWL-5147-2655-6759-5452",
     "norad_cat_id":98977.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58301.0,
     "name":"Impulse-1 (LEO Express-1)",
     "names":"",
     "image":"",
@@ -39962,8 +39962,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-12T06:51:05.277160Z",
-    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
+    "updated":"2023-11-29T02:00:02.229208Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 

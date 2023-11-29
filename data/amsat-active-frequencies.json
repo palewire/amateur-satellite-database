@@ -1560,6 +1560,16 @@
     "satnogs_id":"TZQT-5140-2201-6886-0585"
   },
   {
+    "name":"Hades-D",
+    "norad_id":null,
+    "uplink":"145.875",
+    "downlink":"436.666",
+    "beacon":"436.666",
+    "mode":"50*\/300\/1k2-9k6 FSK CW*",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"HA-1",
     "norad_id":"43156",
     "uplink":"145.930",
