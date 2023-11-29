@@ -38532,7 +38532,7 @@
   {
     "sat_id":"IMJX-7102-0140-6430-7844",
     "norad_cat_id":99031.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58256.0,
     "name":"Connecta T3.1",
     "names":"",
     "image":"satellites\/connecta_T_3_1_.jpg",
@@ -38546,8 +38546,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.894320Z",
-    "citation":"Change status",
+    "updated":"2023-11-28T22:47:48.745318Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38556,7 +38556,7 @@
   {
     "sat_id":"ZAVF-3403-5726-0559-1255",
     "norad_cat_id":99030.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58268.0,
     "name":"Connecta T3.2",
     "names":"",
     "image":"satellites\/connecta_T_3_2_.jpg",
@@ -38570,8 +38570,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.541314Z",
-    "citation":"Change status",
+    "updated":"2023-11-28T22:42:37.443956Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38676,7 +38676,7 @@
   {
     "sat_id":"ZUPC-4545-0225-3537-3322",
     "norad_cat_id":99027.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58266.0,
     "name":"DJIBOUTI-1A",
     "names":"",
     "image":"satellites\/photo1698580525.jpeg",
@@ -38690,8 +38690,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.276757Z",
-    "citation":"Change status",
+    "updated":"2023-11-28T22:36:27.338870Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38724,7 +38724,7 @@
   {
     "sat_id":"YODX-5832-7103-0922-4071",
     "norad_cat_id":99025.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58300.0,
     "name":"ION SCV-013",
     "names":"Ultimate Hugo",
     "image":"",
@@ -38738,8 +38738,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.338461Z",
-    "citation":"Change status",
+    "updated":"2023-11-28T22:55:11.833669Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39084,7 +39084,7 @@
   {
     "sat_id":"QDDY-8878-5291-1819-3935",
     "norad_cat_id":99010.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58335.0,
     "name":"Barry-1",
     "names":"B1B2",
     "image":"satellites\/b1b2_angles_v001_0005.png",
@@ -39098,8 +39098,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-12T15:51:47.645819Z",
-    "citation":"Rogue Space Systems",
+    "updated":"2023-11-28T23:37:47.464882Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39132,7 +39132,7 @@
   {
     "sat_id":"XPKL-0131-3921-6138-6792",
     "norad_cat_id":99008.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58334.0,
     "name":"Lemur 2 - Mango 2A",
     "names":"",
     "image":"",
@@ -39146,8 +39146,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.366192Z",
-    "citation":"Change status",
+    "updated":"2023-11-28T23:27:32.327953Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39156,7 +39156,7 @@
   {
     "sat_id":"NUNG-8240-6931-0035-5147",
     "norad_cat_id":99007.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58337.0,
     "name":"Lemur 2 - Mango 2B",
     "names":"",
     "image":"",
@@ -39170,8 +39170,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.749122Z",
-    "citation":"Change status",
+    "updated":"2023-11-28T23:27:35.733781Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39252,7 +39252,7 @@
   {
     "sat_id":"MHAO-0598-9456-4702-5334",
     "norad_cat_id":99005.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58334.0,
     "name":"Outpost Mission 2",
     "names":"",
     "image":"",
@@ -39266,8 +39266,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.454386Z",
-    "citation":"Change status",
+    "updated":"2023-11-28T23:54:57.321052Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39496,7 +39496,7 @@
     "name":"SPACEANT-D",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
@@ -39506,8 +39506,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-28T11:49:38.220634Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/194",
+    "updated":"2023-11-28T16:02:19.090446Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/196",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39828,7 +39828,7 @@
   {
     "sat_id":"PRZP-7386-5227-9698-5175",
     "norad_cat_id":98979.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58339.0,
     "name":"Platform-5",
     "names":"SHAREDSAT_22",
     "image":"",
@@ -39842,8 +39842,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.622787Z",
-    "citation":"Change status",
+    "updated":"2023-11-29T00:05:01.878782Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39876,7 +39876,7 @@
   {
     "sat_id":"JZOW-0900-7355-5555-3949",
     "norad_cat_id":98978.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58269.0,
     "name":"IRIS-C2",
     "names":"",
     "image":"",
@@ -39890,8 +39890,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.825435Z",
-    "citation":"Change status",
+    "updated":"2023-11-29T00:13:39.923095Z",
+    "citation":"By ikhnos in latest observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
