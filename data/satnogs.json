@@ -19003,10 +19003,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -39276,7 +39276,7 @@
   {
     "sat_id":"JRGY-6734-9744-8857-6516",
     "norad_cat_id":99004.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58295.0,
     "name":"ProtoM\u00e9th\u00e9e-1",
     "names":"",
     "image":"",
@@ -39290,8 +39290,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.848562Z",
-    "citation":"Change status",
+    "updated":"2023-11-30T00:39:35.435367Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39498,16 +39498,16 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2023-11-11T18:49:00Z",
-    "deployed":null,
+    "launched":"2023-11-12T06:49:00Z",
+    "deployed":"2023-11-29T12:25:00Z",
     "website":"https:\/\/spacein.com.my\/",
     "operator":"None",
     "countries":"MY",
     "telemetries":[
 
     ],
-    "updated":"2023-11-28T16:02:19.090446Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/196",
+    "updated":"2023-11-30T08:27:35.604511Z",
+    "citation":"s",
     "is_frequency_violator":false,
     "associated_satellites":[
 

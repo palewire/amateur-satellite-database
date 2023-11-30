@@ -211,7 +211,7 @@
   },
   {
     "name":"BARRY-1",
-    "norad_id":null,
+    "norad_id":"58335",
     "uplink":null,
     "downlink":"401.500\/2245.000",
     "beacon":null,
@@ -391,7 +391,7 @@
   },
   {
     "name":"BRO-10",
-    "norad_id":null,
+    "norad_id":"58331",
     "uplink":null,
     "downlink":"401.735\/2260.500",
     "beacon":null,
@@ -401,7 +401,7 @@
   },
   {
     "name":"BRO-11",
-    "norad_id":null,
+    "norad_id":"58261",
     "uplink":null,
     "downlink":"401.735\/2260.500",
     "beacon":null,
@@ -761,7 +761,7 @@
   },
   {
     "name":"Connecta-T3.1",
-    "norad_id":null,
+    "norad_id":"58256",
     "uplink":null,
     "downlink":"401.525\/401.510*\/2071.000\/2240.000",
     "beacon":null,
@@ -771,7 +771,7 @@
   },
   {
     "name":"Connecta-T3.2",
-    "norad_id":null,
+    "norad_id":"58268",
     "uplink":null,
     "downlink":"401.525\/401.540*\/2071.000\/2240.000",
     "beacon":null,
@@ -1091,7 +1091,7 @@
   },
   {
     "name":"DJIBOUTI-1A",
-    "norad_id":null,
+    "norad_id":"58266",
     "uplink":null,
     "downlink":"401.800",
     "beacon":null,
@@ -1561,7 +1561,7 @@
   },
   {
     "name":"Hades-D",
-    "norad_id":null,
+    "norad_id":"58294",
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
@@ -1771,7 +1771,7 @@
   },
   {
     "name":"ION-SCV 013",
-    "norad_id":null,
+    "norad_id":"58300",
     "uplink":null,
     "downlink":"401.415\/2265.500",
     "beacon":null,
@@ -1821,7 +1821,7 @@
   },
   {
     "name":"IRIS-C2",
-    "norad_id":null,
+    "norad_id":"58269",
     "uplink":null,
     "downlink":"400.455\/2254.000",
     "beacon":null,
@@ -1931,7 +1931,7 @@
   },
   {
     "name":"KAFASAT",
-    "norad_id":null,
+    "norad_id":"58317",
     "uplink":null,
     "downlink":"435.835\/2404.400",
     "beacon":null,
@@ -2501,7 +2501,7 @@
   },
   {
     "name":"PEARL-1C",
-    "norad_id":null,
+    "norad_id":"58342",
     "uplink":null,
     "downlink":"435.310",
     "beacon":null,
@@ -2511,7 +2511,7 @@
   },
   {
     "name":"PEARL-1H",
-    "norad_id":null,
+    "norad_id":"58265",
     "uplink":null,
     "downlink":"435.390",
     "beacon":null,
@@ -2581,7 +2581,7 @@
   },
   {
     "name":"Platform-5",
-    "norad_id":null,
+    "norad_id":"58339",
     "uplink":null,
     "downlink":"401.360\/2277.500",
     "beacon":null,
@@ -3641,7 +3641,7 @@
   },
   {
     "name":"Veronika",
-    "norad_id":null,
+    "norad_id":"58261",
     "uplink":null,
     "downlink":"145.925\/436.680",
     "beacon":null,
