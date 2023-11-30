@@ -19003,10 +19003,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -39756,7 +39756,7 @@
   {
     "sat_id":"KDPU-1823-6370-5846-1492",
     "norad_cat_id":98981.0,
-    "norad_follow_id":58298.0,
+    "norad_follow_id":58294.0,
     "name":"HADES-D",
     "names":"HYDRA-1",
     "image":"",
@@ -39770,8 +39770,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T02:29:52.656863Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-11-29T17:51:13.439223Z",
+    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1729878632108351712",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39804,7 +39804,7 @@
   {
     "sat_id":"GLVU-3778-3036-0537-1969",
     "norad_cat_id":98980.0,
-    "norad_follow_id":58260.0,
+    "norad_follow_id":58264.0,
     "name":"PEARL-1H",
     "names":"",
     "image":"",
@@ -39818,8 +39818,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T00:26:52.374028Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-11-29T17:50:09.804997Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 
