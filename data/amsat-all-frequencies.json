@@ -9846,7 +9846,7 @@
   },
   {
     "name":"NinjaSat",
-    "norad_id":null,
+    "norad_id":"58341",
     "uplink":null,
     "downlink":"402.000",
     "beacon":null,
