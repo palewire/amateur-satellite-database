@@ -24106,11 +24106,11 @@
     "norad_cat_id":99320.0,
     "norad_follow_id":null,
     "name":"EIRSAT-1",
-    "names":"",
+    "names":"Educational Irish Research Satellite 1",
     "image":"satellites\/eirsat-1.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-12-01T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/www.eirsat1.ie\/",
     "operator":"None",
@@ -24118,8 +24118,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-15T09:58:23.169203Z",
-    "citation":"https:\/\/www.eirsat1.ie\/",
+    "updated":"2023-11-30T23:13:32.223144Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=59389.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38418,7 +38418,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-29T00:00:00Z",
+    "launched":"2023-12-01T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/www.bazoomq.org\/hayasat-1",
     "operator":"None",
@@ -38426,9 +38426,9 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-19T13:52:56.863230Z",
-    "citation":"Add temporary NORAD ID",
-    "is_frequency_violator":false,
+    "updated":"2023-11-30T23:12:21.631634Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=59389.0",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -39062,20 +39062,20 @@
     "norad_cat_id":99011.0,
     "norad_follow_id":null,
     "name":"SpIRIT",
-    "names":"",
+    "names":"Space Industry - Responsive - Intelligent - Thermal)",
     "image":"satellites\/spirit.png",
     "status":"future",
     "decayed":null,
-    "launched":"2023-11-30T00:00:00Z",
+    "launched":"2023-12-01T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/spirit.research.unimelb.edu.au\/",
     "operator":"None",
-    "countries":"",
+    "countries":"AU,IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T08:04:11.687616Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/267#note_1634870861",
+    "updated":"2023-11-30T23:15:38.548218Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=59389.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
