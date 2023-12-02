@@ -24108,9 +24108,9 @@
     "name":"EIRSAT-1",
     "names":"Educational Irish Research Satellite 1",
     "image":"satellites\/eirsat-1.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2023-12-01T18:18:00Z",
+    "launched":"2023-12-01T18:19:00Z",
     "deployed":null,
     "website":"https:\/\/www.eirsat1.ie\/",
     "operator":"None",
@@ -24118,8 +24118,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-30T23:13:32.223144Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=59389.0",
+    "updated":"2023-12-01T17:30:23.825698Z",
+    "citation":"Update launch date and status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38416,9 +38416,9 @@
     "name":"Hayasat",
     "names":"Hayasat-1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2023-12-01T18:18:00Z",
+    "launched":"2023-12-01T18:19:00Z",
     "deployed":null,
     "website":"https:\/\/www.bazoomq.org\/hayasat-1",
     "operator":"None",
@@ -38426,8 +38426,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-30T23:12:21.631634Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=59389.0",
+    "updated":"2023-12-01T17:30:22.165774Z",
+    "citation":"Update launch date and status",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39063,10 +39063,10 @@
     "norad_follow_id":null,
     "name":"SpIRIT",
     "names":"Space Industry - Responsive - Intelligent - Thermal)",
-    "image":"satellites\/spirit.png",
-    "status":"future",
+    "image":"satellites\/Orbital4_landscape_coloursun_4000-min.png",
+    "status":"alive",
     "decayed":null,
-    "launched":"2023-12-01T18:18:00Z",
+    "launched":"2023-12-01T18:19:00Z",
     "deployed":null,
     "website":"https:\/\/spirit.research.unimelb.edu.au\/",
     "operator":"None",
@@ -39074,8 +39074,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-30T23:15:38.548218Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=59389.0",
+    "updated":"2023-12-01T19:44:11.279789Z",
+    "citation":"To be updated",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39276,7 +39276,7 @@
   {
     "sat_id":"JRGY-6734-9744-8857-6516",
     "norad_cat_id":99004.0,
-    "norad_follow_id":58295.0,
+    "norad_follow_id":58321.0,
     "name":"ProtoM\u00e9th\u00e9e-1",
     "names":"",
     "image":"",
@@ -39290,8 +39290,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-30T00:39:35.435367Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2023-12-01T22:50:56.183625Z",
+    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1730708789156884755",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40444,6 +40444,102 @@
     ],
     "updated":"2023-11-23T05:57:17.894350Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1xoH7E2Ba2yhTvtPOl4mDUZTVe5EzXQ2qwxaztfycnYo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OBZD-9153-9709-2837-1280",
+    "norad_cat_id":98971.0,
+    "norad_follow_id":null,
+    "name":"ENSO",
+    "names":"ROBUSTA 1E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-12-01T18:19:00Z",
+    "deployed":null,
+    "website":"http:\/\/csu.edu.umontpellier.fr\/",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-01T17:20:25.984133Z",
+    "citation":"http:\/\/csu.edu.umontpellier.fr\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NMEW-0079-8218-4373-2445",
+    "norad_cat_id":98970.0,
+    "norad_follow_id":null,
+    "name":"KOYOH",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-12-01T18:19:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.kenkai.jaxa.jp\/kakushin\/kakushin03.html",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-01T19:44:44.544568Z",
+    "citation":"https:\/\/global.jaxa.jp\/press\/2023\/12\/20231201-1_e.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BVAM-1721-9431-5775-2144",
+    "norad_cat_id":98969.0,
+    "norad_follow_id":null,
+    "name":"uHETSat",
+    "names":"microHETSat, \u03bcHETSat",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-12-01T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-01T16:58:59.572220Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=korea425 and https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BZWJ-9712-5590-5046-8513",
+    "norad_cat_id":98968.0,
+    "norad_follow_id":null,
+    "name":"ION SCV Daring Diego",
+    "names":"InOrbit NOW - Satellite Carrier Vehicle 12",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-12-01T18:19:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.dorbit.space\/",
+    "operator":"None",
+    "countries":"IT",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-01T19:43:45.515605Z",
+    "citation":"https:\/\/www.dorbit.space\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
