@@ -1508,7 +1508,7 @@
   },
   {
     "name":"BARRY-1",
-    "norad_id":"58335",
+    "norad_id":"58338",
     "uplink":null,
     "downlink":"401.500\/2245.000",
     "beacon":null,
@@ -5056,7 +5056,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -6608,6 +6608,17 @@
     "mode":"1200bps AFSK",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"Hayasat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.020",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8170,6 +8181,17 @@
     "mode":"1k2AFSK 9k6GMSK CW",
     "callsign":null,
     "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"KOYOH",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"467.674",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -11683,7 +11705,7 @@
   },
   {
     "name":"PROTOMETHEE-1",
-    "norad_id":null,
+    "norad_id":"58321",
     "uplink":null,
     "downlink":"401.050*\/401.450\/402.925\/2220.000\/2262.000\/2280.700",
     "beacon":null,
@@ -12301,11 +12323,11 @@
     "name":"ROBUSTA-1E",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"436.250",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"2400bps GMSK",
+    "callsign":"FX6FRC",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -14042,6 +14064,17 @@
     "downlink":null,
     "beacon":null,
     "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SpIRIT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.895",
+    "beacon":null,
+    "mode":"9600bps FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -16234,6 +16267,17 @@
     "callsign":"JG6YLE",
     "status":"re-entered",
     "satnogs_id":"OZTE-8267-1332-2799-5699"
+  },
+  {
+    "name":"uHETSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"UiTMSat-1",

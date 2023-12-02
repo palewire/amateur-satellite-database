@@ -19003,10 +19003,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -24104,7 +24104,7 @@
   {
     "sat_id":"HKNJ-5808-9467-1239-6592",
     "norad_cat_id":99320.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58468.0,
     "name":"EIRSAT-1",
     "names":"Educational Irish Research Satellite 1",
     "image":"satellites\/eirsat-1.png",
@@ -24118,11 +24118,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-01T17:30:23.825698Z",
-    "citation":"Update launch date and status",
+    "updated":"2023-12-02T08:52:57.562757Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "TOGH-5973-3244-4606-0194"
     ]
   },
   {
@@ -38412,7 +38412,7 @@
   {
     "sat_id":"FNGO-2772-5931-1779-2835",
     "norad_cat_id":99032.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58465.0,
     "name":"Hayasat",
     "names":"Hayasat-1",
     "image":"",
@@ -38426,8 +38426,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-01T17:30:22.165774Z",
-    "citation":"Update launch date and status",
+    "updated":"2023-12-02T09:37:38.577579Z",
+    "citation":"Random choice of published objects",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39060,7 +39060,7 @@
   {
     "sat_id":"QFRO-8807-8086-2793-1420",
     "norad_cat_id":99011.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58468.0,
     "name":"SpIRIT",
     "names":"Space Industry - Responsive - Intelligent - Thermal)",
     "image":"satellites\/Orbital4_landscape_coloursun_4000-min.png",
@@ -39074,8 +39074,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-01T19:44:11.279789Z",
-    "citation":"To be updated",
+    "updated":"2023-12-02T09:23:12.215033Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40452,7 +40452,7 @@
   {
     "sat_id":"OBZD-9153-9709-2837-1280",
     "norad_cat_id":98971.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58468.0,
     "name":"ENSO",
     "names":"ROBUSTA 1E",
     "image":"",
@@ -40466,8 +40466,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-01T17:20:25.984133Z",
-    "citation":"http:\/\/csu.edu.umontpellier.fr\/",
+    "updated":"2023-12-02T09:30:02.707275Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40476,7 +40476,7 @@
   {
     "sat_id":"NMEW-0079-8218-4373-2445",
     "norad_cat_id":98970.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58465.0,
     "name":"KOYOH",
     "names":"",
     "image":"",
@@ -40490,8 +40490,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-01T19:44:44.544568Z",
-    "citation":"https:\/\/global.jaxa.jp\/press\/2023\/12\/20231201-1_e.html",
+    "updated":"2023-12-02T09:37:49.615228Z",
+    "citation":"Random choice of published objects",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40500,7 +40500,7 @@
   {
     "sat_id":"BVAM-1721-9431-5775-2144",
     "norad_cat_id":98969.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58466.0,
     "name":"uHETSat",
     "names":"microHETSat, \u03bcHETSat",
     "image":"",
@@ -40514,8 +40514,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-01T16:58:59.572220Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=korea425 and https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997",
+    "updated":"2023-12-02T09:22:46.294598Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40524,7 +40524,7 @@
   {
     "sat_id":"BZWJ-9712-5590-5046-8513",
     "norad_cat_id":98968.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58463.0,
     "name":"ION SCV Daring Diego",
     "names":"InOrbit NOW - Satellite Carrier Vehicle 12",
     "image":"",
@@ -40538,8 +40538,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-01T19:43:45.515605Z",
-    "citation":"https:\/\/www.dorbit.space\/",
+    "updated":"2023-12-02T08:52:30.069609Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -211,7 +211,7 @@
   },
   {
     "name":"BARRY-1",
-    "norad_id":"58335",
+    "norad_id":"58338",
     "uplink":null,
     "downlink":"401.500\/2245.000",
     "beacon":null,
@@ -1168,6 +1168,16 @@
     "mode":"1k2AFSK_USB",
     "callsign":null,
     "satnogs_id":"GTMF-2365-6960-5386-3224"
+  },
+  {
+    "name":"EIRSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.100",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"EOS-7",
@@ -2698,6 +2708,16 @@
     "mode":"1200bps AFSK CW",
     "callsign":"FX6FR",
     "satnogs_id":"YIMH-1412-6494-9671-2122"
+  },
+  {
+    "name":"ROBUSTA-1E",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.250",
+    "beacon":null,
+    "mode":"2400bps GMSK",
+    "callsign":"FX6FRC",
+    "satnogs_id":null
   },
   {
     "name":"RoseyCubesat-1",
