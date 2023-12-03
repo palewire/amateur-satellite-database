@@ -5050,7 +5050,7 @@
   },
   {
     "name":"EIRSAT-1",
-    "norad_id":null,
+    "norad_id":"58470",
     "uplink":null,
     "downlink":"437.100",
     "beacon":null,
@@ -5105,13 +5105,13 @@
   },
   {
     "name":"ENSO",
-    "norad_id":null,
+    "norad_id":"58471",
     "uplink":null,
-    "downlink":null,
+    "downlink":"436.250",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"2400bps GMSK",
+    "callsign":"FX6FRC",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -6612,7 +6612,7 @@
   },
   {
     "name":"Hayasat-1",
-    "norad_id":null,
+    "norad_id":"58465",
     "uplink":null,
     "downlink":"437.020",
     "beacon":null,
@@ -7272,7 +7272,7 @@
   },
   {
     "name":"INTUITION-1",
-    "norad_id":null,
+    "norad_id":"58287",
     "uplink":null,
     "downlink":"401.400",
     "beacon":null,
@@ -7426,7 +7426,7 @@
   },
   {
     "name":"ION-SCV 012",
-    "norad_id":null,
+    "norad_id":"58463",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
@@ -8185,7 +8185,7 @@
   },
   {
     "name":"KOYOH",
-    "norad_id":null,
+    "norad_id":"58465",
     "uplink":null,
     "downlink":"467.674",
     "beacon":null,
@@ -10908,7 +10908,7 @@
     "beacon":null,
     "mode":"9k6\/12k0 FSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"ZFWW-4105-8005-8470-1991"
   },
   {
@@ -12321,7 +12321,7 @@
   },
   {
     "name":"ROBUSTA-1E",
-    "norad_id":null,
+    "norad_id":"58471",
     "uplink":null,
     "downlink":"436.250",
     "beacon":null,
@@ -14070,7 +14070,7 @@
   },
   {
     "name":"SpIRIT",
-    "norad_id":null,
+    "norad_id":"58468",
     "uplink":null,
     "downlink":"401.895",
     "beacon":null,
@@ -16270,7 +16270,7 @@
   },
   {
     "name":"uHETSat",
-    "norad_id":null,
+    "norad_id":"58466",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,

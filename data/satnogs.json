@@ -19003,10 +19003,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -24104,7 +24104,7 @@
   {
     "sat_id":"HKNJ-5808-9467-1239-6592",
     "norad_cat_id":99320.0,
-    "norad_follow_id":58468.0,
+    "norad_follow_id":58470.0,
     "name":"EIRSAT-1",
     "names":"Educational Irish Research Satellite 1",
     "image":"satellites\/eirsat-1.png",
@@ -24118,8 +24118,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T08:52:57.562757Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-02T14:31:00.301634Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/53",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TOGH-5973-3244-4606-0194"
@@ -38412,7 +38412,7 @@
   {
     "sat_id":"FNGO-2772-5931-1779-2835",
     "norad_cat_id":99032.0,
-    "norad_follow_id":58465.0,
+    "norad_follow_id":58472.0,
     "name":"Hayasat",
     "names":"Hayasat-1",
     "image":"",
@@ -38426,8 +38426,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T09:37:38.577579Z",
-    "citation":"Random choice of published objects",
+    "updated":"2023-12-02T23:46:49.861209Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39060,7 +39060,7 @@
   {
     "sat_id":"QFRO-8807-8086-2793-1420",
     "norad_cat_id":99011.0,
-    "norad_follow_id":58468.0,
+    "norad_follow_id":58467.0,
     "name":"SpIRIT",
     "names":"Space Industry - Responsive - Intelligent - Thermal)",
     "image":"satellites\/Orbital4_landscape_coloursun_4000-min.png",
@@ -39074,8 +39074,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T09:23:12.215033Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-02T15:33:14.187528Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39540,7 +39540,7 @@
   {
     "sat_id":"ZPXA-7109-5221-3293-0780",
     "norad_cat_id":98993.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58287.0,
     "name":"Intuition-1",
     "names":"",
     "image":"satellites\/c8095440-15c5-404b-8c3a-b7909744af73.png",
@@ -39554,8 +39554,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-23T12:21:01.568219Z",
-    "citation":"Przemek Recha",
+    "updated":"2023-12-02T19:41:12.350686Z",
+    "citation":"PE2BZ strf observations, https:\/\/docs.google.com\/document\/d\/1WAUL0aOxxDnYLS7MvdWZzUY1QmVodFOUhxeUD5Mg1zc\/edit",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40452,7 +40452,7 @@
   {
     "sat_id":"OBZD-9153-9709-2837-1280",
     "norad_cat_id":98971.0,
-    "norad_follow_id":58468.0,
+    "norad_follow_id":58471.0,
     "name":"ENSO",
     "names":"ROBUSTA 1E",
     "image":"",
@@ -40466,8 +40466,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T09:30:02.707275Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-02T14:45:56.991728Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40524,7 +40524,7 @@
   {
     "sat_id":"BZWJ-9712-5590-5046-8513",
     "norad_cat_id":98968.0,
-    "norad_follow_id":58463.0,
+    "norad_follow_id":58469.0,
     "name":"ION SCV Daring Diego",
     "names":"InOrbit NOW - Satellite Carrier Vehicle 12",
     "image":"",
@@ -40538,8 +40538,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T08:52:30.069609Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-02T20:21:49.968026Z",
+    "citation":"PE2BZ strf observations, https:\/\/docs.google.com\/document\/d\/10i3fgIY2VKV96g6ZbcbU8W7u5H6rX2k_WxPiwmPnBMM\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

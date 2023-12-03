@@ -1171,12 +1171,22 @@
   },
   {
     "name":"EIRSAT-1",
-    "norad_id":null,
+    "norad_id":"58470",
     "uplink":null,
     "downlink":"437.100",
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"ENSO",
+    "norad_id":"58471",
+    "uplink":null,
+    "downlink":"436.250",
+    "beacon":null,
+    "mode":"2400bps GMSK",
+    "callsign":"FX6FRC",
     "satnogs_id":null
   },
   {
@@ -1721,7 +1731,7 @@
   },
   {
     "name":"INTUITION-1",
-    "norad_id":null,
+    "norad_id":"58287",
     "uplink":null,
     "downlink":"401.400",
     "beacon":null,
@@ -2711,7 +2721,7 @@
   },
   {
     "name":"ROBUSTA-1E",
-    "norad_id":null,
+    "norad_id":"58471",
     "uplink":null,
     "downlink":"436.250",
     "beacon":null,
