@@ -1790,6 +1790,16 @@
     "satnogs_id":"TWEF-8525-8046-9814-5948"
   },
   {
+    "name":"ION-SCV 012",
+    "norad_id":"58469",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"ION-SCV 013",
     "norad_id":"58300",
     "uplink":null,
@@ -3068,6 +3078,16 @@
     "mode":"9k6 GMSK",
     "callsign":"SPEIST",
     "satnogs_id":"RINJ-3108-9789-8075-5047"
+  },
+  {
+    "name":"SpIRIT",
+    "norad_id":"58467",
+    "uplink":null,
+    "downlink":"401.895",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"SPROUT",

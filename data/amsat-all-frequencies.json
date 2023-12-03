@@ -7426,13 +7426,13 @@
   },
   {
     "name":"ION-SCV 012",
-    "norad_id":"58463",
+    "norad_id":"58469",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -13944,7 +13944,7 @@
     "beacon":null,
     "mode":"1200bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -14070,13 +14070,13 @@
   },
   {
     "name":"SpIRIT",
-    "norad_id":"58468",
+    "norad_id":"58467",
     "uplink":null,
     "downlink":"401.895",
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
