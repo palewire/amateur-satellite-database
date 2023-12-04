@@ -6524,7 +6524,7 @@
   },
   {
     "name":"Hades-D",
-    "norad_id":"58294",
+    "norad_id":"58288",
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
@@ -8187,7 +8187,7 @@
     "name":"KOYOH",
     "norad_id":"58465",
     "uplink":null,
-    "downlink":"467.674",
+    "downlink":"467.674\/1624.000",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
@@ -14070,7 +14070,7 @@
   },
   {
     "name":"SpIRIT",
-    "norad_id":"58467",
+    "norad_id":"58468",
     "uplink":null,
     "downlink":"401.895",
     "beacon":null,
@@ -16274,7 +16274,7 @@
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
-    "mode":"FM",
+    "mode":"19k2BPSK 38k4FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

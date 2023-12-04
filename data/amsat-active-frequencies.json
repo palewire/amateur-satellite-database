@@ -1581,7 +1581,7 @@
   },
   {
     "name":"Hades-D",
-    "norad_id":"58294",
+    "norad_id":"58288",
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
@@ -3081,7 +3081,7 @@
   },
   {
     "name":"SpIRIT",
-    "norad_id":"58467",
+    "norad_id":"58468",
     "uplink":null,
     "downlink":"401.895",
     "beacon":null,
