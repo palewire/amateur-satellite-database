@@ -6612,13 +6612,13 @@
   },
   {
     "name":"Hayasat-1",
-    "norad_id":"58465",
+    "norad_id":"58472",
     "uplink":null,
     "downlink":"437.020",
     "beacon":null,
-    "mode":"FM",
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9600bps GFSK",
+    "callsign":"EK1HYS",
+    "status":null,
     "satnogs_id":null
   },
   {

@@ -19226,10 +19226,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -38414,7 +38414,7 @@
     "norad_cat_id":99032.0,
     "norad_follow_id":58472.0,
     "name":"Hayasat",
-    "names":"Hayasat-1",
+    "names":"Hayasat-1, EK1HYS",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -38426,8 +38426,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T23:46:49.861209Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-03T15:53:05.420504Z",
+    "citation":"Direwolf demodulating of Network observation",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39084,7 +39084,7 @@
   {
     "sat_id":"QDDY-8878-5291-1819-3935",
     "norad_cat_id":99010.0,
-    "norad_follow_id":58335.0,
+    "norad_follow_id":58338.0,
     "name":"Barry-1",
     "names":"B1B2",
     "image":"satellites\/b1b2_angles_v001_0005.png",
@@ -39098,8 +39098,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-28T23:37:47.464882Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-03T18:49:34.929744Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/13cl5S6AiW70o9frt17o-q0PcxgeMfczc7U_bV8vjAOQ\/edit",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40450,6 +40450,30 @@
     ]
   },
   {
+    "sat_id":"QXLX-4263-5398-3029-3278",
+    "norad_cat_id":48273.0,
+    "norad_follow_id":null,
+    "name":"Lemur 2 special K",
+    "names":"2021-034F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-04-29T00:00:00Z",
+    "deployed":"2021-04-29T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-03T18:51:52.116009Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1QeOmkdBgBDfCSlN7LL_noYK9BC5ZIB9Fmf5skVAoKoc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"OBZD-9153-9709-2837-1280",
     "norad_cat_id":98971.0,
     "norad_follow_id":58471.0,
@@ -40540,6 +40564,30 @@
     ],
     "updated":"2023-12-02T20:21:49.968026Z",
     "citation":"PE2BZ strf observations, https:\/\/docs.google.com\/document\/d\/10i3fgIY2VKV96g6ZbcbU8W7u5H6rX2k_WxPiwmPnBMM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WPRT-4528-3777-6338-0543",
+    "norad_cat_id":48927.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 AC_CUBED",
+    "names":"2021-059BA",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":"2021-06-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-03T19:07:29.617271Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1hZ8QYSUnQqwwxjbP8Dzy73I4CaqwgEliYwXHFGZ-0Eg\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
