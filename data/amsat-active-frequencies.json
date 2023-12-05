@@ -217,7 +217,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"B12",
-    "satnogs_id":null
+    "satnogs_id":"QDDY-8878-5291-1819-3935"
   },
   {
     "name":"BCCSAT-1",
@@ -407,7 +407,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"EXYP-7555-6232-5402-1667"
   },
   {
     "name":"BSUSat-1",
@@ -777,7 +777,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"CONT32",
-    "satnogs_id":null
+    "satnogs_id":"ZAVF-3403-5726-0559-1255"
   },
   {
     "name":"CO-55",
@@ -1857,7 +1857,7 @@
     "beacon":null,
     "mode":"9600bps BPSK",
     "callsign":"BN0TR1",
-    "satnogs_id":null
+    "satnogs_id":"JZOW-0900-7355-5555-3949"
   },
   {
     "name":"iSat",
@@ -1967,7 +1967,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":"KAFSAT-1",
-    "satnogs_id":null
+    "satnogs_id":"APQS-1800-5981-4551-3856"
   },
   {
     "name":"KAITUO-1B",
@@ -2537,7 +2537,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"PEARLC",
-    "satnogs_id":null
+    "satnogs_id":"BSTS-8626-7603-3020-3063"
   },
   {
     "name":"PEARL-1H",
@@ -2772,10 +2772,10 @@
   {
     "name":"SanoSat-1",
     "norad_id":"51031",
-    "uplink":null,
+    "uplink":"436.235",
     "downlink":"436.235",
     "beacon":"436.235",
-    "mode":"500*bps GFSK RTTY* CW",
+    "mode":"500bps GFSK RTTY CW Digipeater",
     "callsign":"AM9NPQ",
     "satnogs_id":"BZWR-6172-2785-3507-5423"
   },
@@ -3697,7 +3697,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"OM9VER",
-    "satnogs_id":null
+    "satnogs_id":"EXYP-7555-6232-5402-1667"
   },
   {
     "name":"Vizard",

@@ -36943,8 +36943,8 @@
   },
   {
     "sat_id":"EXYP-7555-6232-5402-1667",
-    "norad_cat_id":99052.0,
-    "norad_follow_id":58261.0,
+    "norad_cat_id":58261.0,
+    "norad_follow_id":null,
     "name":"Veronika",
     "names":"Veronica",
     "image":"satellites\/veronika_G6OopQK.jpg",
@@ -36960,11 +36960,11 @@
         "decoder":"veronika"
       }
     ],
-    "updated":"2023-11-29T11:48:39.399865Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/212",
+    "updated":"2023-12-05T02:17:52.422136Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58261\/2023-12-04T21%3A42%3A30_8649047_58261_23174F_0-OBJECT-F_0.3354654288889378_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "DQNU-0623-7968-4457-6637"
     ]
   },
   {
@@ -38555,8 +38555,8 @@
   },
   {
     "sat_id":"ZAVF-3403-5726-0559-1255",
-    "norad_cat_id":99030.0,
-    "norad_follow_id":58268.0,
+    "norad_cat_id":58268.0,
+    "norad_follow_id":null,
     "name":"Connecta T3.2",
     "names":"",
     "image":"satellites\/connecta_T_3_2_.jpg",
@@ -38570,8 +38570,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-28T22:42:37.443956Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-05T01:12:01.553524Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58268\/2023-12-04T21%3A44%3A24_8648877_58268_23174N_0-OBJECT-N_0.33782579333330887_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38651,8 +38651,8 @@
   },
   {
     "sat_id":"APQS-1800-5981-4551-3856",
-    "norad_cat_id":99028.0,
-    "norad_follow_id":58317.0,
+    "norad_cat_id":58317.0,
+    "norad_follow_id":null,
     "name":"KAFASAT",
     "names":"Korea Air Force Academy Satellite",
     "image":"satellites\/Kafasat.jpg",
@@ -38666,11 +38666,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T01:53:37.571013Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-05T02:49:04.853618Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58317\/2023-12-04T23%3A30%3A45_8641222_58317_23174BP_0-OBJECT-BP_0.43286362999998573_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "AJCL-1372-8870-8487-2083"
     ]
   },
   {
@@ -39060,7 +39060,7 @@
   {
     "sat_id":"QFRO-8807-8086-2793-1420",
     "norad_cat_id":99011.0,
-    "norad_follow_id":58467.0,
+    "norad_follow_id":58468.0,
     "name":"SpIRIT",
     "names":"Space Industry - Responsive - Intelligent - Thermal)",
     "image":"satellites\/Orbital4_landscape_coloursun_4000-min.png",
@@ -39074,8 +39074,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T15:33:14.187528Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2023-12-05T01:10:24.511057Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/65",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39083,8 +39083,8 @@
   },
   {
     "sat_id":"QDDY-8878-5291-1819-3935",
-    "norad_cat_id":99010.0,
-    "norad_follow_id":58338.0,
+    "norad_cat_id":58338.0,
+    "norad_follow_id":null,
     "name":"Barry-1",
     "names":"B1B2",
     "image":"satellites\/b1b2_angles_v001_0005.png",
@@ -39098,17 +39098,17 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-03T18:49:34.929744Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/13cl5S6AiW70o9frt17o-q0PcxgeMfczc7U_bV8vjAOQ\/edit",
+    "updated":"2023-12-05T01:32:26.440318Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58338\/2023-12-04T22%3A34%3A58_8646639_58338_23174CL_0-OBJECT-CL_0.4016610540740544_B_r24.0_f-1.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "NBQF-9040-3877-9153-0686"
     ]
   },
   {
     "sat_id":"BSTS-8626-7603-3020-3063",
-    "norad_cat_id":99009.0,
-    "norad_follow_id":58342.0,
+    "norad_cat_id":58342.0,
+    "norad_follow_id":null,
     "name":"PEARL-1C",
     "names":"Foxconn PEARL-1C",
     "image":"",
@@ -39122,11 +39122,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T00:31:51.455865Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-05T02:03:55.290558Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58342\/2023-12-04T10%3A16%3A16_8646307_58342_23174CQ_0-OBJECT-CQ_0.10834076703702067_A_r29.0_f-1.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "JJET-4414-9657-1652-9112"
     ]
   },
   {
@@ -39170,8 +39170,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-28T23:27:35.733781Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-05T03:31:21.180042Z",
+    "citation":"Revert previous change",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39300,7 +39300,7 @@
   {
     "sat_id":"BKIY-3032-2869-4485-1697",
     "norad_cat_id":99002.0,
-    "norad_follow_id":58261.0,
+    "norad_follow_id":58264.0,
     "name":"BRO-11",
     "names":"",
     "image":"",
@@ -39314,8 +39314,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T01:46:34.749963Z",
-    "citation":"By ikhnos in latest observations and that 58331 is probably BRO 10",
+    "updated":"2023-12-05T02:14:02.124819Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39660,7 +39660,7 @@
   {
     "sat_id":"LGHP-5450-2821-1755-7868",
     "norad_cat_id":98987.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58292.0,
     "name":"UMBRA 08",
     "names":"",
     "image":"",
@@ -39674,8 +39674,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.780514Z",
-    "citation":"Change status",
+    "updated":"2023-12-05T03:13:21.490545Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39756,7 +39756,7 @@
   {
     "sat_id":"KDPU-1823-6370-5846-1492",
     "norad_cat_id":98981.0,
-    "norad_follow_id":58294.0,
+    "norad_follow_id":58295.0,
     "name":"HADES-D",
     "names":"HYDRA-1",
     "image":"",
@@ -39770,8 +39770,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T17:51:13.439223Z",
-    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1729878632108351712",
+    "updated":"2023-12-05T02:57:26.481412Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39804,7 +39804,7 @@
   {
     "sat_id":"GLVU-3778-3036-0537-1969",
     "norad_cat_id":98980.0,
-    "norad_follow_id":58264.0,
+    "norad_follow_id":58265.0,
     "name":"PEARL-1H",
     "names":"",
     "image":"",
@@ -39818,8 +39818,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T17:50:09.804997Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2023-12-05T01:44:58.825151Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39875,8 +39875,8 @@
   },
   {
     "sat_id":"JZOW-0900-7355-5555-3949",
-    "norad_cat_id":98978.0,
-    "norad_follow_id":58269.0,
+    "norad_cat_id":58269.0,
+    "norad_follow_id":null,
     "name":"IRIS-C2",
     "names":"",
     "image":"",
@@ -39890,8 +39890,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T00:13:39.923095Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-05T01:48:07.266093Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58269\/2023-12-01T20%3A40%3A06_8623449_58269_23174P_0-OBJECT-P_2.7029603544444285_A_r38.5_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40020,7 +40020,7 @@
   {
     "sat_id":"CJIB-5087-6895-1673-1473",
     "norad_cat_id":98974.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58288.0,
     "name":"ICEYEX 34",
     "names":"",
     "image":"",
@@ -40034,8 +40034,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-12T16:11:15.032658Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2023-12-05T03:15:10.385368Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
