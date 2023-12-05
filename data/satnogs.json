@@ -19003,10 +19003,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19716,8 +19716,8 @@
     "name":"CTIM",
     "names":"Compact Total Irradiance Monitor, CTIM-FD",
     "image":"satellites\/ctim.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-12-03T23:36:42Z",
     "launched":"2022-07-02T06:53:05Z",
     "deployed":"2022-07-02T07:48:02Z",
     "website":"https:\/\/lasp.colorado.edu\/home\/",
@@ -19728,8 +19728,8 @@
         "decoder":"ctim"
       }
     ],
-    "updated":"2022-08-08T19:27:50.989362Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-52950\/2022-07-07T22%3A03%3A16_6183819_52950_22074G_0-OBJECT-G_0.7368489051851839_B_r29.0_f-4.8.png",
+    "updated":"2023-12-04T18:42:17.463684Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/8646760\/",
     "is_frequency_violator":false,
     "associated_satellites":[
       "MOJV-8566-2861-8382-5319"
@@ -24104,7 +24104,7 @@
   {
     "sat_id":"HKNJ-5808-9467-1239-6592",
     "norad_cat_id":99320.0,
-    "norad_follow_id":58470.0,
+    "norad_follow_id":58472.0,
     "name":"EIRSAT-1",
     "names":"Educational Irish Research Satellite 1",
     "image":"satellites\/eirsat-1.png",
@@ -24118,8 +24118,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T14:31:00.301634Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/53",
+    "updated":"2023-12-04T13:54:03.392055Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TOGH-5973-3244-4606-0194"
@@ -38531,8 +38531,8 @@
   },
   {
     "sat_id":"IMJX-7102-0140-6430-7844",
-    "norad_cat_id":99031.0,
-    "norad_follow_id":58256.0,
+    "norad_cat_id":58256.0,
+    "norad_follow_id":null,
     "name":"Connecta T3.1",
     "names":"",
     "image":"satellites\/connecta_T_3_1_.jpg",
@@ -38546,8 +38546,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-28T22:47:48.745318Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-05T00:56:09.126368Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58256",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40476,7 +40476,7 @@
   {
     "sat_id":"OBZD-9153-9709-2837-1280",
     "norad_cat_id":98971.0,
-    "norad_follow_id":58471.0,
+    "norad_follow_id":58470.0,
     "name":"ENSO",
     "names":"ROBUSTA 1E",
     "image":"",
@@ -40490,7 +40490,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T14:45:56.991728Z",
+    "updated":"2023-12-04T13:55:00.269974Z",
     "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[

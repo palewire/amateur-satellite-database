@@ -3495,7 +3495,7 @@
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"CONT31",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"IMJX-7102-0140-6430-7844"
   },
   {
     "name":"Connecta-T3.2",
@@ -5050,7 +5050,7 @@
   },
   {
     "name":"EIRSAT-1",
-    "norad_id":"58470",
+    "norad_id":"58472",
     "uplink":null,
     "downlink":"437.100",
     "beacon":null,
@@ -5105,7 +5105,7 @@
   },
   {
     "name":"ENSO",
-    "norad_id":"58471",
+    "norad_id":"58470",
     "uplink":null,
     "downlink":"436.250",
     "beacon":null,
@@ -6612,7 +6612,7 @@
   },
   {
     "name":"Hayasat-1",
-    "norad_id":"58472",
+    "norad_id":"58471",
     "uplink":null,
     "downlink":"437.020",
     "beacon":null,
