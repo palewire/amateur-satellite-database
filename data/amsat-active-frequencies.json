@@ -1513,9 +1513,9 @@
     "name":"Geoscan-Edelveis",
     "norad_id":"53385",
     "uplink":null,
-    "downlink":"436.200",
+    "downlink":"436.200\/10492.000",
     "beacon":null,
-    "mode":"9600bps GFSK USP",
+    "mode":"9k6\/19k2 GFSK USP",
     "callsign":"RS20S",
     "satnogs_id":"QNCD-8954-6090-5430-2718"
   },
@@ -1581,11 +1581,11 @@
   },
   {
     "name":"Hades-D",
-    "norad_id":"58288",
+    "norad_id":"58295",
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
-    "mode":"50*\/300\/1k2-9k6 FSK CW*",
+    "mode":"50*\/300\/1k2-9k6 FSK CW",
     "callsign":null,
     "satnogs_id":null
   },
