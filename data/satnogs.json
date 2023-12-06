@@ -19226,10 +19226,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -39468,7 +39468,7 @@
   {
     "sat_id":"OOYQ-2133-7925-7790-1283",
     "norad_cat_id":98996.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58340.0,
     "name":"ROM-3",
     "names":"",
     "image":"",
@@ -39482,8 +39482,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-27T23:31:05.829924Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/186",
+    "updated":"2023-12-05T19:40:53.831452Z",
+    "citation":"Based on PE0SAT strf observation, nearest fit to published objects",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40588,6 +40588,30 @@
     ],
     "updated":"2023-12-03T19:07:29.617271Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1hZ8QYSUnQqwwxjbP8Dzy73I4CaqwgEliYwXHFGZ-0Eg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XHYX-9639-5655-6764-6186",
+    "norad_cat_id":42901.0,
+    "norad_follow_id":null,
+    "name":"Venus",
+    "names":"2017-044B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-08-02T00:00:00Z",
+    "deployed":"2017-08-02T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IL",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-05T22:30:26.885489Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/11xkvKWF38ffIuRoAjkN7DHhjyI5iEcpyKIoAvYPlKuA\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
