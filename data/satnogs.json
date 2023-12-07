@@ -36538,6 +36538,30 @@
     ]
   },
   {
+    "sat_id":"DYUQ-9009-0075-1351-1230",
+    "norad_cat_id":43034.0,
+    "norad_follow_id":null,
+    "name":"LKW-1",
+    "names":"2017-077A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-12-03T00:00:00Z",
+    "deployed":"2017-12-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-07T10:53:04.514637Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1REoqbOkv1K3Re_djUq9tnMoLWApr3ip2DhGpDDLPDfg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"ZJIS-2442-4739-9389-0871",
     "norad_cat_id":55690.0,
     "norad_follow_id":null,
@@ -38679,8 +38703,8 @@
   },
   {
     "sat_id":"ZUPC-4545-0225-3537-3322",
-    "norad_cat_id":99027.0,
-    "norad_follow_id":58266.0,
+    "norad_cat_id":58266.0,
+    "norad_follow_id":null,
     "name":"DJIBOUTI-1A",
     "names":"",
     "image":"satellites\/photo1698580525.jpeg",
@@ -38694,8 +38718,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-28T22:36:27.338870Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-07T00:41:44.811419Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58266\/2023-12-06T19%3A42%3A40_8653786_58266_23174L_0-OBJECT-L_0.07400615629626373_B_r24.0_f-0.8.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39255,8 +39279,8 @@
   },
   {
     "sat_id":"MHAO-0598-9456-4702-5334",
-    "norad_cat_id":99005.0,
-    "norad_follow_id":58334.0,
+    "norad_cat_id":58334.0,
+    "norad_follow_id":null,
     "name":"Outpost Mission 2",
     "names":"",
     "image":"",
@@ -39270,8 +39294,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-28T23:54:57.321052Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-07T00:25:14.389172Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58334\/2023-12-06T20%3A40%3A38_8653745_58334_23174CG_0-OBJECT-CG_0.40377479592592636_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39951,8 +39975,8 @@
   },
   {
     "sat_id":"CVWL-5147-2655-6759-5452",
-    "norad_cat_id":98977.0,
-    "norad_follow_id":58301.0,
+    "norad_cat_id":58301.0,
+    "norad_follow_id":null,
     "name":"Impulse-1 (LEO Express-1)",
     "names":"",
     "image":"",
@@ -39966,8 +39990,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T02:00:02.229208Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-07T01:17:32.760912Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58301\/2023-12-06T08%3A06%3A21_8654005_58301_23174AX_0-IMPULSE-1-MIRA_0.1982684944444486_A_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
