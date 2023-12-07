@@ -2252,7 +2252,7 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"BISO-5259-3723-1730-8460"
   },
   {
     "name":"BRO-11",
@@ -7444,7 +7444,7 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"YODX-5832-7103-0922-4071"
   },
   {
     "name":"IO-26",

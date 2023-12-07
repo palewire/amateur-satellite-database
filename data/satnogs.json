@@ -8640,7 +8640,9 @@
     "operator":"None",
     "countries":"CH",
     "telemetries":[
-
+      {
+        "decoder":"Astrocast"
+      }
     ],
     "updated":"2023-05-06T18:53:55.785877Z",
     "citation":"https:\/\/www.astrocast.com\/",
@@ -9202,7 +9204,9 @@
     "operator":"None",
     "countries":"",
     "telemetries":[
-
+      {
+        "decoder":"Astrocast"
+      }
     ],
     "updated":"2023-11-22T15:35:24.797409Z",
     "citation":"dl7ndr",
@@ -19226,10 +19230,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -38723,8 +38727,8 @@
   },
   {
     "sat_id":"YODX-5832-7103-0922-4071",
-    "norad_cat_id":99025.0,
-    "norad_follow_id":58300.0,
+    "norad_cat_id":58300.0,
+    "norad_follow_id":null,
     "name":"ION SCV-013",
     "names":"Ultimate Hugo",
     "image":"",
@@ -38738,8 +38742,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-28T22:55:11.833669Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-06T23:25:35.833045Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58300\/2023-12-05T10%3A24%3A52_8652889_58300_23174AW_0-OBJECT-AW_0.017734275185205206_B_r24.0_f0.5.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39299,8 +39303,8 @@
   },
   {
     "sat_id":"BKIY-3032-2869-4485-1697",
-    "norad_cat_id":99002.0,
-    "norad_follow_id":58264.0,
+    "norad_cat_id":58264.0,
+    "norad_follow_id":null,
     "name":"BRO-11",
     "names":"",
     "image":"",
@@ -39314,8 +39318,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T02:14:02.124819Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-06T23:44:30.999399Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58264\/2023-12-06T08%3A56%3A44_8653487_58264_23174J_0-OBJECT-J_0.37798546851854553_A_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39323,8 +39327,8 @@
   },
   {
     "sat_id":"BISO-5259-3723-1730-8460",
-    "norad_cat_id":99003.0,
-    "norad_follow_id":58331.0,
+    "norad_cat_id":58331.0,
+    "norad_follow_id":null,
     "name":"BRO-10",
     "names":"",
     "image":"",
@@ -39338,8 +39342,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T01:32:16.567708Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-06T23:58:03.806307Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58331\/2023-12-06T09%3A50%3A38_8653508_58331_23174CD_0-OBJECT-CD_0.11329263296295267_A_r29.0_f-0.5.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39540,7 +39544,7 @@
   {
     "sat_id":"ZPXA-7109-5221-3293-0780",
     "norad_cat_id":98993.0,
-    "norad_follow_id":58287.0,
+    "norad_follow_id":58286.0,
     "name":"Intuition-1",
     "names":"",
     "image":"satellites\/c8095440-15c5-404b-8c3a-b7909744af73.png",
@@ -39554,8 +39558,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T19:41:12.350686Z",
-    "citation":"PE2BZ strf observations, https:\/\/docs.google.com\/document\/d\/1WAUL0aOxxDnYLS7MvdWZzUY1QmVodFOUhxeUD5Mg1zc\/edit",
+    "updated":"2023-12-06T23:54:13.064902Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39756,7 +39760,7 @@
   {
     "sat_id":"KDPU-1823-6370-5846-1492",
     "norad_cat_id":98981.0,
-    "norad_follow_id":58295.0,
+    "norad_follow_id":null,
     "name":"HADES-D",
     "names":"HYDRA-1",
     "image":"",
@@ -39770,8 +39774,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T02:57:26.481412Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-06T15:39:23.832627Z",
+    "citation":"Remove followed NORAD ID for using custom TLE set",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40612,6 +40616,30 @@
     ],
     "updated":"2023-12-05T22:30:26.885489Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/11xkvKWF38ffIuRoAjkN7DHhjyI5iEcpyKIoAvYPlKuA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BGOI-0085-7308-6493-3830",
+    "norad_cat_id":58435.0,
+    "norad_follow_id":null,
+    "name":"Cosmos 2571",
+    "names":"2023-182A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-25T00:00:00Z",
+    "deployed":"2023-11-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-06T19:46:35.476265Z",
+    "citation":"Fix name and NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
