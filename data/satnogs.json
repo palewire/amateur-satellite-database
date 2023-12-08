@@ -18556,7 +18556,7 @@
     "citation":"https:\/\/www.space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "AAAO-1928-7200-7877-9975"
     ]
   },
   {
@@ -19230,10 +19230,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
