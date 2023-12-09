@@ -9736,18 +9736,18 @@
     "name":"MOVE-IIb",
     "names":"DP0MVB",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-12-05T00:00:00Z",
+    "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.move2space.de",
     "operator":"None",
-    "countries":"",
+    "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.764749Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-12-08T18:19:08.250956Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=44398",
     "is_frequency_violator":false,
     "associated_satellites":[
 
