@@ -17636,13 +17636,13 @@
     "norad_cat_id":51031.0,
     "norad_follow_id":null,
     "name":"SanoSat-1",
-    "names":"NO-116",
+    "names":"NO-116, AM9NPQ",
     "image":"satellites\/sansosat-1.JPG",
     "status":"alive",
     "decayed":null,
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/orionspace.com.np\/sanosat-1\/",
     "operator":"None",
     "countries":"NP",
     "telemetries":[
@@ -17650,8 +17650,8 @@
         "decoder":"sanosat1"
       }
     ],
-    "updated":"2022-03-05T02:47:26.469234Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-51031\/2022-02-13T00%3A07%3A42_5453139_51031_22002AZ_0-OBJECT-AZ_1.556923322222218_B_r24.0_f3.0.png",
+    "updated":"2023-12-13T10:18:55.851954Z",
+    "citation":"https:\/\/twitter.com\/amsatnepal",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YQSV-7586-2336-9042-0587"
@@ -39496,7 +39496,7 @@
   {
     "sat_id":"OOYQ-2133-7925-7790-1283",
     "norad_cat_id":98996.0,
-    "norad_follow_id":null,
+    "norad_follow_id":57568.0,
     "name":"ROM-3",
     "names":"",
     "image":"",
@@ -39510,8 +39510,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-12T18:07:34.084925Z",
-    "citation":"Stop following 58340 after no results",
+    "updated":"2023-12-13T11:50:47.027426Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/251",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39568,7 +39568,7 @@
   {
     "sat_id":"ZPXA-7109-5221-3293-0780",
     "norad_cat_id":98993.0,
-    "norad_follow_id":58284.0,
+    "norad_follow_id":57565.0,
     "name":"Intuition-1",
     "names":"",
     "image":"satellites\/c8095440-15c5-404b-8c3a-b7909744af73.png",
@@ -39582,7 +39582,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-12T16:13:02.250039Z",
+    "updated":"2023-12-13T11:50:54.873835Z",
     "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -39784,7 +39784,7 @@
   {
     "sat_id":"KDPU-1823-6370-5846-1492",
     "norad_cat_id":98981.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58567.0,
     "name":"HADES-D",
     "names":"HYDRA-1",
     "image":"",
@@ -39798,8 +39798,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-06T15:39:23.832627Z",
-    "citation":"Remove followed NORAD ID for using custom TLE set",
+    "updated":"2023-12-13T11:50:50.904931Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40736,6 +40736,30 @@
     ],
     "updated":"2023-12-12T15:31:39.449485Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1ZI51LhWl4tE8ZlSFDQe2MX7vryfwIwGzzd1W2Zc4ZTs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HSIF-3942-9654-8919-1112",
+    "norad_cat_id":27845.0,
+    "norad_follow_id":null,
+    "name":"QUAKESAT",
+    "names":"",
+    "image":"satellites\/QuakeSat.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2003-06-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-13T10:07:12.676648Z",
+    "citation":"Update satellite image",
     "is_frequency_violator":false,
     "associated_satellites":[
 
