@@ -19007,10 +19007,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -39304,7 +39304,7 @@
   {
     "sat_id":"JRGY-6734-9744-8857-6516",
     "norad_cat_id":99004.0,
-    "norad_follow_id":58321.0,
+    "norad_follow_id":58305.0,
     "name":"ProtoM\u00e9th\u00e9e-1",
     "names":"",
     "image":"",
@@ -39318,8 +39318,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-01T22:50:56.183625Z",
-    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1730708789156884755",
+    "updated":"2023-12-12T19:03:54.761359Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39496,7 +39496,7 @@
   {
     "sat_id":"OOYQ-2133-7925-7790-1283",
     "norad_cat_id":98996.0,
-    "norad_follow_id":58340.0,
+    "norad_follow_id":null,
     "name":"ROM-3",
     "names":"",
     "image":"",
@@ -39510,8 +39510,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T19:40:53.831452Z",
-    "citation":"Based on PE0SAT strf observation, nearest fit to published objects",
+    "updated":"2023-12-12T18:07:34.084925Z",
+    "citation":"Stop following 58340 after no results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39568,7 +39568,7 @@
   {
     "sat_id":"ZPXA-7109-5221-3293-0780",
     "norad_cat_id":98993.0,
-    "norad_follow_id":58286.0,
+    "norad_follow_id":58284.0,
     "name":"Intuition-1",
     "names":"",
     "image":"satellites\/c8095440-15c5-404b-8c3a-b7909744af73.png",
@@ -39582,7 +39582,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-06T23:54:13.064902Z",
+    "updated":"2023-12-12T16:13:02.250039Z",
     "citation":"Network observations run through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -39855,8 +39855,8 @@
   },
   {
     "sat_id":"PRZP-7386-5227-9698-5175",
-    "norad_cat_id":98979.0,
-    "norad_follow_id":58339.0,
+    "norad_cat_id":58339.0,
+    "norad_follow_id":null,
     "name":"Platform-5",
     "names":"SHAREDSAT_22",
     "image":"",
@@ -39870,8 +39870,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T00:05:01.878782Z",
-    "citation":"By ikhnos in latest observations",
+    "updated":"2023-12-12T17:26:52.572164Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58339\/2023-12-10T10%3A24%3A04_8685019_58339_23174CM_0-OBJECT-CM_2.0260639803703384_A_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40712,6 +40712,30 @@
     ],
     "updated":"2023-12-10T11:21:33.050571Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1Kzw32UGZrihpcFBUUsKnenetodZuaUCo0kx-vFygJJE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TAOL-7086-4647-7660-2329",
+    "norad_cat_id":58291.0,
+    "norad_follow_id":null,
+    "name":"FALCONSAT-10",
+    "names":"2023-174AM",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-12T15:31:39.449485Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ZI51LhWl4tE8ZlSFDQe2MX7vryfwIwGzzd1W2Zc4ZTs\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
