@@ -19230,10 +19230,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -38697,8 +38697,8 @@
         "decoder":"kafasat1"
       }
     ],
-    "updated":"2023-12-05T02:49:04.853618Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58317\/2023-12-04T23%3A30%3A45_8641222_58317_23174BP_0-OBJECT-BP_0.43286362999998573_B_r24.0_f0.0.png",
+    "updated":"2023-12-14T09:53:47.634189Z",
+    "citation":"Add public dashboard link",
     "is_frequency_violator":false,
     "associated_satellites":[
       "AJCL-1372-8870-8487-2083"
@@ -40531,7 +40531,7 @@
   {
     "sat_id":"NMEW-0079-8218-4373-2445",
     "norad_cat_id":98970.0,
-    "norad_follow_id":58465.0,
+    "norad_follow_id":58463.0,
     "name":"KOYOH",
     "names":"",
     "image":"",
@@ -40545,8 +40545,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T09:37:49.615228Z",
-    "citation":"Random choice of published objects",
+    "updated":"2023-12-14T00:44:29.763523Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
