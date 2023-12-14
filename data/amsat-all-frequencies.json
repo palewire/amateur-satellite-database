@@ -5057,7 +5057,7 @@
     "mode":"9600bps GMSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"HKNJ-5808-9467-1239-6592"
   },
   {
     "name":"ELFIN-A",
@@ -14066,7 +14066,7 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"QFRO-8807-8086-2793-1420"
   },
   {
     "name":"SPOC",

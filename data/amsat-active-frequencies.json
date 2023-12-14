@@ -1097,7 +1097,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"HKNJ-5808-9467-1239-6592"
   },
   {
     "name":"ENSO",
@@ -2847,7 +2847,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"QFRO-8807-8086-2793-1420"
   },
   {
     "name":"SPROUT",

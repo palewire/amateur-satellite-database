@@ -8630,8 +8630,8 @@
     "norad_cat_id":43798.0,
     "norad_follow_id":null,
     "name":"Astrocast 0.1",
-    "names":"",
-    "image":"",
+    "names":"Kiwi",
+    "image":"satellites\/astrocast_mission_patch_kiwi-320x320.png",
     "status":"alive",
     "decayed":null,
     "launched":"2018-12-03T00:00:00Z",
@@ -8644,8 +8644,8 @@
         "decoder":"Astrocast"
       }
     ],
-    "updated":"2023-05-06T18:53:55.785877Z",
-    "citation":"https:\/\/www.astrocast.com\/",
+    "updated":"2023-12-13T22:43:09.752658Z",
+    "citation":"http:\/\/hb9hslu.ch\/wordpress\/?page_id=324",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19230,10 +19230,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -24107,8 +24107,8 @@
   },
   {
     "sat_id":"HKNJ-5808-9467-1239-6592",
-    "norad_cat_id":99320.0,
-    "norad_follow_id":58472.0,
+    "norad_cat_id":58472.0,
+    "norad_follow_id":null,
     "name":"EIRSAT-1",
     "names":"Educational Irish Research Satellite 1",
     "image":"satellites\/eirsat-1.png",
@@ -24122,11 +24122,12 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-04T13:54:03.392055Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2023-12-13T23:33:16.399684Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58472\/2023-12-13T21%3A16%3A21_8698235_58472_23185L_0-OBJECT-L_0.07204220666665151_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "TOGH-5973-3244-4606-0194"
+      "TOGH-5973-3244-4606-0194",
+      "BSYK-9127-9235-2316-3913"
     ]
   },
   {
@@ -38440,7 +38441,7 @@
   {
     "sat_id":"FNGO-2772-5931-1779-2835",
     "norad_cat_id":99032.0,
-    "norad_follow_id":58472.0,
+    "norad_follow_id":58471.0,
     "name":"Hayasat",
     "names":"Hayasat-1, EK1HYS",
     "image":"",
@@ -38454,8 +38455,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-03T15:53:05.420504Z",
-    "citation":"Direwolf demodulating of Network observation",
+    "updated":"2023-12-13T23:45:01.629833Z",
+    "citation":"Network observations run through ikhnos",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -38692,7 +38693,9 @@
     "operator":"None",
     "countries":"KR",
     "telemetries":[
-
+      {
+        "decoder":"kafasat1"
+      }
     ],
     "updated":"2023-12-05T02:49:04.853618Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58317\/2023-12-04T23%3A30%3A45_8641222_58317_23174BP_0-OBJECT-BP_0.43286362999998573_B_r24.0_f0.0.png",
@@ -39087,8 +39090,8 @@
   },
   {
     "sat_id":"QFRO-8807-8086-2793-1420",
-    "norad_cat_id":99011.0,
-    "norad_follow_id":58468.0,
+    "norad_cat_id":58468.0,
+    "norad_follow_id":null,
     "name":"SpIRIT",
     "names":"Space Industry - Responsive - Intelligent - Thermal)",
     "image":"satellites\/Orbital4_landscape_coloursun_4000-min.png",
@@ -39102,11 +39105,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T01:10:24.511057Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/65",
+    "updated":"2023-12-13T23:38:49.881986Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58468\/2023-12-13T12%3A59%3A19_8700938_58468_23185G_0-OBJECT-G_0.274461130370355_A_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "VPRH-1123-6391-3219-7738"
     ]
   },
   {
@@ -39482,12 +39485,12 @@
     "deployed":"2023-11-11T19:48:13Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"GB",
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:35.058787Z",
-    "citation":"Change status",
+    "updated":"2023-12-13T12:39:36.423048Z",
+    "citation":"Gunter",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40578,7 +40581,7 @@
     "norad_cat_id":98968.0,
     "norad_follow_id":58469.0,
     "name":"ION SCV Daring Diego",
-    "names":"InOrbit NOW - Satellite Carrier Vehicle 12",
+    "names":"SCV-015",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -40590,8 +40593,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T20:21:49.968026Z",
-    "citation":"PE2BZ strf observations, https:\/\/docs.google.com\/document\/d\/10i3fgIY2VKV96g6ZbcbU8W7u5H6rX2k_WxPiwmPnBMM\/edit?usp=sharing",
+    "updated":"2023-12-13T18:05:02.289552Z",
+    "citation":"From communication with satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40760,6 +40763,54 @@
     ],
     "updated":"2023-12-13T10:07:12.676648Z",
     "citation":"Update satellite image",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HLTQ-0948-7802-0614-4703",
+    "norad_cat_id":44072.0,
+    "norad_follow_id":null,
+    "name":"PRISMA",
+    "names":"2019-015A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-03-22T00:00:00Z",
+    "deployed":"2019-03-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IT",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-14T00:10:34.238293Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1gpeFqZ6_t1hGvM0vqQD3mITNjdqr1Wd64B_UIYsLex4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BRBP-3780-8068-0622-0984",
+    "norad_cat_id":58467.0,
+    "norad_follow_id":null,
+    "name":"Lilium-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-12-01T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-13T18:43:48.634003Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
