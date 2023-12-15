@@ -1421,7 +1421,7 @@
   },
   {
     "name":"Hades-D",
-    "norad_id":"58288",
+    "norad_id":"58567",
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
@@ -1561,7 +1561,7 @@
   },
   {
     "name":"INTUITION-1",
-    "norad_id":"58287",
+    "norad_id":"58565",
     "uplink":null,
     "downlink":"401.400",
     "beacon":null,

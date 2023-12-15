@@ -40198,7 +40198,7 @@
     "norad_follow_id":null,
     "name":"MEMESat-1",
     "names":"KE4UGA",
-    "image":"",
+    "image":"satellites\/MEMESat-1_xPdwsbd.png",
     "status":"future",
     "decayed":null,
     "launched":null,
@@ -40209,8 +40209,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-19T10:22:18.213840Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/268",
+    "updated":"2023-12-15T11:40:43.846200Z",
+    "citation":"Jillian Russell",
     "is_frequency_violator":false,
     "associated_satellites":[
 
