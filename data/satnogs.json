@@ -13198,7 +13198,7 @@
     "norad_follow_id":null,
     "name":"FEES",
     "names":"Flexible Experimental Embedded Satellite",
-    "image":"",
+    "image":"satellites\/GP-FEES.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2021-03-22T00:00:00Z",
@@ -13209,7 +13209,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-24T06:54:01.648132Z",
+    "updated":"2023-12-15T18:03:15.567909Z",
     "citation":"https:\/\/tinygs.com\/satellite\/FEES",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -32463,7 +32463,7 @@
     "norad_follow_id":null,
     "name":"StratoSat TK-1-B",
     "names":"",
-    "image":"",
+    "image":"satellites\/d.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2023-06-27T11:34:00Z",
@@ -32474,8 +32474,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-24T06:45:08.314463Z",
-    "citation":"3rd party observations",
+    "updated":"2023-12-15T18:03:51.199460Z",
+    "citation":"https:\/\/efir.net.ru\/satellite\/RS52SD\/",
     "is_frequency_violator":true,
     "associated_satellites":[
       "WALR-9075-3889-1687-8814"
@@ -40811,6 +40811,102 @@
     ],
     "updated":"2023-12-13T18:43:48.634003Z",
     "citation":"space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PKEA-6443-5307-1051-3153",
+    "norad_cat_id":98965.0,
+    "norad_follow_id":null,
+    "name":"LOGSATS",
+    "names":"",
+    "image":"satellites\/LOGSATS.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-12-01T18:19:00Z",
+    "deployed":"2023-12-15T16:49:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"TH",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-15T18:23:18.340168Z",
+    "citation":"https:\/\/db.satnogs.org\/satellite\/PKEA-6443-5307-1051-3153#",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DUMR-1924-9064-2363-1545",
+    "norad_cat_id":98964.0,
+    "norad_follow_id":null,
+    "name":"NanoFF A",
+    "names":"DP0NFA, TUBSAT-28",
+    "image":"satellites\/nanoff.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-12-01T18:19:00Z",
+    "deployed":null,
+    "website":"https:\/\/tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/nanoff",
+    "operator":"TU Berlin",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-15T14:29:17.118854Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/270",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RCBZ-5048-4345-8306-0931",
+    "norad_cat_id":98963.0,
+    "norad_follow_id":null,
+    "name":"NanoFF B",
+    "names":"DP0NFB, TUBSAT-29",
+    "image":"satellites\/nanoff_4zKkEfB.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-12-01T18:19:00Z",
+    "deployed":null,
+    "website":"https:\/\/tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/nanoff",
+    "operator":"TU Berlin",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-15T14:29:13.642615Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/270",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DPSW-6090-7405-7781-5842",
+    "norad_cat_id":46905.0,
+    "norad_follow_id":null,
+    "name":"RISAT-2BR2",
+    "names":"2020-081A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-11-07T00:00:00Z",
+    "deployed":"2020-11-07T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"ID",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-15T19:32:14.033154Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1JLDYXN-LidfpqRIEGRmlO854TJenhLBYnb8JGputyjw\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
