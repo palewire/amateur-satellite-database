@@ -1562,6 +1562,17 @@
     "satnogs_id":"NJFB-9884-9643-7739-4519"
   },
   {
+    "name":"BEAK",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"non-amateur",
+    "satnogs_id":null
+  },
+  {
     "name":"BeaverCube",
     "norad_id":"53770",
     "uplink":null,
@@ -3386,6 +3397,17 @@
     "callsign":"CIRBE",
     "status":"active",
     "satnogs_id":"PBLF-9792-3382-3546-2243"
+  },
+  {
+    "name":"Clark-sat1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.130",
+    "beacon":"435.130",
+    "mode":"4k8_GMSK Digitalker SSTV CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"CLICK-A",
@@ -6531,7 +6553,7 @@
     "mode":"50*\/300\/1k2-9k6 FSK FM CW",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
     "name":"Hamsat",
@@ -7279,7 +7301,7 @@
     "mode":"9600bps GMSK",
     "callsign":"INT1KP",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ZPXA-7109-5221-3293-0780"
   },
   {
     "name":"INVADER",
@@ -9863,7 +9885,7 @@
     "beacon":null,
     "mode":"2400bps GMSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -10986,7 +11008,7 @@
     "mode":"9600bps GMSK",
     "callsign":"PEARLH",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"GLVU-3778-3036-0537-1969"
   },
   {
     "name":"Pegasus-1",

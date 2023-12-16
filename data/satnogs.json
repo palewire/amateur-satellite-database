@@ -38756,7 +38756,7 @@
     "sat_id":"YODX-5832-7103-0922-4071",
     "norad_cat_id":58300.0,
     "norad_follow_id":null,
-    "name":"ION SCV-013",
+    "name":"ION-MK02-SCV013",
     "names":"Ultimate Hugo",
     "image":"",
     "status":"alive",
@@ -38769,8 +38769,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-06T23:25:35.833045Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58300\/2023-12-05T10%3A24%3A52_8652889_58300_23174AW_0-OBJECT-AW_0.017734275185205206_B_r24.0_f0.5.png",
+    "updated":"2023-12-16T02:00:01.365558Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39163,7 +39163,7 @@
   {
     "sat_id":"XPKL-0131-3921-6138-6792",
     "norad_cat_id":99008.0,
-    "norad_follow_id":58336.0,
+    "norad_follow_id":58335.0,
     "name":"Lemur 2 - Mango 2A",
     "names":"",
     "image":"",
@@ -39177,8 +39177,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-29T00:27:30.783700Z",
-    "citation":"By ikhnos in latest observations and that 58334 seems to fit better outpost mission 2",
+    "updated":"2023-12-16T01:50:42.637962Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39259,7 +39259,7 @@
   {
     "sat_id":"EFKE-9029-5731-3387-7544",
     "norad_cat_id":99006.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58341.0,
     "name":"NinjaSat",
     "names":"",
     "image":"",
@@ -39273,8 +39273,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:35.092078Z",
-    "citation":"Change status",
+    "updated":"2023-12-16T01:18:53.979638Z",
+    "citation":"Network observations through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39499,7 +39499,7 @@
   {
     "sat_id":"OOYQ-2133-7925-7790-1283",
     "norad_cat_id":98996.0,
-    "norad_follow_id":57568.0,
+    "norad_follow_id":58568.0,
     "name":"ROM-3",
     "names":"",
     "image":"",
@@ -39513,8 +39513,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-13T11:50:47.027426Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942\/251",
+    "updated":"2023-12-16T01:00:39.713140Z",
+    "citation":"Fix NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39570,8 +39570,8 @@
   },
   {
     "sat_id":"ZPXA-7109-5221-3293-0780",
-    "norad_cat_id":98993.0,
-    "norad_follow_id":57565.0,
+    "norad_cat_id":58565.0,
+    "norad_follow_id":null,
     "name":"Intuition-1",
     "names":"",
     "image":"satellites\/c8095440-15c5-404b-8c3a-b7909744af73.png",
@@ -39585,8 +39585,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-13T11:50:54.873835Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-16T00:55:43.119254Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58565\/2023-12-15T20%3A43%3A32_8717783_58565_23174CW_0-OBJECT-CW_0.335733394814838_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39786,8 +39786,8 @@
   },
   {
     "sat_id":"KDPU-1823-6370-5846-1492",
-    "norad_cat_id":98981.0,
-    "norad_follow_id":58567.0,
+    "norad_cat_id":58567.0,
+    "norad_follow_id":null,
     "name":"HADES-D",
     "names":"HYDRA-1",
     "image":"",
@@ -39801,11 +39801,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-13T11:50:50.904931Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-16T01:06:05.080901Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58567\/2023-12-15T22%3A16%3A31_8717719_58567_23174CY_0-OBJECT-CY_0.46780581407409727_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "GPAF-9192-7239-6875-5127"
     ]
   },
   {
@@ -39834,8 +39834,8 @@
   },
   {
     "sat_id":"GLVU-3778-3036-0537-1969",
-    "norad_cat_id":98980.0,
-    "norad_follow_id":58265.0,
+    "norad_cat_id":58265.0,
+    "norad_follow_id":null,
     "name":"PEARL-1H",
     "names":"",
     "image":"",
@@ -39849,11 +39849,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T01:44:58.825151Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-16T01:25:27.326838Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58265\/2023-12-14T15%3A19%3A46_8699304_58265_23174K_0-OBJECT-K_0.5735337881481541_A_r29.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "GJBQ-2448-8352-9181-3996"
     ]
   },
   {
@@ -40907,6 +40907,30 @@
     ],
     "updated":"2023-12-15T19:32:14.033154Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1JLDYXN-LidfpqRIEGRmlO854TJenhLBYnb8JGputyjw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PQDQ-5086-3402-1909-8173",
+    "norad_cat_id":98962.0,
+    "norad_follow_id":58336.0,
+    "name":"Lemur 2 JK0903EM1407",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-16T01:48:13.644040Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
