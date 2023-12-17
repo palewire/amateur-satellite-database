@@ -38721,8 +38721,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-07T00:41:44.811419Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58266\/2023-12-06T19%3A42%3A40_8653786_58266_23174L_0-OBJECT-L_0.07400615629626373_B_r24.0_f-0.8.png",
+    "updated":"2023-12-17T11:42:52.957997Z",
+    "citation":"Remove telemetry URL as it doesn't point to a dashboard",
     "is_frequency_violator":false,
     "associated_satellites":[
 
