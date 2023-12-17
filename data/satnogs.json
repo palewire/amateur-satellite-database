@@ -40935,5 +40935,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"ISUQ-3664-4854-6591-3683",
+    "norad_cat_id":56954.0,
+    "norad_follow_id":null,
+    "name":"Hotsat-1",
+    "names":"2023-084Y",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":"2023-06-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"GB,UM",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-16T20:14:14.956789Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1zZQ8TiPO95gvqokDc6l1VUBbB44ZJNX2g8ahdpKsCaw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
