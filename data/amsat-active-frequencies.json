@@ -1107,7 +1107,7 @@
     "beacon":null,
     "mode":"2400bps GMSK",
     "callsign":"FX6FRC",
-    "satnogs_id":null
+    "satnogs_id":"OBZD-9153-9709-2837-1280"
   },
   {
     "name":"EOS-7",
@@ -2487,7 +2487,7 @@
     "beacon":null,
     "mode":"2400bps GMSK",
     "callsign":"FX6FRC",
-    "satnogs_id":null
+    "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {
     "name":"RoseyCubesat-1",

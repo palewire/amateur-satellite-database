@@ -38440,8 +38440,8 @@
   },
   {
     "sat_id":"FNGO-2772-5931-1779-2835",
-    "norad_cat_id":99032.0,
-    "norad_follow_id":58471.0,
+    "norad_cat_id":58471.0,
+    "norad_follow_id":null,
     "name":"Hayasat",
     "names":"Hayasat-1, EK1HYS",
     "image":"",
@@ -38455,11 +38455,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-13T23:45:01.629833Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-17T22:13:50.565530Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58471\/2023-12-17T09%3A31%3A53_8720600_58471_23185K_0-OBJECT-K_0.04446937629626291_A_r29.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "QMNO-1392-5483-8050-7868"
     ]
   },
   {
@@ -39307,7 +39307,7 @@
   {
     "sat_id":"JRGY-6734-9744-8857-6516",
     "norad_cat_id":99004.0,
-    "norad_follow_id":58305.0,
+    "norad_follow_id":58321.0,
     "name":"ProtoM\u00e9th\u00e9e-1",
     "names":"",
     "image":"",
@@ -39321,8 +39321,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-12T19:03:54.761359Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2023-12-17T21:36:03.197208Z",
+    "citation":"space-track.org and Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40481,6 +40481,30 @@
     ]
   },
   {
+    "sat_id":"BVWK-5543-8812-7194-6506",
+    "norad_cat_id":48901.0,
+    "norad_follow_id":null,
+    "name":"TROPICS PATHFINDER",
+    "names":"TROPICS-01",
+    "image":"satellites\/tropics__2.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.eoportal.org\/satellite-missions\/tropics",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-17T15:46:05.832775Z",
+    "citation":"Own research, 3 of the TROPICS have been received multiple time on S-Band",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"QXLX-4263-5398-3029-3278",
     "norad_cat_id":48273.0,
     "norad_follow_id":null,
@@ -40506,8 +40530,8 @@
   },
   {
     "sat_id":"OBZD-9153-9709-2837-1280",
-    "norad_cat_id":98971.0,
-    "norad_follow_id":58470.0,
+    "norad_cat_id":58470.0,
+    "norad_follow_id":null,
     "name":"ENSO",
     "names":"ROBUSTA 1E",
     "image":"",
@@ -40521,11 +40545,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-04T13:55:00.269974Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2023-12-17T22:02:45.039862Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58470\/2023-12-17T15%3A51%3A25_8720554_58470_23185J_0-OBJECT-J_0.21899976851852898_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "EJZB-6514-3791-0732-9193"
     ]
   },
   {
@@ -40579,7 +40603,7 @@
   {
     "sat_id":"BZWJ-9712-5590-5046-8513",
     "norad_cat_id":98968.0,
-    "norad_follow_id":58469.0,
+    "norad_follow_id":58463.0,
     "name":"ION SCV Daring Diego",
     "names":"SCV-015",
     "image":"",
@@ -40593,8 +40617,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-13T18:05:02.289552Z",
-    "citation":"From communication with satellite team",
+    "updated":"2023-12-17T21:54:57.843178Z",
+    "citation":"Network observations through ikhnos",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40843,11 +40867,11 @@
   {
     "sat_id":"DUMR-1924-9064-2363-1545",
     "norad_cat_id":98964.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58469.0,
     "name":"NanoFF A",
     "names":"DP0NFA, TUBSAT-28",
     "image":"satellites\/nanoff.png",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-12-01T18:19:00Z",
     "deployed":null,
@@ -40857,8 +40881,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-15T14:29:17.118854Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/270",
+    "updated":"2023-12-17T20:00:49.884151Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/106",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40867,11 +40891,11 @@
   {
     "sat_id":"RCBZ-5048-4345-8306-0931",
     "norad_cat_id":98963.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58469.0,
     "name":"NanoFF B",
     "names":"DP0NFB, TUBSAT-29",
     "image":"satellites\/nanoff_4zKkEfB.png",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2023-12-01T18:19:00Z",
     "deployed":null,
@@ -40881,8 +40905,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-15T14:29:13.642615Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/270",
+    "updated":"2023-12-17T20:03:37.918988Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/106",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40955,6 +40979,30 @@
     ],
     "updated":"2023-12-16T20:14:14.956789Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1zZQ8TiPO95gvqokDc6l1VUBbB44ZJNX2g8ahdpKsCaw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KYBX-1862-6587-7549-6363",
+    "norad_cat_id":98961.0,
+    "norad_follow_id":25544.0,
+    "name":"CLARKSAT-1",
+    "names":"JS1YLT, AMBITOUS",
+    "image":"satellites\/Clark-Sat-1.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2023-12-18T10:15:00Z",
+    "website":"https:\/\/sp.clark.ed.jp\/space\/",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-17T16:33:32.173142Z",
+    "citation":"Change status to alive for allowing Network scheduling",
     "is_frequency_violator":false,
     "associated_satellites":[
 

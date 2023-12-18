@@ -5134,7 +5134,7 @@
     "mode":"2400bps GMSK",
     "callsign":"FX6FRC",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"OBZD-9153-9709-2837-1280"
   },
   {
     "name":"EntrySat",
@@ -6641,7 +6641,7 @@
     "mode":"9600bps GFSK",
     "callsign":"EK1HYS",
     "status":null,
-    "satnogs_id":null
+    "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {
     "name":"HA-1",
@@ -12339,7 +12339,7 @@
     "mode":"2400bps GMSK",
     "callsign":"FX6FRC",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {
     "name":"ROBUSTA-1F",
@@ -12365,7 +12365,7 @@
   },
   {
     "name":"ROM-3",
-    "norad_id":"58340",
+    "norad_id":"58568",
     "uplink":null,
     "downlink":"436.235",
     "beacon":null,
@@ -16287,7 +16287,7 @@
     "beacon":null,
     "mode":"19k2BPSK 38k4FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
