@@ -22452,7 +22452,7 @@
     "name":"VIZARD",
     "names":"SXC3-215 RS33S",
     "image":"satellites\/SXC3_CwIxdIL.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -22462,8 +22462,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-14T02:18:00.921521Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53386\/2022-08-13T22%3A01%3A06_6325574_53386_22096S_0-OBJECT-S_0.3924172155555823_B_r24.0_f0.0.png",
+    "updated":"2023-12-18T23:22:57.561784Z",
+    "citation":"No signal nor TLE",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -41003,6 +41003,30 @@
     ],
     "updated":"2023-12-18T10:18:56.202862Z",
     "citation":"Stop following ISS as the satellite is deployed",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LHNX-5337-4650-0819-4638",
+    "norad_cat_id":56996.0,
+    "norad_follow_id":null,
+    "name":"AAC-AIS-SAT2",
+    "names":"2023-084BY",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":"2023-06-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-18T21:32:06.927514Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1m32CFkivZS4pp6KYuRB2JBu52b0HxygXR37QbPfEZ-M\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
