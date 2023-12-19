@@ -3399,7 +3399,7 @@
     "satnogs_id":"PBLF-9792-3382-3546-2243"
   },
   {
-    "name":"Clark-sat1",
+    "name":"ClarkSat-1",
     "norad_id":null,
     "uplink":null,
     "downlink":"435.130",
