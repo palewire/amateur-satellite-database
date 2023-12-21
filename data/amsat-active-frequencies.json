@@ -691,13 +691,13 @@
   },
   {
     "name":"ClarkSat-1",
-    "norad_id":null,
+    "norad_id":"58613",
     "uplink":null,
     "downlink":"435.130",
     "beacon":"435.130",
     "mode":"4k8_GMSK Digitalker SSTV CW",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"KYBX-1862-6587-7549-6363"
   },
   {
     "name":"Connecta-T1_1",
