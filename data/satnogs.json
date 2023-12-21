@@ -40987,7 +40987,7 @@
   {
     "sat_id":"KYBX-1862-6587-7549-6363",
     "norad_cat_id":98961.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58613.0,
     "name":"CLARKSAT-1",
     "names":"JS1YLT, AMBITOUS",
     "image":"satellites\/Clark-Sat-1.jpg",
@@ -41001,8 +41001,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-18T10:18:56.202862Z",
-    "citation":"Stop following ISS as the satellite is deployed",
+    "updated":"2023-12-20T14:15:52.306873Z",
+    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1737451855645450594",
     "is_frequency_violator":false,
     "associated_satellites":[
 

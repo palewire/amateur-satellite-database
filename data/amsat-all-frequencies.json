@@ -7980,7 +7980,7 @@
     "uplink":null,
     "downlink":"435.835\/2404.400",
     "beacon":null,
-    "mode":"1200bps FSK",
+    "mode":"1200bps GMSK",
     "callsign":"KAFSAT-1",
     "status":"active",
     "satnogs_id":"APQS-1800-5981-4551-3856"
