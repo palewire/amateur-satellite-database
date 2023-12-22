@@ -41103,5 +41103,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"ZEDP-9344-9288-8809-4518",
+    "norad_cat_id":28376.0,
+    "norad_follow_id":null,
+    "name":"Aura",
+    "names":"2004-026A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2004-06-15T00:00:00Z",
+    "deployed":"2004-06-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-21T13:51:57.392958Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1i7lPF2f3Vp6ha-zbO-RJ_Cf_1sYaoay-gKrNNJ98w9Q\/edit?usp=sharing  and Martin HErren s chat",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TPQA-0357-2359-7196-8778",
+    "norad_cat_id":27424.0,
+    "norad_follow_id":null,
+    "name":"AQUA",
+    "names":"2002-022A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2002-05-04T00:00:00Z",
+    "deployed":"2002-05-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-21T13:52:30.015531Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ZDe4hcnCgnQNF5RhuFmaYFB6ImyNTyBP5dDeGjoJfu8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
