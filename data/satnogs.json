@@ -20932,8 +20932,8 @@
     "sat_id":"XMXN-2540-2443-8416-5019",
     "norad_cat_id":52735.0,
     "norad_follow_id":null,
-    "name":"OBJECT D",
-    "names":"",
+    "name":"CICERO-2 2",
+    "names":"OP15 FLT2, Tyvak-0821",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -20945,8 +20945,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-14T12:53:29.513236Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2023-12-24T06:30:01.365814Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -12255,13 +12255,13 @@
   },
   {
     "name":"ReshUCube-2",
-    "norad_id":"57171",
+    "norad_id":"57168",
     "uplink":null,
-    "downlink":"435.640\/435.742\/436.675",
+    "downlink":"435.640\/435.742\/436.000\/436.675",
     "beacon":null,
-    "mode":"9k6 FSK",
+    "mode":"125k LoRa",
     "callsign":"RS37S",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
