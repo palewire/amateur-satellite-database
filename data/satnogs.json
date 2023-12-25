@@ -40602,8 +40602,8 @@
   },
   {
     "sat_id":"BZWJ-9712-5590-5046-8513",
-    "norad_cat_id":98968.0,
-    "norad_follow_id":58463.0,
+    "norad_cat_id":58469.0,
+    "norad_follow_id":null,
     "name":"ION SCV Daring Diego",
     "names":"SCV-015",
     "image":"",
@@ -40617,11 +40617,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-17T21:54:57.843178Z",
-    "citation":"Network observations through ikhnos",
+    "updated":"2023-12-24T16:05:43.094359Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58469\/2023-12-23T19%3A16%3A23_8761593_58469_23185H_0-ION-SCV-015_0.659712018518519_A_r24.0_f0.6.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "YRHO-2269-3962-9532-7472"
     ]
   },
   {
@@ -40843,7 +40843,7 @@
   {
     "sat_id":"PKEA-6443-5307-1051-3153",
     "norad_cat_id":98965.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58642.0,
     "name":"LOGSATS",
     "names":"",
     "image":"satellites\/LOGSATS.jpg",
@@ -40857,8 +40857,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-15T18:23:18.340168Z",
-    "citation":"https:\/\/db.satnogs.org\/satellite\/PKEA-6443-5307-1051-3153#",
+    "updated":"2023-12-24T17:39:09.308815Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
