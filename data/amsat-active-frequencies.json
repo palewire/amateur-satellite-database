@@ -2931,27 +2931,27 @@
   },
   {
     "name":"StratoSat-TK1 picosat-B",
-    "norad_id":"57323",
+    "norad_id":"57200",
     "uplink":null,
     "downlink":"436.260",
     "beacon":null,
     "mode":"LoRa",
     "callsign":"RS52SB",
-    "satnogs_id":"KANX-6033-2616-0861-1048"
+    "satnogs_id":null
   },
   {
     "name":"StratoSat-TK1 picosat-E",
-    "norad_id":"57327",
+    "norad_id":"57176",
     "uplink":null,
     "downlink":"436.260",
     "beacon":null,
     "mode":"LoRa",
     "callsign":"RS52SE",
-    "satnogs_id":null
+    "satnogs_id":"NRAD-4746-6573-1238-7533"
   },
   {
     "name":"StratoSat-TK1 picosat-V",
-    "norad_id":"57322",
+    "norad_id":"57169",
     "uplink":null,
     "downlink":"436.260",
     "beacon":null,

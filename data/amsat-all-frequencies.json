@@ -12257,7 +12257,7 @@
     "name":"ReshUCube-2",
     "norad_id":"57168",
     "uplink":null,
-    "downlink":"435.640\/435.742\/436.000\/436.675",
+    "downlink":"435.640\/435.742\/436.000*\/436.675",
     "beacon":null,
     "mode":"125k LoRa",
     "callsign":"RS37S",
@@ -14576,40 +14576,40 @@
   },
   {
     "name":"StratoSat-TK1 picosat-B",
-    "norad_id":"57323",
+    "norad_id":"57200",
     "uplink":null,
     "downlink":"436.260",
     "beacon":null,
     "mode":"LoRa",
     "callsign":"RS52SB",
     "status":"active",
-    "satnogs_id":"KANX-6033-2616-0861-1048"
+    "satnogs_id":null
   },
   {
     "name":"StratoSat-TK1 picosat-D",
-    "norad_id":"57167",
+    "norad_id":"57208",
     "uplink":null,
     "downlink":"436.260",
     "beacon":null,
     "mode":"LoRa",
     "callsign":"RS52SD",
     "status":"unknown",
-    "satnogs_id":"BQFG-5755-4293-7808-3570"
+    "satnogs_id":"BTMY-6498-5817-1415-4137"
   },
   {
     "name":"StratoSat-TK1 picosat-E",
-    "norad_id":"57327",
+    "norad_id":"57176",
     "uplink":null,
     "downlink":"436.260",
     "beacon":null,
     "mode":"LoRa",
     "callsign":"RS52SE",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"NRAD-4746-6573-1238-7533"
   },
   {
     "name":"StratoSat-TK1 picosat-G",
-    "norad_id":"57168",
+    "norad_id":"57170",
     "uplink":null,
     "downlink":"436.260",
     "beacon":null,
@@ -14620,7 +14620,7 @@
   },
   {
     "name":"StratoSat-TK1 picosat-V",
-    "norad_id":"57322",
+    "norad_id":"57169",
     "uplink":null,
     "downlink":"436.260",
     "beacon":null,

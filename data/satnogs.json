@@ -41151,5 +41151,197 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GZHU-9346-8295-8906-3208",
+    "norad_cat_id":42793.0,
+    "norad_follow_id":null,
+    "name":"CICERO 6",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-06-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"MC,US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-26T06:22:48.979098Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/cicero.htm  https:\/\/www.n2yo.com\/satellite\/?s=42793",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YNGB-7242-2794-9717-4199",
+    "norad_cat_id":43518.0,
+    "norad_follow_id":null,
+    "name":"XJS-A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-06-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-26T06:22:21.300106Z",
+    "citation":"https:\/\/r4uab.ru\/satellite-frequencies-band-400-403-mhz\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FQPO-5450-4722-6975-3848",
+    "norad_cat_id":44408.0,
+    "norad_follow_id":null,
+    "name":"MOMENTUS-X1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-07-05T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-26T06:21:54.766285Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44408#results",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UHQZ-1511-6439-1603-3739",
+    "norad_cat_id":43767.0,
+    "norad_follow_id":null,
+    "name":"CORVUS BC4",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-12-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-26T06:21:39.375181Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43767#results",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ECWN-8706-9192-3834-7345",
+    "norad_cat_id":43882.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 CHRISTINAHOLT",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-12-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-26T06:21:17.602846Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43882#results",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VBUC-8927-5920-3212-5434",
+    "norad_cat_id":42841.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 PETERG",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-26T06:20:59.942522Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=42841#results",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LHQG-0374-3984-6007-3242",
+    "norad_cat_id":47440.0,
+    "norad_follow_id":null,
+    "name":"AII-CHARLIE",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-01-24T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"LT",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-26T06:20:43.505875Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=47440#results",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CWSD-1294-0245-2449-1685",
+    "norad_cat_id":43850.0,
+    "norad_follow_id":null,
+    "name":"SHIELDS 1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-12-16T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-26T06:20:14.000703Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43850#results",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

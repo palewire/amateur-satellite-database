@@ -1113,7 +1113,7 @@ RAX-2,37853,,437.345,,9600bps GMSK,,inactive,
 Reaktor Hello World,43743,,437.775/2410.000,437.775,9k6* 2GFSK/1MbpsMSK CW*,OH2RHW1,re-entered,ILUP-3176-4624-1525-3825
 Red Diamond,42783,,401.150,,9600bps FSK,,active,CNKC-2118-9597-8621-1044
 ReshUCube,53382,,435.380,,2400bps GMSK USP,RS8S,active,EUTM-6475-4739-7036-7152
-ReshUCube-2,57168,,435.640/435.742/436.000/436.675,,125k LoRa,RS37S,inactive,
+ReshUCube-2,57168,,435.640/435.742/436.000*/436.675,,125k LoRa,RS37S,inactive,
 RINCON,,,436.870,437.345,1200bps AFSK,WA4CEW,failure,
 RISING-2,39769,435.xxx,2401.xxx,,1200bps 9600-96000bps,,non-amateur,
 ROBUSTA-1A,38084,,437.325,,1200bps AFSK,,re-entered,
@@ -1324,11 +1324,11 @@ StratoSat-TK1-C,57324,,,,,,unknown,
 StratoSat-TK1-D,57325,,,,,,unknown,
 StratoSat-TK1-E,57326,,,,,,unknown,
 StratoSat-TK1-F,57327,,,,,,unknown,
-StratoSat-TK1 picosat-B,57323,,436.260,,LoRa,RS52SB,active,KANX-6033-2616-0861-1048
-StratoSat-TK1 picosat-D,57167,,436.260,,LoRa,RS52SD,unknown,BQFG-5755-4293-7808-3570
-StratoSat-TK1 picosat-E,57327,,436.260,,LoRa,RS52SE,active,
-StratoSat-TK1 picosat-G,57168,,436.260,,LoRa,RS52SG,unknown,
-StratoSat-TK1 picosat-V,57322,,436.260,,LoRa,RS52SV,active,
+StratoSat-TK1 picosat-B,57200,,436.260,,LoRa,RS52SB,active,
+StratoSat-TK1 picosat-D,57208,,436.260,,LoRa,RS52SD,unknown,BTMY-6498-5817-1415-4137
+StratoSat-TK1 picosat-E,57176,,436.260,,LoRa,RS52SE,active,NRAD-4746-6573-1238-7533
+StratoSat-TK1 picosat-G,57170,,436.260,,LoRa,RS52SG,unknown,
+StratoSat-TK1 picosat-V,57169,,436.260,,LoRa,RS52SV,active,
 StudSat,36796,437.505,437.505,437.861,9600bps FSK CW,,inactive,
 STU-1,,,2402.000-2445.000,436.360,9600bps GMSK,,failure,
 SUCHAI,42788,,437.229,437.229,CW,SUCHAI,re-entered,XCWN-8187-6747-4526-7766
