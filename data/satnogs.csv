@@ -1668,7 +1668,7 @@ JBCY-3361-2959-8110-3669,98991.0,,OMNI-LER1,,,alive,,2023-11-11T18:49:00Z,2023-1
 DVFP-5425-6818-1482-0056,98990.0,,OSW Cazorla,Blue Marble Synthesizer,,alive,,2023-11-11T18:49:00Z,,,None,,[],2023-12-06T10:38:01.044320Z,Remove followed NORAD ID as the deployment is done,False,[]
 GOQR-1760-0521-1027-1985,98988.0,,UMBRA 07,,,alive,,2023-11-11T18:49:00Z,2023-11-11T20:06:16Z,,None,,[],2023-11-11T17:42:34.915717Z,Change status,False,[]
 LGHP-5450-2821-1755-7868,98987.0,58292.0,UMBRA 08,,,alive,,2023-11-11T18:49:00Z,2023-11-11T20:05:30Z,,None,,[],2023-12-05T03:13:21.490545Z,space-track.org,False,[]
-BDNJ-2213-7845-0073-9053,98984.0,,MDQUBESAT-2,,,alive,,,,,None,,[],2023-11-14T18:40:57.585495Z,https://www.dorbit.space/cosmic-wander-november-2023,False,[]
+BDNJ-2213-7845-0073-9053,98984.0,58642.0,MDQUBESAT-2,,,alive,,,,,None,,[],2023-12-26T13:07:42.412603Z,https://community.libre.space/t/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc/10997/112,True,[]
 EYJA-7830-4114-3014-1194,98983.0,,TYVAK-0262,,,future,,,,,None,,[],2023-11-06T14:58:14.876585Z,https://forum.nasaspaceflight.com/index.php?topic=56359.0,False,[]
 LNQC-5899-0906-5843-5467,98982.0,,TYVAK-0261,,,future,,,,,None,,[],2023-11-06T14:57:33.985249Z,https://forum.nasaspaceflight.com/index.php?topic=56359.0,False,[]
 KDPU-1823-6370-5846-1492,58567.0,,HADES-D,"SO-121, HYDRA-1",satellites/cache_18682954.png,alive,,2023-11-11T18:49:00Z,,https://www.amsat-ea.org/,None,ES,[],2023-12-22T10:15:14.032078Z,AMSAT BB list,False,['GPAF-9192-7239-6875-5127']

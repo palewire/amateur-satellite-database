@@ -39715,7 +39715,7 @@
   {
     "sat_id":"BDNJ-2213-7845-0073-9053",
     "norad_cat_id":98984.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58642.0,
     "name":"MDQUBESAT-2",
     "names":"",
     "image":"",
@@ -39729,9 +39729,9 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-14T18:40:57.585495Z",
-    "citation":"https:\/\/www.dorbit.space\/cosmic-wander-november-2023",
-    "is_frequency_violator":false,
+    "updated":"2023-12-26T13:07:42.412603Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/112",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
