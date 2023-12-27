@@ -19230,10 +19230,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -40691,6 +40691,30 @@
     ],
     "updated":"2023-12-06T19:46:35.476265Z",
     "citation":"Fix name and NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VOCF-7438-4889-6487-7357",
+    "norad_cat_id":28054.0,
+    "norad_follow_id":null,
+    "name":"DMSP 5F-3 (USA 172)",
+    "names":"2003-048A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2003-10-18T00:00:00Z",
+    "deployed":"2003-10-18T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2023-12-27T09:38:20.491496Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/19pg77lvykbzD56LR4OXpi7lpoOq8JHHSPA-medoSowI\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
