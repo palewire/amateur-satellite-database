@@ -40867,7 +40867,7 @@
   {
     "sat_id":"PKEA-6443-5307-1051-3153",
     "norad_cat_id":98965.0,
-    "norad_follow_id":58642.0,
+    "norad_follow_id":58465.0,
     "name":"LOGSATS",
     "names":"",
     "image":"satellites\/LOGSATS.jpg",
@@ -40881,8 +40881,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-24T17:39:09.308815Z",
-    "citation":"Random choice",
+    "updated":"2023-12-29T13:47:45.283344Z",
+    "citation":"Random (possible) choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
