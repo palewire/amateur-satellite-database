@@ -1327,7 +1327,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":"HB9GSF",
-    "status":"44083",
+    "status":"re-entered",
     "satnogs_id":"PEJT-8424-9765-0690-4476"
   },
   {
@@ -6640,7 +6640,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"EK1HYS",
-    "status":null,
+    "status":"active",
     "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {
@@ -7945,11 +7945,11 @@
     "name":"Juvenile-1F",
     "norad_id":"43199",
     "uplink":null,
-    "downlink":null,
-    "beacon":"436.370",
+    "downlink":"436.370",
+    "beacon":null,
     "mode":"9600bps BPSK",
-    "callsign":"re-entered",
-    "status":null,
+    "callsign":null,
+    "status":"re-entered",
     "satnogs_id":"UFIT-6008-6845-0096-1151"
   },
   {
@@ -12701,7 +12701,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"launch failed",
+    "status":"failure",
     "satnogs_id":null
   },
   {
