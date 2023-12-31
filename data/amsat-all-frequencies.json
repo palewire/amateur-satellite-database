@@ -9379,7 +9379,7 @@
     "beacon":null,
     "mode":"1k2 AFSK\/9k6 FSK",
     "callsign":"RS39S",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"SCGK-1611-0139-1871-0649"
   },
   {
@@ -9388,7 +9388,7 @@
     "uplink":null,
     "downlink":"435.290",
     "beacon":null,
-    "mode":"2k4*-9k6 GMSK_USP",
+    "mode":"4k8*,9k6 GMSK_USP",
     "callsign":null,
     "status":"active",
     "satnogs_id":"KPMW-9188-6390-9743-3148"
@@ -9399,7 +9399,7 @@
     "uplink":null,
     "downlink":"436.080",
     "beacon":null,
-    "mode":"2k4-9k6 GMSK_USP",
+    "mode":"4k8*,9k6 GMSK_USP",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"PJTC-6029-0615-1270-1207"
@@ -13946,6 +13946,17 @@
     "callsign":"AO4URE",
     "status":"unknown",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
+  },
+  {
+    "name":"SO-121",
+    "norad_id":"58567",
+    "uplink":"145.875",
+    "downlink":"436.666",
+    "beacon":"436.666",
+    "mode":"50*\/300\/1k2-9k6 FSK FM CW",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
     "name":"SPACEANT-D",
