@@ -11970,7 +11970,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"sputnixusp"
+      }
     ],
     "updated":"2023-02-04T05:45:32.616352Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
@@ -11994,7 +11996,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"sputnixusp"
+      }
     ],
     "updated":"2023-02-04T05:47:15.364134Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
@@ -12142,7 +12146,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"sputnixusp"
+      }
     ],
     "updated":"2023-02-07T19:58:11.451425Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
@@ -41363,6 +41369,30 @@
     ],
     "updated":"2023-12-26T06:20:14.000703Z",
     "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43850#results",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VFXK-3911-6099-7174-3873",
+    "norad_cat_id":98960.0,
+    "norad_follow_id":null,
+    "name":"BeliefSat-0",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-01-01T03:40:00Z",
+    "deployed":null,
+    "website":"https:\/\/github.com\/NewLeapKjsieit\/BeliefSat-0\/",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-01-01T14:57:13.203690Z",
+    "citation":"https:\/\/community.libre.space\/t\/beliefsat-0-launch-isro-pslv-c58-mission\/11216\/1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
