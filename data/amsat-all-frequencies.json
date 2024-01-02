@@ -1738,14 +1738,14 @@
     "satnogs_id":null
   },
   {
-    "name":"BELIEFSAT-1",
-    "norad_id":null,
-    "uplink":"435.825",
-    "downlink":"145.825",
+    "name":"BeliefSat-0",
+    "norad_id":"58695",
+    "uplink":"437.000",
+    "downlink":"145.980",
     "beacon":null,
-    "mode":"1200bps FM",
+    "mode":"1k2AFSK FM CTCSS 67.0Hz",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

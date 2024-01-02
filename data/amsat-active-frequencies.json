@@ -270,6 +270,16 @@
     "satnogs_id":"FVTP-0768-5406-9405-1618"
   },
   {
+    "name":"BeliefSat-0",
+    "norad_id":"58695",
+    "uplink":"437.000",
+    "downlink":"145.980",
+    "beacon":null,
+    "mode":"1k2AFSK FM CTCSS 67.0Hz",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BhutanSat",
     "norad_id":"54365",
     "uplink":null,
