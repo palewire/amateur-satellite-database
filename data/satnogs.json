@@ -8656,7 +8656,7 @@
     "norad_cat_id":43803.0,
     "norad_follow_id":null,
     "name":"JY1Sat",
-    "names":"Jordan-OSCAR 97JO-97",
+    "names":"JO-97, Jordan-OSCAR 97",
     "image":"satellites\/jy1sat-cubesat.jpg",
     "status":"alive",
     "decayed":null,
@@ -8668,8 +8668,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-14T17:06:28.996177Z",
-    "citation":"https:\/\/amsat-uk.org\/2018\/12\/14\/update-jy1sat-and-eseo-missions\/",
+    "updated":"2024-01-03T11:21:12.342525Z",
+    "citation":"Fix naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
