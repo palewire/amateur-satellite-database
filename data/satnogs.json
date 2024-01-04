@@ -32344,7 +32344,7 @@
   {
     "sat_id":"IIBK-3665-7725-6873-0003",
     "norad_cat_id":99155.0,
-    "norad_follow_id":56747.0,
+    "norad_follow_id":56748.0,
     "name":"JLC-101-v1-2",
     "names":"",
     "image":"satellites\/thumbnail_JLC-101-v1-2.png",
@@ -32358,8 +32358,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-27T09:49:16.521047Z",
-    "citation":"Randomly choose NORAD ID to follow",
+    "updated":"2024-01-03T18:46:19.538506Z",
+    "citation":"Change to follow 56748",
     "is_frequency_violator":true,
     "associated_satellites":[
 
