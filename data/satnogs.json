@@ -41397,5 +41397,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"REFL-9556-5840-4563-4839",
+    "norad_cat_id":48953.0,
+    "norad_follow_id":null,
+    "name":"Arthur-1",
+    "names":"2021-059CC",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":"2021-06-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"BE",
+    "telemetries":[
+
+    ],
+    "updated":"2024-01-04T00:30:52.733945Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/14Ll9upHAZJdISKpdcFOnVjn8hPF7Zz5LejYBF4f8XwA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
