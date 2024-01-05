@@ -9401,7 +9401,7 @@
     "beacon":null,
     "mode":"4k8*,9k6 GMSK_USP",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"PJTC-6029-0615-1270-1207"
   },
   {

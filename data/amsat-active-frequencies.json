@@ -2110,6 +2110,16 @@
     "satnogs_id":"KPMW-9188-6390-9743-3148"
   },
   {
+    "name":"Monitor-4",
+    "norad_id":"57182",
+    "uplink":null,
+    "downlink":"436.080",
+    "beacon":null,
+    "mode":"4k8*,9k6 GMSK_USP",
+    "callsign":null,
+    "satnogs_id":"PJTC-6029-0615-1270-1207"
+  },
+  {
     "name":"MOVE-2",
     "norad_id":"43780",
     "uplink":"437.800",
