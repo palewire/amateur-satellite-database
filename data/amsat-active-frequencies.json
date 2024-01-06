@@ -3085,7 +3085,7 @@
     "uplink":null,
     "downlink":"435.670",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2k4\/4k8* GMSK_USP",
     "callsign":"RS23S",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
@@ -3425,7 +3425,7 @@
     "uplink":null,
     "downlink":"435.670",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2k4\/4k8* GMSK_USP",
     "callsign":"RS23S",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
