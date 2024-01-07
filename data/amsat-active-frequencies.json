@@ -3070,16 +3070,6 @@
     "satnogs_id":"OTLB-3496-1811-8002-0742"
   },
   {
-    "name":"SXC3-215",
-    "norad_id":"53386",
-    "uplink":null,
-    "downlink":"437.800",
-    "beacon":null,
-    "mode":"2400bps GMSK_USP",
-    "callsign":"RS33S",
-    "satnogs_id":"UPJA-6543-4153-4055-9244"
-  },
-  {
     "name":"SXC3-216",
     "norad_id":"53376",
     "uplink":null,
@@ -3488,16 +3478,6 @@
     "mode":"9600bps GFSK",
     "callsign":"OM9VER",
     "satnogs_id":"EXYP-7555-6232-5402-1667"
-  },
-  {
-    "name":"Vizard",
-    "norad_id":"53386",
-    "uplink":null,
-    "downlink":"437.800",
-    "beacon":null,
-    "mode":"2400bps GMSK_USP",
-    "callsign":"RS33S",
-    "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {
     "name":"VIZARD-meteo",

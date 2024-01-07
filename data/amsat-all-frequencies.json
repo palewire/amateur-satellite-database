@@ -15033,7 +15033,7 @@
     "beacon":null,
     "mode":"2400bps GMSK_USP",
     "callsign":"RS33S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {
@@ -16984,14 +16984,14 @@
     "satnogs_id":"XQNL-8221-6393-9116-3452"
   },
   {
-    "name":"Vizard",
+    "name":"VIZARD",
     "norad_id":"53386",
     "uplink":null,
     "downlink":"437.800",
     "beacon":null,
     "mode":"2400bps GMSK_USP",
     "callsign":"RS33S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {
