@@ -9366,7 +9366,7 @@
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2k4\/4k8* GMSK_USP",
     "callsign":"RS32S",
     "status":"active",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
@@ -9388,7 +9388,7 @@
     "uplink":null,
     "downlink":"435.290",
     "beacon":null,
-    "mode":"4k8*,9k6 GMSK_USP",
+    "mode":"4k8*\/9k6 GMSK_USP",
     "callsign":null,
     "status":"active",
     "satnogs_id":"KPMW-9188-6390-9743-3148"
@@ -9399,7 +9399,7 @@
     "uplink":null,
     "downlink":"436.080",
     "beacon":null,
-    "mode":"4k8*,9k6 GMSK_USP",
+    "mode":"4k8*\/9k6 GMSK_USP",
     "callsign":null,
     "status":"active",
     "satnogs_id":"PJTC-6029-0615-1270-1207"
@@ -14998,7 +14998,7 @@
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2k4\/4k8* GMSK_USP",
     "callsign":"RS32S",
     "status":"active",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
