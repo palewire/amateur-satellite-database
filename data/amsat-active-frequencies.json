@@ -1650,16 +1650,6 @@
     "satnogs_id":"TWEF-8525-8046-9814-5948"
   },
   {
-    "name":"ION-SCV 012",
-    "norad_id":"58469",
-    "uplink":null,
-    "downlink":"401.415",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":null,
-    "satnogs_id":"BZWJ-9712-5590-5046-8513"
-  },
-  {
     "name":"ION-SCV 013",
     "norad_id":"58300",
     "uplink":null,
@@ -1668,6 +1658,16 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "satnogs_id":"YODX-5832-7103-0922-4071"
+  },
+  {
+    "name":"ION-SCV 015",
+    "norad_id":"58469",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":"BZWJ-9712-5590-5046-8513"
   },
   {
     "name":"IO-86",
