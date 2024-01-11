@@ -40923,7 +40923,7 @@
   {
     "sat_id":"RCBZ-5048-4345-8306-0931",
     "norad_cat_id":98963.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58755.0,
     "name":"NanoFF B",
     "names":"DP0NFB, TUBSAT-29",
     "image":"satellites\/nanoff_4zKkEfB.png",
@@ -40937,8 +40937,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-09T22:13:17.644016Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/117",
+    "updated":"2024-01-11T10:10:36.732210Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41443,6 +41443,30 @@
     ],
     "updated":"2024-01-10T17:19:21.517721Z",
     "citation":"https:\/\/space.oscar.wmo.int\/satellites\/view\/fy_2h",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GSMK-3474-5763-9188-5015",
+    "norad_cat_id":29079.0,
+    "norad_follow_id":null,
+    "name":"Eros B",
+    "names":"2006-014A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2006-04-25T00:00:00Z",
+    "deployed":"2006-04-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IL",
+    "telemetries":[
+
+    ],
+    "updated":"2024-01-11T11:28:23.150313Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1qmek2xpcF6oSxdNHwzGv4X7mOsm_q31suA7IoNdiCsc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
