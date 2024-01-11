@@ -40899,22 +40899,22 @@
   {
     "sat_id":"DUMR-1924-9064-2363-1545",
     "norad_cat_id":98964.0,
-    "norad_follow_id":58469.0,
+    "norad_follow_id":null,
     "name":"NanoFF A",
     "names":"DP0NFA, TUBSAT-28",
     "image":"satellites\/nanoff.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-12-01T18:19:00Z",
-    "deployed":null,
+    "deployed":"2024-01-11T05:38:00Z",
     "website":"https:\/\/tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/nanoff",
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2023-12-17T20:00:49.884151Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/106",
+    "updated":"2024-01-10T20:00:10.047356Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/117",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41419,6 +41419,30 @@
     ],
     "updated":"2024-01-04T00:30:52.733945Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/14Ll9upHAZJdISKpdcFOnVjn8hPF7Zz5LejYBF4f8XwA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IIKC-1876-0296-0221-8907",
+    "norad_cat_id":43491.0,
+    "norad_follow_id":null,
+    "name":"FENGYUN 2H",
+    "names":"Feng-Yun - 2H, FY-2H",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-06-05T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-01-10T17:19:21.517721Z",
+    "citation":"https:\/\/space.oscar.wmo.int\/satellites\/view\/fy_2h",
     "is_frequency_violator":false,
     "associated_satellites":[
 
