@@ -6286,9 +6286,9 @@
     "name":"PEGASUS",
     "names":"AT03",
     "image":"satellites\/PEGASUS.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-01-07T09:42:19Z",
+    "launched":"2017-06-23T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -6298,8 +6298,8 @@
         "decoder":"pegasus"
       }
     ],
-    "updated":"2021-07-21T10:11:42.441061Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-01-12T11:45:13.600260Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/8835250\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18110,8 +18110,8 @@
     "name":"Delfi-PQ",
     "names":"",
     "image":"satellites\/delfi-pq.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-01-06T18:27:39Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/www.tudelft.nl\/lr\/delfi-space\/delfi-pq",
@@ -18122,8 +18122,8 @@
         "decoder":"delfipq"
       }
     ],
-    "updated":"2022-02-16T12:12:50.788557Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=605",
+    "updated":"2024-01-12T10:56:30.270887Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/8836769\/",
     "is_frequency_violator":false,
     "associated_satellites":[
       "JLLI-0398-3214-5366-4061",
