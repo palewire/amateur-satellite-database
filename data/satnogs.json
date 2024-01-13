@@ -41378,8 +41378,8 @@
   },
   {
     "sat_id":"VFXK-3911-6099-7174-3873",
-    "norad_cat_id":98960.0,
-    "norad_follow_id":58695.0,
+    "norad_cat_id":58695.0,
+    "norad_follow_id":null,
     "name":"BeliefSat-0",
     "names":"",
     "image":"",
@@ -41393,8 +41393,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-02T16:21:49.519634Z",
-    "citation":"BeliefSat-0 is connected to POEM-3",
+    "updated":"2024-01-12T14:08:02.434100Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
