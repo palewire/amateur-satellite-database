@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -41467,6 +41467,30 @@
     ],
     "updated":"2024-01-11T11:28:23.150313Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1qmek2xpcF6oSxdNHwzGv4X7mOsm_q31suA7IoNdiCsc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YYIR-8416-3126-1290-3889",
+    "norad_cat_id":43890.0,
+    "norad_follow_id":null,
+    "name":"GRUS-1A",
+    "names":"2018-111Q",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-12-27T00:00:00Z",
+    "deployed":"2018-12-27T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-01-15T11:44:29.428801Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1bFaXgjATch_F_8iqNZbdyGyVV0iOZjMvIXn0X0tVY2Q\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
