@@ -39384,7 +39384,7 @@
   },
   {
     "sat_id":"KRWU-0654-8962-9038-6960",
-    "norad_cat_id":99001.0,
+    "norad_cat_id":58295.0,
     "norad_follow_id":null,
     "name":"SpaceVan",
     "names":"",
@@ -39399,11 +39399,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.501575Z",
-    "citation":"Change status",
+    "updated":"2024-01-14T22:17:15.673253Z",
+    "citation":"space-track.org and https:\/\/docs.google.com\/document\/d\/1t6N_Z1Nw6Gif1VGgGF7uQysNWHkZ7mmeefdtaywK-60\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "WPDY-7589-4744-6640-2659"
     ]
   },
   {
@@ -40903,18 +40903,18 @@
     "name":"NanoFF A",
     "names":"DP0NFA, TUBSAT-28",
     "image":"satellites\/nanoff.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-12-01T18:19:00Z",
-    "deployed":null,
+    "deployed":"2024-01-15T05:36:00Z",
     "website":"https:\/\/tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/nanoff",
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2024-01-11T22:43:25.157587Z",
-    "citation":"By the satellite team",
+    "updated":"2024-01-14T22:06:42.789081Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/122",
     "is_frequency_violator":false,
     "associated_satellites":[
 
