@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -40906,15 +40906,15 @@
     "status":"alive",
     "decayed":null,
     "launched":"2023-12-01T18:19:00Z",
-    "deployed":"2024-01-15T05:36:00Z",
+    "deployed":"2024-01-15T16:46:00Z",
     "website":"https:\/\/tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/nanoff",
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2024-01-14T22:06:42.789081Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/122",
+    "updated":"2024-01-15T18:12:20.954936Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
