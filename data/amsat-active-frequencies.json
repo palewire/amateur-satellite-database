@@ -195,7 +195,7 @@
     "uplink":null,
     "downlink":"401.500\/2245.000",
     "beacon":null,
-    "mode":"4k8*\/9k6 GMSK",
+    "mode":"9600bps GMSK",
     "callsign":"B12",
     "satnogs_id":"QDDY-8878-5291-1819-3935"
   },
@@ -268,16 +268,6 @@
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"DP0BEM",
     "satnogs_id":"FVTP-0768-5406-9405-1618"
-  },
-  {
-    "name":"BeliefSat-0",
-    "norad_id":"58695",
-    "uplink":"437.000",
-    "downlink":"145.980",
-    "beacon":null,
-    "mode":"1k2AFSK FM CTCSS 67.0Hz",
-    "callsign":null,
-    "satnogs_id":"VFXK-3911-6099-7174-3873"
   },
   {
     "name":"BhutanSat",
@@ -915,7 +905,7 @@
     "uplink":null,
     "downlink":"435.570",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS21S",
     "satnogs_id":"KILB-3720-6406-0699-8042"
   },
@@ -1385,7 +1375,7 @@
     "uplink":null,
     "downlink":"436.200\/10492.000",
     "beacon":null,
-    "mode":"9k6\/19k2 GFSK_USP",
+    "mode":"9k6\/19k2 GFSK USP",
     "callsign":"RS20S",
     "satnogs_id":"QNCD-8954-6090-5430-2718"
   },
@@ -1448,16 +1438,6 @@
     "mode":"50*\/300\/1k2-9k6 FSK FM CW",
     "callsign":null,
     "satnogs_id":"KDPU-1823-6370-5846-1492"
-  },
-  {
-    "name":"Hayasat-1",
-    "norad_id":"58471",
-    "uplink":null,
-    "downlink":"437.020",
-    "beacon":null,
-    "mode":"9600bps GFSK",
-    "callsign":"EK1HYS",
-    "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {
     "name":"HA-1",
@@ -1650,6 +1630,16 @@
     "satnogs_id":"TWEF-8525-8046-9814-5948"
   },
   {
+    "name":"ION-SCV 012",
+    "norad_id":"58469",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":"BZWJ-9712-5590-5046-8513"
+  },
+  {
     "name":"ION-SCV 013",
     "norad_id":"58300",
     "uplink":null,
@@ -1658,16 +1648,6 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "satnogs_id":"YODX-5832-7103-0922-4071"
-  },
-  {
-    "name":"ION-SCV 015",
-    "norad_id":"58469",
-    "uplink":null,
-    "downlink":"401.415",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":null,
-    "satnogs_id":"BZWJ-9712-5590-5046-8513"
   },
   {
     "name":"IO-86",
@@ -1735,7 +1715,7 @@
     "uplink":null,
     "downlink":"437.650",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS19S",
     "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
@@ -1935,7 +1915,7 @@
     "uplink":null,
     "downlink":"437.700",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS34S",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
   },
@@ -2075,7 +2055,7 @@
     "uplink":null,
     "downlink":"437.900",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS28S",
     "satnogs_id":"OTLB-3496-1811-8002-0742"
   },
@@ -2095,7 +2075,7 @@
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
-    "mode":"2k4\/4k8* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS32S",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
   },
@@ -2105,19 +2085,9 @@
     "uplink":null,
     "downlink":"435.290",
     "beacon":null,
-    "mode":"4k8*\/9k6 GMSK_USP",
+    "mode":"2k4*-9k6 GMSK_USP",
     "callsign":null,
     "satnogs_id":"KPMW-9188-6390-9743-3148"
-  },
-  {
-    "name":"Monitor-4",
-    "norad_id":"57182",
-    "uplink":null,
-    "downlink":"436.080",
-    "beacon":null,
-    "mode":"4k8*\/9k6 GMSK_USP",
-    "callsign":null,
-    "satnogs_id":"PJTC-6029-0615-1270-1207"
   },
   {
     "name":"MOVE-2",
@@ -2178,6 +2148,26 @@
     "mode":"1200bps BPSK",
     "callsign":"A68MX",
     "satnogs_id":"FXJU-1542-5342-0390-1271"
+  },
+  {
+    "name":"NanoFF-A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"NanoFF-B",
+    "norad_id":"58755",
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"NanosatC-Br2",
@@ -2515,7 +2505,7 @@
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS8S",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
@@ -2655,7 +2645,7 @@
     "uplink":null,
     "downlink":"437.750",
     "beacon":null,
-    "mode":"2k4\/9k6* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS30S",
     "satnogs_id":"TSYE-5592-5507-8880-3661"
   },
@@ -2710,16 +2700,6 @@
     "satnogs_id":"KYRP-5328-3519-5716-9299"
   },
   {
-    "name":"SITRO-AIS-10",
-    "norad_id":"57199",
-    "uplink":null,
-    "downlink":"401.290",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2212",
-    "satnogs_id":"PHVZ-1185-4095-1354-8720"
-  },
-  {
     "name":"SITRO-AIS-11",
     "norad_id":"57208",
     "uplink":null,
@@ -2745,7 +2725,7 @@
     "uplink":null,
     "downlink":"435.000*\/435.600",
     "beacon":null,
-    "mode":"9600bps GMSK_USP",
+    "mode":"9600bps GMSK USP",
     "callsign":"R0AJU-1",
     "satnogs_id":null
   },
@@ -2755,7 +2735,7 @@
     "uplink":null,
     "downlink":"435.000*\/435.600",
     "beacon":null,
-    "mode":"9600bps GMSK_USP",
+    "mode":"9600bps GMSK USP",
     "callsign":"R0AJU-1",
     "satnogs_id":null
   },
@@ -2858,16 +2838,6 @@
     "mode":"1k2\/2k4 AFSK APRS FM CW*",
     "callsign":"AM5SAT",
     "satnogs_id":null
-  },
-  {
-    "name":"SO-121",
-    "norad_id":"58567",
-    "uplink":"145.875",
-    "downlink":"436.666",
-    "beacon":"436.666",
-    "mode":"50*\/300\/1k2-9k6 FSK FM CW",
-    "callsign":null,
-    "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
     "name":"Sparrow",
@@ -3045,7 +3015,7 @@
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
-    "mode":"2k4\/4k8* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS32S",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
   },
@@ -3055,7 +3025,7 @@
     "uplink":null,
     "downlink":"435.570",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS21S",
     "satnogs_id":"KILB-3720-6406-0699-8042"
   },
@@ -3065,9 +3035,19 @@
     "uplink":null,
     "downlink":"437.900",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS28S",
     "satnogs_id":"OTLB-3496-1811-8002-0742"
+  },
+  {
+    "name":"SXC3-215",
+    "norad_id":"53386",
+    "uplink":null,
+    "downlink":"437.800",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS33S",
+    "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {
     "name":"SXC3-216",
@@ -3075,7 +3055,7 @@
     "uplink":null,
     "downlink":"435.670",
     "beacon":null,
-    "mode":"2k4\/4k8* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS23S",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
@@ -3085,7 +3065,7 @@
     "uplink":null,
     "downlink":"437.750",
     "beacon":null,
-    "mode":"2k4\/9k6* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS30S",
     "satnogs_id":"TSYE-5592-5507-8880-3661"
   },
@@ -3095,7 +3075,7 @@
     "uplink":null,
     "downlink":"437.700",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS34S",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
   },
@@ -3105,7 +3085,7 @@
     "uplink":null,
     "downlink":"437.650",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS19S",
     "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
@@ -3115,7 +3095,7 @@
     "uplink":null,
     "downlink":"436.050",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS29S",
     "satnogs_id":"YYOS-0902-7582-8175-2841"
   },
@@ -3125,7 +3105,7 @@
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS8S",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
@@ -3415,7 +3395,7 @@
     "uplink":null,
     "downlink":"435.670",
     "beacon":null,
-    "mode":"2k4\/4k8* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS23S",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
@@ -3480,6 +3460,16 @@
     "satnogs_id":"EXYP-7555-6232-5402-1667"
   },
   {
+    "name":"Vizard",
+    "norad_id":"53386",
+    "uplink":null,
+    "downlink":"437.800",
+    "beacon":null,
+    "mode":"2400bps GMSK USP",
+    "callsign":"RS33S",
+    "satnogs_id":"UPJA-6543-4153-4055-9244"
+  },
+  {
     "name":"VIZARD-meteo",
     "norad_id":"57189",
     "uplink":null,
@@ -3495,7 +3485,7 @@
     "uplink":null,
     "downlink":"436.050",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS29S",
     "satnogs_id":"YYOS-0902-7582-8175-2841"
   },

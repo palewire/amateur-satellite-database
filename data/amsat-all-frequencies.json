@@ -1327,7 +1327,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":"HB9GSF",
-    "status":"re-entered",
+    "status":"44083",
     "satnogs_id":"PEJT-8424-9765-0690-4476"
   },
   {
@@ -1512,7 +1512,7 @@
     "uplink":null,
     "downlink":"401.500\/2245.000",
     "beacon":null,
-    "mode":"4k8*\/9k6 GMSK",
+    "mode":"9600bps GMSK",
     "callsign":"B12",
     "status":"active",
     "satnogs_id":"QDDY-8878-5291-1819-3935"
@@ -1738,15 +1738,15 @@
     "satnogs_id":null
   },
   {
-    "name":"BeliefSat-0",
-    "norad_id":"58695",
-    "uplink":"437.000",
-    "downlink":"145.980",
+    "name":"BELIEFSAT-1",
+    "norad_id":null,
+    "uplink":"435.825",
+    "downlink":"145.825",
     "beacon":null,
-    "mode":"1k2AFSK FM CTCSS 67.0Hz",
+    "mode":"1200bps FM",
     "callsign":null,
-    "status":"active",
-    "satnogs_id":"VFXK-3911-6099-7174-3873"
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"BELL",
@@ -4141,7 +4141,7 @@
     "uplink":null,
     "downlink":"435.570",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS21S",
     "status":"active",
     "satnogs_id":"KILB-3720-6406-0699-8042"
@@ -6308,7 +6308,7 @@
     "uplink":null,
     "downlink":"436.200\/10492.000",
     "beacon":null,
-    "mode":"9k6\/19k2 GFSK_USP",
+    "mode":"9k6\/19k2 GFSK USP",
     "callsign":"RS20S",
     "status":"active",
     "satnogs_id":"QNCD-8954-6090-5430-2718"
@@ -6640,7 +6640,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"EK1HYS",
-    "status":"active",
+    "status":null,
     "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {
@@ -7447,6 +7447,17 @@
     "satnogs_id":"TWEF-8525-8046-9814-5948"
   },
   {
+    "name":"ION-SCV 012",
+    "norad_id":"58469",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"BZWJ-9712-5590-5046-8513"
+  },
+  {
     "name":"ION-SCV 013",
     "norad_id":"58300",
     "uplink":null,
@@ -7456,17 +7467,6 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"YODX-5832-7103-0922-4071"
-  },
-  {
-    "name":"ION-SCV 015",
-    "norad_id":"58469",
-    "uplink":null,
-    "downlink":"401.415",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":null,
-    "status":"active",
-    "satnogs_id":"BZWJ-9712-5590-5046-8513"
   },
   {
     "name":"IO-26",
@@ -7606,7 +7606,7 @@
     "uplink":null,
     "downlink":"437.650",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS19S",
     "status":"active",
     "satnogs_id":"BFTX-5845-5159-6971-7200"
@@ -7945,11 +7945,11 @@
     "name":"Juvenile-1F",
     "norad_id":"43199",
     "uplink":null,
-    "downlink":"436.370",
-    "beacon":null,
+    "downlink":null,
+    "beacon":"436.370",
     "mode":"9600bps BPSK",
-    "callsign":null,
-    "status":"re-entered",
+    "callsign":"re-entered",
+    "status":null,
     "satnogs_id":"UFIT-6008-6845-0096-1151"
   },
   {
@@ -8387,7 +8387,7 @@
     "uplink":null,
     "downlink":"437.700",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS34S",
     "status":"active",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
@@ -9278,7 +9278,7 @@
     "uplink":null,
     "downlink":"437.900",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS28S",
     "status":"active",
     "satnogs_id":"OTLB-3496-1811-8002-0742"
@@ -9366,7 +9366,7 @@
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
-    "mode":"2k4\/4k8* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS32S",
     "status":"active",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
@@ -9379,7 +9379,7 @@
     "beacon":null,
     "mode":"1k2 AFSK\/9k6 FSK",
     "callsign":"RS39S",
-    "status":"inactive",
+    "status":"unknown",
     "satnogs_id":"SCGK-1611-0139-1871-0649"
   },
   {
@@ -9388,7 +9388,7 @@
     "uplink":null,
     "downlink":"435.290",
     "beacon":null,
-    "mode":"4k8*\/9k6 GMSK_USP",
+    "mode":"2k4*-9k6 GMSK_USP",
     "callsign":null,
     "status":"active",
     "satnogs_id":"KPMW-9188-6390-9743-3148"
@@ -9399,9 +9399,9 @@
     "uplink":null,
     "downlink":"436.080",
     "beacon":null,
-    "mode":"4k8*\/9k6 GMSK_USP",
+    "mode":"2k4-9k6 GMSK_USP",
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"PJTC-6029-0615-1270-1207"
   },
   {
@@ -9611,6 +9611,28 @@
     "mode":"1200bps BPSK",
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"NanoFF-A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"NanoFF-B",
+    "norad_id":"58755",
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null,
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -12248,7 +12270,7 @@
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS8S",
     "status":"active",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
@@ -12701,7 +12723,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"failure",
+    "status":"launch failed",
     "satnogs_id":null
   },
   {
@@ -13359,7 +13381,7 @@
     "uplink":null,
     "downlink":"437.750",
     "beacon":null,
-    "mode":"2k4\/9k6* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS30S",
     "status":"active",
     "satnogs_id":"TSYE-5592-5507-8880-3661"
@@ -13460,7 +13482,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2212",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"PHVZ-1185-4095-1354-8720"
   },
   {
@@ -13513,7 +13535,7 @@
     "uplink":null,
     "downlink":"435.000*\/435.600",
     "beacon":null,
-    "mode":"9600bps GMSK_USP",
+    "mode":"9600bps GMSK USP",
     "callsign":"R0AJU-1",
     "status":"active",
     "satnogs_id":null
@@ -13524,7 +13546,7 @@
     "uplink":null,
     "downlink":"435.000*\/435.600",
     "beacon":null,
-    "mode":"9600bps GMSK_USP",
+    "mode":"9600bps GMSK USP",
     "callsign":"R0AJU-1",
     "status":"active",
     "satnogs_id":null
@@ -13946,17 +13968,6 @@
     "callsign":"AO4URE",
     "status":"unknown",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
-  },
-  {
-    "name":"SO-121",
-    "norad_id":"58567",
-    "uplink":"145.875",
-    "downlink":"436.666",
-    "beacon":"436.666",
-    "mode":"50*\/300\/1k2-9k6 FSK FM CW",
-    "callsign":null,
-    "status":"active",
-    "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
     "name":"SPACEANT-D",
@@ -14998,7 +15009,7 @@
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
-    "mode":"2k4\/4k8* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS32S",
     "status":"active",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
@@ -15009,7 +15020,7 @@
     "uplink":null,
     "downlink":"435.570",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS21S",
     "status":"active",
     "satnogs_id":"KILB-3720-6406-0699-8042"
@@ -15020,7 +15031,7 @@
     "uplink":null,
     "downlink":"437.900",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS28S",
     "status":"active",
     "satnogs_id":"OTLB-3496-1811-8002-0742"
@@ -15031,9 +15042,9 @@
     "uplink":null,
     "downlink":"437.800",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS33S",
-    "status":"re-entered",
+    "status":"active",
     "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {
@@ -15042,7 +15053,7 @@
     "uplink":null,
     "downlink":"435.670",
     "beacon":null,
-    "mode":"2k4\/4k8* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS23S",
     "status":"active",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
@@ -15053,7 +15064,7 @@
     "uplink":null,
     "downlink":"437.750",
     "beacon":null,
-    "mode":"2k4\/9k6* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS30S",
     "status":"active",
     "satnogs_id":"TSYE-5592-5507-8880-3661"
@@ -15064,7 +15075,7 @@
     "uplink":null,
     "downlink":"437.700",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS34S",
     "status":"active",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
@@ -15075,7 +15086,7 @@
     "uplink":null,
     "downlink":"437.650",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS19S",
     "status":"active",
     "satnogs_id":"BFTX-5845-5159-6971-7200"
@@ -15086,7 +15097,7 @@
     "uplink":null,
     "downlink":"436.050",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS29S",
     "status":"active",
     "satnogs_id":"YYOS-0902-7582-8175-2841"
@@ -15097,7 +15108,7 @@
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS8S",
     "status":"active",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
@@ -16769,7 +16780,7 @@
     "uplink":null,
     "downlink":"435.670",
     "beacon":null,
-    "mode":"2k4\/4k8* GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS23S",
     "status":"active",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
@@ -16984,14 +16995,14 @@
     "satnogs_id":"XQNL-8221-6393-9116-3452"
   },
   {
-    "name":"VIZARD",
+    "name":"Vizard",
     "norad_id":"53386",
     "uplink":null,
     "downlink":"437.800",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS33S",
-    "status":"re-entered",
+    "status":"active",
     "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {
@@ -17011,7 +17022,7 @@
     "uplink":null,
     "downlink":"436.050",
     "beacon":null,
-    "mode":"2400bps GMSK_USP",
+    "mode":"2400bps GMSK USP",
     "callsign":"RS29S",
     "status":"active",
     "satnogs_id":"YYOS-0902-7582-8175-2841"
