@@ -40925,7 +40925,7 @@
     "norad_cat_id":98963.0,
     "norad_follow_id":58755.0,
     "name":"NanoFF B",
-    "names":"DP0NFB, TUBSAT-29",
+    "names":"DP0NFB, TUBSAT-28",
     "image":"satellites\/nanoff_4zKkEfB.png",
     "status":"alive",
     "decayed":null,
@@ -40937,8 +40937,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-11T10:10:36.732210Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2024-01-17T10:15:20.132836Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/270",
     "is_frequency_violator":false,
     "associated_satellites":[
 
