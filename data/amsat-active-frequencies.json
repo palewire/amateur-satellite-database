@@ -2151,7 +2151,7 @@
   },
   {
     "name":"NanoFF-A",
-    "norad_id":null,
+    "norad_id":"58810",
     "uplink":null,
     "downlink":"435.950",
     "beacon":null,

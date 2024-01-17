@@ -40899,9 +40899,9 @@
   {
     "sat_id":"DUMR-1924-9064-2363-1545",
     "norad_cat_id":98964.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58810.0,
     "name":"NanoFF A",
-    "names":"DP0NFA, TUBSAT-28",
+    "names":"DP0NFA, TUBSAT-29",
     "image":"satellites\/nanoff.png",
     "status":"alive",
     "decayed":null,
@@ -40913,7 +40913,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-15T18:12:20.954936Z",
+    "updated":"2024-01-16T18:40:11.939571Z",
     "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -41397,7 +41397,7 @@
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "ICRE-7925-9783-3171-0315"
     ]
   },
   {
