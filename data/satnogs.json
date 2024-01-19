@@ -19013,10 +19013,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -41539,6 +41539,30 @@
     ],
     "updated":"2024-01-18T16:09:58.101280Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1rqle4CGd7-n_OMOg_QQz4N8GSXgtg8VT7Eg7JAOnRhk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KLJL-0011-4484-2870-9159",
+    "norad_cat_id":39574.0,
+    "norad_follow_id":null,
+    "name":"GPM",
+    "names":"2014-009C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-02-27T00:00:00Z",
+    "deployed":"2014-02-27T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-01-19T11:34:53.978297Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1t2_FfcCHxe6cYYVbRr1T8FBW-79EF6z1vL7MGAg1c4M\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
