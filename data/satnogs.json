@@ -19013,10 +19013,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -41491,6 +41491,54 @@
     ],
     "updated":"2024-01-15T11:44:29.428801Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1bFaXgjATch_F_8iqNZbdyGyVV0iOZjMvIXn0X0tVY2Q\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RHNB-3111-7260-8353-7291",
+    "norad_cat_id":55085.0,
+    "norad_follow_id":null,
+    "name":"KSF3-D",
+    "names":"2023-001CE",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":"2023-01-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"LU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-01-18T16:10:32.718589Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/140Bbwq-pkKuIy_absaZA5XFiHA4GWAw7MF81sCBJWCo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YVEU-8770-8601-7961-7320",
+    "norad_cat_id":38038.0,
+    "norad_follow_id":null,
+    "name":"ZY 1",
+    "names":"2011-079A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2011-12-22T00:00:00Z",
+    "deployed":"2011-12-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-01-18T16:09:58.101280Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1rqle4CGd7-n_OMOg_QQz4N8GSXgtg8VT7Eg7JAOnRhk\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
