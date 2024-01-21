@@ -1765,7 +1765,7 @@
     "uplink":"145.900-146.000",
     "downlink":"435.900-435.800",
     "beacon":"435.795",
-    "mode":"SSB* CW (DigiTalker)",
+    "mode":"SSB* CW DigiTalker",
     "callsign":null,
     "satnogs_id":"XTKP-9404-9174-4088-2406"
   },

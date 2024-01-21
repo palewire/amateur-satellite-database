@@ -7837,7 +7837,7 @@
     "uplink":"145.900-146.000",
     "downlink":"435.900-435.800",
     "beacon":"435.795",
-    "mode":"SSB* CW (DigiTalker)",
+    "mode":"SSB* CW DigiTalker",
     "callsign":null,
     "status":"active",
     "satnogs_id":"XTKP-9404-9174-4088-2406"
@@ -8503,7 +8503,7 @@
     "satnogs_id":"JLZT-0277-4784-7719-1707"
   },
   {
-    "name":"Lemur-2 (Spacegus)",
+    "name":"Lemur-2(Spacegus)",
     "norad_id":"56187",
     "uplink":null,
     "downlink":"402.790",
@@ -8514,7 +8514,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Lemur-2 (OnReflection 164)",
+    "name":"Lemur-2(OnReflection 164)",
     "norad_id":"56182",
     "uplink":null,
     "downlink":null,
@@ -8525,7 +8525,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Lemur-2 (Romeo-n-Leo 165)",
+    "name":"Lemur-2(Romeo-n-Leo 165)",
     "norad_id":"56206",
     "uplink":null,
     "downlink":"402.788",
@@ -8536,7 +8536,7 @@
     "satnogs_id":null
   },
   {
-    "name":"LEMUR-2 (MANGO-2A)",
+    "name":"LEMUR-2(MANGO-2A)",
     "norad_id":"58336",
     "uplink":null,
     "downlink":"402.790\/2022.500\/2200.500\/2440.000",
@@ -8547,7 +8547,7 @@
     "satnogs_id":null
   },
   {
-    "name":"LEMUR-2 (MANGO-2B)",
+    "name":"LEMUR-2(MANGO-2B)",
     "norad_id":"58337",
     "uplink":null,
     "downlink":"402.790\/2022.500\/2200.500\/2440.000",
@@ -8578,6 +8578,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"CVWL-5147-2655-6759-5452"
+  },
+  {
+    "name":"LEV-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.410",
+    "beacon":"2212.000",
+    "mode":"CW",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"LIBERTAD-1",
@@ -13560,6 +13571,17 @@
     "mode":"57.6Kbps",
     "callsign":null,
     "status":"non-amateur",
+    "satnogs_id":null
+  },
+  {
+    "name":"SLIM",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.410",
+    "beacon":"2212.000",
+    "mode":"CW",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
