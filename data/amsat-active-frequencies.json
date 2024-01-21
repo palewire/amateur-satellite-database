@@ -2567,7 +2567,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":"KN6HCC",
-    "satnogs_id":"WRAS-5638-4914-9749-8955"
+    "satnogs_id":null
   },
   {
     "name":"SaudiSat-1C",

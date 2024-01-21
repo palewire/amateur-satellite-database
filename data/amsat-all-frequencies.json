@@ -12284,7 +12284,7 @@
     "mode":"125k LoRa",
     "callsign":"RS37S",
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"SEMQ-5896-1667-7154-6568"
   },
   {
     "name":"RINCON",
@@ -12999,7 +12999,7 @@
     "mode":"LoRa",
     "callsign":"KN6HCC",
     "status":"active",
-    "satnogs_id":"WRAS-5638-4914-9749-8955"
+    "satnogs_id":null
   },
   {
     "name":"Sateliot-0",
