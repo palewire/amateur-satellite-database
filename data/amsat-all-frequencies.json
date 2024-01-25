@@ -9631,7 +9631,7 @@
     "downlink":"435.950",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
+    "callsign":"DP0NFA",
     "status":"active",
     "satnogs_id":null
   },
@@ -9642,7 +9642,7 @@
     "downlink":"435.950",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
+    "callsign":"DP0NFB",
     "status":"active",
     "satnogs_id":null
   },
