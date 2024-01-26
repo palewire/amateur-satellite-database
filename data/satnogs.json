@@ -32345,9 +32345,9 @@
   {
     "sat_id":"IIBK-3665-7725-6873-0003",
     "norad_cat_id":99155.0,
-    "norad_follow_id":56748.0,
+    "norad_follow_id":56747.0,
     "name":"JLC-101-v1-2",
-    "names":"",
+    "names":"JAC",
     "image":"satellites\/thumbnail_JLC-101-v1-2.png",
     "status":"alive",
     "decayed":null,
@@ -32359,8 +32359,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-03T18:46:19.538506Z",
-    "citation":"Change to follow 56748",
+    "updated":"2024-01-26T11:46:55.018434Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
