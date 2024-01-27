@@ -15548,7 +15548,7 @@
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
-    "mode":"9600bps BPSK FM",
+    "mode":"9600bps BPSK* FM",
     "callsign":"T1OFK",
     "status":"active",
     "satnogs_id":"LGQA-5372-5302-5624-9737"
@@ -15625,7 +15625,7 @@
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
-    "mode":"9600bps BPSK FM",
+    "mode":"9600bps BPSK* FM",
     "callsign":"T8GBS",
     "status":"active",
     "satnogs_id":"VNEP-7767-9055-3195-4316"
