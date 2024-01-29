@@ -13992,6 +13992,17 @@
     "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
   {
+    "name":"SO-121",
+    "norad_id":"58567",
+    "uplink":"145.875",
+    "downlink":"436.666",
+    "beacon":"436.666",
+    "mode":"50*\/300\/1k2-9k6 FSK FM CW",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"KDPU-1823-6370-5846-1492"
+  },
+  {
     "name":"SPACEANT-D",
     "norad_id":null,
     "uplink":null,

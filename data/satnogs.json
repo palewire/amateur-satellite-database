@@ -41761,5 +41761,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"BKKD-5439-2128-1382-0085",
+    "norad_cat_id":33396.0,
+    "norad_follow_id":null,
+    "name":"THEOS",
+    "names":"THEOS-1",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2008-10-01T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TH",
+    "telemetries":[
+
+    ],
+    "updated":"2024-01-28T17:39:31.911485Z",
+    "citation":"Own STRF observation. ~500k fine stripped blob. Observed signal (frequency\/width) coherent with info from https:\/\/space.oscar.wmo.int\/satellites\/view\/theos_1",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
