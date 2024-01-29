@@ -8587,7 +8587,7 @@
     "beacon":"2212.000",
     "mode":"CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -13581,7 +13581,7 @@
     "beacon":"2212.000",
     "mode":"CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

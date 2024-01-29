@@ -1940,6 +1940,16 @@
     "satnogs_id":"JLZT-0277-4784-7719-1707"
   },
   {
+    "name":"LEV-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.410",
+    "beacon":"2212.000",
+    "mode":"CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"LilacSat-2",
     "norad_id":"40908",
     "uplink":"144.350\/144.390",
@@ -2737,6 +2747,16 @@
     "beacon":null,
     "mode":"9600bps GMSK USP",
     "callsign":"R0AJU-1",
+    "satnogs_id":null
+  },
+  {
+    "name":"SLIM",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.410",
+    "beacon":"2212.000",
+    "mode":"CW",
+    "callsign":null,
     "satnogs_id":null
   },
   {
