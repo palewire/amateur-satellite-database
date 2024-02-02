@@ -2176,9 +2176,9 @@
     "name":"BEESAT-3",
     "names":"DP0BEG",
     "image":"satellites\/B3-1500-PH_uebersicht_scaled.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-12-30T00:00:00Z",
+    "launched":"2013-04-19T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.raumfahrttechnik.tu-berlin.de\/menue\/forschung\/aktuelle_projekte\/beesat_3\/",
     "operator":"TU Berlin",
@@ -2186,8 +2186,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.116563Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-02-02T10:37:34.688406Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=39135#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -4014,9 +4014,9 @@
     "norad_cat_id":40912.0,
     "norad_follow_id":null,
     "name":"KAITUO 1B",
-    "names":"CAS-3G\r\nDCBB\r\nXW-2G",
+    "names":"CAS-3G, DCBB, XW-2G",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -4026,8 +4026,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.232750Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-02-02T11:34:01.581688Z",
+    "citation":"Given the last TLE Set mean motion, the satellite should have been decayed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -4934,8 +4934,8 @@
     "name":"3CAT-2",
     "names":"",
     "image":"satellites\/3cat-2__2.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-12-18T00:00:00Z",
     "launched":"2016-08-16T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -4944,8 +4944,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-13T11:19:33.560242Z",
-    "citation":"gunter",
+    "updated":"2024-02-02T10:37:10.423662Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=41732#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -11188,8 +11188,8 @@
     "name":"BRO 3",
     "names":"BRO-3",
     "image":"satellites\/bro-1__1_vGDj9vV.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-01-23T00:00:00Z",
     "launched":"2020-11-20T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/unseenlabs.space\/",
@@ -11198,8 +11198,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-29T11:37:33.453657Z",
-    "citation":"Add website, same as the other BROs",
+    "updated":"2024-02-02T10:40:34.902791Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46943#results",
     "is_frequency_violator":false,
     "associated_satellites":[
       "JMGF-6622-7201-2101-2345"
@@ -12458,9 +12458,9 @@
     "name":"DhabiSat",
     "names":"MYSat-2",
     "image":"satellites\/dhabisat.png",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-01-17T00:00:00Z",
+    "launched":"2021-02-20T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.ku.ac.ae\/tag\/yahsat-space-lab\/",
     "operator":"None",
@@ -12470,9 +12470,9 @@
         "decoder":"dhabisat"
       }
     ],
-    "updated":"2021-07-21T10:11:42.940852Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "updated":"2024-02-02T10:44:27.291454Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=49016#results",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -13615,9 +13615,9 @@
     "name":"APSS-1",
     "names":"",
     "image":"satellites\/quaketec-1__1.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-01-30T00:00:00Z",
+    "launched":"2020-11-20T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/apss.space.auckland.ac.nz\/",
     "operator":"None",
@@ -13625,8 +13625,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:43.031376Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-02-02T10:40:09.419940Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46932#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14529,8 +14529,8 @@
     "name":"NMTSat",
     "names":"WM9XLJ",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-01T00:00:00Z",
     "launched":"2018-12-16T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -14539,8 +14539,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-28T06:18:55.210885Z",
-    "citation":"Random choice",
+    "updated":"2024-02-02T10:38:41.208244Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43862#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17260,8 +17260,8 @@
     "name":"Jin Zijing 1-02",
     "names":"OBJECT H",
     "image":"satellites\/jinzijing-1__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-29T00:00:00Z",
     "launched":"2021-04-27T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -17270,8 +17270,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-11-07T14:49:56.661571Z",
-    "citation":"Eelke Survey",
+    "updated":"2024-02-02T11:31:11.853869Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -21109,9 +21109,9 @@
     "name":"OBJECT M",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2023-12-05T00:00:00Z",
+    "launched":"2020-11-06T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -21119,8 +21119,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-18T00:17:34.757612Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-02-02T10:45:24.211056Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46838#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29198,8 +29198,8 @@
     "name":"FLOCK 4V 4",
     "names":"Dove 2274",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-12-12T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -29208,8 +29208,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-31T10:41:05.577035Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-02-02T10:45:42.437126Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46314#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29678,8 +29678,8 @@
     "name":"AzaadiSAT-2",
     "names":"",
     "image":"satellites\/photo_2023-02-06_11-12-52.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-12-05T00:00:00Z",
     "launched":"2023-02-10T03:48:00Z",
     "deployed":null,
     "website":"https:\/\/www.spacekidzindia.in\/",
@@ -29690,8 +29690,8 @@
         "decoder":"azaadisat2"
       }
     ],
-    "updated":"2023-02-28T23:21:26.438214Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/xZLPf30Vk\/azaadisat-2?orgId=1&refresh=30s&var-suid=99198&var-filter=version%7C!%3D%7C1.50.0",
+    "updated":"2024-02-02T10:46:02.467538Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=55563#results",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BBWX-3388-8645-9305-2509"
@@ -29824,8 +29824,8 @@
     "name":"FLOCK 4P 7",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-01-24T00:00:00Z",
     "launched":"2019-11-27T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.planet.com",
@@ -29834,8 +29834,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.014995Z",
-    "citation":"https:\/\/www.planet.com",
+    "updated":"2024-02-02T10:46:32.856581Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44816#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35401,8 +35401,8 @@
     "name":"SC-ODIN",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-01-10T00:00:00Z",
     "launched":"2023-07-06T22:30:00Z",
     "deployed":null,
     "website":"https:\/\/www.nasa.gov\/mission_pages\/station\/research\/experiments\/explorer\/Investigation.html#id=8248",
@@ -35411,8 +35411,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-11T13:29:05.770408Z",
-    "citation":"Random choice",
+    "updated":"2024-02-02T10:47:15.491668Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=57312#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35426,7 +35426,7 @@
     "names":"",
     "image":"",
     "status":"alive",
-    "decayed":null,
+    "decayed":"2024-01-31T18:53:00Z",
     "launched":"2023-07-06T22:30:00Z",
     "deployed":null,
     "website":"https:\/\/usst.ca\/cubesat",
@@ -35435,8 +35435,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-11T13:29:05.731239Z",
-    "citation":"Random choice",
+    "updated":"2024-02-02T11:28:53.167618Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35473,8 +35473,8 @@
     "name":"IRIS",
     "names":"ManitobaSat-1",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-01-30T00:00:00Z",
     "launched":"2023-07-06T22:30:00Z",
     "deployed":null,
     "website":"https:\/\/www.nasa.gov\/mission_pages\/station\/research\/experiments\/explorer\/Investigation.html#id=8255",
@@ -35483,8 +35483,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-11T13:29:05.657511Z",
-    "citation":"Random choice",
+    "updated":"2024-02-02T10:48:31.119431Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=57315#results",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -36529,8 +36529,8 @@
     "name":"MAYA-6",
     "names":"DX6MYA",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-12-08T00:00:00Z",
     "launched":null,
     "deployed":"2023-07-19T06:40:00Z",
     "website":"https:\/\/stamina4space.upd.edu.ph\/maya-5-and-maya-6\/",
@@ -36539,8 +36539,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-06T15:50:32.874820Z",
-    "citation":"Use capital letters in name",
+    "updated":"2024-02-02T10:49:55.011252Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=57419#results",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BNZB-7785-6415-4130-9387"
@@ -37251,7 +37251,7 @@
     "name":"SHAKUNTALA",
     "names":"2022-033S",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-04-01T00:00:00Z",
     "deployed":null,
@@ -37261,8 +37261,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-18T20:01:30.708587Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/76",
+    "updated":"2024-02-02T11:26:02.658572Z",
+    "citation":"Given the last TLE Set mean motion, the satellite should have been decayed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -37779,7 +37779,7 @@
     "name":"Lucy",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2021-10-16T00:00:00Z",
     "deployed":null,
@@ -37789,8 +37789,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-09-19T10:44:42.343198Z",
-    "citation":"Celestrak",
+    "updated":"2024-02-02T11:25:15.077289Z",
+    "citation":"Given the last TLE Set mean motion, the satellite should have been decayed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
