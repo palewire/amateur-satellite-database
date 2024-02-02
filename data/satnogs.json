@@ -2200,8 +2200,8 @@
     "name":"BEESAT-2",
     "names":"DP0BEF",
     "image":"satellites\/beesat2.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-01T02:05:14Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/www.raumfahrttechnik.tu-berlin.de\/menue\/forschung\/aktuelle_projekte\/beesat_2\/parameter\/en\/",
@@ -2212,8 +2212,8 @@
         "decoder":"beesat2"
       }
     ],
-    "updated":"2021-07-21T10:11:42.117930Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-02-01T21:40:01.759091Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/8966468\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
