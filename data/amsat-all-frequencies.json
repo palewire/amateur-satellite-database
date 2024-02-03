@@ -2284,7 +2284,7 @@
     "beacon":null,
     "mode":"4k8\/9k6* GMSK Digipeater",
     "callsign":"EU10S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"WMQB-0532-9164-6364-5821"
   },
   {
@@ -4066,7 +4066,7 @@
     "beacon":null,
     "mode":"4k8\/9k6* GMSK Digipeater",
     "callsign":"EU10S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"WMQB-0532-9164-6364-5821"
   },
   {
@@ -10523,7 +10523,7 @@
     "beacon":null,
     "mode":"9600bps BPSK",
     "callsign":"BG7AKF",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"IUKT-5566-7027-2323-0619"
   },
   {
@@ -13526,7 +13526,7 @@
     "beacon":"437.100",
     "mode":"9600bps GMSK Digipeater CW",
     "callsign":"OM9SAT",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"LASJ-3104-0320-4540-8721"
   },
   {

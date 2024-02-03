@@ -380,16 +380,6 @@
     "satnogs_id":"BKIY-3032-2869-4485-1697"
   },
   {
-    "name":"BSUSat-1",
-    "norad_id":"43666",
-    "uplink":"436.200",
-    "downlink":"436.200\/436.990*",
-    "beacon":null,
-    "mode":"4k8\/9k6* GMSK Digipeater",
-    "callsign":"EU10S",
-    "satnogs_id":"WMQB-0532-9164-6364-5821"
-  },
-  {
     "name":"BSUSat-2",
     "norad_id":"57175",
     "uplink":"436.200",
@@ -848,16 +838,6 @@
     "mode":"LoRa",
     "callsign":null,
     "satnogs_id":"OEVP-0911-2494-4510-3616"
-  },
-  {
-    "name":"CubeBel-1",
-    "norad_id":"43666",
-    "uplink":"436.200",
-    "downlink":"436.990",
-    "beacon":null,
-    "mode":"4k8\/9k6* GMSK Digipeater",
-    "callsign":"EU10S",
-    "satnogs_id":"WMQB-0532-9164-6364-5821"
   },
   {
     "name":"CubeBel-2",
