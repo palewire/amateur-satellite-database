@@ -1085,7 +1085,7 @@
     "beacon":null,
     "mode":"2k4*-9k6 GMSK_USP",
     "callsign":"RS25S",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"WWBP-0562-9795-1786-4397"
   },
   {
@@ -9707,7 +9707,7 @@
     "uplink":null,
     "downlink":"437.000",
     "beacon":null,
-    "mode":"2k4*-9k6 GMSK_USP",
+    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
     "callsign":"RS49S",
     "status":"active",
     "satnogs_id":"VMNV-8729-6815-0607-7666"
@@ -16824,7 +16824,7 @@
     "uplink":null,
     "downlink":"435.485\/436.125*",
     "beacon":null,
-    "mode":"2k4*-9k6 GMSK_USP",
+    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
     "callsign":"RS27S",
     "status":"active",
     "satnogs_id":"ESPB-1611-5692-0685-8383"
@@ -17044,7 +17044,7 @@
     "uplink":null,
     "downlink":"437.825",
     "beacon":null,
-    "mode":"2k4*-9k6 GMSK_USP",
+    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
     "callsign":"RS38S",
     "status":"active",
     "satnogs_id":"OYGZ-5054-3166-8092-6448"
