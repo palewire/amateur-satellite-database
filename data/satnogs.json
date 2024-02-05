@@ -17644,8 +17644,8 @@
     "name":"SanoSat-1",
     "names":"NO-116, AM9NPQ",
     "image":"satellites\/sansosat-1.JPG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-04T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/orionspace.com.np\/sanosat-1\/",
@@ -17656,8 +17656,8 @@
         "decoder":"sanosat1"
       }
     ],
-    "updated":"2023-12-13T10:18:55.851954Z",
-    "citation":"https:\/\/twitter.com\/amsatnepal",
+    "updated":"2024-02-05T00:19:44.110737Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YQSV-7586-2336-9042-0587"
@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
