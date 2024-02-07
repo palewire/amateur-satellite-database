@@ -6299,7 +6299,7 @@
     "beacon":null,
     "mode":"57k0 GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -7044,17 +7044,6 @@
     "norad_id":"42705",
     "uplink":null,
     "downlink":"43x.xxx",
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
-  },
-  {
-    "name":"ICEYE",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -9142,7 +9131,7 @@
   },
   {
     "name":"MDQUBESAT-2",
-    "norad_id":null,
+    "norad_id":"58642",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -10607,7 +10596,7 @@
     "name":"Observer-1A",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"2246.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -10642,9 +10631,9 @@
     "uplink":null,
     "downlink":"2245.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11304,7 +11293,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11315,7 +11304,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11326,7 +11315,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11337,7 +11326,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11348,7 +11337,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11359,7 +11348,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11370,7 +11359,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11381,7 +11370,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11392,7 +11381,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -14048,14 +14037,14 @@
   },
   {
     "name":"SPACEVAN",
-    "norad_id":null,
+    "norad_id":"58295",
     "uplink":null,
     "downlink":"2271.750\/2288.500",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
+    "status":"inactive",
+    "satnogs_id":"KRWU-0654-8962-9038-6960"
   },
   {
     "name":"SPARTAN",
@@ -14817,14 +14806,14 @@
     "satnogs_id":"MUVJ-0454-0662-1172-2559"
   },
   {
-    "name":"SUPERDOVE",
+    "name":"SUPERDOVE-003",
     "norad_id":null,
     "uplink":null,
     "downlink":"2246.000",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -16457,24 +16446,24 @@
   },
   {
     "name":"Umbra-07",
-    "norad_id":null,
+    "norad_id":"58297",
     "uplink":null,
     "downlink":"2254.000",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
     "name":"Umbra-08",
-    "norad_id":null,
+    "norad_id":"58292",
     "uplink":null,
     "downlink":"2254.000",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
