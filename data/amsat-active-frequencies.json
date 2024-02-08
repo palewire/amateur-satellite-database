@@ -2540,16 +2540,6 @@
     "satnogs_id":"ODQC-6867-8683-7650-3513"
   },
   {
-    "name":"SanoSat-1",
-    "norad_id":"51031",
-    "uplink":"436.235",
-    "downlink":"436.235",
-    "beacon":"436.235",
-    "mode":"500bps GFSK RTTY CW Digipeater",
-    "callsign":"AM9NPQ",
-    "satnogs_id":"BZWR-6172-2785-3507-5423"
-  },
-  {
     "name":"Sapling-2",
     "norad_id":"56214",
     "uplink":null,
