@@ -12303,7 +12303,7 @@
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2k4\/9k6\/19k2 GMSK USP",
     "callsign":"RS8S",
     "status":"active",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
@@ -12312,9 +12312,9 @@
     "name":"ReshUCube-2",
     "norad_id":"57168",
     "uplink":null,
-    "downlink":"435.640\/435.742\/436.000*\/436.675",
+    "downlink":"435.640*\/435.742\/436.000\/436.675",
     "beacon":null,
-    "mode":"125k LoRa",
+    "mode":"9k6 FSK LoRa",
     "callsign":"RS37S",
     "status":"inactive",
     "satnogs_id":"SEMQ-5896-1667-7154-6568"
@@ -13392,7 +13392,7 @@
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2k4\/9k6\/19k2 GMSK USP",
     "callsign":"RS8S",
     "status":"active",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
@@ -15174,7 +15174,7 @@
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2k4\/9k6\/19k2 GMSK USP",
     "callsign":"RS8S",
     "status":"active",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
