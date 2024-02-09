@@ -2647,7 +2647,7 @@
     "beacon":null,
     "mode":"9k6* GMSK",
     "callsign":"BJ1SH",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"MUJZ-6655-6182-7273-3855"
   },
   {
@@ -4385,7 +4385,7 @@
     "beacon":null,
     "mode":"9k6* GMSK",
     "callsign":"BJ1SH",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"MUJZ-6655-6182-7273-3855"
   },
   {
@@ -8004,7 +8004,7 @@
     "beacon":null,
     "mode":"9k6* GMSK",
     "callsign":"BJ1SH",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"MUJZ-6655-6182-7273-3855"
   },
   {
