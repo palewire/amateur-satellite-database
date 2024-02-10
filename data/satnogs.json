@@ -7086,8 +7086,8 @@
     "name":"FOX-1D",
     "names":"AO-92",
     "image":"satellites\/Fox-1Ds-819x1024.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-07T00:00:00Z",
     "launched":"2018-01-12T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat.org\/getting-ready-for-fox-1d\/",
@@ -7098,8 +7098,8 @@
         "decoder":"fox"
       }
     ],
-    "updated":"2023-05-28T15:10:06.002140Z",
-    "citation":"https:\/\/www.amsat.org\/getting-ready-for-fox-1d\/",
+    "updated":"2024-02-10T09:56:46.422556Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43137#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16948,8 +16948,8 @@
     "name":"NASA PTD-1",
     "names":"PT1F1N",
     "image":"satellites\/ptd-1_integration_photo_2-evergreen_page.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-03T00:00:00Z",
     "launched":"2021-01-24T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.nasa.gov\/directorates\/spacetech\/small_spacecraft\/Pathfinder_Technology_Demonstrator\/",
@@ -16958,8 +16958,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-19T08:17:59.062960Z",
-    "citation":"decodes",
+    "updated":"2024-02-10T10:14:33.261145Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=47482",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17645,7 +17645,7 @@
     "names":"NO-116, AM9NPQ",
     "image":"satellites\/sansosat-1.JPG",
     "status":"re-entered",
-    "decayed":"2024-02-04T00:00:00Z",
+    "decayed":"2024-02-07T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/orionspace.com.np\/sanosat-1\/",
@@ -17656,8 +17656,8 @@
         "decoder":"sanosat1"
       }
     ],
-    "updated":"2024-02-05T00:19:44.110737Z",
-    "citation":"dl7ndr",
+    "updated":"2024-02-10T09:57:46.089534Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YQSV-7586-2336-9042-0587"
@@ -27946,8 +27946,8 @@
     "name":"LEMUR 2 KAREN_B",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-02T00:00:00Z",
     "launched":"2022-05-25T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -27956,8 +27956,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T18:55:27.449326Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/21",
+    "updated":"2024-02-10T10:14:00.988302Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=52736",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28668,8 +28668,8 @@
     "name":"LEMUR 2 GREGROBINSON",
     "names":"LEMUR 2 105",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-07T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28678,8 +28678,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.201002Z",
-    "citation":"www.spire.com",
+    "updated":"2024-02-10T10:13:32.139373Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44411",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35425,7 +35425,7 @@
     "name":"RadSat-SK",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":"2024-01-31T18:53:00Z",
     "launched":"2023-07-06T22:30:00Z",
     "deployed":null,
@@ -35435,8 +35435,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-02T11:28:53.167618Z",
-    "citation":"space-track.org",
+    "updated":"2024-02-10T10:13:16.433120Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=57313",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41853,6 +41853,30 @@
     ],
     "updated":"2024-02-08T19:17:05.053141Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1dWN_BtZaWz5ssVmiLNXiQdqpy8JyNgY6koEpJyUXUvo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QYWR-8892-4140-9863-1950",
+    "norad_cat_id":58925.0,
+    "norad_follow_id":null,
+    "name":"Object J",
+    "names":"2024-024J",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-03T00:00:00Z",
+    "deployed":"2024-02-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-10T10:22:14.700056Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1LO_vHsJqlMXaWv_z1rE6VB1mv_37ZvzdzDaiaqCMgbs\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
