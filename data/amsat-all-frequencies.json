@@ -4152,9 +4152,9 @@
     "uplink":null,
     "downlink":"436.570",
     "beacon":null,
-    "mode":"2k4-9k6 GMSK_USP",
+    "mode":"2k4*\/9k6 GMSK_USP",
     "callsign":"RS42S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"UMPN-9044-0154-0093-6402"
   },
   {

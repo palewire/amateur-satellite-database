@@ -860,6 +860,16 @@
     "satnogs_id":"KILB-3720-6406-0699-8042"
   },
   {
+    "name":"CubeSX-HSE-3",
+    "norad_id":"57178",
+    "uplink":null,
+    "downlink":"436.570",
+    "beacon":null,
+    "mode":"2k4*\/9k6 GMSK_USP",
+    "callsign":"RS42S",
+    "satnogs_id":"UMPN-9044-0154-0093-6402"
+  },
+  {
     "name":"CubeSX-Sirius-HSE",
     "norad_id":"47951",
     "uplink":null,
