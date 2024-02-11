@@ -1312,7 +1312,7 @@
     "name":"Astrocast-0.1",
     "norad_id":"43798",
     "uplink":null,
-    "downlink":"437.147\/2403.000",
+    "downlink":"437.150\/2403.000",
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":"HB9GSF",
@@ -1327,7 +1327,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":"HB9GSF",
-    "status":"44083",
+    "status":"re-entered",
     "satnogs_id":"PEJT-8424-9765-0690-4476"
   },
   {
@@ -1338,7 +1338,7 @@
     "beacon":null,
     "mode":"400bps QPSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"TXDT-0013-3741-7488-5458"
   },
   {
