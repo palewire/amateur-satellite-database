@@ -11099,14 +11099,25 @@
     "satnogs_id":"NNDS-9454-0102-7564-5792"
   },
   {
-    "name":"PACE",
-    "norad_id":"40022",
+    "name":"PACE-1",
+    "norad_id":"48909",
     "uplink":null,
-    "downlink":"437.485",
+    "downlink":"437.485\/2283.000",
     "beacon":"437.485",
-    "mode":"1200bps AFSK CW",
+    "mode":"1200bps AFSK FM CW",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":"RWRB-2528-1524-5557-1934"
+  },
+  {
+    "name":"PACE",
+    "norad_id":"58928",
+    "uplink":null,
+    "downlink":"2273.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"active",
     "satnogs_id":null
   },
   {

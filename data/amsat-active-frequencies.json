@@ -2370,6 +2370,16 @@
     "satnogs_id":"VTFA-5315-6080-2422-3537"
   },
   {
+    "name":"PACE",
+    "norad_id":"58928",
+    "uplink":null,
+    "downlink":"2273.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Painani-2",
     "norad_id":"48942",
     "uplink":null,
