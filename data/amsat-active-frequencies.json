@@ -3105,7 +3105,7 @@
     "uplink":null,
     "downlink":"437.875",
     "beacon":null,
-    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
+    "mode":"2k4*\/4k8\/9k6 GMSK_USP",
     "callsign":null,
     "satnogs_id":"LWVG-4743-3629-4474-1375"
   },
@@ -3495,7 +3495,7 @@
     "uplink":null,
     "downlink":"435.670",
     "beacon":null,
-    "mode":"2k4\/4k8*GMSK USP",
+    "mode":"2k4\/4k8\/9k6*GMSK USP",
     "callsign":"RS23S",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
