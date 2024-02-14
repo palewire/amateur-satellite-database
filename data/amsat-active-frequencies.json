@@ -955,7 +955,7 @@
     "uplink":null,
     "downlink":"435.570",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS21S",
     "satnogs_id":"KILB-3720-6406-0699-8042"
   },
@@ -965,7 +965,7 @@
     "uplink":null,
     "downlink":"436.570",
     "beacon":null,
-    "mode":"2k4*\/9k6 GMSK_USP",
+    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
     "callsign":"RS42S",
     "satnogs_id":"UMPN-9044-0154-0093-6402"
   },
@@ -1755,7 +1755,7 @@
     "uplink":null,
     "downlink":"437.650",
     "beacon":null,
-    "mode":"2k4\/4k8* GMSK USP",
+    "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS19S",
     "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
@@ -1935,7 +1935,7 @@
     "uplink":null,
     "downlink":"437.700",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS34S",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
   },
@@ -1955,7 +1955,7 @@
     "uplink":null,
     "downlink":"437.700",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS34S",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
   },
@@ -2095,7 +2095,7 @@
     "uplink":null,
     "downlink":"437.650",
     "beacon":null,
-    "mode":"2k4\/4k8* GMSK USP",
+    "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS19S",
     "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
@@ -2115,7 +2115,7 @@
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
-    "mode":"2k4\/4k8*GMSK USP",
+    "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS32S",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
   },
@@ -2125,7 +2125,7 @@
     "uplink":null,
     "downlink":"437.900",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS28S",
     "satnogs_id":"OTLB-3496-1811-8002-0742"
   },
@@ -2145,7 +2145,7 @@
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
-    "mode":"2k4\/4k8*GMSK USP",
+    "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS32S",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
   },
@@ -2580,12 +2580,12 @@
     "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
-    "name":"ReshUCube",
+    "name":"ReshUCube-1",
     "norad_id":"53382",
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2k4\/9k6\/19k2 GMSK USP",
+    "mode":"2k4\/9k6*\/19k2 GMSK_USP",
     "callsign":"RS8S",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
@@ -2705,7 +2705,7 @@
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2k4\/9k6\/19k2 GMSK USP",
+    "mode":"2k4\/9k6*\/19k2 GMSK_USP",
     "callsign":"RS8S",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
@@ -2715,7 +2715,7 @@
     "uplink":null,
     "downlink":"437.750",
     "beacon":null,
-    "mode":"2k4\/9k6*GMSK USP",
+    "mode":"2k4\/9k6*GMSK_USP",
     "callsign":"RS30S",
     "satnogs_id":"TSYE-5592-5507-8880-3661"
   },
@@ -2795,7 +2795,7 @@
     "uplink":null,
     "downlink":"435.000*\/435.600",
     "beacon":null,
-    "mode":"9600bps GMSK USP",
+    "mode":"9600bps GMSK_USP",
     "callsign":"R0AJU-1",
     "satnogs_id":null
   },
@@ -2805,7 +2805,7 @@
     "uplink":null,
     "downlink":"435.000*\/435.600",
     "beacon":null,
-    "mode":"9600bps GMSK USP",
+    "mode":"9600bps GMSK_USP",
     "callsign":"R0AJU-1",
     "satnogs_id":null
   },
@@ -3105,7 +3105,7 @@
     "uplink":null,
     "downlink":"437.875",
     "beacon":null,
-    "mode":"2k4*\/4k8\/9k6 GMSK_USP",
+    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
     "callsign":null,
     "satnogs_id":"LWVG-4743-3629-4474-1375"
   },
@@ -3115,7 +3115,7 @@
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
-    "mode":"2k4\/4k8*GMSK USP",
+    "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS32S",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
   },
@@ -3125,7 +3125,7 @@
     "uplink":null,
     "downlink":"435.570",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS21S",
     "satnogs_id":"KILB-3720-6406-0699-8042"
   },
@@ -3135,7 +3135,7 @@
     "uplink":null,
     "downlink":"437.900",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS28S",
     "satnogs_id":"OTLB-3496-1811-8002-0742"
   },
@@ -3145,7 +3145,7 @@
     "uplink":null,
     "downlink":"437.800",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS33S",
     "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
@@ -3155,7 +3155,7 @@
     "uplink":null,
     "downlink":"435.670",
     "beacon":null,
-    "mode":"2k4\/4k8*GMSK USP",
+    "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS23S",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
@@ -3165,7 +3165,7 @@
     "uplink":null,
     "downlink":"437.750",
     "beacon":null,
-    "mode":"2k4\/4k8*GMSK USP",
+    "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS30S",
     "satnogs_id":"TSYE-5592-5507-8880-3661"
   },
@@ -3175,7 +3175,7 @@
     "uplink":null,
     "downlink":"437.700",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS34S",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
   },
@@ -3185,7 +3185,7 @@
     "uplink":null,
     "downlink":"437.650",
     "beacon":null,
-    "mode":"2k4\/4k8*GMSK USP",
+    "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS19S",
     "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
@@ -3195,7 +3195,7 @@
     "uplink":null,
     "downlink":"436.050",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS29S",
     "satnogs_id":"YYOS-0902-7582-8175-2841"
   },
@@ -3205,7 +3205,7 @@
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2k4\/9k6\/19k2 GMSK USP",
+    "mode":"2k4\/9k6*\/19k2 GMSK_USP",
     "callsign":"RS8S",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
@@ -3495,7 +3495,7 @@
     "uplink":null,
     "downlink":"435.670",
     "beacon":null,
-    "mode":"2k4\/4k8\/9k6*GMSK USP",
+    "mode":"2k4\/4k8\/9k6*GMSK_USP",
     "callsign":"RS23S",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
@@ -3565,7 +3565,7 @@
     "uplink":null,
     "downlink":"437.800",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS33S",
     "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
@@ -3585,7 +3585,7 @@
     "uplink":null,
     "downlink":"436.050",
     "beacon":null,
-    "mode":"2400bps GMSK USP",
+    "mode":"2400bps GMSK_USP",
     "callsign":"RS29S",
     "satnogs_id":"YYOS-0902-7582-8175-2841"
   },
@@ -3745,7 +3745,7 @@
     "uplink":"145.860",
     "downlink":"437.355",
     "beacon":"14.099",
-    "mode":"1k2AFSK\/9k6* GMSK CW",
+    "mode":"1k2AFSK\/9k6*GMSK CW",
     "callsign":"123456",
     "satnogs_id":"GRVM-9505-5712-0753-7014"
   },
