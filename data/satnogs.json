@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -21940,8 +21940,8 @@
         "decoder":"greencube"
       }
     ],
-    "updated":"2022-11-27T21:09:51.587277Z",
-    "citation":"add telemetry dashboard URL to DB page https:\/\/dashboard.satnogs.org\/d\/E_SiV4vVk\/greencube?orgId=1",
+    "updated":"2024-02-13T14:21:54.019141Z",
+    "citation":"Update Greencube Dashboard link",
     "is_frequency_violator":false,
     "associated_satellites":[
       "LZVY-1779-1171-9871-9167"
@@ -40060,9 +40060,9 @@
   },
   {
     "sat_id":"CJIB-5087-6895-1673-1473",
-    "norad_cat_id":98974.0,
-    "norad_follow_id":58288.0,
-    "name":"ICEYEX 34",
+    "norad_cat_id":58288.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X31",
     "names":"",
     "image":"",
     "status":"alive",
@@ -40075,11 +40075,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T03:15:10.385368Z",
+    "updated":"2024-02-13T13:49:11.752853Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "XYMN-4744-5612-8281-6692"
     ]
   },
   {
