@@ -8952,8 +8952,8 @@
     "name":"LUME-1",
     "names":"LUME-I",
     "image":"satellites\/EZGDrJzwQDioIuD0YSbX_Lume-1.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-14T00:00:00Z",
     "launched":"2018-12-27T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/www.coiae.es\/publico\/congresoespacio2017\/pdf\/01.07.Diego%20Nodar.Univ%20Vigo.pdf",
@@ -8962,8 +8962,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-04-25T16:31:48.036292Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/lume-1.htm",
+    "updated":"2024-02-14T22:27:50.126036Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43908#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
