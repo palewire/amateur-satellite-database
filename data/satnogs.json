@@ -20125,9 +20125,9 @@
     "name":"JINZIJING 1 03",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-02-14T00:00:00Z",
+    "launched":"2021-12-07T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -20135,8 +20135,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-08T10:47:06.731155Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-02-15T15:25:51.187417Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 

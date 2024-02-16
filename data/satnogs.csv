@@ -851,7 +851,7 @@ TBFV-8336-0130-1900-0481,46812.0,,FLOCK 4V 25,,,alive,,2020-09-03T00:00:00Z,,htt
 ITTW-9327-1853-1866-7661,43125.0,,LEMUR 2 BROWNCOW,,,re-entered,2023-04-16T00:00:00Z,2018-01-12T00:00:00Z,,https://space.skyrocket.de/doc_sdat/lemur-2.htm,None,US,[],2023-06-01T14:56:57.006477Z,https://space.skyrocket.de/doc_sdat/lemur-2.htm,False,[]
 HNUQ-6166-8962-9100-0484,40020.0,,BRITE-CA 1,BRITE-Toronto,,alive,,2014-06-19T00:00:00Z,,https://www.eoportal.org/satellite-missions/brite-canada,None,CA,[],2023-05-17T14:00:34.378964Z,https://www.eoportal.org/satellite-missions/brite-canada,False,[]
 YFHF-8800-3768-5691-3506,40119.0,,BRITE-PL 2,BRITE-Heweliush,,alive,,,,,None,,[],2022-06-08T10:28:16.925112Z,https://gitlab.com/librespacefoundation/satnogs-ops/-/issues/235,False,[]
-CAYG-4944-1399-5381-2610,49813.0,,JINZIJING 1 03,,,alive,,,,,None,CN,[],2022-06-08T10:47:06.731155Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+CAYG-4944-1399-5381-2610,49813.0,,JINZIJING 1 03,,,re-entered,2024-02-14T00:00:00Z,2021-12-07T00:00:00Z,,,None,CN,[],2024-02-15T15:25:51.187417Z,space-track.org,False,[]
 GZWO-4435-4264-5456-3264,52763.0,,SHERPA-AC1,,,alive,,2022-05-25T00:00:00Z,,,None,US,[],2022-10-27T09:01:01.585452Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 SZOR-8059-6781-4760-4698,14154.0,,HILAT,"P83-1, High Latitude Reseach Satellite",,alive,,1983-06-27T00:00:00Z,,,None,US,[],2022-08-04T13:47:47.061834Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 AYRF-8782-2340-3583-4451,43183.0,,LEMUR 2 URAMCHANSOL,,,alive,,2018-02-01T00:00:00Z,,,None,US,[],2022-06-08T19:23:30.237786Z,STRF Find of @cgbsat,False,[]
