@@ -566,7 +566,7 @@ HNHF-6321-7258-0988-3559,99731.0,47938.0,CANYVAL-C 2U,Pumbaa,,alive,,2021-03-22T
 CCNX-9563-2937-7997-4713,99732.0,47938.0,CANYVAL-C 1U,Timon,,alive,,2021-03-22T00:00:00Z,,,None,KR,[],2022-08-01T16:34:42.995362Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 JPNS-3106-8130-8333-2527,99734.0,,Unknown Satellite,,,alive,,,,,None,,[],2021-07-21T10:11:42.998294Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 JQEP-9196-3794-5482-5797,99736.0,,Unknown Satellite,,,alive,,,,,None,,[],2021-07-21T10:11:43.000044Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-FXHJ-9671-3244-3623-7704,48082.0,,FEES,Flexible Experimental Embedded Satellite,satellites/GP-FEES.jpg,alive,,2021-03-22T00:00:00Z,,http://www.gpadvancedprojects.com/fees.html,None,IT,[],2023-12-15T18:03:15.567909Z,https://tinygs.com/satellite/FEES,False,['XGBA-1279-2610-3482-9614']
+FXHJ-9671-3244-3623-7704,48082.0,,FEES,Flexible Experimental Embedded Satellite,satellites/GP-FEES.jpg,re-entered,2024-02-14T00:00:00Z,2021-03-22T00:00:00Z,,http://www.gpadvancedprojects.com/fees.html,None,IT,[],2024-02-16T10:49:37.773917Z,space-track.org,False,['XGBA-1279-2610-3482-9614']
 IWLP-8597-1635-8649-9544,99739.0,,Unknown Satellite,,,alive,,,,,None,,[],2021-07-21T10:11:43.003350Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 YSJS-8502-2157-6878-7959,99740.0,,WormSail,,,future,,,,,None,,[],2021-07-21T10:11:43.004973Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 ATPR-1685-2700-3065-1927,99741.0,,Unknown Satellite,,,alive,,,,,None,,[],2021-07-21T10:11:43.006596Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
@@ -1756,3 +1756,4 @@ ZPIE-8160-0390-0285-2904,43194.0,,ZHANGHENG-1,2018-015C,,alive,,2018-02-02T00:00
 BHRF-0752-1831-8019-9197,44781.0,,NINGXIA-1 3,2019-076C,,alive,,2019-11-13T00:00:00Z,2019-11-13T00:00:00Z,,None,CN,[],2024-02-08T19:17:36.099508Z,https://docs.google.com/document/d/1l6aOqg0BCOdYHEw6adIsJXCBkrzY4exjdpoymD6dCxs/edit?usp=sharing,False,[]
 GXOM-5794-1390-4821-6771,33433.0,,SHIYUAN 3 SY-3,2008-056A,,alive,,2008-11-05T00:00:00Z,2008-11-05T00:00:00Z,,None,CN,[],2024-02-08T19:17:05.053141Z,https://docs.google.com/document/d/1dWN_BtZaWz5ssVmiLNXiQdqpy8JyNgY6koEpJyUXUvo/edit?usp=sharing,False,[]
 QYWR-8892-4140-9863-1950,58925.0,,Object J,2024-024J,,alive,,2024-02-03T00:00:00Z,2024-02-03T00:00:00Z,,None,,[],2024-02-10T10:22:14.700056Z,https://docs.google.com/document/d/1LO_vHsJqlMXaWv_z1rE6VB1mv_37ZvzdzDaiaqCMgbs/edit?usp=sharing,False,[]
+NKRC-1929-7689-8649-7679,52758.0,,ICEYE-X19,2022-05-25,,alive,,2022-05-25T00:00:00Z,2022-05-25T00:00:00Z,,None,FI,[],2024-02-16T10:52:19.254771Z,https://docs.google.com/document/d/1e4Fj_FsVI9MtIZ9Sb_P8YzWkqw_f6oKQPmMK0S7m1WU/edit?usp=sharing,False,[]

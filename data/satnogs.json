@@ -13205,8 +13205,8 @@
     "name":"FEES",
     "names":"Flexible Experimental Embedded Satellite",
     "image":"satellites\/GP-FEES.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-14T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/www.gpadvancedprojects.com\/fees.html",
@@ -13215,8 +13215,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-15T18:03:15.567909Z",
-    "citation":"https:\/\/tinygs.com\/satellite\/FEES",
+    "updated":"2024-02-16T10:49:37.773917Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "XGBA-1279-2610-3482-9614"
@@ -41877,6 +41877,30 @@
     ],
     "updated":"2024-02-10T10:22:14.700056Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1LO_vHsJqlMXaWv_z1rE6VB1mv_37ZvzdzDaiaqCMgbs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NKRC-1929-7689-8649-7679",
+    "norad_cat_id":52758.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X19",
+    "names":"2022-05-25",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-05-25T00:00:00Z",
+    "deployed":"2022-05-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-16T10:52:19.254771Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1e4Fj_FsVI9MtIZ9Sb_P8YzWkqw_f6oKQPmMK0S7m1WU\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
