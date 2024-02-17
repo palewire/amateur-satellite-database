@@ -9438,7 +9438,7 @@
     "satnogs_id":"DZPB-0849-7335-4514-4452"
   },
   {
-    "name":"METEOR-M2-2",
+    "name":"METEOR-M N2-2",
     "norad_id":"44387",
     "uplink":null,
     "downlink":"137.100\/137.900",
@@ -9458,6 +9458,17 @@
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"TLCE-8079-2988-7210-7028"
+  },
+  {
+    "name":"METEOR-M N2-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"137.100\/137.900",
+    "beacon":null,
+    "mode":"72K LRPT HRPT",
+    "callsign":null,
+    "status":"weather sat",
+    "satnogs_id":null
   },
   {
     "name":"MeznSat",
@@ -15704,7 +15715,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
