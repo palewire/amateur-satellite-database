@@ -7337,6 +7337,17 @@
     "satnogs_id":"CVWL-5147-2655-6759-5452"
   },
   {
+    "name":"IM-1",
+    "norad_id":"58961",
+    "uplink":null,
+    "downlink":"2210.600\/2250.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"non-amateur",
+    "satnogs_id":null
+  },
+  {
     "name":"INCA",
     "norad_id":null,
     "uplink":null,
@@ -10472,6 +10483,28 @@
     "satnogs_id":null
   },
   {
+    "name":"Norbi",
+    "norad_id":"46494",
+    "uplink":null,
+    "downlink":"436.700",
+    "beacon":null,
+    "mode":"9600bps FSK\/250k_LoRa",
+    "callsign":"CUBSAT",
+    "status":"active",
+    "satnogs_id":"DNNN-7162-2135-4056-8903"
+  },
+  {
+    "name":"Norby-2",
+    "norad_id":"57179",
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"NOUR-1",
     "norad_id":"45529",
     "uplink":null,
@@ -10505,25 +10538,14 @@
     "satnogs_id":null
   },
   {
-    "name":"Norbi",
-    "norad_id":"46494",
+    "name":"NOVA-C",
+    "norad_id":"58961",
     "uplink":null,
-    "downlink":"436.700",
+    "downlink":"2210.600\/2250.000",
     "beacon":null,
-    "mode":"9600bps FSK\/250k_LoRa",
-    "callsign":"CUBSAT",
-    "status":"active",
-    "satnogs_id":"DNNN-7162-2135-4056-8903"
-  },
-  {
-    "name":"Norby-2",
-    "norad_id":"57179",
-    "uplink":null,
-    "downlink":"435.600",
-    "beacon":null,
-    "mode":"LoRa",
+    "mode":null,
     "callsign":null,
-    "status":"active",
+    "status":"non-amateur",
     "satnogs_id":null
   },
   {
