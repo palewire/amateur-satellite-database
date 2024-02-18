@@ -41905,5 +41905,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"HSOJ-1371-0144-8503-5026",
+    "norad_cat_id":57769.0,
+    "norad_follow_id":null,
+    "name":"Wildfire 5",
+    "names":"2023-133P",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-02T00:00:00Z",
+    "deployed":"2023-09-02T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-17T15:50:37.694780Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1_wqUxAg9g0GzBueg5_HVRJcy431tn-ox_XsSIt4JOww\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
