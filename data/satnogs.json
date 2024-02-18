@@ -19881,8 +19881,8 @@
     "name":"Geoscan-Edelveis",
     "names":"RS20S",
     "image":"satellites\/geoscan-edelveis_3j6Bow1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-18T03:55:02Z",
     "launched":"2022-08-09T05:52:00Z",
     "deployed":"2022-08-09T07:01:15Z",
     "website":"https:\/\/geoscan.space\/en\/geoscan-edelveis",
@@ -19893,8 +19893,8 @@
         "decoder":"geoscanedelveis"
       }
     ],
-    "updated":"2022-12-07T01:00:25.395439Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53385\/2022-08-13T21%3A58%3A48_6325542_53385_22096R_0-OBJECT-R_0.394520343333312_B_r29.0_f0.0.png",
+    "updated":"2024-02-18T04:29:27.051603Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/9057352\/",
     "is_frequency_violator":false,
     "associated_satellites":[
       "ISNT-5198-2847-1625-8133"
