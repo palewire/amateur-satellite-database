@@ -1410,16 +1410,6 @@
     "satnogs_id":"BYRQ-8084-9850-7997-7193"
   },
   {
-    "name":"Geoscan-Edelveis",
-    "norad_id":"53385",
-    "uplink":null,
-    "downlink":"436.200\/10492.000",
-    "beacon":null,
-    "mode":"9k6\/19k2 GFSK USP",
-    "callsign":"RS20S",
-    "satnogs_id":"QNCD-8954-6090-5430-2718"
-  },
-  {
     "name":"GOMX-1",
     "norad_id":"39430",
     "uplink":null,
