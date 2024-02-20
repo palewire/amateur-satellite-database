@@ -328,7 +328,7 @@ VWFS-8293-1536-2839-9284,43466.0,,1KUNS-PF,1KUNS,satellites/1KUNS.png,re-entered
 UZLP-5382-5760-6380-2860,43467.0,,UBAKUSAT,,satellites/ubakusat-cubesat.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.547823Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 QHGB-5011-7406-7134-6581,43468.0,,IRAZU,"Irazú
 BATSU-CS1",satellites/satelite-irazu-tec.png,re-entered,2020-03-06T12:26:31Z,,,,None,,[{'decoder': 'irazu'}],2021-07-21T10:11:42.550519Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-QWJS-4478-4513-2046-4348,43485.0,,Luojia-1,"LUOJIA 1-01, LUOJIA 1A",,alive,,2018-06-02T00:00:00Z,,,None,CN,[],2022-07-08T01:04:43.436701Z,https://www.researchgate.net/figure/The-appearance-of-the-Luojia-1A-satellite_fig1_342545164,False,[]
+QWJS-4478-4513-2046-4348,43485.0,,Luojia-1,"LUOJIA 1-01, LUOJIA 1A",,alive,,2018-06-02T00:00:00Z,,,None,CN,[],2022-07-08T01:04:43.436701Z,https://www.researchgate.net/figure/The-appearance-of-the-Luojia-1A-satellite_fig1_342545164,True,[]
 OYTI-8726-8857-0789-4716,43551.0,,ENDUROSAT ONE,ENDUROSAT AD,satellites/Endurosat.jpg,re-entered,2020-11-10T23:10:05Z,,,,None,,[],2021-07-21T10:11:42.555818Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 SABJ-3457-7659-3993-3753,43552.0,,EQUiSat,,satellites/equisat.jpg,re-entered,2020-12-27T00:16:45Z,,,,None,,[{'decoder': 'equisat'}],2021-07-21T10:11:42.558338Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 ZJCQ-6364-2928-4931-9019,43553.0,,RADSAT-G,,satellites/radsat.jpg,re-entered,2021-04-05T00:00:00Z,,,,None,,[],2021-07-21T10:11:42.560841Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
@@ -1758,3 +1758,4 @@ GXOM-5794-1390-4821-6771,33433.0,,SHIYUAN 3 SY-3,2008-056A,,alive,,2008-11-05T00
 QYWR-8892-4140-9863-1950,58925.0,,Object J,2024-024J,,alive,,2024-02-03T00:00:00Z,2024-02-03T00:00:00Z,,None,,[],2024-02-10T10:22:14.700056Z,https://docs.google.com/document/d/1LO_vHsJqlMXaWv_z1rE6VB1mv_37ZvzdzDaiaqCMgbs/edit?usp=sharing,False,[]
 NKRC-1929-7689-8649-7679,52758.0,,ICEYE-X19,2022-05-25,,alive,,2022-05-25T00:00:00Z,2022-05-25T00:00:00Z,,None,FI,[],2024-02-16T10:52:19.254771Z,https://docs.google.com/document/d/1e4Fj_FsVI9MtIZ9Sb_P8YzWkqw_f6oKQPmMK0S7m1WU/edit?usp=sharing,False,[]
 HSOJ-1371-0144-8503-5026,57769.0,,Wildfire 5,2023-133P,,alive,,2023-09-02T00:00:00Z,2023-09-02T00:00:00Z,,None,US,[],2024-02-17T15:50:37.694780Z,https://docs.google.com/document/d/1_wqUxAg9g0GzBueg5_HVRJcy431tn-ox_XsSIt4JOww/edit?usp=sharing,False,[]
+SMPD-4198-8107-5033-2525,39769.0,,RISING 2,2014-029D,,alive,,2014-05-24T00:00:00Z,2021-05-24T00:00:00Z,,None,JP,[],2024-02-19T17:49:21.294694Z,https://docs.google.com/document/d/1fuUNttN6VpOa0B0nj1y44JFa4l-f6t8aL1AfRgyCFUc/edit?usp=sharing,False,[]
