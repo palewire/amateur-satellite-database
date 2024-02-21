@@ -41953,5 +41953,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"JJKP-9361-4857-0971-1253",
+    "norad_cat_id":32289.0,
+    "norad_follow_id":null,
+    "name":"YAOGAN 3",
+    "names":"2007-055A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2007-11-11T00:00:00Z",
+    "deployed":"2007-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-21T08:49:00.395551Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1KsTnc7XSMtt_s3jbFXOgy2J64BVL8xXqeCYZsyPRl5E\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
