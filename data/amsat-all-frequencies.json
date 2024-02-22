@@ -7340,7 +7340,7 @@
     "name":"IM-1",
     "norad_id":"58961",
     "uplink":null,
-    "downlink":"2210.600\/2250.000",
+    "downlink":"2210.600*\/2250.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -10552,7 +10552,7 @@
     "name":"NOVA-C",
     "norad_id":"58961",
     "uplink":null,
-    "downlink":"2210.600\/2250.000",
+    "downlink":"2210.600*\/2250.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -16101,6 +16101,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"TIRSAT",
+    "norad_id":"58989",
+    "uplink":null,
+    "downlink":"2277.300",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"non-amateur",
     "satnogs_id":null
   },
   {

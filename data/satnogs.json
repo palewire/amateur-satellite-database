@@ -3604,8 +3604,8 @@
     "name":"GRIFEX",
     "names":"",
     "image":"satellites\/IMG_6740-300x200.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-22T04:33:57Z",
     "launched":"2015-01-31T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -3616,8 +3616,8 @@
         "decoder":"mxl"
       }
     ],
-    "updated":"2022-05-01T12:07:50.501241Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-02-22T06:26:49.141542Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/9077572\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
