@@ -6827,7 +6827,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"EK1HYS",
-    "status":null,
+    "status":"active",
     "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {
@@ -8135,8 +8135,8 @@
     "downlink":null,
     "beacon":"436.370",
     "mode":"9600bps BPSK",
-    "callsign":"re-entered",
-    "status":null,
+    "callsign":null,
+    "status":"re-entered",
     "satnogs_id":"UFIT-6008-6845-0096-1151"
   },
   {

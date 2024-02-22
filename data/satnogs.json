@@ -41587,8 +41587,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-12T14:08:02.434100Z",
-    "citation":"space-track.org",
+    "updated":"2024-02-21T16:06:44.055321Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/271",
     "is_frequency_violator":false,
     "associated_satellites":[
       "ICRE-7925-9783-3171-0315"
@@ -41973,6 +41973,30 @@
     ],
     "updated":"2024-02-21T08:49:00.395551Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1KsTnc7XSMtt_s3jbFXOgy2J64BVL8xXqeCYZsyPRl5E\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PBTZ-3525-0189-2410-5216",
+    "norad_cat_id":98959.0,
+    "norad_follow_id":null,
+    "name":"SONATE-2",
+    "names":"DP0SNX",
+    "image":"satellites\/sonate-2.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.informatik.uni-wuerzburg.de\/en\/aerospaceinfo\/staff\/kayal\/research-activities\/sonate-2\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-21T16:22:13.955290Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/272",
     "is_frequency_violator":false,
     "associated_satellites":[
 
