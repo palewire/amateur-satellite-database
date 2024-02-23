@@ -11212,8 +11212,8 @@
     "name":"CAPE-3",
     "names":"",
     "image":"satellites\/CAPE-3.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-21T00:00:00Z",
     "launched":"2021-01-17T19:18:30Z",
     "deployed":"2021-01-17T19:18:32Z",
     "website":"https:\/\/ee.louisiana.edu\/research\/cape\/satellite-missions\/cape-3",
@@ -11222,8 +11222,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.857804Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-02-22T15:09:27.292671Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -41997,6 +41997,54 @@
     ],
     "updated":"2024-02-21T16:22:13.955290Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/272",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QDIQ-7875-8804-8301-8906",
+    "norad_cat_id":58989.0,
+    "norad_follow_id":null,
+    "name":"Object C",
+    "names":"2024-032C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-17T00:00:00Z",
+    "deployed":"2024-02-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-22T13:08:02.259472Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1tZ7i56esRPR5T-ADRMeYcRq1nMoLaCOuPKZM-OHd858\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EKGS-1775-7283-6432-2178",
+    "norad_cat_id":55062.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X27",
+    "names":"2023-001BF",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":"2023-01-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-22T17:21:26.075286Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1OUW0VKWroR8j6peNcd8ZIQKm5GnlBR7MWQ2lR5GMioI\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
