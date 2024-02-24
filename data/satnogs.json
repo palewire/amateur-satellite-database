@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -42045,6 +42045,30 @@
     ],
     "updated":"2024-02-22T17:21:26.075286Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1OUW0VKWroR8j6peNcd8ZIQKm5GnlBR7MWQ2lR5GMioI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VSVI-4798-5613-4587-2414",
+    "norad_cat_id":98958.0,
+    "norad_follow_id":null,
+    "name":"METEOR M2-4",
+    "names":"METEOR 2 2-4, METEOR-M N2-4",
+    "image":"satellites\/2922080812.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-23T14:08:24.491750Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
