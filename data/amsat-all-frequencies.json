@@ -5694,7 +5694,7 @@
     "beacon":null,
     "mode":"9600bps FSK\/LoRa",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"FXHJ-9671-3244-3623-7704"
   },
   {
@@ -6662,7 +6662,7 @@
     "beacon":null,
     "mode":"9k6*\/19k2bps GMSK",
     "callsign":"KD8SPS",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"LKOZ-5067-6870-4427-8883"
   },
   {

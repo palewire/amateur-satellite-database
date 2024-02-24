@@ -32321,7 +32321,7 @@
   {
     "sat_id":"CXQF-7051-0702-4077-4852",
     "norad_cat_id":99156.0,
-    "norad_follow_id":56748.0,
+    "norad_follow_id":56747.0,
     "name":"LUMIR-T1",
     "names":"",
     "image":"",
@@ -32335,8 +32335,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T10:10:38.176886Z",
-    "citation":"https:\/\/www.lumir-inc.com\/eng\/main\/main.asp",
+    "updated":"2024-02-24T11:02:34.495765Z",
+    "citation":"Change NORAD ID to follow to 56747",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32345,7 +32345,7 @@
   {
     "sat_id":"IIBK-3665-7725-6873-0003",
     "norad_cat_id":99155.0,
-    "norad_follow_id":56747.0,
+    "norad_follow_id":56748.0,
     "name":"JLC-101-v1-2",
     "names":"JAC",
     "image":"satellites\/thumbnail_JLC-101-v1-2.png",
@@ -32359,8 +32359,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-26T11:46:55.018434Z",
-    "citation":"Satellite Team",
+    "updated":"2024-02-24T11:02:12.230070Z",
+    "citation":"Change NORAD ID to follow to 56748",
     "is_frequency_violator":true,
     "associated_satellites":[
 
