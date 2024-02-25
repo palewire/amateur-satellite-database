@@ -31131,7 +31131,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-16T06:07:30.012378Z",
+    "updated":"2024-02-24T21:29:25.585927Z",
     "citation":"https:\/\/gnd.bme.hu\/mrc100\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -42069,6 +42069,78 @@
     ],
     "updated":"2024-02-23T14:08:24.491750Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SSEY-7057-5383-9568-0000",
+    "norad_cat_id":47510.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X8",
+    "names":"2021-006DB",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-01-24T00:00:00Z",
+    "deployed":"2021-01-24T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-24T19:20:01.479204Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1_IdOn9VZ5H3zXY_aNx-dgamg8vyzvaMeAqGA4l9snIo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ETXA-3915-5491-4766-6713",
+    "norad_cat_id":57758.0,
+    "norad_follow_id":null,
+    "name":"WILDFIRE 3",
+    "names":"2023-133C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-02T00:00:00Z",
+    "deployed":"2023-09-02T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-24T19:19:49.243682Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1lowm0SElQ-wN8kRA7BJAFHtciISHR4lw0skZsQ7GbGI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TPEM-3325-8555-2554-3334",
+    "norad_cat_id":47506.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X9",
+    "names":"2021-006CX",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-01-24T00:00:00Z",
+    "deployed":"2021-01-24T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-24T19:19:31.052037Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1uZCODxdw-V2adGj44gHKgL1F2xY366O3DsIQiNjrJNk\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
