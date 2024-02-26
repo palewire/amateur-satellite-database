@@ -10896,7 +10896,7 @@
     ],
     "updated":"2021-07-21T10:11:42.836824Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -29315,8 +29315,8 @@
     "sat_id":"WAWX-9857-7939-2112-6410",
     "norad_cat_id":53346.0,
     "norad_follow_id":null,
-    "name":"Object A",
-    "names":"2022-090A",
+    "name":"Jumang",
+    "names":"TECMS",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -29328,8 +29328,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-02T12:59:59.679041Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1YPULX4mUgghqWedizp6a6YBB6OED4YfcETsvkIFXfN8\/edit?usp=sharing",
+    "updated":"2024-02-25T14:00:38.984155Z",
+    "citation":"https:\/\/www.orbitalfocus.uk\/Diaries\/Launches\/GeoSS\/ss-PRC.php",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31825,12 +31825,12 @@
     "deployed":"2019-12-20T00:00:00Z",
     "website":"https:\/\/www.unoosa.org\/oosa\/en\/osoindex\/data\/documents\/br\/st\/stsgser.e927.html",
     "operator":"None",
-    "countries":"CN",
+    "countries":"BR,CN",
     "telemetries":[
 
     ],
-    "updated":"2023-04-30T11:10:53.490273Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1T6iP-FknNYIh_kUmf4uG86TlP6QYBWkJVO5Ins11KC8\/edit?usp=sharing",
+    "updated":"2024-02-25T13:56:56.038598Z",
+    "citation":"cbers",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42141,6 +42141,30 @@
     ],
     "updated":"2024-02-24T19:19:31.052037Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1uZCODxdw-V2adGj44gHKgL1F2xY366O3DsIQiNjrJNk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NUNX-6098-9706-5334-8193",
+    "norad_cat_id":51070.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X14",
+    "names":"2022-002CQ",
+    "image":"satellites\/iceye_sats.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-01-13T00:00:00Z",
+    "deployed":"2022-01-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-25T13:52:46.651597Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1vfRQn10RRbajc12SfB5YT-lJifEVeLmwg9AwZh9E1sY\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
