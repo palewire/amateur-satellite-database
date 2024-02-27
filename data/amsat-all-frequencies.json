@@ -2691,7 +2691,7 @@
     "beacon":null,
     "mode":"1k2*AFSK 9k6 FSK",
     "callsign":"W5UL-11",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"KCVQ-5243-0306-5795-8893"
   },
   {
@@ -9082,7 +9082,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"QXDQ-9755-0160-9983-1765"
   },
   {
@@ -14127,12 +14127,23 @@
     "name":"SONATE",
     "norad_id":"44400",
     "uplink":null,
-    "downlink":"145.840\/437.025",
+    "downlink":"145.840*\/437.025",
     "beacon":null,
-    "mode":"9k6GMSK\/GSFK SSTV",
+    "mode":"9k6GMSK SSTV*",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"RIHL-0447-5306-4769-4350"
+  },
+  {
+    "name":"SONATE-2",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.840\/145.880",
+    "beacon":"437.025",
+    "mode":"1k2AFSK\/9k6GMSK APRS SSTV CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"SORTIE",
