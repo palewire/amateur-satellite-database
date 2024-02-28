@@ -24126,7 +24126,9 @@
     "operator":"None",
     "countries":"IE",
     "telemetries":[
-
+      {
+        "decoder":"eirsat1"
+      }
     ],
     "updated":"2023-12-13T23:33:16.399684Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58472\/2023-12-13T21%3A16%3A21_8698235_58472_23185L_0-OBJECT-L_0.07204220666665151_B_r29.0_f0.0.png",
@@ -42165,6 +42167,102 @@
     ],
     "updated":"2024-02-25T13:52:46.651597Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1vfRQn10RRbajc12SfB5YT-lJifEVeLmwg9AwZh9E1sY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QZSV-9417-8256-3594-8481",
+    "norad_cat_id":98954.0,
+    "norad_follow_id":null,
+    "name":"PY4-1",
+    "names":"",
+    "image":"satellites\/PY4.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-27T15:34:28.493595Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/273",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SHZR-8351-0812-6292-4613",
+    "norad_cat_id":98955.0,
+    "norad_follow_id":null,
+    "name":"PY4-2",
+    "names":"",
+    "image":"satellites\/PY4_ynXAhRN.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-27T15:34:28.489015Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/273",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LVDX-5742-4985-8995-0164",
+    "norad_cat_id":98956.0,
+    "norad_follow_id":null,
+    "name":"PY4-3",
+    "names":"",
+    "image":"satellites\/PY4_Xk7lZzk.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-27T15:34:28.484342Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/273",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DNQH-6416-1167-9823-4581",
+    "norad_cat_id":98957.0,
+    "norad_follow_id":null,
+    "name":"PY4-4",
+    "names":"",
+    "image":"satellites\/PY4_CxxJVrY.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-27T15:34:28.478897Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/273",
     "is_frequency_violator":false,
     "associated_satellites":[
 
