@@ -12484,8 +12484,8 @@
     "name":"IT-SPINS",
     "names":"",
     "image":"satellites\/IT-SPINSLogoBiggerFont_crop.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-28T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/ssel.montana.edu\/itspins.html",
@@ -12494,8 +12494,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.942495Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-02-28T15:57:32.364795Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42059,9 +42059,9 @@
     "name":"METEOR M2-4",
     "names":"METEOR 2 2-4, METEOR-M N2-4",
     "image":"satellites\/2922080812.jpeg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-02-29T05:43:00Z",
+    "launched":"2024-02-29T05:43:26Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -42069,8 +42069,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-23T14:08:24.491750Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "updated":"2024-02-28T20:43:09.307689Z",
+    "citation":"https:\/\/t.me\/roscosmos_gk\/12471 and https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42263,6 +42263,462 @@
     ],
     "updated":"2024-02-27T15:34:28.478897Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/273",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RDVD-6141-5071-3592-3175",
+    "norad_cat_id":52759.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X20",
+    "names":"2022-057AD",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-05-25T00:00:00Z",
+    "deployed":"2022-05-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T20:32:28.767082Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1wL4-SeAWMsw18wk0jFGutXc9Xx-KxkDRMDLu39xJeNo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SUWO-0538-8117-4734-1584",
+    "norad_cat_id":98953.0,
+    "norad_follow_id":null,
+    "name":"PARS 1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"IR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T20:55:04.484806Z",
+    "citation":"https:\/\/www.presstv.ir\/Detail\/2024\/02\/28\/720950\/Iran-launch-research-satellite-Pars-1-orbit--Issa-Zarepour and https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YKBC-6296-0803-1334-4704",
+    "norad_cat_id":98952.0,
+    "norad_follow_id":null,
+    "name":"ZORKIY-2M 2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T21:00:50.904819Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ALSH-7792-3053-9043-5937",
+    "norad_cat_id":98951.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-13",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.822000Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LEYF-9833-5773-7513-7039",
+    "norad_cat_id":98950.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-14",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.805454Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TFHP-8381-2856-3771-0898",
+    "norad_cat_id":98949.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-15",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.788030Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QBAD-3953-1599-8847-5828",
+    "norad_cat_id":98948.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-16",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.770064Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DQXO-6715-7220-7746-2829",
+    "norad_cat_id":98946.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-18",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.746584Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IUVT-1138-3100-5867-8561",
+    "norad_cat_id":98947.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-17",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.728811Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZRBN-5589-4326-3586-7443",
+    "norad_cat_id":98943.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-21",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.712386Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MJYG-1305-3322-9647-4171",
+    "norad_cat_id":98945.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-19",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.696529Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AHIQ-6261-1381-9151-8638",
+    "norad_cat_id":98944.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-20",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.680895Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AHLL-7972-4412-3002-1177",
+    "norad_cat_id":98939.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-25",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.538968Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GWGI-3233-9228-6755-9737",
+    "norad_cat_id":98942.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-22",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.519362Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OBMG-8045-5635-2816-6327",
+    "norad_cat_id":98941.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-23",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.499058Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GZOI-5873-1458-3880-9802",
+    "norad_cat_id":98940.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-24",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.476932Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DOGC-7624-8359-4736-1321",
+    "norad_cat_id":98936.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-28",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.452935Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QXYV-7911-9423-9188-9035",
+    "norad_cat_id":98938.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-26",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.426166Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NEBP-5184-1083-8938-2249",
+    "norad_cat_id":98937.0,
+    "norad_follow_id":null,
+    "name":"SITRO-AIS-27",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-29T05:43:26Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-28T23:08:28.393669Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60214.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
