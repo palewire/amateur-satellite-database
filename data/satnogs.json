@@ -42723,5 +42723,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"TCKS-3322-7921-4714-6406",
+    "norad_cat_id":98935.0,
+    "norad_follow_id":null,
+    "name":"EXO-0",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T18:49:00Z",
+    "deployed":"2024-02-29T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-02-29T09:58:13.649409Z",
+    "citation":"Remove following NORAD ID of deployer",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
