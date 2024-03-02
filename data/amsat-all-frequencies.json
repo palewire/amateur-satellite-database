@@ -5573,7 +5573,7 @@
     "beacon":null,
     "mode":"1200bps AFSK",
     "callsign":"E-STAR-I",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -5584,7 +5584,7 @@
     "beacon":"437.485",
     "mode":"1200bps AFSK CW",
     "callsign":"E-STAR-II",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"XSLX-3508-6230-4322-9880"
   },
   {

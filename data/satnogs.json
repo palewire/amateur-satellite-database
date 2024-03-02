@@ -42294,8 +42294,8 @@
   },
   {
     "sat_id":"SUWO-0538-8117-4734-1584",
-    "norad_cat_id":98953.0,
-    "norad_follow_id":59065.0,
+    "norad_cat_id":59065.0,
+    "norad_follow_id":null,
     "name":"PARS 1",
     "names":"",
     "image":"",
@@ -42309,8 +42309,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T00:01:40.157716Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/13",
+    "updated":"2024-03-02T11:16:54.264596Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59065\/2024-03-02T09%3A36%3A58_9128169_59065_24039Q_0-OBJECT-Q_0.19544228629629856_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42510,8 +42510,8 @@
   },
   {
     "sat_id":"MJYG-1305-3322-9647-4171",
-    "norad_cat_id":98945.0,
-    "norad_follow_id":59054.0,
+    "norad_cat_id":59054.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-31",
     "names":"SC2319",
     "image":"",
@@ -42525,8 +42525,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T09:05:28.504458Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-02T11:53:36.570452Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59054\/2024-03-02T03%3A51%3A56_9119557_59054_24039D_0-OBJECT-D_0.21714208481481734_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
