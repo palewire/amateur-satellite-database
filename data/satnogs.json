@@ -42054,8 +42054,8 @@
   },
   {
     "sat_id":"VSVI-4798-5613-4587-2414",
-    "norad_cat_id":98958.0,
-    "norad_follow_id":59051.0,
+    "norad_cat_id":59051.0,
+    "norad_follow_id":null,
     "name":"METEOR M2-4",
     "names":"METEOR 2 2-4, METEOR-M N2-4",
     "image":"satellites\/2922080812.jpeg",
@@ -42069,8 +42069,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T00:01:19.563409Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/13",
+    "updated":"2024-03-01T23:59:20.469422Z",
+    "citation":"space-track.org and network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42319,7 +42319,7 @@
   {
     "sat_id":"YKBC-6296-0803-1334-4704",
     "norad_cat_id":98952.0,
-    "norad_follow_id":59054.0,
+    "norad_follow_id":59064.0,
     "name":"ZORKIY-2M 2",
     "names":"S3806A, S3806B",
     "image":"",
@@ -42333,8 +42333,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T00:06:33.361882Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/12",
+    "updated":"2024-03-01T21:21:27.880619Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42767,6 +42767,54 @@
     ],
     "updated":"2024-03-01T00:10:27.036560Z",
     "citation":"https:\/\/jwgtechs.com\/strf\/ids\/china_23_01_2024_launch.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PPCQ-5985-8156-1097-7087",
+    "norad_cat_id":44529.0,
+    "norad_follow_id":null,
+    "name":"BNU-1",
+    "names":"2019-059B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-09-12T00:00:00Z",
+    "deployed":"2019-09-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-01T16:45:55.637990Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/15OtnWwyS9N_M9wIDfyvYmdnnV4iZCOKVyy2ZJA3k8mc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OTSV-6322-9208-0210-8782",
+    "norad_cat_id":43641.0,
+    "norad_follow_id":null,
+    "name":"SAOCOM 1-A",
+    "names":"2018-076A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-10-08T00:00:00Z",
+    "deployed":"2018-10-08T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"AR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-01T19:04:26.921196Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1n3YVr4sK4wfUPJc0opSt2RnM0jw4XG4dlWrPW11g0Ls\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
