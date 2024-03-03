@@ -42463,7 +42463,7 @@
   {
     "sat_id":"IUVT-1138-3100-5867-8561",
     "norad_cat_id":98947.0,
-    "norad_follow_id":59053.0,
+    "norad_follow_id":59052.0,
     "name":"SITRO-AIS-29",
     "names":"SC2317",
     "image":"",
@@ -42477,8 +42477,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T09:26:51.852787Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-02T12:33:54.124254Z",
+    "citation":"By ikhnos on Network observations - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/24",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42559,7 +42559,7 @@
   {
     "sat_id":"AHLL-7972-4412-3002-1177",
     "norad_cat_id":98939.0,
-    "norad_follow_id":59059.0,
+    "norad_follow_id":59060.0,
     "name":"SITRO-AIS-49",
     "names":"SC2337",
     "image":"",
@@ -42573,8 +42573,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T00:41:48.548099Z",
-    "citation":"From ikhnos on https:\/\/network.satnogs.org\/observations\/9119439\/",
+    "updated":"2024-03-02T12:32:59.620256Z",
+    "citation":"By ikhnos on Network observations - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/24",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42631,7 +42631,7 @@
   {
     "sat_id":"GZOI-5873-1458-3880-9802",
     "norad_cat_id":98940.0,
-    "norad_follow_id":59061.0,
+    "norad_follow_id":59059.0,
     "name":"SITRO-AIS-36",
     "names":"SC2324",
     "image":"",
@@ -42645,8 +42645,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T09:25:50.912815Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-02T12:33:03.244637Z",
+    "citation":"By ikhnos on Network observations - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/24",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42654,8 +42654,8 @@
   },
   {
     "sat_id":"DOGC-7624-8359-4736-1321",
-    "norad_cat_id":98936.0,
-    "norad_follow_id":59063.0,
+    "norad_cat_id":59063.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-52",
     "names":"SC2340",
     "image":"",
@@ -42669,8 +42669,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T00:16:28.492780Z",
-    "citation":"From ikhnos on https:\/\/network.satnogs.org\/observations\/9119371\/",
+    "updated":"2024-03-02T12:28:16.947038Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59063\/2024-03-02T02%3A17%3A55_9119382_59063_24039N_0-OBJECT-N_0.15226334296296073_B_r24.0_f0.5.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42679,7 +42679,7 @@
   {
     "sat_id":"QXYV-7911-9423-9188-9035",
     "norad_cat_id":98938.0,
-    "norad_follow_id":59058.0,
+    "norad_follow_id":59061.0,
     "name":"SITRO-AIS-50",
     "names":"SC2338",
     "image":"",
@@ -42693,8 +42693,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T00:37:23.495143Z",
-    "citation":"From ikhnos on https:\/\/network.satnogs.org\/observations\/9120251\/",
+    "updated":"2024-03-02T12:32:08.132285Z",
+    "citation":"By ikhnos on Network observations - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/24",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42703,7 +42703,7 @@
   {
     "sat_id":"NEBP-5184-1083-8938-2249",
     "norad_cat_id":98937.0,
-    "norad_follow_id":59060.0,
+    "norad_follow_id":59062.0,
     "name":"SITRO-AIS-51",
     "names":"SC2339",
     "image":"",
@@ -42717,8 +42717,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T00:32:20.996307Z",
-    "citation":"From ikhnos on https:\/\/network.satnogs.org\/observations\/9119394\/",
+    "updated":"2024-03-02T12:32:16.004895Z",
+    "citation":"By ikhnos on Network observations - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/24",
     "is_frequency_violator":false,
     "associated_satellites":[
 
