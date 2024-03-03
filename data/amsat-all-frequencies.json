@@ -5,7 +5,7 @@
     "uplink":null,
     "downlink":"435.310",
     "beacon":null,
-    "mode":"1k2\/9k6*FSK",
+    "mode":"1k2\/9k6* FSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":"JHGM-7853-8293-9677-2181"
@@ -16,7 +16,7 @@
     "uplink":null,
     "downlink":"437.300",
     "beacon":null,
-    "mode":"1k2\/2k4\/4k8\/9k6*GMSK",
+    "mode":"1k2-9k6* GMSK",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"VWFS-8293-1536-2839-9284"
@@ -2469,7 +2469,7 @@
     "uplink":"436.200",
     "downlink":"436.200\/436.990*",
     "beacon":null,
-    "mode":"4k8\/9k6*GMSK Digipeater",
+    "mode":"4k8\/9k6* GMSK Digipeater",
     "callsign":"EU10S",
     "status":"re-entered",
     "satnogs_id":"WMQB-0532-9164-6364-5821"
@@ -2480,7 +2480,7 @@
     "uplink":"436.200",
     "downlink":"436.990",
     "beacon":null,
-    "mode":"4k8\/9k6*GMSK Digipeater",
+    "mode":"4k8\/9k6* GMSK Digipeater",
     "callsign":"EU11S",
     "status":"active",
     "satnogs_id":"PIHV-8715-3112-5892-6258"
@@ -2832,7 +2832,7 @@
     "uplink":null,
     "downlink":"145.475*\/437.950",
     "beacon":null,
-    "mode":"9k6*GMSK",
+    "mode":"9k6* GMSK",
     "callsign":"BJ1SH",
     "status":"re-entered",
     "satnogs_id":"MUJZ-6655-6182-7273-3855"
@@ -4251,7 +4251,7 @@
     "uplink":"436.200",
     "downlink":"436.990",
     "beacon":null,
-    "mode":"4k8\/9k6*GMSK Digipeater",
+    "mode":"4k8\/9k6* GMSK Digipeater",
     "callsign":"EU10S",
     "status":"re-entered",
     "satnogs_id":"WMQB-0532-9164-6364-5821"
@@ -4262,7 +4262,7 @@
     "uplink":"436.200",
     "downlink":"436.990",
     "beacon":null,
-    "mode":"4k8\/9k6*GMSK Digipeater",
+    "mode":"4k8\/9k6* GMSK Digipeater",
     "callsign":"EU11S",
     "status":"active",
     "satnogs_id":"PIHV-8715-3112-5892-6258"
@@ -4284,7 +4284,7 @@
     "uplink":null,
     "downlink":"437.445",
     "beacon":null,
-    "mode":"1k2AFSK 9k6*FSK",
+    "mode":"1k2AFSK 9k6* FSK",
     "callsign":"CUBEB2-6",
     "status":"active",
     "satnogs_id":"MRQX-2618-0103-4345-3937"
@@ -4350,7 +4350,7 @@
     "uplink":null,
     "downlink":"437.050\/10465.000",
     "beacon":null,
-    "mode":"2k4\/9k6*FSK\/DVB-S2",
+    "mode":"2k4\/9k6* FSK\/DVB-S2",
     "callsign":"RS14S",
     "status":"active",
     "satnogs_id":"MNRU-6903-8394-5454-9425"
@@ -4570,7 +4570,7 @@
     "uplink":null,
     "downlink":"145.475*\/437.950",
     "beacon":null,
-    "mode":"9k6*GMSK",
+    "mode":"9k6* GMSK",
     "callsign":"BJ1SH",
     "status":"re-entered",
     "satnogs_id":"MUJZ-6655-6182-7273-3855"
@@ -4647,7 +4647,7 @@
     "uplink":null,
     "downlink":"437.500",
     "beacon":null,
-    "mode":"1k2\/4k8\/9k6*GMSK",
+    "mode":"1k2-9k6* GMSK",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"FCSZ-8739-3200-7406-9928"
@@ -7938,7 +7938,7 @@
     "beacon":null,
     "mode":"19200bps GMSK",
     "callsign":"K7MSU",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"FXJU-1542-5342-0390-1271"
   },
   {
@@ -8200,7 +8200,7 @@
     "uplink":null,
     "downlink":"145.475*\/437.950",
     "beacon":null,
-    "mode":"9k6*GMSK",
+    "mode":"9k6* GMSK",
     "callsign":"BJ1SH",
     "status":"re-entered",
     "satnogs_id":"MUJZ-6655-6182-7273-3855"
@@ -9461,14 +9461,14 @@
   },
   {
     "name":"METEOR-M N2-4",
-    "norad_id":null,
+    "norad_id":"59051",
     "uplink":null,
     "downlink":"137.100\/137.900",
     "beacon":null,
     "mode":"72K LRPT HRPT",
     "callsign":null,
     "status":"weather sat",
-    "satnogs_id":null
+    "satnogs_id":"VSVI-4798-5613-4587-2414"
   },
   {
     "name":"MeznSat",
@@ -9476,7 +9476,7 @@
     "uplink":null,
     "downlink":"436.600",
     "beacon":null,
-    "mode":"1k2\/2k4\/4k8* BPSK",
+    "mode":"1k2-9k6* BPSK",
     "callsign":"A68MZ",
     "status":"active",
     "satnogs_id":"HXPT-8292-6749-4283-2496"
@@ -11731,7 +11731,7 @@
     "uplink":"145.925",
     "downlink":"436.680",
     "beacon":"436.680",
-    "mode":"9k6*GFSK CW Digipeater",
+    "mode":"9k6* GFSK CW Digipeater",
     "callsign":null,
     "status":"active",
     "satnogs_id":"CBUM-7092-9005-4302-8636"
@@ -13579,7 +13579,7 @@
     "uplink":null,
     "downlink":"437.325\/2405.000",
     "beacon":null,
-    "mode":"256\/1k2\/9k6*GMSK",
+    "mode":"256\/1k2\/9k6* GMSK",
     "callsign":"A60UOS",
     "status":"active",
     "satnogs_id":"DELH-6722-1461-1897-7938"
@@ -13656,7 +13656,7 @@
     "uplink":null,
     "downlink":"437.750",
     "beacon":null,
-    "mode":"2k4\/9k6*GMSK_USP",
+    "mode":"2k4\/9k6* GMSK_USP",
     "callsign":"RS30S",
     "status":"active",
     "satnogs_id":"TSYE-5592-5507-8880-3661"
@@ -13986,7 +13986,7 @@
     "uplink":null,
     "downlink":"436.490\/2405.000",
     "beacon":null,
-    "mode":"1k2 BPSK 9k6*GMSK",
+    "mode":"1k2 BPSK 9k6* GMSK",
     "callsign":"DS0DH",
     "status":"inactive",
     "satnogs_id":"YFNZ-9504-4902-9033-1722"
@@ -14437,7 +14437,7 @@
     "uplink":null,
     "downlink":"435.300\/436.200*\/437.500",
     "beacon":null,
-    "mode":"4k8\/9k6*GMSK",
+    "mode":"4k8\/9k6* GMSK",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"CTBA-1366-4412-2214-9843"
@@ -15801,7 +15801,7 @@
     "uplink":null,
     "downlink":"437.390",
     "beacon":"437.390",
-    "mode":"1k2AFSK 9k6*GMSK CW WSJT",
+    "mode":"1k2AFSK 9k6* GMSK CW WSJT",
     "callsign":"JG6YKY",
     "status":"inactive",
     "satnogs_id":"ILWB-0355-7294-3027-0757"
@@ -17099,7 +17099,7 @@
     "uplink":null,
     "downlink":"435.670",
     "beacon":null,
-    "mode":"2k4\/4k8\/9k6*GMSK_USP",
+    "mode":"2k4\/4k8\/9k6* GMSK_USP",
     "callsign":"RS23S",
     "status":"active",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
@@ -17495,7 +17495,7 @@
     "uplink":null,
     "downlink":"435.310",
     "beacon":null,
-    "mode":"1k2\/9k6*FSK",
+    "mode":"1k2\/9k6* FSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":"JHGM-7853-8293-9677-2181"
@@ -18045,7 +18045,7 @@
     "uplink":"145.860",
     "downlink":"437.355",
     "beacon":"14.099",
-    "mode":"1k2AFSK\/9k6*GMSK CW",
+    "mode":"1k2AFSK\/9k6* GMSK CW",
     "callsign":"123456",
     "status":"active",
     "satnogs_id":"GRVM-9505-5712-0753-7014"
