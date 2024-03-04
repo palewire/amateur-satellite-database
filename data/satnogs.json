@@ -32933,7 +32933,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2024-03-01T00:00:00Z",
+    "launched":null,
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -32941,8 +32941,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-11T15:36:31.629236Z",
-    "citation":"https:\/\/forum.novosti-kosmonavtiki.ru\/index.php?topic=16307.2920",
+    "updated":"2024-03-04T01:06:04.937809Z",
+    "citation":"Unknown launch time",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39611,7 +39611,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-03-04T21:04:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39619,8 +39619,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-05T17:40:20.376066Z",
-    "citation":"https:\/\/spacenews.com\/muon-wins-option-to-monitor-ionosphere-for-space-force\/",
+    "updated":"2024-03-04T10:52:53.634156Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58042.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41989,7 +41989,7 @@
     "image":"satellites\/sonate-2.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-03-04T00:00:00Z",
+    "launched":"2024-03-04T21:04:00Z",
     "deployed":null,
     "website":"https:\/\/www.informatik.uni-wuerzburg.de\/en\/aerospaceinfo\/staff\/kayal\/research-activities\/sonate-2\/",
     "operator":"None",
@@ -41997,8 +41997,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-21T16:22:13.955290Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/272",
+    "updated":"2024-03-04T01:13:15.807701Z",
+    "citation":"https:\/\/www.rocketlaunch.live\/launch\/transporter-10",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42181,7 +42181,7 @@
     "image":"satellites\/PY4.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-03-04T00:00:00Z",
+    "launched":"2024-03-04T21:04:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -42189,8 +42189,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-27T15:34:28.493595Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/273",
+    "updated":"2024-03-04T01:14:44.762621Z",
+    "citation":"https:\/\/www.rocketlaunch.live\/launch\/transporter-10",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42205,7 +42205,7 @@
     "image":"satellites\/PY4_ynXAhRN.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-03-04T00:00:00Z",
+    "launched":"2024-03-04T21:04:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -42213,8 +42213,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-27T15:34:28.489015Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/273",
+    "updated":"2024-03-04T01:14:41.869054Z",
+    "citation":"https:\/\/www.rocketlaunch.live\/launch\/transporter-10",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42229,7 +42229,7 @@
     "image":"satellites\/PY4_Xk7lZzk.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-03-04T00:00:00Z",
+    "launched":"2024-03-04T21:04:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -42237,8 +42237,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-27T15:34:28.484342Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/273",
+    "updated":"2024-03-04T01:14:40.268572Z",
+    "citation":"https:\/\/www.rocketlaunch.live\/launch\/transporter-10",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42253,7 +42253,7 @@
     "image":"satellites\/PY4_CxxJVrY.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-03-04T00:00:00Z",
+    "launched":"2024-03-04T21:04:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -42261,8 +42261,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-27T15:34:28.478897Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/273",
+    "updated":"2024-03-04T01:14:38.498198Z",
+    "citation":"https:\/\/www.rocketlaunch.live\/launch\/transporter-10",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42887,6 +42887,54 @@
     ],
     "updated":"2024-03-03T23:07:51.806084Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1-dSt922lDxKIEHz1yKDDC_28VDVDXzkXMYoehlAt538\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GQFZ-9350-0430-5515-5385",
+    "norad_cat_id":98934.0,
+    "norad_follow_id":null,
+    "name":"MH-1",
+    "names":"AEROS",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-03-04T21:04:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T01:57:31.168870Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58042.60",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LOCF-3327-7028-4700-0103",
+    "norad_cat_id":98933.0,
+    "norad_follow_id":null,
+    "name":"CONTECSAT-1",
+    "names":"OREUM",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-03-04T21:04:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T10:18:58.391366Z",
+    "citation":"Change status to future",
     "is_frequency_violator":false,
     "associated_satellites":[
 
