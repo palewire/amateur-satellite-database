@@ -1114,8 +1114,8 @@
     "name":"CARTOSAT-2",
     "names":"IRS-P7",
     "image":"satellites\/CartoSat2_AutoB.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-14T00:00:00Z",
     "launched":"2007-01-10T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -1124,8 +1124,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:56:17.881510Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-03-03T23:05:05.027733Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=29710#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -7012,8 +7012,8 @@
     "name":"ARKYD 6A",
     "names":"A6A",
     "image":"satellites\/arkyd-6__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-28T00:00:00Z",
     "launched":"2018-01-12T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -7022,8 +7022,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-12T07:22:47.059028Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-03-03T23:04:50.392766Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43130#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -15241,8 +15241,8 @@
     "name":"SPACEBEE-5",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-27T00:00:00Z",
     "launched":"2018-12-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/swarm.space",
@@ -15251,8 +15251,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-09-16T07:16:35.721396Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/spacebee-5.htm",
+    "updated":"2024-03-03T23:04:37.963144Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43817#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -21398,8 +21398,8 @@
     "name":"AGILE",
     "names":"Astro\u2010Rivelatore Gamma a Immagini Leggero",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-13T00:00:00Z",
     "launched":"2007-04-23T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -21408,8 +21408,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T01:07:52.727702Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-03-03T23:04:24.659666Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=31135#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22578,9 +22578,9 @@
     "name":"CYCLOPS",
     "names":"VOENMEH, SXC3-2110 RS29S",
     "image":"satellites\/SXC3_NOF80l6.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-03-03T19:13:40Z",
+    "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites-sputnix\/for-radioamateurs",
     "operator":"None",
@@ -22588,8 +22588,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-03T14:55:00.372796Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53373\/2022-08-13T23%3A38%3A58_6325629_53373_22096D_0-OBJECT-D_0.4574747885185104_B_r24.0_f0.0.png",
+    "updated":"2024-03-03T21:33:27.477033Z",
+    "citation":"https:\/\/sonik.space\/observations\/74965\/",
     "is_frequency_violator":true,
     "associated_satellites":[
       "DZIG-4325-4277-3849-9706"
@@ -24673,8 +24673,8 @@
     "name":"LEMUR 2 WANLI",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-10T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -24683,8 +24683,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-28T07:52:05.874290Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-03-03T23:04:10.342012Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44402#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28622,8 +28622,8 @@
     "name":"LEMUR 2 JACKSON",
     "names":"LEMUR 2 140",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-10T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28632,8 +28632,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.222007Z",
-    "citation":"www.spire.com",
+    "updated":"2024-03-03T23:03:55.506741Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=48885#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28912,8 +28912,8 @@
     "name":"LEMUR 2 LILLYJO",
     "names":"LEMUR 2 101",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-21T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28922,8 +28922,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.244872Z",
-    "citation":"www.spire.com",
+    "updated":"2024-03-03T23:03:00.834267Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44396#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29176,8 +29176,8 @@
     "name":"FLOCK 4V 2",
     "names":"Dove 2256",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-14T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -29186,8 +29186,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-31T10:41:14.834671Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-03-03T23:02:48.899902Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46321#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29802,8 +29802,8 @@
     "name":"FLOCK 4P 5",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-24T00:00:00Z",
     "launched":"2019-11-27T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.planet.com",
@@ -29812,8 +29812,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.035329Z",
-    "citation":"https:\/\/www.planet.com",
+    "updated":"2024-03-03T23:02:17.335145Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44818#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29850,8 +29850,8 @@
     "name":"LEMUR 2 EJATTA",
     "names":"LEMUR 2 103",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-16T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -29860,8 +29860,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.136900Z",
-    "citation":"www.spire.com",
+    "updated":"2024-03-03T23:02:37.621111Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44409#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30378,8 +30378,8 @@
     "name":"GLOBAL-1",
     "names":"BlackSky 1",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-27T00:00:00Z",
     "launched":"2018-11-29T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.blacksky.com\/",
@@ -30388,8 +30388,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:58:28.785923Z",
-    "citation":"https:\/\/www.blacksky.com\/",
+    "updated":"2024-03-03T23:01:57.173867Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43730#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31291,8 +31291,8 @@
     "name":"ION SCV-009",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-14T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -31301,8 +31301,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-09T23:05:08.734560Z",
-    "citation":"https:\/\/www.space-track.org",
+    "updated":"2024-03-03T23:01:38.834247Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=55441#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35043,8 +35043,8 @@
     "name":"Flock 4V 16",
     "names":"2020-061BD",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-28T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":"2020-09-03T00:00:00Z",
     "website":"",
@@ -35053,8 +35053,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T14:53:49.652474Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/17a7qvbkYnrGTWICs9AC_HsS3xKhh2sMOd2m_KEji_gw\/edit?usp=sharing",
+    "updated":"2024-03-03T23:01:24.320560Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46527#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35499,7 +35499,7 @@
     "name":"ESSENCE",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2023-07-06T22:30:00Z",
     "deployed":null,
@@ -35509,8 +35509,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-11T13:29:05.635840Z",
-    "citation":"Random choice",
+    "updated":"2024-03-03T23:00:54.512454Z",
+    "citation":"All objects from the launch is decayed https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-26-nanoracks-2023-07-06-21-20-utc\/10650\/14",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -35523,8 +35523,8 @@
     "name":"Moonlighter",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-10T00:00:00Z",
     "launched":"2023-07-06T22:30:00Z",
     "deployed":null,
     "website":"https:\/\/hackasat.com\/",
@@ -35533,8 +35533,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-20T21:02:40.856804Z",
-    "citation":"Moonlighter's GPS data in telemetry more closely aligns with the TLE for 57316.",
+    "updated":"2024-03-03T23:01:06.162996Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=57316#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40763,8 +40763,8 @@
     "name":"LEMUR 2 AC_CUBED",
     "names":"2021-059BA",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-21T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":"2021-06-30T00:00:00Z",
     "website":"",
@@ -40773,8 +40773,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-03T19:07:29.617271Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1hZ8QYSUnQqwwxjbP8Dzy73I4CaqwgEliYwXHFGZ-0Eg\/edit?usp=sharing",
+    "updated":"2024-03-03T23:00:34.830202Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=48927#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42318,8 +42318,8 @@
   },
   {
     "sat_id":"YKBC-6296-0803-1334-4704",
-    "norad_cat_id":98952.0,
-    "norad_follow_id":59064.0,
+    "norad_cat_id":59064.0,
+    "norad_follow_id":null,
     "name":"ZORKIY-2M 2",
     "names":"S3806A, S3806B",
     "image":"",
@@ -42333,8 +42333,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T21:21:27.880619Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-03T18:05:42.701416Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59064\/2024-03-03T12%3A40%3A26_9130511_59064_24039P_0-OBJECT-P_0.3362597037037034_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42343,7 +42343,7 @@
   {
     "sat_id":"ALSH-7792-3053-9043-5937",
     "norad_cat_id":98951.0,
-    "norad_follow_id":59067.0,
+    "norad_follow_id":59066.0,
     "name":"SITRO-AIS-25",
     "names":"SC2313",
     "image":"",
@@ -42357,8 +42357,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T09:26:04.863658Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-03T18:08:29.660655Z",
+    "citation":"ikhnos analysis - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/25",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42367,7 +42367,7 @@
   {
     "sat_id":"LEYF-9833-5773-7513-7039",
     "norad_cat_id":98950.0,
-    "norad_follow_id":59066.0,
+    "norad_follow_id":59067.0,
     "name":"SITRO-AIS-26",
     "names":"SC2314",
     "image":"",
@@ -42381,8 +42381,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T09:05:26.920574Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-03T18:08:51.904401Z",
+    "citation":"ikhnos analysis - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/25",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42390,8 +42390,8 @@
   },
   {
     "sat_id":"TFHP-8381-2856-3771-0898",
-    "norad_cat_id":98949.0,
-    "norad_follow_id":59068.0,
+    "norad_cat_id":59068.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-27",
     "names":"SC2315",
     "image":"",
@@ -42405,8 +42405,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T09:05:26.164516Z",
-    "citation":"KD9KCK strf observation",
+    "updated":"2024-03-03T17:31:52.156819Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59068\/2024-03-03T13%3A03%3A38_9131355_59068_24039T_0-OBJECT-T_0.34059901481481347_B_r24.0_f0.5.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42414,8 +42414,8 @@
   },
   {
     "sat_id":"QBAD-3953-1599-8847-5828",
-    "norad_cat_id":98948.0,
-    "norad_follow_id":59071.0,
+    "norad_cat_id":59071.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-28",
     "names":"SC2316",
     "image":"",
@@ -42429,8 +42429,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T09:05:25.456985Z",
-    "citation":"KD9KCK strf observation",
+    "updated":"2024-03-03T17:26:34.207528Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59071\/2024-03-03T14%3A46%3A03_9131427_59071_24039U_0-OBJECT-U_0.4117911399999983_B_r24.0_f0.7.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42487,7 +42487,7 @@
   {
     "sat_id":"ZRBN-5589-4326-3586-7443",
     "norad_cat_id":98943.0,
-    "norad_follow_id":59057.0,
+    "norad_follow_id":59055.0,
     "name":"SITRO-AIS-33",
     "names":"SC2321",
     "image":"",
@@ -42501,8 +42501,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T09:35:13.711625Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-03T18:10:40.725654Z",
+    "citation":"ikhnos analysis - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/25",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42535,7 +42535,7 @@
   {
     "sat_id":"AHIQ-6261-1381-9151-8638",
     "norad_cat_id":98944.0,
-    "norad_follow_id":59056.0,
+    "norad_follow_id":59057.0,
     "name":"SITRO-AIS-32",
     "names":"SC2320",
     "image":"",
@@ -42549,8 +42549,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T09:25:33.904900Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-03T18:10:37.087943Z",
+    "citation":"ikhnos analysis - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/25",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42558,8 +42558,8 @@
   },
   {
     "sat_id":"AHLL-7972-4412-3002-1177",
-    "norad_cat_id":98939.0,
-    "norad_follow_id":59060.0,
+    "norad_cat_id":59060.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-49",
     "names":"SC2337",
     "image":"",
@@ -42573,8 +42573,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-02T12:32:59.620256Z",
-    "citation":"By ikhnos on Network observations - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/24",
+    "updated":"2024-03-03T16:14:26.502053Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59060\/2024-03-03T14%3A14%3A07_9131120_59060_24039K_0-OBJECT-K_0.40094736407407083_B_r24.0_f0.5.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42583,7 +42583,7 @@
   {
     "sat_id":"GWGI-3233-9228-6755-9737",
     "norad_cat_id":98942.0,
-    "norad_follow_id":59055.0,
+    "norad_follow_id":59056.0,
     "name":"SITRO-AIS-34",
     "names":"SC2322",
     "image":"",
@@ -42597,8 +42597,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T01:20:54.162752Z",
-    "citation":"From ikhnos on https:\/\/network.satnogs.org\/observations\/9119499\/",
+    "updated":"2024-03-03T18:10:44.006909Z",
+    "citation":"ikhnos analysis - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/25",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42606,8 +42606,8 @@
   },
   {
     "sat_id":"OBMG-8045-5635-2816-6327",
-    "norad_cat_id":98941.0,
-    "norad_follow_id":59058.0,
+    "norad_cat_id":59058.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-35",
     "names":"SC2323",
     "image":"",
@@ -42621,8 +42621,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-01T00:06:33.622805Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/12",
+    "updated":"2024-03-03T16:34:26.706762Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59058\/2024-03-03T14%3A12%3A42_9131011_59058_24039H_0-OBJECT-H_0.07119142777777654_B_r24.0_f2.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42630,8 +42630,8 @@
   },
   {
     "sat_id":"GZOI-5873-1458-3880-9802",
-    "norad_cat_id":98940.0,
-    "norad_follow_id":59059.0,
+    "norad_cat_id":59059.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-36",
     "names":"SC2324",
     "image":"",
@@ -42645,8 +42645,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-02T12:33:03.244637Z",
-    "citation":"By ikhnos on Network observations - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/24",
+    "updated":"2024-03-03T16:25:28.842315Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59059\/2024-03-03T14%3A56%3A56_9131050_59059_24039J_0-OBJECT-J_0.4306324803703703_B_r24.0_f0.2.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42678,8 +42678,8 @@
   },
   {
     "sat_id":"QXYV-7911-9423-9188-9035",
-    "norad_cat_id":98938.0,
-    "norad_follow_id":59061.0,
+    "norad_cat_id":59061.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-50",
     "names":"SC2338",
     "image":"",
@@ -42693,8 +42693,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-02T12:32:08.132285Z",
-    "citation":"By ikhnos on Network observations - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/24",
+    "updated":"2024-03-03T16:04:46.683934Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59061\/2024-03-03T08%3A16%3A10_9131157_59061_24039L_0-OBJECT-L_0.15242497518519116_B_r24.0_f0.5.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42702,8 +42702,8 @@
   },
   {
     "sat_id":"NEBP-5184-1083-8938-2249",
-    "norad_cat_id":98937.0,
-    "norad_follow_id":59062.0,
+    "norad_cat_id":59062.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-51",
     "names":"SC2339",
     "image":"",
@@ -42717,8 +42717,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-02T12:32:16.004895Z",
-    "citation":"By ikhnos on Network observations - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/24",
+    "updated":"2024-03-03T15:55:02.361117Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59062\/2024-03-03T12%3A37%3A37_9131531_59062_24039M_0-OBJECT-M_0.005512645185184795_B_r24.0_f0.4.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42815,6 +42815,78 @@
     ],
     "updated":"2024-03-01T19:04:26.921196Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1n3YVr4sK4wfUPJc0opSt2RnM0jw4XG4dlWrPW11g0Ls\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZFPH-8174-9459-7741-8605",
+    "norad_cat_id":48916.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X13",
+    "names":"2021-059AP",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":"2021-06-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-03T23:09:56.779012Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1PjYOxidE4QHmttlig0bCQFP83i0HNVNlX9RGs0huT64\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CODJ-5300-8734-2552-4197",
+    "norad_cat_id":40015.0,
+    "norad_follow_id":null,
+    "name":"HODOYOSHI 3",
+    "names":"2014-033F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-06-19T00:00:00Z",
+    "deployed":"2014-06-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-03T23:09:21.907224Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1mwbFo9Go71RU8hk1bXLELnY8ZQZIzeY2JglzNg7GXKk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QKTY-1631-1231-9535-2730",
+    "norad_cat_id":47485.0,
+    "norad_follow_id":null,
+    "name":"QPS-SAR-2",
+    "names":"IZANAMI 2021-006CA",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-01-24T00:00:00Z",
+    "deployed":"2021-01-24T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-03T23:07:51.806084Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1-dSt922lDxKIEHz1yKDDC_28VDVDXzkXMYoehlAt538\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
