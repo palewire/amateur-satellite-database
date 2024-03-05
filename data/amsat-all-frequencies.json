@@ -4488,6 +4488,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CYCLOPS",
+    "norad_id":"53373",
+    "uplink":null,
+    "downlink":"436.050",
+    "beacon":null,
+    "mode":"2400bps GMSK_USP",
+    "callsign":"RS29S",
+    "status":"re-entered",
+    "satnogs_id":"YYOS-0902-7582-8175-2841"
+  },
+  {
     "name":"CySat-1",
     "norad_id":null,
     "uplink":null,
@@ -17343,7 +17354,7 @@
     "beacon":null,
     "mode":"2400bps GMSK_USP",
     "callsign":"RS29S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"YYOS-0902-7582-8175-2841"
   },
   {

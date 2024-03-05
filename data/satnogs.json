@@ -39609,18 +39609,18 @@
     "name":"MuSat-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-03-04T21:04:00Z",
-    "deployed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-04-04T00:34:40Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T10:52:53.634156Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58042.0;all",
+    "updated":"2024-03-04T21:15:40.935925Z",
+    "citation":"Change status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39750,21 +39750,21 @@
     "sat_id":"EYJA-7830-4114-3014-1194",
     "norad_cat_id":98983.0,
     "norad_follow_id":null,
-    "name":"TYVAK-0262",
-    "names":"",
+    "name":"Pony Express-2 SV2",
+    "names":"TYVAK-0262",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-04-04T00:34:53Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T14:58:14.876585Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2024-03-04T21:15:40.905902Z",
+    "citation":"Change status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39774,21 +39774,21 @@
     "sat_id":"LNQC-5899-0906-5843-5467",
     "norad_cat_id":98982.0,
     "norad_follow_id":null,
-    "name":"TYVAK-0261",
-    "names":"",
+    "name":"Pony Express-2 SV1",
+    "names":"TYVAK-0261",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-04-04T00:35:33Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-06T14:57:33.985249Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56359.0",
+    "updated":"2024-03-04T21:15:40.877118Z",
+    "citation":"Change status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41987,18 +41987,18 @@
     "name":"SONATE-2",
     "names":"DP0SNX",
     "image":"satellites\/sonate-2.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-03-04T21:04:00Z",
-    "deployed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T22:59:59Z",
     "website":"https:\/\/www.informatik.uni-wuerzburg.de\/en\/aerospaceinfo\/staff\/kayal\/research-activities\/sonate-2\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T01:13:15.807701Z",
-    "citation":"https:\/\/www.rocketlaunch.live\/launch\/transporter-10",
+    "updated":"2024-03-04T21:15:40.852830Z",
+    "citation":"Change status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42179,18 +42179,18 @@
     "name":"PY4-1",
     "names":"",
     "image":"satellites\/PY4.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-03-04T21:04:00Z",
-    "deployed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T22:59:04Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T01:14:44.762621Z",
-    "citation":"https:\/\/www.rocketlaunch.live\/launch\/transporter-10",
+    "updated":"2024-03-04T21:15:40.763464Z",
+    "citation":"Change status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42203,18 +42203,18 @@
     "name":"PY4-2",
     "names":"",
     "image":"satellites\/PY4_ynXAhRN.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-03-04T21:04:00Z",
-    "deployed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T22:59:04Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T01:14:41.869054Z",
-    "citation":"https:\/\/www.rocketlaunch.live\/launch\/transporter-10",
+    "updated":"2024-03-04T21:15:40.786668Z",
+    "citation":"Change status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42227,18 +42227,18 @@
     "name":"PY4-3",
     "names":"",
     "image":"satellites\/PY4_Xk7lZzk.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-03-04T21:04:00Z",
-    "deployed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:00:09Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T01:14:40.268572Z",
-    "citation":"https:\/\/www.rocketlaunch.live\/launch\/transporter-10",
+    "updated":"2024-03-04T21:15:40.810080Z",
+    "citation":"Change status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42251,18 +42251,18 @@
     "name":"PY4-4",
     "names":"",
     "image":"satellites\/PY4_CxxJVrY.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-03-04T21:04:00Z",
-    "deployed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:00:09Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T01:14:38.498198Z",
-    "citation":"https:\/\/www.rocketlaunch.live\/launch\/transporter-10",
+    "updated":"2024-03-04T21:15:40.831684Z",
+    "citation":"Change status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42899,18 +42899,18 @@
     "name":"MH-1",
     "names":"AEROS",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-03-04T21:04:00Z",
-    "deployed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T22:58:54Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T01:57:31.168870Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58042.60",
+    "updated":"2024-03-04T21:15:40.738568Z",
+    "citation":"Change status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42923,18 +42923,402 @@
     "name":"CONTECSAT-1",
     "names":"OREUM",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-03-04T21:04:00Z",
-    "deployed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T22:58:58Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T10:18:58.391366Z",
-    "citation":"Change status to future",
+    "updated":"2024-03-04T21:15:40.685859Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SGTS-7428-9120-3753-9994",
+    "norad_cat_id":98932.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:00:11Z",
+    "website":"https:\/\/amateur.ondospace.com\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T22:48:52.366121Z",
+    "citation":"Fix website link",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JNNP-2835-3667-6280-1551",
+    "norad_cat_id":98931.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:00:11Z",
+    "website":"https:\/\/amateur.ondospace.com\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T22:48:34.248143Z",
+    "citation":"Fix website link",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PDUZ-9178-5050-3640-4549",
+    "norad_cat_id":98930.0,
+    "norad_follow_id":null,
+    "name":"IRIS-F1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:00:35Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.638289Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MDZC-0260-3497-2777-3637",
+    "norad_cat_id":98928.0,
+    "norad_follow_id":null,
+    "name":"PYXIS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:08:05Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.567835Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZRKV-0117-0867-0214-6594",
+    "norad_cat_id":98926.0,
+    "norad_follow_id":null,
+    "name":"YAM-6",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:11:26Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.540127Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RAFI-8020-4581-8442-2188",
+    "norad_cat_id":98929.0,
+    "norad_follow_id":null,
+    "name":"Sentry",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:07:20Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.612879Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IEEU-1505-1321-2194-1749",
+    "norad_cat_id":98924.0,
+    "norad_follow_id":null,
+    "name":"OPTIMUS 2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:16:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.466947Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QZKG-4164-9541-1679-2774",
+    "norad_cat_id":98927.0,
+    "norad_follow_id":null,
+    "name":"ROSE",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:09:09Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.590333Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DIXK-1762-5707-0252-4938",
+    "norad_cat_id":98922.0,
+    "norad_follow_id":null,
+    "name":"Jackal X-1L-001",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:18:11Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.441368Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IQOY-7969-6018-3429-4654",
+    "norad_cat_id":98918.0,
+    "norad_follow_id":null,
+    "name":"BRO-12",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-04-04T00:33:39Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.340641Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KSFC-2018-1319-4536-1314",
+    "norad_cat_id":98919.0,
+    "norad_follow_id":null,
+    "name":"BRO-13",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-04-04T00:33:51Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.367258Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WWUP-9998-0503-1426-7549",
+    "norad_cat_id":98920.0,
+    "norad_follow_id":null,
+    "name":"LIZZIESAT-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:23:33Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.404656Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ILOF-9994-7456-2121-1249",
+    "norad_cat_id":98916.0,
+    "norad_follow_id":null,
+    "name":"METHANESAT",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-04-04T00:38:01Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:10:21.631691Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZQDJ-0650-5501-6285-2771",
+    "norad_cat_id":98917.0,
+    "norad_follow_id":null,
+    "name":"RROCI-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-04-04T00:34:17Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.316390Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NYZJ-8632-3700-9779-7966",
+    "norad_cat_id":98925.0,
+    "norad_follow_id":null,
+    "name":"APEX ARIES 1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:15:24Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.512953Z",
+    "citation":"Change status to alive",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SRYK-1022-8206-7461-4479",
+    "norad_cat_id":98923.0,
+    "norad_follow_id":null,
+    "name":"Jackal X-1L-002",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:17:01Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-04T21:15:40.490269Z",
+    "citation":"Change status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
