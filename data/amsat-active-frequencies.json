@@ -2860,6 +2860,16 @@
     "satnogs_id":"CNSB-9144-5783-1816-8289"
   },
   {
+    "name":"SONATE-2",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.880\/437.025*",
+    "beacon":"145.840",
+    "mode":"1k2AFSK\/9k6*GMSK APRS SSTV CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"SO-50",
     "norad_id":"27607",
     "uplink":"145.850",

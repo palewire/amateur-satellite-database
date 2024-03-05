@@ -42922,19 +42922,19 @@
     "norad_follow_id":null,
     "name":"CONTECSAT-1",
     "names":"OREUM",
-    "image":"",
+    "image":"satellites\/OreumSat.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2024-03-04T22:05:00Z",
     "deployed":"2024-03-04T22:58:58Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.685859Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-05T10:25:12.707875Z",
+    "citation":"Citation",
     "is_frequency_violator":false,
     "associated_satellites":[
 

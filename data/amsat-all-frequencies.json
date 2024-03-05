@@ -14149,11 +14149,11 @@
     "name":"SONATE-2",
     "norad_id":null,
     "uplink":"145.825",
-    "downlink":"145.840\/145.880",
-    "beacon":"437.025",
-    "mode":"1k2AFSK\/9k6GMSK APRS SSTV CW",
+    "downlink":"145.880\/437.025*",
+    "beacon":"145.840",
+    "mode":"1k2AFSK\/9k6*GMSK APRS SSTV CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
