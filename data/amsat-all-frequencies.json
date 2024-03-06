@@ -9174,6 +9174,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Marafon-D-GVM",
+    "norad_id":"59072",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"MARIO",
     "norad_id":"55123",
     "uplink":null,
@@ -13794,6 +13805,182 @@
     "satnogs_id":"PZEY-6339-9659-2258-4284"
   },
   {
+    "name":"SITRO-AIS-25",
+    "norad_id":"59066",
+    "uplink":null,
+    "downlink":"401.260",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-26",
+    "norad_id":"59067",
+    "uplink":null,
+    "downlink":"401.290",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-27",
+    "norad_id":"59068",
+    "uplink":null,
+    "downlink":"401.320",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"TFHP-8381-2856-3771-0898"
+  },
+  {
+    "name":"SITRO-AIS-28",
+    "norad_id":"59071",
+    "uplink":null,
+    "downlink":"401.350",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"QBAD-3953-1599-8847-5828"
+  },
+  {
+    "name":"SITRO-AIS-29",
+    "norad_id":"59052",
+    "uplink":null,
+    "downlink":"401.360",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-30",
+    "norad_id":"59053",
+    "uplink":null,
+    "downlink":"401.020",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-31",
+    "norad_id":"59054",
+    "uplink":null,
+    "downlink":"401.040",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"MJYG-1305-3322-9647-4171"
+  },
+  {
+    "name":"SITRO-AIS-32",
+    "norad_id":"59057",
+    "uplink":null,
+    "downlink":"401.060",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-33",
+    "norad_id":"59055",
+    "uplink":null,
+    "downlink":"401.080",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-34",
+    "norad_id":"59056",
+    "uplink":null,
+    "downlink":"401.100",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-35",
+    "norad_id":"59058",
+    "uplink":null,
+    "downlink":"401.120",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"OBMG-8045-5635-2816-6327"
+  },
+  {
+    "name":"SITRO-AIS-36",
+    "norad_id":"59059",
+    "uplink":null,
+    "downlink":"401.140",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"GZOI-5873-1458-3880-9802"
+  },
+  {
+    "name":"SITRO-AIS-49",
+    "norad_id":"59060",
+    "uplink":null,
+    "downlink":"401.160",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"AHLL-7972-4412-3002-1177"
+  },
+  {
+    "name":"SITRO-AIS-50",
+    "norad_id":"59061",
+    "uplink":null,
+    "downlink":"401.180",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"QXYV-7911-9423-9188-9035"
+  },
+  {
+    "name":"SITRO-AIS-51",
+    "norad_id":"59062",
+    "uplink":null,
+    "downlink":"401.200",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"NEBP-5184-1083-8938-2249"
+  },
+  {
+    "name":"SITRO-AIS-52",
+    "norad_id":"59063",
+    "uplink":null,
+    "downlink":"401.220",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"DOGC-7624-8359-4736-1321"
+  },
+  {
     "name":"skCUBE",
     "norad_id":"42789",
     "uplink":"437.100",
@@ -18159,6 +18346,17 @@
     "callsign":"ZRK2B",
     "status":"active",
     "satnogs_id":"AMWD-8238-3001-8498-3030"
+  },
+  {
+    "name":"Zorkiy-2M-2",
+    "norad_id":"59064",
+    "uplink":null,
+    "downlink":"401.027\/401.070",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"YKBC-6296-0803-1334-4704"
   },
   {
     "name":"Z-Sat",
