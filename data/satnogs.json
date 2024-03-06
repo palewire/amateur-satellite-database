@@ -43323,5 +43323,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"BXJV-0815-0756-1233-1493",
+    "norad_cat_id":98914.0,
+    "norad_follow_id":null,
+    "name":"FRAMSAT-1",
+    "names":"FS-1",
+    "image":"satellites\/image_X5VswbT.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/orbitntnu.com",
+    "operator":"None",
+    "countries":"NO",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-05T21:57:02.219894Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ITHX-4372-8123-5706-5358",
+    "norad_cat_id":98915.0,
+    "norad_follow_id":null,
+    "name":"Unknown from Transporter 10",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-05T21:59:32.563443Z",
+    "citation":"KD9KCK strf observation",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
