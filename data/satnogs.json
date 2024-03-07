@@ -42727,7 +42727,7 @@
   {
     "sat_id":"TCKS-3322-7921-4714-6406",
     "norad_cat_id":98935.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59175.0,
     "name":"EXO-0",
     "names":"",
     "image":"",
@@ -42741,8 +42741,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-29T09:58:13.649409Z",
-    "citation":"Remove following NORAD ID of deployer",
+    "updated":"2024-03-07T10:16:24.210924Z",
+    "citation":"space-track.org and Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43367,6 +43367,54 @@
     ],
     "updated":"2024-03-05T21:59:32.563443Z",
     "citation":"KD9KCK strf observation",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FKKP-3860-4435-9911-6596",
+    "norad_cat_id":55017.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 STEVEALBERS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-07T08:21:20.515858Z",
+    "citation":"https:\/\/jwgtechs.com\/strf\/ids\/LEMUR_2_STEVEALBERS.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LVLB-6230-6736-6537-1340",
+    "norad_cat_id":44860.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 HIMOMANDDAD",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-12-11T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-07T08:20:26.253557Z",
+    "citation":"https:\/\/jwgtechs.com\/strf\/ids\/LEMUR_2_HIMOMANDDAD.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
