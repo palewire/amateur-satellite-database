@@ -7924,8 +7924,8 @@
     "name":"CubeBel-1",
     "names":"BSUSat-1",
     "image":"satellites\/BSUSat_1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-07T00:00:00Z",
     "launched":"2018-10-29T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/bsusat.com",
@@ -7936,8 +7936,8 @@
         "decoder":"cubebel1"
       }
     ],
-    "updated":"2023-06-27T19:00:46.669705Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-03-08T01:22:37.564634Z",
+    "citation":"https:\/\/twitter.com\/CubeBel_FL\/status\/1765834081697198543",
     "is_frequency_violator":false,
     "associated_satellites":[
 

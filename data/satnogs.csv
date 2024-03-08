@@ -347,7 +347,7 @@ JSEY-1831-4025-6206-5301,43617.0,,ELFIN-A,WJ2XNX,satellites/ELFIN_KFgi12l.jpg,re
 GMXL-7215-1950-4661-9393,43640.0,,STARS-Me,"JJ2YPL
 JJ2YPM",,re-entered,2021-07-09T03:53:43Z,,,,None,,[],2021-07-21T10:11:42.591042Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 YIDE-3824-4144-2209-0731,43656.0,,CZ-4B R/B,,,alive,,,,,None,,[],2021-07-21T10:11:42.593523Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-WMQB-0532-9164-6364-5821,43666.0,,CubeBel-1,BSUSat-1,satellites/BSUSat_1.jpg,alive,,2018-10-29T00:00:00Z,,https://bsusat.com,None,BY,[{'decoder': 'cubebel1'}],2023-06-27T19:00:46.669705Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+WMQB-0532-9164-6364-5821,43666.0,,CubeBel-1,BSUSat-1,satellites/BSUSat_1.jpg,re-entered,2024-03-07T00:00:00Z,2018-10-29T00:00:00Z,,https://bsusat.com,None,BY,[{'decoder': 'cubebel1'}],2024-03-08T01:22:37.564634Z,https://twitter.com/CubeBel_FL/status/1765834081697198543,False,[]
 DWZS-2247-2262-5163-7605,43669.0,,CHANGSHAGAOXIN,TY 4-01,,alive,,,,,None,,[],2021-07-21T10:11:42.597943Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 ILWB-0355-7294-3027-0757,43677.0,,Ten-Koh,JG6YKY; TENKOH,,alive,,2018-10-29T00:00:00Z,,http://kit-okuyama-lab.com/en/ten-koh,None,JP,[],2023-05-06T18:54:12.261609Z,http://kit-okuyama-lab.com/en/ten-koh,False,[]
 HIEK-3729-5596-2727-4744,43678.0,,DIWATA-2,PO-101,satellites/diwata-2__1.jpg,alive,,,,http://phl-microsat.upd.edu.ph/diwata2,None,PH,[],2023-11-16T05:55:48.338527Z,https://www.amsat.org/diwata-2-designated-philippines-oscar-101-po-101/,False,[]

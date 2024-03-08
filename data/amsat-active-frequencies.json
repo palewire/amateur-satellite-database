@@ -1445,7 +1445,7 @@
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
-    "mode":"50*\/300\/1k2-9k6 FSK FM CW",
+    "mode":"50*\/300\/1k2-9k6 FSK FM* CW",
     "callsign":null,
     "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
@@ -3415,7 +3415,7 @@
     "uplink":null,
     "downlink":"435.825\/437.625*",
     "beacon":null,
-    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
+    "mode":"2k4\/4k8\/9k6* GMSK_USP SSTV",
     "callsign":"RS40S",
     "satnogs_id":"SDUV-9624-5611-1090-5908"
   },
