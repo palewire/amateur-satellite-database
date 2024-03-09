@@ -16708,8 +16708,8 @@
     "name":"EG 2",
     "names":"TYVAK-0171 SIRION-2",
     "image":"satellites\/Tyvak-0130.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-02-08T11:58:47Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16718,8 +16718,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-18T06:49:06.527214Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-03-08T13:47:04.898135Z",
+    "citation":"https:\/\/celestrak.org\/NORAD\/elements\/estimate-decay.php?CATNR=46295",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19475,8 +19475,8 @@
     "name":"BDSat",
     "names":"",
     "image":"satellites\/BDSat-satnogs.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-07T08:10:01.796000Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/www.bdsat.cz",
@@ -19487,8 +19487,8 @@
         "decoder":"bdsat"
       }
     ],
-    "updated":"2022-04-16T18:45:27.289909Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/224",
+    "updated":"2024-03-08T13:52:45.018044Z",
+    "citation":"https:\/\/celestrak.org\/NORAD\/elements\/estimate-decay.php?CATNR=52175",
     "is_frequency_violator":false,
     "associated_satellites":[
       "QJSR-6812-7404-1521-7615",
@@ -19527,8 +19527,8 @@
     "name":"PlantSat",
     "names":"",
     "image":"satellites\/plantsat_hYz4nHu.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-04T00:00:00Z",
     "launched":"2022-04-01T00:00:00Z",
     "deployed":"2022-04-09T00:00:00Z",
     "website":"https:\/\/plantsat.spel.cl\/",
@@ -19539,8 +19539,8 @@
         "decoder":"suchai2"
       }
     ],
-    "updated":"2022-04-20T12:14:00.105795Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-4-rideshare-ccsfs-slc-40-1-april-2022-16-24-utc\/9104\/2",
+    "updated":"2024-03-08T13:52:22.719692Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -20029,8 +20029,8 @@
     "name":"FLOCK 4V 25",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-06T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.planet.com",
@@ -20039,8 +20039,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:43.911662Z",
-    "citation":"https:\/\/www.planet.com",
+    "updated":"2024-03-08T13:51:07.074691Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46812#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42726,8 +42726,8 @@
   },
   {
     "sat_id":"TCKS-3322-7921-4714-6406",
-    "norad_cat_id":98935.0,
-    "norad_follow_id":59175.0,
+    "norad_cat_id":59175.0,
+    "norad_follow_id":null,
     "name":"EXO-0",
     "names":"",
     "image":"",
@@ -42741,8 +42741,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-07T10:16:24.210924Z",
-    "citation":"space-track.org and Network observations",
+    "updated":"2024-03-08T20:33:32.764182Z",
+    "citation":"space-track.org and verified by network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
