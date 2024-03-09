@@ -32226,7 +32226,7 @@
   },
   {
     "sat_id":"AYLO-6910-6407-3496-4588",
-    "norad_cat_id":56749.0,
+    "norad_cat_id":56746.0,
     "norad_follow_id":null,
     "name":"SNIPE A",
     "names":"KASI-SAT A, SNIPE-1",
@@ -32241,8 +32241,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-27T10:08:47.135353Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56749\/2023-05-27T01%3A11%3A05_7620825_56749_23072G_0-OBJECT-G_0.5421164959259102_B_r24.0_f0.3.png",
+    "updated":"2024-03-09T11:28:26.140384Z",
+    "citation":"satellite team",
     "is_frequency_violator":true,
     "associated_satellites":[
       "CRTU-9870-2005-4687-6645"
@@ -32323,10 +32323,10 @@
   {
     "sat_id":"CXQF-7051-0702-4077-4852",
     "norad_cat_id":99156.0,
-    "norad_follow_id":56747.0,
+    "norad_follow_id":56749.0,
     "name":"LUMIR-T1",
     "names":"",
-    "image":"",
+    "image":"satellites\/lumir-t1__1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2023-05-25T09:24:00Z",
@@ -32337,8 +32337,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-24T11:02:34.495765Z",
-    "citation":"Change NORAD ID to follow to 56747",
+    "updated":"2024-03-09T11:28:33.246572Z",
+    "citation":"satellite team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -37729,22 +37729,22 @@
   {
     "sat_id":"MBWV-8802-2119-0679-0468",
     "norad_cat_id":99047.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56747.0,
     "name":"KSAT3U",
     "names":"",
-    "image":"",
+    "image":"satellites\/KSAT3U_2.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-05-25T09:24:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2023-09-18T10:29:47.776537Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/264",
+    "updated":"2024-03-09T10:13:39.724425Z",
+    "citation":"satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43415,6 +43415,30 @@
     ],
     "updated":"2024-03-07T08:20:26.253557Z",
     "citation":"https:\/\/jwgtechs.com\/strf\/ids\/LEMUR_2_HIMOMANDDAD.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VYYS-2109-0134-2275-9604",
+    "norad_cat_id":98913.0,
+    "norad_follow_id":null,
+    "name":"VEERY-0E \u201cEctobius\u201d",
+    "names":"Fledgling Veery Ectobius",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T22:05:00Z",
+    "deployed":"2024-03-04T23:00:11Z",
+    "website":"http:\/\/www.spacecraft.byu.edu",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-09T00:39:57.763582Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 

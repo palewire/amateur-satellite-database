@@ -14352,7 +14352,7 @@
     "mode":"4800bps MSK_AX.100_Mode 5",
     "callsign":null,
     "status":"active",
-    "satnogs_id":"AYLO-6910-6407-3496-4588"
+    "satnogs_id":null
   },
   {
     "name":"SNIPE-B",
@@ -14374,7 +14374,7 @@
     "mode":"4800bps MSK_AX.100_Mode 5",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"AYLO-6910-6407-3496-4588"
   },
   {
     "name":"SNIPE-D",
