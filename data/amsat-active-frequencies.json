@@ -460,6 +460,26 @@
     "satnogs_id":"BKIY-3032-2869-4485-1697"
   },
   {
+    "name":"BRO-12",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"BRO-13",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-2",
     "norad_id":"57175",
     "uplink":"436.200",
@@ -1168,6 +1188,16 @@
     "mode":"1k2AFSK APRS",
     "callsign":"A55BTN",
     "satnogs_id":"NLUY-5633-4354-5527-8129"
+  },
+  {
+    "name":"EXO-0",
+    "norad_id":"59175",
+    "uplink":null,
+    "downlink":"401.360",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"EXO000",
+    "satnogs_id":"TCKS-3322-7921-4714-6406"
   },
   {
     "name":"Es'Hail-2",

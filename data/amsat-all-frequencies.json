@@ -2493,7 +2493,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -2504,7 +2504,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -5454,6 +5454,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"SVPP-9764-1942-2462-5319"
+  },
+  {
+    "name":"EXO-0",
+    "norad_id":"59175",
+    "uplink":null,
+    "downlink":"401.360",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"EXO000",
+    "status":"active",
+    "satnogs_id":"TCKS-3322-7921-4714-6406"
   },
   {
     "name":"EPICHyper-3",
@@ -9933,6 +9944,17 @@
     "satnogs_id":"ZYKO-7290-5830-6811-4050"
   },
   {
+    "name":"MuSat-1",
+    "norad_id":"56967",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"JPEF-7986-7526-4793-6798"
+  },
+  {
     "name":"myPocketQub",
     "norad_id":null,
     "uplink":null,
@@ -11048,8 +11070,8 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"435.000",
-    "beacon":null,
-    "mode":"4800bps GMSK",
+    "beacon":"435.000",
+    "mode":"4800bps GMSK CW",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -11059,8 +11081,8 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"435.000",
-    "beacon":null,
-    "mode":"4800bps GMSK",
+    "beacon":"435.000",
+    "mode":"4800bps GMSK CW",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -12164,6 +12186,17 @@
     "callsign":"JQ1YCX",
     "status":"active",
     "satnogs_id":"VAJK-7711-8203-8371-3078"
+  },
+  {
+    "name":"Proci-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2217.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Proiteres",
@@ -13662,6 +13695,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Scout-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"SC-ODIN",
     "norad_id":"57312",
     "uplink":"436.525",
@@ -13759,6 +13803,17 @@
     "callsign":"WJ2XOX",
     "status":"active",
     "satnogs_id":"OSBB-5160-7827-1540-1828"
+  },
+  {
+    "name":"Sentry",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Serenity",
