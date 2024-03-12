@@ -5111,7 +5111,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -5594,17 +5594,6 @@
     "downlink":"437.875\/2428.000",
     "beacon":null,
     "mode":"9600bps FSK",
-    "callsign":null,
-    "status":"re-entered",
-    "satnogs_id":null
-  },
-  {
-    "name":"EXOCONNECT",
-    "norad_id":"44410",
-    "uplink":null,
-    "downlink":"435.700",
-    "beacon":null,
-    "mode":"4k8*\/9k6 GMSK",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":null
