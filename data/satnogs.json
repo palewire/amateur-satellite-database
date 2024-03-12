@@ -42535,7 +42535,7 @@
   {
     "sat_id":"AHIQ-6261-1381-9151-8638",
     "norad_cat_id":98944.0,
-    "norad_follow_id":59057.0,
+    "norad_follow_id":59056.0,
     "name":"SITRO-AIS-32",
     "names":"SC2320",
     "image":"",
@@ -42549,8 +42549,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T18:10:37.087943Z",
-    "citation":"ikhnos analysis - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/25",
+    "updated":"2024-03-11T23:02:09.262591Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42583,7 +42583,7 @@
   {
     "sat_id":"GWGI-3233-9228-6755-9737",
     "norad_cat_id":98942.0,
-    "norad_follow_id":59056.0,
+    "norad_follow_id":59057.0,
     "name":"SITRO-AIS-34",
     "names":"SC2322",
     "image":"",
@@ -42597,8 +42597,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T18:10:44.006909Z",
-    "citation":"ikhnos analysis - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/25",
+    "updated":"2024-03-11T22:59:38.065516Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43511,6 +43511,30 @@
     ],
     "updated":"2024-03-11T10:36:28.023971Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1HCWLmaAoG8vkAnmunGKVkyQwpMis8_nlpmEWIZpBNEQ\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TDBD-8665-8514-4063-1980",
+    "norad_cat_id":48944.0,
+    "norad_follow_id":null,
+    "name":"Tiger-2 ( Ayan-21)",
+    "names":"2021-059BT",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":"2021-06-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RW",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-11T22:28:23.315303Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ANE5Bjx13vt5_tUcg1zrSbLWxukFKykS1i2V8YzfoWs\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
