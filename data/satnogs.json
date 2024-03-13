@@ -42342,8 +42342,8 @@
   },
   {
     "sat_id":"ALSH-7792-3053-9043-5937",
-    "norad_cat_id":98951.0,
-    "norad_follow_id":59066.0,
+    "norad_cat_id":59066.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-25",
     "names":"SC2313",
     "image":"",
@@ -42357,8 +42357,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T18:08:29.660655Z",
-    "citation":"ikhnos analysis - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/25",
+    "updated":"2024-03-12T18:24:46.374821Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59066\/2024-03-12T08%3A17%3A34_9186748_59066_24039R_0-OBJECT-R_0.15745480740740447_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42366,8 +42366,8 @@
   },
   {
     "sat_id":"LEYF-9833-5773-7513-7039",
-    "norad_cat_id":98950.0,
-    "norad_follow_id":59067.0,
+    "norad_cat_id":59067.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-26",
     "names":"SC2314",
     "image":"",
@@ -42381,11 +42381,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T18:08:51.904401Z",
-    "citation":"ikhnos analysis - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/25",
+    "updated":"2024-03-12T17:56:11.609291Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59067\/2024-03-12T03%3A19%3A15_9186721_59067_24039S_0-OBJECT-S_0.04950928444444003_A_r24.0_f0.6.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "VDOO-9041-9117-1741-3959"
     ]
   },
   {
@@ -42486,8 +42486,8 @@
   },
   {
     "sat_id":"ZRBN-5589-4326-3586-7443",
-    "norad_cat_id":98943.0,
-    "norad_follow_id":59055.0,
+    "norad_cat_id":59055.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-33",
     "names":"SC2321",
     "image":"",
@@ -42501,8 +42501,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T18:10:40.725654Z",
-    "citation":"ikhnos analysis - https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-02-29-05-43-utc\/11408\/25",
+    "updated":"2024-03-12T18:03:44.897659Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59055\/2024-03-12T08%3A19%3A26_9186432_59055_24039E_0-OBJECT-E_0.15190671370370978_B_r24.0_f0.3.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42534,8 +42534,8 @@
   },
   {
     "sat_id":"AHIQ-6261-1381-9151-8638",
-    "norad_cat_id":98944.0,
-    "norad_follow_id":59056.0,
+    "norad_cat_id":59057.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-32",
     "names":"SC2320",
     "image":"",
@@ -42549,11 +42549,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-11T23:02:09.262591Z",
-    "citation":"Network observations",
+    "updated":"2024-03-12T17:38:10.048160Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59057\/2024-03-12T03%3A29%3A20_9186504_59057_24039G_0-OBJECT-G_0.04943641962962886_A_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "QILY-1054-0923-2099-3577"
     ]
   },
   {
@@ -42582,8 +42582,8 @@
   },
   {
     "sat_id":"GWGI-3233-9228-6755-9737",
-    "norad_cat_id":98942.0,
-    "norad_follow_id":59057.0,
+    "norad_cat_id":59058.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-34",
     "names":"SC2322",
     "image":"",
@@ -42597,8 +42597,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-11T22:59:38.065516Z",
-    "citation":"Network observations",
+    "updated":"2024-03-12T17:23:08.115448Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59058\/2024-03-12T08%3A22%3A13_9185083_59058_24039H_0-OBJECT-H_0.15408549407408145_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42606,7 +42606,7 @@
   },
   {
     "sat_id":"OBMG-8045-5635-2816-6327",
-    "norad_cat_id":59058.0,
+    "norad_cat_id":59056.0,
     "norad_follow_id":null,
     "name":"SITRO-AIS-35",
     "names":"SC2323",
@@ -42621,11 +42621,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T16:34:26.706762Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59058\/2024-03-03T14%3A12%3A42_9131011_59058_24039H_0-OBJECT-H_0.07119142777777654_B_r24.0_f2.0.png",
+    "updated":"2024-03-12T17:23:05.031193Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59056\/2024-03-12T11%3A27%3A58_9189424_59056_24039F_0-OBJECT-F_0.28339167962963074_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "VTGP-1660-0756-0731-5303"
     ]
   },
   {

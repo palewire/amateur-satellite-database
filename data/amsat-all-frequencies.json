@@ -931,7 +931,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":null
   },
   {
@@ -942,7 +942,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":null
   },
   {
@@ -953,7 +953,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":null
   },
   {
@@ -964,7 +964,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":null
   },
   {
@@ -975,7 +975,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":null
   },
   {
@@ -986,7 +986,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":"GARM-1563-5597-4412-1588"
   },
   {
@@ -997,7 +997,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":"UISA-7569-4916-7535-5038"
   },
   {
@@ -1008,7 +1008,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":"WNBG-5222-9642-7959-5062"
   },
   {
@@ -1019,18 +1019,18 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":"EIXA-7920-3563-3042-5758"
   },
   {
     "name":"AprizeSat-10",
     "norad_id":"40019",
     "uplink":null,
-    "downlink":null,
+    "downlink":"400.573",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"non-amateur",
     "satnogs_id":"AMDP-5293-8569-5719-3637"
   },
   {
@@ -14088,7 +14088,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ALSH-7792-3053-9043-5937"
   },
   {
     "name":"SITRO-AIS-26",
@@ -14099,7 +14099,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LEYF-9833-5773-7513-7039"
   },
   {
     "name":"SITRO-AIS-27",
@@ -14165,7 +14165,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"AHIQ-6261-1381-9151-8638"
   },
   {
     "name":"SITRO-AIS-33",
@@ -14176,7 +14176,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ZRBN-5589-4326-3586-7443"
   },
   {
     "name":"SITRO-AIS-34",
@@ -14187,7 +14187,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"OBMG-8045-5635-2816-6327"
   },
   {
     "name":"SITRO-AIS-35",
@@ -14198,7 +14198,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":"OBMG-8045-5635-2816-6327"
+    "satnogs_id":"GWGI-3233-9228-6755-9737"
   },
   {
     "name":"SITRO-AIS-36",
