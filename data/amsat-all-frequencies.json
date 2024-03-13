@@ -11170,7 +11170,7 @@
     "uplink":null,
     "downlink":"437.850*\/437.950\/10465.000",
     "beacon":null,
-    "mode":"2k4\/4k8*\/9k6FSK SSTV",
+    "mode":"2k4\/4k8*\/9k6GMSK_USP SSTV",
     "callsign":"RS15S",
     "status":"active",
     "satnogs_id":"OMJF-9743-1169-8966-7578"
@@ -14054,7 +14054,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2212",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"PHVZ-1185-4095-1354-8720"
   },
   {
@@ -14086,8 +14086,8 @@
     "downlink":"401.260",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2313",
+    "status":"active",
     "satnogs_id":"ALSH-7792-3053-9043-5937"
   },
   {
@@ -14097,8 +14097,8 @@
     "downlink":"401.290",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2314",
+    "status":"active",
     "satnogs_id":"LEYF-9833-5773-7513-7039"
   },
   {
@@ -14108,8 +14108,8 @@
     "downlink":"401.320",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2315",
+    "status":"active",
     "satnogs_id":"TFHP-8381-2856-3771-0898"
   },
   {
@@ -14119,8 +14119,8 @@
     "downlink":"401.350",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2316",
+    "status":"active",
     "satnogs_id":"QBAD-3953-1599-8847-5828"
   },
   {
@@ -14130,8 +14130,8 @@
     "downlink":"401.360",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2317",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -14141,8 +14141,8 @@
     "downlink":"401.020",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2318",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -14152,8 +14152,8 @@
     "downlink":"401.040",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2319",
+    "status":"active",
     "satnogs_id":"MJYG-1305-3322-9647-4171"
   },
   {
@@ -14163,8 +14163,8 @@
     "downlink":"401.060",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2320",
+    "status":"active",
     "satnogs_id":"AHIQ-6261-1381-9151-8638"
   },
   {
@@ -14174,31 +14174,31 @@
     "downlink":"401.080",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2321",
+    "status":"active",
     "satnogs_id":"ZRBN-5589-4326-3586-7443"
   },
   {
     "name":"SITRO-AIS-34",
-    "norad_id":"59056",
+    "norad_id":"59058",
     "uplink":null,
     "downlink":"401.100",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":"OBMG-8045-5635-2816-6327"
+    "callsign":"SC2322",
+    "status":"active",
+    "satnogs_id":"GWGI-3233-9228-6755-9737"
   },
   {
     "name":"SITRO-AIS-35",
-    "norad_id":"59058",
+    "norad_id":"59056",
     "uplink":null,
     "downlink":"401.120",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":"GWGI-3233-9228-6755-9737"
+    "callsign":"SC2323",
+    "status":"active",
+    "satnogs_id":"OBMG-8045-5635-2816-6327"
   },
   {
     "name":"SITRO-AIS-36",
@@ -14207,8 +14207,8 @@
     "downlink":"401.140",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2324",
+    "status":"active",
     "satnogs_id":"GZOI-5873-1458-3880-9802"
   },
   {
@@ -14218,8 +14218,8 @@
     "downlink":"401.160",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2337",
+    "status":"active",
     "satnogs_id":"AHLL-7972-4412-3002-1177"
   },
   {
@@ -14229,8 +14229,8 @@
     "downlink":"401.180",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2338",
+    "status":"active",
     "satnogs_id":"QXYV-7911-9423-9188-9035"
   },
   {
@@ -14240,8 +14240,8 @@
     "downlink":"401.200",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2339",
+    "status":"active",
     "satnogs_id":"NEBP-5184-1083-8938-2249"
   },
   {
@@ -14251,8 +14251,8 @@
     "downlink":"401.220",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SC2340",
+    "status":"active",
     "satnogs_id":"DOGC-7624-8359-4736-1321"
   },
   {
