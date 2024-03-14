@@ -41983,7 +41983,7 @@
   {
     "sat_id":"PBTZ-3525-0189-2410-5216",
     "norad_cat_id":98959.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59112.0,
     "name":"SONATE-2",
     "names":"DP0SNX",
     "image":"satellites\/sonate-2.png",
@@ -41997,8 +41997,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.852830Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-14T09:39:07.415478Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
