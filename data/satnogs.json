@@ -42919,7 +42919,7 @@
   {
     "sat_id":"LOCF-3327-7028-4700-0103",
     "norad_cat_id":98933.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59141.0,
     "name":"CONTECSAT-1",
     "names":"OREUM",
     "image":"satellites\/OreumSat.jpg",
@@ -42933,8 +42933,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-05T10:25:12.707875Z",
-    "citation":"Citation",
+    "updated":"2024-03-15T17:58:57.602424Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42991,7 +42991,7 @@
   {
     "sat_id":"PDUZ-9178-5050-3640-4549",
     "norad_cat_id":98930.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59110.0,
     "name":"IRIS-F1",
     "names":"",
     "image":"",
@@ -43005,8 +43005,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.638289Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-15T17:58:06.353399Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43159,7 +43159,7 @@
   {
     "sat_id":"IQOY-7969-6018-3429-4654",
     "norad_cat_id":98918.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59107.0,
     "name":"BRO-12",
     "names":"",
     "image":"",
@@ -43173,8 +43173,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.340641Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-15T17:56:48.687574Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43183,7 +43183,7 @@
   {
     "sat_id":"KSFC-2018-1319-4536-1314",
     "norad_cat_id":98919.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59108.0,
     "name":"BRO-13",
     "names":"",
     "image":"",
@@ -43197,8 +43197,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.367258Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-15T17:57:07.225616Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43351,7 +43351,7 @@
   {
     "sat_id":"ITHX-4372-8123-5706-5358",
     "norad_cat_id":98915.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59132.0,
     "name":"Unknown from Transporter 10",
     "names":"",
     "image":"",
@@ -43365,8 +43365,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-05T21:59:32.563443Z",
-    "citation":"KD9KCK strf observation",
+    "updated":"2024-03-15T18:40:14.550691Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
