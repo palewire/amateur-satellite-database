@@ -2487,7 +2487,7 @@
   },
   {
     "name":"BRO-12",
-    "norad_id":null,
+    "norad_id":"59107",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -2498,7 +2498,7 @@
   },
   {
     "name":"BRO-13",
-    "norad_id":null,
+    "norad_id":"59108",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -6468,6 +6468,17 @@
     "satnogs_id":"BYRQ-8084-9850-7997-7193"
   },
   {
+    "name":"Gardens-02",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.825\/437.375",
+    "beacon":null,
+    "mode":"4800bps GMSK APRS",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"GASPACS",
     "norad_id":"51439",
     "uplink":null,
@@ -7822,7 +7833,7 @@
   },
   {
     "name":"IRIS-F1",
-    "norad_id":null,
+    "norad_id":"59110",
     "uplink":null,
     "downlink":"400.915",
     "beacon":null,
@@ -8324,6 +8335,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"KASHIWA",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.825\/437.375",
+    "beacon":null,
+    "mode":"4800bps GMSK APRS",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -14609,7 +14631,7 @@
   },
   {
     "name":"SONATE-2",
-    "norad_id":null,
+    "norad_id":"59112",
     "uplink":"145.825",
     "downlink":"145.880\/437.025*",
     "beacon":"145.840",

@@ -461,7 +461,7 @@
   },
   {
     "name":"BRO-12",
-    "norad_id":null,
+    "norad_id":"59107",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -471,7 +471,7 @@
   },
   {
     "name":"BRO-13",
-    "norad_id":null,
+    "norad_id":"59108",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -3071,7 +3071,7 @@
   },
   {
     "name":"SONATE-2",
-    "norad_id":null,
+    "norad_id":"59112",
     "uplink":"145.825",
     "downlink":"145.880\/437.025*",
     "beacon":"145.840",
