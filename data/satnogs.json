@@ -43063,7 +43063,7 @@
   {
     "sat_id":"RAFI-8020-4581-8442-2188",
     "norad_cat_id":98929.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59128.0,
     "name":"Sentry",
     "names":"",
     "image":"",
@@ -43077,8 +43077,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.612879Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-16T23:52:59.710194Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
