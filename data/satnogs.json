@@ -42991,7 +42991,7 @@
   {
     "sat_id":"PDUZ-9178-5050-3640-4549",
     "norad_cat_id":98930.0,
-    "norad_follow_id":59110.0,
+    "norad_follow_id":59111.0,
     "name":"IRIS-F1",
     "names":"",
     "image":"",
@@ -43005,8 +43005,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-15T17:58:06.353399Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-17T20:15:52.057884Z",
+    "citation":"PE2BZ strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43063,7 +43063,7 @@
   {
     "sat_id":"RAFI-8020-4581-8442-2188",
     "norad_cat_id":98929.0,
-    "norad_follow_id":59128.0,
+    "norad_follow_id":59125.0,
     "name":"Sentry",
     "names":"",
     "image":"",
@@ -43077,8 +43077,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-16T23:52:59.710194Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-17T20:20:30.255786Z",
+    "citation":"PE2BZ strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
