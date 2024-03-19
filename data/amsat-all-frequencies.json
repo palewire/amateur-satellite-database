@@ -232,14 +232,14 @@
   },
   {
     "name":"AHMAT-1",
-    "norad_id":"57208",
+    "norad_id":"57206",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
     "mode":"1145baudAFSK",
     "callsign":"RS41S",
     "status":"unknown",
-    "satnogs_id":"BTMY-6498-5817-1415-4137"
+    "satnogs_id":null
   },
   {
     "name":"AISat",
@@ -5518,7 +5518,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -7795,7 +7795,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -7833,13 +7833,13 @@
   },
   {
     "name":"IRIS-F1",
-    "norad_id":"59110",
+    "norad_id":"59111",
     "uplink":null,
     "downlink":"400.915",
     "beacon":null,
-    "mode":"4800bps BPSK",
+    "mode":"2k4*\/4k8 BPSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9808,7 +9808,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12679,7 +12679,7 @@
     "beacon":null,
     "mode":"9k6 GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -13724,7 +13724,7 @@
     "beacon":null,
     "mode":"GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -17145,7 +17145,7 @@
     "beacon":null,
     "mode":"9k6 2GFSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {

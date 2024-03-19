@@ -1750,6 +1750,16 @@
     "satnogs_id":"JZOW-0900-7355-5555-3949"
   },
   {
+    "name":"IRIS-F1",
+    "norad_id":"59111",
+    "uplink":null,
+    "downlink":"400.915",
+    "beacon":null,
+    "mode":"2k4*\/4k8 BPSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"iSat",
     "norad_id":"43879",
     "uplink":"437.325",
