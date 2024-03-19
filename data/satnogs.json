@@ -19013,10 +19013,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -43535,6 +43535,30 @@
     ],
     "updated":"2024-03-11T22:28:23.315303Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1ANE5Bjx13vt5_tUcg1zrSbLWxukFKykS1i2V8YzfoWs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IXDJ-0518-1708-5570-4903",
+    "norad_cat_id":58323.0,
+    "norad_follow_id":null,
+    "name":"Observer-1A",
+    "names":"2023-174BV",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-18T17:37:42.442971Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1oOaeBwuv40t-MFTyn1oRCUHLVQU16Rj-zyabRzfPdHk\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
