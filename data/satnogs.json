@@ -42175,7 +42175,7 @@
   {
     "sat_id":"QZSV-9417-8256-3594-8481",
     "norad_cat_id":98954.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59138.0,
     "name":"PY4-1",
     "names":"",
     "image":"satellites\/PY4.png",
@@ -42189,8 +42189,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.763464Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-19T23:16:55.296132Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-10-rideshare-vsfb-slc-4e-2024-03-04-22-05-utc\/11375\/67",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42199,7 +42199,7 @@
   {
     "sat_id":"SHZR-8351-0812-6292-4613",
     "norad_cat_id":98955.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59139.0,
     "name":"PY4-2",
     "names":"",
     "image":"satellites\/PY4_ynXAhRN.png",
@@ -42213,8 +42213,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.786668Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-19T23:17:35.656971Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-10-rideshare-vsfb-slc-4e-2024-03-04-22-05-utc\/11375\/67",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42223,7 +42223,7 @@
   {
     "sat_id":"LVDX-5742-4985-8995-0164",
     "norad_cat_id":98956.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59146.0,
     "name":"PY4-3",
     "names":"",
     "image":"satellites\/PY4_Xk7lZzk.png",
@@ -42237,8 +42237,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.810080Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-19T23:18:05.302210Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-10-rideshare-vsfb-slc-4e-2024-03-04-22-05-utc\/11375\/67",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42247,7 +42247,7 @@
   {
     "sat_id":"DNQH-6416-1167-9823-4581",
     "norad_cat_id":98957.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59144.0,
     "name":"PY4-4",
     "names":"",
     "image":"satellites\/PY4_CxxJVrY.png",
@@ -42261,8 +42261,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.831684Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-19T23:18:23.588187Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-10-rideshare-vsfb-slc-4e-2024-03-04-22-05-utc\/11375\/67",
     "is_frequency_violator":false,
     "associated_satellites":[
 
