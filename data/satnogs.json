@@ -43541,6 +43541,54 @@
     ]
   },
   {
+    "sat_id":"QZRL-4914-4557-2700-9931",
+    "norad_cat_id":98911.0,
+    "norad_follow_id":null,
+    "name":"DORA",
+    "names":"Deployable Optical Receiver Aperture",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-03-21T20:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/loco.lab.asu.edu\/dora",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-20T07:17:47.726678Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NTJV-2293-0787-8038-8343",
+    "norad_cat_id":98912.0,
+    "norad_follow_id":null,
+    "name":"EagleSat-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-03-21T20:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/prescott.erau.edu\/about\/labs\/axfab-eaglesat",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-20T07:14:37.656021Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"IXDJ-0518-1708-5570-4903",
     "norad_cat_id":58323.0,
     "norad_follow_id":null,
@@ -43559,6 +43607,30 @@
     ],
     "updated":"2024-03-18T17:37:42.442971Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1oOaeBwuv40t-MFTyn1oRCUHLVQU16Rj-zyabRzfPdHk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TSNV-0315-9484-4584-5244",
+    "norad_cat_id":59133.0,
+    "norad_follow_id":null,
+    "name":"Object AM - Transporter 10",
+    "names":"2024-043AM",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":"2024-03-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-20T08:31:20.907999Z",
+    "citation":"Update info of satellite",
     "is_frequency_violator":false,
     "associated_satellites":[
 
