@@ -4704,7 +4704,7 @@
     "beacon":null,
     "mode":"1k2*\/2k4\/19k2 FSK",
     "callsign":"DLFIPQ",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"CEIC-4073-2863-5971-9670"
   },
   {
@@ -9830,7 +9830,7 @@
     "beacon":"145.840",
     "mode":"12k5bps BPSK CW",
     "callsign":"DP0MVB",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"NLLB-8107-5146-3533-6638"
   },
   {

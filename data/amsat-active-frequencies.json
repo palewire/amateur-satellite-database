@@ -1040,16 +1040,6 @@
     "satnogs_id":"TNXT-1653-3073-9102-5159"
   },
   {
-    "name":"Delfi-PQ",
-    "norad_id":"51074",
-    "uplink":null,
-    "downlink":"436.650",
-    "beacon":null,
-    "mode":"1k2*\/2k4\/19k2 FSK",
-    "callsign":"DLFIPQ",
-    "satnogs_id":"CEIC-4073-2863-5971-9670"
-  },
-  {
     "name":"DEWASat-2",
     "norad_id":"56180",
     "uplink":null,
