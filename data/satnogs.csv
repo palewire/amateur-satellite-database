@@ -1829,3 +1829,7 @@ QZRL-4914-4557-2700-9931,98911.0,,DORA,Deployable Optical Receiver Aperture,,fut
 NTJV-2293-0787-8038-8343,98912.0,,EagleSat-2,,,future,,2024-03-21T20:54:00Z,,https://prescott.erau.edu/about/labs/axfab-eaglesat,None,US,[],2024-03-20T07:14:37.656021Z,Add temporary NORAD ID,False,[]
 IXDJ-0518-1708-5570-4903,58323.0,,Observer-1A,2023-174BV,,alive,,2023-11-11T00:00:00Z,2023-11-11T00:00:00Z,,None,KR,[],2024-03-18T17:37:42.442971Z,https://docs.google.com/document/d/1oOaeBwuv40t-MFTyn1oRCUHLVQU16Rj-zyabRzfPdHk/edit?usp=sharing,False,[]
 TSNV-0315-9484-4584-5244,59133.0,,Object AM - Transporter 10,2024-043AM,,alive,,2024-03-04T00:00:00Z,2024-03-04T00:00:00Z,,None,,[],2024-03-20T08:31:20.907999Z,Update info of satellite,False,[]
+ULXJ-3607-8804-2760-2173,2866.0,,LES-5,Lincoln Experimental Satellite 5,,alive,,1967-07-01T00:00:00Z,,,None,US,[],2024-03-21T19:57:05.681819Z,https://destevez.net/2020/03/decoding-les-5/,False,[]
+STUV-2623-2109-5602-4931,29601.0,,NAVSTAR 59,"GPS BIIRM-3, PRN 12, USA 192",,alive,,2006-11-17T00:00:00Z,,,None,US,[],2024-03-21T19:56:40.170081Z,Adjust names,False,[]
+LBSD-3579-1469-0286-7703,28474.0,,NAVSTAR 56,"GPS BIIR-13, PRN 02, USA 180",,alive,,2004-11-06T00:00:00Z,,,None,US,[],2024-03-21T19:54:20.282819Z,Adjust names,False,[]
+NHCY-5462-1712-7720-3251,40315.0,,COSMOS 2501,GLONASS-K 2,,alive,,2014-11-30T00:00:00Z,,,None,RU,[],2024-03-21T19:48:52.372221Z,Fix names,False,[]

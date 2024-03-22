@@ -43635,5 +43635,101 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"ULXJ-3607-8804-2760-2173",
+    "norad_cat_id":2866.0,
+    "norad_follow_id":null,
+    "name":"LES-5",
+    "names":"Lincoln Experimental Satellite 5",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"1967-07-01T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-21T19:57:05.681819Z",
+    "citation":"https:\/\/destevez.net\/2020\/03\/decoding-les-5\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"STUV-2623-2109-5602-4931",
+    "norad_cat_id":29601.0,
+    "norad_follow_id":null,
+    "name":"NAVSTAR 59",
+    "names":"GPS BIIRM-3, PRN 12, USA 192",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2006-11-17T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-21T19:56:40.170081Z",
+    "citation":"Adjust names",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LBSD-3579-1469-0286-7703",
+    "norad_cat_id":28474.0,
+    "norad_follow_id":null,
+    "name":"NAVSTAR 56",
+    "names":"GPS BIIR-13, PRN 02, USA 180",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2004-11-06T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-21T19:54:20.282819Z",
+    "citation":"Adjust names",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NHCY-5462-1712-7720-3251",
+    "norad_cat_id":40315.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2501",
+    "names":"GLONASS-K 2",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-11-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-21T19:48:52.372221Z",
+    "citation":"Fix names",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
