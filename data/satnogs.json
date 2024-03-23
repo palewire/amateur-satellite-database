@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -43279,7 +43279,7 @@
   {
     "sat_id":"NYZJ-8632-3700-9779-7966",
     "norad_cat_id":98925.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59129.0,
     "name":"APEX ARIES 1",
     "names":"",
     "image":"",
@@ -43293,8 +43293,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.512953Z",
-    "citation":"Change status to alive",
+    "updated":"2024-03-23T11:27:03.457929Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
