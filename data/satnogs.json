@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -43727,6 +43727,30 @@
     ],
     "updated":"2024-03-21T19:48:52.372221Z",
     "citation":"Fix names",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VJEO-2267-0278-7674-4965",
+    "norad_cat_id":55014.0,
+    "norad_follow_id":null,
+    "name":"Lemur 2 Disclaimer",
+    "names":"2023-01-03",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":"2023-01-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-22T18:01:20.174577Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1XFZB-YpUNmCZjh9dRBhhpJ2arPKjwcY7q17BI0DMwmQ\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
