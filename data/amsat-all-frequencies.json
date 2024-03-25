@@ -16302,6 +16302,28 @@
     "satnogs_id":"ILWB-0355-7294-3027-0757"
   },
   {
+    "name":"Ten-Koh2",
+    "norad_id":null,
+    "uplink":"145.895-145.935",
+    "downlink":"435.875-435.915",
+    "beacon":"435.895",
+    "mode":"4k8-38k4_GMSK 38k4_4FSK Digitalker",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Ten-Koh2",
+    "norad_id":null,
+    "uplink":"145.895-145.935",
+    "downlink":"435.875-435.915",
+    "beacon":"5839.000",
+    "mode":"CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"TEPCE-1\/2",
     "norad_id":null,
     "uplink":null,
