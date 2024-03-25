@@ -43755,5 +43755,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GYFZ-4548-8918-4190-2860",
+    "norad_cat_id":58818.0,
+    "norad_follow_id":null,
+    "name":"QAEM 100 R\/B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/en.wikipedia.org\/wiki\/Qaem_100",
+    "operator":"None",
+    "countries":"IR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-25T10:20:32.152552Z",
+    "citation":"STRF obs shows 70cm activity on 435.000 and 437.540",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
