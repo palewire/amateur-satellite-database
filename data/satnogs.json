@@ -43159,7 +43159,7 @@
   {
     "sat_id":"IQOY-7969-6018-3429-4654",
     "norad_cat_id":98918.0,
-    "norad_follow_id":59107.0,
+    "norad_follow_id":59108.0,
     "name":"BRO-12",
     "names":"",
     "image":"",
@@ -43173,8 +43173,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-15T17:56:48.687574Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-25T19:28:16.523922Z",
+    "citation":"Network observations and PE2BEZ strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43183,7 +43183,7 @@
   {
     "sat_id":"KSFC-2018-1319-4536-1314",
     "norad_cat_id":98919.0,
-    "norad_follow_id":59108.0,
+    "norad_follow_id":59107.0,
     "name":"BRO-13",
     "names":"",
     "image":"",
@@ -43197,8 +43197,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-15T17:57:07.225616Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-03-25T19:28:06.736284Z",
+    "citation":"Network observations and PE2BEZ strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
