@@ -5489,6 +5489,28 @@
     "satnogs_id":"SABJ-3457-7659-3993-3753"
   },
   {
+    "name":"ERMINAZ-1U",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.775",
+    "beacon":null,
+    "mode":"9k6-19k2 GFSK GMSK QPSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"ERMINAZ-1V",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.965",
+    "beacon":null,
+    "mode":"9k6-19k2 GFSK GMSK QPSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"ESAIL",
     "norad_id":"46273",
     "uplink":null,
@@ -17284,7 +17306,7 @@
     "name":"UmKA-1",
     "norad_id":"57172",
     "uplink":null,
-    "downlink":"435.825\/437.625*",
+    "downlink":"435.825\/437.625*\/2402.000",
     "beacon":null,
     "mode":"2k4\/4k8\/9k6* GMSK_USP SSTV",
     "callsign":"RS40S",

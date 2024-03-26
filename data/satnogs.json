@@ -42223,7 +42223,7 @@
   {
     "sat_id":"LVDX-5742-4985-8995-0164",
     "norad_cat_id":98956.0,
-    "norad_follow_id":59146.0,
+    "norad_follow_id":59145.0,
     "name":"PY4-3",
     "names":"",
     "image":"satellites\/PY4_Xk7lZzk.png",
@@ -42237,8 +42237,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-19T23:18:05.302210Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-10-rideshare-vsfb-slc-4e-2024-03-04-22-05-utc\/11375\/67",
+    "updated":"2024-03-26T01:37:16.529253Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-10-rideshare-vsfb-slc-4e-2024-03-04-22-05-utc\/11375\/70",
     "is_frequency_violator":false,
     "associated_satellites":[
 
