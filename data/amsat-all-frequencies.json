@@ -11418,6 +11418,17 @@
     "satnogs_id":null
   },
   {
+    "name":"PARS-1",
+    "norad_id":"59065",
+    "uplink":null,
+    "downlink":"145.000\/2221.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"SUWO-0538-8117-4734-1584"
+  },
+  {
     "name":"Parus-MGTU",
     "norad_id":"58173",
     "uplink":null,
