@@ -43779,5 +43779,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"NIPW-8425-7001-2213-0488",
+    "norad_cat_id":59100.0,
+    "norad_follow_id":null,
+    "name":"Object C",
+    "names":"2024-043C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":"2024-03-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-28T14:06:15.557245Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/18ZbYKB-ICYSJM0dYH4JY_TdhRzPfFXShq-LEEd3yWuw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JIUX-8369-4848-5352-0547",
+    "norad_cat_id":59102.0,
+    "norad_follow_id":null,
+    "name":"Object E",
+    "names":"2024-043E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":"2024-03-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-03-28T18:29:51.059695Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1qIlv5cz1RLna8rdEvLEvKrW8_I7TY6sZKox0AFmiOz0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
