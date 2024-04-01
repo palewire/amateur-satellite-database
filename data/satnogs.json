@@ -42895,7 +42895,7 @@
   {
     "sat_id":"GQFZ-9350-0430-5515-5385",
     "norad_cat_id":98934.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59145.0,
     "name":"MH-1",
     "names":"AEROS",
     "image":"",
@@ -42909,8 +42909,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.738568Z",
-    "citation":"Change status to alive",
+    "updated":"2024-04-01T10:36:52.625140Z",
+    "citation":"https:\/\/community.libre.space\/t\/wrong-tle-and-wrong-catalog-number-for-satellite-mh-1\/11566",
     "is_frequency_violator":false,
     "associated_satellites":[
 
