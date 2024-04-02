@@ -29128,8 +29128,8 @@
     "name":"FLOCK 4V 17",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-14T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -29138,8 +29138,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-31T10:41:36.220703Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-04-02T11:57:09.069579Z",
+    "citation":"Spacetrack",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43823,6 +43823,54 @@
     ],
     "updated":"2024-03-28T18:29:51.059695Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1qIlv5cz1RLna8rdEvLEvKrW8_I7TY6sZKox0AFmiOz0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JBRU-8606-2586-9658-4984",
+    "norad_cat_id":47932.0,
+    "norad_follow_id":null,
+    "name":"CAS500-1",
+    "names":"2021-022A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-03-22T00:00:00Z",
+    "deployed":"2021-03-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-02T11:54:25.397049Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1-4rbHlqdWUSyIlkKemveUiqpl8BYrCFyIDSZPnhzDRI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MRPP-0177-8730-4342-4895",
+    "norad_cat_id":58305.0,
+    "norad_follow_id":null,
+    "name":"FLOCK 4Q 18",
+    "names":"2023-174BB",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-02T11:52:27.046368Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1lc1I_erIm0u-FIysx_J4mQn8boqQmjMhux_cHsKXP2Y\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
