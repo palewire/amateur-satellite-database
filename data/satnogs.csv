@@ -182,7 +182,7 @@ RDIC-7328-2264-5570-1961,40961.0,,JILIN 1,Jilin-1 Guangxe-A (Jilin-1 Optical-A),
 VQGN-3314-0779-1450-1457,40967.0,,FOX-1A,AO-85,satellites/Fox-1A.png,alive,,2015-10-08T00:00:00Z,,,None,US,[{'decoder': 'fox'}],2022-04-25T16:31:47.938481Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 IGGV-1318-5974-9239-7350,40968.0,,BISONSAT,N7SKC,satellites/BISONSAT.jpg,alive,,2015-10-08T00:00:00Z,,https://cubesat.skc.edu/,None,US,[],2022-04-25T16:23:16.405420Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 VTHG-6292-4004-9767-5017,41168.0,,ATHENOXAT 1,ATX1,satellites/athenoxat-1__1.jpg,re-entered,2023-08-09T00:28:40Z,2015-12-16T00:00:00Z,,http://www.micro-space.org,None,SG,[],2023-08-09T09:00:51.422334Z,Obs,False,[]
-GMGG-8364-0705-0161-3298,41170.0,,GALASSIA,,satellites/galassia__2.jpg,alive,,2015-12-16T00:00:00Z,,,None,SG,[],2023-01-11T20:58:44.574395Z,CITATION NEEDED - https://xkcd.com/285/,True,[]
+GMGG-8364-0705-0161-3298,41170.0,,GALASSIA,,satellites/galassia__2.jpg,re-entered,2023-12-19T00:00:00Z,2015-12-16T00:00:00Z,,,None,SG,[],2024-04-01T18:31:19.037123Z,celestrak.org,True,[]
 DSGN-7978-0500-3017-5294,41171.0,,VELOX 2,VELOX2,satellites/VELOX-2.jpg,alive,,2015-12-16T00:00:00Z,,https://www.eoportal.org/satellite-missions/velox-2#velox-ii,None,SG,[],2023-05-28T15:10:05.421247Z,https://www.eoportal.org/satellite-missions/velox-2#velox-ii,False,[]
 YHMC-8015-3517-5780-3458,41313.0,,AGGIESAT 4,,satellites/AGGIESAT-4.jpg,re-entered,2018-03-12T00:00:00Z,,,,None,,[],2021-07-21T10:11:42.256954Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 VUBS-5290-2027-7355-7261,41338.0,,CHUBUSAT-2,JJ2YPN,satellites/chubusat-2__1.jpg,alive,,,,,None,,[],2021-07-21T10:11:42.258726Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
