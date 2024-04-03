@@ -3884,7 +3884,7 @@
     ],
     "updated":"2023-05-06T18:54:08.538215Z",
     "citation":"https:\/\/amsat-uk.org\/satellites\/comms\/camsat-xw-2\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -3980,7 +3980,7 @@
     ],
     "updated":"2023-06-12T10:30:53.889816Z",
     "citation":"https:\/\/www.amsat.org\/camsat-announces-mid-july-launch-with-six-uv-transponders\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -8546,7 +8546,7 @@
     ],
     "updated":"2023-01-01T16:11:35.774059Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -9234,7 +9234,7 @@
     ],
     "updated":"2022-04-25T16:31:47.874261Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -19642,7 +19642,7 @@
     ],
     "updated":"2022-04-15T21:13:09.003560Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -42919,7 +42919,7 @@
   {
     "sat_id":"LOCF-3327-7028-4700-0103",
     "norad_cat_id":98933.0,
-    "norad_follow_id":59141.0,
+    "norad_follow_id":59117.0,
     "name":"CONTECSAT-1",
     "names":"OREUM",
     "image":"satellites\/OreumSat.jpg",
@@ -42933,8 +42933,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-15T17:58:57.602424Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-04-03T08:37:33.502058Z",
+    "citation":"Citation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
