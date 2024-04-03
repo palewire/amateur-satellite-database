@@ -4498,18 +4498,18 @@
     "name":"OUFTI-1",
     "names":"",
     "image":"satellites\/OUFTI-1_p7CDjND.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-03-14T00:00:00Z",
+    "launched":"2016-04-25T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.eoportal.org\/satellite-missions\/oufti-1#spacecraft",
     "operator":"None",
-    "countries":"",
+    "countries":"BE",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.263891Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-04-02T14:23:51.341541Z",
+    "citation":"Spacetrack",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43757,6 +43757,150 @@
     ]
   },
   {
+    "sat_id":"PTXT-6589-8009-3343-3231",
+    "norad_cat_id":58903.0,
+    "norad_follow_id":null,
+    "name":"Lemur 2 CAEL",
+    "names":"2024-022E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-01-31T00:00:00Z",
+    "deployed":"2024-01-31T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-02T14:33:26.475290Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1-irGqOfJTHGmKTDDQ19zE9hIrjYT4IQXRe1DNX_Cl-U\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XNKE-0933-6393-1572-7318",
+    "norad_cat_id":56977.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 AADAN-ALIYAH",
+    "names":"2023-084AX",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":"2023-06-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-02T14:33:16.153286Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1WZWBioOClFBtl0cCEX_TxXndPs5FGANkRwa1R-tO57Y\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IIQO-2729-8800-7941-9942",
+    "norad_cat_id":59098.0,
+    "norad_follow_id":null,
+    "name":"HORACIO",
+    "names":"2024-043A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":"2024-03-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-02T14:32:48.887004Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ic_mXxWIIByZgJ5p-2Ae2EQXBpP11OABWAaWv66A8sw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GTND-7907-1077-6468-2573",
+    "norad_cat_id":98908.0,
+    "norad_follow_id":null,
+    "name":"Kilick 1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-21T20:54:00Z",
+    "deployed":null,
+    "website":"http:\/\/web.archive.org\/web\/20200925173011\/https:\/\/www.engr.mun.ca\/~killick1\/",
+    "operator":"None",
+    "countries":"CA",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-02T14:28:26.014520Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VEZG-0087-1875-4021-3420",
+    "norad_cat_id":98909.0,
+    "norad_follow_id":null,
+    "name":"QMSat",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-21T20:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=752",
+    "operator":"None",
+    "countries":"CA",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-02T14:27:50.772973Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TRUB-3074-0992-5108-6608",
+    "norad_cat_id":98910.0,
+    "norad_follow_id":null,
+    "name":"VIOLET",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-21T20:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.unb.ca\/initiatives\/cubesat\/radio.html",
+    "operator":"None",
+    "countries":"CA",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-02T14:26:57.382112Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"GYFZ-4548-8918-4190-2860",
     "norad_cat_id":58818.0,
     "norad_follow_id":null,
@@ -43799,6 +43943,30 @@
     ],
     "updated":"2024-03-28T14:06:15.557245Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/18ZbYKB-ICYSJM0dYH4JY_TdhRzPfFXShq-LEEd3yWuw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MPEW-7006-9645-6140-4097",
+    "norad_cat_id":56947.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X30",
+    "names":"2023-084R",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":"2023-06-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-02T14:24:46.409565Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1T2nAL4V6veuh5va5dxVcROqBwjQ_oXtRyY1Q23UfTRc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
