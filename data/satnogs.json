@@ -44043,5 +44043,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"BRGA-9299-0428-6736-3326",
+    "norad_cat_id":58825.0,
+    "norad_follow_id":null,
+    "name":"Object F",
+    "names":"2024-016F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-01-23T00:00:00Z",
+    "deployed":"2024-01-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-04T13:59:47.078163Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1FVBr9d6P8hZ80h4f0WbO3Ua33uWbJ1g-MeaEX2yCSl4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
