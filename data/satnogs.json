@@ -3968,7 +3968,7 @@
     "name":"XW-2F",
     "names":"CAS-3F",
     "image":"satellites\/XW-2F.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2015-09-19T00:00:00Z",
     "deployed":null,
@@ -3978,8 +3978,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T10:30:53.889816Z",
-    "citation":"https:\/\/www.amsat.org\/camsat-announces-mid-july-launch-with-six-uv-transponders\/",
+    "updated":"2024-04-05T07:31:57.460149Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -19013,10 +19013,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
