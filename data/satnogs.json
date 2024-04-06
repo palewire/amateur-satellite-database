@@ -19013,10 +19013,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -44063,6 +44063,30 @@
     ],
     "updated":"2024-04-04T13:59:47.078163Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1FVBr9d6P8hZ80h4f0WbO3Ua33uWbJ1g-MeaEX2yCSl4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KCZB-1791-3572-6915-1430",
+    "norad_cat_id":59130.0,
+    "norad_follow_id":null,
+    "name":"Ghost 5",
+    "names":"20224-043AJ",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":"2024-03-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-06T08:50:18.946691Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1m_P86yDF2tgiC_vWcdW0NQfqRsbRWM-6T6XFIORRzxM\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
