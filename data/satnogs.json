@@ -3969,7 +3969,7 @@
     "names":"CAS-3F",
     "image":"satellites\/XW-2F.jpg",
     "status":"re-entered",
-    "decayed":null,
+    "decayed":"2024-04-01T00:00:00Z",
     "launched":"2015-09-19T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat.org\/camsat-announces-mid-july-launch-with-six-uv-transponders\/",
@@ -3978,8 +3978,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-05T07:31:57.460149Z",
-    "citation":"space-track.org",
+    "updated":"2024-04-07T10:12:43.234578Z",
+    "citation":"According to AMSAT BB list",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -19502,8 +19502,8 @@
     "name":"AlfaCrux",
     "names":"",
     "image":"satellites\/FPGhl_XX0AwtWaO.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-05T00:00:00Z",
     "launched":"2022-04-01T16:24:00Z",
     "deployed":"2022-04-01T16:54:00Z",
     "website":"https:\/\/lodestar.aerospace.unb.br\/projects\/alfacrux",
@@ -19512,8 +19512,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-05-18T20:41:23.575521Z",
-    "citation":"https:\/\/lodestar.aerospace.unb.br",
+    "updated":"2024-04-07T10:07:39.242738Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "QZDE-8705-8370-1991-7839",

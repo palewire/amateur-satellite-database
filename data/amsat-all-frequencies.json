@@ -9793,11 +9793,11 @@
     "name":"Monitor-2",
     "norad_id":"57184",
     "uplink":null,
-    "downlink":"435.000\/435.815\/435.915",
+    "downlink":"435.000\/435.815*\/435.915",
     "beacon":null,
-    "mode":"1k2 AFSK\/9k6 FSK",
+    "mode":"1k2*AFSK\/9k6 FSK",
     "callsign":"RS39S",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"SCGK-1611-0139-1871-0649"
   },
   {
@@ -9806,7 +9806,7 @@
     "uplink":null,
     "downlink":"435.290",
     "beacon":null,
-    "mode":"2k4*-9k6 GMSK_USP",
+    "mode":"4k8*\/9k6 GMSK_USP",
     "callsign":null,
     "status":"active",
     "satnogs_id":"KPMW-9188-6390-9743-3148"
@@ -9817,9 +9817,9 @@
     "uplink":null,
     "downlink":"436.080",
     "beacon":null,
-    "mode":"2k4-9k6 GMSK_USP",
+    "mode":"4k8*\/9k6 GMSK_USP",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"PJTC-6029-0615-1270-1207"
   },
   {
@@ -13671,6 +13671,17 @@
     "callsign":"SNSAT",
     "status":"re-entered",
     "satnogs_id":"NIOX-2801-2640-1045-2883"
+  },
+  {
+    "name":"Saturn",
+    "norad_id":"57174",
+    "uplink":null,
+    "downlink":"435.790",
+    "beacon":null,
+    "mode":"1200bps AFSK",
+    "callsign":"RS43S",
+    "status":"active",
+    "satnogs_id":"KATA-8177-7690-1660-7290"
   },
   {
     "name":"SaudiSat-1A",
