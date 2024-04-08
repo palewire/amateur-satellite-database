@@ -7062,8 +7062,8 @@
     "name":"CNUSAIL-1",
     "names":"PAPI",
     "image":"satellites\/CNUSail-1.JPG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-28T00:00:00Z",
     "launched":"2018-01-12T00:00:00Z",
     "deployed":"2018-01-12T00:00:00Z",
     "website":"https:\/\/sites.google.com\/view\/cnuusg\/research\/cnusail-1-cubesat",
@@ -7072,8 +7072,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-10T14:10:34.037268Z",
-    "citation":"Update CNUSail-1 Info",
+    "updated":"2024-04-07T17:10:24.094812Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43133",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -15844,9 +15844,9 @@
     "name":"GREEN DIAMOND",
     "names":"",
     "image":"satellites\/3-diamonds__1.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-04-05T00:00:00Z",
+    "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -15854,8 +15854,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-14T08:48:01.600537Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-04-07T17:10:01.223173Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44401",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -15892,8 +15892,8 @@
     "name":"CORVUS BC5",
     "names":"Landmapper-BC 5",
     "image":"satellites\/corvus-bc__1_Yd7IHkg.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-28T00:00:00Z",
     "launched":"2020-11-20T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -15902,8 +15902,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-12T07:22:47.279733Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-04-07T17:09:35.299700Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46931",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17332,8 +17332,8 @@
     "name":"Tianyi-16",
     "names":"2019-087C - Unknown Satellite",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-28T00:00:00Z",
     "launched":"2019-12-07T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -17342,8 +17342,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-09-10T20:17:38.916457Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-04-07T17:07:53.192629Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44840",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19236,10 +19236,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -21302,8 +21302,8 @@
     "name":"SPACEBEE-100",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-14T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/swarm.space\/",
@@ -21312,8 +21312,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T14:18:00.335522Z",
-    "citation":"https:\/\/swarm.space\/",
+    "updated":"2024-04-07T17:08:46.848902Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=48883",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22290,8 +22290,8 @@
     "name":"Monitor-1",
     "names":"SXC3-212, RS32S, MGU",
     "image":"satellites\/monitor-1.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-23T02:00:00Z",
     "launched":"2022-08-09T08:52:38Z",
     "deployed":"2022-08-09T00:00:00Z",
     "website":"",
@@ -22300,8 +22300,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-14T01:53:31.097885Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53374\/2022-08-13T23%3A35%3A45_6325548_53374_22096E_0-OBJECT-E_0.45541489222222253_B_r24.0_f0.8.png",
+    "updated":"2024-04-07T17:01:31.728184Z",
+    "citation":"https:\/\/r4uab.ru\/2024\/03\/23\/segodnya-sojdyot-s-orbity-chetvyortyj-sputnik-proekta-space-pi-monitor-1-rs32s\/",
     "is_frequency_violator":true,
     "associated_satellites":[
       "PLXO-2049-7167-8121-0620"
@@ -24265,7 +24265,7 @@
     "name":"Ping'an 3",
     "names":"Object A",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
@@ -24275,8 +24275,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-01T10:43:57.843828Z",
-    "citation":"JM",
+    "updated":"2024-04-07T17:07:38.293645Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=53367",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28816,8 +28816,8 @@
     "name":"LEMUR 2 DUSTINTHEWIND",
     "names":"LEMUR 2 102",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-28T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28826,8 +28826,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.157544Z",
-    "citation":"www.spire.com",
+    "updated":"2024-04-07T17:04:56.056587Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44405",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28840,8 +28840,8 @@
     "name":"LEMUR 2 RUAIRI EILIDH",
     "names":"LEMUR 2 135",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-28T00:00:00Z",
     "launched":"2021-01-24T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28850,8 +28850,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.272777Z",
-    "citation":"www.spire.com",
+    "updated":"2024-04-07T17:06:31.220580Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=47511",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29970,8 +29970,8 @@
     "name":"GLOBAL-8",
     "names":"BlackSky 6",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-01T00:00:00Z",
     "launched":"2020-08-07T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.blacksky.com\/",
@@ -29980,8 +29980,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:58:28.625568Z",
-    "citation":"https:\/\/www.blacksky.com\/",
+    "updated":"2024-04-07T17:02:46.778466Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46089",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34875,8 +34875,8 @@
     "name":"Flock 4S 29",
     "names":"2021-006DL",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-27T00:00:00Z",
     "launched":"2021-01-24T00:00:00Z",
     "deployed":"2021-01-24T00:00:00Z",
     "website":"",
@@ -34885,8 +34885,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-14T19:02:53.386470Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1M98nL1tqdDSKHXgEOdgenRbRC9grNWJfr4zDTR90lqk\/edit?usp=sharing",
+    "updated":"2024-04-07T17:02:22.045147Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=47520",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41579,8 +41579,8 @@
     "name":"BeliefSat-0",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-03-21T00:00:00Z",
     "launched":"2024-01-01T03:40:00Z",
     "deployed":null,
     "website":"https:\/\/github.com\/NewLeapKjsieit\/BeliefSat-0\/",
@@ -41589,8 +41589,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-21T16:06:44.055321Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/271",
+    "updated":"2024-04-07T17:02:01.181815Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=58695",
     "is_frequency_violator":false,
     "associated_satellites":[
       "ICRE-7925-9783-3171-0315"
@@ -44087,6 +44087,54 @@
     ],
     "updated":"2024-04-06T08:50:18.946691Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1m_P86yDF2tgiC_vWcdW0NQfqRsbRWM-6T6XFIORRzxM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CLOQ-0995-4096-9502-6975",
+    "norad_cat_id":40017.0,
+    "norad_follow_id":null,
+    "name":"TabletSat-Aurora",
+    "names":"RS13S",
+    "image":"satellites\/1280px-SPUTNIX_TabletSat-Aurora.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-06-19T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/sputnix.ru\/ru\/sputniki\/na-orbite\/tabletsat-avrora",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-07T17:11:14.942875Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=40017",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZETQ-9103-3524-7152-2565",
+    "norad_cat_id":38861.0,
+    "norad_follow_id":null,
+    "name":"SJ-9B",
+    "names":"2012-056B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2012-10-14T00:00:00Z",
+    "deployed":"2012-10-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-07T19:21:43.447399Z",
+    "citation":"https:\/\/db.satnogs.org\/satellite\/KPZZ-0499-2351-6546-5973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
