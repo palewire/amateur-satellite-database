@@ -3980,6 +3980,16 @@
     "satnogs_id":"AMWD-8238-3001-8498-3030"
   },
   {
+    "name":"Zorkiy-2M-2",
+    "norad_id":"59064",
+    "uplink":null,
+    "downlink":"401.027*\/401.070",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"S3806A",
+    "satnogs_id":"YKBC-6296-0803-1334-4704"
+  },
+  {
     "name":"Z-Sat",
     "norad_id":"49399",
     "uplink":"435.480",
