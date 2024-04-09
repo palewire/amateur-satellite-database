@@ -50,16 +50,6 @@
     "satnogs_id":"RERZ-6166-7809-6282-7939"
   },
   {
-    "name":"AlfaCrux",
-    "norad_id":"52160",
-    "uplink":"437.225",
-    "downlink":"437.100*\/437.225",
-    "beacon":null,
-    "mode":"4800bps FSK Digipeater",
-    "callsign":null,
-    "satnogs_id":"LVHV-7932-2909-1988-0093"
-  },
-  {
     "name":"AmicalSat",
     "norad_id":"46287",
     "uplink":null,
@@ -3888,16 +3878,6 @@
     "mode":"9k6 GMSK\/CW*",
     "callsign":"BJ1SF",
     "satnogs_id":"DTZR-4707-4114-9612-3004"
-  },
-  {
-    "name":"XW-2F",
-    "norad_id":"40910",
-    "uplink":"435.330-435.350",
-    "downlink":"146.000-145.980",
-    "beacon":"145.955\/145.975",
-    "mode":"9k6 GMSK\/CW*",
-    "callsign":"BJ1SG",
-    "satnogs_id":"YWAV-5902-3690-5734-3273"
   },
   {
     "name":"XW-3",

@@ -337,7 +337,7 @@
     "beacon":null,
     "mode":"4800bps FSK Digipeater",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"LVHV-7932-2909-1988-0093"
   },
   {
@@ -1954,7 +1954,7 @@
     "beacon":null,
     "mode":"1200bps FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -18322,7 +18322,7 @@
     "beacon":"145.955\/145.975",
     "mode":"9k6 GMSK\/CW*",
     "callsign":"BJ1SG",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"YWAV-5902-3690-5734-3273"
   },
   {
