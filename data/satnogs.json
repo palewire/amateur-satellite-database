@@ -44139,5 +44139,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"LSZL-5040-6372-8930-2241",
+    "norad_cat_id":98907.0,
+    "norad_follow_id":59451.0,
+    "name":"Unkown satellite from Bandwagon 1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-09T11:07:20.760154Z",
+    "citation":"PE0SAT strf observation",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

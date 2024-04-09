@@ -12376,7 +12376,7 @@
   },
   {
     "name":"PY4-1",
-    "norad_id":null,
+    "norad_id":"59138",
     "uplink":null,
     "downlink":"915.600",
     "beacon":null,
@@ -12387,7 +12387,7 @@
   },
   {
     "name":"PY4-2",
-    "norad_id":null,
+    "norad_id":"59139",
     "uplink":null,
     "downlink":"915.600",
     "beacon":null,
@@ -12398,7 +12398,7 @@
   },
   {
     "name":"PY4-3",
-    "norad_id":null,
+    "norad_id":"59145",
     "uplink":null,
     "downlink":"915.600",
     "beacon":null,
@@ -12409,7 +12409,7 @@
   },
   {
     "name":"PY4-4",
-    "norad_id":null,
+    "norad_id":"59144",
     "uplink":null,
     "downlink":"915.600",
     "beacon":null,
