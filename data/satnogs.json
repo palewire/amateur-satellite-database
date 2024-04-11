@@ -14573,7 +14573,7 @@
   {
     "sat_id":"SPCY-1830-0704-1757-6429",
     "norad_cat_id":99951.0,
-    "norad_follow_id":47967.0,
+    "norad_follow_id":47973.0,
     "name":"RAAF M2 B",
     "names":"",
     "image":"satellites\/raaf-m2__1_2ZA1DHC.jpg",
@@ -14587,8 +14587,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-19T06:16:30.680085Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-04-11T10:43:45.897686Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?NAME=m2-b",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19013,10 +19013,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
