@@ -19013,10 +19013,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -30448,20 +30448,20 @@
     "norad_cat_id":99197.0,
     "norad_follow_id":null,
     "name":"Kashiwa",
-    "names":"",
-    "image":"",
-    "status":"future",
+    "names":"JS1YMX, \u67cf",
+    "image":"satellites\/KASHIWA.jpg",
+    "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2024-03-23T10:21:00Z",
+    "deployed":"2024-04-11T10:41:00Z",
     "website":"https:\/\/sites.google.com\/view\/gardens-02\/english_ver\/home?pli=1",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2023-02-28T13:13:29.148097Z",
-    "citation":"Adding Temporary NORAD ID",
+    "updated":"2024-04-11T13:56:14.517196Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-28-2024-4-11-10-15-utc\/11610",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44160,6 +44160,102 @@
     "updated":"2024-04-09T11:07:20.760154Z",
     "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JLCL-0710-4090-6907-9407",
+    "norad_cat_id":98906.0,
+    "norad_follow_id":null,
+    "name":"CURTIS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2024-04-11T09:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-11T13:38:48.801301Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/kibouser\/pickout\/73904.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YBQI-2140-4595-2492-5336",
+    "norad_cat_id":98905.0,
+    "norad_follow_id":null,
+    "name":"MicroOrbiter-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2024-04-11T10:41:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-11T13:49:25.524466Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/kibouser\/pickout\/73904.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SAID-7205-3683-8017-9859",
+    "norad_cat_id":58997.0,
+    "norad_follow_id":null,
+    "name":"AAC-AIS-SAT3",
+    "names":"2023-174DJ",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-11T18:28:29.201644Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1S11dU78s5uk_dzrEuyId98IcNlwKhMoZzdyXzSC3kyY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IRLU-0882-3187-7500-3959",
+    "norad_cat_id":98904.0,
+    "norad_follow_id":null,
+    "name":"GAGARINEC",
+    "names":"RS85S, Gagarinets",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-11T18:43:20.459122Z",
+    "citation":"Add alternative name",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]

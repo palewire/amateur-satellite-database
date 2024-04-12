@@ -6496,8 +6496,8 @@
     "downlink":"145.825\/437.375",
     "beacon":null,
     "mode":"4800bps GMSK APRS",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"JS1YMX",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8366,8 +8366,8 @@
     "downlink":"145.825\/437.375",
     "beacon":null,
     "mode":"4800bps GMSK APRS",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"JS1YMX",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -9686,6 +9686,17 @@
     "downlink":"468.000",
     "beacon":null,
     "mode":"1.5Mbit\/s OQPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"MicroOrbiter-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"399.975\/920.000",
+    "beacon":null,
+    "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
