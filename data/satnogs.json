@@ -19450,7 +19450,7 @@
     "norad_follow_id":null,
     "name":"SpaceTeamSat1",
     "names":"STS1",
-    "image":"satellites\/CubeSat_Render3.png",
+    "image":"satellites\/STS1.png",
     "status":"future",
     "decayed":null,
     "launched":null,
@@ -19461,7 +19461,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-03-29T16:52:15.415633Z",
+    "updated":"2024-04-13T09:53:36.159763Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/223",
     "is_frequency_violator":false,
     "associated_satellites":[
