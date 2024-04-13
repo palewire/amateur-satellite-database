@@ -6468,6 +6468,17 @@
     "satnogs_id":null
   },
   {
+    "name":"GAGARINEC",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.000",
+    "beacon":null,
+    "mode":"4k8\/9k6*GMSK_USP",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"Galassia",
     "norad_id":"41170",
     "uplink":null,
@@ -8284,7 +8295,7 @@
   },
   {
     "name":"K2SAT",
-    "norad_id":"43761",
+    "norad_id":"43771",
     "uplink":"145.980",
     "downlink":"436.225\/2404.000",
     "beacon":"435.835",
@@ -9695,8 +9706,8 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"399.975\/920.000",
-    "beacon":null,
-    "mode":"LoRa",
+    "beacon":"400.960*",
+    "mode":"LoRa CW*",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -13850,14 +13861,14 @@
   },
   {
     "name":"SeeMe",
-    "norad_id":"43758",
+    "norad_id":null,
     "uplink":null,
     "downlink":"437.425\/2425.000",
     "beacon":"437.450",
     "mode":"CW",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":"XQNL-8221-6393-9116-3452"
+    "satnogs_id":null
   },
   {
     "name":"SelfieSat",
@@ -17876,14 +17887,14 @@
   },
   {
     "name":"VisionCube",
-    "norad_id":"43758",
+    "norad_id":null,
     "uplink":null,
     "downlink":"437.425",
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
     "status":"unkown",
-    "satnogs_id":"XQNL-8221-6393-9116-3452"
+    "satnogs_id":null
   },
   {
     "name":"Vizard",
