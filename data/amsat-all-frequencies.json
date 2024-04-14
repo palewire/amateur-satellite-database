@@ -4433,6 +4433,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CURTIS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.960",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"CUSat-1",
     "norad_id":"39266",
     "uplink":null,
@@ -6474,7 +6485,7 @@
     "downlink":"436.000",
     "beacon":null,
     "mode":"4k8\/9k6*GMSK_USP",
-    "callsign":null,
+    "callsign":"RS85S",
     "status":"active",
     "satnogs_id":null
   },
@@ -9705,9 +9716,9 @@
     "name":"MicroOrbiter-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"399.975\/920.000",
-    "beacon":"400.960*",
-    "mode":"LoRa CW*",
+    "downlink":"399.975\/922.100",
+    "beacon":null,
+    "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

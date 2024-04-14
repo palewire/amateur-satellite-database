@@ -44259,5 +44259,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"AFTO-1178-4365-7657-5409",
+    "norad_cat_id":58923.0,
+    "norad_follow_id":null,
+    "name":"24024G",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-14T07:46:17.177644Z",
+    "citation":"PE0SAT strf observation",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
