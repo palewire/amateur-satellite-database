@@ -30446,7 +30446,7 @@
   {
     "sat_id":"LZAR-9879-8329-7254-6929",
     "norad_cat_id":99197.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59483.0,
     "name":"Kashiwa",
     "names":"JS1YMX, \u67cf",
     "image":"satellites\/KASHIWA.jpg",
@@ -30460,8 +30460,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-11T13:56:14.517196Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-jaxa-j-ssod-28-2024-4-11-10-15-utc\/11610",
+    "updated":"2024-04-14T15:13:03.426585Z",
+    "citation":"Random choice to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44144,21 +44144,21 @@
     "sat_id":"LSZL-5040-6372-8930-2241",
     "norad_cat_id":98907.0,
     "norad_follow_id":59451.0,
-    "name":"Unkown satellite from Bandwagon 1",
+    "name":"Centauri 6",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-04-07T23:16:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-04-09T11:07:20.760154Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-04-14T15:50:13.389439Z",
+    "citation":"VK5Q1 and SV1QVE survey -  similar to CENTUARI 1 & 2 https:\/\/db.satnogs.org\/satellite\/UESS-5249-7079-4000-7571#transmitters",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44167,7 +44167,7 @@
   {
     "sat_id":"JLCL-0710-4090-6907-9407",
     "norad_cat_id":98906.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59507.0,
     "name":"CURTIS",
     "names":"",
     "image":"",
@@ -44181,8 +44181,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-11T13:38:48.801301Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/kibouser\/pickout\/73904.html",
+    "updated":"2024-04-14T15:07:05.020410Z",
+    "citation":"Ikhnos on network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44191,7 +44191,7 @@
   {
     "sat_id":"YBQI-2140-4595-2492-5336",
     "norad_cat_id":98905.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59508.0,
     "name":"MicroOrbiter-1",
     "names":"",
     "image":"",
@@ -44205,8 +44205,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-11T13:49:25.524466Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/kibouser\/pickout\/73904.html",
+    "updated":"2024-04-14T15:10:04.276724Z",
+    "citation":"Ikhnos on network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
