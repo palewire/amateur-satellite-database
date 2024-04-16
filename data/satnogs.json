@@ -43879,10 +43879,10 @@
   {
     "sat_id":"TRUB-3074-0992-5108-6608",
     "norad_cat_id":98910.0,
-    "norad_follow_id":null,
+    "norad_follow_id":25544.0,
     "name":"VIOLET",
-    "names":"",
-    "image":"",
+    "names":"VE9VLT",
+    "image":"satellites\/violet.png",
     "status":"alive",
     "decayed":null,
     "launched":"2024-03-21T20:54:00Z",
@@ -43893,8 +43893,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-02T14:26:57.382112Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-04-16T10:03:44.666492Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/284",
     "is_frequency_violator":false,
     "associated_satellites":[
 
