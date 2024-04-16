@@ -44355,5 +44355,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"DQBR-9109-6720-2771-2965",
+    "norad_cat_id":20322.0,
+    "norad_follow_id":null,
+    "name":"COBE",
+    "names":"1989-089A",
+    "image":"satellites\/Cosmic_Background_Explorer_spacecraft_model.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"1989-11-18T00:00:00Z",
+    "deployed":"1989-11-18T00:00:00Z",
+    "website":"https:\/\/ntrs.nasa.gov\/api\/citations\/19920003874\/downloads\/19920003874.pdf",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-15T18:08:24.009639Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1W9sjNQh2Nf3ma1r1A3ttdNpxYm6Pmx7UT79gUMLFZkg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
