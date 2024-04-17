@@ -716,7 +716,7 @@
     "downlink":"400.180",
     "beacon":null,
     "mode":"9600bps FSK",
-    "callsign":null,
+    "callsign":"FLEF1N",
     "satnogs_id":"ZJER-5082-9774-9829-7564"
   },
   {
@@ -725,9 +725,29 @@
     "uplink":null,
     "downlink":"400.180",
     "beacon":null,
-    "mode":"FSK",
-    "callsign":null,
+    "mode":"9600bps FSK",
+    "callsign":"FLEF2N",
     "satnogs_id":"AXQA-7364-6026-4427-9296"
+  },
+  {
+    "name":"Centauri-5",
+    "norad_id":"52742",
+    "uplink":null,
+    "downlink":"400.180",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"FLEF3N",
+    "satnogs_id":"PWFW-2275-1349-5417-9753"
+  },
+  {
+    "name":"Centauri-6",
+    "norad_id":"59451",
+    "uplink":null,
+    "downlink":"400.180",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"FLEF4N",
+    "satnogs_id":null
   },
   {
     "name":"CHOMPTT",
