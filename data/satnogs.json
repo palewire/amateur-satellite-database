@@ -19013,10 +19013,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -43733,6 +43733,102 @@
     ]
   },
   {
+    "sat_id":"VRMG-5837-8969-8165-1995",
+    "norad_cat_id":98900.0,
+    "norad_follow_id":25544.0,
+    "name":"BurstCube",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-21T20:54:00Z",
+    "deployed":"2024-04-18T11:26:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-18T09:12:43.842435Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GEGZ-9203-4627-0599-0475",
+    "norad_cat_id":98898.0,
+    "norad_follow_id":25544.0,
+    "name":"SNoOPI",
+    "names":"SigNals of Opportunity: P-band Investigation",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-21T20:54:00Z",
+    "deployed":"2024-04-18T11:26:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-18T09:12:45.216839Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZUAV-9462-1904-5734-0704",
+    "norad_cat_id":98899.0,
+    "norad_follow_id":25544.0,
+    "name":"HyTI",
+    "names":"Hyperspectral Thermal Imager",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-21T20:54:00Z",
+    "deployed":"2024-04-18T11:36:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-18T09:12:44.518216Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YJQI-7143-2488-2930-9322",
+    "norad_cat_id":98901.0,
+    "norad_follow_id":25544.0,
+    "name":"Big Red Sat-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-03-21T20:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/blogs.nasa.gov\/kennedy\/2024\/03\/18\/nasa-set-to-launch-four-cubesats-to-space-station\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-18T08:00:52.586310Z",
+    "citation":"Change status of satellite",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"VJEO-2267-0278-7674-4965",
     "norad_cat_id":55014.0,
     "norad_follow_id":null,
@@ -43831,11 +43927,11 @@
   {
     "sat_id":"GTND-7907-1077-6468-2573",
     "norad_cat_id":98908.0,
-    "norad_follow_id":null,
+    "norad_follow_id":25544.0,
     "name":"Kilick 1",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-03-21T20:54:00Z",
     "deployed":null,
@@ -43845,8 +43941,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-02T14:28:26.014520Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-04-18T08:00:54.708424Z",
+    "citation":"Change status of satellite",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43855,11 +43951,11 @@
   {
     "sat_id":"VEZG-0087-1875-4021-3420",
     "norad_cat_id":98909.0,
-    "norad_follow_id":null,
+    "norad_follow_id":25544.0,
     "name":"QMSat",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-03-21T20:54:00Z",
     "deployed":null,
@@ -43869,8 +43965,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-02T14:27:50.772973Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-04-18T08:00:55.130017Z",
+    "citation":"Change status of satellite",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43883,7 +43979,7 @@
     "name":"VIOLET",
     "names":"VE9VLT",
     "image":"satellites\/violet.png",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-03-21T20:54:00Z",
     "deployed":null,
@@ -43893,8 +43989,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-17T09:02:19.768138Z",
-    "citation":"Update description according to https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/284#note_1865234334",
+    "updated":"2024-04-18T08:00:57.773839Z",
+    "citation":"Change status of satellite",
     "is_frequency_violator":false,
     "associated_satellites":[
 
