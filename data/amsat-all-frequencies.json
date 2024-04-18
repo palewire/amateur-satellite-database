@@ -4445,11 +4445,11 @@
   },
   {
     "name":"CURTIS",
-    "norad_id":null,
+    "norad_id":"59483",
     "uplink":null,
-    "downlink":"400.960",
-    "beacon":null,
-    "mode":"FM",
+    "downlink":"2279.000",
+    "beacon":"400.964",
+    "mode":"FM CW",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -6524,11 +6524,11 @@
   },
   {
     "name":"Gardens-02",
-    "norad_id":null,
+    "norad_id":"59508",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":null,
-    "mode":"4800bps GMSK APRS",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":"JS1YMX",
     "status":"unknown",
     "satnogs_id":null
@@ -8394,11 +8394,11 @@
   },
   {
     "name":"KASHIWA",
-    "norad_id":null,
+    "norad_id":"59508",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":null,
-    "mode":"4800bps GMSK APRS",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":"JS1YMX",
     "status":"unknown",
     "satnogs_id":null
@@ -9725,11 +9725,11 @@
   },
   {
     "name":"MicroOrbiter-1",
-    "norad_id":null,
+    "norad_id":"59507",
     "uplink":null,
     "downlink":"399.975\/922.100",
-    "beacon":null,
-    "mode":"LoRa",
+    "beacon":"400.961",
+    "mode":"LoRa CW",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
