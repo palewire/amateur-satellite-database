@@ -4445,7 +4445,7 @@
   },
   {
     "name":"CURTIS",
-    "norad_id":"59483",
+    "norad_id":"59507",
     "uplink":null,
     "downlink":"2279.000",
     "beacon":"400.964",
@@ -9725,7 +9725,7 @@
   },
   {
     "name":"MicroOrbiter-1",
-    "norad_id":"59507",
+    "norad_id":"59483",
     "uplink":null,
     "downlink":"399.975\/922.100",
     "beacon":"400.961",

@@ -30446,7 +30446,7 @@
   {
     "sat_id":"LZAR-9879-8329-7254-6929",
     "norad_cat_id":99197.0,
-    "norad_follow_id":59483.0,
+    "norad_follow_id":59508.0,
     "name":"Kashiwa",
     "names":"JS1YMX, \u67cf",
     "image":"satellites\/KASHIWA.jpg",
@@ -30460,8 +30460,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-14T15:13:03.426585Z",
-    "citation":"Random choice to follow",
+    "updated":"2024-04-18T12:23:43.537758Z",
+    "citation":"https:\/\/celestrak.org\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42943,7 +42943,7 @@
   {
     "sat_id":"SGTS-7428-9120-3753-9994",
     "norad_cat_id":98932.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59121.0,
     "name":"ONDOSAT-OWL-1",
     "names":"",
     "image":"",
@@ -42957,8 +42957,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T22:48:52.366121Z",
-    "citation":"Fix website link",
+    "updated":"2024-04-18T14:36:00.164769Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -43735,7 +43735,7 @@
   {
     "sat_id":"VRMG-5837-8969-8165-1995",
     "norad_cat_id":98900.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"BurstCube",
     "names":"",
     "image":"",
@@ -43749,8 +43749,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T09:12:43.842435Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
+    "updated":"2024-04-18T12:28:40.786214Z",
+    "citation":"Remove followed NORAD ID as satellite is separated from ISS",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43759,7 +43759,7 @@
   {
     "sat_id":"GEGZ-9203-4627-0599-0475",
     "norad_cat_id":98898.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"SNoOPI",
     "names":"SigNals of Opportunity: P-band Investigation",
     "image":"",
@@ -43773,8 +43773,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T09:12:45.216839Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
+    "updated":"2024-04-18T12:28:46.008165Z",
+    "citation":"Remove followed NORAD ID as satellite is separated from ISS",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43783,7 +43783,7 @@
   {
     "sat_id":"ZUAV-9462-1904-5734-0704",
     "norad_cat_id":98899.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"HyTI",
     "names":"Hyperspectral Thermal Imager",
     "image":"",
@@ -43797,8 +43797,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T09:12:44.518216Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
+    "updated":"2024-04-18T12:28:42.878767Z",
+    "citation":"Remove followed NORAD ID as satellite is separated from ISS",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43811,18 +43811,18 @@
     "name":"Big Red Sat-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-03-21T20:54:00Z",
-    "deployed":null,
+    "deployed":"2024-04-18T18:05:00Z",
     "website":"https:\/\/blogs.nasa.gov\/kennedy\/2024\/03\/18\/nasa-set-to-launch-four-cubesats-to-space-station\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T08:00:52.586310Z",
-    "citation":"Change status of satellite",
+    "updated":"2024-04-18T17:03:05.684921Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43931,18 +43931,18 @@
     "name":"Kilick 1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-03-21T20:54:00Z",
-    "deployed":null,
+    "deployed":"2024-04-18T17:55:00Z",
     "website":"http:\/\/web.archive.org\/web\/20200925173011\/https:\/\/www.engr.mun.ca\/~killick1\/",
     "operator":"None",
     "countries":"CA",
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T08:00:54.708424Z",
-    "citation":"Change status of satellite",
+    "updated":"2024-04-18T17:02:58.887899Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43955,18 +43955,18 @@
     "name":"QMSat",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-03-21T20:54:00Z",
-    "deployed":null,
+    "deployed":"2024-04-18T17:55:00Z",
     "website":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=752",
     "operator":"None",
     "countries":"CA",
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T08:00:55.130017Z",
-    "citation":"Change status of satellite",
+    "updated":"2024-04-18T17:03:00.535027Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43979,18 +43979,18 @@
     "name":"VIOLET",
     "names":"VE9VLT",
     "image":"satellites\/violet.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-03-21T20:54:00Z",
-    "deployed":null,
+    "deployed":"2024-04-18T17:55:00Z",
     "website":"https:\/\/www.unb.ca\/initiatives\/cubesat\/radio.html",
     "operator":"None",
     "countries":"CA",
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T08:00:57.773839Z",
-    "citation":"Change status of satellite",
+    "updated":"2024-04-18T17:03:03.594689Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44287,7 +44287,7 @@
   {
     "sat_id":"YBQI-2140-4595-2492-5336",
     "norad_cat_id":98905.0,
-    "norad_follow_id":59508.0,
+    "norad_follow_id":59483.0,
     "name":"MicroOrbiter-1",
     "names":"",
     "image":"",
@@ -44301,8 +44301,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-14T15:10:04.276724Z",
-    "citation":"Ikhnos on network observations",
+    "updated":"2024-04-18T12:43:58.897038Z",
+    "citation":"Ikhnos results on https:\/\/network.satnogs.org\/observations\/9371357\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
