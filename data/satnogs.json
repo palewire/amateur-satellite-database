@@ -41147,8 +41147,8 @@
     "name":"CLARKSAT-1",
     "names":"JS1YLT, AMBITOUS",
     "image":"satellites\/Clark-Sat-1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-16T00:00:00Z",
     "launched":null,
     "deployed":"2023-12-18T10:15:00Z",
     "website":"https:\/\/sp.clark.ed.jp\/space\/",
@@ -41157,8 +41157,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-21T09:15:36.395981Z",
-    "citation":"space-track.org",
+    "updated":"2024-04-19T17:13:03.022214Z",
+    "citation":"own observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43807,7 +43807,7 @@
   {
     "sat_id":"YJQI-7143-2488-2930-9322",
     "norad_cat_id":98901.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"Big Red Sat-1",
     "names":"",
     "image":"",
@@ -43821,8 +43821,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T17:03:05.684921Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
+    "updated":"2024-04-19T14:38:54.008363Z",
+    "citation":"Remove following of ISS as the satellite has been deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43927,7 +43927,7 @@
   {
     "sat_id":"GTND-7907-1077-6468-2573",
     "norad_cat_id":98908.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"Kilick 1",
     "names":"",
     "image":"",
@@ -43941,8 +43941,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T17:02:58.887899Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
+    "updated":"2024-04-19T14:35:41.134738Z",
+    "citation":"Remove following of ISS as the satellite has been deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43951,7 +43951,7 @@
   {
     "sat_id":"VEZG-0087-1875-4021-3420",
     "norad_cat_id":98909.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"QMSat",
     "names":"",
     "image":"",
@@ -43965,8 +43965,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T17:03:00.535027Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
+    "updated":"2024-04-19T14:36:08.743912Z",
+    "citation":"Remove following of ISS as the satellite has been deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43975,7 +43975,7 @@
   {
     "sat_id":"TRUB-3074-0992-5108-6608",
     "norad_cat_id":98910.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"VIOLET",
     "names":"VE9VLT",
     "image":"satellites\/violet.png",
@@ -43989,8 +43989,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T17:03:03.594689Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640",
+    "updated":"2024-04-19T14:36:32.897080Z",
+    "citation":"Remove following of ISS as the satellite has been deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44471,6 +44471,30 @@
     ],
     "updated":"2024-04-15T18:08:24.009639Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1W9sjNQh2Nf3ma1r1A3ttdNpxYm6Pmx7UT79gUMLFZkg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KEPK-0638-7031-8448-3720",
+    "norad_cat_id":52755.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X24",
+    "names":"2022-057Z",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-05-25T00:00:00Z",
+    "deployed":"2022-05-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-19T14:50:04.430103Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/181iAo7rDqANl49cMUv6ragl6u32WxXJs9DDpe5S0Ptc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
