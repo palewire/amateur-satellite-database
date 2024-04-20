@@ -43786,19 +43786,19 @@
     "norad_follow_id":null,
     "name":"HyTI",
     "names":"Hyperspectral Thermal Imager",
-    "image":"",
+    "image":"satellites\/IMG_6231-400x300_wU6MS6D.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2024-03-21T20:54:00Z",
     "deployed":"2024-04-18T11:36:00Z",
-    "website":"",
+    "website":"https:\/\/www.hsfl.hawaii.edu\/missions\/hyti\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T12:28:42.878767Z",
-    "citation":"Remove followed NORAD ID as satellite is separated from ISS",
+    "updated":"2024-04-20T07:55:07.252017Z",
+    "citation":"HyTI before being packaged and delivered, to be launched to the International Space Station in 2024.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
