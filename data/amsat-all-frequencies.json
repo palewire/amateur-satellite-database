@@ -11144,7 +11144,7 @@
   },
   {
     "name":"ONDOSAT-OWL-1",
-    "norad_id":null,
+    "norad_id":"59121",
     "uplink":null,
     "downlink":"435.000",
     "beacon":"435.000",
@@ -11155,7 +11155,7 @@
   },
   {
     "name":"ONDOSAT-OWL-2",
-    "norad_id":null,
+    "norad_id":"59113",
     "uplink":null,
     "downlink":"435.000",
     "beacon":"435.000",
