@@ -282,7 +282,7 @@
     "beacon":null,
     "mode":"4k8\/9k6* FSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"RERZ-6166-7809-6282-7939"
   },
   {
@@ -3648,7 +3648,7 @@
     "beacon":"435.130",
     "mode":"4k8_GMSK Digitalker SSTV CW",
     "callsign":"JS1YLT",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"KYBX-1862-6587-7549-6363"
   },
   {
@@ -4449,9 +4449,9 @@
     "uplink":null,
     "downlink":"2279.000",
     "beacon":"400.964",
-    "mode":"FM CW",
+    "mode":"FM CW*",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -6528,9 +6528,9 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":null,
-    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YMX",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -8398,9 +8398,9 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":null,
-    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YMX",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9729,9 +9729,9 @@
     "uplink":null,
     "downlink":"399.975\/922.100",
     "beacon":"400.961",
-    "mode":"LoRa CW",
+    "mode":"LoRa CW*",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
