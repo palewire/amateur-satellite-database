@@ -15964,8 +15964,8 @@
     "name":"BLUE DIAMOND",
     "names":"",
     "image":"satellites\/3-diamonds__1_RbSozNz.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-17T00:00:00Z",
     "launched":"2017-06-23T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/skyandspace.co\/",
@@ -15974,8 +15974,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-13T13:25:19.266147Z",
-    "citation":"https:\/\/en.wikipedia.org\/wiki\/Sky_and_Space_Global",
+    "updated":"2024-04-22T16:05:47.128535Z",
+    "citation":"According to the last available TLE from space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16421,7 +16421,7 @@
     "names":"",
     "image":"satellites\/3-diamonds__1_zlD3Yoe.jpg",
     "status":"alive",
-    "decayed":null,
+    "decayed":"2024-05-04T00:00:00Z",
     "launched":"2017-06-23T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16430,8 +16430,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-14T08:48:01.571954Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-04-22T16:03:36.824507Z",
+    "citation":"Decay date from space-track",
     "is_frequency_violator":false,
     "associated_satellites":[
 
