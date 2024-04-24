@@ -44499,5 +44499,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"EYEX-3123-7466-3755-9687",
+    "norad_cat_id":98897.0,
+    "norad_follow_id":null,
+    "name":"ACS3",
+    "names":"Advanced Composite Solar Sail System",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-04-23T21:30:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-23T22:30:27.569404Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60649.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EJOF-3230-5676-4528-8529",
+    "norad_cat_id":98896.0,
+    "norad_follow_id":null,
+    "name":"NeonSat-1",
+    "names":"New-space Earth Observation Satellite-1",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-04-23T21:30:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-23T22:30:13.321543Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60649.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
