@@ -9222,8 +9222,8 @@
     "name":"AISTECHSAT-3",
     "names":"Danu Pathfinder",
     "image":"satellites\/DanuPathfinder-596x1024.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-23T00:00:00Z",
     "launched":"2019-04-01T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/www.aistechspace.com\/",
@@ -9232,8 +9232,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-04-25T16:31:47.874261Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-04-25T10:05:18.011796Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -11258,10 +11258,10 @@
     "norad_cat_id":47311.0,
     "norad_follow_id":null,
     "name":"FOX-1E",
-    "names":"AO-109\r\nRADFXSAT-2",
+    "names":"AO-109RADFXSAT-2",
     "image":"satellites\/RADFXSAT-2.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-24T00:00:00Z",
     "launched":"2021-01-17T19:18:19Z",
     "deployed":"2021-01-17T19:18:20Z",
     "website":"",
@@ -11270,8 +11270,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.860804Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-04-25T10:11:28.333306Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16276,8 +16276,8 @@
     "name":"KEPLER-0",
     "names":"KIPP",
     "image":"satellites\/kepler-1__2.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-12T00:00:00Z",
     "launched":"2018-01-19T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16286,8 +16286,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-14T08:48:01.624994Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-04-25T10:05:42.486668Z",
+    "citation":"celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17116,8 +17116,8 @@
     "name":"GHALIB",
     "names":"",
     "image":"satellites\/ghalib__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-13T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -17126,8 +17126,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-21T07:28:30.305120Z",
-    "citation":"Eelke Survey",
+    "updated":"2024-04-25T10:09:15.377728Z",
+    "citation":"celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17356,8 +17356,8 @@
     "name":"2019-087E - Unknown Satellte",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-01T00:00:00Z",
     "launched":"2019-12-07T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -17366,8 +17366,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-02T18:40:03.021934Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-04-25T10:07:35.178357Z",
+    "citation":"celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18908,8 +18908,8 @@
     "name":"21091K Unknown Sat 2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-24T00:00:00Z",
     "launched":"2021-10-14T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -18918,8 +18918,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-11T03:31:26.192721Z",
-    "citation":"From strf observations by cgbsat",
+    "updated":"2024-04-25T10:02:16.326696Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24094,8 +24094,8 @@
     "name":"Taijing-1 01 or 02",
     "names":"",
     "image":"satellites\/taijing-1-01__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-23T00:00:00Z",
     "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -24104,8 +24104,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-13T14:32:12.453136Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-04-25T10:08:06.694889Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35019,8 +35019,8 @@
     "name":"Flock 4X 19",
     "names":"2022-002BQ",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-23T00:00:00Z",
     "launched":"2022-01-13T00:00:00Z",
     "deployed":"2022-01-13T00:00:00Z",
     "website":"",
@@ -35029,8 +35029,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-21T14:53:55.245134Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1NkBtw85lyBXrMzS7QvisciVoGN03rjtlwMsbdbeJRj8\/edit?usp=sharing",
+    "updated":"2024-04-25T10:08:40.991014Z",
+    "citation":"2024-04-23",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44543,6 +44543,30 @@
     ],
     "updated":"2024-04-24T08:36:13.963364Z",
     "citation":"celestrak.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NPDV-9106-0671-4492-6649",
+    "norad_cat_id":59224.0,
+    "norad_follow_id":null,
+    "name":"StriX-3",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-12T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-25T10:15:37.101402Z",
+    "citation":"https:\/\/db.satnogs.org\/satellite\/THVB-2523-9498-0145-1848#transmitters",
     "is_frequency_violator":false,
     "associated_satellites":[
 
