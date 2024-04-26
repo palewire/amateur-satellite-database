@@ -1867,3 +1867,4 @@ KEPK-0638-7031-8448-3720,52755.0,,ICEYE-X24,2022-057Z,,alive,,2022-05-25T00:00:0
 EYEX-3123-7466-3755-9687,98897.0,59588.0,ACS3,Advanced Composite Solar Sail System,,alive,,2024-04-23T21:30:00Z,,,None,US,[],2024-04-24T08:36:35.194867Z,celestrak.org,False,[]
 EJOF-3230-5676-4528-8529,98896.0,59587.0,NeonSat-1,New-space Earth Observation Satellite-1,,alive,,2024-04-23T21:30:00Z,,,None,KR,[],2024-04-24T08:36:13.963364Z,celestrak.org,False,[]
 NPDV-9106-0671-4492-6649,59224.0,,StriX-3,,,alive,,2024-03-12T00:00:00Z,,,None,JP,[],2024-04-25T10:15:37.101402Z,https://db.satnogs.org/satellite/THVB-2523-9498-0145-1848#transmitters,False,[]
+AEYC-6866-6455-5236-7157,98895.0,,ROBUSTA-3A,,satellites/ROBUSTA-3A.png,future,,,,https://csum.umontpellier.fr/en/nanosatellites-projects-our-3u-projects/,None,FR,[],2024-04-25T22:33:58.578715Z,Add temporary NORAD ID,False,[]

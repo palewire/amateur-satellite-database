@@ -44571,5 +44571,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"AEYC-6866-6455-5236-7157",
+    "norad_cat_id":98895.0,
+    "norad_follow_id":null,
+    "name":"ROBUSTA-3A",
+    "names":"",
+    "image":"satellites\/ROBUSTA-3A.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/csum.umontpellier.fr\/en\/nanosatellites-projects-our-3u-projects\/",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-04-25T22:33:58.578715Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
