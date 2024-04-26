@@ -9663,7 +9663,7 @@
     "uplink":null,
     "downlink":"137.100*\/137.900",
     "beacon":null,
-    "mode":"72K*\/80K LRPT HRPT",
+    "mode":"72K\/80K LRPT HRPT",
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"VSVI-4798-5613-4587-2414"
