@@ -165,6 +165,17 @@
     "satnogs_id":"DYYY-0442-0736-6026-2557"
   },
   {
+    "name":"ACS3",
+    "norad_id":"59588",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"2400bps GMSK",
+    "callsign":null,
+    "status":"non-amateur",
+    "satnogs_id":null
+  },
+  {
     "name":"AENEAS",
     "norad_id":"38760",
     "uplink":null,
