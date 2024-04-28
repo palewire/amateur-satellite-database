@@ -110,16 +110,6 @@
     "satnogs_id":"PMAW-9203-2442-8666-3249"
   },
   {
-    "name":"AO-109",
-    "norad_id":"47311",
-    "uplink":"145.860-145.890",
-    "downlink":"435.790-435.760",
-    "beacon":"435.750",
-    "mode":"1k2 BPSK SSB CW*",
-    "callsign":null,
-    "satnogs_id":"XQDI-8444-4243-4320-9055"
-  },
-  {
     "name":"ARGOS-4",
     "norad_id":"54023",
     "uplink":null,
@@ -1288,16 +1278,6 @@
     "mode":"FM* CTCSS 67.0Hz\/200bps DUV",
     "callsign":null,
     "satnogs_id":"PMAW-9203-2442-8666-3249"
-  },
-  {
-    "name":"Fox-1E",
-    "norad_id":"47311",
-    "uplink":"145.860-145.890",
-    "downlink":"435.790-435.760",
-    "beacon":"435.750",
-    "mode":"1k2 BPSK SSB CW*",
-    "callsign":null,
-    "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
   {
     "name":"FO-29",
@@ -2598,16 +2578,6 @@
     "mode":"FM* CTCSS 67.0Hz\/200bps DUV",
     "callsign":null,
     "satnogs_id":"PMAW-9203-2442-8666-3249"
-  },
-  {
-    "name":"RadFXsat-2",
-    "norad_id":"47311",
-    "uplink":"145.860-145.890",
-    "downlink":"435.790-435.760",
-    "beacon":"435.750",
-    "mode":"1k2 BPSK SSB CW*",
-    "callsign":null,
-    "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
   {
     "name":"RANDEV",

@@ -920,7 +920,7 @@
     "beacon":"435.750",
     "mode":"1k2 BPSK SSB CW*",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
   {
@@ -6178,7 +6178,7 @@
     "beacon":"435.750",
     "mode":"1k2 BPSK SSB CW*",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
   {
@@ -12745,7 +12745,7 @@
     "beacon":"435.750",
     "mode":"1k2 BPSK SSB CW*",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
   {

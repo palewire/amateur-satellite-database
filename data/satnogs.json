@@ -43735,7 +43735,7 @@
   {
     "sat_id":"VRMG-5837-8969-8165-1995",
     "norad_cat_id":98900.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59563.0,
     "name":"BurstCube",
     "names":"",
     "image":"",
@@ -43749,8 +43749,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T12:28:40.786214Z",
-    "citation":"Remove followed NORAD ID as satellite is separated from ISS",
+    "updated":"2024-04-28T09:00:52.215189Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43759,7 +43759,7 @@
   {
     "sat_id":"GEGZ-9203-4627-0599-0475",
     "norad_cat_id":98898.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59561.0,
     "name":"SNoOPI",
     "names":"SigNals of Opportunity: P-band Investigation",
     "image":"",
@@ -43773,8 +43773,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T12:28:46.008165Z",
-    "citation":"Remove followed NORAD ID as satellite is separated from ISS",
+    "updated":"2024-04-28T09:00:25.091126Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43783,7 +43783,7 @@
   {
     "sat_id":"ZUAV-9462-1904-5734-0704",
     "norad_cat_id":98899.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59562.0,
     "name":"HyTI",
     "names":"Hyperspectral Thermal Imager",
     "image":"satellites\/IMG_6231-400x300_wU6MS6D.jpg",
@@ -43797,8 +43797,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-20T07:55:07.252017Z",
-    "citation":"HyTI before being packaged and delivered, to be launched to the International Space Station in 2024.",
+    "updated":"2024-04-28T09:01:14.647467Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43807,7 +43807,7 @@
   {
     "sat_id":"YJQI-7143-2488-2930-9322",
     "norad_cat_id":98901.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59560.0,
     "name":"Big Red Sat-1",
     "names":"",
     "image":"",
@@ -43821,8 +43821,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-19T14:38:54.008363Z",
-    "citation":"Remove following of ISS as the satellite has been deployed",
+    "updated":"2024-04-28T09:02:21.695753Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43927,7 +43927,7 @@
   {
     "sat_id":"GTND-7907-1077-6468-2573",
     "norad_cat_id":98908.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59559.0,
     "name":"Kilick 1",
     "names":"",
     "image":"",
@@ -43941,8 +43941,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-19T14:35:41.134738Z",
-    "citation":"Remove following of ISS as the satellite has been deployed",
+    "updated":"2024-04-28T09:01:37.094575Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43951,7 +43951,7 @@
   {
     "sat_id":"VEZG-0087-1875-4021-3420",
     "norad_cat_id":98909.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59596.0,
     "name":"QMSat",
     "names":"",
     "image":"",
@@ -43965,8 +43965,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-19T14:36:08.743912Z",
-    "citation":"Remove following of ISS as the satellite has been deployed",
+    "updated":"2024-04-28T09:02:01.936211Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43975,7 +43975,7 @@
   {
     "sat_id":"TRUB-3074-0992-5108-6608",
     "norad_cat_id":98910.0,
-    "norad_follow_id":null,
+    "norad_follow_id":59597.0,
     "name":"VIOLET",
     "names":"VE9VLT",
     "image":"satellites\/violet.png",
@@ -43989,8 +43989,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-19T14:36:32.897080Z",
-    "citation":"Remove following of ISS as the satellite has been deployed",
+    "updated":"2024-04-28T08:59:54.186133Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
