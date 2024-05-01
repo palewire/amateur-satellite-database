@@ -1370,16 +1370,6 @@
     "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
   {
-    "name":"GAGARINEC",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"436.000",
-    "beacon":null,
-    "mode":"4k8\/9k6*GMSK_USP",
-    "callsign":"RS85S",
-    "satnogs_id":null
-  },
-  {
     "name":"Galassia",
     "norad_id":"41170",
     "uplink":null,
@@ -2005,7 +1995,7 @@
     "uplink":"144.350\/144.390",
     "downlink":"144.390\/437.225*",
     "beacon":"437.200",
-    "mode":"1k2\/4k8\/9k6* AFSK\/GFSK",
+    "mode":"1k2\/4k8*\/9k6 FSK",
     "callsign":"BJ1SI",
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },

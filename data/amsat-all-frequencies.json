@@ -6508,7 +6508,7 @@
     "beacon":null,
     "mode":"4k8\/9k6*GMSK_USP",
     "callsign":"RS85S",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -9058,7 +9058,7 @@
     "uplink":"144.350\/144.390",
     "downlink":"144.390\/437.225*",
     "beacon":"437.200",
-    "mode":"1k2\/4k8\/9k6* AFSK\/GFSK",
+    "mode":"1k2\/4k8*\/9k6 FSK",
     "callsign":"BJ1SI",
     "status":"active",
     "satnogs_id":"AHVS-7983-8710-8819-8034"
