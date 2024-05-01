@@ -30931,9 +30931,9 @@
     "name":"Istanbul",
     "names":"Hello Space Istanbul",
     "image":"satellites\/uydu_01.png",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-04-09T00:00:00Z",
+    "launched":"2023-06-12T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/hellospace.ist\/",
     "operator":"None",
@@ -30941,8 +30941,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-09-10T22:50:52.634034Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/163",
+    "updated":"2024-05-01T11:03:11.803144Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=56230",
     "is_frequency_violator":false,
     "associated_satellites":[
 
