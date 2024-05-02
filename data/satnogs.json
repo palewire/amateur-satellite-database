@@ -44530,7 +44530,7 @@
     "norad_follow_id":59587.0,
     "name":"NeonSat-1",
     "names":"New-space Earth Observation Satellite-1",
-    "image":"",
+    "image":"satellites\/images.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2024-04-23T21:30:00Z",
@@ -44541,8 +44541,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-24T08:36:13.963364Z",
-    "citation":"celestrak.org",
+    "updated":"2024-05-01T17:56:53.412122Z",
+    "citation":"satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
