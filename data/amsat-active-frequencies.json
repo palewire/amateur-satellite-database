@@ -2595,7 +2595,7 @@
     "uplink":null,
     "downlink":"435.380",
     "beacon":null,
-    "mode":"2k4\/9k6*\/19k2 GMSK_USP",
+    "mode":"2k4\/9k6\/19k2*GMSK_USP",
     "callsign":"RS8S",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
