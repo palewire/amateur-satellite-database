@@ -4389,7 +4389,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CubeSX-HSE",
+    "name":"CubeSX-HSE-1",
     "norad_id":"47952",
     "uplink":null,
     "downlink":"435.650\/10455.000",
@@ -12133,7 +12133,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Polytech_Universe-1",
+    "name":"Polytech-Universe-1",
     "norad_id":"53372",
     "uplink":null,
     "downlink":"436.896\/436.996",
@@ -12144,7 +12144,7 @@
     "satnogs_id":"BIBQ-3650-2732-6215-9835"
   },
   {
-    "name":"Polytech_Universe-2",
+    "name":"Polytech-Universe-2",
     "norad_id":"53371",
     "uplink":null,
     "downlink":"437.476\/437.576",
@@ -15819,7 +15819,7 @@
   },
   {
     "name":"SWSU-55 No1",
-    "norad_id":"53309",
+    "norad_id":"53305",
     "uplink":null,
     "downlink":"437.050\/437.050",
     "beacon":null,
@@ -15830,7 +15830,7 @@
   },
   {
     "name":"SWSU-55 No2",
-    "norad_id":"53312",
+    "norad_id":"53305",
     "uplink":null,
     "downlink":"437.050\/437.062",
     "beacon":null,
@@ -15841,7 +15841,7 @@
   },
   {
     "name":"SWSU-55 No3",
-    "norad_id":"53313",
+    "norad_id":"53309",
     "uplink":null,
     "downlink":"437.050\/437.075",
     "beacon":null,
@@ -15852,7 +15852,7 @@
   },
   {
     "name":"SWSU-55 No4",
-    "norad_id":"53306",
+    "norad_id":"53307",
     "uplink":null,
     "downlink":"437.050\/437.082",
     "beacon":null,
@@ -15863,7 +15863,7 @@
   },
   {
     "name":"SWSU-55 No5",
-    "norad_id":"53310",
+    "norad_id":"53308",
     "uplink":null,
     "downlink":"437.050\/437.100",
     "beacon":null,
@@ -15874,7 +15874,7 @@
   },
   {
     "name":"SWSU-55 No6",
-    "norad_id":"53321",
+    "norad_id":"53306",
     "uplink":null,
     "downlink":"437.050\/437.087",
     "beacon":null,
@@ -15885,7 +15885,7 @@
   },
   {
     "name":"SWSU-55 No7",
-    "norad_id":"53322",
+    "norad_id":"53310",
     "uplink":null,
     "downlink":"437.050\/437.1125",
     "beacon":null,
@@ -15896,7 +15896,7 @@
   },
   {
     "name":"SWSU-55 No8",
-    "norad_id":"53308",
+    "norad_id":"53311",
     "uplink":null,
     "downlink":"437.050\/437.000",
     "beacon":null,
@@ -18580,7 +18580,7 @@
   },
   {
     "name":"YuZGU-5",
-    "norad_id":"53309",
+    "norad_id":"53305",
     "uplink":null,
     "downlink":"437.050\/437.050",
     "beacon":null,
@@ -18591,7 +18591,7 @@
   },
   {
     "name":"YuZGU-6",
-    "norad_id":"53312",
+    "norad_id":"53305",
     "uplink":null,
     "downlink":"437.050\/437.062",
     "beacon":null,
@@ -18602,7 +18602,7 @@
   },
   {
     "name":"YuZGU-7",
-    "norad_id":"53313",
+    "norad_id":"53309",
     "uplink":null,
     "downlink":"437.050\/437.075",
     "beacon":null,
@@ -18613,7 +18613,7 @@
   },
   {
     "name":"YuZGU-8",
-    "norad_id":"53306",
+    "norad_id":"53307",
     "uplink":null,
     "downlink":"437.050\/437.082",
     "beacon":null,
@@ -18624,7 +18624,7 @@
   },
   {
     "name":"YuZGU-9",
-    "norad_id":"53310",
+    "norad_id":"53308",
     "uplink":null,
     "downlink":"437.050\/437.100",
     "beacon":null,
@@ -18635,7 +18635,7 @@
   },
   {
     "name":"YuZGU-10",
-    "norad_id":"53321",
+    "norad_id":"53306",
     "uplink":null,
     "downlink":"437.050\/437.087",
     "beacon":null,
@@ -18646,7 +18646,7 @@
   },
   {
     "name":"YuZGU-11",
-    "norad_id":"53322",
+    "norad_id":"53310",
     "uplink":null,
     "downlink":"437.050\/437.1125",
     "beacon":null,
@@ -18657,7 +18657,7 @@
   },
   {
     "name":"YuZGU-12",
-    "norad_id":"53308",
+    "norad_id":"53311",
     "uplink":null,
     "downlink":"437.050\/437.000",
     "beacon":null,
