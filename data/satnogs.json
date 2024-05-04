@@ -11348,6 +11348,7 @@
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
+      "GEIE-5919-7458-7804-4133",
       "BRLJ-4996-1958-8094-3536"
     ]
   },
@@ -13320,13 +13321,13 @@
   },
   {
     "sat_id":"RTJS-5934-2708-0606-3655",
-    "norad_cat_id":99743.0,
+    "norad_cat_id":47616.0,
     "norad_follow_id":null,
     "name":"ARCE-1A",
     "names":"",
     "image":"satellites\/ARCE_1A_1B_1C.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-01-19T00:00:00Z",
     "launched":"2021-01-24T15:00:00Z",
     "deployed":"2021-01-24T15:00:00Z",
     "website":"",
@@ -13335,8 +13336,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:43.009879Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-04T08:18:16.354929Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13344,13 +13345,13 @@
   },
   {
     "sat_id":"RGVR-1508-3946-9191-6047",
-    "norad_cat_id":99744.0,
+    "norad_cat_id":47615.0,
     "norad_follow_id":null,
     "name":"ARCE-1B",
     "names":"",
     "image":"satellites\/ARCE_1A_1B_1C_7fhfGcA.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-01-21T00:00:00Z",
     "launched":"2021-01-24T15:00:00Z",
     "deployed":"2021-01-24T15:00:00Z",
     "website":"",
@@ -13359,8 +13360,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:43.011537Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-04T08:19:41.326260Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13368,13 +13369,13 @@
   },
   {
     "sat_id":"CQTB-2023-3748-6705-2879",
-    "norad_cat_id":99745.0,
+    "norad_cat_id":47484.0,
     "norad_follow_id":null,
     "name":"ARCE-1C",
     "names":"",
     "image":"satellites\/ARCE_1A_1B_1C_Eyrh72E.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-01-09T00:00:00Z",
     "launched":"2021-01-24T15:00:00Z",
     "deployed":"2021-01-24T15:00:00Z",
     "website":"",
@@ -13383,32 +13384,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:43.013213Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"GEIE-5919-7458-7804-4133",
-    "norad_cat_id":99749.0,
-    "norad_follow_id":null,
-    "name":"Unknown Satellite",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2021-07-21T10:11:43.014865Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-04T08:20:25.840381Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41022,8 +40999,8 @@
   },
   {
     "sat_id":"DUMR-1924-9064-2363-1545",
-    "norad_cat_id":98964.0,
-    "norad_follow_id":58810.0,
+    "norad_cat_id":58810.0,
+    "norad_follow_id":null,
     "name":"NanoFF A",
     "names":"DP0NFA, TUBSAT-29",
     "image":"satellites\/nanoff.png",
@@ -41037,17 +41014,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-16T18:40:11.939571Z",
-    "citation":"Satellite Team",
+    "updated":"2024-05-04T07:45:47.293600Z",
+    "citation":"space-track.org and Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "TFQH-3118-3589-0972-8226"
     ]
   },
   {
     "sat_id":"RCBZ-5048-4345-8306-0931",
-    "norad_cat_id":98963.0,
-    "norad_follow_id":58755.0,
+    "norad_cat_id":58755.0,
+    "norad_follow_id":null,
     "name":"NanoFF B",
     "names":"DP0NFB, TUBSAT-28",
     "image":"satellites\/nanoff_4zKkEfB.png",
@@ -41061,11 +41038,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-17T10:15:20.132836Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/270",
+    "updated":"2024-05-04T07:43:03.256916Z",
+    "citation":"space-track.org and Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "SHKO-8017-7384-9282-2318"
     ]
   },
   {
@@ -44477,6 +44454,30 @@
     ]
   },
   {
+    "sat_id":"HSKY-8848-4581-5383-7911",
+    "norad_cat_id":40298.0,
+    "norad_follow_id":null,
+    "name":"ASNARO",
+    "names":"2014-070A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-11-06T00:00:00Z",
+    "deployed":"2014-11-06T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-04T04:44:05.673531Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Thl7KT68EKUNHSOrc3hOXPWUZ_YxSkSPRXkWqCT1InY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"KEPK-0638-7031-8448-3720",
     "norad_cat_id":52755.0,
     "norad_follow_id":null,
@@ -44591,6 +44592,30 @@
     ],
     "updated":"2024-04-25T22:33:58.578715Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RMUL-5899-3414-6296-5587",
+    "norad_cat_id":56963.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X25",
+    "names":"2023-084AH",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":"2023-06-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-04T05:17:10.702217Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1LtyxXeSn-urkGoOkGIujJ46M-ZrwHt0yFAQJiOtQVIc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

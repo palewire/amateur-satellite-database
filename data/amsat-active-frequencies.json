@@ -2247,7 +2247,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"DP0NFA",
-    "satnogs_id":null
+    "satnogs_id":"DUMR-1924-9064-2363-1545"
   },
   {
     "name":"NanoFF-B",
@@ -2257,7 +2257,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"DP0NFB",
-    "satnogs_id":null
+    "satnogs_id":"RCBZ-5048-4345-8306-0931"
   },
   {
     "name":"NanosatC-Br2",

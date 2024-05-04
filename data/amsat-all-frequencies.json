@@ -10106,7 +10106,7 @@
     "mode":"4800bps GMSK",
     "callsign":"DP0NFA",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"DUMR-1924-9064-2363-1545"
   },
   {
     "name":"NanoFF-B",
@@ -10117,7 +10117,7 @@
     "mode":"4800bps GMSK",
     "callsign":"DP0NFB",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"RCBZ-5048-4345-8306-0931"
   },
   {
     "name":"NanoSail-D2",
