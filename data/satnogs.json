@@ -3944,8 +3944,8 @@
     "name":"XW-2E",
     "names":"CAS-3E",
     "image":"satellites\/XW-2E.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-09T00:00:00Z",
     "launched":"2015-09-19T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.pe0sat.vgnet.nl\/satellite\/chinese-satellites\/cas-3\/",
@@ -3954,8 +3954,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:05.977829Z",
-    "citation":"http:\/\/aar29.free.fr\/sat\/cas3e\/history.php",
+    "updated":"2024-05-06T08:13:39.921088Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=40909",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -4522,8 +4522,8 @@
     "name":"E-ST@R-II",
     "names":"",
     "image":"satellites\/E-STR-II_ENXTFuD.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-03T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -4532,8 +4532,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.266760Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-06T08:13:24.299345Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -4572,8 +4572,8 @@
     "name":"AIST-2D",
     "names":"RS-48",
     "image":"satellites\/AIST-2D.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-15T00:00:00Z",
     "launched":"2016-04-28T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -4582,8 +4582,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T17:14:33.436000Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-06T08:27:49.693918Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=41465",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -6094,8 +6094,8 @@
     "name":"NIUSAT",
     "names":"",
     "image":"satellites\/NIUSAT.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-27T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -6104,8 +6104,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T02:02:57.047925Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-06T08:23:31.313910Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -7952,16 +7952,16 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2018-10-29T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/mp.weixin.qq.com\/s\/HuuqOIrG43_qXymB4DbDfA",
     "operator":"None",
-    "countries":"",
+    "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.597943Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-06T08:25:14.556413Z",
+    "citation":"https:\/\/web.archive.org\/web\/20200118161937\/http:\/\/en.spacety.com\/en_missions.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -8928,8 +8928,8 @@
     "name":"ZACUBE-2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-24T00:00:00Z",
     "launched":"2018-12-27T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/blogs.cput.ac.za\/fsati\/zacube-2\/",
@@ -8938,8 +8938,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T19:40:01.013679Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/zacube-2.htm",
+    "updated":"2024-05-06T08:11:18.102949Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -9712,8 +9712,8 @@
     "name":"AMGU-1",
     "names":"AMURSAT",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-05T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -9722,8 +9722,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T11:26:39.213741Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-06T08:24:24.681130Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -9784,8 +9784,8 @@
     "name":"SOKRAT",
     "names":"SOCRAT",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-03T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.nasaspaceflight.com\/2019\/07\/soyuz-2-1b-launch-meteor-m-no-2-2\/",
@@ -9794,8 +9794,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T13:56:54.708106Z",
-    "citation":"https:\/\/www.nasaspaceflight.com\/2019\/07\/soyuz-2-1b-launch-meteor-m-no-2-2\/",
+    "updated":"2024-05-06T09:10:28.572850Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -11310,8 +11310,8 @@
     "name":"CP12(EXOCUBE-2)",
     "names":"",
     "image":"satellites\/ExoCube-2.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-30T00:00:00Z",
     "launched":"2021-01-17T19:19:13Z",
     "deployed":"2021-01-17T19:19:15Z",
     "website":"https:\/\/www.polysat.org",
@@ -11320,8 +11320,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.863736Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-06T08:29:33.842878Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13518,8 +13518,8 @@
     "name":"PIC-A",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-29T00:00:00Z",
     "launched":"2021-01-17T16:55:21Z",
     "deployed":"2021-01-17T16:55:32Z",
     "website":"https:\/\/www.mers.byu.edu\/CubeSat.html",
@@ -13528,8 +13528,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T14:14:26.699922Z",
-    "citation":"https:\/\/spacecraft.byu.edu\/missions\/pics",
+    "updated":"2024-05-06T08:30:01.771395Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13542,8 +13542,8 @@
     "name":"PIC-B",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-02T00:00:00Z",
     "launched":"2021-01-17T16:55:51Z",
     "deployed":"2021-01-17T16:55:54Z",
     "website":"https:\/\/www.mers.byu.edu\/CubeSat.html",
@@ -13552,8 +13552,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T14:14:21.909953Z",
-    "citation":"https:\/\/spacecraft.byu.edu\/missions\/pics",
+    "updated":"2024-05-06T08:30:42.228676Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14000,8 +14000,8 @@
     "name":"TTU101",
     "names":"TT\u00dc101, Koit",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-09T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/web.archive.org\/web\/20150710010011\/https:\/\/www.ttu.ee\/projects\/mektory-eng\/satellite-programme-3\/",
@@ -14010,8 +14010,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T10:50:14.470082Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-44401\/2020-12-09T12%3A53%3A28_3268884_44401_19038R_0-OBJECT-R_0.8681064396296279_B_r29.0_f0.0.png",
+    "updated":"2024-05-06T08:28:08.099691Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44401",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16397,8 +16397,8 @@
     "name":"RED DIAMOND",
     "names":"",
     "image":"satellites\/3-diamonds__1_zlD3Yoe.jpg",
-    "status":"alive",
-    "decayed":"2024-05-04T00:00:00Z",
+    "status":"re-entered",
+    "decayed":"2024-04-26T00:00:00Z",
     "launched":"2017-06-23T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16407,8 +16407,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-22T16:03:36.824507Z",
-    "citation":"Decay date from space-track",
+    "updated":"2024-05-06T08:32:26.596070Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16853,8 +16853,8 @@
     "name":"PICASSO",
     "names":"PICASSO-BEL PICosatellite for Atmospheric and Space Science Observations",
     "image":"satellites\/picasso__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-13T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16863,8 +16863,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-18T06:49:06.416715Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-05-06T08:35:49.665845Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46281",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18549,8 +18549,8 @@
     "name":"STORK-2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-04T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"",
@@ -18559,7 +18559,7 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:38:35.840318Z",
+    "updated":"2024-05-06T08:37:22.992277Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -18573,8 +18573,8 @@
     "name":"STORK-1",
     "names":"ThingSat",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-28T00:00:00Z",
     "launched":"2022-01-13T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.satrev.space",
@@ -18583,8 +18583,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-16T17:18:08.169984Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=52372.0;all",
+    "updated":"2024-05-06T08:36:41.187206Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22349,8 +22349,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-05T19:40:58.709811Z",
-    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=52777",
+    "updated":"2024-05-05T19:41:04.999918Z",
+    "citation":"space-track.org SatCat",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26189,8 +26189,8 @@
     "name":"Umbra 01",
     "names":"Umbra-SAR 2001",
     "image":"satellites\/Umbra-satellite2.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-30T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/umbra.space\/",
@@ -26199,8 +26199,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-31T15:34:15.159016Z",
-    "citation":"https:\/\/space-track.org",
+    "updated":"2024-05-06T08:56:26.875798Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26237,8 +26237,8 @@
     "name":"Umbra 03",
     "names":"",
     "image":"satellites\/Umbra-satellite2_GTpzO7L.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-08T00:00:00Z",
     "launched":"2022-05-26T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/umbra.space\/",
@@ -26247,8 +26247,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-31T15:34:15.123842Z",
-    "citation":"https:\/\/space-track.org",
+    "updated":"2024-05-06T08:56:46.457273Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=52753",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28865,8 +28865,8 @@
     "name":"LEMUR 2 YNDRD",
     "names":"LEMUR 2 106",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-27T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28875,8 +28875,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.322322Z",
-    "citation":"www.spire.com",
+    "updated":"2024-05-06T08:57:29.968955Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31481,13 +31481,13 @@
   },
   {
     "sat_id":"ANXM-6391-1491-9881-7191",
-    "norad_cat_id":99171.0,
-    "norad_follow_id":56206.0,
+    "norad_cat_id":56206.0,
+    "norad_follow_id":null,
     "name":"LEMUR 2 ROMEO-N-LEO",
     "names":"LEMUR 2 165",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-29T00:00:00Z",
     "launched":"2023-04-15T00:00:00Z",
     "deployed":"2023-04-15T00:00:00Z",
     "website":"https:\/\/spire.com\/",
@@ -31496,8 +31496,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-20T05:58:42.498415Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-15-06-47-utc\/10255\/115",
+    "updated":"2024-05-06T08:58:53.124739Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34948,8 +34948,8 @@
     "name":"UNICORN-2I",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-09T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -34958,8 +34958,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-19T20:32:32.266270Z",
-    "citation":"From the team",
+    "updated":"2024-05-06T09:04:11.544497Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42876,8 +42876,8 @@
     "name":"QPS-SAR-2",
     "names":"IZANAMI 2021-006CA",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-11T00:00:00Z",
     "launched":"2021-01-24T00:00:00Z",
     "deployed":"2021-01-24T00:00:00Z",
     "website":"",
@@ -42886,8 +42886,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T23:07:51.806084Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1-dSt922lDxKIEHz1yKDDC_28VDVDXzkXMYoehlAt538\/edit?usp=sharing",
+    "updated":"2024-05-06T09:04:26.851433Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=47485",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44335,13 +44335,13 @@
   },
   {
     "sat_id":"IRLU-0882-3187-7500-3959",
-    "norad_cat_id":98904.0,
-    "norad_follow_id":59480.0,
+    "norad_cat_id":59480.0,
+    "norad_follow_id":null,
     "name":"GAGARINEC",
     "names":"RS85S, Gagarinets",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-29T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -44350,8 +44350,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-12T22:28:31.793119Z",
-    "citation":"STRF Observation",
+    "updated":"2024-05-06T09:07:38.421595Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
