@@ -22339,8 +22339,8 @@
     "name":"Veery-FS1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-04-11T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/careweather.com\/mission\/veery-fs1-1616109923953x142756869424226500",
@@ -22349,8 +22349,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-04T09:41:17.421683Z",
-    "citation":"space-track.org and https:\/\/community.libre.space\/t\/spacex-f9-transporter-5-2022-05-25-18-35utc\/9264\/107",
+    "updated":"2024-05-05T19:40:58.709811Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=52777",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41760,6 +41760,30 @@
     ],
     "updated":"2024-01-28T17:39:31.911485Z",
     "citation":"Own STRF observation. ~500k fine stripped blob. Observed signal (frequency\/width) coherent with info from https:\/\/space.oscar.wmo.int\/satellites\/view\/theos_1",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GXIX-2282-2545-3931-6346",
+    "norad_cat_id":33446.0,
+    "norad_follow_id":null,
+    "name":"Yaogan 4",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2008-12-01T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-05T19:04:14.199362Z",
+    "citation":"Own STRF observation of this satellite.",
     "is_frequency_violator":false,
     "associated_satellites":[
 

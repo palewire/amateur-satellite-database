@@ -4066,7 +4066,7 @@
     "beacon":"437.150",
     "mode":"9600bps FSK CW",
     "callsign":"KK6HIT",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"PRVO-2434-7302-8951-3277"
   },
   {
@@ -5672,7 +5672,7 @@
     "beacon":"437.150",
     "mode":"9600bps FSK CW",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"PRVO-2434-7302-8951-3277"
   },
   {
@@ -10402,7 +10402,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":"NIUOBT",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"FCJO-8188-7789-7781-3478"
   },
   {
