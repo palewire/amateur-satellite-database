@@ -44644,5 +44644,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"AICD-9966-8381-0737-2122",
+    "norad_cat_id":48922.0,
+    "norad_follow_id":null,
+    "name":"D2\/Atlascom-1",
+    "names":"2021-059AV",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-06-30T00:00:00Z",
+    "deployed":"2021-06-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"LT",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-06T21:20:13.065132Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1RAMOm0nlshY0G2RAvWq8ryL4oWAYbQKOeE1BPkmnnIA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
