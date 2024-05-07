@@ -43736,7 +43736,7 @@
   {
     "sat_id":"VRMG-5837-8969-8165-1995",
     "norad_cat_id":98900.0,
-    "norad_follow_id":59563.0,
+    "norad_follow_id":59562.0,
     "name":"BurstCube",
     "names":"",
     "image":"",
@@ -43750,8 +43750,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-28T09:00:52.215189Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
+    "updated":"2024-05-07T08:00:44.130551Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/288",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43784,7 +43784,7 @@
   {
     "sat_id":"ZUAV-9462-1904-5734-0704",
     "norad_cat_id":98899.0,
-    "norad_follow_id":59562.0,
+    "norad_follow_id":59561.0,
     "name":"HyTI",
     "names":"Hyperspectral Thermal Imager",
     "image":"satellites\/IMG_6231-400x300_wU6MS6D.jpg",
@@ -43798,8 +43798,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-28T09:01:14.647467Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
+    "updated":"2024-05-07T08:00:23.106334Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/288",
     "is_frequency_violator":false,
     "associated_satellites":[
 
