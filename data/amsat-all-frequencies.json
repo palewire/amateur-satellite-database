@@ -9672,7 +9672,7 @@
     "name":"METEOR-M N2-4",
     "norad_id":"59051",
     "uplink":null,
-    "downlink":"137.100*\/137.900",
+    "downlink":"137.100\/137.900",
     "beacon":null,
     "mode":"72K\/80K LRPT HRPT",
     "callsign":null,

@@ -44668,5 +44668,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"UEGH-5367-0804-3754-4666",
+    "norad_cat_id":38707.0,
+    "norad_follow_id":null,
+    "name":"KANOPUS-V 1",
+    "names":"2012-039A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2012-06-22T00:00:00Z",
+    "deployed":"2012-06-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-07T18:55:07.341738Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ylMqMvcVHXTqD9T9nSkK3M_ESyphLcqYOeq6TUT28jE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
