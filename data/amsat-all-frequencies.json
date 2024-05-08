@@ -6578,6 +6578,17 @@
     "satnogs_id":null
   },
   {
+    "name":"GENESIS-A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"144.175\/144.550",
+    "beacon":null,
+    "mode":"FT8 SSTV",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"GENESIS-G",
     "norad_id":null,
     "uplink":"145.875",
