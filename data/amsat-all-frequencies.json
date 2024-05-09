@@ -6578,6 +6578,28 @@
     "satnogs_id":null
   },
   {
+    "name":"GENESIS-1",
+    "norad_id":"29252",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"GENESIS-2",
+    "norad_id":"31789",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"GENESIS-A",
     "norad_id":null,
     "uplink":null,
