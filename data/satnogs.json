@@ -19213,10 +19213,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -22387,8 +22387,8 @@
     "name":"CubeSX-HSE-2",
     "names":"SXC3-213, RS21S, HSE-AIS",
     "image":"satellites\/SXC3_rAd1Fz5.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-09T21:46:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites-sputnix\/for-radioamateurs",
@@ -22397,8 +22397,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-14T02:01:34.533916Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53383\/2022-08-13T09%3A06%3A39_6325560_53383_22096P_0-OBJECT-P_0.14632121444444124_A_r24.0_f0.0.png",
+    "updated":"2024-05-09T23:27:40.253825Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/9502341\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -22459,8 +22459,8 @@
     "name":"UTMN",
     "names":"SXC3-216 RS23S",
     "image":"satellites\/SXC3_ZBlFKKP.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-10T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites-sputnix\/for-radioamateurs",
@@ -22469,8 +22469,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-14T02:25:18.957738Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53376\/2022-08-13T23%3A35%3A57_6325734_53376_22096G_0-OBJECT-G_0.45588856111112364_B_r24.0_f0.0.png",
+    "updated":"2024-05-09T13:26:37.111698Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
