@@ -552,10 +552,10 @@
   {
     "name":"CAS-3H",
     "norad_id":"40908",
-    "uplink":"144.350\/144.390",
+    "uplink":"145.825\/145.875",
     "downlink":"144.390\/437.225*",
     "beacon":"437.200",
-    "mode":"1k2\/4k8\/9k6* AFSK\/GFSK",
+    "mode":"1k2\/4k8*\/9k6 FSK APRS FM",
     "callsign":"BJ1SI",
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },
@@ -1992,10 +1992,10 @@
   {
     "name":"LilacSat-2",
     "norad_id":"40908",
-    "uplink":"144.350\/144.390",
+    "uplink":"145.825\/145.875",
     "downlink":"144.390\/437.225*",
     "beacon":"437.200",
-    "mode":"1k2\/4k8*\/9k6 FSK",
+    "mode":"1k2\/4k8*\/9k6 FSK APRS FM",
     "callsign":"BJ1SI",
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },

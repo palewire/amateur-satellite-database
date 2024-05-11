@@ -7951,7 +7951,7 @@
     "names":"TY 4-01",
     "image":"",
     "status":"re-entered",
-    "decayed":"2024-05-09T23:11:00Z",
+    "decayed":"2024-05-10T02:00:00Z",
     "launched":"2018-10-29T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/mp.weixin.qq.com\/s\/HuuqOIrG43_qXymB4DbDfA",
@@ -7960,8 +7960,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-10T00:50:45.403978Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/9498978\/",
+    "updated":"2024-05-10T16:37:51.865674Z",
+    "citation":"https:\/\/sonik.space\/observations\/132503\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
