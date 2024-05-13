@@ -31036,7 +31036,9 @@
     "operator":"ISRO",
     "countries":"BT,IN",
     "telemetries":[
-
+      {
+        "decoder":"ax25monitor"
+      }
     ],
     "updated":"2023-04-08T08:52:47.421606Z",
     "citation":"Adding India and Bhutan as country of origin",
@@ -44688,6 +44690,30 @@
     ],
     "updated":"2024-05-07T18:55:07.341738Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1ylMqMvcVHXTqD9T9nSkK3M_ESyphLcqYOeq6TUT28jE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UKBO-2090-2618-8439-9299",
+    "norad_cat_id":98894.0,
+    "norad_follow_id":null,
+    "name":"RTU MIREA1",
+    "names":"RS51S",
+    "image":"satellites\/large_RTU_MIREA_1_transportnoe_polozhenie_41b7f26ab9.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-05T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/rtu-mirea-1\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-13T10:49:21.483202Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/rtu-mirea-1\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

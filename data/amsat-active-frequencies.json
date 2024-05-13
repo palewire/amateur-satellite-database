@@ -974,7 +974,7 @@
     "norad_id":"59507",
     "uplink":null,
     "downlink":"2279.000",
-    "beacon":"400.964",
+    "beacon":"400.962",
     "mode":"FM CW*",
     "callsign":null,
     "satnogs_id":null
@@ -2124,7 +2124,7 @@
     "norad_id":"59483",
     "uplink":null,
     "downlink":"399.975\/922.100",
-    "beacon":"400.961",
+    "beacon":"400.959",
     "mode":"LoRa CW*",
     "callsign":null,
     "satnogs_id":null
