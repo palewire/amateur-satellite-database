@@ -455,7 +455,7 @@ DRAGONSat,35690,,436.250,,19200bps FSK,,re-entered,
 DRAGONSat,35690,,437.325,,9600bps FSK,,re-entered,
 DragonSat-1,39383,,145.870,,9600bps FSK,,re-entered,ZDHX-1438-9792-0063-7767
 DragSail,42771,,437.300/2403.000,,1200bps AFSK,,inactive,
-Druzhba-ATURK,57200,,,,,,unknown,
+Druzhba-ATURK,57200,,,,,,unknown,ZWQX-0507-9428-9365-8363
 DSLWP-A1(A),43471,,435.425/2222.810,436.425,500/250bps GMSK JT4G,BJ1SM,inactive,
 DSLWP-A2(B),43472,,435.400/2275.220,436.400,500/250bps GMSK JT4G,BJ1SN,re-entered,
 DTUsat-1,27842,,,437.475,2400bps AFSK CW,OZ2DTU,inactive,
@@ -979,7 +979,7 @@ NOAA-21,54234,,,,,,weather sat,CNAZ-9368-1972-2448-3217
 NOOR-1A,,,,,,,unknown,
 NOOR-1B,,,,,,,unknown,
 Norbi,46494,,436.700,,9600bps FSK/250k_LoRa,CUBSAT,active,DNNN-7162-2135-4056-8903
-Norby-2,57179,,435.600,,LoRa,,active,
+Norby-2,57179,,435.600,,LoRa,,active,WSRI-6167-9286-6885-9902
 NOUR-1,45529,,401.500,,9600bps FSK,SPACE,re-entered,TYCI-5959-1115-4385-3904
 NOUR-2,51594,,401.500/2258.000,,9600bps FSK,,non-amateur,
 NOUR-3,57962,,401.500/2258.000,,9600bps FSK,,non-amateur,
@@ -1411,7 +1411,7 @@ StratoSat-TK1-C,57324,,,,,,unknown,
 StratoSat-TK1-D,57325,,,,,,unknown,
 StratoSat-TK1-E,57326,,,,,,unknown,
 StratoSat-TK1-F,57327,,,,,,unknown,
-StratoSat-TK1 picosat-B,57200,,436.260,,LoRa,RS52SB,active,
+StratoSat-TK1 picosat-B,57200,,436.260,,LoRa,RS52SB,active,ZWQX-0507-9428-9365-8363
 StratoSat-TK1 picosat-D,57208,,436.260,,LoRa,RS52SD,unknown,BTMY-6498-5817-1415-4137
 StratoSat-TK1 picosat-E,57176,,436.260,,LoRa,RS52SE,active,NRAD-4746-6573-1238-7533
 StratoSat-TK1 picosat-G,57170,,436.260,,LoRa,RS52SG,unknown,
@@ -1683,7 +1683,7 @@ YAM-6,,,400.875,,FM,,unknown,
 Yarilo-1,46490,,435.350,,9600bps FSK,,inactive,NOPA-4112-5533-4054-3584
 Yarilo-2,46491,,435.550,,9600bps FSK,,inactive,IWFP-4808-8766-5041-0735
 Yarilo-3,57198,,435.450,,9k6 FSK,,unknown,BCCC-4892-7994-6676-5561
-Yarilo-4,57200,,435.400/435.720,,9k6 FSK FM,,inactive,
+Yarilo-4,57200,,435.400/435.720,,9k6 FSK FM,,inactive,ZWQX-0507-9428-9365-8363
 Ymir-1,,,,,,,unknown,
 YukonSat,56316,,437.875/2428.000,,1k2/9k6 FSK,,re-entered,
 YUSAT-1,47439,145.825,436.250,,1k2AFSK/9k6GMSK,BN0YS,inactive,LCGS-2217-1833-6147-9866

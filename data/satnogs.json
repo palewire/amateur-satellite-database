@@ -32977,8 +32977,8 @@
   },
   {
     "sat_id":"WSRI-6167-9286-6885-9902",
-    "norad_cat_id":99128.0,
-    "norad_follow_id":57179.0,
+    "norad_cat_id":57179.0,
+    "norad_follow_id":null,
     "name":"Norby-2",
     "names":"",
     "image":"",
@@ -32992,11 +32992,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-15T09:10:04.286504Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2023-06-27-11-34-utc\/10446\/192",
+    "updated":"2024-05-23T11:48:38.224711Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/Norby-2",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "CYPJ-4219-9918-7056-4970"
     ]
   },
   {
@@ -33025,8 +33025,8 @@
   },
   {
     "sat_id":"ZWQX-0507-9428-9365-8363",
-    "norad_cat_id":99126.0,
-    "norad_follow_id":57200.0,
+    "norad_cat_id":57200.0,
+    "norad_follow_id":null,
     "name":"Yarilo No. 4",
     "names":"",
     "image":"",
@@ -33040,11 +33040,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-08T20:34:22.852239Z",
-    "citation":"Guess",
+    "updated":"2024-05-23T11:41:40.419104Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "ZZOG-3070-2348-1504-5302"
     ]
   },
   {
@@ -44714,6 +44714,78 @@
     ],
     "updated":"2024-05-13T10:49:21.483202Z",
     "citation":"https:\/\/spacepi.space\/satellites\/rtu-mirea-1\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PFWT-2170-5249-1641-6126",
+    "norad_cat_id":59779.0,
+    "norad_follow_id":null,
+    "name":"Rassvet-1 4",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-16T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-23T11:41:34.339733Z",
+    "citation":"https:\/\/www.space-track.org\/#catalog",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CILR-9176-2144-9091-8237",
+    "norad_cat_id":59780.0,
+    "norad_follow_id":null,
+    "name":"Rassvet-1 5",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-16T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-23T11:41:29.220365Z",
+    "citation":"https:\/\/www.space-track.org\/#catalog",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GMTV-5966-1906-9595-0119",
+    "norad_cat_id":59781.0,
+    "norad_follow_id":null,
+    "name":"Rassvet-1 6",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-16T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-23T11:41:24.658748Z",
+    "citation":"https:\/\/www.space-track.org\/#catalog",
     "is_frequency_violator":false,
     "associated_satellites":[
 

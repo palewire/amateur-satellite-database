@@ -2307,7 +2307,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"WSRI-6167-9286-6885-9902"
   },
   {
     "name":"NO-44",
@@ -3247,7 +3247,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":"RS52SB",
-    "satnogs_id":null
+    "satnogs_id":"ZWQX-0507-9428-9365-8363"
   },
   {
     "name":"StratoSat-TK1 picosat-E",

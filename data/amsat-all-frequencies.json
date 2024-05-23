@@ -5024,7 +5024,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ZWQX-0507-9428-9365-8363"
   },
   {
     "name":"DSLWP-A1(A)",
@@ -10788,7 +10788,7 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"WSRI-6167-9286-6885-9902"
   },
   {
     "name":"NOUR-1",
@@ -15540,7 +15540,7 @@
     "mode":"LoRa",
     "callsign":"RS52SB",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ZWQX-0507-9428-9365-8363"
   },
   {
     "name":"StratoSat-TK1 picosat-D",
@@ -18532,7 +18532,7 @@
     "mode":"9k6 FSK FM",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"ZWQX-0507-9428-9365-8363"
   },
   {
     "name":"Ymir-1",
