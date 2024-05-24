@@ -8780,8 +8780,8 @@
     "name":"CHOMPTT",
     "names":"",
     "image":"satellites\/chomptt__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-13T00:00:00Z",
     "launched":null,
     "deployed":"2018-12-16T00:00:00Z",
     "website":"https:\/\/guidebook.com\/guide\/18114\/poi\/1931378\/",
@@ -8792,8 +8792,8 @@
         "decoder":"chomptt"
       }
     ],
-    "updated":"2021-07-21T10:11:42.690053Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-24T09:26:16.707954Z",
+    "citation":"ANS-140 AMSAT News Service Weekly Bulletins",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -10248,8 +10248,8 @@
     "name":"OPS-SAT",
     "names":"",
     "image":"satellites\/OPS-SAT.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-22T21:30:30Z",
     "launched":"2019-12-18T00:00:00Z",
     "deployed":"2019-12-18T00:00:00Z",
     "website":"https:\/\/www.esa.int\/Enabling_Support\/Operations\/OPS-SAT_your_flying_laboratory",
@@ -10260,8 +10260,8 @@
         "decoder":"opssat1"
       }
     ],
-    "updated":"2021-07-21T10:11:42.799193Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-24T10:55:19.073779Z",
+    "citation":"Fix re-entry date",
     "is_frequency_violator":false,
     "associated_satellites":[
 

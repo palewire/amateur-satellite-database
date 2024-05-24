@@ -382,7 +382,7 @@ MUVJ-0454-0662-1172-2559,43804.0,,Suomi 100,,satellites/suomi1001.png,alive,,201
 BYLD-5095-5765-9404-4681,43805.0,,al-Farabi-2,UN1GWA,,alive,,2018-12-03T00:00:00Z,,https://www.kaznu.kz/en/4135/news/one/5708/,None,KZ,[],2022-07-31T23:39:42.136059Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 DYBD-8638-9272-8158-5486,43809.0,,Centauri-1,,,alive,,2018-12-03T00:00:00Z,,https://www.fleet.space/,None,AU,[],2023-05-28T15:10:05.954599Z,https://www.fleet.space/,False,[]
 LDAB-6354-6935-7024-4067,43814.0,,PW-Sat2,,satellites/pwsat.png,re-entered,2021-02-24T07:55:08Z,,,,None,,[{'decoder': 'pwsat2'}],2021-07-21T10:11:42.687724Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-GYLI-0056-5213-2621-8146,43855.0,,CHOMPTT,,satellites/chomptt__1.jpg,alive,,,2018-12-16T00:00:00Z,https://guidebook.com/guide/18114/poi/1931378/,None,US,[{'decoder': 'chomptt'}],2021-07-21T10:11:42.690053Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+GYLI-0056-5213-2621-8146,43855.0,,CHOMPTT,,satellites/chomptt__1.jpg,re-entered,2024-05-13T00:00:00Z,,2018-12-16T00:00:00Z,https://guidebook.com/guide/18114/poi/1931378/,None,US,[{'decoder': 'chomptt'}],2024-05-24T09:26:16.707954Z,ANS-140 AMSAT News Service Weekly Bulletins,False,[]
 WSKN-9493-7628-4683-4260,43856.0,,CP11 (ISX),,,alive,,,,,None,,[],2021-07-21T10:11:42.692476Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 NDGB-5161-5512-0236-5364,43857.0,,Da Vinci,DAVINCI,satellites/cubesat_300x300.png,re-entered,2023-02-09T00:00:00Z,2018-12-16T00:00:00Z,,https://web.archive.org/web/20170623205553/https://projectdavincicubesat.org/,None,US,[],2023-02-16T17:22:13.684808Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 VLTM-4130-8711-4931-9078,43879.0,,D-Star ONE iSat,DP1GOS,,alive,,2018-12-27T00:00:00Z,,http://web.archive.org/web/20190807184852/http://www.d-star.one/,None,"CZ,DE",[],2023-05-28T14:55:43.883853Z,http://web.archive.org/web/20190807184852/http://www.d-star.one/,False,[]
@@ -444,7 +444,7 @@ NVJW-1778-4425-6707-0234,44832.0,,SMOG-P,"HA4C
 MO-105
 Magyar-OSCAR 105",,re-entered,2020-10-02T05:02:26Z,,,,None,,[],2021-07-21T10:11:42.796289Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 YXQQ-6207-4287-8188-9048,44854.0,,DUCHIFAT-3,,,alive,,,,,None,,[{'decoder': 'duchifat3'}],2021-07-21T10:11:42.797774Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-NRVR-2280-9172-8926-1963,44878.0,,OPS-SAT,,satellites/OPS-SAT.jpg,alive,,2019-12-18T00:00:00Z,2019-12-18T00:00:00Z,https://www.esa.int/Enabling_Support/Operations/OPS-SAT_your_flying_laboratory,ESA,,[{'decoder': 'opssat1'}],2021-07-21T10:11:42.799193Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+NRVR-2280-9172-8926-1963,44878.0,,OPS-SAT,,satellites/OPS-SAT.jpg,re-entered,2024-05-22T21:30:30Z,2019-12-18T00:00:00Z,2019-12-18T00:00:00Z,https://www.esa.int/Enabling_Support/Operations/OPS-SAT_your_flying_laboratory,ESA,,[{'decoder': 'opssat1'}],2024-05-24T10:55:19.073779Z,Fix re-entry date,False,[]
 VMQF-4924-7475-1891-3199,44881.0,,CAS-6 (TO-108),2019-093C,,alive,,2019-12-20T00:00:00Z,2019-12-20T00:00:00Z,,None,CN,[],2023-06-29T18:56:09.762895Z,https://docs.google.com/document/d/1RT7Tz9aAIFVsiLObRck8A0EBotTtFyKM4RDGbrxYaXY/edit?usp=sharing,False,[]
 ZAOV-7296-2730-4478-2104,44885.0,,FloripaSat-1,,,alive,,,,,None,,[],2021-07-21T10:11:42.802103Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 UFYD-5782-6372-2920-6054,44909.0,,DOSAAF-85,RS-44,satellites/dosaaf-85.jpg,alive,,2019-12-26T00:00:00Z,,,None,RU,[],2022-08-01T17:59:00.602856Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
