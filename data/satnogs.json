@@ -8806,8 +8806,8 @@
     "name":"CP11 (ISX)",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-17T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -8816,8 +8816,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.692476Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-24T13:58:17.169253Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -11527,8 +11527,8 @@
     "name":"SDSAT",
     "names":"Satish Dhawan SAT",
     "image":"",
-    "status":"dead",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-07-18T00:00:00Z",
     "launched":"2021-02-28T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.spacekidzindia.in\/sdsat\/",
@@ -11537,8 +11537,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:13:57.968417Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-24T18:44:39.231574Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
