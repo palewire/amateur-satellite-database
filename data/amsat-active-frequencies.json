@@ -727,7 +727,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":"FLEF4N",
-    "satnogs_id":null
+    "satnogs_id":"LSZL-5040-6372-8930-2241"
   },
   {
     "name":"CHOMPTT",
@@ -3097,7 +3097,7 @@
     "beacon":"145.840",
     "mode":"1k2AFSK\/9k6*GMSK APRS SSTV CW",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"PBTZ-3525-0189-2410-5216"
   },
   {
     "name":"SO-50",
@@ -3617,7 +3617,7 @@
     "beacon":"437.075",
     "mode":"FSK* CW",
     "callsign":null,
-    "satnogs_id":"DIPJ-1621-9001-6340-0407"
+    "satnogs_id":"NRKA-7886-5351-9767-4652"
   },
   {
     "name":"TTU100",

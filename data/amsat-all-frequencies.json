@@ -173,7 +173,7 @@
     "mode":"2400bps GMSK",
     "callsign":null,
     "status":"non-amateur",
-    "satnogs_id":null
+    "satnogs_id":"EYEX-3123-7466-3755-9687"
   },
   {
     "name":"AENEAS",
@@ -250,7 +250,7 @@
     "mode":"1145baudAFSK",
     "callsign":"RS41S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ULWR-5929-7873-9279-5662"
   },
   {
     "name":"AISat",
@@ -3550,7 +3550,7 @@
     "mode":"9600bps FSK",
     "callsign":"FLEF4N",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"LSZL-5040-6372-8930-2241"
   },
   {
     "name":"Challenger",
@@ -10051,7 +10051,7 @@
     "mode":"9600bps GFSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"AXJM-2333-0617-1242-6553"
   },
   {
     "name":"MTCube-2",
@@ -13010,7 +13010,7 @@
     "mode":"9600bps GFSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"AXJM-2333-0617-1242-6553"
   },
   {
     "name":"ROBUSTA-1D",
@@ -14770,7 +14770,7 @@
     "mode":"1k2AFSK\/9k6*GMSK APRS SSTV CW",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"PBTZ-3525-0189-2410-5216"
   },
   {
     "name":"SORTIE",
@@ -15474,7 +15474,7 @@
     "mode":"CW 20",
     "callsign":"RS45S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"TPFJ-8515-0586-8488-7013"
   },
   {
     "name":"StratoSat-TK1-B",
@@ -15496,7 +15496,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"IIPF-8054-8479-1405-9998"
   },
   {
     "name":"StratoSat-TK1-D",
@@ -15507,7 +15507,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"HDIN-9074-4089-8994-4974"
   },
   {
     "name":"StratoSat-TK1-E",
@@ -15518,7 +15518,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LHKG-2370-4970-1896-6067"
   },
   {
     "name":"StratoSat-TK1-F",
@@ -15529,7 +15529,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"XCGJ-2096-8947-1485-0184"
   },
   {
     "name":"StratoSat-TK1 picosat-B",
@@ -16981,7 +16981,7 @@
     "mode":"FSK* CW",
     "callsign":null,
     "status":"active",
-    "satnogs_id":"DIPJ-1621-9001-6340-0407"
+    "satnogs_id":"NRKA-7886-5351-9767-4652"
   },
   {
     "name":"TSAT",

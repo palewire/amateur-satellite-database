@@ -13972,7 +13972,7 @@
   {
     "sat_id":"BWZN-6466-6429-8096-5664",
     "norad_cat_id":99811.0,
-    "norad_follow_id":44399.0,
+    "norad_follow_id":44395.0,
     "name":"MTCube",
     "names":"ROBUSTA 1C",
     "image":"",
@@ -13986,8 +13986,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:03:48.262741Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-29T02:56:06.939860Z",
+    "citation":"https:\/\/in-the-sky.org\/spacecraft.php?id=44395",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -14020,7 +14020,7 @@
   {
     "sat_id":"BJTK-9253-4786-7593-8498",
     "norad_cat_id":99816.0,
-    "norad_follow_id":44419.0,
+    "norad_follow_id":44397.0,
     "name":"ECUADOR-UTE",
     "names":"",
     "image":"",
@@ -14034,8 +14034,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T01:57:14.556012Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-29T02:59:44.468246Z",
+    "citation":"Random choice to of possible NORAD IDs",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14308,7 +14308,7 @@
   {
     "sat_id":"MKYL-1174-0802-7826-9086",
     "norad_cat_id":99913.0,
-    "norad_follow_id":43771.0,
+    "norad_follow_id":43761.0,
     "name":"K2SAT",
     "names":"K\u00b2SAT",
     "image":"",
@@ -14322,8 +14322,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T22:44:44.862753Z",
-    "citation":"Random choice from the unknown (according to space-track.org) objects",
+    "updated":"2024-05-29T03:11:21.774585Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43761#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14406,7 +14406,7 @@
   {
     "sat_id":"RDSI-0759-2678-4735-0067",
     "norad_cat_id":99926.0,
-    "norad_follow_id":43758.0,
+    "norad_follow_id":43761.0,
     "name":"SeeMe",
     "names":"",
     "image":"",
@@ -14420,8 +14420,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:43.089959Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-29T03:08:14.854211Z",
+    "citation":"Random choice to one of possible NORAD IDs",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14430,7 +14430,7 @@
   {
     "sat_id":"MADO-9521-7061-1658-0034",
     "norad_cat_id":99930.0,
-    "norad_follow_id":43758.0,
+    "norad_follow_id":43822.0,
     "name":"VisionCube",
     "names":"",
     "image":"",
@@ -14444,8 +14444,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:06:50.219526Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-29T03:11:47.692267Z",
+    "citation":"https:\/\/www.nanosats.eu\/sat\/visioncube",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19650,8 +19650,8 @@
   },
   {
     "sat_id":"NRKA-7886-5351-9767-4652",
-    "norad_cat_id":99404.0,
-    "norad_follow_id":52419.0,
+    "norad_cat_id":52420.0,
+    "norad_follow_id":null,
     "name":"TRSI-2",
     "names":"",
     "image":"satellites\/279407728_567035044773485_7484290434970795144_n.png",
@@ -19665,11 +19665,12 @@
     "telemetries":[
 
     ],
-    "updated":"2022-05-11T10:58:16.071834Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-29T02:28:17.371294Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
-      "IJEN-7332-6275-7920-2780"
+      "IJEN-7332-6275-7920-2780",
+      "DIPJ-1621-9001-6340-0407"
     ]
   },
   {
@@ -22507,9 +22508,9 @@
     "name":"Kuzbass-300",
     "names":"SXC3-218, RS34S, KUZSTU",
     "image":"satellites\/SXC3_WEqsLrs.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-05-18T00:00:00Z",
+    "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites-sputnix\/for-radioamateurs",
     "operator":"None",
@@ -22517,8 +22518,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-14T02:42:18.260356Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53375\/2022-08-13T23%3A36%3A22_6325608_53375_22096F_0-OBJECT-F_0.4560407629629708_B_r24.0_f0.0.png",
+    "updated":"2024-05-29T01:16:24.146604Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/kuzbass-300\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -27802,7 +27803,7 @@
     "sat_id":"GULY-0172-8360-2635-1516",
     "norad_cat_id":52085.0,
     "norad_follow_id":null,
-    "name":"2022-027B",
+    "name":"CZ-4C R\/B",
     "names":"",
     "image":"",
     "status":"alive",
@@ -27815,8 +27816,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T08:31:04.175705Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-29T02:39:06.382671Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=52085",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28465,30 +28466,6 @@
     ],
     "updated":"2023-01-11T15:36:10.931321Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1A7wlN4dFBgbIorK-k1cOr0mcdpzbA7Jowp4BmWnOEI8\/edit?usp=sharing",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"DIPJ-1621-9001-6340-0407",
-    "norad_cat_id":52420.0,
-    "norad_follow_id":null,
-    "name":"2022-047AC",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2023-01-11T20:58:34.985318Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32423,8 +32400,8 @@
   },
   {
     "sat_id":"TPFJ-8515-0586-8488-7013",
-    "norad_cat_id":99150.0,
-    "norad_follow_id":57322.0,
+    "norad_cat_id":57322.0,
+    "norad_follow_id":null,
     "name":"StratoSat TK-1-A",
     "names":"RS45S",
     "image":"",
@@ -32438,8 +32415,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-07T00:19:47.824019Z",
-    "citation":"From the team",
+    "updated":"2024-05-29T01:08:07.489272Z",
+    "citation":"Change status",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32449,8 +32426,8 @@
     "sat_id":"KANX-6033-2616-0861-1048",
     "norad_cat_id":57323.0,
     "norad_follow_id":null,
-    "name":"StratoSat TK-1-B",
-    "names":"RS52SB",
+    "name":"StratoSat TK-1-E",
+    "names":"RS52SE",
     "image":"satellites\/d.jpg",
     "status":"alive",
     "decayed":null,
@@ -32462,8 +32439,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T23:10:00.529257Z",
-    "citation":"https:\/\/efir.net.ru\/satellite\/RS52SB\/",
+    "updated":"2024-05-29T00:56:14.869709Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
       "WALR-9075-3889-1687-8814"
@@ -32471,10 +32448,10 @@
   },
   {
     "sat_id":"IIPF-8054-8479-1405-9998",
-    "norad_cat_id":99148.0,
-    "norad_follow_id":57324.0,
-    "name":"StratoSat TK-1-C",
-    "names":"",
+    "norad_cat_id":57324.0,
+    "norad_follow_id":null,
+    "name":"StratoSat TK-1-B",
+    "names":"RS52SB",
     "image":"satellites\/g.jpg",
     "status":"alive",
     "decayed":null,
@@ -32486,19 +32463,19 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T23:07:06.824831Z",
-    "citation":"https:\/\/efir.net.ru\/satellite\/RS52SG\/",
+    "updated":"2024-05-29T01:03:51.687411Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "ARYX-9712-5079-3475-4014"
     ]
   },
   {
     "sat_id":"HDIN-9074-4089-8994-4974",
-    "norad_cat_id":99147.0,
-    "norad_follow_id":57325.0,
-    "name":"StratoSat TK-1-D",
-    "names":"",
+    "norad_cat_id":57325.0,
+    "norad_follow_id":null,
+    "name":"StratoSat TK-1-G",
+    "names":"RS52SG",
     "image":"satellites\/b_HqwXnvA.jpg",
     "status":"alive",
     "decayed":null,
@@ -32510,19 +32487,19 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T23:06:53.565631Z",
-    "citation":"https:\/\/efir.net.ru\/satellite\/RS52SB\/",
+    "updated":"2024-05-29T00:45:26.037271Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "TQXE-9792-4163-4929-1078"
     ]
   },
   {
     "sat_id":"LHKG-2370-4970-1896-6067",
-    "norad_cat_id":99146.0,
-    "norad_follow_id":57326.0,
-    "name":"StratoSat TK-1-E",
-    "names":"",
+    "norad_cat_id":57326.0,
+    "norad_follow_id":null,
+    "name":"StratoSat TK-1-D",
+    "names":"RS52SD",
     "image":"satellites\/e.jpg",
     "status":"alive",
     "decayed":null,
@@ -32534,19 +32511,19 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T23:07:02.400098Z",
-    "citation":"https:\/\/efir.net.ru\/satellite\/RS52SE\/",
+    "updated":"2024-05-29T00:41:48.945264Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "ZYSG-8800-5259-5585-6318"
     ]
   },
   {
     "sat_id":"XCGJ-2096-8947-1485-0184",
-    "norad_cat_id":99145.0,
-    "norad_follow_id":57327.0,
-    "name":"StratoSat TK-1-F",
-    "names":"",
+    "norad_cat_id":57327.0,
+    "norad_follow_id":null,
+    "name":"StratoSat TK-1-V",
+    "names":"RS52SV",
     "image":"satellites\/v.jpg",
     "status":"alive",
     "decayed":null,
@@ -32558,11 +32535,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T23:06:57.961313Z",
-    "citation":"https:\/\/efir.net.ru\/satellite\/RS52SV\/",
+    "updated":"2024-05-29T01:13:58.125751Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "QTOF-1385-6197-1504-8828"
     ]
   },
   {
@@ -32615,8 +32592,8 @@
   },
   {
     "sat_id":"ULWR-5929-7873-9279-5662",
-    "norad_cat_id":99142.0,
-    "norad_follow_id":57206.0,
+    "norad_cat_id":57206.0,
+    "norad_follow_id":null,
     "name":"AHMAT-1",
     "names":"RS41S",
     "image":"satellites\/large_Ahmat_1_7564081887.jpeg",
@@ -32630,8 +32607,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-23T12:57:37.182427Z",
-    "citation":"57208 SITRO-AIS-11",
+    "updated":"2024-05-29T00:33:18.740656Z",
+    "citation":"Change status",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -41985,8 +41962,8 @@
   },
   {
     "sat_id":"PBTZ-3525-0189-2410-5216",
-    "norad_cat_id":98959.0,
-    "norad_follow_id":59112.0,
+    "norad_cat_id":59112.0,
+    "norad_follow_id":null,
     "name":"SONATE-2",
     "names":"DP0SNX",
     "image":"satellites\/sonate-2.png",
@@ -42000,11 +41977,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-14T09:39:07.415478Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-05-29T03:13:57.503658Z",
+    "citation":"https:\/\/www.informatik.uni-wuerzburg.de\/en\/aerospaceinfo\/staff\/kayal\/research-activities\/sonate-2\/",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "YFDH-6340-5343-3152-5493"
     ]
   },
   {
@@ -43209,7 +43186,7 @@
   },
   {
     "sat_id":"WWUP-9998-0503-1426-7549",
-    "norad_cat_id":98920.0,
+    "norad_cat_id":59132.0,
     "norad_follow_id":null,
     "name":"LIZZIESAT-1",
     "names":"",
@@ -43218,17 +43195,17 @@
     "decayed":null,
     "launched":"2024-03-04T22:05:00Z",
     "deployed":"2024-03-04T23:23:33Z",
-    "website":"",
+    "website":"https:\/\/sidusspace.com\/lizziesat\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.404656Z",
-    "citation":"Change status to alive",
+    "updated":"2024-05-29T02:13:44.668598Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "ITHX-4372-8123-5706-5358"
     ]
   },
   {
@@ -43346,30 +43323,6 @@
     ],
     "updated":"2024-03-05T21:57:02.219894Z",
     "citation":"Add temporary NORAD ID",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"ITHX-4372-8123-5706-5358",
-    "norad_cat_id":98915.0,
-    "norad_follow_id":59132.0,
-    "name":"Unknown from Transporter 10",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2024-03-04T22:05:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2024-03-15T18:40:14.550691Z",
-    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43737,8 +43690,8 @@
   },
   {
     "sat_id":"VRMG-5837-8969-8165-1995",
-    "norad_cat_id":98900.0,
-    "norad_follow_id":59562.0,
+    "norad_cat_id":59562.0,
+    "norad_follow_id":null,
     "name":"BurstCube",
     "names":"",
     "image":"",
@@ -43752,8 +43705,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-07T08:00:44.130551Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/288",
+    "updated":"2024-05-29T02:42:54.169067Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=59562",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44241,8 +44194,8 @@
   },
   {
     "sat_id":"LSZL-5040-6372-8930-2241",
-    "norad_cat_id":98907.0,
-    "norad_follow_id":59451.0,
+    "norad_cat_id":59451.0,
+    "norad_follow_id":null,
     "name":"Centauri 6",
     "names":"",
     "image":"",
@@ -44256,8 +44209,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-14T15:50:13.389439Z",
-    "citation":"VK5Q1 and SV1QVE survey -  similar to CENTUARI 1 & 2 https:\/\/db.satnogs.org\/satellite\/UESS-5249-7079-4000-7571#transmitters",
+    "updated":"2024-05-29T02:40:10.100765Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=59451",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44433,8 +44386,8 @@
   },
   {
     "sat_id":"NPMQ-5766-1820-4469-0607",
-    "norad_cat_id":98902.0,
-    "norad_follow_id":59446.0,
+    "norad_cat_id":59443.0,
+    "norad_follow_id":null,
     "name":"Hawk 8A",
     "names":"",
     "image":"",
@@ -44448,8 +44401,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-15T06:21:15.221114Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-1-ksc-2024-04-07-23-16-utc\/11603",
+    "updated":"2024-05-29T02:41:37.099562Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=59443",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44529,8 +44482,8 @@
   },
   {
     "sat_id":"EYEX-3123-7466-3755-9687",
-    "norad_cat_id":98897.0,
-    "norad_follow_id":59588.0,
+    "norad_cat_id":59588.0,
+    "norad_follow_id":null,
     "name":"ACS3",
     "names":"Advanced Composite Solar Sail System",
     "image":"",
@@ -44544,17 +44497,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-24T08:36:35.194867Z",
-    "citation":"celestrak.org",
+    "updated":"2024-05-29T02:43:41.597856Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=59588",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "EHDV-8804-4333-9548-2140"
     ]
   },
   {
     "sat_id":"EJOF-3230-5676-4528-8529",
-    "norad_cat_id":98896.0,
-    "norad_follow_id":59587.0,
+    "norad_cat_id":59587.0,
+    "norad_follow_id":null,
     "name":"NeonSat-1",
     "names":"New-space Earth Observation Satellite-1",
     "image":"satellites\/images.jpg",
@@ -44568,8 +44521,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-01T17:56:53.412122Z",
-    "citation":"satellite team",
+    "updated":"2024-05-29T02:45:54.164619Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=59587",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44786,6 +44739,126 @@
     ],
     "updated":"2024-05-23T11:41:24.658748Z",
     "citation":"https:\/\/www.space-track.org\/#catalog",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QVHX-4532-8129-8789-0555",
+    "norad_cat_id":55092.0,
+    "norad_follow_id":null,
+    "name":"SPACEBEE-166",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-29T02:39:28.999938Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=55092",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VLNG-8589-4604-3553-2304",
+    "norad_cat_id":43819.0,
+    "norad_follow_id":null,
+    "name":"eXCITe",
+    "names":"PTB 1",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-12-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-29T03:04:33.520410Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43819",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VXSN-6297-1127-3488-0753",
+    "norad_cat_id":42832.0,
+    "norad_follow_id":null,
+    "name":"ECUADOR UTE-YUZGU",
+    "names":"RS3S",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-07-14T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-29T02:56:31.896355Z",
+    "citation":"https:\/\/swsu.ru\/space\/ekvador-ute-yuzgu-rs3s\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AXJM-2333-0617-1242-6553",
+    "norad_cat_id":44399.0,
+    "norad_follow_id":null,
+    "name":"DOT-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-07-05T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-29T02:50:58.044781Z",
+    "citation":"Change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RZHQ-9505-1081-3887-4661",
+    "norad_cat_id":59446.0,
+    "norad_follow_id":null,
+    "name":"HAWK-9A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-04-07T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-29T02:41:10.369926Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=59446",
     "is_frequency_violator":false,
     "associated_satellites":[
 
