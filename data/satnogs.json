@@ -18990,10 +18990,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19213,10 +19213,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -44883,6 +44883,30 @@
     ],
     "updated":"2024-05-29T18:45:32.231537Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/14Fq7KwSPK2vXp2rJjQUQUjvl0q8qGL0ZuqbkHYJv6Dw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ITXL-3626-3292-3785-3902",
+    "norad_cat_id":37781.0,
+    "norad_follow_id":null,
+    "name":"HAIYANG 2A",
+    "names":"2011-043A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2011-08-15T00:00:00Z",
+    "deployed":"2011-08-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-30T10:58:07.610416Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1QBh7yc0WmImFbryjXoiYobobv2sNakjOGPGJJCa34vE\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
