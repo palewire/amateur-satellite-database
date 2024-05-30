@@ -884,8 +884,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2023-11-14T17:06:46.259002Z",
-    "citation":"http:\/\/www.aprs.org\/pcsat.html",
+    "updated":"2024-05-29T16:55:37.657819Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18990,10 +18990,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -31003,7 +31003,7 @@
     "norad_cat_id":55562.0,
     "norad_follow_id":null,
     "name":"EOS-07",
-    "names":"A55BTN, EOS-7",
+    "names":"A55BTN",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -31017,8 +31017,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2023-04-08T08:52:47.421606Z",
-    "citation":"Adding India and Bhutan as country of origin",
+    "updated":"2024-05-29T16:55:58.922690Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44859,6 +44859,30 @@
     ],
     "updated":"2024-05-29T02:41:10.369926Z",
     "citation":"https:\/\/www.n2yo.com\/satellite\/?s=59446",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BOJL-3843-0201-8927-0582",
+    "norad_cat_id":37179.0,
+    "norad_follow_id":null,
+    "name":"SJ-6G",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2010-10-06T00:00:00Z",
+    "deployed":"2010-10-06T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-05-29T18:45:32.231537Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/14Fq7KwSPK2vXp2rJjQUQUjvl0q8qGL0ZuqbkHYJv6Dw\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
