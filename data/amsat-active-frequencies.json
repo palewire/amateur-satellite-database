@@ -2350,16 +2350,6 @@
     "satnogs_id":"LXXL-2333-4110-5964-9846"
   },
   {
-    "name":"OPS-SAT",
-    "norad_id":"44878",
-    "uplink":null,
-    "downlink":"437.200",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"DP0OPS",
-    "satnogs_id":"NRVR-2280-9172-8926-1963"
-  },
-  {
     "name":"ORBICRAFT-ZORKIY",
     "norad_id":"47960",
     "uplink":null,
