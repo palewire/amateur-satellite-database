@@ -44911,5 +44911,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"KYCV-6911-2713-6035-4753",
+    "norad_cat_id":27858.0,
+    "norad_follow_id":null,
+    "name":"SCISAT 1",
+    "names":"2003-036A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2003-08-13T00:00:00Z",
+    "deployed":"2003-08-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CA",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-01T11:35:49.318251Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1e_xQ0HH8YuCw718lWwnU0xTxFXDunKXTLM8T8LMhgmA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
