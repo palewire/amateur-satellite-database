@@ -12409,7 +12409,7 @@
     "norad_cat_id":48900.0,
     "norad_follow_id":null,
     "name":"TUBIN",
-    "names":"",
+    "names":"2BIN, TWOBIN",
     "image":"satellites\/2021_TUBIN_190503_800x800.jpg",
     "status":"alive",
     "decayed":null,
@@ -12421,8 +12421,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.937579Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-31T12:32:31.650988Z",
+    "citation":"https:\/\/community.libre.space\/t\/2bin-launch-relaunch-of-tubin-within-student-lecture\/11803",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13856,7 +13856,7 @@
     "name":"BEESAT-10",
     "names":"DP0BEN",
     "image":"satellites\/BEESAT-13.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
@@ -13866,8 +13866,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:36:03.699520Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-31T17:17:44.284554Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13880,7 +13880,7 @@
     "name":"BEESAT-11",
     "names":"DP0BEO",
     "image":"satellites\/BEESAT-13_w55098X.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
@@ -13890,8 +13890,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:36:28.373607Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-31T17:17:42.451633Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13904,7 +13904,7 @@
     "name":"BEESAT-12",
     "names":"DP0BEP",
     "image":"satellites\/BEESAT-13_Aa9KRe3.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
@@ -13914,8 +13914,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:36:33.711701Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-31T17:17:41.215920Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13928,7 +13928,7 @@
     "name":"BEESAT-13",
     "names":"DP0BEQ",
     "image":"satellites\/BEESAT-13_H6IihVW.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
@@ -13938,8 +13938,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:36:38.383886Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-31T17:17:38.896236Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17887,13 +17887,13 @@
   },
   {
     "sat_id":"SNOW-5949-8363-0807-9869",
-    "norad_cat_id":99481.0,
-    "norad_follow_id":51081.0,
+    "norad_cat_id":51081.0,
+    "norad_follow_id":null,
     "name":"EASAT-2",
     "names":"SO-114, AM5SAT",
     "image":"satellites\/EASAT-2-ok-ant-plegadas.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-22T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat-ea.org\/proyectos\/",
@@ -17902,8 +17902,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-03-11T05:40:49.769052Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/134 and https:\/\/amsat-uk.org\/2022\/01\/07\/launch-of-easat-2-and-hades-satellites\/amp\/",
+    "updated":"2024-05-31T17:19:05.224959Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19103,13 +19103,13 @@
   },
   {
     "sat_id":"FWFR-1086-4147-8825-4245",
-    "norad_cat_id":99456.0,
-    "norad_follow_id":51084.0,
+    "norad_cat_id":51084.0,
+    "norad_follow_id":null,
     "name":"DODONA",
     "names":"",
     "image":"satellites\/gsky-1__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-23T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":"2022-01-24T09:02:00Z",
     "website":"https:\/\/www.isi.edu\/centers-serc\/research\/nanosatellites\/dodona\/",
@@ -19118,8 +19118,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-09T23:39:52.251663Z",
-    "citation":"https:\/\/www.isi.edu\/centers-serc\/research\/nanosatellites\/dodona\/",
+    "updated":"2024-05-31T17:25:02.042708Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19213,10 +19213,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -19330,8 +19330,8 @@
     "name":"NOUR 02",
     "names":"NOUR 02, NOOR-2 NOOR-02",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-17T00:00:00Z",
     "launched":"2022-03-08T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -19340,8 +19340,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:12:04.186759Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-05-31T17:28:01.632566Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19580,8 +19580,8 @@
     "name":"SUCHAI3",
     "names":"",
     "image":"satellites\/suchai3.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-25T00:00:00Z",
     "launched":"2022-04-01T00:00:00Z",
     "deployed":"2022-04-14T00:00:00Z",
     "website":"http:\/\/spel.ing.uchile.cl\/projects.html",
@@ -19592,8 +19592,8 @@
         "decoder":"suchai2"
       }
     ],
-    "updated":"2022-04-20T12:13:25.550733Z",
-    "citation":"https:\/\/spel.cl\/",
+    "updated":"2024-05-31T17:28:47.201136Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "SPTH-5398-8203-0637-1368",
@@ -24843,8 +24843,8 @@
     "name":"Thybolt-1",
     "names":"",
     "image":"satellites\/FibSeYXVIAAsyrm.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-18T00:00:00Z",
     "launched":"2022-11-25T06:16:00Z",
     "deployed":"2022-11-25T08:10:00Z",
     "website":"https:\/\/www.dhruvaspace.com\/dhruva-space-thybolt-mission-ham-radio-operators",
@@ -24853,8 +24853,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-09T18:04:08.989079Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-54363\/2022-12-09T12%3A06%3A43_6847073_54363_22158C_0-OBJECT-C_0.2726256118518222_B_r24.0_f0.8.png",
+    "updated":"2024-05-31T17:32:11.300188Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24867,8 +24867,8 @@
     "name":"Thybolt-2",
     "names":"",
     "image":"satellites\/FibSeYXVIAAsyrm_W8O31dZ.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-22T00:00:00Z",
     "launched":"2022-11-25T06:16:00Z",
     "deployed":"2022-11-25T08:10:00Z",
     "website":"https:\/\/www.dhruvaspace.com\/dhruva-space-thybolt-mission-ham-radio-operators",
@@ -24877,8 +24877,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-09T18:05:11.582613Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-54364\/2022-12-09T12%3A06%3A24_6847051_54364_22158D_0-OBJECT-D_0.2746465344444573_B_r24.0_f0.3.png",
+    "updated":"2024-05-31T17:32:43.434810Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 

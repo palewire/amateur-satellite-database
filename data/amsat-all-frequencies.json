@@ -4881,7 +4881,7 @@
     "mode":"19200bps GFSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"FWFR-1086-4147-8825-4245"
   },
   {
     "name":"DOSAAF-85",
@@ -5266,7 +5266,7 @@
     "mode":"1k2\/2k4 AFSK APRS FM CW",
     "callsign":"AM5SAT",
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"SNOW-5949-8363-0807-9869"
   },
   {
     "name":"EcAMSat",
@@ -6675,6 +6675,28 @@
     "callsign":"RS20S",
     "status":"re-entered",
     "satnogs_id":"QNCD-8954-6090-5430-2718"
+  },
+  {
+    "name":"GEO-KOMPSAT-2A",
+    "norad_id":"43823",
+    "uplink":null,
+    "downlink":"1692.140",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"non-amateur",
+    "satnogs_id":null
+  },
+  {
+    "name":"GEO-KOMPSAT-2B",
+    "norad_id":"45246",
+    "uplink":null,
+    "downlink":"1692.140",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"non-amateur",
+    "satnogs_id":null
   },
   {
     "name":"GhanaSat-1",
@@ -14869,7 +14891,7 @@
     "mode":"1k2\/2k4 AFSK APRS FM CW*",
     "callsign":"AM5SAT",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"SNOW-5949-8363-0807-9869"
   },
   {
     "name":"SO-115",
