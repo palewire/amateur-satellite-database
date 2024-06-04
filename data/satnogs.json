@@ -9834,8 +9834,8 @@
     "name":"BEESAT-9",
     "names":"DP0BEM",
     "image":"satellites\/csm_BEESAT-4_FM_2_12dc8496e0.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-04T08:05:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.raumfahrttechnik.tu-berlin.de\/menue\/research\/current_projects\/beesat_9\/parameter\/en\/",
@@ -9844,8 +9844,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T14:23:05.760753Z",
-    "citation":"https:\/\/www.raumfahrttechnik.tu-berlin.de\/menue\/research\/current_projects\/beesat_9\/parameter\/en\/",
+    "updated":"2024-06-04T10:51:52.540803Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
