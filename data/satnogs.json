@@ -9816,7 +9816,9 @@
     "operator":"None",
     "countries":"CZ",
     "telemetries":[
-
+      {
+        "decoder":"lucky7"
+      }
     ],
     "updated":"2021-07-21T10:11:42.769868Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
@@ -17165,8 +17167,8 @@
     "name":"CENTAURI-4",
     "names":"TYVAK-0211",
     "image":"satellites\/centauri-3__1_iiDD1FY.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-28T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -17175,8 +17177,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-14T13:41:13.739195Z",
-    "citation":"Eelke Survey",
+    "updated":"2024-06-03T16:59:54.865132Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19655,8 +19657,8 @@
     "name":"TRSI-2",
     "names":"",
     "image":"satellites\/279407728_567035044773485_7484290434970795144_n.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-03T00:00:00Z",
     "launched":"2022-05-02T22:59:00Z",
     "deployed":"2022-05-02T22:59:00Z",
     "website":"http:\/\/www.uac-lab.com\/",
@@ -19665,7 +19667,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-29T02:28:17.371294Z",
+    "updated":"2024-06-03T16:58:10.523729Z",
     "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
