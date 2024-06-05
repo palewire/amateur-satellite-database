@@ -44937,5 +44937,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"INLK-0953-0443-4235-5164",
+    "norad_cat_id":58921.0,
+    "norad_follow_id":null,
+    "name":"OBJECT E",
+    "names":"2024-024E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-02T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-04T17:55:13.263595Z",
+    "citation":"STRF observation",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
