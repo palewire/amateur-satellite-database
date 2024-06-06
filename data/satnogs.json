@@ -14026,8 +14026,8 @@
     "name":"ECUADOR-UTE",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-05T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -14036,8 +14036,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-29T02:59:44.468246Z",
-    "citation":"Random choice to of possible NORAD IDs",
+    "updated":"2024-06-06T08:40:03.840447Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22534,8 +22534,8 @@
     "name":"ISOI",
     "names":"SXC3-219, RS19Sl, MEDEX",
     "image":"satellites\/SXC3_Y1IVohc.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-06T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites-sputnix\/for-radioamateurs",
@@ -22544,8 +22544,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-16T22:48:00.654393Z",
-    "citation":"https:\/\/community.libre.space\/t\/observation-6747670-isoi-99358\/9784",
+    "updated":"2024-06-06T08:25:49.469237Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
       "JWMP-8815-6656-8906-2224"
@@ -27784,8 +27784,8 @@
     "name":"Tianqi-10",
     "names":"Tianqi Xingzuo 10",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-05T00:00:00Z",
     "launched":"2020-07-25T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -27794,8 +27794,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T08:31:28.535602Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-06-06T08:27:09.093325Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33700,13 +33700,13 @@
   },
   {
     "sat_id":"OMCN-5778-7813-6583-2628",
-    "norad_cat_id":99115.0,
+    "norad_cat_id":56936.0,
     "norad_follow_id":null,
     "name":"FOSSASAT-FEROX 14",
     "names":"PlatziSat-1",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-25T00:00:00Z",
     "launched":"2023-06-12T21:35:00Z",
     "deployed":"2023-06-12T22:34:59Z",
     "website":"",
@@ -33715,8 +33715,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:24:46.011834Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2024-06-06T08:38:15.463921Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34901,11 +34901,11 @@
   {
     "sat_id":"JPOQ-1297-7674-4432-5408",
     "norad_cat_id":99078.0,
-    "norad_follow_id":56936.0,
+    "norad_follow_id":null,
     "name":"Transporter 8 Satellite F",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -34915,8 +34915,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-11T15:46:48.974702Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7843566\/",
+    "updated":"2024-06-06T08:34:14.538570Z",
+    "citation":"No identification, set as re-entered",
     "is_frequency_violator":false,
     "associated_satellites":[
 
