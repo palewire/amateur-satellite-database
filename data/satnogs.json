@@ -44961,5 +44961,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RRRS-6295-8710-0521-9563",
+    "norad_cat_id":98893.0,
+    "norad_follow_id":null,
+    "name":"SSAMUSAT",
+    "names":"Sir Syed Aligarh Muslim University SATellite",
+    "image":"satellites\/chassis.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/amu-sat.github.io\/",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-08T02:10:01.169162Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/309",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
