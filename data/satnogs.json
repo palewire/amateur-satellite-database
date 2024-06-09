@@ -30401,8 +30401,8 @@
   },
   {
     "sat_id":"LZAR-9879-8329-7254-6929",
-    "norad_cat_id":99197.0,
-    "norad_follow_id":59508.0,
+    "norad_cat_id":59508.0,
+    "norad_follow_id":null,
     "name":"Kashiwa",
     "names":"JS1YMX, \u67cf",
     "image":"satellites\/KASHIWA.jpg",
@@ -30416,11 +30416,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T12:23:43.537758Z",
-    "citation":"https:\/\/celestrak.org\/",
+    "updated":"2024-06-09T07:26:13.230842Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "DUZR-7986-3856-4697-1895"
     ]
   },
   {

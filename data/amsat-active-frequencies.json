@@ -1397,7 +1397,7 @@
     "beacon":null,
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YMX",
-    "satnogs_id":null
+    "satnogs_id":"LZAR-9879-8329-7254-6929"
   },
   {
     "name":"GOMX-1",
@@ -1847,7 +1847,7 @@
     "beacon":null,
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YMX",
-    "satnogs_id":null
+    "satnogs_id":"LZAR-9879-8329-7254-6929"
   },
   {
     "name":"KILICSAT",

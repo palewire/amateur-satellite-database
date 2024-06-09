@@ -6542,7 +6542,7 @@
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YMX",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"LZAR-9879-8329-7254-6929"
   },
   {
     "name":"GASPACS",
@@ -8467,7 +8467,7 @@
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YMX",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"LZAR-9879-8329-7254-6929"
   },
   {
     "name":"KAUSAT-5",
