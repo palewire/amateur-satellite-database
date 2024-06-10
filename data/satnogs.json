@@ -9688,8 +9688,8 @@
     "name":"D-STAR ONE (LIGHTSAT)",
     "names":"LIGHTSAT",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-07T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/web.archive.org\/web\/20190807184852\/http:\/\/www.d-star.one\/",
@@ -9698,8 +9698,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:53:45.849356Z",
-    "citation":"https:\/\/www.satblog.info\/lightsat-telemetry-and-d-star-beacon\/",
+    "updated":"2024-06-10T08:35:52.670356Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "ZSZW-6690-8296-3277-9126"
@@ -9882,8 +9882,8 @@
     "name":"JAISAT-1",
     "names":"",
     "image":"satellites\/jaisat-1__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-10T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -9892,8 +9892,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-04-16T16:37:13.007090Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-06-10T08:39:10.949315Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44419",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19677,13 +19677,13 @@
   },
   {
     "sat_id":"MGRL-5395-0799-1779-5259",
-    "norad_cat_id":99403.0,
-    "norad_follow_id":52418.0,
+    "norad_cat_id":52418.0,
+    "norad_follow_id":null,
     "name":"TRSI-3",
     "names":"",
     "image":"satellites\/279407728_567035044773485_7484290434970795144_n_MisSjPF.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-07T00:00:00Z",
     "launched":"2022-05-02T22:59:00Z",
     "deployed":"2022-05-02T22:59:00Z",
     "website":"http:\/\/www.uac-lab.com\/",
@@ -19692,8 +19692,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-22T07:49:03.707083Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-06-10T08:41:30.007952Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -22414,8 +22414,8 @@
     "name":"MIET-AIS",
     "names":"SXC3-214 RS28S",
     "image":"satellites\/SXC3_VRAhh8G.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-10T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites-sputnix\/for-radioamateurs",
@@ -22424,8 +22424,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-14T02:11:45.364211Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53377\/2022-08-13T14%3A13%3A04_6325571_53377_22096H_0-OBJECT-H_0.00026409740740973575_B_r24.0_f0.0.png",
+    "updated":"2024-06-10T08:42:09.483290Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -24725,8 +24725,8 @@
     "name":"CPOD FLT1",
     "names":"TYVAK-0032",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-10T00:00:00Z",
     "launched":"2022-06-25T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -24735,8 +24735,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-12T07:39:15.292297Z",
-    "citation":"found using strf scan on 401 MHz",
+    "updated":"2024-06-10T08:43:13.277392Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
