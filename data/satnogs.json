@@ -11385,8 +11385,8 @@
     "name":"ASELSAT",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-11T12:00:00Z",
     "launched":"2021-01-24T15:00:00Z",
     "deployed":"2021-01-24T15:00:00Z",
     "website":"",
@@ -11395,8 +11395,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.868416Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-06-11T07:40:27.962905Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -33489,8 +33489,8 @@
     "name":"TSINGHUA SCIENCE",
     "names":"2020-054B",
     "image":"satellites\/tsinghua.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-11T12:00:00Z",
     "launched":"2020-08-06T00:00:00Z",
     "deployed":"2020-08-06T00:00:00Z",
     "website":"",
@@ -33499,8 +33499,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-01T14:51:34.363183Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1tnfVVOElx5RHkDvKXj5nwyFxKvd-YRF4bJUsjO0s9Zk\/edit?usp=sharing",
+    "updated":"2024-06-11T07:39:46.047932Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41321,8 +41321,8 @@
     "name":"CICERO 6",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-11T12:00:00Z",
     "launched":"2017-06-23T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -41331,8 +41331,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-26T06:22:48.979098Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/cicero.htm  https:\/\/www.n2yo.com\/satellite\/?s=42793",
+    "updated":"2024-06-11T07:41:03.118044Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
