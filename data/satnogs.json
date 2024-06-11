@@ -44675,6 +44675,78 @@
     ]
   },
   {
+    "sat_id":"ETCH-3750-6128-6502-6329",
+    "norad_cat_id":39452.0,
+    "norad_follow_id":null,
+    "name":"SWARM A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-10T23:30:38.596903Z",
+    "citation":"https:\/\/www.satdump.org\/Satellite-List\/#swarm-a-norad-39452",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CKNG-0416-0708-9365-3946",
+    "norad_cat_id":39451.0,
+    "norad_follow_id":null,
+    "name":"SWARM B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-10T23:29:59.134784Z",
+    "citation":"https:\/\/www.satdump.org\/Satellite-List\/#swarm-b-norad-39451",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WYTS-2592-1079-7163-0772",
+    "norad_cat_id":39453.0,
+    "norad_follow_id":null,
+    "name":"SWARM C",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-10T23:29:02.590845Z",
+    "citation":"https:\/\/www.satdump.org\/Satellite-List\/#swarm-c-norad-39453",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"PFWT-2170-5249-1641-6126",
     "norad_cat_id":59779.0,
     "norad_follow_id":null,
@@ -44981,6 +45053,54 @@
     ],
     "updated":"2024-06-08T02:10:01.169162Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/309",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MRXI-9555-2470-2277-9807",
+    "norad_cat_id":98892.0,
+    "norad_follow_id":39472.0,
+    "name":"Unknown Object",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-10T14:45:17.828770Z",
+    "citation":"Fix name typo",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KTLJ-6565-0055-8695-9383",
+    "norad_cat_id":98891.0,
+    "norad_follow_id":40974.0,
+    "name":"Unknown Object",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-10T22:12:42.536519Z",
+    "citation":"PE0SAT STRF observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
