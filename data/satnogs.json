@@ -33724,7 +33724,7 @@
   },
   {
     "sat_id":"JQMR-1660-9297-9195-6489",
-    "norad_cat_id":99114.0,
+    "norad_cat_id":56938.0,
     "norad_follow_id":null,
     "name":"FOSSASAT-FEROX 15",
     "names":"",
@@ -33739,8 +33739,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:24:46.036854Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2024-06-11T20:34:28.269334Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33748,13 +33748,13 @@
   },
   {
     "sat_id":"EYXT-4897-9703-7048-2512",
-    "norad_cat_id":99113.0,
+    "norad_cat_id":56932.0,
     "norad_follow_id":null,
     "name":"FOSSASAT-FEROX 16",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-02T00:00:00Z",
     "launched":"2023-06-12T21:35:00Z",
     "deployed":"2023-06-12T22:34:59Z",
     "website":"",
@@ -33763,8 +33763,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:24:46.059585Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2024-06-11T20:37:41.876115Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33772,13 +33772,13 @@
   },
   {
     "sat_id":"QWTV-5582-5903-7296-1481",
-    "norad_cat_id":99112.0,
+    "norad_cat_id":56935.0,
     "norad_follow_id":null,
     "name":"FOSSASAT-FEROX 17",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-17T00:00:00Z",
     "launched":"2023-06-12T21:35:00Z",
     "deployed":"2023-06-12T22:34:59Z",
     "website":"",
@@ -33787,8 +33787,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:24:46.092355Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2024-06-11T20:36:01.632755Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
