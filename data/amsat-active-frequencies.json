@@ -310,16 +310,6 @@
     "satnogs_id":null
   },
   {
-    "name":"BEESAT-9",
-    "norad_id":"44412",
-    "uplink":null,
-    "downlink":"435.950",
-    "beacon":null,
-    "mode":"4k8*\/9k6 GMSK",
-    "callsign":"DP0BEM",
-    "satnogs_id":"FVTP-0768-5406-9405-1618"
-  },
-  {
     "name":"BhutanSat",
     "norad_id":"54365",
     "uplink":null,
@@ -728,16 +718,6 @@
     "mode":"9600bps FSK",
     "callsign":"FLEF4N",
     "satnogs_id":"LSZL-5040-6372-8930-2241"
-  },
-  {
-    "name":"CHOMPTT",
-    "norad_id":"43855",
-    "uplink":null,
-    "downlink":"437.560",
-    "beacon":null,
-    "mode":"1k2*AFSK\/9k6GMSK",
-    "callsign":"WI2XVT",
-    "satnogs_id":"GYLI-0056-5213-2621-8146"
   },
   {
     "name":"CIRBE",
@@ -1448,16 +1428,6 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "satnogs_id":"CNKC-2118-9597-8621-1044"
-  },
-  {
-    "name":"Hades-D",
-    "norad_id":"58567",
-    "uplink":"145.875",
-    "downlink":"436.666",
-    "beacon":"436.666",
-    "mode":"50*\/300\/1k2-9k6 FSK FM* CW",
-    "callsign":null,
-    "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
     "name":"Hayasat-1",
@@ -3098,16 +3068,6 @@
     "mode":"FM* tone 67.0Hz",
     "callsign":null,
     "satnogs_id":"IRES-5964-9687-1982-0089"
-  },
-  {
-    "name":"SO-114",
-    "norad_id":"51081",
-    "uplink":"145.875",
-    "downlink":"436.666",
-    "beacon":"436.666",
-    "mode":"1k2\/2k4 AFSK APRS FM CW*",
-    "callsign":"AM5SAT",
-    "satnogs_id":"SNOW-5949-8363-0807-9869"
   },
   {
     "name":"SO-121",

@@ -1910,7 +1910,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"DP0BEM",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"FVTP-0768-5406-9405-1618"
   },
   {
@@ -3604,7 +3604,7 @@
     "beacon":null,
     "mode":"1k2*AFSK\/9k6GMSK",
     "callsign":"WI2XVT",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"GYLI-0056-5213-2621-8146"
   },
   {
@@ -5265,7 +5265,7 @@
     "beacon":"436.666",
     "mode":"1k2\/2k4 AFSK APRS FM CW",
     "callsign":"AM5SAT",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"SNOW-5949-8363-0807-9869"
   },
   {
@@ -6937,7 +6937,7 @@
     "beacon":"436.666",
     "mode":"50*\/300\/1k2-9k6 FSK FM* CW",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
@@ -14890,7 +14890,7 @@
     "beacon":"436.666",
     "mode":"1k2\/2k4 AFSK APRS FM CW*",
     "callsign":"AM5SAT",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"SNOW-5949-8363-0807-9869"
   },
   {
@@ -14901,7 +14901,7 @@
     "beacon":"436.888",
     "mode":"1k2\/2k4 AFSK FM APRS CW",
     "callsign":"AM6SAT",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
