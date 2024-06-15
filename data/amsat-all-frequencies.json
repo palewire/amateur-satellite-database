@@ -5166,7 +5166,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 mobitex GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"BHTH-8781-5917-5607-8999"
   },
   {
@@ -9082,7 +9082,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 mobitex GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"BHTH-8781-5917-5607-8999"
   },
   {

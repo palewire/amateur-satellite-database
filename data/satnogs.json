@@ -24893,8 +24893,8 @@
     "name":"INS-2B",
     "names":"INDIA-BHUTAN SAT",
     "image":"satellites\/316091443_598736008919920_1292225031143386412_n.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-13T00:00:00Z",
     "launched":"2022-11-25T06:16:00Z",
     "deployed":"2022-11-25T08:21:00Z",
     "website":"",
@@ -24903,8 +24903,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-09T18:02:37.015506Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-54365\/2022-12-08T23%3A05%3A33_6847132_54365_22158E_0-OBJECT-E_0.2676098999999681_A_r29.0_f0.3.png",
+    "updated":"2024-06-15T00:13:32.894604Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
       "EQEE-8221-8428-9687-0741"
@@ -45101,6 +45101,30 @@
     ],
     "updated":"2024-06-10T22:12:42.536519Z",
     "citation":"PE0SAT STRF observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CXEH-2179-3370-4324-5788",
+    "norad_cat_id":59775.0,
+    "norad_follow_id":null,
+    "name":"Zorkiy-2M-4",
+    "names":"S4281A, S4281B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/sputnix.ru\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-14T16:36:23.339498Z",
+    "citation":"Information from satellite operators.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
