@@ -32282,7 +32282,7 @@
     "sat_id":"CXQF-7051-0702-4077-4852",
     "norad_cat_id":99156.0,
     "norad_follow_id":56749.0,
-    "name":"LUMIR-T1",
+    "name":"LUMIR T1",
     "names":"",
     "image":"satellites\/lumir-t1__1.jpg",
     "status":"alive",
@@ -32295,8 +32295,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-09T11:28:33.246572Z",
-    "citation":"satellite team",
+    "updated":"2024-06-15T15:12:18.568305Z",
+    "citation":"https:\/\/www.lumir-inc.com\/eng\/main\/main.asp",
     "is_frequency_violator":true,
     "associated_satellites":[
 
