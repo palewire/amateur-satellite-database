@@ -321,13 +321,13 @@
   },
   {
     "name":"BisonSat",
-    "norad_id":"40968",
+    "norad_id":"40974",
     "uplink":null,
     "downlink":"437.375",
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"N7SKC",
-    "satnogs_id":null
+    "satnogs_id":"IGGV-1318-5974-9239-7350"
   },
   {
     "name":"Blue Diamond",
@@ -2041,13 +2041,13 @@
   },
   {
     "name":"MCubed-2",
-    "norad_id":"39469",
+    "norad_id":"39472",
     "uplink":null,
     "downlink":"437.479",
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"NOCALL",
-    "satnogs_id":null
+    "satnogs_id":"SSBD-3811-5706-8042-1219"
   },
   {
     "name":"MDASat-1C",

@@ -2234,14 +2234,14 @@
   },
   {
     "name":"BisonSat",
-    "norad_id":"40968",
+    "norad_id":"40974",
     "uplink":null,
     "downlink":"437.375",
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"N7SKC",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"IGGV-1318-5974-9239-7350"
   },
   {
     "name":"Black Knight-1",
@@ -9560,14 +9560,14 @@
   },
   {
     "name":"MCubed-2",
-    "norad_id":"39469",
+    "norad_id":"39472",
     "uplink":null,
     "downlink":"437.479",
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"NOCALL",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"SSBD-3811-5706-8042-1219"
   },
   {
     "name":"MDASat-1A",
@@ -9727,9 +9727,9 @@
     "name":"METEOR-M N2-4",
     "norad_id":"59051",
     "uplink":null,
-    "downlink":"137.100\/137.900",
+    "downlink":"137.100\/137.900*",
     "beacon":null,
-    "mode":"72K\/80K LRPT HRPT",
+    "mode":"72K*\/80K LRPT HRPT",
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"VSVI-4798-5613-4587-2414"

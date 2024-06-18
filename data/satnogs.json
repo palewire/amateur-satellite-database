@@ -29588,8 +29588,8 @@
     "name":"CORVUS BC3",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-14T00:00:00Z",
     "launched":"2018-01-12T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -29598,8 +29598,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-04T05:44:31.174592Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/34",
+    "updated":"2024-06-18T11:10:16.817918Z",
+    "citation":"celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30414,7 +30414,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"ax25monitor"
+      }
     ],
     "updated":"2024-06-09T07:26:13.230842Z",
     "citation":"Network observations",
@@ -41977,7 +41979,9 @@
     "operator":"None",
     "countries":"",
     "telemetries":[
-
+      {
+        "decoder":"ax25monitor"
+      }
     ],
     "updated":"2024-05-29T03:13:57.503658Z",
     "citation":"https:\/\/www.informatik.uni-wuerzburg.de\/en\/aerospaceinfo\/staff\/kayal\/research-activities\/sonate-2\/",
