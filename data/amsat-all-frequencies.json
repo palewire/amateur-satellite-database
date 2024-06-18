@@ -2241,7 +2241,7 @@
     "mode":"9600bps GMSK",
     "callsign":"N7SKC",
     "status":"active",
-    "satnogs_id":"IGGV-1318-5974-9239-7350"
+    "satnogs_id":null
   },
   {
     "name":"Black Knight-1",
@@ -9567,7 +9567,7 @@
     "mode":"9600bps GMSK",
     "callsign":"NOCALL",
     "status":"active",
-    "satnogs_id":"SSBD-3811-5706-8042-1219"
+    "satnogs_id":null
   },
   {
     "name":"MDASat-1A",

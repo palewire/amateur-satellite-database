@@ -3063,7 +3063,7 @@
   },
   {
     "sat_id":"SSBD-3811-5706-8042-1219",
-    "norad_cat_id":39469.0,
+    "norad_cat_id":39472.0,
     "norad_follow_id":null,
     "name":"MCUBED-2",
     "names":"",
@@ -3080,11 +3080,11 @@
         "decoder":"mxl"
       }
     ],
-    "updated":"2023-01-03T04:24:21.265086Z",
-    "citation":"https:\/\/www.jpl.nasa.gov\/missions\/m-cubed-cove-2",
+    "updated":"2024-06-17T19:11:17.044251Z",
+    "citation":"https:\/\/community.libre.space\/t\/mcubed-2-and-bisonsat-tle-swaps\/11871",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "MRXI-9555-2470-2277-9807"
     ]
   },
   {
@@ -4301,7 +4301,7 @@
   },
   {
     "sat_id":"IGGV-1318-5974-9239-7350",
-    "norad_cat_id":40968.0,
+    "norad_cat_id":40974.0,
     "norad_follow_id":null,
     "name":"BISONSAT",
     "names":"N7SKC",
@@ -4316,11 +4316,11 @@
     "telemetries":[
 
     ],
-    "updated":"2022-04-25T16:23:16.405420Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-06-17T19:04:41.608280Z",
+    "citation":"https:\/\/community.libre.space\/t\/mcubed-2-and-bisonsat-tle-swaps\/11871",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "KTLJ-6565-0055-8695-9383"
     ]
   },
   {
@@ -45053,54 +45053,6 @@
     ],
     "updated":"2024-06-08T02:10:01.169162Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/309",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"MRXI-9555-2470-2277-9807",
-    "norad_cat_id":98892.0,
-    "norad_follow_id":39472.0,
-    "name":"Unknown Object",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2024-06-10T14:45:17.828770Z",
-    "citation":"Fix name typo",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"KTLJ-6565-0055-8695-9383",
-    "norad_cat_id":98891.0,
-    "norad_follow_id":40974.0,
-    "name":"Unknown Object",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2024-06-10T22:12:42.536519Z",
-    "citation":"PE0SAT STRF observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 

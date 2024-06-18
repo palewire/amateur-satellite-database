@@ -327,7 +327,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"N7SKC",
-    "satnogs_id":"IGGV-1318-5974-9239-7350"
+    "satnogs_id":null
   },
   {
     "name":"Blue Diamond",
@@ -2047,7 +2047,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"NOCALL",
-    "satnogs_id":"SSBD-3811-5706-8042-1219"
+    "satnogs_id":null
   },
   {
     "name":"MDASat-1C",
