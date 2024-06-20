@@ -19215,10 +19215,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -45081,6 +45081,30 @@
     ],
     "updated":"2024-06-14T16:36:23.339498Z",
     "citation":"Information from satellite operators.",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FAWS-4397-4381-8570-0757",
+    "norad_cat_id":98890.0,
+    "norad_follow_id":null,
+    "name":"Kanyini",
+    "names":"SASAT1",
+    "image":"satellites\/Kanyini.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.saspacemission.com.au\/",
+    "operator":"None",
+    "countries":"AU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-19T15:28:21.335505Z",
+    "citation":"https:\/\/www.saspacemission.com.au\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
