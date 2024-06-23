@@ -3670,16 +3670,6 @@
     "satnogs_id":"WDIT-2736-3800-1720-7555"
   },
   {
-    "name":"VDNH-80",
-    "norad_id":"44392",
-    "uplink":null,
-    "downlink":"436.500",
-    "beacon":null,
-    "mode":"4800bps mobitex",
-    "callsign":null,
-    "satnogs_id":"MEPL-6325-0282-8405-8739"
-  },
-  {
     "name":"VELOX-III",
     "norad_id":"41935",
     "uplink":null,
