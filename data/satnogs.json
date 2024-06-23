@@ -9664,8 +9664,8 @@
     "name":"VDNH-80",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-22T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -9674,9 +9674,9 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.759538Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "updated":"2024-06-22T16:29:18.232749Z",
+    "citation":"space-track.org TLE set",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -32129,8 +32129,8 @@
         "decoder":"cubebel2"
       }
     ],
-    "updated":"2023-07-09T21:17:44.536125Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57175\/2023-07-09T20%3A50%3A30_7835591_57175_23091K_0-OBJECT-K_0.4712667077778008_B_r29.0_f0.0.png",
+    "updated":"2024-06-22T23:35:05.161841Z",
+    "citation":"update telemetry dashboard link",
     "is_frequency_violator":false,
     "associated_satellites":[
       "WZJM-1421-2398-0228-3853"
@@ -45105,6 +45105,30 @@
     ],
     "updated":"2024-06-19T15:28:21.335505Z",
     "citation":"https:\/\/www.saspacemission.com.au\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZXIE-8847-8155-1792-9464",
+    "norad_cat_id":98889.0,
+    "norad_follow_id":60089.0,
+    "name":"SVOM",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-22T19:20:19.812405Z",
+    "citation":"From matrix chat",
     "is_frequency_violator":false,
     "associated_satellites":[
 
