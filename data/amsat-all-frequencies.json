@@ -8635,6 +8635,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Kosmos-2576",
+    "norad_id":"59773",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"KOYOH",
     "norad_id":"58465",
     "uplink":null,
@@ -12914,6 +12925,39 @@
     "satnogs_id":null
   },
   {
+    "name":"Rassvet-2-1",
+    "norad_id":"59779",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"PFWT-2170-5249-1641-6126"
+  },
+  {
+    "name":"Rassvet-2-2",
+    "norad_id":"59780",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"CILR-9176-2144-9091-8237"
+  },
+  {
+    "name":"Rassvet-2-3",
+    "norad_id":"59781",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"GMTV-5966-1906-9595-0119"
+  },
+  {
     "name":"RAX-1",
     "norad_id":"37223",
     "uplink":null,
@@ -14430,6 +14474,50 @@
     "callsign":"SC2340",
     "status":"active",
     "satnogs_id":"DOGC-7624-8359-4736-1321"
+  },
+  {
+    "name":"SITRO-AIS-53",
+    "norad_id":"59776",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-54",
+    "norad_id":"59777",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-55",
+    "norad_id":"59778",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-56",
+    "norad_id":"59809",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"skCUBE",
@@ -18841,6 +18929,28 @@
     "callsign":"S3806A",
     "status":"active",
     "satnogs_id":"YKBC-6296-0803-1334-4704"
+  },
+  {
+    "name":"Zorkiy-2M-4",
+    "norad_id":"59774",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"YHZN-0134-4646-7875-1396"
+  },
+  {
+    "name":"Zorkiy-2M-6",
+    "norad_id":"59775",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"CXEH-2179-3370-4324-5788"
   },
   {
     "name":"Z-Sat",

@@ -45229,5 +45229,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"YHZN-0134-4646-7875-1396",
+    "norad_cat_id":59774.0,
+    "norad_follow_id":null,
+    "name":"Zorkiy 2M-6",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-16T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-24T10:34:45.238615Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59774\/format\/html\/emptyresult\/show",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
