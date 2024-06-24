@@ -4463,7 +4463,7 @@
     "mode":"FM CW*",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"JLCL-0710-4090-6907-9407"
   },
   {
     "name":"CUSat-1",
@@ -9798,7 +9798,7 @@
     "mode":"LoRa CW*",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"YBQI-2140-4595-2492-5336"
   },
   {
     "name":"MIET-AIS",

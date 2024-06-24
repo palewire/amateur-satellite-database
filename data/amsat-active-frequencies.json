@@ -957,7 +957,7 @@
     "beacon":"400.962",
     "mode":"FM CW*",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"JLCL-0710-4090-6907-9407"
   },
   {
     "name":"CUTE",
@@ -2097,7 +2097,7 @@
     "beacon":"400.959",
     "mode":"LoRa CW*",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"YBQI-2140-4595-2492-5336"
   },
   {
     "name":"MIET-AIS",

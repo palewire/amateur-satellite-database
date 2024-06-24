@@ -26044,7 +26044,7 @@
   {
     "sat_id":"HKPP-1325-5629-8692-2437",
     "norad_cat_id":99263.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55084.0,
     "name":"Gama Alpha",
     "names":"",
     "image":"satellites\/GAMA-Alpha-mission-patch-GAMA-1024x901.png",
@@ -26058,8 +26058,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:11:40.610129Z",
-    "citation":"https:\/\/nanoavionics.com\/news\/nanoavionics-and-gama-setting-sails-in-space\/",
+    "updated":"2024-06-23T12:14:35.597036Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-6-2023-01-03-14-56-utc\/9848\/142",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39708,10 +39708,10 @@
   },
   {
     "sat_id":"EYJA-7830-4114-3014-1194",
-    "norad_cat_id":98983.0,
+    "norad_cat_id":59104.0,
     "norad_follow_id":null,
     "name":"Pony Express-2 SV2",
-    "names":"TYVAK-0262",
+    "names":"TYVAK-0262, PE2_FLT2",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -39719,23 +39719,23 @@
     "deployed":"2024-04-04T00:34:53Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.905902Z",
-    "citation":"Change status to alive",
+    "updated":"2024-06-23T18:33:27.341105Z",
+    "citation":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2024-043G",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "ZYVI-6405-3136-4517-5606"
     ]
   },
   {
     "sat_id":"LNQC-5899-0906-5843-5467",
-    "norad_cat_id":98982.0,
+    "norad_cat_id":59105.0,
     "norad_follow_id":null,
     "name":"Pony Express-2 SV1",
-    "names":"TYVAK-0261",
+    "names":"TYVAK-0261, PE2_FLT1",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -39743,15 +39743,15 @@
     "deployed":"2024-04-04T00:35:33Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.877118Z",
-    "citation":"Change status to alive",
+    "updated":"2024-06-23T18:37:26.490117Z",
+    "citation":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2024-043H",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "OWTK-1909-3015-6258-9892"
     ]
   },
   {
@@ -44224,8 +44224,8 @@
   },
   {
     "sat_id":"JLCL-0710-4090-6907-9407",
-    "norad_cat_id":98906.0,
-    "norad_follow_id":59507.0,
+    "norad_cat_id":59507.0,
+    "norad_follow_id":null,
     "name":"CURTIS",
     "names":"",
     "image":"",
@@ -44239,8 +44239,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-14T15:07:05.020410Z",
-    "citation":"Ikhnos on network observations",
+    "updated":"2024-06-23T18:46:24.098660Z",
+    "citation":"https:\/\/x.com\/HAMSATNL\/status\/1780935549622083813",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44248,8 +44248,8 @@
   },
   {
     "sat_id":"YBQI-2140-4595-2492-5336",
-    "norad_cat_id":98905.0,
-    "norad_follow_id":59483.0,
+    "norad_cat_id":59483.0,
+    "norad_follow_id":null,
     "name":"MicroOrbiter-1",
     "names":"",
     "image":"",
@@ -44263,8 +44263,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T12:43:58.897038Z",
-    "citation":"Ikhnos results on https:\/\/network.satnogs.org\/observations\/9371357\/",
+    "updated":"2024-06-23T18:53:48.302510Z",
+    "citation":"https:\/\/x.com\/HAMSATNL\/status\/1780936375937741077",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45129,6 +45129,102 @@
     ],
     "updated":"2024-06-22T19:20:19.812405Z",
     "citation":"From matrix chat",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RHNJ-5910-1159-7496-6643",
+    "norad_cat_id":41183.0,
+    "norad_follow_id":null,
+    "name":"ORBCOMM FM118",
+    "names":"2015-081E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-12-22T00:00:00Z",
+    "deployed":"2015-12-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-23T12:32:44.212217Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1kTiC-xCUSgsquX0gkXN2KPNQ2GE07kNbu4d03f7mU7Q\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RKZS-4746-4585-8779-4891",
+    "norad_cat_id":40086.0,
+    "norad_follow_id":null,
+    "name":"ORBCOMM FM109",
+    "names":"2014-040A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-07-14T00:00:00Z",
+    "deployed":"2014-07-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-23T12:32:38.439119Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1c5TWqJxZ9RGDnn6GMkZGgKbyrJ8fcbDpjnA5pjO9IuQ\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UDML-8434-7163-3669-2563",
+    "norad_cat_id":40087.0,
+    "norad_follow_id":null,
+    "name":"ORBCOMM FM107",
+    "names":"2014-040B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-07-14T00:00:00Z",
+    "deployed":"2014-07-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-23T12:32:21.444237Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1onkYCqtQFKHvhgR5JZcC0DgMK82cpbj_GoK_eS5wBfU\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VYTD-1766-6164-0399-9059",
+    "norad_cat_id":59148.0,
+    "norad_follow_id":null,
+    "name":"HAMMER",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2024-06-23T18:40:14.954105Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59148\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
