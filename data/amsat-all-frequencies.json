@@ -5687,6 +5687,17 @@
     "satnogs_id":null
   },
   {
+    "name":"e-kagaku-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.840",
+    "beacon":null,
+    "mode":"1k2AFSK 9K6GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"E-ST@R",
     "norad_id":"38079",
     "uplink":null,
@@ -6718,6 +6729,17 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"GHS-01",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.090",
+    "beacon":"437.090",
+    "mode":"1k2AFSK 9k6GMSK Digitalker CW",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -9106,6 +9128,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"IYPF-0390-6641-7081-7482"
+  },
+  {
+    "name":"LignoSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.820",
+    "beacon":"435.820",
+    "mode":"4k8GMSK FM CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"LilacSat-1",
@@ -13178,6 +13211,17 @@
     "satnogs_id":"YBRZ-1252-5198-2682-7854"
   },
   {
+    "name":"RSP-03",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.050",
+    "beacon":null,
+    "mode":"1k2AFSK 2k4QPSK 9k6GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"RS-1",
     "norad_id":"11085",
     "uplink":null,
@@ -13681,6 +13725,17 @@
     "mode":"9600bps FSK",
     "callsign":"DP1AIS",
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"SAKURA",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -18653,6 +18708,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"YOMOGI",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
