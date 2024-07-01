@@ -1867,7 +1867,7 @@
     "mode":"4800bps GMSK",
     "callsign":"DB0BEI",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"LWOS-0548-6434-8064-3287"
   },
   {
     "name":"BEESAT-6",
@@ -1878,7 +1878,7 @@
     "mode":"4800bps GMSK",
     "callsign":"DB0BEJ",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"LWOS-0548-6434-8064-3287"
   },
   {
     "name":"BEESAT-7",
@@ -2505,7 +2505,7 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"KSFC-2018-1319-4536-1314"
   },
   {
     "name":"BRO-13",
@@ -2516,7 +2516,7 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"IQOY-7969-6018-3429-4654"
   },
   {
     "name":"BSUSat-1",
@@ -7983,7 +7983,7 @@
     "mode":"2k4*\/4k8 BPSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"SGTS-7428-9120-3753-9994"
   },
   {
     "name":"Irvine-01",
@@ -9017,7 +9017,7 @@
     "mode":"GMSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"PQDQ-5086-3402-1909-8173"
   },
   {
     "name":"LEMUR-2(MANGO-2B)",
@@ -11261,7 +11261,7 @@
     "mode":"4800bps GMSK CW",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"PDUZ-9178-5050-3640-4549"
   },
   {
     "name":"ONDOSAT-OWL-2",
@@ -11272,7 +11272,7 @@
     "mode":"4800bps GMSK CW",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JNNP-2835-3667-6280-1551"
   },
   {
     "name":"OO-38",
@@ -12559,7 +12559,7 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"GQFZ-9350-0430-5515-5385"
   },
   {
     "name":"PY4-4",
@@ -14605,7 +14605,7 @@
     "mode":"9600bps GMSK_USP",
     "callsign":"R0AJU-1",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ABXM-4898-9222-6959-5721"
   },
   {
     "name":"Skoltech-B2",
@@ -14616,7 +14616,7 @@
     "mode":"9600bps GMSK_USP",
     "callsign":"R0AJU-1",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"BDML-1083-7096-5526-2883"
   },
   {
     "name":"SkyCube",
@@ -18114,7 +18114,7 @@
     "mode":"38k4 FSK",
     "callsign":null,
     "status":"unkown",
-    "satnogs_id":null
+    "satnogs_id":"WIWD-2303-6727-6651-0854"
   },
   {
     "name":"VisionCube",

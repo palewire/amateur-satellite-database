@@ -287,7 +287,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"DB0BEI",
-    "satnogs_id":null
+    "satnogs_id":"LWOS-0548-6434-8064-3287"
   },
   {
     "name":"BEESAT-6",
@@ -297,7 +297,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"DB0BEJ",
-    "satnogs_id":null
+    "satnogs_id":"LWOS-0548-6434-8064-3287"
   },
   {
     "name":"BEESAT-7",
@@ -427,7 +427,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"KSFC-2018-1319-4536-1314"
   },
   {
     "name":"BRO-13",
@@ -437,7 +437,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"IQOY-7969-6018-3429-4654"
   },
   {
     "name":"BSUSat-2",
@@ -1707,7 +1707,7 @@
     "beacon":null,
     "mode":"2k4*\/4k8 BPSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"SGTS-7428-9120-3753-9994"
   },
   {
     "name":"iSat",
@@ -2947,7 +2947,7 @@
     "beacon":null,
     "mode":"9600bps GMSK_USP",
     "callsign":"R0AJU-1",
-    "satnogs_id":null
+    "satnogs_id":"ABXM-4898-9222-6959-5721"
   },
   {
     "name":"Skoltech-B2",
@@ -2957,7 +2957,7 @@
     "beacon":null,
     "mode":"9600bps GMSK_USP",
     "callsign":"R0AJU-1",
-    "satnogs_id":null
+    "satnogs_id":"BDML-1083-7096-5526-2883"
   },
   {
     "name":"SLIM",

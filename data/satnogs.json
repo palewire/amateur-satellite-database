@@ -1838,8 +1838,8 @@
     "name":"M-CUBED & EXP-1 PRIME",
     "names":"E1P-U2, Michigan Multipurpose Minisat",
     "image":"satellites\/mcubed.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-30T00:00:00Z",
     "launched":"2011-10-28T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/en.wikipedia.org\/wiki\/M-Cubed",
@@ -1848,8 +1848,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T14:30:36.338201Z",
-    "citation":"https:\/\/en.wikipedia.org\/wiki\/M-Cubed",
+    "updated":"2024-07-01T09:48:45.896157Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -3630,8 +3630,8 @@
     "name":"EXOCUBE",
     "names":"CP-10",
     "image":"satellites\/exocube__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-07-01T00:00:00Z",
     "launched":"2015-01-31T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.eoportal.org\/satellite-missions\/exocube",
@@ -3640,8 +3640,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:05.468017Z",
-    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/exocube",
+    "updated":"2024-07-01T09:49:34.134565Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -6214,8 +6214,8 @@
     "name":"URSA MAIOR",
     "names":"IT02",
     "image":"satellites\/URSA-MAIOR.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-07-01T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -6224,8 +6224,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.435415Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-07-01T09:54:22.038989Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -6262,8 +6262,8 @@
     "name":"MAX VALIER SAT",
     "names":"",
     "image":"satellites\/MAX_VALIER_SAT.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-30T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -6272,8 +6272,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.439172Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-07-01T09:50:12.777119Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -9246,8 +9246,8 @@
     "name":"AISAT-1",
     "names":"ExseedSat-2",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-30T00:00:00Z",
     "launched":"2019-04-01T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/amsatindia.org\/",
@@ -9256,8 +9256,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T18:43:08.203879Z",
-    "citation":"https:\/\/www.firstpost.com\/tech\/science\/india-in-space-through-2019-from-risat-asat-and-chandrayaan-2-to-big-wins-for-private-space-7823961.html and https:\/\/amsatindia.org\/",
+    "updated":"2024-07-01T10:02:52.174213Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13083,13 +13083,13 @@
   },
   {
     "sat_id":"LWOS-0548-6434-8064-3287",
-    "norad_cat_id":99730.0,
-    "norad_follow_id":48083.0,
+    "norad_cat_id":48083.0,
+    "norad_follow_id":null,
     "name":"BEESAT-5",
     "names":"DP0BEI",
     "image":"satellites\/BEESAT-5_scaled.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-17T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/www.raumfahrttechnik.tu-berlin.de\/menue\/research\/current_projects\/beesat_5_6_7_8\/parameter\/en\/",
@@ -13098,11 +13098,11 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.991651Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-07-01T09:58:34.616463Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "HXBW-3637-1907-3220-0921"
     ]
   },
   {
@@ -15991,8 +15991,8 @@
     "name":"CENTAURI-3",
     "names":"TYVAK-0210",
     "image":"satellites\/centauri-3__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-21T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16001,8 +16001,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-12T07:22:47.299094Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-07-01T10:01:24.340499Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18992,10 +18992,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -22649,14 +22649,14 @@
   },
   {
     "sat_id":"ABXM-4898-9222-6959-5721",
-    "norad_cat_id":99354.0,
-    "norad_follow_id":53379.0,
+    "norad_cat_id":53379.0,
+    "norad_follow_id":null,
     "name":"Skoltech B1",
     "names":"",
     "image":"satellites\/SkoltechB1.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/skoltech.ru",
     "operator":"None",
@@ -22664,8 +22664,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-10T17:28:17.423208Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/244",
+    "updated":"2024-07-01T03:02:28.537749Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -22673,14 +22673,14 @@
   },
   {
     "sat_id":"BDML-1083-7096-5526-2883",
-    "norad_cat_id":99353.0,
-    "norad_follow_id":53380.0,
+    "norad_cat_id":53380.0,
+    "norad_follow_id":null,
     "name":"Skoltech B2",
     "names":"",
     "image":"satellites\/SkoltechB1_MM6Teqr.jpg",
-    "status":"alive",
+    "status":"dead",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/skoltech.ru",
     "operator":"None",
@@ -22688,8 +22688,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-10T17:28:21.110472Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/244",
+    "updated":"2024-07-01T03:02:41.839029Z",
+    "citation":"Satellite Team plus SatNOGS observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -25827,8 +25827,8 @@
   },
   {
     "sat_id":"PDVW-9191-3063-9872-9368",
-    "norad_cat_id":99254.0,
-    "norad_follow_id":55056.0,
+    "norad_cat_id":55056.0,
+    "norad_follow_id":null,
     "name":"Vigoride-5",
     "names":"VR-5",
     "image":"satellites\/Fi51Gc0UcAAz5N0.jpg",
@@ -25842,8 +25842,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-22T11:35:12.303571Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2092101;sess=0",
+    "updated":"2024-07-01T03:13:23.005837Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/55056\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26067,10 +26067,10 @@
   },
   {
     "sat_id":"YXXS-2278-2281-3643-9198",
-    "norad_cat_id":99264.0,
-    "norad_follow_id":48938.0,
-    "name":"LYNK TOWER 1",
-    "names":"Shannon",
+    "norad_cat_id":48938.0,
+    "norad_follow_id":null,
+    "name":"SHANNON",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -26082,8 +26082,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-24T12:41:49.747587Z",
-    "citation":"Na",
+    "updated":"2024-07-01T03:11:49.323580Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/48938\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26115,8 +26115,8 @@
   },
   {
     "sat_id":"NTDX-8976-1799-9857-6479",
-    "norad_cat_id":99266.0,
-    "norad_follow_id":55046.0,
+    "norad_cat_id":55046.0,
+    "norad_follow_id":null,
     "name":"LYNK TOWER 3",
     "names":"",
     "image":"",
@@ -26130,8 +26130,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-27T15:53:44.186349Z",
-    "citation":"space-track.org",
+    "updated":"2024-07-01T03:10:02.152056Z",
+    "citation":"https:\/\/celestrak.org\/NORAD\/elements\/gp.php?CATNR=55046&FORMAT=tle",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26139,8 +26139,8 @@
   },
   {
     "sat_id":"DTYA-7731-6964-1582-7373",
-    "norad_cat_id":99267.0,
-    "norad_follow_id":55034.0,
+    "norad_cat_id":55034.0,
+    "norad_follow_id":null,
     "name":"LYNK TOWER 4",
     "names":"",
     "image":"",
@@ -26154,8 +26154,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-27T15:53:11.273874Z",
-    "citation":"space-track.org",
+    "updated":"2024-07-01T03:09:33.706737Z",
+    "citation":"https:\/\/celestrak.org\/NORAD\/elements\/gp.php?CATNR=55034&FORMAT=tle",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26379,8 +26379,8 @@
   },
   {
     "sat_id":"YWEP-1897-4060-1849-8088",
-    "norad_cat_id":99278.0,
-    "norad_follow_id":55076.0,
+    "norad_cat_id":55076.0,
+    "norad_follow_id":null,
     "name":"YAM-5",
     "names":"Yet Another Mission 5",
     "image":"",
@@ -26394,8 +26394,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-22T11:47:55.396143Z",
-    "citation":"space-track.org",
+    "updated":"2024-07-01T02:07:23.337560Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/55076\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26404,7 +26404,7 @@
   {
     "sat_id":"PQEH-9308-1876-0368-0501",
     "norad_cat_id":99279.0,
-    "norad_follow_id":null,
+    "norad_follow_id":55081.0,
     "name":"RROCI",
     "names":"Electro Optical\/Infrared Weather System Rapid Revisit Optical Cloud Imager (EWS RROCI)",
     "image":"satellites\/RROCI.jpg",
@@ -26418,8 +26418,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-04T21:06:58.075596Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?action=dlattach;topic=54928.0;attach=2120132;sess=0",
+    "updated":"2024-07-01T03:08:51.398809Z",
+    "citation":"Random choice from unidentified objects of this launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29036,8 +29036,8 @@
     "name":"LEMUR 2 CHANTAL",
     "names":"LEMUR 2 130",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-20T00:00:00Z",
     "launched":"2021-01-24T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -29046,8 +29046,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:44.116310Z",
-    "citation":"www.spire.com",
+    "updated":"2024-07-01T10:03:56.987916Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29854,8 +29854,8 @@
     "name":"Jin Zijing 4",
     "names":"2023-007N, Object N",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-29T00:00:00Z",
     "launched":"2023-01-15T00:00:00Z",
     "deployed":"2023-01-15T00:00:00Z",
     "website":"",
@@ -29864,8 +29864,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-01T10:37:17.744952Z",
-    "citation":"https:\/\/planet4589.org\/space\/gcat\/data\/derived\/currentcat.html",
+    "updated":"2024-07-01T10:04:34.136261Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30933,22 +30933,22 @@
   {
     "sat_id":"LAFH-3252-8468-7676-4526",
     "norad_cat_id":99189.0,
-    "norad_follow_id":null,
+    "norad_follow_id":49324.0,
     "name":"SSS-2A",
     "names":"APSCO-SSS-2A",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2021-10-14T00:00:00Z",
-    "deployed":null,
+    "deployed":"2024-04-19T00:00:00Z",
     "website":"https:\/\/www.spacerl.com\/sss-project\/",
     "operator":"None",
     "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2023-04-07T15:36:43.969429Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/254#note_1345058720",
+    "updated":"2024-07-01T03:23:46.177425Z",
+    "citation":"Based on celestrak",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31222,8 +31222,8 @@
   },
   {
     "sat_id":"WIWD-2303-6727-6651-0854",
-    "norad_cat_id":99178.0,
-    "norad_follow_id":56196.0,
+    "norad_cat_id":56196.0,
+    "norad_follow_id":null,
     "name":"Vigoride-6",
     "names":"",
     "image":"",
@@ -31233,12 +31233,12 @@
     "deployed":"2023-04-15T08:09:09Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-04-28T09:48:47.999855Z",
-    "citation":"https:\/\/www.space-track.org",
+    "updated":"2024-07-01T03:24:15.252515Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/56196\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31318,8 +31318,8 @@
   },
   {
     "sat_id":"AEAC-2250-6197-4156-4584",
-    "norad_cat_id":99175.0,
-    "norad_follow_id":56220.0,
+    "norad_cat_id":56220.0,
+    "norad_follow_id":null,
     "name":"LLITED A",
     "names":"",
     "image":"",
@@ -31329,11 +31329,11 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-05-27T22:07:41.743415Z",
+    "updated":"2024-07-01T03:25:29.077708Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -31342,8 +31342,8 @@
   },
   {
     "sat_id":"JFXT-7836-6700-0360-6639",
-    "norad_cat_id":99174.0,
-    "norad_follow_id":56219.0,
+    "norad_cat_id":56219.0,
+    "norad_follow_id":null,
     "name":"LLITED B",
     "names":"Low-Latitude Ionosphere\/Thermosphere Enhancements in Density",
     "image":"",
@@ -31357,8 +31357,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-01T08:06:39.518803Z",
-    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/llited",
+    "updated":"2024-07-01T03:26:22.300030Z",
+    "citation":"https:\/\/celestrak.org\/NORAD\/elements\/gp.php?CATNR=56219&FORMAT=tle",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39564,7 +39564,7 @@
   },
   {
     "sat_id":"MSCV-4284-6531-0061-0912",
-    "norad_cat_id":98992.0,
+    "norad_cat_id":59099.0,
     "norad_follow_id":null,
     "name":"MuSat-2",
     "names":"",
@@ -39575,12 +39575,12 @@
     "deployed":"2024-04-04T00:34:40Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.935925Z",
-    "citation":"Change status to alive",
+    "updated":"2024-07-01T02:33:31.096878Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59099\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39931,8 +39931,8 @@
     "name":"TIANQI-8",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-06-14T00:00:00Z",
     "launched":"2020-12-22T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -39941,8 +39941,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:25:31.791280Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/81",
+    "updated":"2024-07-01T10:06:23.494678Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41054,23 +41054,23 @@
   },
   {
     "sat_id":"PQDQ-5086-3402-1909-8173",
-    "norad_cat_id":98962.0,
-    "norad_follow_id":58336.0,
-    "name":"Lemur 2 JK0903EM1407",
+    "norad_cat_id":58336.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 JK0903EM1407",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2023-11-11T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-12-16T01:48:13.644040Z",
-    "citation":"space-track.org",
+    "updated":"2024-07-01T02:12:44.891399Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/58336\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42880,8 +42880,8 @@
   },
   {
     "sat_id":"GQFZ-9350-0430-5515-5385",
-    "norad_cat_id":98934.0,
-    "norad_follow_id":59145.0,
+    "norad_cat_id":59145.0,
+    "norad_follow_id":null,
     "name":"MH-1",
     "names":"AEROS",
     "image":"",
@@ -42895,17 +42895,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-01T10:36:52.625140Z",
-    "citation":"https:\/\/community.libre.space\/t\/wrong-tle-and-wrong-catalog-number-for-satellite-mh-1\/11566",
+    "updated":"2024-07-01T02:50:28.754184Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59145\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "VHDJ-2479-5084-8801-7764"
     ]
   },
   {
     "sat_id":"LOCF-3327-7028-4700-0103",
-    "norad_cat_id":98933.0,
-    "norad_follow_id":59117.0,
+    "norad_cat_id":59117.0,
+    "norad_follow_id":null,
     "name":"CONTECSAT-1",
     "names":"OREUM",
     "image":"satellites\/OreumSat.jpg",
@@ -42919,8 +42919,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-03T08:37:33.502058Z",
-    "citation":"Citation",
+    "updated":"2024-07-01T02:46:54.723202Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59117\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42928,8 +42928,8 @@
   },
   {
     "sat_id":"SGTS-7428-9120-3753-9994",
-    "norad_cat_id":98932.0,
-    "norad_follow_id":59121.0,
+    "norad_cat_id":59111.0,
+    "norad_follow_id":null,
     "name":"ONDOSAT-OWL-1",
     "names":"",
     "image":"",
@@ -42943,8 +42943,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-18T14:36:00.164769Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-07-01T02:24:20.704844Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/ONDOSAT-OWL-1",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -42952,7 +42952,7 @@
   },
   {
     "sat_id":"JNNP-2835-3667-6280-1551",
-    "norad_cat_id":98931.0,
+    "norad_cat_id":59113.0,
     "norad_follow_id":null,
     "name":"ONDOSAT-OWL-2",
     "names":"",
@@ -42967,8 +42967,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T22:48:34.248143Z",
-    "citation":"Fix website link",
+    "updated":"2024-07-01T02:22:08.804131Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/ONDOSAT-OWL-2",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -42976,8 +42976,8 @@
   },
   {
     "sat_id":"PDUZ-9178-5050-3640-4549",
-    "norad_cat_id":98930.0,
-    "norad_follow_id":59111.0,
+    "norad_cat_id":59110.0,
+    "norad_follow_id":null,
     "name":"IRIS-F1",
     "names":"",
     "image":"",
@@ -42991,8 +42991,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-17T20:15:52.057884Z",
-    "citation":"PE2BZ strf observation",
+    "updated":"2024-07-01T02:31:41.079656Z",
+    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1768696475385512054",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43024,7 +43024,7 @@
   },
   {
     "sat_id":"ZRKV-0117-0867-0214-6594",
-    "norad_cat_id":98926.0,
+    "norad_cat_id":59126.0,
     "norad_follow_id":null,
     "name":"YAM-6",
     "names":"",
@@ -43039,8 +43039,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.540127Z",
-    "citation":"Change status to alive",
+    "updated":"2024-07-01T02:08:11.627702Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59126\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43048,9 +43048,9 @@
   },
   {
     "sat_id":"RAFI-8020-4581-8442-2188",
-    "norad_cat_id":98929.0,
-    "norad_follow_id":59125.0,
-    "name":"Sentry",
+    "norad_cat_id":59140.0,
+    "norad_follow_id":null,
+    "name":"SENTRY",
     "names":"",
     "image":"",
     "status":"alive",
@@ -43063,8 +43063,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-17T20:20:30.255786Z",
-    "citation":"PE2BZ strf observation",
+    "updated":"2024-07-01T02:48:13.529328Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59140\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43144,8 +43144,8 @@
   },
   {
     "sat_id":"IQOY-7969-6018-3429-4654",
-    "norad_cat_id":98918.0,
-    "norad_follow_id":59108.0,
+    "norad_cat_id":59108.0,
+    "norad_follow_id":null,
     "name":"BRO-12",
     "names":"",
     "image":"",
@@ -43159,8 +43159,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-25T19:28:16.523922Z",
-    "citation":"Network observations and PE2BEZ strf observation",
+    "updated":"2024-07-01T02:45:40.049281Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59108\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43168,8 +43168,8 @@
   },
   {
     "sat_id":"KSFC-2018-1319-4536-1314",
-    "norad_cat_id":98919.0,
-    "norad_follow_id":59107.0,
+    "norad_cat_id":59107.0,
+    "norad_follow_id":null,
     "name":"BRO-13",
     "names":"",
     "image":"",
@@ -43183,8 +43183,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-25T19:28:06.736284Z",
-    "citation":"Network observations and PE2BEZ strf observation",
+    "updated":"2024-07-01T02:41:43.047146Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59107\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43216,7 +43216,7 @@
   },
   {
     "sat_id":"ILOF-9994-7456-2121-1249",
-    "norad_cat_id":98916.0,
+    "norad_cat_id":59101.0,
     "norad_follow_id":null,
     "name":"METHANESAT",
     "names":"",
@@ -43231,8 +43231,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:10:21.631691Z",
-    "citation":"Change status to alive",
+    "updated":"2024-07-01T02:38:15.939918Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59101\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43240,7 +43240,7 @@
   },
   {
     "sat_id":"ZQDJ-0650-5501-6285-2771",
-    "norad_cat_id":98917.0,
+    "norad_cat_id":59106.0,
     "norad_follow_id":null,
     "name":"RROCI-2",
     "names":"",
@@ -43255,8 +43255,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T21:15:40.316390Z",
-    "citation":"Change status to alive",
+    "updated":"2024-07-01T02:40:42.434052Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59106\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43264,8 +43264,8 @@
   },
   {
     "sat_id":"NYZJ-8632-3700-9779-7966",
-    "norad_cat_id":98925.0,
-    "norad_follow_id":59129.0,
+    "norad_cat_id":59129.0,
+    "norad_follow_id":null,
     "name":"APEX ARIES 1",
     "names":"",
     "image":"",
@@ -43279,8 +43279,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-23T11:27:03.457929Z",
-    "citation":"Satellite Team",
+    "updated":"2024-07-01T02:49:18.435700Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59129\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43578,8 +43578,8 @@
     "sat_id":"TSNV-0315-9484-4584-5244",
     "norad_cat_id":59133.0,
     "norad_follow_id":null,
-    "name":"Object AM - Transporter 10",
-    "names":"2024-043AM",
+    "name":"GHOST-4",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -43591,8 +43591,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-20T08:31:20.907999Z",
-    "citation":"Update info of satellite",
+    "updated":"2024-07-01T02:49:34.621937Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59133\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43986,21 +43986,21 @@
     "sat_id":"NIPW-8425-7001-2213-0488",
     "norad_cat_id":59100.0,
     "norad_follow_id":null,
-    "name":"Object C",
-    "names":"2024-043C",
+    "name":"ICEYE-X38",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2024-03-04T00:00:00Z",
-    "deployed":"2024-03-04T00:00:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"FI",
     "telemetries":[
 
     ],
-    "updated":"2024-03-28T14:06:15.557245Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/18ZbYKB-ICYSJM0dYH4JY_TdhRzPfFXShq-LEEd3yWuw\/edit?usp=sharing",
+    "updated":"2024-07-01T02:34:09.527279Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59100\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44034,8 +44034,8 @@
     "sat_id":"JIUX-8369-4848-5352-0547",
     "norad_cat_id":59102.0,
     "norad_follow_id":null,
-    "name":"Object E",
-    "names":"2024-043E",
+    "name":"ICEYE-X37",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -44043,12 +44043,12 @@
     "deployed":"2024-03-04T00:00:00Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"FI",
     "telemetries":[
 
     ],
-    "updated":"2024-03-28T18:29:51.059695Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1qIlv5cz1RLna8rdEvLEvKrW8_I7TY6sZKox0AFmiOz0\/edit?usp=sharing",
+    "updated":"2024-07-01T02:38:44.576411Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59102\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45207,6 +45207,78 @@
     ]
   },
   {
+    "sat_id":"XLBT-4501-4351-7216-9284",
+    "norad_cat_id":59103.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X36",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-01T02:39:31.351557Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59103\/format\/html\/emptyresult\/show",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"REZY-1312-4996-4677-9892",
+    "norad_cat_id":59115.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 CHARLIE-ROSE",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-01T02:46:13.135392Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59115\/format\/html\/emptyresult\/show",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZFID-1206-1963-7681-5082",
+    "norad_cat_id":59116.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 FELDHUS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-01T02:15:24.793091Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59116\/format\/html\/emptyresult\/show",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"VYTD-1766-6164-0399-9059",
     "norad_cat_id":59148.0,
     "norad_follow_id":null,
@@ -45249,6 +45321,30 @@
     ],
     "updated":"2024-06-24T10:34:45.238615Z",
     "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59774\/format\/html\/emptyresult\/show",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZUFI-3786-7950-7428-6876",
+    "norad_cat_id":52162.0,
+    "norad_follow_id":null,
+    "name":"LYNK TOWER 1",
+    "names":"Lynk 05",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-04-01T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-01T03:12:53.208841Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/52162\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
