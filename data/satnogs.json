@@ -15150,16 +15150,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2022-06-01T00:00:00Z",
-    "deployed":null,
+    "launched":"2024-07-02T04:03:00Z",
+    "deployed":"2024-07-02T04:58:13Z",
     "website":"https:\/\/umaine.edu\/wisenetlab\/mesat1",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-01-01T16:42:20.068832Z",
-    "citation":"https:\/\/umaine.edu\/wisenetlab\/mesat1",
+    "updated":"2024-07-01T23:44:35.290616Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -23208,7 +23208,7 @@
     "norad_cat_id":99332.0,
     "norad_follow_id":53955.0,
     "name":"Serenity",
-    "names":"WU2M",
+    "names":"WU2M, Serenity II",
     "image":"satellites\/Serenity-small-1-225x300.jpg",
     "status":"re-entered",
     "decayed":"2022-10-05T00:00:00Z",
@@ -23220,8 +23220,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-06T17:06:27.805036Z",
-    "citation":"space-track.org",
+    "updated":"2024-07-01T19:55:54.197072Z",
+    "citation":"https:\/\/tis.org\/serenity-satellite\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31759,16 +31759,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2024-07-02T04:03:00Z",
+    "deployed":"2024-07-02T04:54:53Z",
     "website":"https:\/\/catsat.arizona.edu\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-04-28T20:47:36.498553Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-07-01T18:46:50.237597Z",
+    "citation":"https:\/\/fireflyspace.com\/missions\/noise-of-summer\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45345,6 +45345,150 @@
     ],
     "updated":"2024-07-01T03:12:53.208841Z",
     "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/52162\/format\/html\/emptyresult\/show",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WRQD-3611-7297-1682-8367",
+    "norad_cat_id":98887.0,
+    "norad_follow_id":null,
+    "name":"SOC-i",
+    "names":"",
+    "image":"satellites\/SOC-i.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-02T04:03:00Z",
+    "deployed":"2024-07-02T04:47:33Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-01T19:15:14.021070Z",
+    "citation":"https:\/\/fireflyspace.com\/missions\/noise-of-summer\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WTDL-4873-1107-9862-4396",
+    "norad_cat_id":98888.0,
+    "norad_follow_id":null,
+    "name":"KUbeSat-1",
+    "names":"",
+    "image":"satellites\/KUbeSat1.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-02T04:03:00Z",
+    "deployed":"2024-07-02T04:56:43Z",
+    "website":"https:\/\/ae.ku.edu\/kubesat",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-01T23:44:40.617588Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NLMG-8530-4252-9412-4157",
+    "norad_cat_id":98886.0,
+    "norad_follow_id":null,
+    "name":"Serenity",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-02T04:03:00Z",
+    "deployed":"2024-07-02T04:50:18Z",
+    "website":"https:\/\/tis.org\/Serenity-satellite\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-01T23:44:46.678083Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IITE-3822-1649-0687-2055",
+    "norad_cat_id":98885.0,
+    "norad_follow_id":null,
+    "name":"R5-S2-2.0",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-02T04:03:00Z",
+    "deployed":"2024-07-02T04:53:23Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-01T23:44:54.755865Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"REUD-7904-3179-3406-5877",
+    "norad_cat_id":98884.0,
+    "norad_follow_id":null,
+    "name":"TechEdSat-11",
+    "names":"TES-11",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-02T04:03:00Z",
+    "deployed":"2024-07-02T04:48:38Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-01T23:44:58.272409Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GDPS-1527-9538-4129-7581",
+    "norad_cat_id":98883.0,
+    "norad_follow_id":null,
+    "name":"R5-S4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-02T04:03:00Z",
+    "deployed":"2024-07-02T04:51:53Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-01T23:44:50.638083Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
