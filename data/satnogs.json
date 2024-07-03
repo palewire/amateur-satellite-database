@@ -22668,7 +22668,8 @@
     "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "TLXZ-7745-5544-5793-2728",
+      "JNKW-3199-7621-8564-5259"
     ]
   },
   {
@@ -22678,7 +22679,7 @@
     "name":"Skoltech B2",
     "names":"",
     "image":"satellites\/SkoltechB1_MM6Teqr.jpg",
-    "status":"dead",
+    "status":"alive",
     "decayed":null,
     "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
@@ -22688,11 +22689,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T03:02:41.839029Z",
-    "citation":"Satellite Team plus SatNOGS observations",
+    "updated":"2024-07-03T00:38:28.133810Z",
+    "citation":"Change Status",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "ECMJ-5100-8664-1668-6289"
     ]
   },
   {
