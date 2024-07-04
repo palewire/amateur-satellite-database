@@ -16492,7 +16492,7 @@
     "name":"TechEdSat-11",
     "norad_id":null,
     "uplink":null,
-    "downlink":"437.465",
+    "downlink":"401.875\/437.465\/2280.000",
     "beacon":null,
     "mode":"1200bps FM",
     "callsign":null,
