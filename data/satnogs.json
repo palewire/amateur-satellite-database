@@ -15144,7 +15144,7 @@
   {
     "sat_id":"ANJN-0857-0652-4935-2307",
     "norad_cat_id":99219.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60209.0,
     "name":"MESAT-1",
     "names":"",
     "image":"",
@@ -15158,8 +15158,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T07:09:47.087545Z",
-    "citation":"Change Status",
+    "updated":"2024-07-04T20:00:08.561052Z",
+    "citation":"Based on PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30381,8 +30381,8 @@
     "norad_cat_id":99196.0,
     "norad_follow_id":null,
     "name":"Sakura",
-    "names":"",
-    "image":"",
+    "names":"\u685c, Gardens 03",
+    "image":"satellites\/SAKURA.jpg",
     "status":"future",
     "decayed":null,
     "launched":null,
@@ -30393,8 +30393,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-28T13:14:34.952129Z",
-    "citation":"Adding Temporary NORAD ID",
+    "updated":"2024-07-04T13:18:11.257842Z",
+    "citation":"https:\/\/sites.google.com\/p.chibakoudai.jp\/gardens-03\/home-english",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31754,7 +31754,7 @@
   {
     "sat_id":"EIOW-0233-5270-5407-2865",
     "norad_cat_id":99164.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60206.0,
     "name":"CatSat",
     "names":"",
     "image":"",
@@ -31768,8 +31768,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T07:09:47.113709Z",
-    "citation":"Change Status",
+    "updated":"2024-07-04T18:37:55.070250Z",
+    "citation":"Random choice from unidentified objects of this launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45354,7 +45354,7 @@
   {
     "sat_id":"WRQD-3611-7297-1682-8367",
     "norad_cat_id":98887.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60210.0,
     "name":"SOC-i",
     "names":"",
     "image":"satellites\/SOC-i.png",
@@ -45368,8 +45368,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T07:09:47.037872Z",
-    "citation":"Change Status",
+    "updated":"2024-07-04T18:39:18.517755Z",
+    "citation":"Random choice from unidentified objects of this launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45378,7 +45378,7 @@
   {
     "sat_id":"WTDL-4873-1107-9862-4396",
     "norad_cat_id":98888.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60205.0,
     "name":"KUbeSat-1",
     "names":"",
     "image":"satellites\/KUbeSat1.jpg",
@@ -45392,8 +45392,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T07:09:47.062393Z",
-    "citation":"Change Status",
+    "updated":"2024-07-04T18:37:53.047030Z",
+    "citation":"Random choice from unidentified objects of this launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45402,7 +45402,7 @@
   {
     "sat_id":"NLMG-8530-4252-9412-4157",
     "norad_cat_id":98886.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60208.0,
     "name":"Serenity",
     "names":"",
     "image":"",
@@ -45416,8 +45416,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T07:09:47.013464Z",
-    "citation":"Change Status",
+    "updated":"2024-07-04T18:38:52.175220Z",
+    "citation":"Random choice from unidentified objects of this launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45426,7 +45426,7 @@
   {
     "sat_id":"IITE-3822-1649-0687-2055",
     "norad_cat_id":98885.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60206.0,
     "name":"R5-S2-2.0",
     "names":"",
     "image":"",
@@ -45440,8 +45440,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T07:09:46.963642Z",
-    "citation":"Change Status",
+    "updated":"2024-07-04T18:37:59.265381Z",
+    "citation":"Random choice from unidentified objects of this launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45450,7 +45450,7 @@
   {
     "sat_id":"REUD-7904-3179-3406-5877",
     "norad_cat_id":98884.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60209.0,
     "name":"TechEdSat-11",
     "names":"TES-11",
     "image":"",
@@ -45464,8 +45464,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T07:09:46.931839Z",
-    "citation":"Change Status",
+    "updated":"2024-07-04T18:39:15.942119Z",
+    "citation":"Random choice from unidentified objects of this launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45474,7 +45474,7 @@
   {
     "sat_id":"GDPS-1527-9538-4129-7581",
     "norad_cat_id":98883.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60207.0,
     "name":"R5-S4",
     "names":"",
     "image":"",
@@ -45488,8 +45488,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T07:09:46.989018Z",
-    "citation":"Change Status",
+    "updated":"2024-07-04T18:38:17.673610Z",
+    "citation":"Random choice from unidentified objects of this launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 

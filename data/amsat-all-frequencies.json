@@ -3470,7 +3470,7 @@
     "uplink":null,
     "downlink":"437.185\/10470.000",
     "beacon":null,
-    "mode":"9k6\/38k4GMSK",
+    "mode":"2k4\/9k6\/38k4 FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -9511,7 +9511,7 @@
     "beacon":"145.960*\/437.325",
     "mode":"CW",
     "callsign":"II3MV",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"ULZA-6802-2539-6219-3200"
   },
   {
@@ -14129,7 +14129,7 @@
     "uplink":null,
     "downlink":"437.100",
     "beacon":null,
-    "mode":"4800bps FM",
+    "mode":"4800bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
