@@ -45518,5 +45518,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"FOLU-4370-1786-3583-3279",
+    "norad_cat_id":98881.0,
+    "norad_follow_id":null,
+    "name":"Curium One",
+    "names":"Curium-1",
+    "image":"satellites\/IMG_5225.jpeg",
+    "status":"future",
+    "decayed":"2034-07-09T19:00:00Z",
+    "launched":"2024-07-09T19:00:00Z",
+    "deployed":"2024-07-09T19:15:00Z",
+    "website":"https:\/\/gitlab.com\/curiumsat",
+    "operator":"LSF",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-06T09:16:24.131497Z",
+    "citation":"Assign temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
