@@ -45494,5 +45494,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"FVZM-4350-0869-7957-1010",
+    "norad_cat_id":98882.0,
+    "norad_follow_id":null,
+    "name":"GRBBeta",
+    "names":"HA2GRB",
+    "image":"satellites\/grbbeta.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-09T18:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/grbbeta.tuke.sk\/",
+    "operator":"None",
+    "countries":"SK",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-05T14:34:30.405937Z",
+    "citation":"Satellite team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
