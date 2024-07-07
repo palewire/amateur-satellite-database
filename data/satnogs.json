@@ -18992,10 +18992,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -22486,8 +22486,8 @@
     "name":"SIREN",
     "names":"SXC3-217 RS30S",
     "image":"satellites\/SXC3_WBhhqqd.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-07-06T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites-sputnix\/for-radioamateurs",
@@ -22496,8 +22496,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-14T02:35:13.056296Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53384\/2022-08-13T23%3A29%3A45_6325596_53384_22096Q_0-OBJECT-Q_0.39198866555554446_B_r24.0_f0.0.png",
+    "updated":"2024-07-07T10:26:41.657873Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -45538,6 +45538,54 @@
     ],
     "updated":"2024-07-06T09:16:24.131497Z",
     "citation":"Assign temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ARXG-2108-5003-2075-4645",
+    "norad_cat_id":38758.0,
+    "norad_follow_id":null,
+    "name":"USA 238",
+    "names":"2012-048A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2012-09-13T00:00:00Z",
+    "deployed":"2012-09-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-07T10:24:48.572054Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1CNXywceuCe-f2MQJO9Jl4oKMq_ibp_1cey004KLMjh0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MCSI-9763-2082-8181-8253",
+    "norad_cat_id":43065.0,
+    "norad_follow_id":null,
+    "name":"GCOM-C",
+    "names":"2017-082A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-12-23T00:00:00Z",
+    "deployed":"2017-12-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-07T11:24:15.921912Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1NGe8pMaQjexKOol7e2Hk-cN0OYCkN78nsb4CSzhdDDI\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
