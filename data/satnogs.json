@@ -18992,10 +18992,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -31754,7 +31754,7 @@
   {
     "sat_id":"EIOW-0233-5270-5407-2865",
     "norad_cat_id":99164.0,
-    "norad_follow_id":60206.0,
+    "norad_follow_id":60208.0,
     "name":"CatSat",
     "names":"",
     "image":"",
@@ -31768,8 +31768,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T18:37:55.070250Z",
-    "citation":"Random choice from unidentified objects of this launch",
+    "updated":"2024-07-06T17:35:05.115507Z",
+    "citation":"Change randomly NORAD ID to follow, probably not deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -36703,8 +36703,8 @@
   },
   {
     "sat_id":"ARJF-4282-1922-6487-5841",
-    "norad_cat_id":99057.0,
-    "norad_follow_id":57484.0,
+    "norad_cat_id":57484.0,
+    "norad_follow_id":null,
     "name":"SCOOB-II",
     "names":"S3 2",
     "image":"",
@@ -36718,8 +36718,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-11T13:06:19.097783Z",
-    "citation":"https:\/\/community.libre.space\/t\/isro-plsv-c56-2023-07-30-01-01-utc\/10759\/29",
+    "updated":"2024-07-06T17:01:19.587750Z",
+    "citation":"http:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=57484&PAYLOAD=1&MAX=500",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -45354,7 +45354,7 @@
   {
     "sat_id":"WRQD-3611-7297-1682-8367",
     "norad_cat_id":98887.0,
-    "norad_follow_id":60210.0,
+    "norad_follow_id":60204.0,
     "name":"SOC-i",
     "names":"",
     "image":"satellites\/SOC-i.png",
@@ -45368,8 +45368,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T18:39:18.517755Z",
-    "citation":"Random choice from unidentified objects of this launch",
+    "updated":"2024-07-06T17:35:09.473312Z",
+    "citation":"Change randomly NORAD ID to follow, related with the position of received MESAT-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45378,7 +45378,7 @@
   {
     "sat_id":"WTDL-4873-1107-9862-4396",
     "norad_cat_id":98888.0,
-    "norad_follow_id":60205.0,
+    "norad_follow_id":60210.0,
     "name":"KUbeSat-1",
     "names":"",
     "image":"satellites\/KUbeSat1.jpg",
@@ -45392,8 +45392,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T18:37:53.047030Z",
-    "citation":"Random choice from unidentified objects of this launch",
+    "updated":"2024-07-06T17:35:04.431889Z",
+    "citation":"Change randomly NORAD ID to follow, related with the position of received MESAT-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45402,7 +45402,7 @@
   {
     "sat_id":"NLMG-8530-4252-9412-4157",
     "norad_cat_id":98886.0,
-    "norad_follow_id":60208.0,
+    "norad_follow_id":60206.0,
     "name":"Serenity",
     "names":"",
     "image":"",
@@ -45416,8 +45416,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T18:38:52.175220Z",
-    "citation":"Random choice from unidentified objects of this launch",
+    "updated":"2024-07-06T17:35:07.421307Z",
+    "citation":"Change randomly NORAD ID to follow, related with the position of received MESAT-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45426,7 +45426,7 @@
   {
     "sat_id":"IITE-3822-1649-0687-2055",
     "norad_cat_id":98885.0,
-    "norad_follow_id":60206.0,
+    "norad_follow_id":60208.0,
     "name":"R5-S2-2.0",
     "names":"",
     "image":"",
@@ -45440,8 +45440,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T18:37:59.265381Z",
-    "citation":"Random choice from unidentified objects of this launch",
+    "updated":"2024-07-06T17:35:05.885190Z",
+    "citation":"Change randomly NORAD ID to follow, related with the position of received MESAT-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45450,7 +45450,7 @@
   {
     "sat_id":"REUD-7904-3179-3406-5877",
     "norad_cat_id":98884.0,
-    "norad_follow_id":60209.0,
+    "norad_follow_id":60205.0,
     "name":"TechEdSat-11",
     "names":"TES-11",
     "image":"",
@@ -45464,8 +45464,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T18:39:15.942119Z",
-    "citation":"Random choice from unidentified objects of this launch",
+    "updated":"2024-07-06T17:35:08.508312Z",
+    "citation":"Change randomly NORAD ID to follow, related with the position of received MESAT-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45488,8 +45488,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T18:38:17.673610Z",
-    "citation":"Random choice from unidentified objects of this launch",
+    "updated":"2024-07-06T17:35:06.712127Z",
+    "citation":"Change randomly NORAD ID to follow, related with the position of received MESAT-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -3466,7 +3466,7 @@
   },
   {
     "name":"CatSat",
-    "norad_id":null,
+    "norad_id":"60206",
     "uplink":null,
     "downlink":"437.185\/10470.000",
     "beacon":null,
@@ -8801,7 +8801,7 @@
   },
   {
     "name":"KUbeSat-1",
-    "norad_id":null,
+    "norad_id":"60205",
     "uplink":null,
     "downlink":"437.085",
     "beacon":null,
@@ -9714,13 +9714,13 @@
   },
   {
     "name":"MESAT-1",
-    "norad_id":null,
+    "norad_id":"60209",
     "uplink":"145.910-145.940",
     "downlink":"435.810-435.840",
     "beacon":"435.800",
     "mode":"1200bps BPSK SSB",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -13978,7 +13978,7 @@
     "mode":"9600bps GFSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"ARJF-4282-1922-6487-5841"
   },
   {
     "name":"Scout-1",
@@ -14125,7 +14125,7 @@
   },
   {
     "name":"Serenity-3",
-    "norad_id":null,
+    "norad_id":"60208",
     "uplink":null,
     "downlink":"437.100",
     "beacon":null,
@@ -14252,7 +14252,7 @@
     "beacon":null,
     "mode":"2k4\/9k6* GMSK_USP",
     "callsign":"RS30S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"TSYE-5592-5507-8880-3661"
   },
   {
@@ -14851,7 +14851,7 @@
   },
   {
     "name":"SOC-i",
-    "norad_id":null,
+    "norad_id":"60210",
     "uplink":null,
     "downlink":"437.125",
     "beacon":null,
@@ -16166,7 +16166,7 @@
     "beacon":null,
     "mode":"2400bps GMSK_USP",
     "callsign":"RS33S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {
@@ -16188,7 +16188,7 @@
     "beacon":null,
     "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS30S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"TSYE-5592-5507-8880-3661"
   },
   {
@@ -16221,7 +16221,7 @@
     "beacon":null,
     "mode":"2400bps GMSK_USP",
     "callsign":"RS29S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"YYOS-0902-7582-8175-2841"
   },
   {
@@ -18157,7 +18157,7 @@
     "beacon":null,
     "mode":"2400bps GMSK_USP",
     "callsign":"RS33S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {

@@ -2060,6 +2060,16 @@
     "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
   {
+    "name":"MESAT-1",
+    "norad_id":"60209",
+    "uplink":"145.910-145.940",
+    "downlink":"435.810-435.840",
+    "beacon":"435.800",
+    "mode":"1200bps BPSK SSB",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"MeznSat",
     "norad_id":"46489",
     "uplink":null,
@@ -2680,16 +2690,6 @@
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {
-    "name":"Siren",
-    "norad_id":"53384",
-    "uplink":null,
-    "downlink":"437.750",
-    "beacon":null,
-    "mode":"2k4\/9k6* GMSK_USP",
-    "callsign":"RS30S",
-    "satnogs_id":"TSYE-5592-5507-8880-3661"
-  },
-  {
     "name":"SITRO-AIS-5",
     "norad_id":"57176",
     "uplink":null,
@@ -3270,16 +3270,6 @@
     "satnogs_id":"OTLB-3496-1811-8002-0742"
   },
   {
-    "name":"SXC3-215",
-    "norad_id":"53386",
-    "uplink":null,
-    "downlink":"437.800",
-    "beacon":null,
-    "mode":"2400bps GMSK_USP",
-    "callsign":"RS33S",
-    "satnogs_id":"UPJA-6543-4153-4055-9244"
-  },
-  {
     "name":"SXC3-216",
     "norad_id":"53376",
     "uplink":null,
@@ -3288,16 +3278,6 @@
     "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS23S",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
-  },
-  {
-    "name":"SXC3-217",
-    "norad_id":"53384",
-    "uplink":null,
-    "downlink":"437.750",
-    "beacon":null,
-    "mode":"2k4\/4k8*GMSK_USP",
-    "callsign":"RS30S",
-    "satnogs_id":"TSYE-5592-5507-8880-3661"
   },
   {
     "name":"SXC3-218",
@@ -3318,16 +3298,6 @@
     "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS19S",
     "satnogs_id":"BFTX-5845-5159-6971-7200"
-  },
-  {
-    "name":"SXC3-2110",
-    "norad_id":"53373",
-    "uplink":null,
-    "downlink":"436.050",
-    "beacon":null,
-    "mode":"2400bps GMSK_USP",
-    "callsign":"RS29S",
-    "satnogs_id":"YYOS-0902-7582-8175-2841"
   },
   {
     "name":"SXC3-2111",
@@ -3678,16 +3648,6 @@
     "mode":"9600bps GFSK",
     "callsign":"OM9VER",
     "satnogs_id":"EXYP-7555-6232-5402-1667"
-  },
-  {
-    "name":"Vizard",
-    "norad_id":"53386",
-    "uplink":null,
-    "downlink":"437.800",
-    "beacon":null,
-    "mode":"2400bps GMSK_USP",
-    "callsign":"RS33S",
-    "satnogs_id":"UPJA-6543-4153-4055-9244"
   },
   {
     "name":"VIZARD-meteo",
