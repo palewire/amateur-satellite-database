@@ -45590,5 +45590,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RVKZ-6521-7931-9677-2764",
+    "norad_cat_id":56986.0,
+    "norad_follow_id":null,
+    "name":"AYRIS-2",
+    "names":"2023-084BG",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":"2023-06-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IL",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-07T18:42:17.581716Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1f4RKnge2tu1CJ5BptRo-kxMq4DQTbqy1x6G5fx7SKck\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
