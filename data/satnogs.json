@@ -44568,16 +44568,16 @@
     "image":"satellites\/ROBUSTA-3A.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2024-07-09T18:00:00Z",
+    "deployed":"2024-07-09T19:05:53Z",
     "website":"https:\/\/csum.umontpellier.fr\/en\/nanosatellites-projects-our-3u-projects\/",
     "operator":"None",
     "countries":"FR",
     "telemetries":[
 
     ],
-    "updated":"2024-04-25T22:33:58.578715Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-07-09T11:39:10.338761Z",
+    "citation":"Ariane 6 Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45505,15 +45505,15 @@
     "status":"future",
     "decayed":null,
     "launched":"2024-07-09T18:00:00Z",
-    "deployed":null,
+    "deployed":"2024-07-09T19:05:56Z",
     "website":"https:\/\/grbbeta.tuke.sk\/",
     "operator":"None",
     "countries":"SK",
     "telemetries":[
 
     ],
-    "updated":"2024-07-05T14:34:30.405937Z",
-    "citation":"Satellite team",
+    "updated":"2024-07-09T11:39:10.317709Z",
+    "citation":"Ariane 6 Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45527,17 +45527,17 @@
     "names":"Curium-1",
     "image":"satellites\/IMG_5225.jpeg",
     "status":"future",
-    "decayed":"2034-07-09T19:00:00Z",
-    "launched":"2024-07-09T19:00:00Z",
-    "deployed":"2024-07-09T19:15:00Z",
+    "decayed":null,
+    "launched":"2024-07-09T18:00:00Z",
+    "deployed":"2024-07-09T19:05:53Z",
     "website":"https:\/\/gitlab.com\/curiumsat",
     "operator":"LSF",
     "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2024-07-06T09:16:24.131497Z",
-    "citation":"Assign temporary NORAD ID",
+    "updated":"2024-07-09T11:39:10.343821Z",
+    "citation":"Ariane 6 Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45610,6 +45610,150 @@
     ],
     "updated":"2024-07-07T18:42:17.581716Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1f4RKnge2tu1CJ5BptRo-kxMq4DQTbqy1x6G5fx7SKck\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LRPR-7984-5193-0374-6707",
+    "norad_cat_id":98880.0,
+    "norad_follow_id":null,
+    "name":"Ariane 6 - Upper Stage",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-09T18:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-09T11:39:10.354198Z",
+    "citation":"Ariane 6 Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PMFR-2251-1868-1493-1072",
+    "norad_cat_id":98879.0,
+    "norad_follow_id":null,
+    "name":"CURIE",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-09T18:00:00Z",
+    "deployed":"2024-07-09T19:06:02Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-09T11:39:10.309077Z",
+    "citation":"Ariane 6 Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MEGR-8410-6900-4102-7890",
+    "norad_cat_id":98878.0,
+    "norad_follow_id":null,
+    "name":"3CAT-4",
+    "names":"\u00b3Cat-4, 3CAT4, \u00b3Cat4",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-09T18:00:00Z",
+    "deployed":"2024-07-09T19:05:56Z",
+    "website":"https:\/\/nanosatlab.upc.edu\/en\/missions-and-projects\/3cat-4",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-09T11:39:10.328752Z",
+    "citation":"Ariane 6 Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VFKG-4740-7583-8424-4286",
+    "norad_cat_id":98877.0,
+    "norad_follow_id":null,
+    "name":"ISTSAT-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-09T18:00:00Z",
+    "deployed":"2024-07-09T19:05:56Z",
+    "website":"http:\/\/istsat-one.tecnico.ulisboa.pt\/~istsat-one.daemon\/",
+    "operator":"None",
+    "countries":"PT",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-09T11:39:10.323503Z",
+    "citation":"Ariane 6 Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IWZL-9125-3719-4852-5266",
+    "norad_cat_id":98876.0,
+    "norad_follow_id":null,
+    "name":"OOV-Cube",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-09T18:00:00Z",
+    "deployed":"2024-07-09T19:05:53Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-09T11:39:10.349134Z",
+    "citation":"Ariane 6 Team",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AQWU-3813-6387-8087-7889",
+    "norad_cat_id":98875.0,
+    "norad_follow_id":null,
+    "name":"Replicator",
+    "names":"ORBIT-3D",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-09T18:00:00Z",
+    "deployed":"2024-07-09T19:05:56Z",
+    "website":"",
+    "operator":"None",
+    "countries":"PL",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-09T11:39:10.333787Z",
+    "citation":"Ariane 6 Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
