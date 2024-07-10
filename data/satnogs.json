@@ -31766,7 +31766,9 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"catsat"
+      }
     ],
     "updated":"2024-07-06T17:35:05.115507Z",
     "citation":"Change randomly NORAD ID to follow, probably not deployed",
@@ -44566,18 +44568,18 @@
     "name":"ROBUSTA-3A",
     "names":"",
     "image":"satellites\/ROBUSTA-3A.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-07-09T18:00:00Z",
-    "deployed":"2024-07-09T19:05:53Z",
+    "launched":"2024-07-09T19:00:00Z",
+    "deployed":"2024-07-09T20:05:53Z",
     "website":"https:\/\/csum.umontpellier.fr\/en\/nanosatellites-projects-our-3u-projects\/",
     "operator":"None",
     "countries":"FR",
     "telemetries":[
 
     ],
-    "updated":"2024-07-09T11:39:10.338761Z",
-    "citation":"Ariane 6 Team",
+    "updated":"2024-07-09T18:35:10.780554Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45502,18 +45504,18 @@
     "name":"GRBBeta",
     "names":"HA2GRB",
     "image":"satellites\/grbbeta.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-07-09T18:00:00Z",
-    "deployed":"2024-07-09T19:05:56Z",
+    "launched":"2024-07-09T19:00:00Z",
+    "deployed":"2024-07-09T20:05:56Z",
     "website":"https:\/\/grbbeta.tuke.sk\/",
     "operator":"None",
     "countries":"SK",
     "telemetries":[
 
     ],
-    "updated":"2024-07-09T11:39:10.317709Z",
-    "citation":"Ariane 6 Team",
+    "updated":"2024-07-09T18:35:10.698254Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45526,18 +45528,18 @@
     "name":"Curium One",
     "names":"Curium-1",
     "image":"satellites\/IMG_5225.jpeg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-07-09T18:00:00Z",
-    "deployed":"2024-07-09T19:05:53Z",
+    "launched":"2024-07-09T19:00:00Z",
+    "deployed":"2024-07-09T20:05:53Z",
     "website":"https:\/\/gitlab.com\/curiumsat",
     "operator":"LSF",
     "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2024-07-09T11:39:10.343821Z",
-    "citation":"Ariane 6 Team",
+    "updated":"2024-07-09T18:35:10.798838Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45622,9 +45624,9 @@
     "name":"Ariane 6 - Upper Stage",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-07-09T18:00:00Z",
+    "launched":"2024-07-09T19:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -45632,8 +45634,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-09T11:39:10.354198Z",
-    "citation":"Ariane 6 Team",
+    "updated":"2024-07-09T18:35:10.837133Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45646,18 +45648,18 @@
     "name":"CURIE",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-07-09T18:00:00Z",
-    "deployed":"2024-07-09T19:06:02Z",
+    "launched":"2024-07-09T19:00:00Z",
+    "deployed":"2024-07-09T20:06:02Z",
     "website":"",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-07-09T11:39:10.309077Z",
-    "citation":"Ariane 6 Team",
+    "updated":"2024-07-09T18:35:10.671040Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45670,18 +45672,18 @@
     "name":"3CAT-4",
     "names":"\u00b3Cat-4, 3CAT4, \u00b3Cat4",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-07-09T18:00:00Z",
-    "deployed":"2024-07-09T19:05:56Z",
+    "launched":"2024-07-09T19:00:00Z",
+    "deployed":"2024-07-09T20:05:56Z",
     "website":"https:\/\/nanosatlab.upc.edu\/en\/missions-and-projects\/3cat-4",
     "operator":"None",
     "countries":"ES",
     "telemetries":[
 
     ],
-    "updated":"2024-07-09T11:39:10.328752Z",
-    "citation":"Ariane 6 Team",
+    "updated":"2024-07-09T18:35:10.741874Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45694,18 +45696,18 @@
     "name":"ISTSAT-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-07-09T18:00:00Z",
-    "deployed":"2024-07-09T19:05:56Z",
+    "launched":"2024-07-09T19:00:00Z",
+    "deployed":"2024-07-09T20:05:56Z",
     "website":"http:\/\/istsat-one.tecnico.ulisboa.pt\/~istsat-one.daemon\/",
     "operator":"None",
     "countries":"PT",
     "telemetries":[
 
     ],
-    "updated":"2024-07-09T11:39:10.323503Z",
-    "citation":"Ariane 6 Team",
+    "updated":"2024-07-09T18:35:10.720895Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45717,19 +45719,19 @@
     "norad_follow_id":null,
     "name":"OOV-Cube",
     "names":"",
-    "image":"",
-    "status":"future",
+    "image":"satellites\/csm_DSC_0254_b7de3e249d.png",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-07-09T18:00:00Z",
-    "deployed":"2024-07-09T19:05:53Z",
-    "website":"",
-    "operator":"None",
+    "launched":"2024-07-09T19:00:00Z",
+    "deployed":"2024-07-09T20:05:53Z",
+    "website":"https:\/\/tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/oov-cube",
+    "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2024-07-09T11:39:10.349134Z",
-    "citation":"Ariane 6 Team",
+    "updated":"2024-07-09T20:18:44.143265Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/313",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -45742,18 +45744,18 @@
     "name":"Replicator",
     "names":"ORBIT-3D",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-07-09T18:00:00Z",
-    "deployed":"2024-07-09T19:05:56Z",
+    "launched":"2024-07-09T19:00:00Z",
+    "deployed":"2024-07-09T20:05:56Z",
     "website":"",
     "operator":"None",
     "countries":"PL",
     "telemetries":[
 
     ],
-    "updated":"2024-07-09T11:39:10.333787Z",
-    "citation":"Ariane 6 Team",
+    "updated":"2024-07-09T18:35:10.761591Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
