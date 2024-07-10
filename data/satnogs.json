@@ -45695,7 +45695,7 @@
     "norad_follow_id":null,
     "name":"ISTSAT-1",
     "names":"",
-    "image":"",
+    "image":"satellites\/nanosat_ist-sat1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2024-07-09T19:00:00Z",
@@ -45706,8 +45706,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-09T18:35:10.720895Z",
-    "citation":"Change status",
+    "updated":"2024-07-10T11:40:32.485785Z",
+    "citation":"DH",
     "is_frequency_violator":false,
     "associated_satellites":[
 

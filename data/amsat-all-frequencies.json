@@ -55,6 +55,17 @@
     "satnogs_id":"TDJT-5289-7835-4586-0378"
   },
   {
+    "name":"3CAT-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.350",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"4M-LXS",
     "norad_id":null,
     "uplink":null,
@@ -4455,6 +4466,28 @@
     "satnogs_id":null
   },
   {
+    "name":"CURIE-A\/B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"916.000",
+    "beacon":"2395.000",
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"CURIUM-ONE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.240",
+    "beacon":null,
+    "mode":"50k GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"CURTIS",
     "norad_id":"59507",
     "uplink":null,
@@ -6615,10 +6648,10 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"144.175\/144.550",
-    "beacon":null,
-    "mode":"FT8 SSTV",
+    "beacon":"2440.000",
+    "mode":"FT8 SSTV DATV",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -6840,6 +6873,17 @@
     "callsign":"OM9GRB",
     "status":"active",
     "satnogs_id":"HFFD-8697-8440-3101-3937"
+  },
+  {
+    "name":"GRBBeta",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.785",
+    "beacon":"2405.000",
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"GRAHAM",
@@ -8138,6 +8182,17 @@
     "callsign":"PY0EIA",
     "status":"inactive",
     "satnogs_id":"FDZF-3106-8767-3766-2200"
+  },
+  {
+    "name":"ISTSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.895",
+    "beacon":null,
+    "mode":"1200bps AFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"ITF-1",
@@ -11275,6 +11330,17 @@
     "satnogs_id":"JNNP-2835-3667-6280-1551"
   },
   {
+    "name":"OOV-Cube",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":"2263.000",
+    "mode":"1200bps AFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"OO-38",
     "norad_id":"26063",
     "uplink":null,
@@ -11372,6 +11438,17 @@
     "callsign":"RS15S",
     "status":"active",
     "satnogs_id":"OMJF-9743-1169-8966-7578"
+  },
+  {
+    "name":"ORBIT-3D",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.725",
+    "beacon":"2246.500",
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"ORCASAT",
@@ -13057,6 +13134,17 @@
     "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
+    "name":"Replicator",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.725",
+    "beacon":"2246.500",
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"ReshUCube-1",
     "norad_id":"53382",
     "uplink":null,
@@ -13165,6 +13253,17 @@
     "callsign":"FX6FRA",
     "status":"inactive",
     "satnogs_id":"ZYKO-7290-5830-6811-4050"
+  },
+  {
+    "name":"ROBUSTA-3A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.750",
+    "beacon":"2202.000",
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"ROM-2",
@@ -18741,6 +18840,17 @@
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":null,
     "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"YPSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"144.175\/144.550",
+    "beacon":"2440.000",
+    "mode":"FT8 SSTV DATV",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {

@@ -1913,6 +1913,6 @@ RVKZ-6521-7931-9677-2764,56986.0,,AYRIS-2,2023-084BG,,alive,,2023-06-12T00:00:00
 LRPR-7984-5193-0374-6707,98880.0,,Ariane 6 - Upper Stage,,,alive,,2024-07-09T19:00:00Z,,,None,,[],2024-07-09T18:35:10.837133Z,Change status,False,[]
 PMFR-2251-1868-1493-1072,98879.0,,CURIE,,,alive,,2024-07-09T19:00:00Z,2024-07-09T20:06:02Z,,None,US,[],2024-07-09T18:35:10.671040Z,Change status,False,[]
 MEGR-8410-6900-4102-7890,98878.0,,3CAT-4,"³Cat-4, 3CAT4, ³Cat4",,alive,,2024-07-09T19:00:00Z,2024-07-09T20:05:56Z,https://nanosatlab.upc.edu/en/missions-and-projects/3cat-4,None,ES,[],2024-07-09T18:35:10.741874Z,Change status,False,[]
-VFKG-4740-7583-8424-4286,98877.0,,ISTSAT-1,,,alive,,2024-07-09T19:00:00Z,2024-07-09T20:05:56Z,http://istsat-one.tecnico.ulisboa.pt/~istsat-one.daemon/,None,PT,[],2024-07-09T18:35:10.720895Z,Change status,False,[]
+VFKG-4740-7583-8424-4286,98877.0,,ISTSAT-1,,satellites/nanosat_ist-sat1.jpg,alive,,2024-07-09T19:00:00Z,2024-07-09T20:05:56Z,http://istsat-one.tecnico.ulisboa.pt/~istsat-one.daemon/,None,PT,[],2024-07-10T11:40:32.485785Z,DH,False,[]
 IWZL-9125-3719-4852-5266,98876.0,,OOV-Cube,,satellites/csm_DSC_0254_b7de3e249d.png,alive,,2024-07-09T19:00:00Z,2024-07-09T20:05:53Z,https://tu.berlin/en/raumfahrttechnik/research/current-projects/oov-cube,TU Berlin,DE,[],2024-07-09T20:18:44.143265Z,https://gitlab.com/librespacefoundation/satnogs-ops/-/issues/313,True,[]
 AQWU-3813-6387-8087-7889,98875.0,,Replicator,ORBIT-3D,,alive,,2024-07-09T19:00:00Z,2024-07-09T20:05:56Z,,None,PL,[],2024-07-09T18:35:10.761591Z,Change status,False,[]
