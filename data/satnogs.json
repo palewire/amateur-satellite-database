@@ -44564,7 +44564,7 @@
   {
     "sat_id":"AEYC-6866-6455-5236-7157",
     "norad_cat_id":98895.0,
-    "norad_follow_id":60241.0,
+    "norad_follow_id":60243.0,
     "name":"ROBUSTA-3A",
     "names":"",
     "image":"satellites\/ROBUSTA-3A.png",
@@ -44578,8 +44578,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-10T19:02:00.954500Z",
-    "citation":"PE0SAT strf observations: https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/38",
+    "updated":"2024-07-11T10:54:52.844563Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/48",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45500,7 +45500,7 @@
   {
     "sat_id":"FVZM-4350-0869-7957-1010",
     "norad_cat_id":98882.0,
-    "norad_follow_id":60236.0,
+    "norad_follow_id":60237.0,
     "name":"GRBBeta",
     "names":"HA2GRB",
     "image":"satellites\/grbbeta.png",
@@ -45514,8 +45514,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-10T18:40:54.484677Z",
-    "citation":"PE0SAT strf observations: https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/37",
+    "updated":"2024-07-11T10:54:52.793357Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/48",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45524,7 +45524,7 @@
   {
     "sat_id":"FOLU-4370-1786-3583-3279",
     "norad_cat_id":98881.0,
-    "norad_follow_id":60236.0,
+    "norad_follow_id":60242.0,
     "name":"Curium One",
     "names":"Curium-1",
     "image":"satellites\/IMG_5225.jpeg",
@@ -45538,8 +45538,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-10T13:09:05.004318Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/26",
+    "updated":"2024-07-11T10:54:52.733752Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/48",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45644,7 +45644,7 @@
   {
     "sat_id":"PMFR-2251-1868-1493-1072",
     "norad_cat_id":98879.0,
-    "norad_follow_id":60241.0,
+    "norad_follow_id":60240.0,
     "name":"CURIE",
     "names":"",
     "image":"",
@@ -45658,8 +45658,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-10T13:09:04.973987Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/26",
+    "updated":"2024-07-11T10:54:52.866227Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/48",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45692,7 +45692,7 @@
   {
     "sat_id":"VFKG-4740-7583-8424-4286",
     "norad_cat_id":98877.0,
-    "norad_follow_id":60240.0,
+    "norad_follow_id":60236.0,
     "name":"ISTSAT-1",
     "names":"",
     "image":"satellites\/nanosat_ist-sat1.jpg",
@@ -45706,8 +45706,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-10T13:09:05.183918Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/26",
+    "updated":"2024-07-11T10:54:52.822798Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/48",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45716,7 +45716,7 @@
   {
     "sat_id":"IWZL-9125-3719-4852-5266",
     "norad_cat_id":98876.0,
-    "norad_follow_id":60242.0,
+    "norad_follow_id":60243.0,
     "name":"OOV-Cube",
     "names":"",
     "image":"satellites\/csm_DSC_0254_b7de3e249d.png",
@@ -45730,8 +45730,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-10T13:09:05.032145Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/26",
+    "updated":"2024-07-11T10:54:52.766999Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/48",
     "is_frequency_violator":true,
     "associated_satellites":[
 
