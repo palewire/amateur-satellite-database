@@ -15147,7 +15147,7 @@
     "norad_follow_id":60209.0,
     "name":"MESAT-1",
     "names":"",
-    "image":"",
+    "image":"satellites\/IMG_0571-317x422.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2024-07-04T04:04:00Z",
@@ -15158,8 +15158,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T20:00:08.561052Z",
-    "citation":"Based on PE0SAT strf observation",
+    "updated":"2024-07-12T06:59:15.422121Z",
+    "citation":"https:\/\/umaine.edu\/wisenetlab\/mesat1\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

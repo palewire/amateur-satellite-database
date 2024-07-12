@@ -55,8 +55,19 @@
     "satnogs_id":"TDJT-5289-7835-4586-0378"
   },
   {
-    "name":"3CAT-4",
+    "name":"3CAT-3",
     "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"3CAT-4",
+    "norad_id":"60238",
     "uplink":null,
     "downlink":"437.350",
     "beacon":null,
@@ -64,6 +75,28 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
+  },
+  {
+    "name":"3CAT-5A",
+    "norad_id":"46292",
+    "uplink":null,
+    "downlink":"401.337",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"CHKH-0088-8886-9724-9925"
+  },
+  {
+    "name":"3CAT-5A",
+    "norad_id":"46292",
+    "uplink":null,
+    "downlink":"401.337",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"CHKH-0088-8886-9724-9925"
   },
   {
     "name":"4M-LXS",
@@ -6876,7 +6909,7 @@
   },
   {
     "name":"GRBBeta",
-    "norad_id":null,
+    "norad_id":"60237",
     "uplink":null,
     "downlink":"436.785",
     "beacon":"2405.000",
@@ -13256,7 +13289,7 @@
   },
   {
     "name":"ROBUSTA-3A",
-    "norad_id":null,
+    "norad_id":"60243",
     "uplink":null,
     "downlink":"436.750",
     "beacon":"2202.000",

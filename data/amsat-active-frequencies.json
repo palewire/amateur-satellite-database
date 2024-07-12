@@ -1411,7 +1411,7 @@
   },
   {
     "name":"GRBBeta",
-    "norad_id":null,
+    "norad_id":"60237",
     "uplink":null,
     "downlink":"436.785",
     "beacon":"2405.000",
