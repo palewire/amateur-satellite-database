@@ -6880,9 +6880,9 @@
     "uplink":null,
     "downlink":"436.785",
     "beacon":"2405.000",
-    "mode":"9600bps GFSK",
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9600bps GFSK CW",
+    "callsign":"HA2GRB",
+    "status":"active",
     "satnogs_id":null
   },
   {

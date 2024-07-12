@@ -1410,6 +1410,16 @@
     "satnogs_id":"HFFD-8697-8440-3101-3937"
   },
   {
+    "name":"GRBBeta",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.785",
+    "beacon":"2405.000",
+    "mode":"9600bps GFSK CW",
+    "callsign":"HA2GRB",
+    "satnogs_id":null
+  },
+  {
     "name":"GreenCube",
     "norad_id":"53106",
     "uplink":"435.310",

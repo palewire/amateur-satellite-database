@@ -31754,7 +31754,7 @@
   {
     "sat_id":"EIOW-0233-5270-5407-2865",
     "norad_cat_id":99164.0,
-    "norad_follow_id":60208.0,
+    "norad_follow_id":60210.0,
     "name":"CatSat",
     "names":"",
     "image":"",
@@ -31770,8 +31770,8 @@
         "decoder":"catsat"
       }
     ],
-    "updated":"2024-07-06T17:35:05.115507Z",
-    "citation":"Change randomly NORAD ID to follow, probably not deployed",
+    "updated":"2024-07-11T23:27:43.417529Z",
+    "citation":"https:\/\/community.libre.space\/t\/observation-9829127-catsat-99164-possible-frequency-tle-change\/11979",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45380,7 +45380,7 @@
   {
     "sat_id":"WTDL-4873-1107-9862-4396",
     "norad_cat_id":98888.0,
-    "norad_follow_id":60210.0,
+    "norad_follow_id":60206.0,
     "name":"KUbeSat-1",
     "names":"",
     "image":"satellites\/KUbeSat1.jpg",
@@ -45394,8 +45394,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-06T17:35:04.431889Z",
-    "citation":"Change randomly NORAD ID to follow, related with the position of received MESAT-1",
+    "updated":"2024-07-11T23:29:09.651608Z",
+    "citation":"https:\/\/community.libre.space\/t\/observation-9829127-catsat-99164-possible-frequency-tle-change\/11979",
     "is_frequency_violator":false,
     "associated_satellites":[
 
