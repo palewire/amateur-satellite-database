@@ -32189,7 +32189,7 @@
   },
   {
     "sat_id":"AYLO-6910-6407-3496-4588",
-    "norad_cat_id":56746.0,
+    "norad_cat_id":56749.0,
     "norad_follow_id":null,
     "name":"SNIPE A",
     "names":"KASI-SAT A, SNIPE-1",
@@ -32204,8 +32204,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-09T11:28:26.140384Z",
-    "citation":"satellite team",
+    "updated":"2024-07-12T17:04:53.527897Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56749\/2023-05-27T01%3A11%3A05_7620825_56749_23072G_0-OBJECT-G_0.5421164959259102_B_r24.0_f0.3.png",
     "is_frequency_violator":true,
     "associated_satellites":[
       "CRTU-9870-2005-4687-6645"
@@ -45644,7 +45644,7 @@
   {
     "sat_id":"PMFR-2251-1868-1493-1072",
     "norad_cat_id":98879.0,
-    "norad_follow_id":60240.0,
+    "norad_follow_id":60243.0,
     "name":"CURIE",
     "names":"",
     "image":"",
@@ -45658,8 +45658,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-11T10:54:52.866227Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/48",
+    "updated":"2024-07-12T21:26:11.389838Z",
+    "citation":"Random NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45716,7 +45716,7 @@
   {
     "sat_id":"IWZL-9125-3719-4852-5266",
     "norad_cat_id":98876.0,
-    "norad_follow_id":60243.0,
+    "norad_follow_id":60240.0,
     "name":"OOV-Cube",
     "names":"",
     "image":"satellites\/csm_DSC_0254_b7de3e249d.png",
@@ -45730,8 +45730,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-11T10:54:52.766999Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/48",
+    "updated":"2024-07-12T21:25:46.684629Z",
+    "citation":"Random NORAD ID to follow",
     "is_frequency_violator":true,
     "associated_satellites":[
 

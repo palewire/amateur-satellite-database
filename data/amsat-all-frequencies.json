@@ -13293,8 +13293,8 @@
     "uplink":null,
     "downlink":"436.750",
     "beacon":"2202.000",
-    "mode":"9600bps GMSK",
-    "callsign":null,
+    "mode":"9600bps FSK",
+    "callsign":"FX6FRD",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -14869,7 +14869,7 @@
     "mode":"4800bps MSK_AX.100_Mode 5",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"AYLO-6910-6407-3496-4588"
   },
   {
     "name":"SNIPE-B",
@@ -14891,7 +14891,7 @@
     "mode":"4800bps MSK_AX.100_Mode 5",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":"AYLO-6910-6407-3496-4588"
+    "satnogs_id":null
   },
   {
     "name":"SNIPE-D",
