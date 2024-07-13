@@ -2580,6 +2580,16 @@
     "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {
+    "name":"ROBUSTA-3A",
+    "norad_id":"60243",
+    "uplink":null,
+    "downlink":"436.750",
+    "beacon":"2202.000",
+    "mode":"9600bps FSK",
+    "callsign":"FX6FRD",
+    "satnogs_id":null
+  },
+  {
     "name":"RoseyCubesat-1",
     "norad_id":"56212",
     "uplink":"145.850",
