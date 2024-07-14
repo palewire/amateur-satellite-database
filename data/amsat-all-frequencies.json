@@ -4500,7 +4500,7 @@
   },
   {
     "name":"CURIE-A\/B",
-    "norad_id":null,
+    "norad_id":"60241",
     "uplink":null,
     "downlink":"916.000",
     "beacon":"2395.000",
@@ -4511,7 +4511,7 @@
   },
   {
     "name":"CURIUM-ONE",
-    "norad_id":null,
+    "norad_id":"60242",
     "uplink":null,
     "downlink":"436.240",
     "beacon":null,
@@ -4891,7 +4891,7 @@
     "beacon":null,
     "mode":"1200bps BPSK",
     "callsign":"DIDO2",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"ANTS-7659-6853-4378-3829"
   },
   {
@@ -6678,7 +6678,7 @@
   },
   {
     "name":"GENESIS-A",
-    "norad_id":null,
+    "norad_id":"60235",
     "uplink":null,
     "downlink":"144.175\/144.550",
     "beacon":"2440.000",
@@ -8218,7 +8218,7 @@
   },
   {
     "name":"ISTSAT-1",
-    "norad_id":null,
+    "norad_id":"60236",
     "uplink":null,
     "downlink":"145.895",
     "beacon":null,
@@ -11364,7 +11364,7 @@
   },
   {
     "name":"OOV-Cube",
-    "norad_id":null,
+    "norad_id":"60240",
     "uplink":null,
     "downlink":"435.950",
     "beacon":"2263.000",
@@ -11474,7 +11474,7 @@
   },
   {
     "name":"ORBIT-3D",
-    "norad_id":null,
+    "norad_id":"60239",
     "uplink":null,
     "downlink":"401.725",
     "beacon":"2246.500",
@@ -13168,7 +13168,7 @@
   },
   {
     "name":"Replicator",
-    "norad_id":null,
+    "norad_id":"60239",
     "uplink":null,
     "downlink":"401.725",
     "beacon":"2246.500",
@@ -18877,7 +18877,7 @@
   },
   {
     "name":"YPSat",
-    "norad_id":null,
+    "norad_id":"60235",
     "uplink":null,
     "downlink":"144.175\/144.550",
     "beacon":"2440.000",

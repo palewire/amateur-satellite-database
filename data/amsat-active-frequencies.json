@@ -1030,16 +1030,6 @@
     "satnogs_id":"FXJU-1542-5342-0390-1271"
   },
   {
-    "name":"DIDO-2",
-    "norad_id":"42000",
-    "uplink":null,
-    "downlink":"400.300",
-    "beacon":null,
-    "mode":"1200bps BPSK",
-    "callsign":"DIDO2",
-    "satnogs_id":"ANTS-7659-6853-4378-3829"
-  },
-  {
     "name":"DIDO-3",
     "norad_id":"46284",
     "uplink":null,
