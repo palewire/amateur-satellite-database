@@ -45644,7 +45644,7 @@
   {
     "sat_id":"PMFR-2251-1868-1493-1072",
     "norad_cat_id":98879.0,
-    "norad_follow_id":60243.0,
+    "norad_follow_id":60236.0,
     "name":"CURIE",
     "names":"",
     "image":"",
@@ -45658,8 +45658,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-12T21:26:11.389838Z",
-    "citation":"Random NORAD ID to follow",
+    "updated":"2024-07-13T14:04:06.925865Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/71",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45668,7 +45668,7 @@
   {
     "sat_id":"MEGR-8410-6900-4102-7890",
     "norad_cat_id":98878.0,
-    "norad_follow_id":60238.0,
+    "norad_follow_id":60241.0,
     "name":"3CAT-4",
     "names":"\u00b3Cat-4, 3CAT4, \u00b3Cat4",
     "image":"",
@@ -45682,8 +45682,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-10T13:09:05.114630Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/26",
+    "updated":"2024-07-13T14:03:32.680431Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/71",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45692,7 +45692,7 @@
   {
     "sat_id":"VFKG-4740-7583-8424-4286",
     "norad_cat_id":98877.0,
-    "norad_follow_id":60236.0,
+    "norad_follow_id":60238.0,
     "name":"ISTSAT-1",
     "names":"",
     "image":"satellites\/nanosat_ist-sat1.jpg",
@@ -45706,8 +45706,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-11T10:54:52.822798Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/48",
+    "updated":"2024-07-13T14:02:52.486189Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/71",
     "is_frequency_violator":false,
     "associated_satellites":[
 
