@@ -67,7 +67,7 @@
   },
   {
     "name":"3CAT-4",
-    "norad_id":"60238",
+    "norad_id":"60241",
     "uplink":null,
     "downlink":"437.350",
     "beacon":null,
@@ -4500,7 +4500,7 @@
   },
   {
     "name":"CURIE-A\/B",
-    "norad_id":"60241",
+    "norad_id":"60240",
     "uplink":null,
     "downlink":"916.000",
     "beacon":"2395.000",
@@ -4518,7 +4518,7 @@
     "mode":"50k GMSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"FOLU-4370-1786-3583-3279"
   },
   {
     "name":"CURTIS",
@@ -6678,7 +6678,7 @@
   },
   {
     "name":"GENESIS-A",
-    "norad_id":"60235",
+    "norad_id":"60239",
     "uplink":null,
     "downlink":"144.175\/144.550",
     "beacon":"2440.000",
@@ -8218,7 +8218,7 @@
   },
   {
     "name":"ISTSAT-1",
-    "norad_id":"60236",
+    "norad_id":"60238",
     "uplink":null,
     "downlink":"145.895",
     "beacon":null,
@@ -11364,7 +11364,7 @@
   },
   {
     "name":"OOV-Cube",
-    "norad_id":"60240",
+    "norad_id":"60236",
     "uplink":null,
     "downlink":"435.950",
     "beacon":"2263.000",
@@ -11474,7 +11474,7 @@
   },
   {
     "name":"ORBIT-3D",
-    "norad_id":"60239",
+    "norad_id":"60235",
     "uplink":null,
     "downlink":"401.725",
     "beacon":"2246.500",
@@ -13168,7 +13168,7 @@
   },
   {
     "name":"Replicator",
-    "norad_id":"60239",
+    "norad_id":"60235",
     "uplink":null,
     "downlink":"401.725",
     "beacon":"2246.500",
@@ -13296,7 +13296,7 @@
     "mode":"9600bps FSK",
     "callsign":"FX6FRD",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"AEYC-6866-6455-5236-7157"
   },
   {
     "name":"ROM-2",
@@ -18877,7 +18877,7 @@
   },
   {
     "name":"YPSat",
-    "norad_id":"60235",
+    "norad_id":"60239",
     "uplink":null,
     "downlink":"144.175\/144.550",
     "beacon":"2440.000",
