@@ -1663,7 +1663,7 @@ JBCY-3361-2959-8110-3669,98991.0,,OMNI-LER1,,,alive,,2023-11-11T18:49:00Z,2023-1
 DVFP-5425-6818-1482-0056,98990.0,,OSW Cazorla,Blue Marble Synthesizer,,alive,,2023-11-11T18:49:00Z,,,None,,[],2023-12-06T10:38:01.044320Z,Remove followed NORAD ID as the deployment is done,False,[]
 GOQR-1760-0521-1027-1985,98988.0,58297.0,UMBRA 07,,,alive,,2023-11-11T18:49:00Z,2023-11-11T20:06:16Z,,None,,[],2024-01-20T22:53:34.391849Z,space-track.org,False,[]
 LGHP-5450-2821-1755-7868,98987.0,58292.0,UMBRA 08,,,alive,,2023-11-11T18:49:00Z,2023-11-11T20:05:30Z,,None,,[],2023-12-05T03:13:21.490545Z,space-track.org,False,[]
-BDNJ-2213-7845-0073-9053,98984.0,58642.0,MDQUBESAT-2,,,alive,,,,,None,,[],2023-12-26T13:07:42.412603Z,https://community.libre.space/t/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc/10997/112,True,[]
+BDNJ-2213-7845-0073-9053,58665.0,,MDQUBESAT-2,,,alive,,,,,None,,[],2024-07-14T17:46:39.383025Z,tiny.gs and space-track.org,True,[]
 EYJA-7830-4114-3014-1194,59104.0,,Pony Express-2 SV2,"TYVAK-0262, PE2_FLT2",,alive,,2024-03-04T22:05:00Z,2024-04-04T00:34:53Z,,None,US,[],2024-06-23T18:33:27.341105Z,https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2024-043G,False,['ZYVI-6405-3136-4517-5606']
 LNQC-5899-0906-5843-5467,59105.0,,Pony Express-2 SV1,"TYVAK-0261, PE2_FLT1",,alive,,2024-03-04T22:05:00Z,2024-04-04T00:35:33Z,,None,US,[],2024-06-23T18:37:26.490117Z,https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2024-043H,False,['OWTK-1909-3015-6258-9892']
 KDPU-1823-6370-5846-1492,58567.0,,HADES-D,"SO-121, HYDRA-1",satellites/cache_18682954.png,alive,,2023-11-11T18:49:00Z,,https://www.amsat-ea.org/,None,ES,[{'decoder': 'hadesd'}],2023-12-22T10:15:14.032078Z,AMSAT BB list,False,['GPAF-9192-7239-6875-5127']

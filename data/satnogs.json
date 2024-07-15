@@ -39687,8 +39687,8 @@
   },
   {
     "sat_id":"BDNJ-2213-7845-0073-9053",
-    "norad_cat_id":98984.0,
-    "norad_follow_id":58642.0,
+    "norad_cat_id":58665.0,
+    "norad_follow_id":null,
     "name":"MDQUBESAT-2",
     "names":"",
     "image":"",
@@ -39702,8 +39702,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-26T13:07:42.412603Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-425-project-eo-ir-vsfb-slc-4e-2023-12-01-18-19-utc\/10997\/112",
+    "updated":"2024-07-14T17:46:39.383025Z",
+    "citation":"tiny.gs and space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
