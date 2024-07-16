@@ -31754,7 +31754,7 @@
   {
     "sat_id":"EIOW-0233-5270-5407-2865",
     "norad_cat_id":99164.0,
-    "norad_follow_id":60210.0,
+    "norad_follow_id":null,
     "name":"CatSat",
     "names":"",
     "image":"",
@@ -31770,8 +31770,8 @@
         "decoder":"catsat"
       }
     ],
-    "updated":"2024-07-11T23:27:43.417529Z",
-    "citation":"https:\/\/community.libre.space\/t\/observation-9829127-catsat-99164-possible-frequency-tle-change\/11979",
+    "updated":"2024-07-16T08:15:34.398044Z",
+    "citation":"Removing following object in favor of SatNOGS generated TLE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
