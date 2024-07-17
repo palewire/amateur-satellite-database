@@ -31770,8 +31770,8 @@
         "decoder":"catsat"
       }
     ],
-    "updated":"2024-07-16T08:15:34.398044Z",
-    "citation":"Removing following object in favor of SatNOGS generated TLE",
+    "updated":"2024-07-16T20:05:48.019031Z",
+    "citation":"Adding dashboard",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45718,7 +45718,7 @@
     "norad_cat_id":60240.0,
     "norad_follow_id":null,
     "name":"OOV-Cube",
-    "names":"",
+    "names":"DP0TBF, TUBSAT-30",
     "image":"satellites\/csm_DSC_0254_b7de3e249d.png",
     "status":"alive",
     "decayed":null,
@@ -45730,8 +45730,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-15T18:30:11.835390Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/84",
+    "updated":"2024-07-16T13:43:27.664468Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
 

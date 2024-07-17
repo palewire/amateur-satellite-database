@@ -67,7 +67,7 @@
   },
   {
     "name":"3CAT-4",
-    "norad_id":"60241",
+    "norad_id":"60236",
     "uplink":null,
     "downlink":"437.350",
     "beacon":null,
@@ -3510,7 +3510,7 @@
   },
   {
     "name":"CatSat",
-    "norad_id":"60206",
+    "norad_id":"60210",
     "uplink":null,
     "downlink":"437.185\/10470.000",
     "beacon":null,
@@ -4500,14 +4500,14 @@
   },
   {
     "name":"CURIE-A\/B",
-    "norad_id":"60240",
+    "norad_id":"60241",
     "uplink":null,
     "downlink":"916.000",
     "beacon":"2395.000",
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":"IWZL-9125-3719-4852-5266"
+    "satnogs_id":null
   },
   {
     "name":"CURIUM-ONE",
@@ -11364,14 +11364,14 @@
   },
   {
     "name":"OOV-Cube",
-    "norad_id":"60236",
+    "norad_id":"60240",
     "uplink":null,
     "downlink":"435.950",
     "beacon":"2263.000",
     "mode":"1200bps AFSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"IWZL-9125-3719-4852-5266"
   },
   {
     "name":"OO-38",
@@ -14983,7 +14983,7 @@
   },
   {
     "name":"SOC-i",
-    "norad_id":"60210",
+    "norad_id":"60206",
     "uplink":null,
     "downlink":"437.125",
     "beacon":null,
