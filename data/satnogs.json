@@ -31754,7 +31754,7 @@
   {
     "sat_id":"EIOW-0233-5270-5407-2865",
     "norad_cat_id":99164.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60246.0,
     "name":"CatSat",
     "names":"",
     "image":"",
@@ -31770,8 +31770,8 @@
         "decoder":"catsat"
       }
     ],
-    "updated":"2024-07-16T20:05:48.019031Z",
-    "citation":"Adding dashboard",
+    "updated":"2024-07-17T07:04:27.494943Z",
+    "citation":"Fits Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
