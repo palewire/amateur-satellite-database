@@ -15143,8 +15143,8 @@
   },
   {
     "sat_id":"ANJN-0857-0652-4935-2307",
-    "norad_cat_id":99219.0,
-    "norad_follow_id":60209.0,
+    "norad_cat_id":60209.0,
+    "norad_follow_id":null,
     "name":"MESAT-1",
     "names":"",
     "image":"satellites\/IMG_0571-317x422.jpg",
@@ -15158,11 +15158,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-12T06:59:15.422121Z",
-    "citation":"https:\/\/umaine.edu\/wisenetlab\/mesat1\/",
+    "updated":"2024-07-17T15:41:50.015523Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-60209\/2024-07-16T21%3A04%3A24_9872420_60209_24125G_0-OBJECT-G_0.24449768444443976_A_r24.0_f0.8.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "YDVZ-1796-2966-6606-9583"
     ]
   },
   {
@@ -45380,7 +45380,7 @@
   {
     "sat_id":"WTDL-4873-1107-9862-4396",
     "norad_cat_id":98888.0,
-    "norad_follow_id":60206.0,
+    "norad_follow_id":60210.0,
     "name":"KUbeSat-1",
     "names":"",
     "image":"satellites\/KUbeSat1.jpg",
@@ -45394,8 +45394,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-11T23:29:09.651608Z",
-    "citation":"https:\/\/community.libre.space\/t\/observation-9829127-catsat-99164-possible-frequency-tle-change\/11979",
+    "updated":"2024-07-17T15:55:44.058402Z",
+    "citation":"Random NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45499,8 +45499,8 @@
   },
   {
     "sat_id":"FVZM-4350-0869-7957-1010",
-    "norad_cat_id":98882.0,
-    "norad_follow_id":60237.0,
+    "norad_cat_id":60237.0,
+    "norad_follow_id":null,
     "name":"GRBBeta",
     "names":"HA2GRB",
     "image":"satellites\/grbbeta.png",
@@ -45514,11 +45514,12 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-11T10:54:52.793357Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/48",
+    "updated":"2024-07-17T23:04:15.851614Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/91",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "SASP-0698-3336-1200-3136",
+      "TYVT-7785-6402-0754-0890"
     ]
   },
   {
@@ -45691,8 +45692,8 @@
   },
   {
     "sat_id":"VFKG-4740-7583-8424-4286",
-    "norad_cat_id":98877.0,
-    "norad_follow_id":60238.0,
+    "norad_cat_id":60238.0,
+    "norad_follow_id":null,
     "name":"ISTSAT-1",
     "names":"",
     "image":"satellites\/nanosat_ist-sat1.jpg",
@@ -45706,8 +45707,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-13T14:02:52.486189Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/71",
+    "updated":"2024-07-17T23:03:47.538582Z",
+    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/91?u=fredy",
     "is_frequency_violator":false,
     "associated_satellites":[
 

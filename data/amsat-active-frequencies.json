@@ -1407,7 +1407,7 @@
     "beacon":"2405.000",
     "mode":"9600bps GFSK CW",
     "callsign":"HA2GRB",
-    "satnogs_id":null
+    "satnogs_id":"FVZM-4350-0869-7957-1010"
   },
   {
     "name":"GreenCube",
@@ -2067,7 +2067,7 @@
     "beacon":"435.800",
     "mode":"1200bps BPSK SSB",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"ANJN-0857-0652-4935-2307"
   },
   {
     "name":"MeznSat",

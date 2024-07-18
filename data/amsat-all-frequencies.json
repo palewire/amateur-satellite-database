@@ -3510,7 +3510,7 @@
   },
   {
     "name":"CatSat",
-    "norad_id":"60210",
+    "norad_id":"60246",
     "uplink":null,
     "downlink":"437.185\/10470.000",
     "beacon":null,
@@ -6916,7 +6916,7 @@
     "mode":"9600bps GFSK CW",
     "callsign":"HA2GRB",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"FVZM-4350-0869-7957-1010"
   },
   {
     "name":"GRAHAM",
@@ -8225,7 +8225,7 @@
     "mode":"1200bps AFSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"VFKG-4740-7583-8424-4286"
   },
   {
     "name":"ITF-1",
@@ -8889,7 +8889,7 @@
   },
   {
     "name":"KUbeSat-1",
-    "norad_id":"60205",
+    "norad_id":"60210",
     "uplink":null,
     "downlink":"437.085",
     "beacon":null,
@@ -9809,7 +9809,7 @@
     "mode":"1200bps BPSK SSB",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ANJN-0857-0652-4935-2307"
   },
   {
     "name":"METEOR-M1",
@@ -14257,7 +14257,7 @@
   },
   {
     "name":"Serenity-3",
-    "norad_id":"60208",
+    "norad_id":"60206",
     "uplink":null,
     "downlink":"437.100",
     "beacon":null,
@@ -14983,7 +14983,7 @@
   },
   {
     "name":"SOC-i",
-    "norad_id":"60206",
+    "norad_id":"60204",
     "uplink":null,
     "downlink":"437.125",
     "beacon":null,
