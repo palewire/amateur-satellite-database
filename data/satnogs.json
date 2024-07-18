@@ -45380,7 +45380,7 @@
   {
     "sat_id":"WTDL-4873-1107-9862-4396",
     "norad_cat_id":98888.0,
-    "norad_follow_id":60210.0,
+    "norad_follow_id":60203.0,
     "name":"KUbeSat-1",
     "names":"",
     "image":"satellites\/KUbeSat1.jpg",
@@ -45394,7 +45394,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-17T15:55:44.058402Z",
+    "updated":"2024-07-18T08:00:46.076820Z",
     "citation":"Random NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
