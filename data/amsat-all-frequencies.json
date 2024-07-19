@@ -3514,10 +3514,10 @@
     "uplink":null,
     "downlink":"437.185\/10470.000",
     "beacon":null,
-    "mode":"2k4\/9k6\/38k4 FSK",
+    "mode":"2k4*\/9k6\/38k4 FSK",
     "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
+    "status":"active",
+    "satnogs_id":"EIOW-0233-5270-5407-2865"
   },
   {
     "name":"CELESTA",
@@ -11370,7 +11370,7 @@
     "beacon":"2263.000",
     "mode":"1200bps AFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"IWZL-9125-3719-4852-5266"
   },
   {

@@ -680,6 +680,16 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
+    "name":"CatSat",
+    "norad_id":"60246",
+    "uplink":null,
+    "downlink":"437.185\/10470.000",
+    "beacon":null,
+    "mode":"2k4*\/9k6\/38k4 FSK",
+    "callsign":null,
+    "satnogs_id":"EIOW-0233-5270-5407-2865"
+  },
+  {
     "name":"Centauri-3",
     "norad_id":"47966",
     "uplink":null,
@@ -2318,6 +2328,16 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "satnogs_id":"LXXL-2333-4110-5964-9846"
+  },
+  {
+    "name":"OOV-Cube",
+    "norad_id":"60240",
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":"2263.000",
+    "mode":"1200bps AFSK",
+    "callsign":null,
+    "satnogs_id":"IWZL-9125-3719-4852-5266"
   },
   {
     "name":"ORBICRAFT-ZORKIY",

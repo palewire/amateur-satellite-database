@@ -31753,8 +31753,8 @@
   },
   {
     "sat_id":"EIOW-0233-5270-5407-2865",
-    "norad_cat_id":99164.0,
-    "norad_follow_id":60246.0,
+    "norad_cat_id":60246.0,
+    "norad_follow_id":null,
     "name":"CatSat",
     "names":"",
     "image":"",
@@ -31770,8 +31770,8 @@
         "decoder":"catsat"
       }
     ],
-    "updated":"2024-07-17T07:04:27.494943Z",
-    "citation":"Fits Network observations",
+    "updated":"2024-07-19T07:51:00.148095Z",
+    "citation":"https:\/\/community.libre.space\/t\/firefly-alpha-noise-of-summer-launch-elana-43-2024-07-04-04-04-utc\/11859\/95",
     "is_frequency_violator":false,
     "associated_satellites":[
 
