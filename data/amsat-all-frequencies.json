@@ -9757,6 +9757,28 @@
     "satnogs_id":null
   },
   {
+    "name":"MDQubeSAT-1",
+    "norad_id":"50986",
+    "uplink":null,
+    "downlink":"436.800",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"TPDX-4064-2548-6167-6896"
+  },
+  {
+    "name":"MDQubeSAT-2",
+    "norad_id":"58665",
+    "uplink":null,
+    "downlink":"436.900",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"BDNJ-2213-7845-0073-9053"
+  },
+  {
     "name":"Mea Huaka'i Voyager",
     "norad_id":null,
     "uplink":null,
@@ -16804,7 +16826,7 @@
     "beacon":null,
     "mode":"9600bps BPSK* FM",
     "callsign":"T1OFK",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"LGQA-5372-5302-5624-9737"
   },
   {
@@ -16848,7 +16870,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T5SNG",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"XOQX-0661-7847-8651-9310"
   },
   {
@@ -16859,7 +16881,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T6NZR",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"GBIO-3212-0773-4759-1903"
   },
   {
@@ -19081,7 +19103,7 @@
     "beacon":"437.350\/437.644*",
     "mode":"FM 9600bps BPSK",
     "callsign":"BI4ST",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"YFPC-1248-4077-8296-8715"
   },
   {

@@ -3370,16 +3370,6 @@
     "satnogs_id":"UYHX-6974-4483-5549-8559"
   },
   {
-    "name":"Tevel-1",
-    "norad_id":"51013",
-    "uplink":"145.970",
-    "downlink":"436.400",
-    "beacon":null,
-    "mode":"9600bps BPSK* FM",
-    "callsign":"T1OFK",
-    "satnogs_id":"LGQA-5372-5302-5624-9737"
-  },
-  {
     "name":"Tevel-2",
     "norad_id":"51069",
     "uplink":"145.970",
@@ -3408,26 +3398,6 @@
     "mode":"9600bps BPSK FM*",
     "callsign":"T4ATA",
     "satnogs_id":"MVWM-0813-4348-1031-3202"
-  },
-  {
-    "name":"Tevel-5",
-    "norad_id":"50998",
-    "uplink":"145.970",
-    "downlink":"436.400",
-    "beacon":null,
-    "mode":"9600bps BPSK FM*",
-    "callsign":"T5SNG",
-    "satnogs_id":"XOQX-0661-7847-8651-9310"
-  },
-  {
-    "name":"Tevel-6",
-    "norad_id":"50999",
-    "uplink":"145.970",
-    "downlink":"436.400",
-    "beacon":null,
-    "mode":"9600bps BPSK FM*",
-    "callsign":"T6NZR",
-    "satnogs_id":"GBIO-3212-0773-4759-1903"
   },
   {
     "name":"Tevel-7",
@@ -3838,16 +3808,6 @@
     "mode":"1k2AFSK\/9k6* GMSK CW",
     "callsign":"123456",
     "satnogs_id":"GRVM-9505-5712-0753-7014"
-  },
-  {
-    "name":"Zhou Enlai",
-    "norad_id":"43156",
-    "uplink":"145.930",
-    "downlink":"436.950",
-    "beacon":"437.350\/437.644*",
-    "mode":"FM 9600bps BPSK",
-    "callsign":"BI4ST",
-    "satnogs_id":"YFPC-1248-4077-8296-8715"
   },
   {
     "name":"ZHUHAI-1 02",
