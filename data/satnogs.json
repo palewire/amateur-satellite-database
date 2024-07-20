@@ -45115,8 +45115,8 @@
   },
   {
     "sat_id":"ZXIE-8847-8155-1792-9464",
-    "norad_cat_id":98889.0,
-    "norad_follow_id":60089.0,
+    "norad_cat_id":60089.0,
+    "norad_follow_id":null,
     "name":"SVOM",
     "names":"",
     "image":"",
@@ -45130,8 +45130,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-06-22T19:20:19.812405Z",
-    "citation":"From matrix chat",
+    "updated":"2024-07-19T19:14:02.501026Z",
+    "citation":"celestrak.org and network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 

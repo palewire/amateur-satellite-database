@@ -1889,7 +1889,7 @@ INLK-0953-0443-4235-5164,58921.0,,OBJECT E,2024-024E,,alive,,2024-02-02T00:00:00
 RRRS-6295-8710-0521-9563,98893.0,,SSAMUSAT,Sir Syed Aligarh Muslim University SATellite,satellites/chassis.png,future,,,,https://amu-sat.github.io/,None,IN,[],2024-06-08T02:10:01.169162Z,https://gitlab.com/librespacefoundation/satnogs-ops/-/issues/309,False,[]
 CXEH-2179-3370-4324-5788,59775.0,,Zorkiy-2M-4,"S4281A, S4281B",,alive,,,,https://sputnix.ru/,None,RU,[],2024-06-14T16:36:23.339498Z,Information from satellite operators.,False,[]
 FAWS-4397-4381-8570-0757,98890.0,,Kanyini,SASAT1,satellites/Kanyini.png,future,,,,https://www.saspacemission.com.au/,None,AU,[],2024-06-19T15:28:21.335505Z,https://www.saspacemission.com.au/,False,[]
-ZXIE-8847-8155-1792-9464,98889.0,60089.0,SVOM,,,alive,,,,,None,,[],2024-06-22T19:20:19.812405Z,From matrix chat,False,[]
+ZXIE-8847-8155-1792-9464,60089.0,,SVOM,,,alive,,,,,None,,[],2024-07-19T19:14:02.501026Z,celestrak.org and network observations,False,[]
 RHNJ-5910-1159-7496-6643,41183.0,,ORBCOMM FM118,2015-081E,,alive,,2015-12-22T00:00:00Z,2015-12-22T00:00:00Z,,None,US,[],2024-06-23T12:32:44.212217Z,https://docs.google.com/document/d/1kTiC-xCUSgsquX0gkXN2KPNQ2GE07kNbu4d03f7mU7Q/edit?usp=sharing,False,[]
 RKZS-4746-4585-8779-4891,40086.0,,ORBCOMM FM109,2014-040A,,alive,,2014-07-14T00:00:00Z,2014-07-14T00:00:00Z,,None,US,[],2024-06-23T12:32:38.439119Z,https://docs.google.com/document/d/1c5TWqJxZ9RGDnn6GMkZGgKbyrJ8fcbDpjnA5pjO9IuQ/edit?usp=sharing,False,[]
 UDML-8434-7163-3669-2563,40087.0,,ORBCOMM FM107,2014-040B,,alive,,2014-07-14T00:00:00Z,2014-07-14T00:00:00Z,,None,US,[],2024-06-23T12:32:21.444237Z,https://docs.google.com/document/d/1onkYCqtQFKHvhgR5JZcC0DgMK82cpbj_GoK_eS5wBfU/edit?usp=sharing,False,[]
