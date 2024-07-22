@@ -290,16 +290,6 @@
     "satnogs_id":"LWOS-0548-6434-8064-3287"
   },
   {
-    "name":"BEESAT-6",
-    "norad_id":"48083",
-    "uplink":null,
-    "downlink":"435.950",
-    "beacon":null,
-    "mode":"4800bps GMSK",
-    "callsign":"DB0BEJ",
-    "satnogs_id":"LWOS-0548-6434-8064-3287"
-  },
-  {
     "name":"BEESAT-7",
     "norad_id":"48084",
     "uplink":null,
@@ -2570,16 +2560,6 @@
     "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
-    "name":"ReshUCube-1",
-    "norad_id":"53382",
-    "uplink":null,
-    "downlink":"435.380",
-    "beacon":null,
-    "mode":"2k4\/9k6\/19k2*GMSK_USP",
-    "callsign":"RS8S",
-    "satnogs_id":"EUTM-6475-4739-7036-7152"
-  },
-  {
     "name":"ROBUSTA-1E",
     "norad_id":"58471",
     "uplink":null,
@@ -2708,16 +2688,6 @@
     "mode":"CW",
     "callsign":null,
     "satnogs_id":"GZWO-4435-4264-5456-3264"
-  },
-  {
-    "name":"SibSU",
-    "norad_id":"53382",
-    "uplink":null,
-    "downlink":"435.380",
-    "beacon":null,
-    "mode":"2k4\/9k6*\/19k2 GMSK_USP",
-    "callsign":"RS8S",
-    "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {
     "name":"SITRO-AIS-5",
@@ -3328,16 +3298,6 @@
     "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS19S",
     "satnogs_id":"BFTX-5845-5159-6971-7200"
-  },
-  {
-    "name":"SXC3-2111",
-    "norad_id":"53382",
-    "uplink":null,
-    "downlink":"435.380",
-    "beacon":null,
-    "mode":"2k4\/9k6*\/19k2 GMSK_USP",
-    "callsign":"RS8S",
-    "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {
     "name":"Tausat-2",

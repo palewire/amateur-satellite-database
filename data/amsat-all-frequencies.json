@@ -1921,7 +1921,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"DB0BEJ",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"LWOS-0548-6434-8064-3287"
   },
   {
@@ -13207,7 +13207,7 @@
     "beacon":null,
     "mode":"2k4\/9k6\/19k2*GMSK_USP",
     "callsign":"RS8S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {
@@ -14373,7 +14373,7 @@
     "beacon":null,
     "mode":"2k4\/9k6*\/19k2 GMSK_USP",
     "callsign":"RS8S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {
@@ -16386,7 +16386,7 @@
     "beacon":null,
     "mode":"2k4\/9k6*\/19k2 GMSK_USP",
     "callsign":"RS8S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {

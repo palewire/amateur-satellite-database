@@ -22582,8 +22582,8 @@
     "name":"ReshUCube",
     "names":"SXC3-2111, RS8S, SIBSU, SibGU",
     "image":"satellites\/SXC3.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-07-22T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites-sputnix\/for-radioamateurs",
@@ -22592,8 +22592,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-24T18:33:30.200212Z",
-    "citation":"https:\/\/community.libre.space\/t\/reshucube-identification\/",
+    "updated":"2024-07-21T21:13:34.281231Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
       "BCHR-2666-3822-0414-1807"
@@ -30416,7 +30416,7 @@
     "countries":"JP",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"kashiwa"
       }
     ],
     "updated":"2024-06-18T16:01:28.519318Z",
