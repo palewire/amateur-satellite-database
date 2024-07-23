@@ -16837,7 +16837,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T2YRC",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"GZOH-6912-3361-0211-8264"
   },
   {
@@ -16848,7 +16848,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T3TYB",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"LEAV-8991-5988-2220-6884"
   },
   {
@@ -16859,7 +16859,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T4ATA",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"MVWM-0813-4348-1031-3202"
   },
   {
@@ -16892,7 +16892,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T7ADM",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"CIFL-5741-4177-0610-3533"
   },
   {
@@ -16903,7 +16903,7 @@
     "beacon":null,
     "mode":"9600bps BPSK* FM",
     "callsign":"T8GBS",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"VNEP-7767-9055-3195-4316"
   },
   {

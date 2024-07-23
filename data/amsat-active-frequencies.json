@@ -3330,56 +3330,6 @@
     "satnogs_id":"UYHX-6974-4483-5549-8559"
   },
   {
-    "name":"Tevel-2",
-    "norad_id":"51069",
-    "uplink":"145.970",
-    "downlink":"436.400",
-    "beacon":null,
-    "mode":"9600bps BPSK FM*",
-    "callsign":"T2YRC",
-    "satnogs_id":"GZOH-6912-3361-0211-8264"
-  },
-  {
-    "name":"Tevel-3",
-    "norad_id":"50988",
-    "uplink":"145.970",
-    "downlink":"436.400",
-    "beacon":null,
-    "mode":"9600bps BPSK FM*",
-    "callsign":"T3TYB",
-    "satnogs_id":"LEAV-8991-5988-2220-6884"
-  },
-  {
-    "name":"Tevel-4",
-    "norad_id":"51063",
-    "uplink":"145.970",
-    "downlink":"436.400",
-    "beacon":null,
-    "mode":"9600bps BPSK FM*",
-    "callsign":"T4ATA",
-    "satnogs_id":"MVWM-0813-4348-1031-3202"
-  },
-  {
-    "name":"Tevel-7",
-    "norad_id":"51062",
-    "uplink":"145.970",
-    "downlink":"436.400",
-    "beacon":null,
-    "mode":"9600bps BPSK FM*",
-    "callsign":"T7ADM",
-    "satnogs_id":"CIFL-5741-4177-0610-3533"
-  },
-  {
-    "name":"Tevel-8",
-    "norad_id":"50989",
-    "uplink":"145.970",
-    "downlink":"436.400",
-    "beacon":null,
-    "mode":"9600bps BPSK* FM",
-    "callsign":"T8GBS",
-    "satnogs_id":"VNEP-7767-9055-3195-4316"
-  },
-  {
     "name":"Thybolt-1",
     "norad_id":"54363",
     "uplink":null,
