@@ -45762,5 +45762,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"STFI-9412-5959-1288-6091",
+    "norad_cat_id":56961.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X26",
+    "names":"2023-084AF",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":"2023-06-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-22T15:06:09.569148Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1wGDX2JIWy08H0vrlqVHGauJDqlaO1EeSIhLQSIb41Rs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
