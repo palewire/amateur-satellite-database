@@ -45357,7 +45357,7 @@
   {
     "sat_id":"WRQD-3611-7297-1682-8367",
     "norad_cat_id":98887.0,
-    "norad_follow_id":60204.0,
+    "norad_follow_id":60207.0,
     "name":"SOC-i",
     "names":"",
     "image":"satellites\/SOC-i.png",
@@ -45371,8 +45371,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-06T17:35:09.473312Z",
-    "citation":"Change randomly NORAD ID to follow, related with the position of received MESAT-1",
+    "updated":"2024-07-23T17:48:04.993462Z",
+    "citation":"https:\/\/community.libre.space\/t\/firefly-alpha-noise-of-summer-launch-elana-43-2024-07-04-04-04-utc\/11859\/100",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45477,7 +45477,7 @@
   {
     "sat_id":"GDPS-1527-9538-4129-7581",
     "norad_cat_id":98883.0,
-    "norad_follow_id":60207.0,
+    "norad_follow_id":60204.0,
     "name":"R5-S4",
     "names":"",
     "image":"",
@@ -45491,8 +45491,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-06T17:35:06.712127Z",
-    "citation":"Change randomly NORAD ID to follow, related with the position of received MESAT-1",
+    "updated":"2024-07-23T17:48:44.590587Z",
+    "citation":"Random NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
