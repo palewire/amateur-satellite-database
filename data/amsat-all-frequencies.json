@@ -71,7 +71,7 @@
     "uplink":null,
     "downlink":"437.350",
     "beacon":null,
-    "mode":"9600bps GMSK",
+    "mode":"9k6\/14k4 GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -4504,7 +4504,7 @@
     "uplink":null,
     "downlink":"916.000",
     "beacon":"2395.000",
-    "mode":null,
+    "mode":"87k GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -8221,8 +8221,8 @@
     "norad_id":"60238",
     "uplink":null,
     "downlink":"145.895",
-    "beacon":null,
-    "mode":"1200bps AFSK",
+    "beacon":"145.895",
+    "mode":"1200bps AFSK CW",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"VFKG-4740-7583-8424-4286"
