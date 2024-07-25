@@ -14839,50 +14839,6 @@
     "satnogs_id":"NVJW-1778-4425-6707-0234"
   },
   {
-    "name":"SNet-A",
-    "norad_id":"43186",
-    "uplink":null,
-    "downlink":"435.950\/2263.000",
-    "beacon":null,
-    "mode":"1k2*\/2k4 FFSK",
-    "callsign":"DP0TBB",
-    "status":"inactive",
-    "satnogs_id":"XPSM-2524-2392-8428-5297"
-  },
-  {
-    "name":"SNet-B",
-    "norad_id":"43187",
-    "uplink":null,
-    "downlink":"435.950\/2263.000",
-    "beacon":null,
-    "mode":"1k2*\/2k4 FFSK",
-    "callsign":"DP0TBC",
-    "status":"inactive",
-    "satnogs_id":"EFAY-8089-9221-6385-2409"
-  },
-  {
-    "name":"SNet-C",
-    "norad_id":"43188",
-    "uplink":null,
-    "downlink":"435.950\/2263.000",
-    "beacon":null,
-    "mode":"1k2*\/2k4 FFSK",
-    "callsign":"DP0TBD",
-    "status":"inactive",
-    "satnogs_id":"MCHL-8693-9902-0813-2147"
-  },
-  {
-    "name":"SNet-D",
-    "norad_id":"43189",
-    "uplink":null,
-    "downlink":"435.950\/2263.000",
-    "beacon":null,
-    "mode":"1k2*\/2k4 FFSK",
-    "callsign":"DP0TBE",
-    "status":"inactive",
-    "satnogs_id":"GRBF-7624-2517-1207-4873"
-  },
-  {
     "name":"SNIPE-A",
     "norad_id":"56749",
     "uplink":null,
@@ -16388,6 +16344,50 @@
     "callsign":"RS8S",
     "status":"re-entered",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
+  },
+  {
+    "name":"S-NetA",
+    "norad_id":"43188",
+    "uplink":null,
+    "downlink":"435.950\/2263.000",
+    "beacon":null,
+    "mode":"1k2*\/2k4 FFSK",
+    "callsign":"DP0TBB",
+    "status":"active",
+    "satnogs_id":"MCHL-8693-9902-0813-2147"
+  },
+  {
+    "name":"S-NetB",
+    "norad_id":"43187",
+    "uplink":null,
+    "downlink":"435.950\/2263.000",
+    "beacon":null,
+    "mode":"1k2*\/2k4 FFSK",
+    "callsign":"DP0TBC",
+    "status":"inactive",
+    "satnogs_id":"EFAY-8089-9221-6385-2409"
+  },
+  {
+    "name":"S-NetC",
+    "norad_id":"43189",
+    "uplink":null,
+    "downlink":"435.950\/2263.000",
+    "beacon":null,
+    "mode":"1k2*\/2k4 FFSK",
+    "callsign":"DP0TBD",
+    "status":"inactive",
+    "satnogs_id":"GRBF-7624-2517-1207-4873"
+  },
+  {
+    "name":"S-NetD",
+    "norad_id":"43186",
+    "uplink":null,
+    "downlink":"435.950\/2263.000",
+    "beacon":null,
+    "mode":"1k2*\/2k4 FFSK",
+    "callsign":"DP0TBE",
+    "status":"inactive",
+    "satnogs_id":"XPSM-2524-2392-8428-5297"
   },
   {
     "name":"TabletSat-Aurora",

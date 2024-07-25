@@ -45786,5 +45786,101 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RGLM-1157-2869-8577-9969",
+    "norad_cat_id":60082.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-1D",
+    "names":"2024-114D",
+    "image":"satellites\/Kineis_7_a09LsyQ.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-06-20T00:00:00Z",
+    "deployed":"2024-06-20T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-25T11:25:13.806047Z",
+    "citation":"from newspace.im",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PCMV-4687-3897-1756-3024",
+    "norad_cat_id":36798.0,
+    "norad_follow_id":null,
+    "name":"ALSAT 2A",
+    "names":"2010-035D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2010-07-12T00:00:00Z",
+    "deployed":"2010-07-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DZ",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-25T08:21:11.269586Z",
+    "citation":"Retrieved from https:\/\/en.wikipedia.org\/w\/index.php?title=Alsat-2A&oldid=1185686351",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LCDF-7727-1999-3080-1795",
+    "norad_cat_id":60083.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-1E",
+    "names":"",
+    "image":"satellites\/Kineis_7_9YwkrIr.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-25T11:25:17.598841Z",
+    "citation":"from newspace.im",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FGNF-7996-2438-8741-1021",
+    "norad_cat_id":60079.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-1B",
+    "names":"",
+    "image":"satellites\/Kineis_7.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-25T11:25:21.082360Z",
+    "citation":"from newspace.im",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

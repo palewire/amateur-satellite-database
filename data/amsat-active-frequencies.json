@@ -3300,6 +3300,16 @@
     "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
   {
+    "name":"S-NetA",
+    "norad_id":"43188",
+    "uplink":null,
+    "downlink":"435.950\/2263.000",
+    "beacon":null,
+    "mode":"1k2*\/2k4 FFSK",
+    "callsign":"DP0TBB",
+    "satnogs_id":"MCHL-8693-9902-0813-2147"
+  },
+  {
     "name":"Tausat-2",
     "norad_id":"55073",
     "uplink":null,
