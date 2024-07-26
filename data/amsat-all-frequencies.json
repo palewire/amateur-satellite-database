@@ -16666,7 +16666,7 @@
   },
   {
     "name":"TechEdSat-11",
-    "norad_id":null,
+    "norad_id":"60205",
     "uplink":null,
     "downlink":"401.875\/437.465\/2280.000",
     "beacon":null,
