@@ -2590,16 +2590,6 @@
     "satnogs_id":"LLCB-4532-4867-8038-3417"
   },
   {
-    "name":"SALSAT",
-    "norad_id":"46495",
-    "uplink":null,
-    "downlink":"435.900\/435.950*",
-    "beacon":null,
-    "mode":"1200bps TUBIX10 AFSK",
-    "callsign":null,
-    "satnogs_id":"CWCJ-6029-4779-5201-8503"
-  },
-  {
     "name":"SamSat-ION",
     "norad_id":"57173",
     "uplink":null,

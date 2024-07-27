@@ -13920,9 +13920,9 @@
     "uplink":null,
     "downlink":"435.900\/435.950*",
     "beacon":null,
-    "mode":"1200bps TUBIX10 AFSK",
+    "mode":"1200bps AFSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"CWCJ-6029-4779-5201-8503"
   },
   {
