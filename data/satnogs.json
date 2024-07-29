@@ -40630,7 +40630,7 @@
     "norad_follow_id":null,
     "name":"ENSO",
     "names":"ROBUSTA 1E",
-    "image":"",
+    "image":"satellites\/Patch-ENSO-1024x1024.png",
     "status":"alive",
     "decayed":null,
     "launched":"2023-12-01T18:19:00Z",
@@ -40639,10 +40639,12 @@
     "operator":"None",
     "countries":"FR",
     "telemetries":[
-
+      {
+        "decoder":"enso"
+      }
     ],
-    "updated":"2023-12-17T22:02:45.039862Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58470\/2023-12-17T15%3A51%3A25_8720554_58470_23185J_0-OBJECT-J_0.21899976851852898_B_r24.0_f0.0.png",
+    "updated":"2024-07-29T07:51:47.886817Z",
+    "citation":"add ENSO mission patch",
     "is_frequency_violator":false,
     "associated_satellites":[
       "EJZB-6514-3791-0732-9193"
@@ -45878,6 +45880,30 @@
     ],
     "updated":"2024-07-25T11:25:21.082360Z",
     "citation":"from newspace.im",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BIWD-3972-5656-2552-1418",
+    "norad_cat_id":49070.0,
+    "norad_follow_id":null,
+    "name":"PNEO4",
+    "names":"2021-073E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-08-17T00:00:00Z",
+    "deployed":"2021-08-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-07-29T07:53:12.937824Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Rwsa7lpFRihFb8nnPYK3gCrXXmkbXLPU8WVNEgK3qm4\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
