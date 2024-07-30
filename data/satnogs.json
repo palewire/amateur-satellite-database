@@ -40643,8 +40643,8 @@
         "decoder":"enso"
       }
     ],
-    "updated":"2024-07-29T07:51:47.886817Z",
-    "citation":"add ENSO mission patch",
+    "updated":"2024-07-30T10:00:55.055558Z",
+    "citation":"Add enso dashboard url",
     "is_frequency_violator":false,
     "associated_satellites":[
       "EJZB-6514-3791-0732-9193"
