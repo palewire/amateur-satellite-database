@@ -3098,7 +3098,7 @@
     "beacon":null,
     "mode":"SSB",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
@@ -3109,7 +3109,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"BJ1SO",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
@@ -3119,7 +3119,7 @@
     "downlink":"145.910",
     "beacon":"145.910",
     "mode":"CW",
-    "callsign":"BJ1SO",
+    "callsign":"BJ1SV",
     "status":"active",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
@@ -16947,7 +16947,7 @@
     "beacon":null,
     "mode":"SSB*",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
@@ -16968,8 +16968,8 @@
     "downlink":"145.910",
     "beacon":"145.910",
     "mode":"CW",
-    "callsign":"BJ1SO",
-    "status":"inactive",
+    "callsign":"BJ1SV",
+    "status":"active",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
@@ -17222,7 +17222,7 @@
     "beacon":null,
     "mode":"SSB*",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
@@ -17243,8 +17243,8 @@
     "downlink":"145.910",
     "beacon":"145.910",
     "mode":"CW",
-    "callsign":"BJ1SO",
-    "status":"inactive",
+    "callsign":"BJ1SV",
+    "status":"active",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {

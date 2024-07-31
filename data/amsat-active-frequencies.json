@@ -612,31 +612,11 @@
   {
     "name":"CAS-6",
     "norad_id":"44881",
-    "uplink":"435.270-435.290",
-    "downlink":"145.935-145.915",
-    "beacon":null,
-    "mode":"SSB",
-    "callsign":null,
-    "satnogs_id":"VMQF-4924-7475-1891-3199"
-  },
-  {
-    "name":"CAS-6",
-    "norad_id":"44881",
-    "uplink":null,
-    "downlink":"145.890",
-    "beacon":null,
-    "mode":"4800bps GMSK",
-    "callsign":"BJ1SO",
-    "satnogs_id":"VMQF-4924-7475-1891-3199"
-  },
-  {
-    "name":"CAS-6",
-    "norad_id":"44881",
     "uplink":null,
     "downlink":"145.910",
     "beacon":"145.910",
     "mode":"CW",
-    "callsign":"BJ1SO",
+    "callsign":"BJ1SV",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
@@ -3352,11 +3332,11 @@
   {
     "name":"TIANQIN-1",
     "norad_id":"44881",
-    "uplink":"435.270-435.290",
-    "downlink":"145.935-145.915",
-    "beacon":null,
-    "mode":"SSB*",
-    "callsign":null,
+    "uplink":null,
+    "downlink":"145.910",
+    "beacon":"145.910",
+    "mode":"CW",
+    "callsign":"BJ1SV",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
@@ -3392,11 +3372,11 @@
   {
     "name":"TO-108",
     "norad_id":"44881",
-    "uplink":"435.270-435.290",
-    "downlink":"145.935-145.915",
-    "beacon":null,
-    "mode":"SSB*",
-    "callsign":null,
+    "uplink":null,
+    "downlink":"145.910",
+    "beacon":"145.910",
+    "mode":"CW",
+    "callsign":"BJ1SV",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
