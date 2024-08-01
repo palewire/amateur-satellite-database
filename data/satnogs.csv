@@ -1580,7 +1580,7 @@ UQVX-4788-0848-8437-2503,38251.0,,BEIDOU 13,Beidou-M4,,alive,,2012-04-29T00:00:0
 CZNU-1808-4605-5450-0436,29249.0,,USA 184,,,alive,,2006-06-28T00:00:00Z,,,None,US,[],2023-09-14T22:25:04.151709Z,N2YO,False,[]
 EFLV-7448-6657-2465-6390,29522.0,,DMSP 5D-3 F17,,,alive,,2006-11-04T00:00:00Z,,,None,US,[],2023-09-14T22:22:58.721512Z,Celestrak,False,[]
 KABW-7557-2572-1703-6504,55041.0,,Skykraft 1 Deployer,2023-001AJ,,alive,,2023-03-01T00:00:00Z,,,None,AU,[],2023-11-19T09:17:33.413081Z,"Krebs, Gunter D. &ldquo;Skykraft Deployer 1&rdquo;. Gunter's Space Page. Retrieved November 19, 2023, from https://space.skyrocket.de/doc_sdat/skykraft-deployer-1.htm",False,[]
-MBWV-8802-2119-0679-0468,99047.0,56747.0,KSAT3U,,satellites/KSAT3U_2.jpg,alive,,2023-05-25T09:24:00Z,,,None,KR,[],2024-03-09T10:13:39.724425Z,satellite team,False,[]
+MBWV-8802-2119-0679-0468,99047.0,56747.0,KSAT3U,,satellites/KSAT3U_2.jpg,alive,,2023-05-25T09:24:00Z,,https://www.kairo.space,None,KR,[],2024-07-31T14:22:56.378884Z,Satellite team,False,[]
 NEOU-7691-1418-9175-1889,40118.0,,GAOFEN 2,2014-049A,,alive,,2014-08-19T00:00:00Z,2014-08-19T00:00:00Z,,None,CN,[],2023-09-18T15:56:50.344094Z,https://docs.google.com/document/d/1vU4xJLX51-2SDXCgiDWPxXTNWz06LIHZGe3l_gL1dD0/edit?usp=sharing,False,[]
 OHWY-4305-7997-0058-2030,49328.0,,Lucy,,,re-entered,,2021-10-16T00:00:00Z,,,None,US,[],2024-02-02T11:25:15.077289Z,"Given the last TLE Set mean motion, the satellite should have been decayed",False,[]
 JBFL-1111-5430-5721-4420,52145.0,,Meridian-M 10,Meridian 20L,,alive,,2022-03-22T00:00:00Z,,,None,,[],2023-09-19T10:44:33.305638Z,Celestrak,False,[]

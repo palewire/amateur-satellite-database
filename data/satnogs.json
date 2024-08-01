@@ -37701,14 +37701,14 @@
     "decayed":null,
     "launched":"2023-05-25T09:24:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.kairo.space",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2024-03-09T10:13:39.724425Z",
-    "citation":"satellite team",
+    "updated":"2024-07-31T14:22:56.378884Z",
+    "citation":"Satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
