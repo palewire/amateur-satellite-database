@@ -508,20 +508,20 @@
     "norad_cat_id":22825.0,
     "norad_follow_id":null,
     "name":"EYESAT-1",
-    "names":"AO-27",
+    "names":"AO-27, EYESAT A",
     "image":"satellites\/AO-27-PreFlight.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"1993-09-26T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.ao27.net\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:52:17.483673Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-08-02T07:45:56.481283Z",
+    "citation":"https:\/\/de.wikipedia.org\/wiki\/OSCAR_27",
     "is_frequency_violator":false,
     "associated_satellites":[
 
