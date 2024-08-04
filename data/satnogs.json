@@ -18992,10 +18992,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -45870,16 +45870,16 @@
     "image":"satellites\/Kineis_7.jpeg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-06-20T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"FR",
     "telemetries":[
 
     ],
-    "updated":"2024-07-25T11:25:21.082360Z",
-    "citation":"from newspace.im",
+    "updated":"2024-08-03T21:04:22.870702Z",
+    "citation":"N2YO",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45904,6 +45904,54 @@
     ],
     "updated":"2024-07-29T07:53:12.937824Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1Rwsa7lpFRihFb8nnPYK3gCrXXmkbXLPU8WVNEgK3qm4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HPAR-8709-5177-4142-4273",
+    "norad_cat_id":60084.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-1A",
+    "names":"2024-114F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-06-20T00:00:00Z",
+    "deployed":"2024-06-20T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-03T21:04:31.670181Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1nwl3u0wpdxHI1mVx0ozg-w_w-8NkF9PzJ6erEtVvyAM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HYMX-9648-4190-6463-2686",
+    "norad_cat_id":60081.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-1C",
+    "names":"2024-114C",
+    "image":"satellites\/Kineis_7_GWEekrH.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-06-20T00:00:00Z",
+    "deployed":"2024-06-20T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-03T21:04:16.654191Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1_yxrcYnEfIVxeftCucUEaLDwrpKunhonWrGn_rrD0E0\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
