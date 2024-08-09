@@ -5467,6 +5467,17 @@
     "satnogs_id":null
   },
   {
+    "name":"EMMA",
+    "norad_id":null,
+    "uplink":"145 825",
+    "downlink":"145 825\/437.120",
+    "beacon":"437.120",
+    "mode":"4k8GMSK APRS CW",
+    "callsign":"JS1YOI",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"EnduroSat One",
     "norad_id":"43551",
     "uplink":null,
@@ -13901,6 +13912,17 @@
     "mode":"9600bps FSK",
     "callsign":"DP1AIS",
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"SaganSat",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.825\/437.500",
+    "beacon":"437.500",
+    "mode":"4k8GMSK APRS CW",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
