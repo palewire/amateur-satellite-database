@@ -46100,5 +46100,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"HVGM-3160-0105-1940-1484",
+    "norad_cat_id":48268.0,
+    "norad_follow_id":null,
+    "name":"PNEO3",
+    "names":"2021-034A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-04-29T00:00:00Z",
+    "deployed":"2021-04-29T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-09T18:43:51.894007Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Tuk8yZg8DX2Ave1352Wcoc2ghcxy-88Wr1rSDMjbJhA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
