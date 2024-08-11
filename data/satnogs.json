@@ -45622,6 +45622,30 @@
     ]
   },
   {
+    "sat_id":"DKCD-1609-0567-7056-3922",
+    "norad_cat_id":98867.0,
+    "norad_follow_id":null,
+    "name":"Oresat0.5",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-07-18T00:00:00Z",
+    "deployed":"2024-07-18T00:00:00Z",
+    "website":"https:\/\/www.oresat.org",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-10T23:26:01.319215Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"LRPR-7984-5193-0374-6707",
     "norad_cat_id":98880.0,
     "norad_follow_id":60235.0,
@@ -45760,6 +45784,102 @@
     ],
     "updated":"2024-07-15T08:16:55.620135Z",
     "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/76",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DHAI-1690-5774-0137-6112",
+    "norad_cat_id":98868.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-1",
+    "names":"",
+    "image":"satellites\/IoT_01.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-18T00:00:00Z",
+    "deployed":"2024-07-18T00:00:00Z",
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-10T23:25:33.077288Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XALK-4525-5943-5013-3699",
+    "norad_cat_id":98869.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-2",
+    "names":"",
+    "image":"satellites\/IoT_01_h9Zesrh.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-18T00:00:00Z",
+    "deployed":"2024-07-18T00:00:00Z",
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-10T23:25:25.028151Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BEFZ-9879-2316-3685-3950",
+    "norad_cat_id":98870.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-3",
+    "names":"",
+    "image":"satellites\/IoT_01_irzzc9K.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-18T00:00:00Z",
+    "deployed":"2024-07-18T00:00:00Z",
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-10T23:25:09.630878Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "DRGM-7646-1674-2672-5112"
+    ]
+  },
+  {
+    "sat_id":"QMTG-4209-6674-7825-1293",
+    "norad_cat_id":98871.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-4",
+    "names":"",
+    "image":"satellites\/IoT_01_U5cm2Ms.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-07-18T00:00:00Z",
+    "deployed":"2024-07-18T00:00:00Z",
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-10T23:25:01.671094Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
