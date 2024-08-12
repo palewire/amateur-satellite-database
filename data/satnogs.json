@@ -46268,5 +46268,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"WZIT-9333-7102-4860-3049",
+    "norad_cat_id":98866.0,
+    "norad_follow_id":null,
+    "name":"SR-0 DemoSAT",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-15T03:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-12T09:17:08.584051Z",
+    "citation":"Change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UQJM-1378-8444-9077-9673",
+    "norad_cat_id":98865.0,
+    "norad_follow_id":null,
+    "name":"IITMSAT",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-15T03:47:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-12T09:16:39.621382Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-sslv-d3-2024-08-15-03-47-utc\/11876 and https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=482",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
