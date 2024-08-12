@@ -19368,8 +19368,8 @@
         "decoder":"oresat0"
       }
     ],
-    "updated":"2022-05-27T06:42:54.115666Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/222",
+    "updated":"2024-08-11T23:25:02.968909Z",
+    "citation":"https:\/\/www.oresat.org\/satellites\/oresat0",
     "is_frequency_violator":false,
     "associated_satellites":[
       "VXFG-9330-0467-3557-7094"
@@ -45625,21 +45625,21 @@
     "sat_id":"DKCD-1609-0567-7056-3922",
     "norad_cat_id":98867.0,
     "norad_follow_id":null,
-    "name":"Oresat0.5",
+    "name":"ORESAT0.5",
     "names":"",
-    "image":"",
+    "image":"satellites\/oresat0_5.png",
     "status":"alive",
     "decayed":null,
     "launched":"2024-07-18T00:00:00Z",
     "deployed":"2024-07-18T00:00:00Z",
-    "website":"https:\/\/www.oresat.org",
+    "website":"https:\/\/www.oresat.org\/satellites\/oresat0-5",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-08-10T23:26:01.319215Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-08-11T23:24:56.473467Z",
+    "citation":"https:\/\/www.oresat.org\/satellites\/oresat0-5",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46240,6 +46240,30 @@
     ],
     "updated":"2024-08-09T18:43:51.894007Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1Tuk8yZg8DX2Ave1352Wcoc2ghcxy-88Wr1rSDMjbJhA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QGER-1658-8242-4384-5921",
+    "norad_cat_id":55049.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X21",
+    "names":"2023-001AS",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-03T00:00:00Z",
+    "deployed":"2023-01-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-11T23:24:13.926613Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1kvmV1QtCZxBhVdcp3Ka2mphtdkAfNk0YcMlx6wV56IY\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
