@@ -5494,7 +5494,7 @@
     "uplink":null,
     "downlink":"436.250",
     "beacon":null,
-    "mode":"2400bps GMSK",
+    "mode":"2k4\/9k6*FSK",
     "callsign":"FX6FRC",
     "status":"active",
     "satnogs_id":"OBZD-9153-9709-2837-1280"
@@ -13304,7 +13304,7 @@
     "uplink":null,
     "downlink":"436.250",
     "beacon":null,
-    "mode":"2400bps GMSK",
+    "mode":"2k4\/9k6*FSK",
     "callsign":"FX6FRC",
     "status":"active",
     "satnogs_id":"FNGO-2772-5931-1779-2835"

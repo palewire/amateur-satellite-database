@@ -3143,7 +3143,7 @@
     "names":"",
     "image":"satellites\/SPROUT.png",
     "status":"alive",
-    "decayed":null,
+    "decayed":"2024-08-11T00:00:00Z",
     "launched":"2014-05-24T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat.org\/beaconclosed-satellites\/sprout\/",
@@ -3152,8 +3152,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:54:01.712055Z",
-    "citation":"https:\/\/www.amsat.org\/beaconclosed-satellites\/sprout\/",
+    "updated":"2024-08-13T00:15:51.036936Z",
+    "citation":"Temporarily change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46312,6 +46312,54 @@
     ],
     "updated":"2024-08-12T09:16:39.621382Z",
     "citation":"https:\/\/community.libre.space\/t\/isro-sslv-d3-2024-08-15-03-47-utc\/11876 and https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=482",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NORO-1599-8297-6961-5303",
+    "norad_cat_id":28117.0,
+    "norad_follow_id":null,
+    "name":"UFO 11",
+    "names":"USA 174",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2003-12-18T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-12T23:54:09.345614Z",
+    "citation":"https:\/\/uhf-satcom.com\/satellite-reception\/uhf",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ROGL-5396-9562-5275-1160",
+    "norad_cat_id":98864.0,
+    "norad_follow_id":null,
+    "name":"AEPEX",
+    "names":"",
+    "image":"satellites\/AEPEX.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/lasp.colorado.edu\/missions\/aepex\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-12T23:44:30.225498Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/314",
     "is_frequency_violator":false,
     "associated_satellites":[
 
