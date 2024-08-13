@@ -1933,7 +1933,7 @@
     "mode":"4800bps GMSK",
     "callsign":"DB0BEK",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"QTXZ-9081-6898-5517-8758"
   },
   {
     "name":"BEESAT-8",
@@ -11008,7 +11008,7 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"non-amateur",
-    "satnogs_id":null
+    "satnogs_id":"XYLD-3027-5136-7090-8791"
   },
   {
     "name":"NOVA-C",

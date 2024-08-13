@@ -3142,7 +3142,7 @@
     "name":"SPROUT",
     "names":"",
     "image":"satellites\/SPROUT.png",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":"2024-08-11T00:00:00Z",
     "launched":"2014-05-24T00:00:00Z",
     "deployed":null,
@@ -3152,8 +3152,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-13T00:15:51.036936Z",
-    "citation":"Temporarily change status",
+    "updated":"2024-08-13T07:54:58.126588Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -10764,8 +10764,8 @@
     "name":"TTU100",
     "names":"TT\u00dcSat, MektorySAT 1, H\u00e4marik, Koit, ES1WS",
     "image":"satellites\/ttu100__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-12T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/satellite.ttu.ee\/#\/contact-with-satellites",
@@ -10774,8 +10774,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T07:29:17.215738Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-08-13T13:00:16.287073Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13035,13 +13035,13 @@
   },
   {
     "sat_id":"QTXZ-9081-6898-5517-8758",
-    "norad_cat_id":99728.0,
-    "norad_follow_id":48084.0,
+    "norad_cat_id":48084.0,
+    "norad_follow_id":null,
     "name":"BEESAT-7",
     "names":"DP0BEK",
     "image":"satellites\/BEESAT-5_scaled_ryyeGjZ.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-06T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/www.raumfahrttechnik.tu-berlin.de\/menue\/research\/current_projects\/beesat_5_6_7_8\/parameter\/en\/",
@@ -13050,8 +13050,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.988319Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-08-13T12:53:40.450264Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30407,7 +30407,7 @@
     "name":"Kashiwa",
     "names":"JS1YMX, \u67cf",
     "image":"satellites\/KASHIWA.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2024-03-23T10:21:00Z",
     "deployed":"2024-04-11T10:41:00Z",
@@ -30419,8 +30419,8 @@
         "decoder":"kashiwa"
       }
     ],
-    "updated":"2024-06-18T16:01:28.519318Z",
-    "citation":"dl7ndr",
+    "updated":"2024-08-13T12:59:19.820310Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=59508",
     "is_frequency_violator":false,
     "associated_satellites":[
       "DUZR-7986-3856-4697-1895"
@@ -31132,8 +31132,8 @@
     "name":"Pleiades Yearling",
     "names":"Pleiades Yearling 2.0",
     "image":"satellites\/YearlingV2-34.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-12T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":"2023-04-15T07:52:12Z",
     "website":"https:\/\/www.broncospace.com\/proves",
@@ -31142,8 +31142,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T23:20:31.709296Z",
-    "citation":"Updated NORAD ID to follow Space-track",
+    "updated":"2024-08-13T12:55:50.589923Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31300,8 +31300,8 @@
     "name":"VIREO",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-06T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":null,
     "website":"",
@@ -31310,8 +31310,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-15T08:19:37.077317Z",
-    "citation":"https:\/\/www.space-track.org",
+    "updated":"2024-08-13T12:56:39.718430Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -37908,8 +37908,8 @@
   },
   {
     "sat_id":"XYLD-3027-5136-7090-8791",
-    "norad_cat_id":99046.0,
-    "norad_follow_id":57962.0,
+    "norad_cat_id":57962.0,
+    "norad_follow_id":null,
     "name":"NOUR 03",
     "names":"Najm, NOOR 03, NOOR-03, NOUR-03",
     "image":"",
@@ -37923,8 +37923,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-06T17:46:13.245140Z",
-    "citation":"forgot",
+    "updated":"2024-08-13T12:57:51.368402Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
