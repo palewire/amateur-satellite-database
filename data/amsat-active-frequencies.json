@@ -3410,16 +3410,6 @@
     "satnogs_id":"NRKA-7886-5351-9767-4652"
   },
   {
-    "name":"TTU100",
-    "norad_id":"46312",
-    "uplink":null,
-    "downlink":"435.450*\/10465.000",
-    "beacon":"ES1WS",
-    "mode":"9k6* FSK\/GMSK\/MSK\/OQPSK",
-    "callsign":null,
-    "satnogs_id":"LNEM-1719-4116-0676-2477"
-  },
-  {
     "name":"TY-4",
     "norad_id":"43669",
     "uplink":"435.925\/2409.000\/5659.000",

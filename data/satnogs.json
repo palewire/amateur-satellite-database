@@ -45515,7 +45515,9 @@
     "operator":"None",
     "countries":"SK",
     "telemetries":[
-
+      {
+        "decoder":"grbbeta"
+      }
     ],
     "updated":"2024-07-17T23:04:15.851614Z",
     "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/91",
@@ -45628,18 +45630,18 @@
     "name":"ORESAT0.5",
     "names":"",
     "image":"satellites\/oresat0_5.png",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
-    "launched":"2024-07-18T00:00:00Z",
-    "deployed":"2024-07-18T00:00:00Z",
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
     "website":"https:\/\/www.oresat.org\/satellites\/oresat0-5",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-08-11T23:24:56.473467Z",
-    "citation":"https:\/\/www.oresat.org\/satellites\/oresat0-5",
+    "updated":"2024-08-14T00:36:21.140377Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45798,16 +45800,16 @@
     "image":"satellites\/IoT_01.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-07-18T00:00:00Z",
-    "deployed":"2024-07-18T00:00:00Z",
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2024-08-10T23:25:33.077288Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-08-14T00:37:29.700443Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45822,16 +45824,16 @@
     "image":"satellites\/IoT_01_h9Zesrh.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-07-18T00:00:00Z",
-    "deployed":"2024-07-18T00:00:00Z",
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2024-08-10T23:25:25.028151Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-08-14T00:37:30.524399Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45846,16 +45848,16 @@
     "image":"satellites\/IoT_01_irzzc9K.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-07-18T00:00:00Z",
-    "deployed":"2024-07-18T00:00:00Z",
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2024-08-10T23:25:09.630878Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-08-14T00:37:31.189174Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
       "DRGM-7646-1674-2672-5112"
@@ -45870,16 +45872,16 @@
     "image":"satellites\/IoT_01_U5cm2Ms.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-07-18T00:00:00Z",
-    "deployed":"2024-07-18T00:00:00Z",
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2024-08-10T23:25:01.671094Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-08-14T00:37:31.906711Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46360,6 +46362,246 @@
     ],
     "updated":"2024-08-12T23:44:30.225498Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/314",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LINA-3602-5194-6010-7129",
+    "norad_cat_id":98863.0,
+    "norad_follow_id":null,
+    "name":"Acadia-5",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T00:37:39.840267Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EQWG-7595-5332-4304-7229",
+    "norad_cat_id":98862.0,
+    "norad_follow_id":null,
+    "name":"AWS PFM",
+    "names":"Arctic Weather Satellite",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T00:57:14.575620Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"THKJ-6406-0443-1301-5707",
+    "norad_cat_id":98861.0,
+    "norad_follow_id":null,
+    "name":"CAKRA-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T01:07:53.141882Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BRVJ-5081-2405-0905-4894",
+    "norad_cat_id":98860.0,
+    "norad_follow_id":null,
+    "name":"TORO",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T07:09:46.353411Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/formal_detail.php?serialnum=983",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BGSA-1802-1526-4835-1410",
+    "norad_cat_id":98859.0,
+    "norad_follow_id":null,
+    "name":"NIGHTJAR",
+    "names":"RIoT",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T08:23:28.012472Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+      "GMYW-1529-9493-2135-2998"
+    ]
+  },
+  {
+    "sat_id":"QKJA-9333-9603-3019-1322",
+    "norad_cat_id":98858.0,
+    "norad_follow_id":null,
+    "name":"CUAVA-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T09:13:54.134325Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IYTF-0254-0953-7251-9719",
+    "norad_cat_id":98857.0,
+    "norad_follow_id":null,
+    "name":"Deimos",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T09:35:57.419449Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VUVA-8047-1682-5226-1102",
+    "norad_cat_id":98856.0,
+    "norad_follow_id":null,
+    "name":"EagleEye",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T09:56:01.559100Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OZFM-4525-5507-9609-6820",
+    "norad_cat_id":98854.0,
+    "norad_follow_id":null,
+    "name":"ERNST",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T10:59:03.570920Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JZKF-3943-1313-5044-2973",
+    "norad_cat_id":98853.0,
+    "norad_follow_id":null,
+    "name":"GaindeSat-1A",
+    "names":"Gaind\u00e9Sat-1A",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T11:12:40.765764Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
