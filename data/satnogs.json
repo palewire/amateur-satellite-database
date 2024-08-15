@@ -46422,7 +46422,7 @@
     "name":"CAKRA-1",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2024-08-16T18:19:00Z",
     "deployed":null,
@@ -46432,8 +46432,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T01:07:53.141882Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-15T09:43:07.846301Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46498,14 +46498,14 @@
     "decayed":null,
     "launched":"2024-08-16T18:19:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.cuava.com.au\/",
     "operator":"None",
-    "countries":"",
+    "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T09:13:54.134325Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-15T00:55:42.987503Z",
+    "citation":"cuava.com.au",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46683,21 +46683,21 @@
     "sat_id":"FQIY-5061-3565-2438-4414",
     "norad_cat_id":98849.0,
     "norad_follow_id":null,
-    "name":"WS-1",
-    "names":"Waratah Seed-1",
+    "name":"Waratah Seed-1",
+    "names":"WS-1",
     "image":"",
     "status":"future",
     "decayed":null,
     "launched":"2024-08-16T18:19:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.waratahseed.space\/",
     "operator":"None",
-    "countries":"",
+    "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T18:55:43.555507Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-15T00:55:48.562935Z",
+    "citation":"https:\/\/www.waratahseed.space\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46793,6 +46793,462 @@
 
     ],
     "updated":"2024-08-15T00:06:20.104741Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EBRB-9167-1241-1151-0289",
+    "norad_cat_id":98845.0,
+    "norad_follow_id":null,
+    "name":"Iperdrone.0",
+    "names":"TYVAK-0415",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"https:\/\/tyvak.eu\/missions\/iperdrone\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T00:32:49.194623Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UOLM-4510-8859-5501-3189",
+    "norad_cat_id":98844.0,
+    "norad_follow_id":null,
+    "name":"PTD-4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T00:50:03.160697Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FPXO-5324-9844-5215-6363",
+    "norad_cat_id":98843.0,
+    "norad_follow_id":null,
+    "name":"PTD-R",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T00:49:59.021991Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ONZF-1039-7634-2142-2396",
+    "norad_cat_id":98842.0,
+    "norad_follow_id":null,
+    "name":"DIONE",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T01:54:29.487015Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JOGW-1515-2403-9943-2566",
+    "norad_cat_id":98841.0,
+    "norad_follow_id":null,
+    "name":"GNOMES-5",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T02:12:11.535024Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EEZS-2420-0670-7912-2860",
+    "norad_cat_id":98840.0,
+    "norad_follow_id":null,
+    "name":"LUR-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T02:18:41.045249Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XOCE-2797-1055-8900-9065",
+    "norad_cat_id":98839.0,
+    "norad_follow_id":null,
+    "name":"QPS-SAR-8",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T02:23:14.930298Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ELSZ-1253-5721-3665-3398",
+    "norad_cat_id":98838.0,
+    "norad_follow_id":null,
+    "name":"WREN-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T02:28:48.818403Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DSUV-1493-4798-4172-4256",
+    "norad_cat_id":98837.0,
+    "norad_follow_id":null,
+    "name":"Tanager-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T02:35:22.458678Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QGMX-5159-0094-5267-2950",
+    "norad_cat_id":98836.0,
+    "norad_follow_id":null,
+    "name":"Tomorrow-S1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T08:49:04.690015Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FPHC-2825-3499-3478-4685",
+    "norad_cat_id":98835.0,
+    "norad_follow_id":null,
+    "name":"Tomorrow-S2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T08:49:07.563701Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EJBR-6958-2835-6583-8288",
+    "norad_cat_id":98834.0,
+    "norad_follow_id":null,
+    "name":"Tyche",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T08:59:51.304590Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UEGZ-5587-9074-5300-5132",
+    "norad_cat_id":98833.0,
+    "norad_follow_id":null,
+    "name":"Umbra 10",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T09:06:49.477013Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UODM-3573-8437-1324-7946",
+    "norad_cat_id":98832.0,
+    "norad_follow_id":null,
+    "name":"Umbra 09",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T09:06:47.120598Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"STNT-9080-9992-7344-8655",
+    "norad_cat_id":98831.0,
+    "norad_follow_id":null,
+    "name":"YAM-7",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T09:23:28.134841Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PUFM-6212-8243-7442-9645",
+    "norad_cat_id":98830.0,
+    "norad_follow_id":null,
+    "name":"BRO-15",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T11:35:24.682968Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZTUR-8052-1950-5911-7314",
+    "norad_cat_id":98829.0,
+    "norad_follow_id":null,
+    "name":"BRO-14",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T11:35:27.527724Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OWLL-9020-3194-2225-8356",
+    "norad_cat_id":98828.0,
+    "norad_follow_id":null,
+    "name":"GNA-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T11:45:58.798499Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IYBG-5656-4053-4485-9560",
+    "norad_cat_id":98827.0,
+    "norad_follow_id":null,
+    "name":"SATORO-T2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T11:53:17.661900Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
