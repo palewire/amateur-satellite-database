@@ -38975,7 +38975,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-08-16T18:19:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -38983,8 +38983,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T00:07:29.695128Z",
-    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
+    "updated":"2024-08-14T18:37:50.509879Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38999,7 +38999,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-08-16T18:19:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39007,8 +39007,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T00:07:29.700406Z",
-    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
+    "updated":"2024-08-14T18:39:27.045466Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39023,7 +39023,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-08-16T18:19:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39031,8 +39031,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T00:07:29.705680Z",
-    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
+    "updated":"2024-08-14T18:39:23.284640Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39047,7 +39047,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-08-16T18:19:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -39055,8 +39055,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T00:07:29.711218Z",
-    "citation":"SpaceX schedule in https:\/\/community.libre.space\/t\/spacex-f9-transporter-9-vandenberg-2023-11-11-18-47-utc\/10942",
+    "updated":"2024-08-14T18:39:42.974732Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45101,7 +45101,7 @@
     "image":"satellites\/Kanyini.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-08-16T18:19:00Z",
     "deployed":null,
     "website":"https:\/\/www.saspacemission.com.au\/",
     "operator":"None",
@@ -45109,8 +45109,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-06-19T15:28:21.335505Z",
-    "citation":"https:\/\/www.saspacemission.com.au\/",
+    "updated":"2024-08-14T23:35:59.637974Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46601,6 +46601,198 @@
 
     ],
     "updated":"2024-08-14T11:12:40.765764Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZHLJ-9390-0694-1835-7595",
+    "norad_cat_id":98852.0,
+    "norad_follow_id":null,
+    "name":"HYPSO-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"NO",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T14:59:50.738037Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KGKE-9945-4603-3909-1979",
+    "norad_cat_id":98851.0,
+    "norad_follow_id":null,
+    "name":"Lemu Nge",
+    "names":"Forest Eye",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T17:22:59.174495Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RUWA-6033-4706-4091-9713",
+    "norad_cat_id":98850.0,
+    "norad_follow_id":null,
+    "name":"USASAT HUBBLE 3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T17:35:48.858683Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FQIY-5061-3565-2438-4414",
+    "norad_cat_id":98849.0,
+    "norad_follow_id":null,
+    "name":"WS-1",
+    "names":"Waratah Seed-1",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T18:55:43.555507Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QTLL-1366-2909-3059-3767",
+    "norad_cat_id":58270.0,
+    "norad_follow_id":null,
+    "name":"FLOCK 4Q 1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.planet.com\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T23:22:32.593982Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/flock-1.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EPST-0734-0336-9597-5506",
+    "norad_cat_id":98848.0,
+    "norad_follow_id":null,
+    "name":"Hyperfield-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"https:\/\/hyperfield.kuvaspace.com\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T23:33:16.649177Z",
+    "citation":"https:\/\/hyperfield.kuvaspace.com\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZYDE-4447-8719-9309-2022",
+    "norad_cat_id":98847.0,
+    "norad_follow_id":null,
+    "name":"QUBE",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-14T23:44:55.465013Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LWDE-7403-4643-6587-2546",
+    "norad_cat_id":98846.0,
+    "norad_follow_id":null,
+    "name":"ION SCV-012",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T00:06:20.104741Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
