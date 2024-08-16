@@ -46372,7 +46372,7 @@
     "norad_cat_id":98863.0,
     "norad_follow_id":null,
     "name":"Acadia-5",
-    "names":"",
+    "names":"CAPELLA-15",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -46384,8 +46384,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T00:37:39.840267Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-15T15:13:22.132009Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46659,7 +46659,7 @@
     "sat_id":"RUWA-6033-4706-4091-9713",
     "norad_cat_id":98850.0,
     "norad_follow_id":null,
-    "name":"USASAT HUBBLE 3",
+    "name":"LEMUR-2-MARHISYAM",
     "names":"",
     "image":"",
     "status":"future",
@@ -46672,7 +46672,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T17:35:48.858683Z",
+    "updated":"2024-08-15T15:16:49.996030Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -47249,6 +47249,270 @@
 
     ],
     "updated":"2024-08-15T11:53:17.661900Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PTLM-1794-1775-5818-6468",
+    "norad_cat_id":98826.0,
+    "norad_follow_id":null,
+    "name":"PICO-1B-9",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T13:39:12.801923Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NWLA-6495-8389-6748-8925",
+    "norad_cat_id":98825.0,
+    "norad_follow_id":null,
+    "name":"PICO-1B-8",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T13:40:06.030254Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YSVW-4504-7208-8200-1760",
+    "norad_cat_id":98824.0,
+    "norad_follow_id":null,
+    "name":"PICO-1B-7",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T13:39:12.769425Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OOTB-7089-5874-1520-9072",
+    "norad_cat_id":98823.0,
+    "norad_follow_id":null,
+    "name":"PICO-1B-6",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T13:39:12.763000Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BSME-7816-8314-1291-7273",
+    "norad_cat_id":98821.0,
+    "norad_follow_id":null,
+    "name":"PICO-1B-4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T13:39:12.756192Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"USCU-5840-3624-3763-4725",
+    "norad_cat_id":98820.0,
+    "norad_follow_id":null,
+    "name":"PICO-1B-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T13:39:12.748237Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DIZY-6505-9635-3974-5561",
+    "norad_cat_id":98819.0,
+    "norad_follow_id":null,
+    "name":"PICO-1B-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T13:39:12.737887Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EXCD-3754-5634-2238-2055",
+    "norad_cat_id":98818.0,
+    "norad_follow_id":null,
+    "name":"PICO-1B-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T13:39:12.726498Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HILQ-4807-5733-1547-1697",
+    "norad_cat_id":98822.0,
+    "norad_follow_id":null,
+    "name":"PICO-1B-5",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T13:39:12.716595Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FJKJ-4021-1559-4514-2797",
+    "norad_cat_id":98817.0,
+    "norad_follow_id":null,
+    "name":"LEMUR-2-STELLA",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T15:16:55.869174Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GHCA-9755-8024-7326-7161",
+    "norad_cat_id":98816.0,
+    "norad_follow_id":null,
+    "name":"LEMUR-2-TOMATOKECHUP",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-16T18:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-15T15:16:52.775836Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
