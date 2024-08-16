@@ -12191,8 +12191,8 @@
     "name":"STECCO",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-16T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/sites.google.com\/uniroma1.it\/stecco-sia\/",
@@ -12201,8 +12201,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.922758Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-08-16T00:19:30.296897Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46278,17 +46278,17 @@
     "name":"SR-0 DemoSAT",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-15T03:47:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T03:47:00Z",
+    "deployed":"2024-08-16T04:03:09Z",
     "website":"",
     "operator":"None",
     "countries":"IN",
     "telemetries":[
 
     ],
-    "updated":"2024-08-12T09:17:08.584051Z",
+    "updated":"2024-08-16T03:24:43.933743Z",
     "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
