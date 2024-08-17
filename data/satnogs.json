@@ -46276,7 +46276,7 @@
   {
     "sat_id":"WZIT-9333-7102-4860-3049",
     "norad_cat_id":98866.0,
-    "norad_follow_id":60455.0,
+    "norad_follow_id":null,
     "name":"SR-0 DemoSAT",
     "names":"",
     "image":"",
@@ -46290,8 +46290,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T14:06:42.763636Z",
-    "citation":"https:\/\/community.libre.space\/t\/isro-sslv-d3-2024-08-16-03-47-utc\/11876",
+    "updated":"2024-08-17T11:38:32.992927Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-sslv-d3-2024-08-16-03-47-utc\/11876\/39",
     "is_frequency_violator":false,
     "associated_satellites":[
 
