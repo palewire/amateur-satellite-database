@@ -38973,18 +38973,18 @@
     "name":"Sateliot 1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:28:38Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T18:37:50.509879Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:07.183531Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38997,18 +38997,18 @@
     "name":"Sateliot 2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:26:51Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T18:39:27.045466Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.876839Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39021,18 +39021,18 @@
     "name":"Sateliot 3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:29:02Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T18:39:23.284640Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.648864Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39045,18 +39045,18 @@
     "name":"Sateliot 4",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:27:25Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T18:39:42.974732Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.210867Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45099,18 +45099,18 @@
     "name":"Kanyini",
     "names":"SASAT1",
     "image":"satellites\/Kanyini.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:52:55Z",
     "website":"https:\/\/www.saspacemission.com.au\/",
     "operator":"None",
     "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T23:35:59.637974Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.409355Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45519,8 +45519,8 @@
         "decoder":"grbbeta"
       }
     ],
-    "updated":"2024-07-17T23:04:15.851614Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/91",
+    "updated":"2024-08-16T13:23:51.273895Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
       "SASP-0698-3336-1200-3136",
@@ -45630,18 +45630,20 @@
     "name":"ORESAT0.5",
     "names":"",
     "image":"satellites\/oresat0_5.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:53:18Z",
     "website":"https:\/\/www.oresat.org\/satellites\/oresat0-5",
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"oresat05"
+      }
     ],
-    "updated":"2024-08-14T00:36:21.140377Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.587304Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45798,18 +45800,18 @@
     "name":"ConnectaIoT-1",
     "names":"",
     "image":"satellites\/IoT_01.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:51:54Z",
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T00:37:29.700443Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.625616Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45822,18 +45824,18 @@
     "name":"ConnectaIoT-2",
     "names":"",
     "image":"satellites\/IoT_01_h9Zesrh.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:57:09Z",
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T00:37:30.524399Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:07.205057Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45846,18 +45848,18 @@
     "name":"ConnectaIoT-3",
     "names":"",
     "image":"satellites\/IoT_01_irzzc9K.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:56:08Z",
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T00:37:31.189174Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.130898Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
       "DRGM-7646-1674-2672-5112"
@@ -45870,18 +45872,18 @@
     "name":"ConnectaIoT-4",
     "names":"",
     "image":"satellites\/IoT_01_U5cm2Ms.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:53:45Z",
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T00:37:31.906711Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.917976Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46274,7 +46276,7 @@
   {
     "sat_id":"WZIT-9333-7102-4860-3049",
     "norad_cat_id":98866.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60455.0,
     "name":"SR-0 DemoSAT",
     "names":"",
     "image":"",
@@ -46288,8 +46290,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T03:24:43.933743Z",
-    "citation":"Change status",
+    "updated":"2024-08-16T14:06:42.763636Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-sslv-d3-2024-08-16-03-47-utc\/11876",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46374,18 +46376,18 @@
     "name":"Acadia-5",
     "names":"CAPELLA-15",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:30:58Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T15:13:22.132009Z",
-    "citation":"celestrak.org",
+    "updated":"2024-08-16T19:57:06.151196Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46398,18 +46400,18 @@
     "name":"AWS PFM",
     "names":"Arctic Weather Satellite",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:29:49Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T00:57:14.575620Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.448276Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46422,18 +46424,18 @@
     "name":"CAKRA-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:55:41Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T09:43:07.846301Z",
-    "citation":"Change status",
+    "updated":"2024-08-16T19:57:06.830137Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46446,18 +46448,18 @@
     "name":"TORO",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:26:22Z",
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T07:09:46.353411Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/formal_detail.php?serialnum=983",
+    "updated":"2024-08-16T19:57:06.088243Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -46470,18 +46472,18 @@
     "name":"NIGHTJAR",
     "names":"RIoT",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:27:21Z",
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T08:23:28.012472Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-08-16T19:57:06.110773Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":true,
     "associated_satellites":[
       "GMYW-1529-9493-2135-2998"
@@ -46494,18 +46496,18 @@
     "name":"CUAVA-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:51:33Z",
     "website":"https:\/\/www.cuava.com.au\/",
     "operator":"None",
     "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T00:55:42.987503Z",
-    "citation":"cuava.com.au",
+    "updated":"2024-08-16T19:57:06.938023Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46518,18 +46520,18 @@
     "name":"Deimos",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:52:26Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T09:35:57.419449Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.260534Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46542,18 +46544,18 @@
     "name":"EagleEye",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T20:13:16Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T09:56:01.559100Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.699755Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46566,18 +46568,18 @@
     "name":"ERNST",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:52:09Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T10:59:03.570920Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.997609Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46590,18 +46592,18 @@
     "name":"GaindeSat-1A",
     "names":"Gaind\u00e9Sat-1A",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:49:56Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T11:12:40.765764Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.191462Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46614,18 +46616,18 @@
     "name":"HYPSO-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:27:32Z",
     "website":"",
     "operator":"None",
     "countries":"NO",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T14:59:50.738037Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:07.128893Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46638,18 +46640,18 @@
     "name":"Lemu Nge",
     "names":"Forest Eye",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:28:46Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T17:22:59.174495Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.171825Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46662,18 +46664,18 @@
     "name":"LEMUR-2-MARHISYAM",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:27:53Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T15:16:49.996030Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.897605Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46686,18 +46688,18 @@
     "name":"Waratah Seed-1",
     "names":"WS-1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:50:00Z",
     "website":"https:\/\/www.waratahseed.space\/",
     "operator":"None",
     "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T00:55:48.562935Z",
-    "citation":"https:\/\/www.waratahseed.space\/",
+    "updated":"2024-08-16T19:57:06.333412Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46734,18 +46736,18 @@
     "name":"Hyperfield-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:55:18Z",
     "website":"https:\/\/hyperfield.kuvaspace.com\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T23:33:16.649177Z",
-    "citation":"https:\/\/hyperfield.kuvaspace.com\/",
+    "updated":"2024-08-16T19:57:06.467904Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46758,18 +46760,18 @@
     "name":"QUBE",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:56:31Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-14T23:44:55.465013Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:07.086704Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -46782,18 +46784,18 @@
     "name":"ION SCV-012",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:30:50Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T00:06:20.104741Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:07.067966Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46806,18 +46808,18 @@
     "name":"Iperdrone.0",
     "names":"TYVAK-0415",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:54:43Z",
     "website":"https:\/\/tyvak.eu\/missions\/iperdrone\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T00:32:49.194623Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.545309Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46830,18 +46832,18 @@
     "name":"PTD-4",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:29:18Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T00:50:03.160697Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.754349Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46854,18 +46856,18 @@
     "name":"PTD-R",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:55:31Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T00:49:59.021991Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.352871Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46880,7 +46882,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
+    "launched":null,
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -46888,8 +46890,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T01:54:29.487015Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T18:16:09.846601Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46902,18 +46904,18 @@
     "name":"GNOMES-5",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:29:41Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T02:12:11.535024Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.239808Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46926,18 +46928,18 @@
     "name":"LUR-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T20:16:23Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T02:18:41.045249Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.525855Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46950,18 +46952,18 @@
     "name":"QPS-SAR-8",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:32:08Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T02:23:14.930298Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:07.163162Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46974,18 +46976,18 @@
     "name":"WREN-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T20:18:14Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T02:28:48.818403Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.486268Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46998,18 +47000,18 @@
     "name":"Tanager-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T20:15:25Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T02:35:22.458678Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.564522Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47022,18 +47024,18 @@
     "name":"Tomorrow-S1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:51:04Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T08:49:04.690015Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.959936Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47046,18 +47048,18 @@
     "name":"Tomorrow-S2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:58:19Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T08:49:07.563701Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.372139Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47070,18 +47072,18 @@
     "name":"Tyche",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T20:14:56Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T08:59:51.304590Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.505989Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47094,18 +47096,18 @@
     "name":"Umbra 10",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:30:22Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T09:06:49.477013Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.810043Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47118,18 +47120,18 @@
     "name":"Umbra 09",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:31:21Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T09:06:47.120598Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.783970Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47142,18 +47144,18 @@
     "name":"YAM-7",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T20:13:53Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T09:23:28.134841Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.853232Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47166,18 +47168,18 @@
     "name":"BRO-15",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:28:16Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T11:35:24.682968Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:42.001063Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47190,18 +47192,18 @@
     "name":"BRO-14",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:28:51Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T11:35:27.527724Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:07.104943Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47214,18 +47216,18 @@
     "name":"GNA-3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:54:58Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T11:45:58.798499Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:07.019237Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47238,18 +47240,18 @@
     "name":"SATORO-T2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:50:54Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T11:53:17.661900Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.281443Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47262,9 +47264,9 @@
     "name":"PICO-1B-9",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
+    "launched":"2024-08-16T18:56:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -47272,8 +47274,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T13:39:12.801923Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "updated":"2024-08-16T19:57:06.981571Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47286,9 +47288,9 @@
     "name":"PICO-1B-8",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
+    "launched":"2024-08-16T18:56:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -47296,8 +47298,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T13:40:06.030254Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "updated":"2024-08-16T19:57:07.054386Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47310,9 +47312,9 @@
     "name":"PICO-1B-7",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
+    "launched":"2024-08-16T18:56:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -47320,8 +47322,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T13:39:12.769425Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "updated":"2024-08-16T19:57:07.148530Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47334,9 +47336,9 @@
     "name":"PICO-1B-6",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
+    "launched":"2024-08-16T18:56:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -47344,8 +47346,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T13:39:12.763000Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "updated":"2024-08-16T19:57:07.039978Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47358,9 +47360,9 @@
     "name":"PICO-1B-4",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
+    "launched":"2024-08-16T18:56:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -47368,8 +47370,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T13:39:12.756192Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "updated":"2024-08-16T19:57:06.673642Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47382,9 +47384,9 @@
     "name":"PICO-1B-3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
+    "launched":"2024-08-16T18:56:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -47392,8 +47394,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T13:39:12.748237Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "updated":"2024-08-16T19:57:06.728272Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47406,9 +47408,9 @@
     "name":"PICO-1B-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
+    "launched":"2024-08-16T18:56:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -47416,8 +47418,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T13:39:12.737887Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "updated":"2024-08-16T19:57:06.608845Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47430,18 +47432,18 @@
     "name":"PICO-1B-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:28:29Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T13:39:12.726498Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "updated":"2024-08-16T19:57:06.428404Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47454,9 +47456,9 @@
     "name":"PICO-1B-5",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
+    "launched":"2024-08-16T18:56:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -47464,8 +47466,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T13:39:12.716595Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all and tiny.gs",
+    "updated":"2024-08-16T19:57:06.299801Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47478,18 +47480,18 @@
     "name":"LEMUR-2-STELLA",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:27:42Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T15:16:55.869174Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.390594Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47502,18 +47504,18 @@
     "name":"LEMUR-2-TOMATOKECHUP",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T18:19:00Z",
-    "deployed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T19:54:04Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-15T15:16:52.775836Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0;all",
+    "updated":"2024-08-16T19:57:06.314206Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
     "is_frequency_violator":false,
     "associated_satellites":[
 
