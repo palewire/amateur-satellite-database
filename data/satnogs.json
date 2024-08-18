@@ -37913,8 +37913,8 @@
     "name":"NOUR 03",
     "names":"Najm, NOOR 03, NOOR-03, NOUR-03",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-16T00:00:00Z",
     "launched":"2023-09-27T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -37923,7 +37923,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-13T12:57:51.368402Z",
+    "updated":"2024-08-18T00:32:23.943367Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -46572,14 +46572,14 @@
     "decayed":null,
     "launched":"2024-08-16T18:56:00Z",
     "deployed":"2024-08-16T19:52:09Z",
-    "website":"",
+    "website":"https:\/\/www.emi.fraunhofer.de\/de\/aktuelles\/aktuelles-presse\/freiburger-satellit-soll-raketenstarts-erkennen-.html",
     "operator":"None",
-    "countries":"",
+    "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.997609Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-08-18T09:22:14.052089Z",
+    "citation":"I am the operator",
     "is_frequency_violator":false,
     "associated_satellites":[
 
