@@ -46639,19 +46639,19 @@
     "norad_follow_id":null,
     "name":"Lemu Nge",
     "names":"Forest Eye",
-    "image":"",
+    "image":"satellites\/Lemu_Nge_TVAC_Testing_1.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":"2024-08-16T18:56:00Z",
     "deployed":"2024-08-16T21:28:46Z",
-    "website":"",
+    "website":"https:\/\/le.mu",
     "operator":"None",
-    "countries":"",
+    "countries":"CL",
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.171825Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-08-17T19:07:43.665893Z",
+    "citation":"N\/A",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46759,19 +46759,19 @@
     "norad_follow_id":null,
     "name":"QUBE",
     "names":"",
-    "image":"",
+    "image":"satellites\/Zentrum_f\u00fcr_Telematik_W\u00fcrzburg_221111_Julian_Schulz_015.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2024-08-16T18:56:00Z",
-    "deployed":"2024-08-16T19:56:31Z",
-    "website":"",
+    "deployed":"2024-08-16T19:56:08Z",
+    "website":"https:\/\/telematik-zentrum.de\/projects\/qube\/",
     "operator":"None",
-    "countries":"",
+    "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:07.086704Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-08-17T20:57:59.575571Z",
+    "citation":"https:\/\/telematik-zentrum.de\/projects\/qube\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
