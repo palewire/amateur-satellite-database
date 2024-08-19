@@ -2563,6 +2563,28 @@
     "satnogs_id":"IQOY-7969-6018-3429-4654"
   },
   {
+    "name":"BRO-14",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"BRO-15",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-1",
     "norad_id":"43666",
     "uplink":"436.200",
@@ -5522,7 +5544,7 @@
     "satnogs_id":null
   },
   {
-    "name":"EOS-7",
+    "name":"EOS-07",
     "norad_id":"55562",
     "uplink":null,
     "downlink":"145.825",
@@ -5531,6 +5553,17 @@
     "callsign":"A55BTN",
     "status":"active",
     "satnogs_id":"NLUY-5633-4354-5527-8129"
+  },
+  {
+    "name":"EOS-08",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825",
+    "beacon":null,
+    "mode":"1200bps AFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"EO-79",
@@ -7832,7 +7865,7 @@
     "satnogs_id":"GTBY-0816-3198-7674-7320"
   },
   {
-    "name":"ION-SCV 002",
+    "name":"ION-SCV-002",
     "norad_id":"47504",
     "uplink":null,
     "downlink":null,
@@ -7843,7 +7876,7 @@
     "satnogs_id":"OEYR-7835-4087-4694-0992"
   },
   {
-    "name":"ION-SCV 003",
+    "name":"ION-SCV-003",
     "norad_id":"48912",
     "uplink":null,
     "downlink":"437.515",
@@ -7854,7 +7887,7 @@
     "satnogs_id":"UBOY-6066-4647-0497-6247"
   },
   {
-    "name":"ION-SCV 004",
+    "name":"ION-SCV-004",
     "norad_id":"50993",
     "uplink":null,
     "downlink":"401.415",
@@ -7865,7 +7898,7 @@
     "satnogs_id":"EAHI-9090-2555-3685-8378"
   },
   {
-    "name":"ION-SCV 005",
+    "name":"ION-SCV-005",
     "norad_id":"52163",
     "uplink":null,
     "downlink":"401.415",
@@ -7876,7 +7909,7 @@
     "satnogs_id":"FBKO-0367-5082-1850-6466"
   },
   {
-    "name":"ION-SCV 006",
+    "name":"ION-SCV-006",
     "norad_id":"52761",
     "uplink":null,
     "downlink":"401.415",
@@ -7887,7 +7920,7 @@
     "satnogs_id":"TQIP-5428-9682-2220-6430"
   },
   {
-    "name":"ION-SCV 007",
+    "name":"ION-SCV-007",
     "norad_id":"55060",
     "uplink":null,
     "downlink":"401.415",
@@ -7898,7 +7931,7 @@
     "satnogs_id":"VPUU-7194-1121-2414-5647"
   },
   {
-    "name":"ION-SCV 008",
+    "name":"ION-SCV-008",
     "norad_id":"55051",
     "uplink":null,
     "downlink":"401.415",
@@ -7909,7 +7942,7 @@
     "satnogs_id":"NJEX-6170-8600-1975-0468"
   },
   {
-    "name":"ION-SCV 009",
+    "name":"ION-SCV-009",
     "norad_id":"55441",
     "uplink":null,
     "downlink":"401.415",
@@ -7920,7 +7953,7 @@
     "satnogs_id":"LEIH-8524-4118-4440-0024"
   },
   {
-    "name":"ION-SCV 010",
+    "name":"ION-SCV-010",
     "norad_id":"56192",
     "uplink":null,
     "downlink":"401.415",
@@ -7931,7 +7964,7 @@
     "satnogs_id":"DIVJ-8110-8669-4923-0530"
   },
   {
-    "name":"ION-SCV 011",
+    "name":"ION-SCV-011",
     "norad_id":"56957",
     "uplink":null,
     "downlink":"401.415",
@@ -7942,7 +7975,40 @@
     "satnogs_id":"TWEF-8525-8046-9814-5948"
   },
   {
-    "name":"ION-SCV 012",
+    "name":"ION-SCV-012",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"ION-SCV-013",
+    "norad_id":"58300",
+    "uplink":null,
+    "downlink":"401.415\/2265.500",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"YODX-5832-7103-0922-4071"
+  },
+  {
+    "name":"ION-SCV-014",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"ION-SCV-015",
     "norad_id":"58469",
     "uplink":null,
     "downlink":"401.415",
@@ -7953,15 +8019,15 @@
     "satnogs_id":"BZWJ-9712-5590-5046-8513"
   },
   {
-    "name":"ION-SCV 013",
-    "norad_id":"58300",
+    "name":"ION-SCV-016",
+    "norad_id":null,
     "uplink":null,
-    "downlink":"401.415\/2265.500",
+    "downlink":null,
     "beacon":null,
-    "mode":"1200bps FSK",
+    "mode":null,
     "callsign":null,
-    "status":"active",
-    "satnogs_id":"YODX-5832-7103-0922-4071"
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"IO-26",
@@ -10615,6 +10681,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Nightjar",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.350",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"XX0UHF",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"NIUSAT",
     "norad_id":"42766",
     "uplink":null,
@@ -11537,6 +11614,17 @@
     "callsign":"KJ7SAT",
     "status":"active",
     "satnogs_id":"VTFA-5315-6080-2422-3537"
+  },
+  {
+    "name":"OreSat-0.5",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"KJ7SAT-11",
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"OrigamiSat-1",
@@ -12826,6 +12914,17 @@
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
+    "name":"QPS-SAR-8",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2254.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"QUAKESAT",
     "norad_id":"27845",
     "uplink":null,
@@ -12846,6 +12945,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"YAZV-7302-9755-5634-8209"
+  },
+  {
+    "name":"QUBE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"DP2QU",
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"Qubesat",
@@ -15466,6 +15576,17 @@
     "satnogs_id":"RSRT-1057-1646-8612-1423"
   },
   {
+    "name":"SR-0",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"1k2\/9k6 FSK LoRa",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"SSETI",
     "norad_id":"28894",
     "uplink":null,
@@ -17215,6 +17336,17 @@
     "satnogs_id":null
   },
   {
+    "name":"TORO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.410",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":"XX0UHF",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"TO-31",
     "norad_id":"25396",
     "uplink":"145.925\/145.975",
@@ -17773,6 +17905,28 @@
     "mode":"FM",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"Umbra-09",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2254.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Umbra-10",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2254.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {

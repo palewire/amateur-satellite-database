@@ -430,6 +430,26 @@
     "satnogs_id":"IQOY-7969-6018-3429-4654"
   },
   {
+    "name":"BRO-14",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"BRO-15",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-2",
     "norad_id":"57175",
     "uplink":"436.200",
@@ -1110,7 +1130,7 @@
     "satnogs_id":"OBZD-9153-9709-2837-1280"
   },
   {
-    "name":"EOS-7",
+    "name":"EOS-07",
     "norad_id":"55562",
     "uplink":null,
     "downlink":"145.825",
@@ -1560,7 +1580,7 @@
     "satnogs_id":"ZPXA-7109-5221-3293-0780"
   },
   {
-    "name":"ION-SCV 005",
+    "name":"ION-SCV-005",
     "norad_id":"52163",
     "uplink":null,
     "downlink":"401.415",
@@ -1570,7 +1590,7 @@
     "satnogs_id":"FBKO-0367-5082-1850-6466"
   },
   {
-    "name":"ION-SCV 007",
+    "name":"ION-SCV-007",
     "norad_id":"55060",
     "uplink":null,
     "downlink":"401.415",
@@ -1580,7 +1600,7 @@
     "satnogs_id":"VPUU-7194-1121-2414-5647"
   },
   {
-    "name":"ION-SCV 008",
+    "name":"ION-SCV-008",
     "norad_id":"55051",
     "uplink":null,
     "downlink":"401.415",
@@ -1590,7 +1610,7 @@
     "satnogs_id":"NJEX-6170-8600-1975-0468"
   },
   {
-    "name":"ION-SCV 010",
+    "name":"ION-SCV-010",
     "norad_id":"56192",
     "uplink":null,
     "downlink":"401.415",
@@ -1600,7 +1620,7 @@
     "satnogs_id":"DIVJ-8110-8669-4923-0530"
   },
   {
-    "name":"ION-SCV 011",
+    "name":"ION-SCV-011",
     "norad_id":"56957",
     "uplink":null,
     "downlink":"401.415",
@@ -1610,17 +1630,17 @@
     "satnogs_id":"TWEF-8525-8046-9814-5948"
   },
   {
-    "name":"ION-SCV 012",
-    "norad_id":"58469",
+    "name":"ION-SCV-012",
+    "norad_id":null,
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "satnogs_id":"BZWJ-9712-5590-5046-8513"
+    "satnogs_id":null
   },
   {
-    "name":"ION-SCV 013",
+    "name":"ION-SCV-013",
     "norad_id":"58300",
     "uplink":null,
     "downlink":"401.415\/2265.500",
@@ -1628,6 +1648,16 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "satnogs_id":"YODX-5832-7103-0922-4071"
+  },
+  {
+    "name":"ION-SCV-015",
+    "norad_id":"58469",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":"BZWJ-9712-5590-5046-8513"
   },
   {
     "name":"IO-86",
@@ -2240,6 +2270,16 @@
     "satnogs_id":"DBTP-4321-2218-3495-4829"
   },
   {
+    "name":"Nightjar",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.350",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"XX0UHF",
+    "satnogs_id":null
+  },
+  {
     "name":"Norbi",
     "norad_id":"46494",
     "uplink":null,
@@ -2338,6 +2378,16 @@
     "mode":"9k6FSK 96kGMSK 1M_DPSK CW",
     "callsign":"KJ7SAT",
     "satnogs_id":"VTFA-5315-6080-2422-3537"
+  },
+  {
+    "name":"OreSat-0.5",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"KJ7SAT-11",
+    "satnogs_id":null
   },
   {
     "name":"PACE",
@@ -2508,6 +2558,16 @@
     "mode":"Linear  transponder",
     "callsign":null,
     "satnogs_id":"LBQI-9987-6865-3928-8294"
+  },
+  {
+    "name":"QUBE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"DP2QU",
+    "satnogs_id":null
   },
   {
     "name":"RadFxSat",
@@ -3080,6 +3140,16 @@
     "satnogs_id":"EGOY-0622-3973-5317-4250"
   },
   {
+    "name":"SR-0",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"1k2\/9k6 FSK LoRa",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"SSS-2B",
     "norad_id":"56184",
     "uplink":null,
@@ -3368,6 +3438,16 @@
     "mode":"9600bps FSK",
     "callsign":"HNATIG",
     "satnogs_id":"XCTT-8747-8578-2256-0351"
+  },
+  {
+    "name":"TORO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.410",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":"XX0UHF",
+    "satnogs_id":null
   },
   {
     "name":"TO-108",

@@ -18501,7 +18501,7 @@
     "norad_follow_id":null,
     "name":"IRIS-A",
     "names":"",
-    "image":"satellites\/PXL_20210120_010030952.jpg",
+    "image":"satellites\/IRIS-A.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2022-01-13T15:25:00Z",
@@ -18512,8 +18512,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-02-25T02:29:56.148974Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=781",
+    "updated":"2024-08-19T07:13:44.237970Z",
+    "citation":"update photo",
     "is_frequency_violator":false,
     "associated_satellites":[
       "FKPI-6803-4516-3684-0735",
@@ -46638,7 +46638,7 @@
     "norad_cat_id":98851.0,
     "norad_follow_id":null,
     "name":"Lemu Nge",
-    "names":"Forest Eye",
+    "names":"Forest Eye, Ojo del Bosque, Silvarum Oculus",
     "image":"satellites\/Lemu_Nge_TVAC_Testing_1.jpeg",
     "status":"alive",
     "decayed":null,
@@ -46650,8 +46650,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-17T19:07:43.665893Z",
-    "citation":"N\/A",
+    "updated":"2024-08-19T07:15:07.418598Z",
+    "citation":"https:\/\/le.mu",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47516,6 +47516,54 @@
     ],
     "updated":"2024-08-16T19:57:06.314206Z",
     "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WIFK-1721-5111-0400-7559",
+    "norad_cat_id":60013.0,
+    "norad_follow_id":null,
+    "name":"Unknown - 24110B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-19T10:55:20.166213Z",
+    "citation":"PE0SAT strf observation",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MDXQ-6872-1942-1618-3299",
+    "norad_cat_id":60015.0,
+    "norad_follow_id":null,
+    "name":"Unknown - 24110D",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-19T11:19:22.850167Z",
+    "citation":"strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
