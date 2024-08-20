@@ -1268,7 +1268,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"co65"
+      }
     ],
     "updated":"2023-05-06T18:53:56.892657Z",
     "citation":"http:\/\/web.archive.org\/web\/20150613131154\/http:\/\/lss.mes.titech.ac.jp\/ssp\/cute1.7\/blog\/",
