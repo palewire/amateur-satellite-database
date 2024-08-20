@@ -46567,7 +46567,7 @@
     "norad_follow_id":null,
     "name":"ERNST",
     "names":"",
-    "image":"",
+    "image":"satellites\/ernst_rendering_white.png",
     "status":"alive",
     "decayed":null,
     "launched":"2024-08-16T18:56:00Z",
@@ -46578,8 +46578,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-18T09:22:14.052089Z",
-    "citation":"I am the operator",
+    "updated":"2024-08-19T12:43:59.058846Z",
+    "citation":"I am the owner\/operator",
     "is_frequency_violator":false,
     "associated_satellites":[
 
