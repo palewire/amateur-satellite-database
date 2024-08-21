@@ -46278,7 +46278,7 @@
   {
     "sat_id":"WZIT-9333-7102-4860-3049",
     "norad_cat_id":98866.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60455.0,
     "name":"SR-0 DemoSAT",
     "names":"",
     "image":"",
@@ -46294,8 +46294,8 @@
         "decoder":"sr0"
       }
     ],
-    "updated":"2024-08-17T11:38:32.992927Z",
-    "citation":"https:\/\/community.libre.space\/t\/isro-sslv-d3-2024-08-16-03-47-utc\/11876\/39",
+    "updated":"2024-08-21T00:56:40.824375Z",
+    "citation":"ikhnos results on network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46503,15 +46503,15 @@
     "status":"alive",
     "decayed":null,
     "launched":"2024-08-16T18:56:00Z",
-    "deployed":"2024-08-16T19:51:33Z",
+    "deployed":"2024-08-16T19:51:10Z",
     "website":"https:\/\/www.cuava.com.au\/",
     "operator":"None",
     "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.938023Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-08-21T00:33:56.039553Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter11",
     "is_frequency_violator":false,
     "associated_satellites":[
 
