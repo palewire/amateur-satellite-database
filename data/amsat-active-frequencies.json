@@ -3130,23 +3130,13 @@
     "satnogs_id":"QFRO-8807-8086-2793-1420"
   },
   {
-    "name":"SPROUT",
-    "norad_id":"39770",
-    "uplink":null,
-    "downlink":"437.525",
-    "beacon":"437.525",
-    "mode":"1k2AFSK 9k6GMSK CW*",
-    "callsign":"JQ1ZJQ",
-    "satnogs_id":"EGOY-0622-3973-5317-4250"
-  },
-  {
     "name":"SR-0",
-    "norad_id":null,
+    "norad_id":"60455",
     "uplink":null,
     "downlink":"437.400",
     "beacon":null,
     "mode":"1k2*\/9k6 FSK LoRa",
-    "callsign":"UPMST2",
+    "callsign":"SPRKD0",
     "satnogs_id":null
   },
   {

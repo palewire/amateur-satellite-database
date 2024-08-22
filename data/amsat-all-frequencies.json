@@ -15548,9 +15548,9 @@
     "uplink":null,
     "downlink":"437.525",
     "beacon":"437.525",
-    "mode":"1k2AFSK 9k6GMSK CW*",
+    "mode":"1k2AFSK 9k6GMSK CW",
     "callsign":"JQ1ZJQ",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"EGOY-0622-3973-5317-4250"
   },
   {
@@ -15561,7 +15561,7 @@
     "beacon":null,
     "mode":"Digipeater Digitalker SSTV",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"EGOY-0622-3973-5317-4250"
   },
   {
@@ -15577,12 +15577,12 @@
   },
   {
     "name":"SR-0",
-    "norad_id":null,
+    "norad_id":"60455",
     "uplink":null,
     "downlink":"437.400",
     "beacon":null,
     "mode":"1k2*\/9k6 FSK LoRa",
-    "callsign":"UPMST2",
+    "callsign":"SPRKD0",
     "status":"active",
     "satnogs_id":null
   },
@@ -16969,7 +16969,7 @@
     "beacon":null,
     "mode":"9600bps BPSK* FM",
     "callsign":"T1OFK",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"LGQA-5372-5302-5624-9737"
   },
   {
@@ -16980,7 +16980,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T2YRC",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"GZOH-6912-3361-0211-8264"
   },
   {
@@ -16991,7 +16991,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T3TYB",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"LEAV-8991-5988-2220-6884"
   },
   {
@@ -17002,7 +17002,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T4ATA",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"MVWM-0813-4348-1031-3202"
   },
   {
@@ -17035,7 +17035,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T7ADM",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"CIFL-5741-4177-0610-3533"
   },
   {
@@ -17046,7 +17046,7 @@
     "beacon":null,
     "mode":"9600bps BPSK* FM",
     "callsign":"T8GBS",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"VNEP-7767-9055-3195-4316"
   },
   {
