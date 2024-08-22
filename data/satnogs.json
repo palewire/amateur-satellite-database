@@ -47572,5 +47572,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"EMBZ-4725-4013-6941-3585",
+    "norad_cat_id":58302.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X35",
+    "names":"2023-174AY",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-21T18:00:56.783186Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1zCzXqZRZjrgSZjNK3IfhIS4DXU6DrtqCoKEVkNzADuM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
