@@ -1916,14 +1916,14 @@
     "decayed":null,
     "launched":"2012-09-13T00:00:00Z",
     "deployed":null,
-    "website":"https:\/\/www.pe0sat.vgnet.nl\/satellite\/cube-nano-picosats\/aeneas\/",
+    "website":"https:\/\/www.isi.edu\/centers-serc\/research\/nanosatellites\/aeneas\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:05.667453Z",
-    "citation":"https:\/\/www.pe0sat.vgnet.nl\/satellite\/cube-nano-picosats\/aeneas\/",
+    "updated":"2024-08-22T17:47:47.813849Z",
+    "citation":"Updated AENEAS website",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39779,8 +39779,8 @@
         "decoder":"hadesd"
       }
     ],
-    "updated":"2023-12-22T10:15:14.032078Z",
-    "citation":"AMSAT BB list",
+    "updated":"2024-08-22T14:32:12.875252Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
       "GPAF-9192-7239-6875-5127"
@@ -46294,8 +46294,8 @@
         "decoder":"sr0"
       }
     ],
-    "updated":"2024-08-21T00:56:40.824375Z",
-    "citation":"ikhnos results on network observations",
+    "updated":"2024-08-22T14:32:00.368686Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
