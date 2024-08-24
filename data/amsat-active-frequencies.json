@@ -280,36 +280,6 @@
     "satnogs_id":"NJFB-9884-9643-7739-4519"
   },
   {
-    "name":"BEESAT-5",
-    "norad_id":"48083",
-    "uplink":null,
-    "downlink":"435.950",
-    "beacon":null,
-    "mode":"4800bps GMSK",
-    "callsign":"DB0BEI",
-    "satnogs_id":"LWOS-0548-6434-8064-3287"
-  },
-  {
-    "name":"BEESAT-7",
-    "norad_id":"48084",
-    "uplink":null,
-    "downlink":"435.950",
-    "beacon":null,
-    "mode":"4800bps GMSK",
-    "callsign":"DB0BEK",
-    "satnogs_id":"QTXZ-9081-6898-5517-8758"
-  },
-  {
-    "name":"BhutanSat",
-    "norad_id":"54365",
-    "uplink":null,
-    "downlink":"435.080",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":"INDUSR",
-    "satnogs_id":"EFIC-2341-1789-8177-9840"
-  },
-  {
     "name":"BisonSat",
     "norad_id":"40974",
     "uplink":null,
@@ -678,16 +648,6 @@
     "mode":"9600bps FSK",
     "callsign":"FLEF1N",
     "satnogs_id":"ZJER-5082-9774-9829-7564"
-  },
-  {
-    "name":"Centauri-4",
-    "norad_id":"48898",
-    "uplink":null,
-    "downlink":"400.180",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":"FLEF2N",
-    "satnogs_id":"AXQA-7364-6026-4427-9296"
   },
   {
     "name":"Centauri-5",
@@ -1088,16 +1048,6 @@
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"DP1GOS",
     "satnogs_id":"QTXY-8933-7836-7484-6250"
-  },
-  {
-    "name":"E1P-U2",
-    "norad_id":"37855",
-    "uplink":null,
-    "downlink":"437.493",
-    "beacon":null,
-    "mode":"1k2AFSK_USB",
-    "callsign":null,
-    "satnogs_id":"GTMF-2365-6960-5386-3224"
   },
   {
     "name":"EIRSAT-1",
@@ -1540,16 +1490,6 @@
     "satnogs_id":"MQAA-5897-1513-7320-7285"
   },
   {
-    "name":"INS-2B",
-    "norad_id":"54365",
-    "uplink":null,
-    "downlink":"435.080",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":"INDUSR",
-    "satnogs_id":"EFIC-2341-1789-8177-9840"
-  },
-  {
     "name":"INS-2TD",
     "norad_id":"51658",
     "uplink":null,
@@ -1568,16 +1508,6 @@
     "mode":"9600bps GMSK",
     "callsign":"INT1KP",
     "satnogs_id":"ZPXA-7109-5221-3293-0780"
-  },
-  {
-    "name":"ION-SCV-005",
-    "norad_id":"52163",
-    "uplink":null,
-    "downlink":"401.415",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":null,
-    "satnogs_id":"FBKO-0367-5082-1850-6466"
   },
   {
     "name":"ION-SCV-007",
@@ -1718,16 +1648,6 @@
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"DP2GOS",
     "satnogs_id":"VLTM-4130-8711-4931-9078"
-  },
-  {
-    "name":"ISOI",
-    "norad_id":"53381",
-    "uplink":null,
-    "downlink":"437.650",
-    "beacon":null,
-    "mode":"2k4\/4k8*GMSK_USP",
-    "callsign":"RS19S",
-    "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
   {
     "name":"ISS",
@@ -2040,16 +1960,6 @@
     "satnogs_id":null
   },
   {
-    "name":"Medex",
-    "norad_id":"53381",
-    "uplink":null,
-    "downlink":"437.650",
-    "beacon":null,
-    "mode":"2k4\/4k8*GMSK_USP",
-    "callsign":"RS19S",
-    "satnogs_id":"BFTX-5845-5159-6971-7200"
-  },
-  {
     "name":"MESAT-1",
     "norad_id":"60209",
     "uplink":"145.910-145.940",
@@ -2078,16 +1988,6 @@
     "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS32S",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
-  },
-  {
-    "name":"MIET-AIS",
-    "norad_id":"53377",
-    "uplink":null,
-    "downlink":"437.900",
-    "beacon":null,
-    "mode":"2400bps GMSK_USP",
-    "callsign":"RS28S",
-    "satnogs_id":"OTLB-3496-1811-8002-0742"
   },
   {
     "name":"MIMAN",
@@ -3270,16 +3170,6 @@
     "satnogs_id":"KILB-3720-6406-0699-8042"
   },
   {
-    "name":"SXC3-214",
-    "norad_id":"53377",
-    "uplink":null,
-    "downlink":"437.900",
-    "beacon":null,
-    "mode":"2400bps GMSK_USP",
-    "callsign":"RS28S",
-    "satnogs_id":"OTLB-3496-1811-8002-0742"
-  },
-  {
     "name":"SXC3-216",
     "norad_id":"53376",
     "uplink":null,
@@ -3298,16 +3188,6 @@
     "mode":"2400bps GMSK_USP",
     "callsign":"RS34S",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
-  },
-  {
-    "name":"SXC3-219",
-    "norad_id":"53381",
-    "uplink":null,
-    "downlink":"437.650",
-    "beacon":null,
-    "mode":"2k4\/4k8*GMSK_USP",
-    "callsign":"RS19S",
-    "satnogs_id":"BFTX-5845-5159-6971-7200"
   },
   {
     "name":"S-NetA",
@@ -3448,16 +3328,6 @@
     "mode":"1000bps FSK",
     "callsign":null,
     "satnogs_id":"FWIK-4601-2533-0527-1613"
-  },
-  {
-    "name":"TRSI-3",
-    "norad_id":"52420",
-    "uplink":null,
-    "downlink":"437.075",
-    "beacon":"437.075",
-    "mode":"FSK* CW",
-    "callsign":null,
-    "satnogs_id":"NRKA-7886-5351-9767-4652"
   },
   {
     "name":"TY-4",

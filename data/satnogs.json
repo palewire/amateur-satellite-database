@@ -46277,8 +46277,8 @@
   },
   {
     "sat_id":"WZIT-9333-7102-4860-3049",
-    "norad_cat_id":98866.0,
-    "norad_follow_id":60455.0,
+    "norad_cat_id":60455.0,
+    "norad_follow_id":null,
     "name":"SR-0 DemoSAT",
     "names":"",
     "image":"",
@@ -46294,8 +46294,8 @@
         "decoder":"sr0"
       }
     ],
-    "updated":"2024-08-22T14:32:00.368686Z",
-    "citation":"dl7ndr",
+    "updated":"2024-08-24T03:11:03.845498Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-60455\/2024-08-24T02%3A53%3A08_10093723_60455_24147B_0-OBJECT-B_0.37262696148147256_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47592,6 +47592,102 @@
     ],
     "updated":"2024-08-21T18:00:56.783186Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1zCzXqZRZjrgSZjNK3IfhIS4DXU6DrtqCoKEVkNzADuM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KAWD-8606-2004-6424-0319",
+    "norad_cat_id":98815.0,
+    "norad_follow_id":null,
+    "name":"Unknown_1_T11",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-24T02:37:39.657880Z",
+    "citation":"Network Observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NIBK-0501-1704-7303-0196",
+    "norad_cat_id":98814.0,
+    "norad_follow_id":null,
+    "name":"Unknown_2_T11",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-24T02:37:37.968075Z",
+    "citation":"kayhan.space",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YDQM-1508-8291-7641-4635",
+    "norad_cat_id":98813.0,
+    "norad_follow_id":null,
+    "name":"UM5Sat-EOsat",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-24T02:37:35.955877Z",
+    "citation":"kayhan.space",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QRWE-3933-7174-7805-6481",
+    "norad_cat_id":98812.0,
+    "norad_follow_id":null,
+    "name":"UM5Sat-Ribat",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-24T02:37:34.195013Z",
+    "citation":"kayhan.space",
     "is_frequency_violator":false,
     "associated_satellites":[
 
