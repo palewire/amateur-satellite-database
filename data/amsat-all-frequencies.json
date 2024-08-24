@@ -2068,6 +2068,39 @@
     "satnogs_id":"QAYP-4569-3720-3601-3180"
   },
   {
+    "name":"Binar-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.700",
+    "beacon":"437.700",
+    "mode":"1k2\/9k6\/19k2\/38k4 GFSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Binar-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.850",
+    "beacon":"437.850",
+    "mode":"1k2\/9k6\/19k2\/38k4 GFSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Binar-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.925",
+    "beacon":"437.925",
+    "mode":"1k2\/9k6\/19k2\/38k4 GFSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Bion-M1",
     "norad_id":"39130",
     "uplink":null,
@@ -2636,7 +2669,7 @@
     "beacon":null,
     "mode":"9600bps BPSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"NUAN-4837-3393-7029-3247"
   },
   {
@@ -5556,7 +5589,7 @@
   },
   {
     "name":"EOS-08",
-    "norad_id":null,
+    "norad_id":"60454",
     "uplink":null,
     "downlink":"145.825",
     "beacon":null,
@@ -8631,7 +8664,7 @@
     "beacon":null,
     "mode":"1k2AFSK 2k4*FSK",
     "callsign":"RS26S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"LCSC-5849-7353-1157-6022"
   },
   {
@@ -10028,7 +10061,7 @@
     "beacon":"400.959",
     "mode":"LoRa CW*",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"YBQI-2140-4595-2492-5336"
   },
   {
@@ -10589,7 +10622,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"SPIN-5533-7821-5854-3271"
   },
   {
@@ -14527,7 +14560,7 @@
     "beacon":null,
     "mode":"1200bps BPSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"VSTX-5196-9784-0975-3350"
   },
   {
@@ -15548,9 +15581,9 @@
     "uplink":null,
     "downlink":"437.525",
     "beacon":"437.525",
-    "mode":"1k2AFSK 9k6GMSK CW",
+    "mode":"1k2AFSK 9k6GMSK CW*",
     "callsign":"JQ1ZJQ",
-    "status":"re-entered",
+    "status":"active",
     "satnogs_id":"EGOY-0622-3973-5317-4250"
   },
   {
@@ -15561,7 +15594,7 @@
     "beacon":null,
     "mode":"Digipeater Digitalker SSTV",
     "callsign":null,
-    "status":"re-entered",
+    "status":"inactive",
     "satnogs_id":"EGOY-0622-3973-5317-4250"
   },
   {
@@ -15577,7 +15610,7 @@
   },
   {
     "name":"SR-0",
-    "norad_id":"60455",
+    "norad_id":null,
     "uplink":null,
     "downlink":"437.400",
     "beacon":null,
@@ -15792,7 +15825,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"NXHR-3367-8898-2473-4896"
   },
   {
@@ -16969,7 +17002,7 @@
     "beacon":null,
     "mode":"9600bps BPSK* FM",
     "callsign":"T1OFK",
-    "status":"re-entered",
+    "status":"inactive",
     "satnogs_id":"LGQA-5372-5302-5624-9737"
   },
   {
@@ -16980,7 +17013,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T2YRC",
-    "status":"re-entered",
+    "status":"inactive",
     "satnogs_id":"GZOH-6912-3361-0211-8264"
   },
   {
@@ -16991,7 +17024,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T3TYB",
-    "status":"re-entered",
+    "status":"inactive",
     "satnogs_id":"LEAV-8991-5988-2220-6884"
   },
   {
@@ -17002,7 +17035,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T4ATA",
-    "status":"re-entered",
+    "status":"inactive",
     "satnogs_id":"MVWM-0813-4348-1031-3202"
   },
   {
@@ -17035,7 +17068,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T7ADM",
-    "status":"re-entered",
+    "status":"inactive",
     "satnogs_id":"CIFL-5741-4177-0610-3533"
   },
   {
@@ -17046,7 +17079,7 @@
     "beacon":null,
     "mode":"9600bps BPSK* FM",
     "callsign":"T8GBS",
-    "status":"re-entered",
+    "status":"inactive",
     "satnogs_id":"VNEP-7767-9055-3195-4316"
   },
   {

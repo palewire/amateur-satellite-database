@@ -470,16 +470,6 @@
     "satnogs_id":"GPLA-1467-3987-8284-6460"
   },
   {
-    "name":"BY70-2",
-    "norad_id":"45857",
-    "uplink":null,
-    "downlink":"436.200",
-    "beacon":null,
-    "mode":"9600bps BPSK",
-    "callsign":null,
-    "satnogs_id":"NUAN-4837-3393-7029-3247"
-  },
-  {
     "name":"CAS-1",
     "norad_id":"36122",
     "uplink":null,
@@ -1810,16 +1800,6 @@
     "satnogs_id":"APQS-1800-5981-4551-3856"
   },
   {
-    "name":"KAI-1",
-    "norad_id":"53378",
-    "uplink":null,
-    "downlink":"435.665*\/435.765",
-    "beacon":null,
-    "mode":"1k2AFSK 2k4*FSK",
-    "callsign":"RS26S",
-    "satnogs_id":"LCSC-5849-7353-1157-6022"
-  },
-  {
     "name":"KASHIWA",
     "norad_id":"59508",
     "uplink":"145.825",
@@ -2098,16 +2078,6 @@
     "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS32S",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
-  },
-  {
-    "name":"MicroOrbiter-1",
-    "norad_id":"59483",
-    "uplink":null,
-    "downlink":"399.975\/922.100",
-    "beacon":"400.959",
-    "mode":"LoRa CW*",
-    "callsign":null,
-    "satnogs_id":"YBQI-2140-4595-2492-5336"
   },
   {
     "name":"MIET-AIS",
@@ -3130,8 +3100,18 @@
     "satnogs_id":"QFRO-8807-8086-2793-1420"
   },
   {
+    "name":"SPROUT",
+    "norad_id":"39770",
+    "uplink":null,
+    "downlink":"437.525",
+    "beacon":"437.525",
+    "mode":"1k2AFSK 9k6GMSK CW*",
+    "callsign":"JQ1ZJQ",
+    "satnogs_id":"EGOY-0622-3973-5317-4250"
+  },
+  {
     "name":"SR-0",
-    "norad_id":"60455",
+    "norad_id":null,
     "uplink":null,
     "downlink":"437.400",
     "beacon":null,
