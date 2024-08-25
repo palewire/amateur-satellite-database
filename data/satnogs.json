@@ -47692,5 +47692,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"PVHC-2168-9425-3221-7017",
+    "norad_cat_id":39019.0,
+    "norad_follow_id":null,
+    "name":"PLEIADES 1B",
+    "names":"2021-068A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2012-12-02T00:00:00Z",
+    "deployed":"2012-12-02T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-24T20:29:11.187955Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1rXjFccp-JP0ljcWS-kN0B7PjS0SXgf4_kwCyDadoJ5c\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VPON-3371-8087-1921-2319",
+    "norad_cat_id":33105.0,
+    "norad_follow_id":null,
+    "name":"JASON 2",
+    "names":"2008-032A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2008-06-20T00:00:00Z",
+    "deployed":"2008-06-20T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-24T20:28:52.238786Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1VSS1JFqtYSNtCQzFmwDqOQzrdudc21F7w1yvYwh0Mdc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
