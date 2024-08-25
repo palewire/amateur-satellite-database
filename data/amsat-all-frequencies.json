@@ -6699,6 +6699,17 @@
     "satnogs_id":"LZAR-9879-8329-7254-6929"
   },
   {
+    "name":"Gardens-03",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":"JS1YNI",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"GASPACS",
     "norad_id":"51439",
     "uplink":null,
@@ -14075,7 +14086,7 @@
     "downlink":"437.375",
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
-    "callsign":null,
+    "callsign":"JS1YNI",
     "status":"to be launched",
     "satnogs_id":null
   },
@@ -15610,14 +15621,14 @@
   },
   {
     "name":"SR-0",
-    "norad_id":null,
+    "norad_id":"60455",
     "uplink":null,
     "downlink":"437.400",
     "beacon":null,
     "mode":"1k2*\/9k6 FSK LoRa",
     "callsign":"SPRKD0",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"WZIT-9333-7102-4860-3049"
   },
   {
     "name":"SSETI",
