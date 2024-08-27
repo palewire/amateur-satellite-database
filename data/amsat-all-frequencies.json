@@ -15594,7 +15594,7 @@
     "beacon":"437.525",
     "mode":"1k2AFSK 9k6GMSK CW*",
     "callsign":"JQ1ZJQ",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"EGOY-0622-3973-5317-4250"
   },
   {
@@ -15605,7 +15605,7 @@
     "beacon":null,
     "mode":"Digipeater Digitalker SSTV",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"EGOY-0622-3973-5317-4250"
   },
   {
