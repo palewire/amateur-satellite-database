@@ -7128,6 +7128,28 @@
     "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
+    "name":"Hades-E",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.888",
+    "beacon":"436.888",
+    "mode":"1k2FSK FM CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Hades-F",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.666",
+    "beacon":"436.888",
+    "mode":"1k2FSK FM CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Hamsat",
     "norad_id":"28650",
     "uplink":"435.220-435.280",
@@ -9677,6 +9699,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"MARIA-G",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.666",
+    "beacon":"436.888",
+    "mode":"1k2FSK FM CW",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -18136,6 +18169,17 @@
     "mode":"1200bps AFSK CW",
     "callsign":"JQ1ZUN",
     "status":"deep space",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNNE-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.888",
+    "beacon":"436.888",
+    "mode":"1k2FSK FM CW",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
