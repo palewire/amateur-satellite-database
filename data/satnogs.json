@@ -1188,8 +1188,8 @@
     "name":"AIM",
     "names":"Aeronomy of Ice in the Mesosphere",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-19T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -1198,8 +1198,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.052477Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-08-28T17:29:51.018367Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=31304",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -7136,10 +7136,10 @@
     "norad_cat_id":43155.0,
     "norad_follow_id":null,
     "name":"Xiaoxiang-2",
-    "names":"TY-2\r\nTianYi 2",
+    "names":"TY-2TianYi 2",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-22T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -7148,8 +7148,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.508047Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-08-28T17:30:33.165235Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43155",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -10620,8 +10620,8 @@
     "name":"BY70-2",
     "names":"XIBAIPO",
     "image":"satellites\/BY70-2.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-19T00:00:00Z",
     "launched":"2020-07-03T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/english.ccastic.spacechina.com\/",
@@ -10630,8 +10630,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T11:12:46.834174Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-08-28T17:30:46.202049Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=45857",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14923,8 +14923,8 @@
     "name":"RADCUBE",
     "names":"",
     "image":"satellites\/radcube__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-20T00:00:00Z",
     "launched":"2021-08-17T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -14933,8 +14933,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-08-22T20:00:46.115555Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-49067\/2021-08-22T13%3A48%3A35_4608535_49067_21073B_0-OBJECT-B_0.3874410325925908_B_r25.0_f0.0.png",
+    "updated":"2024-08-28T17:29:30.151751Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=49067",
     "is_frequency_violator":false,
     "associated_satellites":[
       "ZIXY-0895-2405-6173-6615"
@@ -15729,8 +15729,8 @@
     "name":"GOMX4-A",
     "names":"",
     "image":"satellites\/unnamed_zkU4v21.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-18T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -15739,8 +15739,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-09T14:50:52.770943Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-08-28T17:29:11.692241Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43197",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16809,8 +16809,8 @@
     "name":"SIMBA",
     "names":"Sun-Earth Imbalance",
     "image":"satellites\/simba__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-14T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/directory.eoportal.org\/web\/eoportal\/satellite-missions\/s\/simba",
@@ -16819,8 +16819,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T01:01:11.515915Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-08-28T17:27:46.868610Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=46279",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22320,8 +22320,8 @@
     "name":"KAI 1",
     "names":"RS26S, KNITU-KAI, KNRTU-KAI",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-18T00:00:00Z",
     "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/lyceum.kai.ru\/news\/new?id=12328340",
@@ -22330,8 +22330,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-14T03:16:47.717263Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53378\/2022-08-13T16%3A55%3A37_6325679_53378_22096J_0-OBJECT-J_0.17797247185185938_B_r24.0_f0.0.png",
+    "updated":"2024-08-28T17:30:10.583885Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=53378",
     "is_frequency_violator":true,
     "associated_satellites":[
       "QPUL-7014-1448-4582-3962"
@@ -30384,19 +30384,19 @@
     "norad_follow_id":null,
     "name":"Sakura",
     "names":"\u685c, Gardens 03",
-    "image":"satellites\/SAKURA.jpg",
+    "image":"satellites\/SKR_\u5199\u771f.JPG",
     "status":"future",
     "decayed":null,
     "launched":null,
-    "deployed":null,
+    "deployed":"2024-08-29T09:20:00Z",
     "website":"https:\/\/sites.google.com\/p.chibakoudai.jp\/gardens-03\/home-english\/missions",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2024-07-04T13:18:11.257842Z",
-    "citation":"https:\/\/sites.google.com\/p.chibakoudai.jp\/gardens-03\/home-english",
+    "updated":"2024-08-28T17:47:21.680141Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46298,7 +46298,7 @@
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-60455\/2024-08-24T02%3A53%3A08_10093723_60455_24147B_0-OBJECT-B_0.37262696148147256_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "CIZC-0503-9135-1556-7279"
     ]
   },
   {
@@ -46762,7 +46762,7 @@
     "norad_cat_id":98847.0,
     "norad_follow_id":null,
     "name":"QUBE",
-    "names":"",
+    "names":"DP2TUD",
     "image":"satellites\/Zentrum_f\u00fcr_Telematik_W\u00fcrzburg_221111_Julian_Schulz_015.jpg",
     "status":"alive",
     "decayed":null,
@@ -46774,8 +46774,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-23T17:31:26.002371Z",
-    "citation":"QUBE",
+    "updated":"2024-08-28T17:27:36.186021Z",
+    "citation":"Observation",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -47736,6 +47736,150 @@
     ],
     "updated":"2024-08-24T20:28:52.238786Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1VSS1JFqtYSNtCQzFmwDqOQzrdudc21F7w1yvYwh0Mdc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UKHU-7340-5378-6404-2316",
+    "norad_cat_id":98811.0,
+    "norad_follow_id":null,
+    "name":"CosmoGirl-Sat",
+    "names":"JS1YOI, Emma, \u30a8\u30de",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-05T00:00:00Z",
+    "deployed":"2024-08-29T09:20:00Z",
+    "website":"https:\/\/cosmosgirlham.org\/",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-28T17:47:07.217317Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HOPN-7700-8404-6589-5258",
+    "norad_cat_id":98810.0,
+    "norad_follow_id":null,
+    "name":"SaganSat0",
+    "names":"JG6YPC",
+    "image":"satellites\/ham_competition_-_CW.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-05T00:00:00Z",
+    "deployed":"2024-08-29T09:20:00Z",
+    "website":"https:\/\/twiiit.com\/saga_space",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-28T17:47:14.704091Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FACZ-7987-8249-5385-5279",
+    "norad_cat_id":98808.0,
+    "norad_follow_id":null,
+    "name":"Binar-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-05T00:00:00Z",
+    "deployed":"2024-08-29T11:00:00Z",
+    "website":"https:\/\/www.binarspace.com\/binar-234-567-missions",
+    "operator":"None",
+    "countries":"AU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-28T17:46:30.960646Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EHBA-7491-4486-7496-1223",
+    "norad_cat_id":98807.0,
+    "norad_follow_id":null,
+    "name":"Binar-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-05T00:00:00Z",
+    "deployed":"2024-08-29T11:00:00Z",
+    "website":"https:\/\/www.binarspace.com\/binar-234-567-missions",
+    "operator":"None",
+    "countries":"AU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-28T17:46:25.339507Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WJHX-1326-6381-8250-7903",
+    "norad_cat_id":98806.0,
+    "norad_follow_id":null,
+    "name":"Binar-4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-08-05T00:00:00Z",
+    "deployed":"2024-08-29T11:00:00Z",
+    "website":"https:\/\/www.binarspace.com\/binar-234-567-missions",
+    "operator":"None",
+    "countries":"AU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-28T17:46:14.503737Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CJSY-9900-2724-5070-0380",
+    "norad_cat_id":98809.0,
+    "norad_follow_id":null,
+    "name":"Wisseed Sat",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2024-08-29T09:20:00Z",
+    "website":"https:\/\/wisseed-the-terra.co.jp\/space",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-28T17:42:30.404283Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
