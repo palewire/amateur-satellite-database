@@ -30385,18 +30385,18 @@
     "name":"Sakura",
     "names":"\u685c, Gardens 03",
     "image":"satellites\/SKR_\u5199\u771f.JPG",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":null,
-    "deployed":"2024-08-29T09:20:00Z",
+    "deployed":"2024-08-29T09:45:00Z",
     "website":"https:\/\/sites.google.com\/p.chibakoudai.jp\/gardens-03\/home-english\/missions",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2024-08-28T17:47:21.680141Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "updated":"2024-08-29T09:48:31.154667Z",
+    "citation":"Deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47748,18 +47748,18 @@
     "name":"CosmoGirl-Sat",
     "names":"JS1YOI, Emma, \u30a8\u30de",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-08-05T00:00:00Z",
-    "deployed":"2024-08-29T09:20:00Z",
+    "deployed":"2024-08-29T09:45:00Z",
     "website":"https:\/\/cosmosgirlham.org\/",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2024-08-28T17:47:07.217317Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "updated":"2024-08-29T09:48:27.189403Z",
+    "citation":"Deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47772,18 +47772,18 @@
     "name":"SaganSat0",
     "names":"JG6YPC",
     "image":"satellites\/ham_competition_-_CW.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-08-05T00:00:00Z",
-    "deployed":"2024-08-29T09:20:00Z",
+    "deployed":"2024-08-29T09:45:00Z",
     "website":"https:\/\/twiiit.com\/saga_space",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2024-08-28T17:47:14.704091Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "updated":"2024-08-29T09:48:28.718468Z",
+    "citation":"Deployed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47796,18 +47796,18 @@
     "name":"Binar-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-08-05T00:00:00Z",
-    "deployed":"2024-08-29T11:00:00Z",
+    "deployed":"2024-08-29T11:20:00Z",
     "website":"https:\/\/www.binarspace.com\/binar-234-567-missions",
     "operator":"None",
     "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2024-08-28T17:46:30.960646Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "updated":"2024-08-29T11:17:48.497920Z",
+    "citation":"https:\/\/youtu.be\/kIvINN5JmxY",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47820,18 +47820,18 @@
     "name":"Binar-3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-08-05T00:00:00Z",
-    "deployed":"2024-08-29T11:00:00Z",
+    "deployed":"2024-08-29T11:20:00Z",
     "website":"https:\/\/www.binarspace.com\/binar-234-567-missions",
     "operator":"None",
     "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2024-08-28T17:46:25.339507Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "updated":"2024-08-29T11:17:53.479285Z",
+    "citation":"https:\/\/youtu.be\/kIvINN5JmxY",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47844,18 +47844,18 @@
     "name":"Binar-4",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-08-05T00:00:00Z",
-    "deployed":"2024-08-29T11:00:00Z",
+    "deployed":"2024-08-29T11:20:00Z",
     "website":"https:\/\/www.binarspace.com\/binar-234-567-missions",
     "operator":"None",
     "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2024-08-28T17:46:14.503737Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "updated":"2024-08-29T11:17:57.886752Z",
+    "citation":"https:\/\/youtu.be\/kIvINN5JmxY",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47871,15 +47871,87 @@
     "status":"alive",
     "decayed":null,
     "launched":null,
-    "deployed":"2024-08-29T09:20:00Z",
+    "deployed":"2024-08-29T09:45:00Z",
     "website":"https:\/\/wisseed-the-terra.co.jp\/space",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-08-28T17:42:30.404283Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004121.html",
+    "updated":"2024-08-29T09:48:34.667773Z",
+    "citation":"Deployed",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SYEN-9282-8275-6947-6745",
+    "norad_cat_id":59777.0,
+    "norad_follow_id":null,
+    "name":"OBJECT E",
+    "names":"2024-092E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-16T00:00:00Z",
+    "deployed":"2024-05-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-29T09:04:41.036089Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1JvCQpfuscbjRMxGuRK7M3qULVjdsbJmCVGqBdbTwZdo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ONSC-2128-9588-6624-5100",
+    "norad_cat_id":59776.0,
+    "norad_follow_id":null,
+    "name":"OBJECT D",
+    "names":"2024-092D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-16T00:00:00Z",
+    "deployed":"2024-05-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-29T09:04:36.442502Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1zYqNk0IhYK58IV2FVEs4XYN3u-DfylX7Jv6qfv7GhZk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DAYJ-0946-5871-8218-4145",
+    "norad_cat_id":59809.0,
+    "norad_follow_id":null,
+    "name":"OBJECT K",
+    "names":"2024-092K",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-16T00:00:00Z",
+    "deployed":"2024-05-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-29T09:04:31.372539Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1flObD06jX_JPsX_BHyucEtHRFIjJ5kznXgJMz72iqyc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -14924,7 +14924,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ONSC-2128-9588-6624-5100"
   },
   {
     "name":"SITRO-AIS-54",
@@ -14935,7 +14935,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"SYEN-9282-8275-6947-6745"
   },
   {
     "name":"SITRO-AIS-55",
@@ -14957,7 +14957,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"DAYJ-0946-5871-8218-4145"
   },
   {
     "name":"skCUBE",
