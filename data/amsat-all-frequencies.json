@@ -2075,7 +2075,7 @@
     "beacon":"437.700",
     "mode":"1k2\/9k6\/19k2\/38k4 GFSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -2086,7 +2086,7 @@
     "beacon":"437.850",
     "mode":"1k2\/9k6\/19k2\/38k4 GFSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -2097,7 +2097,7 @@
     "beacon":"437.925",
     "mode":"1k2\/9k6\/19k2\/38k4 GFSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -3927,6 +3927,17 @@
     "satnogs_id":"KPZZ-0499-2351-6546-5973"
   },
   {
+    "name":"CosmoGirl-Sat",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.825\/437.120",
+    "beacon":"437.120",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":"JS1YOI",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"CO-55",
     "norad_id":"27844",
     "uplink":null,
@@ -5527,9 +5538,9 @@
     "uplink":"145 825",
     "downlink":"145 825\/437.120",
     "beacon":"437.120",
-    "mode":"4k8GMSK APRS CW",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":"JS1YOI",
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -6706,7 +6717,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":"JS1YNI",
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -14107,9 +14118,9 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.050",
     "beacon":"437.050",
-    "mode":"4k8GMSK APRS CW",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":"JG6YPC",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -14120,7 +14131,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":"JS1YNI",
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -18753,6 +18764,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"JHGM-7853-8293-9677-2181"
+  },
+  {
+    "name":"Wisseed-Sat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"WNISAT-1",

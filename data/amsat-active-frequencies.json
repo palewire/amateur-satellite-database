@@ -730,6 +730,16 @@
     "satnogs_id":"ZAVF-3403-5726-0559-1255"
   },
   {
+    "name":"CosmoGirl-Sat",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.825\/437.120",
+    "beacon":"437.120",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":"JS1YOI",
+    "satnogs_id":null
+  },
+  {
     "name":"CO-55",
     "norad_id":"27844",
     "uplink":null,
@@ -1060,6 +1070,16 @@
     "satnogs_id":"HKNJ-5808-9467-1239-6592"
   },
   {
+    "name":"EMMA",
+    "norad_id":null,
+    "uplink":"145 825",
+    "downlink":"145 825\/437.120",
+    "beacon":"437.120",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":"JS1YOI",
+    "satnogs_id":null
+  },
+  {
     "name":"ENSO",
     "norad_id":"58470",
     "uplink":null,
@@ -1308,6 +1328,16 @@
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YMX",
     "satnogs_id":"LZAR-9879-8329-7254-6929"
+  },
+  {
+    "name":"Gardens-03",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":"JS1YNI",
+    "satnogs_id":null
   },
   {
     "name":"GOMX-1",
@@ -2498,6 +2528,16 @@
     "mode":"1k2\/9k6* BPSK",
     "callsign":"ROSEY1",
     "satnogs_id":"LLCB-4532-4867-8038-3417"
+  },
+  {
+    "name":"SAKURA",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":"JS1YNI",
+    "satnogs_id":null
   },
   {
     "name":"SamSat-ION",
