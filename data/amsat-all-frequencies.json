@@ -2597,7 +2597,7 @@
   },
   {
     "name":"BRO-14",
-    "norad_id":null,
+    "norad_id":"60551",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -2608,7 +2608,7 @@
   },
   {
     "name":"BRO-15",
-    "norad_id":null,
+    "norad_id":"60553",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -10770,7 +10770,7 @@
   },
   {
     "name":"Nightjar",
-    "norad_id":null,
+    "norad_id":"60535",
     "uplink":null,
     "downlink":"435.350",
     "beacon":null,
@@ -11705,7 +11705,7 @@
   },
   {
     "name":"OreSat-0.5",
-    "norad_id":null,
+    "norad_id":"60528",
     "uplink":null,
     "downlink":"436.500",
     "beacon":null,
@@ -13036,7 +13036,7 @@
   },
   {
     "name":"QUBE",
-    "norad_id":null,
+    "norad_id":"60476",
     "uplink":null,
     "downlink":"435.600",
     "beacon":null,
@@ -17425,7 +17425,7 @@
   },
   {
     "name":"TORO",
-    "norad_id":null,
+    "norad_id":"60530",
     "uplink":null,
     "downlink":"435.410",
     "beacon":null,
