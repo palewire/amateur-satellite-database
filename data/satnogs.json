@@ -43925,8 +43925,8 @@
     "name":"QMSat",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-29T00:00:00Z",
     "launched":"2024-03-21T20:54:00Z",
     "deployed":"2024-04-18T17:55:00Z",
     "website":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=752",
@@ -43935,8 +43935,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-28T09:02:01.936211Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
+    "updated":"2024-08-31T07:56:11.161561Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=59596",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46602,12 +46602,12 @@
     "deployed":"2024-08-16T19:49:56Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"SN",
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.747815Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-08-31T09:04:18.458950Z",
+    "citation":"Add country of origin",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47913,8 +47913,8 @@
     "sat_id":"ONSC-2128-9588-6624-5100",
     "norad_cat_id":59776.0,
     "norad_follow_id":null,
-    "name":"OBJECT D",
-    "names":"2024-092D",
+    "name":"SITRO-AIS-53",
+    "names":"SC2341, 2024-092D, OBJECT D",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -47926,8 +47926,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-29T09:04:36.442502Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1zYqNk0IhYK58IV2FVEs4XYN3u-DfylX7Jv6qfv7GhZk\/edit?usp=sharing",
+    "updated":"2024-08-31T07:55:51.325330Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/10137344\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47937,8 +47937,8 @@
     "sat_id":"DAYJ-0946-5871-8218-4145",
     "norad_cat_id":59809.0,
     "norad_follow_id":null,
-    "name":"OBJECT K",
-    "names":"2024-092K",
+    "name":"SITRO-AIS-55",
+    "names":"SC2343",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -47950,8 +47950,56 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-29T09:04:31.372539Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1flObD06jX_JPsX_BHyucEtHRFIjJ5kznXgJMz72iqyc\/edit?usp=sharing",
+    "updated":"2024-08-31T07:55:46.166048Z",
+    "citation":"Based on https:\/\/network.satnogs.org\/observations\/10137281\/ obs en decoding",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GVEB-5648-5091-5192-9284",
+    "norad_cat_id":59917.0,
+    "norad_follow_id":null,
+    "name":"OBJECT A",
+    "names":"2024-105A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-30T00:00:00Z",
+    "deployed":"2024-05-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-31T07:57:54.808453Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1AP9yDThQX0xDmeAs22QaJ7wYwNc5s4UdilQmISzK7eA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JSNX-1006-2190-3752-0693",
+    "norad_cat_id":59918.0,
+    "norad_follow_id":null,
+    "name":"OBJECT B",
+    "names":"2024-105B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-30T00:00:00Z",
+    "deployed":"2024-05-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-08-31T07:57:16.680368Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ecXdn2Upiw_jnsAG0YFWkEhmQMG_APbduIksoNMn2_U\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
