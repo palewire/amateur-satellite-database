@@ -45628,7 +45628,7 @@
   {
     "sat_id":"DKCD-1609-0567-7056-3922",
     "norad_cat_id":98867.0,
-    "norad_follow_id":60528.0,
+    "norad_follow_id":60525.0,
     "name":"ORESAT0.5",
     "names":"",
     "image":"satellites\/oresat0_5.png",
@@ -45644,8 +45644,8 @@
         "decoder":"oresat05"
       }
     ],
-    "updated":"2024-08-30T02:59:31.911962Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-08-31T18:46:26.306156Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46568,7 +46568,7 @@
   {
     "sat_id":"OZFM-4525-5507-9609-6820",
     "norad_cat_id":98854.0,
-    "norad_follow_id":60525.0,
+    "norad_follow_id":60528.0,
     "name":"ERNST",
     "names":"",
     "image":"satellites\/ernst_rendering_white.png",
@@ -46582,8 +46582,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.771432Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-08-31T18:47:02.331066Z",
+    "citation":"Network Observations and PE0SAT analysis",
     "is_frequency_violator":false,
     "associated_satellites":[
 
