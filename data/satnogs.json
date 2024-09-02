@@ -31070,7 +31070,9 @@
     "operator":"None",
     "countries":"TW",
     "telemetries":[
-
+      {
+        "decoder":"ax25monitor"
+      }
     ],
     "updated":"2023-05-28T09:02:06.016694Z",
     "citation":"space-track.org",
@@ -40848,7 +40850,7 @@
     "sat_id":"LFHI-3189-2508-4273-7644",
     "norad_cat_id":58465.0,
     "norad_follow_id":null,
-    "name":"Object D",
+    "name":"Bane",
     "names":"2023-185D",
     "image":"",
     "status":"alive",
@@ -40861,8 +40863,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-10T11:21:33.050571Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1Kzw32UGZrihpcFBUUsKnenetodZuaUCo0kx-vFygJJE\/edit?usp=sharing",
+    "updated":"2024-09-01T17:53:06.877297Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48000,6 +48002,30 @@
     ],
     "updated":"2024-08-31T07:57:16.680368Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1ecXdn2Upiw_jnsAG0YFWkEhmQMG_APbduIksoNMn2_U\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AGZY-7194-2973-8065-7973",
+    "norad_cat_id":60468.0,
+    "norad_follow_id":null,
+    "name":"Unknown_3_T11",
+    "names":"2024-149A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-09-01T16:45:31.691750Z",
+    "citation":"Change naming",
     "is_frequency_violator":false,
     "associated_satellites":[
 
