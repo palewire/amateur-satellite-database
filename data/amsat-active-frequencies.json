@@ -10,16 +10,6 @@
     "satnogs_id":"JHGM-7853-8293-9677-2181"
   },
   {
-    "name":"Aalto-1",
-    "norad_id":"42775",
-    "uplink":null,
-    "downlink":"437.220\/2402.000",
-    "beacon":"437.220",
-    "mode":"9600bps GFSK CW",
-    "callsign":"OH2A1S",
-    "satnogs_id":"MTTJ-9379-5566-8860-4453"
-  },
-  {
     "name":"AAUSAT-2",
     "norad_id":"32788",
     "uplink":null,
@@ -735,7 +725,7 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.120",
     "beacon":"437.120",
-    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "mode":"1k2AFSK 4k8GMSK APRS CW*",
     "callsign":"JS1YOI",
     "satnogs_id":null
   },
@@ -1075,7 +1065,7 @@
     "uplink":"145 825",
     "downlink":"145 825\/437.120",
     "beacon":"437.120",
-    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "mode":"1k2AFSK 4k8GMSK APRS CW*",
     "callsign":"JS1YOI",
     "satnogs_id":null
   },
@@ -1215,7 +1205,7 @@
     "uplink":"145.900-146.000",
     "downlink":"435.900-435.800",
     "beacon":"435.795",
-    "mode":"SSB* CW DigiTalker",
+    "mode":"SSB CW* DigiTalker",
     "callsign":null,
     "satnogs_id":"XTKP-9404-9174-4088-2406"
   },
@@ -1320,22 +1310,12 @@
     "satnogs_id":"BYRQ-8084-9850-7997-7193"
   },
   {
-    "name":"Gardens-02",
-    "norad_id":"59508",
-    "uplink":"145.825",
-    "downlink":"145.825\/437.375",
-    "beacon":null,
-    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
-    "callsign":"JS1YMX",
-    "satnogs_id":"LZAR-9879-8329-7254-6929"
-  },
-  {
     "name":"Gardens-03",
     "norad_id":null,
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
-    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YNI",
     "satnogs_id":null
   },
@@ -1695,7 +1675,7 @@
     "uplink":"145.990",
     "downlink":"437.800",
     "beacon":null,
-    "mode":"FM* tone 67.0Hz 9k6*GFSK",
+    "mode":"FM* tone 67.0Hz 9k6 GFSK",
     "callsign":"NA1SS",
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
   },
@@ -1748,16 +1728,6 @@
     "mode":"1200bps GMSK",
     "callsign":"KAFSAT-1",
     "satnogs_id":"APQS-1800-5981-4551-3856"
-  },
-  {
-    "name":"KASHIWA",
-    "norad_id":"59508",
-    "uplink":"145.825",
-    "downlink":"145.825\/437.375",
-    "beacon":null,
-    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
-    "callsign":"JS1YMX",
-    "satnogs_id":"LZAR-9879-8329-7254-6929"
   },
   {
     "name":"KILICSAT",
@@ -2535,7 +2505,7 @@
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
-    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YNI",
     "satnogs_id":null
   },
@@ -3508,16 +3478,6 @@
     "mode":"1k2\/9k6* FSK",
     "callsign":null,
     "satnogs_id":"JHGM-7853-8293-9677-2181"
-  },
-  {
-    "name":"Xiaoxiang-2",
-    "norad_id":"43155",
-    "uplink":"435.350\/2403.000\/5653.000",
-    "downlink":"435.350*\/2403.000\/5833.000",
-    "beacon":null,
-    "mode":"9k6 GMSK\/5Mbps OFDM",
-    "callsign":null,
-    "satnogs_id":"RQIQ-3113-9381-2241-7916"
   },
   {
     "name":"Xiaoxiang-4",

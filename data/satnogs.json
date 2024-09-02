@@ -28653,8 +28653,8 @@
     "name":"RoseyCubesat-1",
     "names":"",
     "image":"satellites\/satellite-for-satnogs.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-08-31T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":"2023-04-15T07:52:00Z",
     "website":"http:\/\/www.orbitalsolutions.mc\/our-satellites\/",
@@ -28665,8 +28665,8 @@
         "decoder":"roseycubesat1"
       }
     ],
-    "updated":"2023-04-23T15:31:36.180056Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56212\/2023-04-22T23%3A13%3A42_7447968_56212_23054AL_0-OBJECT-AL_0.02145676222221482_B_r24.0_f1.0.png",
+    "updated":"2024-09-02T06:55:42.757438Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
       "WYOB-9044-3878-7075-3971"
@@ -31060,7 +31060,7 @@
     "norad_cat_id":56221.0,
     "norad_follow_id":null,
     "name":"IRIS-C",
-    "names":"",
+    "names":"BN0IRC",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -31074,8 +31074,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2023-05-28T09:02:06.016694Z",
-    "citation":"space-track.org",
+    "updated":"2024-09-02T05:34:15.834071Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":true,
     "associated_satellites":[
       "STBN-4134-9419-3628-9950"
@@ -48026,6 +48026,30 @@
     ],
     "updated":"2024-09-01T16:45:31.691750Z",
     "citation":"Change naming",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HMLT-0173-5504-1396-8170",
+    "norad_cat_id":60506.0,
+    "norad_follow_id":null,
+    "name":"OBJECT AQ",
+    "names":"2024-149AQ",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-08-16T00:00:00Z",
+    "deployed":"2024-08-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DZ",
+    "telemetries":[
+
+    ],
+    "updated":"2024-09-02T06:50:51.095079Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1MMqb0JtHk7GEZ3uSe0qzceLItEsWncebpqHiTkZgZmQ\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
