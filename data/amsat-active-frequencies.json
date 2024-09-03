@@ -1090,16 +1090,6 @@
     "satnogs_id":"NLUY-5633-4354-5527-8129"
   },
   {
-    "name":"EXO-0",
-    "norad_id":"59175",
-    "uplink":null,
-    "downlink":"401.360",
-    "beacon":null,
-    "mode":"4800bps GMSK",
-    "callsign":"EXO000",
-    "satnogs_id":"TCKS-3322-7921-4714-6406"
-  },
-  {
     "name":"Es'Hail-2",
     "norad_id":"43700",
     "uplink":"2400.050-2400.300",
@@ -1108,6 +1098,16 @@
     "mode":"Linear  transponder",
     "callsign":null,
     "satnogs_id":"LBQI-9987-6865-3928-8294"
+  },
+  {
+    "name":"EXO-0",
+    "norad_id":"59175",
+    "uplink":null,
+    "downlink":"401.360",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"EXO000",
+    "satnogs_id":"TCKS-3322-7921-4714-6406"
   },
   {
     "name":"FossaSat-2E1",
@@ -2251,7 +2251,7 @@
   },
   {
     "name":"OreSat-0.5",
-    "norad_id":"60528",
+    "norad_id":"60525",
     "uplink":null,
     "downlink":"436.500",
     "beacon":null,

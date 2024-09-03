@@ -48054,5 +48054,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RBPP-4436-6355-8978-8861",
+    "norad_cat_id":59778.0,
+    "norad_follow_id":null,
+    "name":"Object F",
+    "names":"2024-092F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-16T00:00:00Z",
+    "deployed":"2024-05-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-09-02T23:00:06.073330Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1XZF_1iwLcWmRgqTj8gLjebuSEMZ8A-JECiVgs12uaCo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
