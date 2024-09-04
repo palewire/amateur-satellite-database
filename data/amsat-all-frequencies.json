@@ -3845,7 +3845,7 @@
     "downlink":"401.510",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
+    "callsign":"CNT001",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -3856,7 +3856,7 @@
     "downlink":"401.520",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
+    "callsign":"CNT002",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -3867,7 +3867,7 @@
     "downlink":"401.530",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
+    "callsign":"CNT003",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -3878,7 +3878,7 @@
     "downlink":"401.540",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
+    "callsign":"CNT004",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -3983,7 +3983,7 @@
   },
   {
     "name":"CosmoGirl-Sat",
-    "norad_id":null,
+    "norad_id":"60953",
     "uplink":"145.825",
     "downlink":"145.825\/437.120",
     "beacon":"437.120",
@@ -4494,7 +4494,7 @@
     "downlink":"400.650",
     "beacon":null,
     "mode":"1200bps BPSK",
-    "callsign":null,
+    "callsign":"VK2USY",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -5600,7 +5600,7 @@
   },
   {
     "name":"EMMA",
-    "norad_id":null,
+    "norad_id":"60953",
     "uplink":"145 825",
     "downlink":"145 825\/437.120",
     "beacon":"437.120",
@@ -6799,7 +6799,7 @@
   },
   {
     "name":"Gardens-03",
-    "norad_id":null,
+    "norad_id":"60954",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -12897,8 +12897,8 @@
     "uplink":null,
     "downlink":"401.205",
     "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":null,
+    "mode":"9600bps GFSK",
+    "callsign":"PTRF1N",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -14235,7 +14235,7 @@
   },
   {
     "name":"SaganSat0",
-    "norad_id":null,
+    "norad_id":"60952",
     "uplink":"145.825",
     "downlink":"145.825\/437.050",
     "beacon":"437.050",
@@ -14246,7 +14246,7 @@
   },
   {
     "name":"SAKURA",
-    "norad_id":null,
+    "norad_id":"60954",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -14405,7 +14405,7 @@
     "downlink":"400.425",
     "beacon":null,
     "mode":"2400bps BPSK",
-    "callsign":null,
+    "callsign":"BN0TR2",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -18849,7 +18849,7 @@
     "downlink":"400.650",
     "beacon":null,
     "mode":"1200bps BPSK",
-    "callsign":null,
+    "callsign":"VK2USY",
     "status":"unknown",
     "satnogs_id":null
   },
