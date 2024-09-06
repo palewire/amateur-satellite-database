@@ -2080,7 +2080,7 @@
   },
   {
     "name":"Binar-2",
-    "norad_id":null,
+    "norad_id":"60956",
     "uplink":null,
     "downlink":"437.700",
     "beacon":"437.700",
@@ -2091,7 +2091,7 @@
   },
   {
     "name":"Binar-3",
-    "norad_id":null,
+    "norad_id":"60957",
     "uplink":null,
     "downlink":"437.850",
     "beacon":"437.850",
@@ -2102,7 +2102,7 @@
   },
   {
     "name":"Binar-4",
-    "norad_id":null,
+    "norad_id":"60952",
     "uplink":null,
     "downlink":"437.925",
     "beacon":"437.925",
@@ -14235,7 +14235,7 @@
   },
   {
     "name":"SaganSat0",
-    "norad_id":"60952",
+    "norad_id":"60958",
     "uplink":"145.825",
     "downlink":"145.825\/437.050",
     "beacon":"437.050",
@@ -18921,7 +18921,7 @@
   },
   {
     "name":"Wisseed-Sat",
-    "norad_id":null,
+    "norad_id":"60955",
     "uplink":null,
     "downlink":null,
     "beacon":null,

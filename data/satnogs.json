@@ -46546,7 +46546,7 @@
   {
     "sat_id":"VUVA-8047-1682-5226-1102",
     "norad_cat_id":98856.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60508.0,
     "name":"EagleEye",
     "names":"",
     "image":"",
@@ -46556,12 +46556,12 @@
     "deployed":"2024-08-16T20:13:16Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"PL",
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.699755Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-09-06T10:06:09.440847Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
