@@ -46764,7 +46764,7 @@
     "norad_cat_id":98847.0,
     "norad_follow_id":60476.0,
     "name":"QUBE",
-    "names":"DP2TUD",
+    "names":"DP2QU",
     "image":"satellites\/Zentrum_f\u00fcr_Telematik_W\u00fcrzburg_221111_Julian_Schulz_015.jpg",
     "status":"alive",
     "decayed":null,
@@ -46776,8 +46776,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:32.033356Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-09-05T18:36:09.765651Z",
+    "citation":"Alternate name changed to DP2QU",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -47745,8 +47745,8 @@
   },
   {
     "sat_id":"UKHU-7340-5378-6404-2316",
-    "norad_cat_id":98811.0,
-    "norad_follow_id":60953.0,
+    "norad_cat_id":60953.0,
+    "norad_follow_id":null,
     "name":"CosmoGirl-Sat",
     "names":"JS1YOI, Emma, \u30a8\u30de",
     "image":"",
@@ -47760,8 +47760,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-04T03:57:59.603140Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/84",
+    "updated":"2024-09-06T00:06:51.099721Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/104",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47770,7 +47770,7 @@
   {
     "sat_id":"HOPN-7700-8404-6589-5258",
     "norad_cat_id":98810.0,
-    "norad_follow_id":60952.0,
+    "norad_follow_id":60958.0,
     "name":"SaganSat0",
     "names":"JG6YPC",
     "image":"satellites\/ham_competition_-_CW.jpg",
@@ -47784,8 +47784,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-04T03:58:04.876988Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/84",
+    "updated":"2024-09-06T00:07:59.836479Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/104",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47842,7 +47842,7 @@
   {
     "sat_id":"WJHX-1326-6381-8250-7903",
     "norad_cat_id":98806.0,
-    "norad_follow_id":60958.0,
+    "norad_follow_id":60952.0,
     "name":"Binar-4",
     "names":"",
     "image":"satellites\/Binar-4.JPG",
@@ -47856,8 +47856,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-05T04:52:32.585401Z",
-    "citation":"Binar Space Program https:\/\/www.binarspace.com\/binar-234-567-missions",
+    "updated":"2024-09-06T00:07:39.865624Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/104",
     "is_frequency_violator":false,
     "associated_satellites":[
 
