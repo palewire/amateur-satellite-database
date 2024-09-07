@@ -670,6 +670,46 @@
     "satnogs_id":"PBLF-9792-3382-3546-2243"
   },
   {
+    "name":"ConnectaIoT-1",
+    "norad_id":"60472",
+    "uplink":null,
+    "downlink":"401.510",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT001",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-2",
+    "norad_id":"60522",
+    "uplink":null,
+    "downlink":"401.520",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT002",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-3",
+    "norad_id":"60475",
+    "uplink":null,
+    "downlink":"401.530",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT003",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-4",
+    "norad_id":"60524",
+    "uplink":null,
+    "downlink":"401.540",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT004",
+    "satnogs_id":null
+  },
+  {
     "name":"Connecta-T1_1",
     "norad_id":"52739",
     "uplink":null,
@@ -2488,16 +2528,6 @@
     "mode":"9600bps FSK",
     "callsign":"FX6FRD",
     "satnogs_id":"AEYC-6866-6455-5236-7157"
-  },
-  {
-    "name":"RoseyCubesat-1",
-    "norad_id":"56212",
-    "uplink":"145.850",
-    "downlink":"436.825",
-    "beacon":null,
-    "mode":"1k2\/9k6* BPSK",
-    "callsign":"ROSEY1",
-    "satnogs_id":"LLCB-4532-4867-8038-3417"
   },
   {
     "name":"SAKURA",

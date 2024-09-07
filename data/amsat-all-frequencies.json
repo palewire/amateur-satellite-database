@@ -3846,7 +3846,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT001",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3857,7 +3857,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT002",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3868,7 +3868,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT003",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3879,7 +3879,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT004",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -13691,7 +13691,7 @@
     "beacon":null,
     "mode":"1k2\/9k6* BPSK",
     "callsign":"ROSEY1",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"LLCB-4532-4867-8038-3417"
   },
   {
@@ -18058,7 +18058,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"VSNT-1425-8162-0510-1089"
   },
   {
@@ -18080,7 +18080,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"XMJY-8759-6395-2913-8943"
   },
   {
@@ -18091,7 +18091,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
