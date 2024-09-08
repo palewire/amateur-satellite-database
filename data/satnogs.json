@@ -19937,10 +19937,10 @@
     "name":"SelfieSat",
     "names":"",
     "image":"satellites\/selfiesat.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-06T00:00:00Z",
     "launched":"2022-05-25T18:35:00Z",
-    "deployed":null,
+    "deployed":"2022-08-29T00:00:00Z",
     "website":"https:\/\/orbitntnu.com\/",
     "operator":"None",
     "countries":"NO",
@@ -19949,8 +19949,8 @@
         "decoder":"selfiesat"
       }
     ],
-    "updated":"2022-10-08T13:14:07.212767Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-53951\/2022-10-08T05%3A18%3A15_6583289_53951_22057BA_0-SELFIESAT_0.2698459444444552_B_r29.0_f0.0.png",
+    "updated":"2024-09-08T09:22:57.001500Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?NAME=selfiesat&PAYLOAD=1&MAX=500",
     "is_frequency_violator":true,
     "associated_satellites":[
       "UFLO-4250-4878-3191-5128"
