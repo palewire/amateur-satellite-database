@@ -30380,8 +30380,8 @@
   },
   {
     "sat_id":"JFWC-2606-2022-6839-3095",
-    "norad_cat_id":99196.0,
-    "norad_follow_id":60954.0,
+    "norad_cat_id":60954.0,
+    "norad_follow_id":null,
     "name":"Sakura",
     "names":"\u685c, Gardens 03",
     "image":"satellites\/SKR_\u5199\u771f.JPG",
@@ -30395,8 +30395,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-04T04:05:21.666974Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/84",
+    "updated":"2024-09-10T05:53:33.728750Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/116",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47793,8 +47793,8 @@
   },
   {
     "sat_id":"FACZ-7987-8249-5385-5279",
-    "norad_cat_id":98808.0,
-    "norad_follow_id":60956.0,
+    "norad_cat_id":60956.0,
+    "norad_follow_id":null,
     "name":"Binar-2",
     "names":"",
     "image":"satellites\/Binar-2.JPG",
@@ -47808,17 +47808,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-05T04:52:41.807388Z",
-    "citation":"Binar Space Program https:\/\/www.binarspace.com\/binar-234-567-missions",
+    "updated":"2024-09-10T05:53:38.130558Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/116",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "LOHG-6386-3229-4933-4671"
     ]
   },
   {
     "sat_id":"EHBA-7491-4486-7496-1223",
-    "norad_cat_id":98807.0,
-    "norad_follow_id":60957.0,
+    "norad_cat_id":60957.0,
+    "norad_follow_id":null,
     "name":"Binar-3",
     "names":"",
     "image":"satellites\/Binar-3.JPG",
@@ -47832,8 +47832,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-05T04:52:36.289720Z",
-    "citation":"Binar Space Program https:\/\/www.binarspace.com\/binar-234-567-missions",
+    "updated":"2024-09-10T05:53:48.381786Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/116",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47841,8 +47841,8 @@
   },
   {
     "sat_id":"WJHX-1326-6381-8250-7903",
-    "norad_cat_id":98806.0,
-    "norad_follow_id":60952.0,
+    "norad_cat_id":60952.0,
+    "norad_follow_id":null,
     "name":"Binar-4",
     "names":"",
     "image":"satellites\/Binar-4.JPG",
@@ -47856,8 +47856,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-06T00:07:39.865624Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/104",
+    "updated":"2024-09-10T05:53:53.074363Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/116",
     "is_frequency_violator":false,
     "associated_satellites":[
 

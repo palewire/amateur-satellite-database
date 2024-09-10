@@ -1357,7 +1357,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YNI",
-    "satnogs_id":null
+    "satnogs_id":"JFWC-2606-2022-6839-3095"
   },
   {
     "name":"GOMX-1",
@@ -2537,7 +2537,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YNI",
-    "satnogs_id":null
+    "satnogs_id":"JFWC-2606-2022-6839-3095"
   },
   {
     "name":"SamSat-ION",

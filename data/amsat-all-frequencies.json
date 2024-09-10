@@ -2087,7 +2087,7 @@
     "mode":"1k2\/9k6*\/19k2\/38k4 GFSK CW",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"FACZ-7987-8249-5385-5279"
   },
   {
     "name":"Binar-3",
@@ -2098,7 +2098,7 @@
     "mode":"1k2\/9k6*\/19k2\/38k4 GFSK CW",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"EHBA-7491-4486-7496-1223"
   },
   {
     "name":"Binar-4",
@@ -2109,7 +2109,7 @@
     "mode":"1k2\/9k6*\/19k2\/38k4 GFSK CW",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"WJHX-1326-6381-8250-7903"
   },
   {
     "name":"Bion-M1",
@@ -6806,7 +6806,7 @@
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YNI",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"JFWC-2606-2022-6839-3095"
   },
   {
     "name":"GASPACS",
@@ -14253,7 +14253,7 @@
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YNI",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"JFWC-2606-2022-6839-3095"
   },
   {
     "name":"SALSAT",
