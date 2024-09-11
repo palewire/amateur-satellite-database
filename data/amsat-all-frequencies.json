@@ -4873,6 +4873,17 @@
     "satnogs_id":"MUJZ-6655-6182-7273-3855"
   },
   {
+    "name":"Deimos",
+    "norad_id":"60526",
+    "uplink":null,
+    "downlink":"400.300",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"DEKART",
     "norad_id":"46493",
     "uplink":null,
@@ -10884,7 +10895,7 @@
     "uplink":null,
     "downlink":"435.350",
     "beacon":null,
-    "mode":"9600bps GFSK",
+    "mode":"4800bps GFSK",
     "callsign":"XX0UHF",
     "status":"active",
     "satnogs_id":null

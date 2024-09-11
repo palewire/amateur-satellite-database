@@ -2185,7 +2185,7 @@
     "uplink":null,
     "downlink":"435.350",
     "beacon":null,
-    "mode":"9600bps GFSK",
+    "mode":"4800bps GFSK",
     "callsign":"XX0UHF",
     "satnogs_id":null
   },
