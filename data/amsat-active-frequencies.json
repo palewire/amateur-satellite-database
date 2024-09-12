@@ -3040,16 +3040,6 @@
     "satnogs_id":"QFRO-8807-8086-2793-1420"
   },
   {
-    "name":"SR-0",
-    "norad_id":"60455",
-    "uplink":null,
-    "downlink":"437.400",
-    "beacon":null,
-    "mode":"1k2*\/9k6 FSK LoRa",
-    "callsign":"SPRKD0",
-    "satnogs_id":"WZIT-9333-7102-4860-3049"
-  },
-  {
     "name":"SSS-2B",
     "norad_id":"56184",
     "uplink":null,

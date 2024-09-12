@@ -15825,7 +15825,7 @@
     "beacon":null,
     "mode":"1k2*\/9k6 FSK LoRa",
     "callsign":"SPRKD0",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"WZIT-9333-7102-4860-3049"
   },
   {
