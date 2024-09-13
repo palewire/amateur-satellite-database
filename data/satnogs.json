@@ -45099,7 +45099,7 @@
   {
     "sat_id":"FAWS-4397-4381-8570-0757",
     "norad_cat_id":98890.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60556.0,
     "name":"Kanyini",
     "names":"SASAT1",
     "image":"satellites\/Kanyini.png",
@@ -45113,8 +45113,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.409355Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-09-13T04:58:49.103926Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/146",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46786,7 +46786,7 @@
   {
     "sat_id":"LWDE-7403-4643-6587-2546",
     "norad_cat_id":98846.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60573.0,
     "name":"ION SCV-012",
     "names":"",
     "image":"",
@@ -46800,8 +46800,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:07.067966Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-09-13T07:47:30.214597Z",
+    "citation":"Network Observations and ikhnos analysis",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46834,7 +46834,7 @@
   {
     "sat_id":"UOLM-4510-8859-5501-3189",
     "norad_cat_id":98844.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60565.0,
     "name":"PTD-4",
     "names":"",
     "image":"",
@@ -46848,8 +46848,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.754349Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-09-13T07:47:05.885391Z",
+    "citation":"Network Observations and ikhnos analysis",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46930,7 +46930,7 @@
   {
     "sat_id":"EEZS-2420-0670-7912-2860",
     "norad_cat_id":98840.0,
-    "norad_follow_id":60503.0,
+    "norad_follow_id":60504.0,
     "name":"LUR-1",
     "names":"",
     "image":"",
@@ -46944,8 +46944,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.629663Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-09-13T07:48:11.400758Z",
+    "citation":"Network Observations and ikhnos analysis",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48082,7 +48082,7 @@
   {
     "sat_id":"ZLIE-7804-8915-4694-4659",
     "norad_cat_id":98805.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60580.0,
     "name":"Sedna-1",
     "names":"",
     "image":"",
@@ -48096,8 +48096,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-11T05:50:13.566360Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58043.0",
+    "updated":"2024-09-13T05:31:51.547992Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48106,7 +48106,7 @@
   {
     "sat_id":"SXNP-3240-4340-9235-8383",
     "norad_cat_id":98804.0,
-    "norad_follow_id":61045.0,
+    "norad_follow_id":61047.0,
     "name":"Bluebird 01",
     "names":"",
     "image":"",
@@ -48120,9 +48120,9 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T19:45:25.699793Z",
-    "citation":"Ikhnos on Network observations by PE0SAT",
-    "is_frequency_violator":true,
+    "updated":"2024-09-13T07:51:54.952083Z",
+    "citation":"Network Observations and ikhnos analysis",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -48130,7 +48130,7 @@
   {
     "sat_id":"EXOH-8376-4648-5267-7738",
     "norad_cat_id":98803.0,
-    "norad_follow_id":61048.0,
+    "norad_follow_id":61049.0,
     "name":"Bluebird 02",
     "names":"",
     "image":"",
@@ -48144,9 +48144,9 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T19:45:26.410872Z",
-    "citation":"Ikhnos on Network observations by PE0SAT",
-    "is_frequency_violator":true,
+    "updated":"2024-09-13T07:52:48.823206Z",
+    "citation":"Network Observations and ikhnos analysis",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -48154,7 +48154,7 @@
   {
     "sat_id":"WFLL-5358-2469-8463-2991",
     "norad_cat_id":98802.0,
-    "norad_follow_id":61047.0,
+    "norad_follow_id":61045.0,
     "name":"Bluebird 03",
     "names":"",
     "image":"",
@@ -48168,9 +48168,9 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T19:45:27.069022Z",
-    "citation":"Ikhnos on Network observations by PE0SAT",
-    "is_frequency_violator":true,
+    "updated":"2024-09-13T07:54:01.047483Z",
+    "citation":"Network Observations and ikhnos analysis",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -48178,7 +48178,7 @@
   {
     "sat_id":"GBZQ-8100-0439-9888-4769",
     "norad_cat_id":98801.0,
-    "norad_follow_id":61049.0,
+    "norad_follow_id":61048.0,
     "name":"Bluebird 04",
     "names":"",
     "image":"",
@@ -48192,8 +48192,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T19:45:27.785741Z",
-    "citation":"Ikhnos on Network observations by PE0SAT",
+    "updated":"2024-09-13T07:55:18.330954Z",
+    "citation":"Network Observations and ikhnos analysis",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -48218,7 +48218,7 @@
     ],
     "updated":"2024-09-12T19:45:28.570102Z",
     "citation":"Ikhnos on Network observations by PE0SAT",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
