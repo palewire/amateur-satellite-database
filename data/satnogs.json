@@ -46666,7 +46666,7 @@
   {
     "sat_id":"RUWA-6033-4706-4091-9713",
     "norad_cat_id":98850.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60536.0,
     "name":"LEMUR-2-MARHISYAM",
     "names":"",
     "image":"",
@@ -46680,8 +46680,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.897605Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-09-12T19:26:37.397119Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47482,7 +47482,7 @@
   {
     "sat_id":"FJKJ-4021-1559-4514-2797",
     "norad_cat_id":98817.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60533.0,
     "name":"LEMUR-2-STELLA",
     "names":"",
     "image":"",
@@ -47496,8 +47496,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.390594Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-09-12T19:26:17.517080Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47506,7 +47506,7 @@
   {
     "sat_id":"GHCA-9755-8024-7326-7161",
     "norad_cat_id":98816.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60471.0,
     "name":"LEMUR-2-TOMATOKECHUP",
     "names":"",
     "image":"",
@@ -47520,8 +47520,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.314206Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-09-12T19:25:40.854312Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48106,7 +48106,7 @@
   {
     "sat_id":"SXNP-3240-4340-9235-8383",
     "norad_cat_id":98804.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61045.0,
     "name":"Bluebird 01",
     "names":"",
     "image":"",
@@ -48120,9 +48120,9 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T10:45:48.998597Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56966.0",
-    "is_frequency_violator":false,
+    "updated":"2024-09-12T19:45:25.699793Z",
+    "citation":"Ikhnos on Network observations by PE0SAT",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -48130,7 +48130,7 @@
   {
     "sat_id":"EXOH-8376-4648-5267-7738",
     "norad_cat_id":98803.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61048.0,
     "name":"Bluebird 02",
     "names":"",
     "image":"",
@@ -48144,9 +48144,9 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T10:45:48.620963Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56966.0",
-    "is_frequency_violator":false,
+    "updated":"2024-09-12T19:45:26.410872Z",
+    "citation":"Ikhnos on Network observations by PE0SAT",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -48154,7 +48154,7 @@
   {
     "sat_id":"WFLL-5358-2469-8463-2991",
     "norad_cat_id":98802.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61047.0,
     "name":"Bluebird 03",
     "names":"",
     "image":"",
@@ -48168,9 +48168,9 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T10:45:48.099935Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56966.0",
-    "is_frequency_violator":false,
+    "updated":"2024-09-12T19:45:27.069022Z",
+    "citation":"Ikhnos on Network observations by PE0SAT",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -48178,7 +48178,7 @@
   {
     "sat_id":"GBZQ-8100-0439-9888-4769",
     "norad_cat_id":98801.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61049.0,
     "name":"Bluebird 04",
     "names":"",
     "image":"",
@@ -48192,9 +48192,9 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T10:45:47.632190Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56966.0",
-    "is_frequency_violator":false,
+    "updated":"2024-09-12T19:45:27.785741Z",
+    "citation":"Ikhnos on Network observations by PE0SAT",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -48202,7 +48202,7 @@
   {
     "sat_id":"XINJ-5605-6217-4155-4529",
     "norad_cat_id":98800.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61046.0,
     "name":"Bluebird 05",
     "names":"",
     "image":"",
@@ -48216,9 +48216,9 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T10:45:47.255436Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=56966.0",
-    "is_frequency_violator":false,
+    "updated":"2024-09-12T19:45:28.570102Z",
+    "citation":"Ikhnos on Network observations by PE0SAT",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
