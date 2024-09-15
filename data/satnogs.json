@@ -48106,7 +48106,7 @@
   {
     "sat_id":"SXNP-3240-4340-9235-8383",
     "norad_cat_id":98804.0,
-    "norad_follow_id":61047.0,
+    "norad_follow_id":61046.0,
     "name":"Bluebird 01",
     "names":"",
     "image":"",
@@ -48120,8 +48120,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-13T07:51:54.952083Z",
-    "citation":"Network Observations and ikhnos analysis",
+    "updated":"2024-09-15T09:14:32.523982Z",
+    "citation":"ikhnos check",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48202,7 +48202,7 @@
   {
     "sat_id":"XINJ-5605-6217-4155-4529",
     "norad_cat_id":98800.0,
-    "norad_follow_id":61046.0,
+    "norad_follow_id":61047.0,
     "name":"Bluebird 05",
     "names":"",
     "image":"",
@@ -48216,8 +48216,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T19:45:28.570102Z",
-    "citation":"Ikhnos on Network observations by PE0SAT",
+    "updated":"2024-09-15T09:14:44.936597Z",
+    "citation":"ikhnos check",
     "is_frequency_violator":false,
     "associated_satellites":[
 
