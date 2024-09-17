@@ -1,5 +1,5 @@
 sat_id,norad_cat_id,norad_follow_id,name,names,image,status,decayed,launched,deployed,website,operator,countries,telemetries,updated,citation,is_frequency_violator,associated_satellites
-SCHX-0895-2361-9925-0309,965.0,,TRANSIT 5B-5,OPS 6582,satellites/transit-o__1.jpg,alive,,1964-12-13T00:00:00Z,,,None,US,[],2022-08-01T06:47:53.992153Z,https://github.com/happysat/Deadsat#1,False,[]
+SCHX-0895-2361-9925-0309,965.0,,TRANSIT 5B-5,OPS 6582,satellites/transit-o__1.jpg,alive,,1964-12-13T00:00:00Z,,,None,US,[],2024-09-16T18:41:03.363197Z,https://secwww.jhuapl.edu/techdigest/Content/techdigest/pdf/V05-N04/05-04-Danchik.pdf https://www.satellitenwelt.de/transit_5b-5.htm,False,[]
 AMOM-6643-5608-9156-4431,1002.0,,LES-1,Lincoln Experimental Satellite 1,satellites/LES1-Star13A-Kick-Motor.jpg,alive,,1965-02-11T00:00:00Z,,,None,US,[],2022-08-01T18:46:19.317207Z,https://github.com/happysat/Deadsat#23,False,[]
 KEFJ-8497-6394-9368-1937,1291.0,,SOLRAD-7B,,,alive,,1965-03-09T00:00:00Z,,,None,US,[],2022-08-01T18:44:58.681317Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 FBFQ-2056-7966-4855-0749,1315.0,,SECOR 4,EGRS 4,,alive,,1965-04-03T00:00:00Z,,https://en.wikipedia.org/wiki/SECOR,None,US,[],2022-08-01T16:44:53.958027Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
