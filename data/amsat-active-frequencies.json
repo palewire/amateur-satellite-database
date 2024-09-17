@@ -1601,7 +1601,7 @@
   },
   {
     "name":"ION-SCV-012",
-    "norad_id":null,
+    "norad_id":"60573",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,

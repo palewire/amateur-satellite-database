@@ -2354,6 +2354,61 @@
     "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
+    "name":"BlueBird-01",
+    "norad_id":"61046",
+    "uplink":null,
+    "downlink":"430.500",
+    "beacon":null,
+    "mode":"2400bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"BlueBird-02",
+    "norad_id":"61049",
+    "uplink":null,
+    "downlink":"432.300",
+    "beacon":null,
+    "mode":"2400bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"BlueBird-03",
+    "norad_id":"61045",
+    "uplink":null,
+    "downlink":"434.100",
+    "beacon":null,
+    "mode":"2400bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"BlueBird-04",
+    "norad_id":"61048",
+    "uplink":null,
+    "downlink":"435.900",
+    "beacon":null,
+    "mode":"2400bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"BlueBird-05",
+    "norad_id":"61047",
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"2400bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"BlueWalker-3",
     "norad_id":"53807",
     "uplink":null,
@@ -8152,7 +8207,7 @@
   },
   {
     "name":"ION-SCV-012",
-    "norad_id":null,
+    "norad_id":"60573",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
@@ -8828,6 +8883,17 @@
     "downlink":"436.500",
     "beacon":null,
     "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"KANYINI",
+    "norad_id":"60556",
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"9600bps FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -12901,6 +12967,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"NSIX-5794-4320-6173-0330"
+  },
+  {
+    "name":"PTD-4",
+    "norad_id":"60565",
+    "uplink":null,
+    "downlink":"401.205",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"PTD-R",
@@ -18060,6 +18137,17 @@
     "callsign":"UKUBE1",
     "status":"inactive",
     "satnogs_id":"MYVF-9479-6273-3061-0441"
+  },
+  {
+    "name":"UM5Sat-EOsat",
+    "norad_id":"60555",
+    "uplink":null,
+    "downlink":"401.275",
+    "beacon":null,
+    "mode":"2400bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Umbra-01",
