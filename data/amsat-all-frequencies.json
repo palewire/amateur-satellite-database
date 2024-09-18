@@ -12974,8 +12974,8 @@
     "uplink":null,
     "downlink":"401.205",
     "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":null,
+    "mode":"9600bps GFSK",
+    "callsign":"PT4F1N",
     "status":"unknown",
     "satnogs_id":null
   },
