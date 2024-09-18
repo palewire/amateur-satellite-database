@@ -8492,14 +8492,14 @@
     "decayed":null,
     "launched":"2018-12-03T18:32:00Z",
     "deployed":null,
-    "website":"https:\/\/snuglite1.wixsite.com\/website",
+    "website":"https:\/\/snuglitecubesat.wixsite.com\/website\/snuglite-project",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T10:10:09.329825Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=529, https:\/\/www.youtube.com\/watch?v=Wq8kS6UoOrQ",
+    "updated":"2024-09-18T10:26:04.187388Z",
+    "citation":"https:\/\/snuglitecubesat.wixsite.com\/website\/snuglite-project",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30393,7 +30393,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"sakura"
+      }
     ],
     "updated":"2024-09-10T05:53:33.728750Z",
     "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/116",
@@ -47749,19 +47751,19 @@
     "norad_follow_id":null,
     "name":"CosmoGirl-Sat",
     "names":"JS1YOI, Emma, \u30a8\u30de",
-    "image":"",
+    "image":"satellites\/mission_mark.png",
     "status":"alive",
     "decayed":null,
     "launched":"2024-08-05T00:00:00Z",
     "deployed":"2024-08-29T09:45:00Z",
-    "website":"https:\/\/cosmosgirlham.org\/",
+    "website":"https:\/\/cosmosgirlham.org\/communication\/",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2024-09-06T00:06:51.099721Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/104",
+    "updated":"2024-09-18T10:26:10.822148Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
