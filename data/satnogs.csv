@@ -36,7 +36,7 @@ GREM-3318-1554-0741-5298,26411.0,,Cluster II FM7,SAMBA,,alive,,,,https://sci.esa
 IEJM-1287-6683-2809-7287,26463.0,,Cluster II FM5,RUMBA,,alive,,,,https://sci.esa.int/web/cluster,ESA,,[],2021-07-21T10:11:42.008110Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 UDLI-4112-3637-4438-0859,26464.0,,Cluster II FM8,TANGO,,alive,,,,https://sci.esa.int/web/cluster,ESA,,[],2021-07-21T10:11:42.009728Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 YVEB-4204-8164-6334-8450,26546.0,,MegSat-1,,,alive,,2000-09-26T00:00:00Z,,,None,IT,[],2022-08-01T16:43:04.534439Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-VMIE-3340-5003-6094-2811,26609.0,,Phase 3-D,OSCAR-40,satellites/AO-40.jpg,dead,,,,https://amsat-dl.org/amsat-phase-3-d-oscar-40/,None,,[],2022-02-04T11:57:47.882625Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+VMIE-3340-5003-6094-2811,26609.0,,Phase 3-D,OSCAR-40,satellites/AO-40.jpg,alive,,,,https://amsat-dl.org/amsat-phase-3-d-oscar-40/,None,,[],2024-09-19T05:38:50.842425Z,STRF obs,False,[]
 MIOI-0494-0446-3367-1916,26931.0,,PCSAT,NO-44,satellites/no44.gif,alive,,2001-09-30T00:00:00Z,,http://www.aprs.org/pcsat.html,None,US,[{'decoder': 'no44'}],2024-07-02T17:57:59.359794Z,dl7ndr,False,[]
 IRES-5964-9687-1982-0089,27607.0,,SAUDISAT 1C,SO-50,satellites/saudisat-so-50.jpg,alive,,2002-12-20T00:00:00Z,,,None,SA,[],2022-08-01T16:54:58.241438Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 JOVH-8612-8312-2052-1559,27844.0,,CUTE-1,CO-55,satellites/cute-1__1.jpg,alive,,2003-06-30T00:00:00Z,,,None,JP,[],2022-08-01T16:55:35.487190Z,CITATION NEEDED - https://xkcd.com/285/,False,[]

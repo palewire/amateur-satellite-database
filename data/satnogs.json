@@ -848,7 +848,7 @@
     "name":"Phase 3-D",
     "names":"OSCAR-40",
     "image":"satellites\/AO-40.jpg",
-    "status":"dead",
+    "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -858,8 +858,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-02-04T11:57:47.882625Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-09-19T05:38:50.842425Z",
+    "citation":"STRF obs",
     "is_frequency_violator":false,
     "associated_satellites":[
 
