@@ -25283,8 +25283,8 @@
     "name":"INSPIRE-SAT 7",
     "names":"",
     "image":"satellites\/FhFQnP4XEAA25jM.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-18T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":"2023-04-15T07:52:00Z",
     "website":"https:\/\/www.uvsq.fr\/inspire-sat-7",
@@ -25293,8 +25293,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-23T17:15:27.294700Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56211\/2023-04-21T09%3A00%3A00_7439611_56211_23054AK_0-OBJECT-AK_1.4405520699999954_A_r38.5_f0.0.png",
+    "updated":"2024-09-18T20:12:58.864613Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56211",
     "is_frequency_violator":false,
     "associated_satellites":[
       "HPCC-4062-8223-1813-8205"
