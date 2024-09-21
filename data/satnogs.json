@@ -37481,30 +37481,6 @@
     ]
   },
   {
-    "sat_id":"HOLZ-0409-8081-0297-1755",
-    "norad_cat_id":99048.0,
-    "norad_follow_id":null,
-    "name":"DORA",
-    "names":"Deployable Optical Receiver Aperture",
-    "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"US",
-    "telemetries":[
-
-    ],
-    "updated":"2023-09-13T22:18:47.769309Z",
-    "citation":"Add temporary NORAD ID",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"OOWE-8073-4789-5817-7258",
     "norad_cat_id":57800.0,
     "norad_follow_id":null,
@@ -43535,7 +43511,7 @@
     "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "HOLZ-0409-8081-0297-1755"
     ]
   },
   {
