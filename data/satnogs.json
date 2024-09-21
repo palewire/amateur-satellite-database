@@ -47760,7 +47760,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"cosmogirlsat"
+      }
     ],
     "updated":"2024-09-18T10:26:10.822148Z",
     "citation":"dl7ndr",
@@ -48245,6 +48247,30 @@
     "updated":"2024-09-17T06:38:20.380258Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/316",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YZJO-4477-2768-8369-0049",
+    "norad_cat_id":61072.0,
+    "norad_follow_id":null,
+    "name":"CHAMRAN-1",
+    "names":"",
+    "image":"satellites\/chamran-1.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-09-14T00:00:00Z",
+    "deployed":"2024-09-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-09-20T17:57:56.344270Z",
+    "citation":"Found via a STRF obs",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
