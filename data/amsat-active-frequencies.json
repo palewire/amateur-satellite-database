@@ -240,16 +240,6 @@
     "satnogs_id":"QDDY-8878-5291-1819-3935"
   },
   {
-    "name":"BCCSAT-1",
-    "norad_id":"48041",
-    "uplink":null,
-    "downlink":"435.635",
-    "beacon":"435.635",
-    "mode":"4800bps GMSK CW",
-    "callsign":"HS0W",
-    "satnogs_id":"KOWU-1169-2090-1582-2115"
-  },
-  {
     "name":"BDSat",
     "norad_id":"52175",
     "uplink":null,
@@ -940,16 +930,6 @@
     "satnogs_id":"MNRU-6903-8394-5454-9425"
   },
   {
-    "name":"CURTIS",
-    "norad_id":"59507",
-    "uplink":null,
-    "downlink":"2279.000",
-    "beacon":"400.962",
-    "mode":"FM CW*",
-    "callsign":null,
-    "satnogs_id":"JLCL-0710-4090-6907-9407"
-  },
-  {
     "name":"CUTE",
     "norad_id":"49263",
     "uplink":null,
@@ -1528,16 +1508,6 @@
     "mode":"9600bps GFSK",
     "callsign":"BCT",
     "satnogs_id":"KAEG-9794-2542-4829-8548"
-  },
-  {
-    "name":"INSPIRESat-7",
-    "norad_id":"56211",
-    "uplink":"145.830\/145.970*",
-    "downlink":"435.200\/437.410*",
-    "beacon":null,
-    "mode":"9k6 BPSK FM",
-    "callsign":"UVSQPL",
-    "satnogs_id":"MQAA-5897-1513-7320-7285"
   },
   {
     "name":"INS-2TD",

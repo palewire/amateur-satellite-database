@@ -1811,7 +1811,7 @@
     "beacon":"435.635",
     "mode":"4800bps GMSK CW",
     "callsign":"HS0W",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"KOWU-1169-2090-1582-2115"
   },
   {
@@ -4715,7 +4715,7 @@
     "beacon":"400.962",
     "mode":"FM CW*",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"JLCL-0710-4090-6907-9407"
   },
   {
@@ -7828,7 +7828,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -7982,7 +7982,7 @@
     "beacon":null,
     "mode":"9k6 BPSK FM",
     "callsign":"UVSQPL",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"MQAA-5897-1513-7320-7285"
   },
   {
@@ -9313,7 +9313,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -13185,7 +13185,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"LZ0KWT",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"UWUF-5027-7499-9389-6895"
   },
   {
