@@ -48085,10 +48085,10 @@
   },
   {
     "sat_id":"SXNP-3240-4340-9235-8383",
-    "norad_cat_id":98804.0,
-    "norad_follow_id":61046.0,
-    "name":"Bluebird 01",
-    "names":"",
+    "norad_cat_id":61046.0,
+    "norad_follow_id":null,
+    "name":"Bluebird 05",
+    "names":"SPACEMOBILE-005",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -48100,19 +48100,19 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-15T09:14:32.523982Z",
-    "citation":"ikhnos check",
+    "updated":"2024-09-21T13:47:46.882542Z",
+    "citation":"https:\/\/celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "XIWB-6862-0559-6648-3021"
     ]
   },
   {
     "sat_id":"EXOH-8376-4648-5267-7738",
-    "norad_cat_id":98803.0,
-    "norad_follow_id":61049.0,
-    "name":"Bluebird 02",
-    "names":"",
+    "norad_cat_id":61049.0,
+    "norad_follow_id":null,
+    "name":"Bluebird 04",
+    "names":"SPACEMOBILE-004",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -48124,19 +48124,19 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-13T07:52:48.823206Z",
-    "citation":"Network Observations and ikhnos analysis",
+    "updated":"2024-09-21T13:48:05.440001Z",
+    "citation":"https:\/\/celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "XDDI-8138-9233-7843-6141"
     ]
   },
   {
     "sat_id":"WFLL-5358-2469-8463-2991",
-    "norad_cat_id":98802.0,
-    "norad_follow_id":61045.0,
+    "norad_cat_id":61045.0,
+    "norad_follow_id":null,
     "name":"Bluebird 03",
-    "names":"",
+    "names":"SPACEMOBILE-003",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -48148,19 +48148,19 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-13T07:54:01.047483Z",
-    "citation":"Network Observations and ikhnos analysis",
+    "updated":"2024-09-21T13:48:15.283088Z",
+    "citation":"https:\/\/celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "HCQL-6780-8126-4141-6933"
     ]
   },
   {
     "sat_id":"GBZQ-8100-0439-9888-4769",
-    "norad_cat_id":98801.0,
-    "norad_follow_id":61048.0,
-    "name":"Bluebird 04",
-    "names":"",
+    "norad_cat_id":61048.0,
+    "norad_follow_id":null,
+    "name":"Bluebird 02",
+    "names":"SPACEMOBILE-002",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -48172,19 +48172,19 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-13T07:55:18.330954Z",
-    "citation":"Network Observations and ikhnos analysis",
+    "updated":"2024-09-21T13:48:26.016361Z",
+    "citation":"https:\/\/celestrak.org",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "ZECQ-2078-3972-5413-9740"
     ]
   },
   {
     "sat_id":"XINJ-5605-6217-4155-4529",
-    "norad_cat_id":98800.0,
-    "norad_follow_id":61047.0,
-    "name":"Bluebird 05",
-    "names":"",
+    "norad_cat_id":61047.0,
+    "norad_follow_id":null,
+    "name":"Bluebird 01",
+    "names":"SPACEMOBILE-001",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -48196,8 +48196,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-15T09:14:44.936597Z",
-    "citation":"ikhnos check",
+    "updated":"2024-09-21T13:48:36.846277Z",
+    "citation":"https:\/\/celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
