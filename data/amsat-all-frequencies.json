@@ -3740,6 +3740,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CHAMRAN-1",
+    "norad_id":"61072",
+    "uplink":null,
+    "downlink":"436.740",
+    "beacon":null,
+    "mode":"38400bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"YZJO-4477-2768-8369-0049"
+  },
+  {
     "name":"ChargerSat-1",
     "norad_id":"39405",
     "uplink":null,
