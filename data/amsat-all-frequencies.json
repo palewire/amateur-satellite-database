@@ -18150,12 +18150,23 @@
     "satnogs_id":"MYVF-9479-6273-3061-0441"
   },
   {
+    "name":"UM5Sat-Ribat",
+    "norad_id":"60554",
+    "uplink":null,
+    "downlink":"401.100",
+    "beacon":null,
+    "mode":"2400bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"UM5Sat-EOsat",
     "norad_id":"60555",
     "uplink":null,
     "downlink":"401.275",
     "beacon":null,
-    "mode":"2400bps FSK",
+    "mode":"2400bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
