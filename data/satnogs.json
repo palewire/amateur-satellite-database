@@ -4112,7 +4112,7 @@
     "norad_cat_id":40931.0,
     "norad_follow_id":null,
     "name":"LAPAN-A2",
-    "names":"ORARIIO-86, YB0X",
+    "names":"ORARI, IO-86, YB0X",
     "image":"satellites\/LAPAN-A2_12tCGA2.jpg",
     "status":"alive",
     "decayed":null,
@@ -4126,8 +4126,8 @@
         "decoder":"io86"
       }
     ],
-    "updated":"2023-08-21T10:49:49.826750Z",
-    "citation":"packets",
+    "updated":"2024-09-25T14:21:43.570941Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -20226,12 +20226,12 @@
     "sat_id":"PQVW-3916-5354-0898-9930",
     "norad_cat_id":51830.0,
     "norad_follow_id":null,
-    "name":"Unknown Satellite - 22019G",
-    "names":"",
+    "name":"Taijing-4 01",
+    "names":"Taijing si hao 01, Unknown Satellite - 22019G",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-09-13T00:00:00Z",
+    "launched":"2022-02-27T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -20239,8 +20239,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T11:33:31.074683Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-09-25T18:43:06.889559Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48272,6 +48272,54 @@
     ],
     "updated":"2024-09-23T14:23:44.175790Z",
     "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TJNC-9764-2485-7803-5657",
+    "norad_cat_id":61223.0,
+    "norad_follow_id":null,
+    "name":"OBJECT D",
+    "names":"2024-171D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-09-20T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-09-25T14:24:47.719068Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/10lR5A08Xt_YgvTI1yREZ2fBRSZF2Op98T_V0v-1HoZU\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LLUY-1732-6975-8970-4189",
+    "norad_cat_id":98797.0,
+    "norad_follow_id":null,
+    "name":"LASARsat",
+    "names":"OK0LSR",
+    "image":"satellites\/lasarsat-7.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/lasar.info\/lasarsat",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-09-25T14:30:21.572506Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/317",
     "is_frequency_violator":false,
     "associated_satellites":[
 
