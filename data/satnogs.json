@@ -17917,13 +17917,13 @@
   },
   {
     "sat_id":"UIZJ-0247-0160-9463-5148",
-    "norad_cat_id":99482.0,
-    "norad_follow_id":51080.0,
+    "norad_cat_id":51080.0,
+    "norad_follow_id":null,
     "name":"HADES",
     "names":"SO-115, AM6SAT",
     "image":"satellites\/hades.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-27T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat-ea.org\/proyectos\/",
@@ -17932,8 +17932,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-03-11T05:41:24.029172Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/135 and https:\/\/amsat-uk.org\/2022\/01\/07\/launch-of-easat-2-and-hades-satellites\/amp\/",
+    "updated":"2024-09-26T07:24:00.267727Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22644,8 +22644,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-17T09:10:46.112052Z",
-    "citation":"amsat bb list",
+    "updated":"2024-09-26T07:25:07.129427Z",
+    "citation":"https:\/\/www.amsat-ea.org\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
