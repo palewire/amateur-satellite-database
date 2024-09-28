@@ -12922,7 +12922,7 @@
     "mode":"1200bps AFSK CW",
     "callsign":"JL3YZL",
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"NHVG-4421-1523-2154-0492"
   },
   {
     "name":"Proiteres-2",
@@ -14650,6 +14650,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"YQXC-7549-6593-3361-1643"
+  },
+  {
+    "name":"Sedna-1",
+    "norad_id":"60580",
+    "uplink":null,
+    "downlink":"400.625",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"SEEDS",

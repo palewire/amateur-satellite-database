@@ -18996,10 +18996,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -48320,6 +48320,30 @@
     ],
     "updated":"2024-09-25T14:30:21.572506Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/317",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NHVG-4421-1523-2154-0492",
+    "norad_cat_id":38756.0,
+    "norad_follow_id":null,
+    "name":"PROITERES",
+    "names":"",
+    "image":"satellites\/Proiteres.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.oit.ac.jp\/elc\/~satellite\/index-e.html",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-09-27T13:43:07.624068Z",
+    "citation":"Found a possible signal in a STRF obs",
     "is_frequency_violator":false,
     "associated_satellites":[
 
