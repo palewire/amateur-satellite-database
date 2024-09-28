@@ -1636,7 +1636,7 @@
     ],
     "updated":"2021-07-21T10:11:42.083071Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -12269,8 +12269,8 @@
     "name":"BCCSAT 1",
     "names":"HS0W",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-19T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/bccsat.bcc.ac.th\/",
@@ -12279,8 +12279,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:54:09.735185Z",
-    "citation":"http:\/\/bccsat.bcc.ac.th\/",
+    "updated":"2024-09-28T10:52:38.390935Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48041",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -18996,10 +18996,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -30399,8 +30399,8 @@
         "decoder":"sakura"
       }
     ],
-    "updated":"2024-09-10T05:53:33.728750Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/116",
+    "updated":"2024-09-28T10:53:09.831937Z",
+    "citation":"decorder",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BIBJ-6592-1255-4508-9249"
@@ -43883,8 +43883,8 @@
     "name":"Kilick 1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-17T00:00:00Z",
     "launched":"2024-03-21T20:54:00Z",
     "deployed":"2024-04-18T17:55:00Z",
     "website":"http:\/\/web.archive.org\/web\/20200925173011\/https:\/\/www.engr.mun.ca\/~killick1\/",
@@ -43893,8 +43893,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-28T09:01:37.094575Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
+    "updated":"2024-09-28T10:52:15.436310Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=59559",
     "is_frequency_violator":false,
     "associated_satellites":[
 
