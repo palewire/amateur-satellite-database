@@ -30399,8 +30399,8 @@
         "decoder":"sakura"
       }
     ],
-    "updated":"2024-09-28T10:53:09.831937Z",
-    "citation":"decorder",
+    "updated":"2024-09-29T07:21:02.659288Z",
+    "citation":"citgardens",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BIBJ-6592-1255-4508-9249"
@@ -47873,8 +47873,8 @@
     "sat_id":"SYEN-9282-8275-6947-6745",
     "norad_cat_id":59777.0,
     "norad_follow_id":null,
-    "name":"OBJECT E",
-    "names":"2024-092E",
+    "name":"SITRO-AIS-54",
+    "names":"SC2342",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -47886,8 +47886,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-29T09:04:41.036089Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1JvCQpfuscbjRMxGuRK7M3qULVjdsbJmCVGqBdbTwZdo\/edit?usp=sharing",
+    "updated":"2024-09-29T05:49:02.587286Z",
+    "citation":"Decoded the satellite",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48041,8 +48041,8 @@
     "sat_id":"RBPP-4436-6355-8978-8861",
     "norad_cat_id":59778.0,
     "norad_follow_id":null,
-    "name":"Object F",
-    "names":"2024-092F",
+    "name":"SITRO-AIS-56",
+    "names":"SC2344",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -48054,8 +48054,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-02T23:00:06.073330Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1XZF_1iwLcWmRgqTj8gLjebuSEMZ8A-JECiVgs12uaCo\/edit?usp=sharing",
+    "updated":"2024-09-29T05:48:58.271563Z",
+    "citation":"Decoded",
     "is_frequency_violator":false,
     "associated_satellites":[
 
