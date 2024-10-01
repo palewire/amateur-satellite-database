@@ -16883,8 +16883,8 @@
     "name":"Pathfinder Risk Reduction",
     "names":"TYVAK-0129 Pony Express 1",
     "image":"satellites\/pathfinder-risk-reduction__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-24T00:00:00Z",
     "launched":"2019-12-11T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16893,8 +16893,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-18T06:49:06.311936Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-10-01T05:09:39.780951Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19360,8 +19360,8 @@
     "name":"ORESAT0",
     "names":"",
     "image":"satellites\/oresat.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-29T00:00:00Z",
     "launched":"2022-03-15T16:22:00Z",
     "deployed":"2022-03-15T16:30:50Z",
     "website":"https:\/\/www.oresat.org\/satellites\/oresat0",
@@ -19372,8 +19372,8 @@
         "decoder":"oresat0"
       }
     ],
-    "updated":"2024-08-11T23:25:02.968909Z",
-    "citation":"https:\/\/www.oresat.org\/satellites\/oresat0",
+    "updated":"2024-10-01T05:08:51.885323Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=52017",
     "is_frequency_violator":false,
     "associated_satellites":[
       "VXFG-9330-0467-3557-7094"
@@ -30399,7 +30399,7 @@
         "decoder":"sakura"
       }
     ],
-    "updated":"2024-09-29T07:21:02.659288Z",
+    "updated":"2024-10-01T08:40:33.720192Z",
     "citation":"citgardens",
     "is_frequency_violator":false,
     "associated_satellites":[
