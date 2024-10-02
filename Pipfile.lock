@@ -926,12 +926,12 @@
         },
         "typing-extensions": {
             "hashes": [
-                "sha256:5d8c9dac95c27d20df12fb1d97b9793ab8b2af8a3a525e68c80e21060c161771",
-                "sha256:935ccf31549830cda708b42289d44b6f74084d616a00be651601a4f968e77c82"
+                "sha256:04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d",
+                "sha256:1a7ead55c7e559dd4dee8856e3a88b41225abfe1ce8df57b7c13915fe121ffb8"
             ],
             "index": "pypi",
-            "markers": "python_version >= '3.7'",
-            "version": "==4.7.0"
+            "markers": "python_version >= '3.8'",
+            "version": "==4.12.2"
         },
         "urllib3": {
             "hashes": [
