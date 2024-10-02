@@ -10718,8 +10718,8 @@
     "name":"TRISAT",
     "names":"",
     "image":"satellites\/trisat__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-29T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/www.trisat.um.si\/trisat.html",
@@ -10728,8 +10728,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.826728Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-10-01T18:58:14.437288Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=46280",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -22683,8 +22683,8 @@
     "name":"Skoltech B2",
     "names":"",
     "image":"satellites\/SkoltechB1_MM6Teqr.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-30T00:00:00Z",
     "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/skoltech.ru",
@@ -22693,8 +22693,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-03T00:38:28.133810Z",
-    "citation":"Change Status",
+    "updated":"2024-10-01T18:57:00.405381Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=53380",
     "is_frequency_violator":true,
     "associated_satellites":[
       "ECMJ-5100-8664-1668-6289"
@@ -48344,6 +48344,30 @@
     ],
     "updated":"2024-09-27T13:43:07.624068Z",
     "citation":"Found a possible signal in a STRF obs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BAHQ-2034-4708-6758-1857",
+    "norad_cat_id":40033.0,
+    "norad_follow_id":null,
+    "name":"FLOCK 1C 11",
+    "names":"2014-033Z",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-06-19T00:00:00Z",
+    "deployed":"2014-06-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-01T18:56:46.890500Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1nCdLT87BqZ5cdjVxDYmbEjeovW12VOJzEnb-cExDBd0\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
