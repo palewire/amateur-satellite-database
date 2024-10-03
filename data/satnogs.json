@@ -19219,10 +19219,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -45748,7 +45748,7 @@
     ],
     "updated":"2024-07-16T13:43:27.664468Z",
     "citation":"Satellite Team",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
