@@ -18996,10 +18996,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -22658,8 +22658,8 @@
     "name":"Skoltech B1",
     "names":"",
     "image":"satellites\/SkoltechB1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-04T00:00:00Z",
     "launched":"2022-08-09T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/skoltech.ru",
@@ -22668,8 +22668,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T03:02:28.537749Z",
-    "citation":"Satellite Team",
+    "updated":"2024-10-05T21:27:35.252447Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=53379",
     "is_frequency_violator":true,
     "associated_satellites":[
       "TLXZ-7745-5544-5793-2728",
