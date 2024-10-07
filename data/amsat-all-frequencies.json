@@ -9269,7 +9269,7 @@
     "beacon":null,
     "mode":"2400bps GMSK_USP",
     "callsign":"RS34S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
   },
   {
@@ -9291,7 +9291,7 @@
     "beacon":null,
     "mode":"2400bps GMSK_USP",
     "callsign":"RS34S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
   },
   {
@@ -10281,7 +10281,7 @@
     "beacon":null,
     "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS32S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
   },
   {
@@ -10413,7 +10413,7 @@
     "beacon":null,
     "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS32S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
   },
   {
@@ -15242,7 +15242,7 @@
     "beacon":null,
     "mode":"9600bps GMSK_USP",
     "callsign":"R0AJU-1",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"ABXM-4898-9222-6959-5721"
   },
   {
@@ -15253,7 +15253,7 @@
     "beacon":null,
     "mode":"9600bps GMSK_USP",
     "callsign":"R0AJU-1",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"BDML-1083-7096-5526-2883"
   },
   {
@@ -16727,7 +16727,7 @@
     "beacon":null,
     "mode":"2k4\/4k8*GMSK_USP",
     "callsign":"RS32S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
   },
   {
@@ -16738,7 +16738,7 @@
     "beacon":null,
     "mode":"2400bps GMSK_USP",
     "callsign":"RS21S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"KILB-3720-6406-0699-8042"
   },
   {
@@ -16793,7 +16793,7 @@
     "beacon":null,
     "mode":"2400bps GMSK_USP",
     "callsign":"RS34S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"XXDG-8589-5393-3222-5405"
   },
   {
@@ -18641,7 +18641,7 @@
     "beacon":null,
     "mode":"2k4\/4k8\/9k6* GMSK_USP",
     "callsign":"RS23S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
   {
