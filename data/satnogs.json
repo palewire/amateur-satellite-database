@@ -19560,8 +19560,8 @@
     "name":"SUCHAI2",
     "names":"",
     "image":"satellites\/suchai2_40oqJBJ.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-06T00:00:00Z",
     "launched":"2022-04-01T00:00:00Z",
     "deployed":"2022-04-13T00:00:00Z",
     "website":"http:\/\/spel.ing.uchile.cl\/projects.html",
@@ -19572,8 +19572,8 @@
         "decoder":"suchai2"
       }
     ],
-    "updated":"2022-06-26T16:52:45.922098Z",
-    "citation":"https:\/\/spel.cl\/",
+    "updated":"2024-10-07T05:25:05.586821Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=52192",
     "is_frequency_violator":false,
     "associated_satellites":[
       "ZYXK-5122-6265-2080-7772"
