@@ -15150,7 +15150,7 @@
     "norad_cat_id":60209.0,
     "norad_follow_id":null,
     "name":"MESAT-1",
-    "names":"",
+    "names":"MESAT1-OSCAR 122, MO-122",
     "image":"satellites\/IMG_0571-317x422.jpg",
     "status":"alive",
     "decayed":null,
@@ -15162,8 +15162,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-17T15:41:50.015523Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-60209\/2024-07-16T21%3A04%3A24_9872420_60209_24125G_0-OBJECT-G_0.24449768444443976_A_r24.0_f0.8.png",
+    "updated":"2024-10-07T16:32:47.762680Z",
+    "citation":"Received an Oscar designation",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YDVZ-1796-2966-6606-9583"
