@@ -30399,7 +30399,7 @@
         "decoder":"sakura"
       }
     ],
-    "updated":"2024-10-04T06:20:24.131070Z",
+    "updated":"2024-10-08T09:42:19.019246Z",
     "citation":"citgardens",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -43495,22 +43495,22 @@
   {
     "sat_id":"QZRL-4914-4557-2700-9931",
     "norad_cat_id":98911.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"DORA",
     "names":"Deployable Optical Receiver Aperture",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-08-04T15:02:00Z",
-    "deployed":"2024-10-09T11:15:00Z",
-    "website":"https:\/\/loco.lab.asu.edu\/dora",
+    "deployed":"2024-10-09T10:35:00Z",
+    "website":"https:\/\/interplanetarylab.github.io\/missions\/DORA",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-10-04T19:06:32.572288Z",
-    "citation":"Satellite Team",
+    "updated":"2024-10-08T11:38:51.067138Z",
+    "citation":"Stop following ISS TLE",
     "is_frequency_violator":false,
     "associated_satellites":[
       "HOLZ-0409-8081-0297-1755"
@@ -45626,8 +45626,8 @@
         "decoder":"oresat05"
       }
     ],
-    "updated":"2024-08-31T18:46:26.306156Z",
-    "citation":"Network Observations",
+    "updated":"2024-10-08T05:01:13.359551Z",
+    "citation":"Description update to reflect launched status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48260,18 +48260,18 @@
     "name":"CYSAT-1",
     "names":"",
     "image":"satellites\/cysat-1.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2024-08-04T15:02:00Z",
+    "deployed":"2024-10-09T10:25:00Z",
     "website":"https:\/\/m2i.aere.iastate.edu\/cysat\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-09-23T14:23:44.175790Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2024-10-08T11:39:12.388927Z",
+    "citation":"Stop following ISS TLE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
