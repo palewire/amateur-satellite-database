@@ -4856,7 +4856,7 @@
     "uplink":null,
     "downlink":"436.375",
     "beacon":null,
-    "mode":"9600bps",
+    "mode":"9600bps FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -10580,6 +10580,17 @@
     "callsign":"3B8MIR",
     "status":"active",
     "satnogs_id":"VIIQ-5994-5073-6455-6748"
+  },
+  {
+    "name":"MO-122",
+    "norad_id":"60209",
+    "uplink":"145.910-145.940",
+    "downlink":"435.810-435.840",
+    "beacon":"435.800",
+    "mode":"1200bps BPSK SSB",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"ANJN-0857-0652-4935-2307"
   },
   {
     "name":"MRC-100",
