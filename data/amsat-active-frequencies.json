@@ -3050,16 +3050,6 @@
     "satnogs_id":null
   },
   {
-    "name":"SUCHAI-2",
-    "norad_id":"52192",
-    "uplink":null,
-    "downlink":"437.230",
-    "beacon":null,
-    "mode":"4800bps FSK",
-    "callsign":null,
-    "satnogs_id":"RXEQ-8793-1241-5795-9118"
-  },
-  {
     "name":"Suomi-100",
     "norad_id":"43804",
     "uplink":null,

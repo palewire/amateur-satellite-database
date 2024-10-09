@@ -5159,6 +5159,17 @@
     "satnogs_id":"FWFR-1086-4147-8825-4245"
   },
   {
+    "name":"DORA",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.825",
+    "beacon":null,
+    "mode":"7400bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"DOSAAF-85",
     "norad_id":"44909",
     "uplink":"145.935-145.995",
@@ -16408,7 +16419,7 @@
     "beacon":null,
     "mode":"4800bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"RXEQ-8793-1241-5795-9118"
   },
   {
