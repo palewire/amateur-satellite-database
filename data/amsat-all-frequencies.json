@@ -4852,7 +4852,7 @@
   },
   {
     "name":"CySat-1",
-    "norad_id":null,
+    "norad_id":"61501",
     "uplink":null,
     "downlink":"436.375",
     "beacon":null,
@@ -5160,7 +5160,7 @@
   },
   {
     "name":"DORA",
-    "norad_id":null,
+    "norad_id":"61502",
     "uplink":null,
     "downlink":"436.825",
     "beacon":null,
