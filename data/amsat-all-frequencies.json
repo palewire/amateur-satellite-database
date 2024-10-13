@@ -4859,7 +4859,7 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"PFNX-8665-0995-8682-5956"
   },
   {
     "name":"D3",
@@ -5167,7 +5167,7 @@
     "mode":"7400bps FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"QZRL-4914-4557-2700-9931"
   },
   {
     "name":"DOSAAF-85",

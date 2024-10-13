@@ -43494,8 +43494,8 @@
   },
   {
     "sat_id":"QZRL-4914-4557-2700-9931",
-    "norad_cat_id":98911.0,
-    "norad_follow_id":61502.0,
+    "norad_cat_id":61502.0,
+    "norad_follow_id":null,
     "name":"DORA",
     "names":"Deployable Optical Receiver Aperture",
     "image":"",
@@ -43511,11 +43511,12 @@
         "decoder":"dora"
       }
     ],
-    "updated":"2024-10-09T13:39:21.759000Z",
-    "citation":"strf obs",
+    "updated":"2024-10-13T06:47:18.194400Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "HOLZ-0409-8081-0297-1755"
+      "HOLZ-0409-8081-0297-1755",
+      "DZVZ-6034-1908-3969-9137"
     ]
   },
   {
@@ -48257,8 +48258,8 @@
   },
   {
     "sat_id":"PFNX-8665-0995-8682-5956",
-    "norad_cat_id":98798.0,
-    "norad_follow_id":61501.0,
+    "norad_cat_id":61501.0,
+    "norad_follow_id":null,
     "name":"CYSAT-1",
     "names":"",
     "image":"satellites\/cysat-1.jpg",
@@ -48272,8 +48273,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-10-09T13:39:31.454633Z",
-    "citation":"two objects one is active the other not therefor 61501",
+    "updated":"2024-10-13T06:52:42.365631Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
