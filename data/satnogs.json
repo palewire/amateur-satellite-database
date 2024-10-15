@@ -43498,7 +43498,7 @@
     "norad_follow_id":null,
     "name":"DORA",
     "names":"Deployable Optical Receiver Aperture",
-    "image":"",
+    "image":"satellites\/DORA_FullRender-246x300_npjpq9i.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2024-08-04T15:02:00Z",
@@ -43511,8 +43511,8 @@
         "decoder":"dora"
       }
     ],
-    "updated":"2024-10-13T06:47:18.194400Z",
-    "citation":"space-track.org",
+    "updated":"2024-10-14T19:08:42.159236Z",
+    "citation":"The DORA payload is at the bottom and shown with the aluminum shell hidden.",
     "is_frequency_violator":false,
     "associated_satellites":[
       "HOLZ-0409-8081-0297-1755",
