@@ -22779,8 +22779,8 @@
     "name":"Polytech Universe 1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-09T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -22789,8 +22789,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-04T08:31:55.805421Z",
-    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1557818136635887616",
+    "updated":"2024-10-16T11:13:26.824216Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=53371",
     "is_frequency_violator":true,
     "associated_satellites":[
 
