@@ -48399,5 +48399,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"SOJH-8000-6493-4357-8832",
+    "norad_cat_id":41579.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2517 (GEO-IK)",
+    "names":"2016-034A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2016-06-04T00:00:00Z",
+    "deployed":"2016-06-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-17T15:22:04.931473Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/14JtjZ-mD2TxXnU4ahH_YxMXCRf001nrNPdOaQAUKtzY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
