@@ -22803,8 +22803,8 @@
     "name":"Polytech Universe 2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-18T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -22813,8 +22813,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-04T08:32:27.718138Z",
-    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1557818136635887616",
+    "updated":"2024-10-19T08:14:23.769327Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=53372",
     "is_frequency_violator":true,
     "associated_satellites":[
 
