@@ -7186,10 +7186,10 @@
     "norad_cat_id":43158.0,
     "norad_follow_id":null,
     "name":"QUANTUTONG 1",
-    "names":"QTT 1\r\nTY-6\r\nTianYi 6",
+    "names":"QTT 1TY-6TianYi 6",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-19T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -7198,8 +7198,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.514477Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-10-20T10:57:28.525691Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43158",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19219,10 +19219,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -31066,8 +31066,8 @@
     "name":"IRIS-C",
     "names":"BN0IRC",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-19T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":null,
     "website":"http:\/\/satellite.ncku.edu.tw\/",
@@ -31078,8 +31078,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2024-09-02T05:34:15.834071Z",
-    "citation":"dl7ndr",
+    "updated":"2024-10-20T10:56:48.672644Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56221",
     "is_frequency_violator":true,
     "associated_satellites":[
       "STBN-4134-9419-3628-9950"
