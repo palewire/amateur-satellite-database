@@ -48423,5 +48423,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"ZUCN-2658-3339-4865-3108",
+    "norad_cat_id":59291.0,
+    "norad_follow_id":null,
+    "name":"AEROCUBE 16B",
+    "names":"2024-053D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-21T00:00:00Z",
+    "deployed":"2024-03-21T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-22T07:16:13.408052Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1pXbztSB3bejn-vDbyhx4Ep6FUHHtJ6tzK-ugeAxQ5d4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TZLM-3764-7906-6364-2931",
+    "norad_cat_id":41785.0,
+    "norad_follow_id":null,
+    "name":"ALSAT 1B",
+    "names":"2016-059C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2016-09-26T00:00:00Z",
+    "deployed":"2016-09-26T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DZ",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-22T07:15:57.386434Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1GJ_O-Xrg4B0qWmmkSzENW6EygmbTPjQclsaf1L0Z6zg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
