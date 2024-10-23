@@ -650,16 +650,6 @@
     "satnogs_id":"LSZL-5040-6372-8930-2241"
   },
   {
-    "name":"CIRBE",
-    "norad_id":"56188",
-    "uplink":null,
-    "downlink":"437.250\/2402.000",
-    "beacon":null,
-    "mode":"9k6*\/19k2 GFSK",
-    "callsign":"CIRBE",
-    "satnogs_id":"PBLF-9792-3382-3546-2243"
-  },
-  {
     "name":"ConnectaIoT-1",
     "norad_id":"60472",
     "uplink":null,
@@ -1630,16 +1620,6 @@
     "satnogs_id":"QTQP-6906-0761-2730-0630"
   },
   {
-    "name":"IRIS-C",
-    "norad_id":"56221",
-    "uplink":"145.860",
-    "downlink":"436.915",
-    "beacon":null,
-    "mode":"9600bps BPSK Digipeater",
-    "callsign":"BN0IRC",
-    "satnogs_id":"QIRV-9727-2281-6096-8256"
-  },
-  {
     "name":"IRIS-C2",
     "norad_id":"58269",
     "uplink":null,
@@ -2218,16 +2198,6 @@
     "mode":"10.17kbit\/s FSK",
     "callsign":null,
     "satnogs_id":null
-  },
-  {
-    "name":"OreSat-0",
-    "norad_id":"52017",
-    "uplink":null,
-    "downlink":"436.500\/2425.000",
-    "beacon":"436.500",
-    "mode":"9k6FSK 96kGMSK 1M_DPSK CW",
-    "callsign":"KJ7SAT",
-    "satnogs_id":"VTFA-5315-6080-2422-3537"
   },
   {
     "name":"OreSat-0.5",

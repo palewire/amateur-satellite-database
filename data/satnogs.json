@@ -24295,21 +24295,21 @@
     "sat_id":"HFGS-4792-7267-6562-6858",
     "norad_cat_id":43663.0,
     "norad_follow_id":null,
-    "name":"Object B",
-    "names":"",
+    "name":"TY-5",
+    "names":"Object B, Tongchuan 1",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-20T00:00:00Z",
     "launched":"2018-10-29T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/twitter.com\/John_VK2FAK\/status\/1129597149413400576",
     "operator":"None",
     "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2022-10-24T02:59:02.807901Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-10-22T22:54:46.497397Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 

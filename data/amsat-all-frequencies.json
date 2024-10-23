@@ -3824,7 +3824,7 @@
     "beacon":null,
     "mode":"9k6*\/19k2 GFSK",
     "callsign":"CIRBE",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"PBLF-9792-3382-3546-2243"
   },
   {
@@ -8349,7 +8349,7 @@
     "satnogs_id":"QHGB-5011-7406-7134-6581"
   },
   {
-    "name":"Iris",
+    "name":"IRIS",
     "norad_id":"57315",
     "uplink":"436.650",
     "downlink":"436.250",
@@ -8378,7 +8378,7 @@
     "beacon":null,
     "mode":"9600bps BPSK Digipeater",
     "callsign":"BN0IRC",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"QIRV-9727-2281-6096-8256"
   },
   {
@@ -8391,6 +8391,17 @@
     "callsign":"BN0TR1",
     "status":"active",
     "satnogs_id":"JZOW-0900-7355-5555-3949"
+  },
+  {
+    "name":"IRIS-E",
+    "norad_id":"58467",
+    "uplink":null,
+    "downlink":"400.455\/436.885",
+    "beacon":null,
+    "mode":"2400bps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"BRBP-3780-8068-0622-0984"
   },
   {
     "name":"IRIS-F1",
@@ -9601,6 +9612,17 @@
     "callsign":"BJ1SI",
     "status":"active",
     "satnogs_id":"AHVS-7983-8710-8819-8034"
+  },
+  {
+    "name":"Lilium-1",
+    "norad_id":"58467",
+    "uplink":null,
+    "downlink":"400.455\/436.885",
+    "beacon":null,
+    "mode":"2400bps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"BRBP-3780-8068-0622-0984"
   },
   {
     "name":"LINK",
@@ -11920,7 +11942,7 @@
     "beacon":"436.500",
     "mode":"9k6FSK 96kGMSK 1M_DPSK CW",
     "callsign":"KJ7SAT",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"VTFA-5315-6080-2422-3537"
   },
   {
