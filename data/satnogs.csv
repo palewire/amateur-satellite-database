@@ -1021,7 +1021,7 @@ YTUM-9506-8517-5231-7089,53754.0,,SHERPA-LTC2,,satellites/sherpa-ltc-2_varuna-td
 TRPL-5967-8308-1579-8630,53367.0,,Ping'an 3,Object A,,re-entered,,2022-08-09T00:00:00Z,,,None,CN,[],2024-04-07T17:07:38.293645Z,https://www.n2yo.com/satellite/?s=53367,False,[]
 SYCH-4070-5435-2059-3481,43559.0,,LEMUR 2 ALEXANDER,,satellites/24c826a550d711022b371e6bbaa693a786caccb9.jpeg,re-entered,2023-01-13T00:00:00Z,2018-05-21T00:00:00Z,,,None,US,[],2023-01-27T17:13:25.020339Z,space-track.org,False,[]
 HFGS-4792-7267-6562-6858,43663.0,,TY-5,"Object B, Tongchuan 1",,re-entered,2024-09-20T00:00:00Z,2018-10-29T00:00:00Z,,https://twitter.com/John_VK2FAK/status/1129597149413400576,None,CN,[],2024-10-22T22:54:46.497397Z,space-track.org,False,[]
-PTXD-4514-0747-9499-7521,43665.0,,Object D,,,alive,,2018-10-29T00:00:00Z,,,None,CN,[],2022-10-24T02:59:23.547570Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+PTXD-4514-0747-9499-7521,43665.0,,"Changshagaoxin, TY-4 01","Object D, TY 7",,alive,,2018-10-29T00:00:00Z,,https://space.skyrocket.de/doc_sdat/ty-4-01.htm,None,CN,[],2024-10-23T07:04:52.155563Z,https://space.skyrocket.de/doc_sdat/ty-4-01.htm,False,[]
 XWTX-3100-8924-6311-9373,43664.0,,Xiaoxiang-3,,,alive,,2018-10-29T00:00:00Z,,,None,CN,[],2024-09-05T00:31:29.179049Z,https://network.satnogs.org/observations/10173754/,False,[]
 BWUQ-1126-2556-9888-6948,20439.0,,PACSAT,AO-16,,alive,,1990-01-22T00:00:00Z,,https://en.wikipedia.org/wiki/AMSAT-OSCAR_16,None,US,[],2023-05-17T14:25:38.502692Z,https://en.wikipedia.org/wiki/AMSAT-OSCAR_16,False,[]
 COWJ-3612-9468-2545-3653,43668.0,,Object G,,,re-entered,2024-08-29T00:00:00Z,2018-10-29T00:00:00Z,,,None,CN,[],2024-09-11T05:26:22.644921Z,space-track.org,False,[]

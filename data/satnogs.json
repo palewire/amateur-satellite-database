@@ -24319,21 +24319,21 @@
     "sat_id":"PTXD-4514-0747-9499-7521",
     "norad_cat_id":43665.0,
     "norad_follow_id":null,
-    "name":"Object D",
-    "names":"",
+    "name":"Changshagaoxin, TY-4 01",
+    "names":"Object D, TY 7",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2018-10-29T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/space.skyrocket.de\/doc_sdat\/ty-4-01.htm",
     "operator":"None",
     "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2022-10-24T02:59:23.547570Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-10-23T07:04:52.155563Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/ty-4-01.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
