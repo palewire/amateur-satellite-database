@@ -387,7 +387,7 @@
     "beacon":null,
     "mode":"4800bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"ZTUR-8052-1950-5911-7314"
   },
   {
     "name":"BRO-15",
@@ -397,7 +397,7 @@
     "beacon":null,
     "mode":"4800bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"PUFM-6212-8243-7442-9645"
   },
   {
     "name":"BSUSat-2",
@@ -657,7 +657,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT001",
-    "satnogs_id":null
+    "satnogs_id":"DHAI-1690-5774-0137-6112"
   },
   {
     "name":"ConnectaIoT-2",
@@ -667,7 +667,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT002",
-    "satnogs_id":null
+    "satnogs_id":"XALK-4525-5943-5013-3699"
   },
   {
     "name":"ConnectaIoT-3",
@@ -677,7 +677,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT003",
-    "satnogs_id":null
+    "satnogs_id":"BEFZ-9879-2316-3685-3950"
   },
   {
     "name":"ConnectaIoT-4",
@@ -687,7 +687,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"CNT004",
-    "satnogs_id":null
+    "satnogs_id":"QMTG-4209-6674-7825-1293"
   },
   {
     "name":"Connecta-T1_1",
@@ -1567,7 +1567,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"LWDE-7403-4643-6587-2546"
   },
   {
     "name":"ION-SCV-013",
@@ -2107,7 +2107,7 @@
     "beacon":null,
     "mode":"4800bps GFSK",
     "callsign":"XX0UHF",
-    "satnogs_id":null
+    "satnogs_id":"BGSA-1802-1526-4835-1410"
   },
   {
     "name":"Norbi",
@@ -2207,7 +2207,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"KJ7SAT-11",
-    "satnogs_id":null
+    "satnogs_id":"DKCD-1609-0567-7056-3922"
   },
   {
     "name":"PACE",
@@ -2387,7 +2387,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"DP2QU",
-    "satnogs_id":null
+    "satnogs_id":"ZYDE-4447-8719-9309-2022"
   },
   {
     "name":"RadFxSat",
@@ -3167,7 +3167,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"XX0UHF",
-    "satnogs_id":null
+    "satnogs_id":"BRVJ-5081-2405-0905-4894"
   },
   {
     "name":"TO-108",

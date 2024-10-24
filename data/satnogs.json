@@ -40660,8 +40660,8 @@
   },
   {
     "sat_id":"BVAM-1721-9431-5775-2144",
-    "norad_cat_id":98969.0,
-    "norad_follow_id":58466.0,
+    "norad_cat_id":58466.0,
+    "norad_follow_id":null,
     "name":"uHETSat",
     "names":"microHETSat, \u03bcHETSat",
     "image":"",
@@ -40675,11 +40675,11 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-02T09:22:46.294598Z",
-    "citation":"Network observations run through ikhnos",
+    "updated":"2024-10-24T05:43:08.532949Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "KAWD-8606-2004-6424-0319"
     ]
   },
   {
@@ -45081,8 +45081,8 @@
   },
   {
     "sat_id":"FAWS-4397-4381-8570-0757",
-    "norad_cat_id":98890.0,
-    "norad_follow_id":60556.0,
+    "norad_cat_id":60556.0,
+    "norad_follow_id":null,
     "name":"Kanyini",
     "names":"SASAT1",
     "image":"satellites\/Kanyini.png",
@@ -45096,8 +45096,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-13T04:58:49.103926Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/146",
+    "updated":"2024-10-24T04:35:00.067138Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45612,8 +45612,8 @@
   },
   {
     "sat_id":"DKCD-1609-0567-7056-3922",
-    "norad_cat_id":98867.0,
-    "norad_follow_id":60525.0,
+    "norad_cat_id":60525.0,
+    "norad_follow_id":null,
     "name":"ORESAT0.5",
     "names":"",
     "image":"satellites\/oresat0_5.png",
@@ -45629,11 +45629,11 @@
         "decoder":"oresat05"
       }
     ],
-    "updated":"2024-10-08T05:01:13.359551Z",
-    "citation":"Description update to reflect launched status",
+    "updated":"2024-10-24T04:24:38.191892Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "JFNV-5061-1401-2268-9955"
     ]
   },
   {
@@ -45782,8 +45782,8 @@
   },
   {
     "sat_id":"DHAI-1690-5774-0137-6112",
-    "norad_cat_id":98868.0,
-    "norad_follow_id":60472.0,
+    "norad_cat_id":60472.0,
+    "norad_follow_id":null,
     "name":"ConnectaIoT-1",
     "names":"",
     "image":"satellites\/IoT_01.png",
@@ -45797,8 +45797,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.888960Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T04:28:49.166010Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45806,8 +45806,8 @@
   },
   {
     "sat_id":"XALK-4525-5943-5013-3699",
-    "norad_cat_id":98869.0,
-    "norad_follow_id":60522.0,
+    "norad_cat_id":60522.0,
+    "norad_follow_id":null,
     "name":"ConnectaIoT-2",
     "names":"",
     "image":"satellites\/IoT_01_h9Zesrh.png",
@@ -45821,8 +45821,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T03:00:55.740435Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T04:29:41.943162Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45830,8 +45830,8 @@
   },
   {
     "sat_id":"BEFZ-9879-2316-3685-3950",
-    "norad_cat_id":98870.0,
-    "norad_follow_id":60475.0,
+    "norad_cat_id":60475.0,
+    "norad_follow_id":null,
     "name":"ConnectaIoT-3",
     "names":"",
     "image":"satellites\/IoT_01_irzzc9K.png",
@@ -45845,8 +45845,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.842056Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T04:30:23.739221Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "DRGM-7646-1674-2672-5112"
@@ -45854,8 +45854,8 @@
   },
   {
     "sat_id":"QMTG-4209-6674-7825-1293",
-    "norad_cat_id":98871.0,
-    "norad_follow_id":60524.0,
+    "norad_cat_id":60524.0,
+    "norad_follow_id":null,
     "name":"ConnectaIoT-4",
     "names":"",
     "image":"satellites\/IoT_01_U5cm2Ms.png",
@@ -45869,11 +45869,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.818038Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T04:32:01.312718Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "AQBW-9615-7052-4430-4256"
     ]
   },
   {
@@ -46384,10 +46384,10 @@
   },
   {
     "sat_id":"EQWG-7595-5332-4304-7229",
-    "norad_cat_id":98862.0,
+    "norad_cat_id":60543.0,
     "norad_follow_id":null,
-    "name":"AWS PFM",
-    "names":"Arctic Weather Satellite",
+    "name":"Arctic Weather Satellite",
+    "names":"AWS PFM",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -46399,8 +46399,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.448276Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T05:19:17.880492Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/162 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46432,8 +46432,8 @@
   },
   {
     "sat_id":"BRVJ-5081-2405-0905-4894",
-    "norad_cat_id":98860.0,
-    "norad_follow_id":60530.0,
+    "norad_cat_id":60530.0,
+    "norad_follow_id":null,
     "name":"TORO",
     "names":"",
     "image":"",
@@ -46447,17 +46447,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.936391Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T04:20:14.239269Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "SVKH-3438-8023-5955-9556"
     ]
   },
   {
     "sat_id":"BGSA-1802-1526-4835-1410",
-    "norad_cat_id":98859.0,
-    "norad_follow_id":60535.0,
+    "norad_cat_id":60535.0,
+    "norad_follow_id":null,
     "name":"NIGHTJAR",
     "names":"RIoT",
     "image":"",
@@ -46471,17 +46471,18 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.959644Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T03:45:50.584635Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147",
     "is_frequency_violator":true,
     "associated_satellites":[
-      "GMYW-1529-9493-2135-2998"
+      "GMYW-1529-9493-2135-2998",
+      "YYHC-7206-1046-2401-2684"
     ]
   },
   {
     "sat_id":"QKJA-9333-9603-3019-1322",
-    "norad_cat_id":98858.0,
-    "norad_follow_id":60527.0,
+    "norad_cat_id":60527.0,
+    "norad_follow_id":null,
     "name":"CUAVA-2",
     "names":"",
     "image":"",
@@ -46495,17 +46496,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.983707Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T03:43:03.639459Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "WWFY-7547-0936-8941-5200"
     ]
   },
   {
     "sat_id":"IYTF-0254-0953-7251-9719",
-    "norad_cat_id":98857.0,
-    "norad_follow_id":60526.0,
+    "norad_cat_id":60526.0,
+    "norad_follow_id":null,
     "name":"Deimos",
     "names":"",
     "image":"",
@@ -46519,8 +46520,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.593550Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T05:16:51.339030Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46528,8 +46529,8 @@
   },
   {
     "sat_id":"VUVA-8047-1682-5226-1102",
-    "norad_cat_id":98856.0,
-    "norad_follow_id":60508.0,
+    "norad_cat_id":60508.0,
+    "norad_follow_id":null,
     "name":"EagleEye",
     "names":"",
     "image":"",
@@ -46543,7 +46544,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-06T10:06:09.440847Z",
+    "updated":"2024-10-24T05:22:28.544358Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -46552,8 +46553,8 @@
   },
   {
     "sat_id":"OZFM-4525-5507-9609-6820",
-    "norad_cat_id":98854.0,
-    "norad_follow_id":60528.0,
+    "norad_cat_id":60528.0,
+    "norad_follow_id":null,
     "name":"ERNST",
     "names":"",
     "image":"satellites\/ernst_rendering_white.png",
@@ -46567,17 +46568,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-31T18:47:02.331066Z",
-    "citation":"Network Observations and PE0SAT analysis",
+    "updated":"2024-10-24T04:37:05.754967Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "QOFQ-3246-9047-1901-8633"
     ]
   },
   {
     "sat_id":"JZKF-3943-1313-5044-2973",
-    "norad_cat_id":98853.0,
-    "norad_follow_id":60529.0,
+    "norad_cat_id":60529.0,
+    "norad_follow_id":null,
     "name":"GaindeSat-1A",
     "names":"Gaind\u00e9Sat-1A",
     "image":"",
@@ -46591,8 +46592,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-31T09:04:18.458950Z",
-    "citation":"Add country of origin",
+    "updated":"2024-10-24T04:39:28.109544Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46601,7 +46602,7 @@
   {
     "sat_id":"ZHLJ-9390-0694-1835-7595",
     "norad_cat_id":98852.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60531.0,
     "name":"HYPSO-2",
     "names":"",
     "image":"",
@@ -46615,8 +46616,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:07.128893Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T06:30:18.345852Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46624,7 +46625,7 @@
   },
   {
     "sat_id":"KGKE-9945-4603-3909-1979",
-    "norad_cat_id":98851.0,
+    "norad_cat_id":60532.0,
     "norad_follow_id":null,
     "name":"Lemu Nge",
     "names":"Forest Eye, Ojo del Bosque, Silvarum Oculus",
@@ -46639,8 +46640,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-19T07:15:07.418598Z",
-    "citation":"https:\/\/le.mu",
+    "updated":"2024-10-24T06:10:57.981009Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46648,8 +46649,8 @@
   },
   {
     "sat_id":"RUWA-6033-4706-4091-9713",
-    "norad_cat_id":98850.0,
-    "norad_follow_id":60536.0,
+    "norad_cat_id":60536.0,
+    "norad_follow_id":null,
     "name":"LEMUR-2-MARHISYAM",
     "names":"",
     "image":"",
@@ -46663,8 +46664,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T19:26:37.397119Z",
-    "citation":"space-track.org",
+    "updated":"2024-10-24T05:16:07.008793Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46672,8 +46673,8 @@
   },
   {
     "sat_id":"FQIY-5061-3565-2438-4414",
-    "norad_cat_id":98849.0,
-    "norad_follow_id":60469.0,
+    "norad_cat_id":60469.0,
+    "norad_follow_id":null,
     "name":"Waratah Seed-1",
     "names":"WS-1",
     "image":"",
@@ -46687,11 +46688,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:32.007965Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T03:40:13.611954Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "OLQM-9485-3355-2727-5085"
     ]
   },
   {
@@ -46744,8 +46745,8 @@
   },
   {
     "sat_id":"ZYDE-4447-8719-9309-2022",
-    "norad_cat_id":98847.0,
-    "norad_follow_id":60476.0,
+    "norad_cat_id":60476.0,
+    "norad_follow_id":null,
     "name":"QUBE",
     "names":"DP2QU",
     "image":"satellites\/Zentrum_f\u00fcr_Telematik_W\u00fcrzburg_221111_Julian_Schulz_015.jpg",
@@ -46759,17 +46760,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-05T18:36:09.765651Z",
-    "citation":"Alternate name changed to DP2QU",
+    "updated":"2024-10-24T03:35:19.756021Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "RQWK-6053-5747-6383-0423"
     ]
   },
   {
     "sat_id":"LWDE-7403-4643-6587-2546",
-    "norad_cat_id":98846.0,
-    "norad_follow_id":60573.0,
+    "norad_cat_id":60573.0,
+    "norad_follow_id":null,
     "name":"ION SCV-012",
     "names":"",
     "image":"",
@@ -46783,8 +46784,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-13T07:47:30.214597Z",
-    "citation":"Network Observations and ikhnos analysis",
+    "updated":"2024-10-24T03:33:13.130478Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46792,8 +46793,8 @@
   },
   {
     "sat_id":"EBRB-9167-1241-1151-0289",
-    "norad_cat_id":98845.0,
-    "norad_follow_id":60520.0,
+    "norad_cat_id":60520.0,
+    "norad_follow_id":null,
     "name":"Iperdrone.0",
     "names":"TYVAK-0415",
     "image":"",
@@ -46807,8 +46808,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:32.058805Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T03:31:56.767227Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46816,8 +46817,8 @@
   },
   {
     "sat_id":"UOLM-4510-8859-5501-3189",
-    "norad_cat_id":98844.0,
-    "norad_follow_id":60565.0,
+    "norad_cat_id":60565.0,
+    "norad_follow_id":null,
     "name":"PTD-4",
     "names":"",
     "image":"",
@@ -46831,8 +46832,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-13T07:47:05.885391Z",
-    "citation":"Network Observations and ikhnos analysis",
+    "updated":"2024-10-24T03:30:48.017075Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46840,10 +46841,10 @@
   },
   {
     "sat_id":"FPXO-5324-9844-5215-6363",
-    "norad_cat_id":98843.0,
-    "norad_follow_id":60523.0,
+    "norad_cat_id":60523.0,
+    "norad_follow_id":null,
     "name":"PTD-R",
-    "names":"",
+    "names":"TYVAK-0127",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -46855,8 +46856,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:32.085008Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T03:29:49.370491Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46911,33 +46912,9 @@
     ]
   },
   {
-    "sat_id":"EEZS-2420-0670-7912-2860",
-    "norad_cat_id":98840.0,
-    "norad_follow_id":60504.0,
-    "name":"LUR-1",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2024-08-16T18:56:00Z",
-    "deployed":"2024-08-16T20:16:23Z",
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2024-09-13T07:48:11.400758Z",
-    "citation":"Network Observations and ikhnos analysis",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"XOCE-2797-1055-8900-9065",
     "norad_cat_id":98839.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60542.0,
     "name":"QPS-SAR-8",
     "names":"",
     "image":"",
@@ -46951,8 +46928,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:07.163162Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T04:58:31.197606Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46961,7 +46938,7 @@
   {
     "sat_id":"ELSZ-1253-5721-3665-3398",
     "norad_cat_id":98838.0,
-    "norad_follow_id":60478.0,
+    "norad_follow_id":null,
     "name":"WREN-1",
     "names":"",
     "image":"",
@@ -46975,8 +46952,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.663756Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T04:56:46.605693Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46984,10 +46961,10 @@
   },
   {
     "sat_id":"DSUV-1493-4798-4172-4256",
-    "norad_cat_id":98837.0,
+    "norad_cat_id":60507.0,
     "norad_follow_id":null,
-    "name":"Tanager-1",
-    "names":"",
+    "name":"Tanager 4001",
+    "names":"Tanager-1",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -46999,8 +46976,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.564522Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T05:23:38.588327Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47056,7 +47033,7 @@
   },
   {
     "sat_id":"EJBR-6958-2835-6583-8288",
-    "norad_cat_id":98834.0,
+    "norad_cat_id":60496.0,
     "norad_follow_id":null,
     "name":"Tyche",
     "names":"",
@@ -47071,8 +47048,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.505989Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T05:24:58.555162Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47128,7 +47105,7 @@
   },
   {
     "sat_id":"STNT-9080-9992-7344-8655",
-    "norad_cat_id":98831.0,
+    "norad_cat_id":60504.0,
     "norad_follow_id":null,
     "name":"YAM-7",
     "names":"",
@@ -47143,17 +47120,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.853232Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T05:08:57.124119Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "EEZS-2420-0670-7912-2860"
     ]
   },
   {
     "sat_id":"PUFM-6212-8243-7442-9645",
-    "norad_cat_id":98830.0,
-    "norad_follow_id":60553.0,
+    "norad_cat_id":60553.0,
+    "norad_follow_id":null,
     "name":"BRO-15",
     "names":"",
     "image":"",
@@ -47167,8 +47144,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:32.139910Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T03:28:37.563935Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47176,8 +47153,8 @@
   },
   {
     "sat_id":"ZTUR-8052-1950-5911-7314",
-    "norad_cat_id":98829.0,
-    "norad_follow_id":60551.0,
+    "norad_cat_id":60551.0,
+    "norad_follow_id":null,
     "name":"BRO-14",
     "names":"",
     "image":"",
@@ -47191,8 +47168,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:32.115035Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T03:27:29.510768Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47224,8 +47201,8 @@
   },
   {
     "sat_id":"IYBG-5656-4053-4485-9560",
-    "norad_cat_id":98827.0,
-    "norad_follow_id":60477.0,
+    "norad_cat_id":60477.0,
+    "norad_follow_id":null,
     "name":"SATORO-T2",
     "names":"",
     "image":"",
@@ -47239,8 +47216,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.794458Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T04:38:28.548288Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47249,7 +47226,7 @@
   {
     "sat_id":"PTLM-1794-1775-5818-6468",
     "norad_cat_id":98826.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60570.0,
     "name":"PICO-1B-9",
     "names":"",
     "image":"",
@@ -47263,8 +47240,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.981571Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T04:51:22.620547Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A029",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47273,7 +47250,7 @@
   {
     "sat_id":"NWLA-6495-8389-6748-8925",
     "norad_cat_id":98825.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60566.0,
     "name":"PICO-1B-8",
     "names":"",
     "image":"",
@@ -47287,8 +47264,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:07.054386Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T04:51:21.876939Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A028",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47297,7 +47274,7 @@
   {
     "sat_id":"YSVW-4504-7208-8200-1760",
     "norad_cat_id":98824.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60567.0,
     "name":"PICO-1B-7",
     "names":"",
     "image":"",
@@ -47311,8 +47288,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:07.148530Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T04:51:21.197665Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A027",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47321,7 +47298,7 @@
   {
     "sat_id":"OOTB-7089-5874-1520-9072",
     "norad_cat_id":98823.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60538.0,
     "name":"PICO-1B-6",
     "names":"",
     "image":"",
@@ -47335,8 +47312,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:07.039978Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T04:51:20.435336Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A026",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47345,7 +47322,7 @@
   {
     "sat_id":"BSME-7816-8314-1291-7273",
     "norad_cat_id":98821.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60568.0,
     "name":"PICO-1B-4",
     "names":"",
     "image":"",
@@ -47359,8 +47336,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.673642Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T04:51:23.647137Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A024",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47369,7 +47346,7 @@
   {
     "sat_id":"USCU-5840-3624-3763-4725",
     "norad_cat_id":98820.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60564.0,
     "name":"PICO-1B-3",
     "names":"",
     "image":"",
@@ -47383,8 +47360,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.728272Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T04:51:24.120282Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A023",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47393,7 +47370,7 @@
   {
     "sat_id":"DIZY-6505-9635-3974-5561",
     "norad_cat_id":98819.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60571.0,
     "name":"PICO-1B-2",
     "names":"",
     "image":"",
@@ -47407,8 +47384,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.608845Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T04:51:25.053827Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A022",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47417,7 +47394,7 @@
   {
     "sat_id":"EXCD-3754-5634-2238-2055",
     "norad_cat_id":98818.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60572.0,
     "name":"PICO-1B-1",
     "names":"",
     "image":"",
@@ -47431,8 +47408,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.428404Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T04:51:18.308038Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A021",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47441,7 +47418,7 @@
   {
     "sat_id":"HILQ-4807-5733-1547-1697",
     "norad_cat_id":98822.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60572.0,
     "name":"PICO-1B-5",
     "names":"",
     "image":"",
@@ -47455,8 +47432,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.299801Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-10-24T04:51:19.546855Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A025",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47464,8 +47441,8 @@
   },
   {
     "sat_id":"FJKJ-4021-1559-4514-2797",
-    "norad_cat_id":98817.0,
-    "norad_follow_id":60533.0,
+    "norad_cat_id":60533.0,
+    "norad_follow_id":null,
     "name":"LEMUR-2-STELLA",
     "names":"",
     "image":"",
@@ -47479,8 +47456,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T19:26:17.517080Z",
-    "citation":"space-track.org",
+    "updated":"2024-10-24T04:55:46.839841Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47488,8 +47465,8 @@
   },
   {
     "sat_id":"GHCA-9755-8024-7326-7161",
-    "norad_cat_id":98816.0,
-    "norad_follow_id":60471.0,
+    "norad_cat_id":60471.0,
+    "norad_follow_id":null,
     "name":"LEMUR-2-TOMATOKECHUP",
     "names":"",
     "image":"",
@@ -47503,8 +47480,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-12T19:25:40.854312Z",
-    "citation":"space-track.org",
+    "updated":"2024-10-24T04:54:55.704862Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47583,33 +47560,9 @@
     ]
   },
   {
-    "sat_id":"KAWD-8606-2004-6424-0319",
-    "norad_cat_id":98815.0,
-    "norad_follow_id":null,
-    "name":"Unknown_1_T11",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2024-08-24T02:37:39.657880Z",
-    "citation":"Network Observations",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"NIBK-0501-1704-7303-0196",
     "norad_cat_id":98814.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60532.0,
     "name":"Unknown_2_T11",
     "names":"",
     "image":"",
@@ -47623,8 +47576,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-24T02:37:37.968075Z",
-    "citation":"kayhan.space",
+    "updated":"2024-10-24T05:56:14.526783Z",
+    "citation":"space-track.org, probably LEMU-NGE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47632,8 +47585,8 @@
   },
   {
     "sat_id":"YDQM-1508-8291-7641-4635",
-    "norad_cat_id":98813.0,
-    "norad_follow_id":60555.0,
+    "norad_cat_id":60555.0,
+    "norad_follow_id":null,
     "name":"UM5Sat-EOsat",
     "names":"",
     "image":"",
@@ -47647,8 +47600,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.720240Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T04:53:25.076907Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47656,8 +47609,8 @@
   },
   {
     "sat_id":"QRWE-3933-7174-7805-6481",
-    "norad_cat_id":98812.0,
-    "norad_follow_id":60554.0,
+    "norad_cat_id":60554.0,
+    "norad_follow_id":null,
     "name":"UM5Sat-Ribat",
     "names":"",
     "image":"",
@@ -47671,8 +47624,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-30T02:59:31.688637Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/121",
+    "updated":"2024-10-24T04:54:09.765609Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48020,21 +47973,21 @@
     "sat_id":"HMLT-0173-5504-1396-8170",
     "norad_cat_id":60506.0,
     "norad_follow_id":null,
-    "name":"OBJECT AQ",
-    "names":"2024-149AQ",
+    "name":"LUR-1",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2024-08-16T00:00:00Z",
-    "deployed":"2024-08-16T00:00:00Z",
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T20:16:23Z",
     "website":"",
     "operator":"None",
-    "countries":"DZ",
+    "countries":"ES",
     "telemetries":[
 
     ],
-    "updated":"2024-09-02T06:50:51.095079Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1MMqb0JtHk7GEZ3uSe0qzceLItEsWncebpqHiTkZgZmQ\/edit?usp=sharing",
+    "updated":"2024-10-24T05:06:21.767136Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48066,8 +48019,8 @@
   },
   {
     "sat_id":"ZLIE-7804-8915-4694-4659",
-    "norad_cat_id":98805.0,
-    "norad_follow_id":60580.0,
+    "norad_cat_id":60580.0,
+    "norad_follow_id":null,
     "name":"Sedna-1",
     "names":"",
     "image":"",
@@ -48081,7 +48034,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-13T05:31:51.547992Z",
+    "updated":"2024-10-24T08:43:17.048017Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -48467,6 +48420,30 @@
     ],
     "updated":"2024-10-22T07:15:57.386434Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1GJ_O-Xrg4B0qWmmkSzENW6EygmbTPjQclsaf1L0Z6zg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AABR-3536-2999-0450-7982",
+    "norad_cat_id":60549.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X40",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-08-16T18:56:00Z",
+    "deployed":"2024-08-16T21:31:33Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-24T08:52:23.467371Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/160",
     "is_frequency_violator":false,
     "associated_satellites":[
 

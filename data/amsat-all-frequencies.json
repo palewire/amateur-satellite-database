@@ -2670,7 +2670,7 @@
     "mode":"4800bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ZTUR-8052-1950-5911-7314"
   },
   {
     "name":"BRO-15",
@@ -2681,7 +2681,7 @@
     "mode":"4800bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"PUFM-6212-8243-7442-9645"
   },
   {
     "name":"BSUSat-1",
@@ -3913,7 +3913,7 @@
     "mode":"4800bps GMSK",
     "callsign":"CNT001",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"DHAI-1690-5774-0137-6112"
   },
   {
     "name":"ConnectaIoT-2",
@@ -3924,7 +3924,7 @@
     "mode":"4800bps GMSK",
     "callsign":"CNT002",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"XALK-4525-5943-5013-3699"
   },
   {
     "name":"ConnectaIoT-3",
@@ -3935,7 +3935,7 @@
     "mode":"4800bps GMSK",
     "callsign":"CNT003",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"BEFZ-9879-2316-3685-3950"
   },
   {
     "name":"ConnectaIoT-4",
@@ -3946,7 +3946,7 @@
     "mode":"4800bps GMSK",
     "callsign":"CNT004",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"QMTG-4209-6674-7825-1293"
   },
   {
     "name":"Connecta-T1_1",
@@ -4562,7 +4562,7 @@
     "mode":"1200bps BPSK",
     "callsign":"VK2USY",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"QKJA-9333-9603-3019-1322"
   },
   {
     "name":"CubeBel-1",
@@ -4947,7 +4947,7 @@
     "mode":"9600bps GMSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"IYTF-0254-0953-7251-9719"
   },
   {
     "name":"DEKART",
@@ -5849,7 +5849,7 @@
     "mode":"4800bps FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"OZFM-4525-5507-9609-6820"
   },
   {
     "name":"ESAIL",
@@ -6850,7 +6850,7 @@
     "mode":"4800bps FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JZKF-3943-1313-5044-2973"
   },
   {
     "name":"Galassia",
@@ -8236,7 +8236,7 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"LWDE-7403-4643-6587-2546"
   },
   {
     "name":"ION-SCV-013",
@@ -8324,7 +8324,7 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"EBRB-9167-1241-1151-0289"
   },
   {
     "name":"IPEX",
@@ -8929,7 +8929,7 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"FAWS-4397-4381-8570-0757"
   },
   {
     "name":"KASHIWA",
@@ -11019,7 +11019,7 @@
     "mode":"4800bps GFSK",
     "callsign":"XX0UHF",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"BGSA-1802-1526-4835-1410"
   },
   {
     "name":"NIUSAT",
@@ -11954,7 +11954,7 @@
     "mode":"9600bps GMSK",
     "callsign":"KJ7SAT-11",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"DKCD-1609-0567-7056-3922"
   },
   {
     "name":"OrigamiSat-1",
@@ -13032,7 +13032,7 @@
     "mode":"9600bps GFSK",
     "callsign":"PT4F1N",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"UOLM-4510-8859-5501-3189"
   },
   {
     "name":"PTD-R",
@@ -13043,7 +13043,7 @@
     "mode":"9600bps GFSK",
     "callsign":"PTRF1N",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"FPXO-5324-9844-5215-6363"
   },
   {
     "name":"PTecSat",
@@ -13307,7 +13307,7 @@
     "mode":"9600bps GFSK",
     "callsign":"DP2QU",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ZYDE-4447-8719-9309-2022"
   },
   {
     "name":"Qubesat",
@@ -14550,7 +14550,7 @@
     "mode":"2400bps BPSK",
     "callsign":"BN0TR2",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"IYBG-5656-4053-4485-9560"
   },
   {
     "name":"Saturn",
@@ -14704,7 +14704,7 @@
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ZLIE-7804-8915-4694-4659"
   },
   {
     "name":"SEEDS",
@@ -17729,7 +17729,7 @@
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"XX0UHF",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"BRVJ-5081-2405-0905-4894"
   },
   {
     "name":"TO-31",
@@ -18158,7 +18158,7 @@
     "mode":"19k2BPSK 38k4FSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"BVAM-1721-9431-5775-2144"
   },
   {
     "name":"UiTMSat-1",
@@ -18213,7 +18213,7 @@
     "mode":"2400bps GFSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"QRWE-3933-7174-7805-6481"
   },
   {
     "name":"UM5Sat-EOsat",
@@ -18224,7 +18224,7 @@
     "mode":"2400bps GFSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"YDQM-1508-8291-7641-4635"
   },
   {
     "name":"Umbra-01",
@@ -19027,7 +19027,7 @@
     "mode":"1200bps BPSK",
     "callsign":"VK2USY",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"FQIY-5061-3565-2438-4414"
   },
   {
     "name":"WARP-01",
