@@ -15379,7 +15379,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"kosen1"
+      }
     ],
     "updated":"2023-10-07T18:22:29.005823Z",
     "citation":"http:\/\/space.kochi-ct.jp\/kosen-1\/",
@@ -20949,8 +20951,8 @@
     "name":"CENTAURI 5",
     "names":"TYVAK-0212",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-01T00:00:00Z",
     "launched":"2022-05-25T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -20959,8 +20961,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-27T13:47:35.443057Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-10-25T19:27:47.647048Z",
+    "citation":"https:\/\/www.space-track.org\/#decay",
     "is_frequency_violator":false,
     "associated_satellites":[
 
