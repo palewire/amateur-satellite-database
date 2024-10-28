@@ -44164,7 +44164,7 @@
     ],
     "updated":"2024-04-07T17:11:14.942875Z",
     "citation":"https:\/\/www.n2yo.com\/satellite\/?s=40017",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
