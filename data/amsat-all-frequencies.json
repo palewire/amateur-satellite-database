@@ -8399,7 +8399,7 @@
     "downlink":"400.455\/436.885",
     "beacon":null,
     "mode":"2400bps BPSK",
-    "callsign":null,
+    "callsign":"BN0LL1",
     "status":"unknown",
     "satnogs_id":"BRBP-3780-8068-0622-0984"
   },
@@ -9620,7 +9620,7 @@
     "downlink":"400.455\/436.885",
     "beacon":null,
     "mode":"2400bps BPSK",
-    "callsign":null,
+    "callsign":"BN0LL1",
     "status":"unknown",
     "satnogs_id":"BRBP-3780-8068-0622-0984"
   },
