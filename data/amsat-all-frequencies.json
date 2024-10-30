@@ -3747,7 +3747,7 @@
     "beacon":null,
     "mode":"38400bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"YZJO-4477-2768-8369-0049"
   },
   {
@@ -4858,7 +4858,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"PFNX-8665-0995-8682-5956"
   },
   {
@@ -5166,7 +5166,7 @@
     "beacon":null,
     "mode":"7400bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"QZRL-4914-4557-2700-9931"
   },
   {
@@ -14384,7 +14384,7 @@
     "beacon":"437.050",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":"JG6YPC",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
