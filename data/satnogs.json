@@ -30849,10 +30849,10 @@
     "norad_follow_id":null,
     "name":"RUZAEVKA-390",
     "names":"RS44S, \u0420\u0443\u0437\u0430\u0435\u0432\u043a\u0430-390",
-    "image":"",
+    "image":"satellites\/large_IMG_7149_cbaaa1292f.JPG",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-11-04T23:18:40Z",
     "deployed":null,
     "website":"https:\/\/ruzaevka-390.r4uab.ru\/",
     "operator":"None",
@@ -30860,9 +30860,9 @@
     "telemetries":[
 
     ],
-    "updated":"2023-03-30T09:36:19.356092Z",
-    "citation":"https:\/\/ruzaevka-390.r4uab.ru\/",
-    "is_frequency_violator":false,
+    "updated":"2024-10-31T11:30:37.068463Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/ruzaevka-390\/",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -32926,13 +32926,13 @@
   {
     "sat_id":"YYQF-3337-2968-5093-7946",
     "norad_cat_id":99129.0,
-    "norad_follow_id":57200.0,
+    "norad_follow_id":null,
     "name":"Druzhba ATURK",
     "names":"",
-    "image":"",
+    "image":"satellites\/DSC00181.JPG",
     "status":"future",
     "decayed":null,
-    "launched":"2023-06-28T11:34:00Z",
+    "launched":"2024-11-04T23:18:40Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -32940,8 +32940,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-08T20:35:50.522398Z",
-    "citation":"Satellite Team",
+    "updated":"2024-10-31T11:28:51.409909Z",
+    "citation":"https:\/\/amursu.ru\/about\/news\/Pervyy_rossiysko_kitayskiy_sputnik_dostavili_v_AmGU\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48357,6 +48357,30 @@
     ]
   },
   {
+    "sat_id":"OVJV-1933-3688-6136-9655",
+    "norad_cat_id":98795.0,
+    "norad_follow_id":null,
+    "name":"Altair",
+    "names":"\u0410\u043b\u044c\u0442\u0430\u0438\u0440, RS65S",
+    "image":"satellites\/altair.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-05T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/altair\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:49:29.256306Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/altair\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"SOJH-8000-6493-4357-8832",
     "norad_cat_id":41579.0,
     "norad_follow_id":null,
@@ -48375,6 +48399,102 @@
     ],
     "updated":"2024-10-17T15:22:04.931473Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/14JtjZ-mD2TxXnU4ahH_YxMXCRf001nrNPdOaQAUKtzY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OVBN-0332-6282-0409-5232",
+    "norad_cat_id":98794.0,
+    "norad_follow_id":null,
+    "name":"Colibri-S",
+    "names":"\u041a\u043e\u043b\u0438\u0431\u0440\u0438-\u0421, RS67S",
+    "image":"satellites\/large_6_B4_A7594_b435d67963.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/colibri-s\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:49:08.525531Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/colibri-s\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YDID-3447-4202-8525-9942",
+    "norad_cat_id":98793.0,
+    "norad_follow_id":null,
+    "name":"Horizon",
+    "names":"\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442, Gorizont, RS59S",
+    "image":"satellites\/ddd.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T00:00:00Z",
+    "deployed":"2024-11-05T00:00:00Z",
+    "website":"https:\/\/spacepi.space\/satellites\/gorizont\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:48:56.424437Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/gorizont\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NIAX-2133-1044-8158-9670",
+    "norad_cat_id":98792.0,
+    "norad_follow_id":null,
+    "name":"Ionosfera-M \u21161",
+    "names":"",
+    "image":"satellites\/2024-08-28_09.39.10_large.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:48:47.645851Z",
+    "citation":"https:\/\/www.rocketlaunch.live\/launch\/ionosfera-m-no-1-2",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CDZX-7764-5634-8776-5665",
+    "norad_cat_id":98790.0,
+    "norad_follow_id":null,
+    "name":"Ionosfera-M \u21162",
+    "names":"",
+    "image":"satellites\/2024-08-28_09.39.10_large_rfxSVSr.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:47:47.569840Z",
+    "citation":"https:\/\/www.satnow.com\/launch-mission-details\/ionosfera-m-no-1-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48447,6 +48567,558 @@
     ],
     "updated":"2024-10-24T08:52:23.467371Z",
     "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/160",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SQGD-2208-0540-4983-6683",
+    "norad_cat_id":98789.0,
+    "norad_follow_id":null,
+    "name":"Vizard-ion",
+    "names":"RS68S",
+    "image":"satellites\/large_6_B4_A7305_Vizard_ion_4bec7513ce.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/vizard-ion\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:36:48.583921Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/vizard-ion\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RUKR-0716-8781-6957-0828",
+    "norad_cat_id":98788.0,
+    "norad_follow_id":null,
+    "name":"TUSUR GO",
+    "names":"RS51S",
+    "image":"satellites\/image1.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/tusur-go\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:36:21.051366Z",
+    "citation":"fix",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XZIQ-7009-4472-3546-4651",
+    "norad_cat_id":98787.0,
+    "norad_follow_id":null,
+    "name":"ArcticSat-1",
+    "names":"RS74S",
+    "image":"satellites\/image2.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/arctic-sat-1\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:36:03.200938Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/arctic-sat-1\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WEXS-3459-9433-8558-2912",
+    "norad_cat_id":98786.0,
+    "norad_follow_id":null,
+    "name":"SamSat-Ionosphere",
+    "names":"SamSat-ION, RS75S",
+    "image":"satellites\/SamSat-ION.JPG",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"http:\/\/spaceresearch.ssau.ru\/ru\/samsat-ionosphere",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:35:39.440536Z",
+    "citation":"http:\/\/spaceresearch.ssau.ru\/ru\/samsat-ionosphere",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GAHV-9088-5977-7290-0624",
+    "norad_cat_id":98785.0,
+    "norad_follow_id":null,
+    "name":"MORDOVIA-IOT",
+    "names":"RS50S",
+    "image":"satellites\/large_IMG_7150_34d1edfc12.JPG",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/mordoviya-io-t\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:29:01.016505Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/mordoviya-io-t\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YHMX-0830-1142-9934-3756",
+    "norad_cat_id":98784.0,
+    "norad_follow_id":null,
+    "name":"Vladivostok-1",
+    "names":"",
+    "image":"satellites\/1200x1145_1_880bd65a7d9b4b8d46b8c928457896271200x1145_0xsdQs6NaA_69017491440_SyDCS7L.webp",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:28:24.233718Z",
+    "citation":"https:\/\/vladivostok1.ru\/text\/science\/2024\/04\/13\/73459361\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XQMC-1711-8221-5134-0228",
+    "norad_cat_id":98783.0,
+    "norad_follow_id":null,
+    "name":"YUZGU-60",
+    "names":"RS41S",
+    "image":"satellites\/large_acetone_2024527_14485_650_6f646849cd.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/yu-zgu-60\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:28:06.988713Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/yu-zgu-60\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZSXX-2274-2663-0092-3099",
+    "norad_cat_id":98782.0,
+    "norad_follow_id":null,
+    "name":"Nokhcho",
+    "names":"RS79S",
+    "image":"satellites\/large_IMG_7917_500672b775.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/nohcho\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:27:11.373282Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/nohcho\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DQTX-7069-3845-7154-3428",
+    "norad_cat_id":98781.0,
+    "norad_follow_id":null,
+    "name":"HyperView-1G",
+    "names":"RS66S",
+    "image":"satellites\/large_photo_5217502748101173130_y_6ac3b4320e.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/hyper-view-1-g\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:26:42.325046Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/hyper-view-1-g\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LNIX-1421-5820-7502-3419",
+    "norad_cat_id":98780.0,
+    "norad_follow_id":null,
+    "name":"MTUSI-1",
+    "names":"",
+    "image":"satellites\/5346494596.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:26:37.992115Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YPXG-5912-9779-4324-1114",
+    "norad_cat_id":98779.0,
+    "norad_follow_id":null,
+    "name":"Hors 3",
+    "names":"RS81S",
+    "image":"satellites\/khors-1__1_acuSFYs_eVylg7o.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/bsail.ru\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:23:23.206876Z",
+    "citation":"https:\/\/bsail.ru\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WNQV-7170-2922-7065-7055",
+    "norad_cat_id":98778.0,
+    "norad_follow_id":null,
+    "name":"Hors 4",
+    "names":"RS82S",
+    "image":"satellites\/khors-1__1_acuSFYs_VkrcYE8.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/bsail.ru\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:23:09.106393Z",
+    "citation":"https:\/\/bsail.ru\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FDFJ-7313-9264-4594-1095",
+    "norad_cat_id":98777.0,
+    "norad_follow_id":null,
+    "name":"ZIMSAT-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU,ZW",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:22:55.477888Z",
+    "citation":"http:\/\/spaceinafrica.com\/2024\/06\/20\/zimbabwe-set-to-launch-zimsat-2-in-q4-2024\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EVRJ-3332-4264-7494-9956",
+    "norad_cat_id":98776.0,
+    "norad_follow_id":null,
+    "name":"Polytech Universe-4",
+    "names":"RS71S",
+    "image":"satellites\/large_IMG_7152_ef7d3d9244.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/politeh-yunivers-4\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:22:46.688204Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/politeh-yunivers-4\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZLTQ-9575-6465-7964-8959",
+    "norad_cat_id":98775.0,
+    "norad_follow_id":null,
+    "name":"Polytech Universe-5",
+    "names":"RS70S",
+    "image":"satellites\/large_IMG_7386_c14270c9fd.JPG",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/politeh-yunivers-5\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:22:30.315031Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/politeh-yunivers-5\/",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PGYI-7132-9309-6598-0525",
+    "norad_cat_id":98774.0,
+    "norad_follow_id":null,
+    "name":"SIT-HSE",
+    "names":"",
+    "image":"satellites\/large_SXC_3_V_Sh_E_1_ad8fb740d7.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/sit-hse\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:22:16.450233Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/sit-hse\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WQFZ-2668-6663-7878-5978",
+    "norad_cat_id":98773.0,
+    "norad_follow_id":null,
+    "name":"SIT-2086",
+    "names":"",
+    "image":"satellites\/large_X7b_L_hk_Qk5_E_5675674c3b.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/spacepi.space\/satellites\/sit-2086\/",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:21:50.893917Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/sit-2086\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PZTP-7474-2420-2319-0048",
+    "norad_cat_id":98772.0,
+    "norad_follow_id":null,
+    "name":"Kosar",
+    "names":"",
+    "image":"satellites\/kosar_real.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/www.spaceomid.com\/",
+    "operator":"None",
+    "countries":"IR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:21:44.876115Z",
+    "citation":"https:\/\/www.spaceomid.com\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WOVV-0972-4230-4960-3415",
+    "norad_cat_id":98771.0,
+    "norad_follow_id":null,
+    "name":"Hod-hod",
+    "names":"",
+    "image":"satellites\/hodhod_real.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"https:\/\/www.spaceomid.com\/",
+    "operator":"None",
+    "countries":"IR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:21:11.448054Z",
+    "citation":"https:\/\/www.spaceomid.com\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EJNQ-6110-0979-2724-0011",
+    "norad_cat_id":98770.0,
+    "norad_follow_id":null,
+    "name":"Norby-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:19:58.325582Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JYUW-3071-2314-1825-5576",
+    "norad_cat_id":98769.0,
+    "norad_follow_id":null,
+    "name":"CSTP-2.1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:19:52.250490Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ANGP-8893-7804-5283-2837",
+    "norad_cat_id":98768.0,
+    "norad_follow_id":null,
+    "name":"CSTP-2.2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:17:49.359336Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IFSO-4320-0068-3369-9339",
+    "norad_cat_id":98767.0,
+    "norad_follow_id":null,
+    "name":"CSTP-2.11",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-04T23:18:40Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T11:16:34.936113Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
