@@ -14998,7 +14998,8 @@
       "BUWP-5954-6798-8223-5464",
       "HPDT-3367-0400-6553-1301",
       "UXBY-2949-4035-5021-7173",
-      "WZSI-1311-1436-0671-9953"
+      "WZSI-1311-1436-0671-9953",
+      "HFUU-8259-9748-8633-3436"
     ]
   },
   {
@@ -33908,8 +33909,8 @@
   },
   {
     "sat_id":"USTP-3065-6786-0293-9874",
-    "norad_cat_id":99106.0,
-    "norad_follow_id":56946.0,
+    "norad_cat_id":56946.0,
+    "norad_follow_id":null,
     "name":"GREGOIRE",
     "names":"Gr\u00e9goire",
     "image":"",
@@ -33923,7 +33924,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-05T08:31:13.182820Z",
+    "updated":"2024-10-30T17:15:53.457144Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -39506,7 +39507,7 @@
   },
   {
     "sat_id":"VJRG-4563-6320-7277-2016",
-    "norad_cat_id":98994.0,
+    "norad_cat_id":58276.0,
     "norad_follow_id":null,
     "name":"GENMAT-1",
     "names":"",
@@ -39521,8 +39522,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.391565Z",
-    "citation":"Change status",
+    "updated":"2024-10-30T18:23:44.738511Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "DARF-2847-7242-5660-2953"
