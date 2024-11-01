@@ -12707,8 +12707,8 @@
     "name":"PAINANI-2",
     "names":"Painani-II",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-31T00:00:00Z",
     "launched":"2021-06-30T19:31:00Z",
     "deployed":null,
     "website":"http:\/\/sitios.iingen.unam.mx\/Painani",
@@ -12717,8 +12717,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T00:01:15.086991Z",
-    "citation":"space-track.org",
+    "updated":"2024-11-01T07:56:19.972921Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48928",
     "is_frequency_violator":false,
     "associated_satellites":[
       "OADV-4057-1501-0815-2263"
@@ -19222,10 +19222,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
