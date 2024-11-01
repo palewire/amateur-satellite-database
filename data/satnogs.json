@@ -19222,10 +19222,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -49119,6 +49119,30 @@
     ],
     "updated":"2024-10-31T11:16:34.936113Z",
     "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CDSD-9813-0772-9773-9894",
+    "norad_cat_id":28479.0,
+    "norad_follow_id":null,
+    "name":"TANSUO 2",
+    "names":"TS-2, SHIYAN 2, SY-2",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2004-11-18T00:00:00Z",
+    "deployed":"2004-11-18T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-10-31T22:01:23.431315Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
