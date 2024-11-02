@@ -32904,20 +32904,20 @@
     "norad_cat_id":99130.0,
     "norad_follow_id":null,
     "name":"ASRTU-1",
-    "names":"",
-    "image":"",
+    "names":"BJ2CR, RS64S",
+    "image":"satellites\/ASRTU-1.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2024-11-04T23:18:00Z",
+    "deployed":"2024-11-05T03:36:00Z",
     "website":"",
     "operator":"None",
     "countries":"CN,RU",
     "telemetries":[
 
     ],
-    "updated":"2024-03-04T01:06:04.937809Z",
-    "citation":"Unknown launch time",
+    "updated":"2024-11-01T18:48:47.788151Z",
+    "citation":"Information received from Wei BG2BHC",
     "is_frequency_violator":false,
     "associated_satellites":[
 
