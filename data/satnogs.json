@@ -16070,8 +16070,8 @@
     "name":"ZHUHAI-1 OHS-04",
     "names":"",
     "image":"satellites\/ohs-2__1_Vd2S3vc.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-01T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -16080,8 +16080,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-12T07:22:47.161889Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-11-03T09:59:39.529814Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43443",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18774,8 +18774,8 @@
     "name":"DEWA-Sat1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-30T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"",
@@ -18784,8 +18784,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-14T21:46:47.531198Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=52372.0;all",
+    "updated":"2024-11-03T09:58:49.569987Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -46270,8 +46270,8 @@
     "name":"SR-0 DemoSAT",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-02T00:00:00Z",
     "launched":"2024-08-16T03:47:00Z",
     "deployed":"2024-08-16T04:03:09Z",
     "website":"",
@@ -46282,8 +46282,8 @@
         "decoder":"sr0"
       }
     ],
-    "updated":"2024-08-24T03:11:03.845498Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-60455\/2024-08-24T02%3A53%3A08_10093723_60455_24147B_0-OBJECT-B_0.37262696148147256_B_r24.0_f0.0.png",
+    "updated":"2024-11-03T09:59:57.263120Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=60455",
     "is_frequency_violator":false,
     "associated_satellites":[
       "CIZC-0503-9135-1556-7279"
