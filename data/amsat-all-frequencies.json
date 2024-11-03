@@ -18212,7 +18212,7 @@
     "beacon":null,
     "mode":"2400bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"QRWE-3933-7174-7805-6481"
   },
   {
@@ -18223,7 +18223,7 @@
     "beacon":null,
     "mode":"2400bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"YDQM-1508-8291-7641-4635"
   },
   {

@@ -33746,7 +33746,7 @@
     "name":"FOSSASAT-FEROX 15",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2023-06-12T21:35:00Z",
     "deployed":"2023-06-12T22:34:59Z",
@@ -33756,8 +33756,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-06-11T20:34:28.269334Z",
-    "citation":"space-track.org",
+    "updated":"2024-11-02T14:01:44.269371Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=56938#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49143,6 +49143,54 @@
     ],
     "updated":"2024-10-31T22:01:23.431315Z",
     "citation":"space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AZNF-6576-1154-6636-4568",
+    "norad_cat_id":60521.0,
+    "norad_follow_id":null,
+    "name":"Object BF",
+    "names":"2024-149BF",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-08-16T00:00:00Z",
+    "deployed":"2024-08-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-02T19:53:17.495576Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1rdx9-kZ4PokldCIjrdoNH5QilvRmRZwzYe5D-2VPBBo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FSSJ-1034-5642-3682-6005",
+    "norad_cat_id":60182.0,
+    "norad_follow_id":null,
+    "name":"ALOS-4 Daichi-4",
+    "names":"2024-123A",
+    "image":"satellites\/alos-4.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-07-01T00:00:00Z",
+    "deployed":"2024-07-01T00:00:00Z",
+    "website":"https:\/\/global.jaxa.jp\/projects\/sat\/alos4\/",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-02T20:01:45.453000Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1i7UXuq-strmAbWlHf9ZkROvgtsRBW_r57cInFfGfgbA\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
