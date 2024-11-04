@@ -32904,7 +32904,7 @@
     "norad_cat_id":99130.0,
     "norad_follow_id":null,
     "name":"ASRTU-1",
-    "names":"BJ2CR, RS64S",
+    "names":"Druzhba ATURK, \u0414\u0440\u0443\u0436\u0431\u0430 \u0410\u0422\u0423\u0420\u041a, BJ2CR, RS64S",
     "image":"satellites\/ASRTU-1.png",
     "status":"future",
     "decayed":null,
@@ -32916,8 +32916,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-01T18:48:47.788151Z",
-    "citation":"Information received from Wei BG2BHC",
+    "updated":"2024-11-04T07:02:01.830707Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48649,20 +48649,20 @@
     "norad_cat_id":98786.0,
     "norad_follow_id":null,
     "name":"SamSat-Ionosphere",
-    "names":"SamSat-ION, RS75S",
+    "names":"RS75S, SamSat-Ionosfera, SamSat-ION2",
     "image":"satellites\/SamSat-ION.JPG",
     "status":"future",
     "decayed":null,
     "launched":"2024-11-04T23:18:40Z",
     "deployed":null,
-    "website":"http:\/\/spaceresearch.ssau.ru\/ru\/samsat-ionosphere",
+    "website":"https:\/\/spaceresearch.ssau.ru\/en\/samsat-ionosfera",
     "operator":"None",
     "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2024-10-31T11:35:39.440536Z",
-    "citation":"http:\/\/spaceresearch.ssau.ru\/ru\/samsat-ionosphere",
+    "updated":"2024-11-04T07:01:36.972983Z",
+    "citation":"https:\/\/spaceresearch.ssau.ru\/en\/samsat-ionosfera",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49191,6 +49191,30 @@
     ],
     "updated":"2024-11-02T20:01:45.453000Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1i7UXuq-strmAbWlHf9ZkROvgtsRBW_r57cInFfGfgbA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AFZR-4710-3697-2258-2005",
+    "norad_cat_id":49256.0,
+    "norad_follow_id":null,
+    "name":"JILIN-01 GAOFEN 2D",
+    "names":"2021-086A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-09-27T00:00:00Z",
+    "deployed":"2021-09-27T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-04T10:51:57.072234Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/18BMkQV47aZuDBwJ7PwMBa-5jXRJLY5VIcabTtJCZGsc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
