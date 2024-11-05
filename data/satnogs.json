@@ -49243,5 +49243,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"XNLL-7156-6531-5656-5504",
+    "norad_cat_id":98766.0,
+    "norad_follow_id":null,
+    "name":"S2.1b Unknown 1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-05T06:57:46.272731Z",
+    "citation":"PE0SAT strf observation",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NFQU-3521-4316-6654-7962",
+    "norad_cat_id":98765.0,
+    "norad_follow_id":null,
+    "name":"S2.1b Unknown 2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-05T06:58:30.357959Z",
+    "citation":"PE0SAT strf observation",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
   }
 ]
