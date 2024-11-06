@@ -14333,6 +14333,17 @@
     "satnogs_id":"IDEJ-3292-6865-3492-6224"
   },
   {
+    "name":"RUZAEVKA-390",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.050",
+    "beacon":null,
+    "mode":"1143bps AFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"RWASAT-1",
     "norad_id":"44790",
     "uplink":null,
