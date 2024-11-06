@@ -39728,8 +39728,8 @@
     "name":"HADES-D",
     "names":"SO-121, HYDRA-1",
     "image":"satellites\/cache_18682954.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-06T01:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat-ea.org\/",
@@ -39740,8 +39740,8 @@
         "decoder":"hadesd"
       }
     ],
-    "updated":"2024-08-22T14:32:12.875252Z",
-    "citation":"dl7ndr",
+    "updated":"2024-11-06T07:54:56.490777Z",
+    "citation":"https:\/\/community.libre.space\/t\/hades-d-re-entry\/12441\/14",
     "is_frequency_violator":false,
     "associated_satellites":[
       "GPAF-9192-7239-6875-5127"
@@ -46328,7 +46328,9 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"aepex"
+      }
     ],
     "updated":"2024-08-12T23:44:30.225498Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/314",
@@ -47739,8 +47741,8 @@
     "name":"Binar-3",
     "names":"",
     "image":"satellites\/Binar-3.JPG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-05T00:00:00Z",
     "launched":"2024-08-05T00:00:00Z",
     "deployed":"2024-08-29T11:20:00Z",
     "website":"https:\/\/www.binarspace.com\/binar-234-567-missions",
@@ -47749,8 +47751,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-10T05:53:48.381786Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/116",
+    "updated":"2024-11-06T07:52:24.669104Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=60957",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47763,8 +47765,8 @@
     "name":"Binar-4",
     "names":"",
     "image":"satellites\/Binar-4.JPG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-05T00:00:00Z",
     "launched":"2024-08-05T00:00:00Z",
     "deployed":"2024-08-29T11:20:00Z",
     "website":"https:\/\/www.binarspace.com\/binar-234-567-missions",
@@ -47773,8 +47775,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-10T05:53:53.074363Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/116",
+    "updated":"2024-11-06T07:52:28.682965Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=60952",
     "is_frequency_violator":false,
     "associated_satellites":[
       "WLHU-6693-3141-7478-5313"
@@ -48577,7 +48579,7 @@
     "norad_cat_id":98788.0,
     "norad_follow_id":null,
     "name":"TUSUR GO",
-    "names":"RS51S",
+    "names":"RS78S",
     "image":"satellites\/image1.png",
     "status":"alive",
     "decayed":null,
@@ -48589,8 +48591,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:54.889848Z",
-    "citation":"Change Status",
+    "updated":"2024-11-06T07:52:15.341661Z",
+    "citation":"https:\/\/spacepi.space\/satellites\/tusur-go\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
