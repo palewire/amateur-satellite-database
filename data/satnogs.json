@@ -45617,8 +45617,8 @@
   },
   {
     "sat_id":"LRPR-7984-5193-0374-6707",
-    "norad_cat_id":98880.0,
-    "norad_follow_id":60235.0,
+    "norad_cat_id":60239.0,
+    "norad_follow_id":null,
     "name":"Ariane 6 - Upper Stage",
     "names":"",
     "image":"",
@@ -45632,8 +45632,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-10T13:09:05.062471Z",
-    "citation":"https:\/\/community.libre.space\/t\/ariane-6-va262-2024-07-09-19-00-utc\/11959\/26",
+    "updated":"2024-11-06T19:21:52.071184Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49290,6 +49290,30 @@
     "updated":"2024-11-05T06:58:30.357959Z",
     "citation":"PE0SAT strf observation",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LICR-0509-3868-4896-9571",
+    "norad_cat_id":60235.0,
+    "norad_follow_id":null,
+    "name":"24128A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-06T19:51:56.522691Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1K0Klz1ya500xAI-uJznnu-DPzr_FkifWnHfmtZQTAT0\/edit?usp=sharing",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]

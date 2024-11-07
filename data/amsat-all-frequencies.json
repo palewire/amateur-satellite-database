@@ -6960,7 +6960,7 @@
     "mode":"FT8 SSTV DATV",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LRPR-7984-5193-0374-6707"
   },
   {
     "name":"GENESIS-G",
@@ -11921,7 +11921,7 @@
     "mode":"9600bps GMSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LICR-0509-3868-4896-9571"
   },
   {
     "name":"ORCASAT",
@@ -13670,7 +13670,7 @@
     "mode":"9600bps GMSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LICR-0509-3868-4896-9571"
   },
   {
     "name":"ReshUCube-1",
@@ -19544,7 +19544,7 @@
     "mode":"FT8 SSTV DATV",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LRPR-7984-5193-0374-6707"
   },
   {
     "name":"YukonSat",
