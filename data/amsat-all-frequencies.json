@@ -465,7 +465,7 @@
     "name":"Altair",
     "norad_id":null,
     "uplink":null,
-    "downlink":"435.615",
+    "downlink":"435.615\/435.715",
     "beacon":null,
     "mode":"4800bps BPSK",
     "callsign":"RS65S",
@@ -7871,7 +7871,7 @@
     "downlink":"436.540",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
+    "callsign":"RS66S",
     "status":"unknown",
     "satnogs_id":null
   },
