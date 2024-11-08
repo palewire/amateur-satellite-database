@@ -19222,10 +19222,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -19616,8 +19616,8 @@
     "name":"INS-2TD",
     "names":"",
     "image":"satellites\/INS-2TD.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-07T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/www.isro.gov.in\/Spacecraft\/ins-2td",
@@ -19626,8 +19626,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-04-15T21:13:09.003560Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-11-07T13:53:10.941958Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
