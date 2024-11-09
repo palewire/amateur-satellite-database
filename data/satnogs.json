@@ -18124,18 +18124,18 @@
     "name":"SATLLA-2B",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-01-13T15:25:00Z",
-    "deployed":null,
+    "deployed":"2024-11-08T00:00:00Z",
     "website":"https:\/\/www.ariel-asc.com\/nes-space",
     "operator":"None",
     "countries":"IL",
     "telemetries":[
 
     ],
-    "updated":"2022-01-20T04:51:04.127728Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=769",
+    "updated":"2024-11-09T08:17:55.759522Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=50986",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18485,18 +18485,18 @@
     "name":"MDQube-SAT1",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2022-01-13T15:25:00Z",
-    "deployed":null,
+    "deployed":"2024-11-08T00:00:00Z",
     "website":"",
     "operator":"None",
     "countries":"AR",
     "telemetries":[
 
     ],
-    "updated":"2022-01-20T04:51:04.110571Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=52372.0;all",
+    "updated":"2024-11-09T08:18:16.410465Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=50986",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19222,10 +19222,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -26224,8 +26224,8 @@
     "name":"Umbra 02",
     "names":"",
     "image":"satellites\/Umbra-satellite2_MfvJqsl.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-08T00:00:00Z",
     "launched":"2022-01-13T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/umbra.space\/",
@@ -26234,8 +26234,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-31T15:34:15.142002Z",
-    "citation":"https:\/\/space-track.org",
+    "updated":"2024-11-09T08:17:22.899437Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=50986",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48689,7 +48689,7 @@
     ],
     "updated":"2024-11-04T22:25:54.668948Z",
     "citation":"Change Status",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -48843,7 +48843,7 @@
     "norad_cat_id":98777.0,
     "norad_follow_id":null,
     "name":"ZIMSAT-2",
-    "names":"",
+    "names":"Z2AS",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -48855,8 +48855,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:55.135066Z",
-    "citation":"Change Status",
+    "updated":"2024-11-09T10:42:05.294436Z",
+    "citation":"https:\/\/t.me\/amateursat\/194737",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -49025,7 +49025,7 @@
     ],
     "updated":"2024-11-04T22:25:55.174700Z",
     "citation":"Change Status",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -49049,7 +49049,7 @@
     ],
     "updated":"2024-11-04T22:25:55.063398Z",
     "citation":"Change Status",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -49097,7 +49097,7 @@
     ],
     "updated":"2024-11-04T22:25:55.078800Z",
     "citation":"Change Status",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -49313,6 +49313,30 @@
     ],
     "updated":"2024-11-06T19:51:56.522691Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1K0Klz1ya500xAI-uJznnu-DPzr_FkifWnHfmtZQTAT0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VDAK-9658-1991-0734-5338",
+    "norad_cat_id":98764.0,
+    "norad_follow_id":null,
+    "name":"S2.1b Unknown 3",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-09T10:59:57.610440Z",
+    "citation":"PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
