@@ -1399,11 +1399,11 @@
   {
     "name":"ASRTU-1",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"145.875",
     "downlink":"435.400\/436.210\/10460.000",
     "beacon":null,
-    "mode":"9k6BPSK NBFM QSPK",
-    "callsign":null,
+    "mode":"9k6BPSK NBFM QSPK FM",
+    "callsign":"RS64S BJ2CR",
     "status":"unknown",
     "satnogs_id":null
   },

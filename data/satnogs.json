@@ -47717,8 +47717,8 @@
     "name":"Binar-2",
     "names":"",
     "image":"satellites\/Binar-2.JPG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-11T00:00:00Z",
     "launched":"2024-08-05T00:00:00Z",
     "deployed":"2024-08-29T11:20:00Z",
     "website":"https:\/\/www.binarspace.com\/binar-234-567-missions",
@@ -47727,8 +47727,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-10T05:53:38.130558Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/116",
+    "updated":"2024-11-11T12:41:04.498222Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=60956",
     "is_frequency_violator":false,
     "associated_satellites":[
       "LOHG-6386-3229-4933-4671"
@@ -49337,7 +49337,7 @@
     ],
     "updated":"2024-11-09T10:59:57.610440Z",
     "citation":"PE0SAT strf observation",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
