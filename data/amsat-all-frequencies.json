@@ -2108,7 +2108,7 @@
     "beacon":"437.700",
     "mode":"1k2\/9k6*\/19k2\/38k4 GFSK CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"FACZ-7987-8249-5385-5279"
   },
   {
@@ -2119,7 +2119,7 @@
     "beacon":"437.850",
     "mode":"1k2\/9k6*\/19k2\/38k4 GFSK CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"EHBA-7491-4486-7496-1223"
   },
   {
@@ -2130,7 +2130,7 @@
     "beacon":"437.925",
     "mode":"1k2\/9k6*\/19k2\/38k4 GFSK CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"WJHX-1326-6381-8250-7903"
   },
   {
