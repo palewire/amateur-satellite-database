@@ -19222,10 +19222,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -37672,7 +37672,7 @@
     ],
     "updated":"2024-07-31T14:22:56.378884Z",
     "citation":"Satellite team",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -46739,7 +46739,9 @@
     "operator":"None",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"qube"
+      }
     ],
     "updated":"2024-10-24T03:35:19.756021Z",
     "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147",
@@ -49889,6 +49891,30 @@
     ],
     "updated":"2024-11-12T23:25:33.364373Z",
     "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/127",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AXCZ-4705-5485-4454-6620",
+    "norad_cat_id":98739.0,
+    "norad_follow_id":null,
+    "name":"S2.1b Unknown 4",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-14T11:54:45.785421Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
