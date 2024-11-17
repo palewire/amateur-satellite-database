@@ -6930,6 +6930,17 @@
     "satnogs_id":"BYRQ-8084-9850-7997-7193"
   },
   {
+    "name":"Gardens-01",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Gardens-02",
     "norad_id":"59508",
     "uplink":"145.825",
