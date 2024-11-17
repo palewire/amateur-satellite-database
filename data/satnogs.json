@@ -11413,8 +11413,8 @@
     "name":"SOMP 2b",
     "names":"",
     "image":"satellites\/SOMP_2b.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-15T00:00:00Z",
     "launched":"2021-01-24T15:00:00Z",
     "deployed":"2021-01-24T15:00:00Z",
     "website":"",
@@ -11423,8 +11423,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.870078Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-11-16T21:50:51.832691Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=47445",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49916,6 +49916,30 @@
     "updated":"2024-11-14T11:54:45.785421Z",
     "citation":"Network observations",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"COFT-0575-4039-6031-9555",
+    "norad_cat_id":59121.0,
+    "norad_follow_id":null,
+    "name":"LYNK TOWER 5",
+    "names":"2024-043Z",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":"2024-03-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-16T12:58:11.560974Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1jbxnj7WkPxHYHwoi7TwF2lz5cYcHSnSnwzWOEFvjP0o\/edit?usp=sharing",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
