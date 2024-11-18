@@ -49921,6 +49921,30 @@
     ]
   },
   {
+    "sat_id":"CTLT-1596-4145-9313-4411",
+    "norad_cat_id":98738.0,
+    "norad_follow_id":null,
+    "name":"LignoSat",
+    "names":"",
+    "image":"satellites\/LignoSat.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-05T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/space.innovationkyoto.org\/amateur-radio-operators\/",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-18T10:21:39.955631Z",
+    "citation":"Adding Temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"COFT-0575-4039-6031-9555",
     "norad_cat_id":59121.0,
     "norad_follow_id":null,
