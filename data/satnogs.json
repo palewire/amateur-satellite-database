@@ -49967,5 +49967,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"IIDD-9999-6665-9855-8642",
+    "norad_cat_id":46265.0,
+    "norad_follow_id":null,
+    "name":"SAOCOM 1-B",
+    "names":"2020-059A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-08-30T00:00:00Z",
+    "deployed":"2020-08-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"AR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-18T20:52:52.343056Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1_C4QsSCp5zxre4ZjTc0Y2nU_DITbaAh0Qr5l1jJC_lk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
