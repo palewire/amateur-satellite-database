@@ -39460,11 +39460,11 @@
   {
     "sat_id":"MYSZ-0041-3878-3705-7860",
     "norad_cat_id":98995.0,
-    "norad_follow_id":null,
+    "norad_follow_id":58290.0,
     "name":"SPACEANT-D",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2023-11-12T06:49:00Z",
     "deployed":"2023-11-29T12:25:00Z",
@@ -39474,8 +39474,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-30T08:27:35.604511Z",
-    "citation":"s",
+    "updated":"2024-11-20T22:01:01.499039Z",
+    "citation":"Randomly assigned this decayed TLE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48981,7 +48981,7 @@
     "citation":"Change Status",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "AXCZ-4705-5485-4454-6620"
     ]
   },
   {
@@ -49892,30 +49892,6 @@
     "updated":"2024-11-12T23:25:33.364373Z",
     "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/127",
     "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"AXCZ-4705-5485-4454-6620",
-    "norad_cat_id":98739.0,
-    "norad_follow_id":null,
-    "name":"S2.1b Unknown 4",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2024-11-14T11:54:45.785421Z",
-    "citation":"Network observations",
-    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
