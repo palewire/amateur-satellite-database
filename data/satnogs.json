@@ -49967,5 +49967,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"LNSX-3317-6241-3552-3606",
+    "norad_cat_id":98737.0,
+    "norad_follow_id":null,
+    "name":"NILA",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-21T08:50:36.837870Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/320",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
