@@ -3994,8 +3994,8 @@
     "name":"XW-2B",
     "names":"CAS-3B",
     "image":"satellites\/xw2b_small.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-22T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -4004,8 +4004,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.231377Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-11-22T08:17:28.666275Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
