@@ -38932,7 +38932,7 @@
   {
     "sat_id":"XKOW-1773-2303-4677-5564",
     "norad_cat_id":99015.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60550.0,
     "name":"Sateliot 1",
     "names":"",
     "image":"",
@@ -38946,8 +38946,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:07.183531Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-11-21T20:09:51.504166Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
