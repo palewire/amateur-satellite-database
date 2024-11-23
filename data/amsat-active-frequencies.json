@@ -3280,16 +3280,6 @@
     "satnogs_id":"ESPB-1611-5692-0685-8383"
   },
   {
-    "name":"UVSQ-Sat",
-    "norad_id":"47438",
-    "uplink":"145.905",
-    "downlink":"437.020",
-    "beacon":null,
-    "mode":"1k2\/9k6* BPSK FM*",
-    "callsign":"LATMOS-1",
-    "satnogs_id":"VFOS-7446-8140-1963-2095"
-  },
-  {
     "name":"UWE-4",
     "norad_id":"43880",
     "uplink":"437.375",

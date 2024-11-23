@@ -2559,7 +2559,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -2570,7 +2570,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -7206,14 +7206,14 @@
   },
   {
     "name":"GOMX-4B",
-    "norad_id":"43198",
+    "norad_id":"43196",
     "uplink":null,
     "downlink":"400.800",
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"non-amateur",
-    "satnogs_id":null
+    "status":"re-entered",
+    "satnogs_id":"LQPY-8821-4598-4140-0055"
   },
   {
     "name":"Gorizont",
@@ -10446,7 +10446,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"non-amateur",
+    "status":"re-entered",
     "satnogs_id":"PUYT-6109-4558-2471-5378"
   },
   {
@@ -13515,7 +13515,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -13823,7 +13823,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -18190,7 +18190,7 @@
     "beacon":"437.275",
     "mode":"1200bps AFSK CW",
     "callsign":"JQ1ZHX",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -18377,7 +18377,7 @@
     "beacon":null,
     "mode":"9k6 GMSK\/5Mbps OFDM",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"YAZV-7302-9755-5634-8209"
   },
   {
@@ -19004,7 +19004,7 @@
     "beacon":null,
     "mode":"1k2\/9k6* BPSK FM*",
     "callsign":"LATMOS-1",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"VFOS-7446-8140-1963-2095"
   },
   {
@@ -19554,7 +19554,7 @@
     "beacon":null,
     "mode":"9k6 GMSK\/5Mbps OFDM",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"YAZV-7302-9755-5634-8209"
   },
   {

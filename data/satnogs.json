@@ -38956,7 +38956,7 @@
   {
     "sat_id":"RXGK-5478-2795-8497-0753",
     "norad_cat_id":99014.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60534.0,
     "name":"Sateliot 2",
     "names":"",
     "image":"",
@@ -38970,8 +38970,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.876839Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-11-22T21:35:05.693040Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38980,7 +38980,7 @@
   {
     "sat_id":"DBDL-2985-5402-8531-7144",
     "norad_cat_id":99013.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60552.0,
     "name":"Sateliot 3",
     "names":"",
     "image":"",
@@ -38994,8 +38994,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.648864Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-11-22T21:35:55.569880Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39004,7 +39004,7 @@
   {
     "sat_id":"JQHM-8127-3513-9403-7150",
     "norad_cat_id":99012.0,
-    "norad_follow_id":null,
+    "norad_follow_id":60537.0,
     "name":"Sateliot 4",
     "names":"",
     "image":"",
@@ -39018,8 +39018,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.210867Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-11-22T21:35:29.434667Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
