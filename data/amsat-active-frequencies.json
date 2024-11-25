@@ -100,6 +100,16 @@
     "satnogs_id":"PMAW-9203-2442-8666-3249"
   },
   {
+    "name":"AO-123",
+    "norad_id":null,
+    "uplink":"145.875",
+    "downlink":"435.400\/436.210\/10460.000",
+    "beacon":null,
+    "mode":"9k6BPSK NBFM QSPK FM",
+    "callsign":"RS64S BJ2CR",
+    "satnogs_id":null
+  },
+  {
     "name":"ARGOS-4",
     "norad_id":"54023",
     "uplink":null,

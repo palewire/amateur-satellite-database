@@ -19222,10 +19222,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -32904,7 +32904,7 @@
     "norad_cat_id":99130.0,
     "norad_follow_id":null,
     "name":"ASRTU-1",
-    "names":"Druzhba ATURK, \u0414\u0440\u0443\u0436\u0431\u0430 \u0410\u0422\u0423\u0420\u041a, BJ2CR, RS64S",
+    "names":"AO-123, Druzhba ATURK, \u0414\u0440\u0443\u0436\u0431\u0430 \u0410\u0422\u0423\u0420\u041a, BJ2CR, RS64S",
     "image":"satellites\/ASRTU-1.png",
     "status":"alive",
     "decayed":null,
@@ -32916,8 +32916,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:54.911072Z",
-    "citation":"Change Status",
+    "updated":"2024-11-24T12:30:25.190759Z",
+    "citation":"Update other names",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YYQF-3337-2968-5093-7946"
