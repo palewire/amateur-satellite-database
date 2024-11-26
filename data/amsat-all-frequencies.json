@@ -15186,7 +15186,7 @@
     "downlink":"401.030",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
+    "callsign":"SC2335-1",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -15197,7 +15197,7 @@
     "downlink":"401.015",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":null,
+    "callsign":"SC2336-1",
     "status":"unknown",
     "satnogs_id":null
   },
