@@ -16855,7 +16855,7 @@
     "name":"Surveillance",
     "norad_id":null,
     "uplink":null,
-    "downlink":"436.550",
+    "downlink":"400.130\/436.550",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,

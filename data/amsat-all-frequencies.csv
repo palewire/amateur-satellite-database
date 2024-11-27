@@ -1531,7 +1531,7 @@ Suomi-100,43804,,437.775/2410.000,,9600bps FSK,,active,MUVJ-0454-0662-1172-2559
 SUPERDOVE-003,,,2246.000,,FM,,inactive,
 Supernova-Beta,,,437.570,,1200bps AFSK,,failure,
 SurfSat,43614,,437.275,,9600bps FSK,,re-entered,GJWI-0355-3023-2147-0500
-Surveillance,,,436.550,,LoRa,,unknown,
+Surveillance,,,400.130/436.550,,LoRa,,unknown,
 SuryaSatellite-1,55181,145.825,145.825,435.825,1k2AFSK APRS CW,YH1SSS,re-entered,
 SUSat,42730,,436.775,,9600bps FSK,,re-entered,XRUL-9238-9871-5557-2420
 Svyatobor-1,57187,,437.875,,2k4/4k8*/9k6 GMSK_USP,,active,LWVG-4743-3629-4474-1375
