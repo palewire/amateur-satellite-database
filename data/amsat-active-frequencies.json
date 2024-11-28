@@ -760,16 +760,6 @@
     "satnogs_id":"ZAVF-3403-5726-0559-1255"
   },
   {
-    "name":"CosmoGirl-Sat",
-    "norad_id":"60953",
-    "uplink":"145.825",
-    "downlink":"145.825\/437.120",
-    "beacon":"437.120",
-    "mode":"1k2AFSK 4k8GMSK APRS CW*",
-    "callsign":"JS1YOI",
-    "satnogs_id":"UKHU-7340-5378-6404-2316"
-  },
-  {
     "name":"CO-55",
     "norad_id":"27844",
     "uplink":null,
@@ -1090,16 +1080,6 @@
     "satnogs_id":"HKNJ-5808-9467-1239-6592"
   },
   {
-    "name":"EMMA",
-    "norad_id":"60953",
-    "uplink":"145 825",
-    "downlink":"145 825\/437.120",
-    "beacon":"437.120",
-    "mode":"1k2AFSK 4k8GMSK APRS CW*",
-    "callsign":"JS1YOI",
-    "satnogs_id":"UKHU-7340-5378-6404-2316"
-  },
-  {
     "name":"ENSO",
     "norad_id":"58470",
     "uplink":null,
@@ -1338,16 +1318,6 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "satnogs_id":"BYRQ-8084-9850-7997-7193"
-  },
-  {
-    "name":"Gardens-03",
-    "norad_id":"60954",
-    "uplink":"145.825",
-    "downlink":"437.375",
-    "beacon":"437.375",
-    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
-    "callsign":"JS1YNI",
-    "satnogs_id":"JFWC-2606-2022-6839-3095"
   },
   {
     "name":"GOMX-1",
@@ -2000,6 +1970,16 @@
     "satnogs_id":"PJTC-6029-0615-1270-1207"
   },
   {
+    "name":"Mordovia-IOT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.100",
+    "beacon":null,
+    "mode":"1143bps AFSK SSTV",
+    "callsign":"RS50S",
+    "satnogs_id":null
+  },
+  {
     "name":"MOVE-2",
     "norad_id":"43780",
     "uplink":"437.800",
@@ -2460,14 +2440,14 @@
     "satnogs_id":"AEYC-6866-6455-5236-7157"
   },
   {
-    "name":"SAKURA",
-    "norad_id":"60954",
-    "uplink":"145.825",
-    "downlink":"437.375",
-    "beacon":"437.375",
-    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
-    "callsign":"JS1YNI",
-    "satnogs_id":"JFWC-2606-2022-6839-3095"
+    "name":"Ruzaevka-390",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.050",
+    "beacon":null,
+    "mode":"1143bps AFSK SSTV",
+    "callsign":"RS44S",
+    "satnogs_id":null
   },
   {
     "name":"SamSat-ION",

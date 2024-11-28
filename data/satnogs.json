@@ -48155,14 +48155,14 @@
     "decayed":null,
     "launched":null,
     "deployed":null,
-    "website":"https:\/\/crocube.hr\/en\/",
+    "website":"https:\/\/crocube.hr",
     "operator":"None",
     "countries":"HR",
     "telemetries":[
 
     ],
-    "updated":"2024-09-17T06:38:20.380258Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/316",
+    "updated":"2024-11-28T07:29:17.591749Z",
+    "citation":"Webpage updated",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49987,6 +49987,30 @@
     ],
     "updated":"2024-11-21T08:50:36.837870Z",
     "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/320",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HHVN-9456-4962-8588-2802",
+    "norad_cat_id":98736.0,
+    "norad_follow_id":null,
+    "name":"YOMOGI",
+    "names":"JS1YMX",
+    "image":"satellites\/Satellite.JPG",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-11-05T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/sites.google.com\/s.chibakoudai.jp\/gardens-01-yomogi",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-11-28T07:33:36.196101Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -2011,7 +2011,7 @@ EXOH-8376-4648-5267-7738,61049.0,,Bluebird 04,SPACEMOBILE-004,,alive,,2024-09-12
 WFLL-5358-2469-8463-2991,61045.0,,Bluebird 03,SPACEMOBILE-003,,alive,,2024-09-12T08:52:00Z,,,None,,[],2024-09-21T13:48:15.283088Z,https://celestrak.org,False,['HCQL-6780-8126-4141-6933']
 GBZQ-8100-0439-9888-4769,61048.0,,Bluebird 02,SPACEMOBILE-002,,alive,,2024-09-12T08:52:00Z,,,None,,[],2024-09-21T13:48:26.016361Z,https://celestrak.org,True,['ZECQ-2078-3972-5413-9740']
 XINJ-5605-6217-4155-4529,61047.0,,Bluebird 01,SPACEMOBILE-001,,alive,,2024-09-12T08:52:00Z,,,None,,[],2024-09-21T13:48:36.846277Z,https://celestrak.org,False,[]
-HADL-0708-3181-3728-3212,98799.0,,CroCube,9A0CC,satellites/photo-satnogs.png,future,,,,https://crocube.hr/en/,None,HR,[],2024-09-17T06:38:20.380258Z,https://gitlab.com/librespacefoundation/satnogs-ops/-/issues/316,False,[]
+HADL-0708-3181-3728-3212,98799.0,,CroCube,9A0CC,satellites/photo-satnogs.png,future,,,,https://crocube.hr,None,HR,[],2024-11-28T07:29:17.591749Z,Webpage updated,False,[]
 YZJO-4477-2768-8369-0049,61072.0,,CHAMRAN-1,,satellites/chamran-1.jpg,alive,,2024-09-14T00:00:00Z,2024-09-14T00:00:00Z,,None,IR,[],2024-09-20T17:57:56.344270Z,Found via a STRF obs,True,[]
 PFNX-8665-0995-8682-5956,61501.0,,CYSAT-1,,satellites/cysat-1.jpg,alive,,2024-08-04T15:02:00Z,2024-10-09T10:25:00Z,https://m2i.aere.iastate.edu/cysat/,None,US,[],2024-10-13T06:52:42.365631Z,space-track.org,False,[]
 TJNC-9764-2485-7803-5657,61223.0,,OBJECT D,2024-171D,,alive,,2024-09-20T00:00:00Z,,,None,,[],2024-09-25T14:24:47.719068Z,https://docs.google.com/document/d/10lR5A08Xt_YgvTI1yREZ2fBRSZF2Op98T_V0v-1HoZU/edit?usp=sharing,False,[]
@@ -2088,3 +2088,4 @@ CTLT-1596-4145-9313-4411,98738.0,,LignoSat,,satellites/LignoSat.jpg,future,,2024
 COFT-0575-4039-6031-9555,59121.0,,LYNK TOWER 5,2024-043Z,,alive,,2024-03-04T00:00:00Z,2024-03-04T00:00:00Z,,None,US,[],2024-11-16T12:58:11.560974Z,https://docs.google.com/document/d/1jbxnj7WkPxHYHwoi7TwF2lz5cYcHSnSnwzWOEFvjP0o/edit?usp=sharing,False,[]
 IIDD-9999-6665-9855-8642,46265.0,,SAOCOM 1-B,2020-059A,,alive,,2020-08-30T00:00:00Z,2020-08-30T00:00:00Z,,None,AR,[],2024-11-18T20:52:52.343056Z,https://docs.google.com/document/d/1_C4QsSCp5zxre4ZjTc0Y2nU_DITbaAh0Qr5l1jJC_lk/edit?usp=sharing,False,[]
 LNSX-3317-6241-3552-3606,98737.0,,NILA,,,future,,,,,None,,[],2024-11-21T08:50:36.837870Z,https://gitlab.com/librespacefoundation/satnogs-ops/-/issues/320,False,[]
+HHVN-9456-4962-8588-2802,98736.0,,YOMOGI,JS1YMX,satellites/Satellite.JPG,future,,2024-11-05T00:00:00Z,,https://sites.google.com/s.chibakoudai.jp/gardens-01-yomogi,None,JP,[],2024-11-28T07:33:36.196101Z,Add temporary NORAD ID,False,[]
