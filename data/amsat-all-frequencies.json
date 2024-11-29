@@ -1410,8 +1410,8 @@
   {
     "name":"ASRTU-1",
     "norad_id":null,
-    "uplink":"145.875",
-    "downlink":"435.400\/436.210\/10460.000",
+    "uplink":"145.850*\/145.875",
+    "downlink":"435.400*\/436.210\/10460.000",
     "beacon":null,
     "mode":"9k6BPSK NBFM QSPK FM",
     "callsign":"RS64S BJ2CR",
@@ -3903,6 +3903,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"WQDE-2540-1175-6859-2485"
+  },
+  {
+    "name":"Colibri-S",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.835",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS67S",
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Columbia",
@@ -9207,13 +9218,13 @@
     "satnogs_id":null
   },
   {
-    "name":"Kolibri",
+    "name":"Kolibri-S",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"436.835",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS67S",
     "status":"unknown",
     "satnogs_id":null
   },
