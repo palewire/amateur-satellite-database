@@ -30390,8 +30390,8 @@
     "name":"Sakura",
     "names":"\u685c, Gardens 03",
     "image":"satellites\/SKR_\u5199\u771f.JPG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-29T00:00:00Z",
     "launched":null,
     "deployed":"2024-08-29T09:45:00Z",
     "website":"https:\/\/sites.google.com\/p.chibakoudai.jp\/gardens-03\/home-english\/missions",
@@ -30402,8 +30402,8 @@
         "decoder":"sakura"
       }
     ],
-    "updated":"2024-10-08T09:42:19.019246Z",
-    "citation":"citgardens",
+    "updated":"2024-11-30T11:41:15.409375Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=60954",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BIBJ-6592-1255-4508-9249"
