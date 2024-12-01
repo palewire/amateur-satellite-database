@@ -3898,8 +3898,8 @@
     "name":"XW-2D",
     "names":"CAS-3D",
     "image":"satellites\/XW-2D_r2lRYTE.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-15T00:00:00Z",
     "launched":"2015-09-15T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/sat.fg8oj.com\/xw-2d",
@@ -3908,8 +3908,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:53:54.162353Z",
-    "citation":"https:\/\/sat.fg8oj.com\/xw-2d",
+    "updated":"2024-12-01T07:45:57.146023Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=40907",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18999,10 +18999,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19739,8 +19739,8 @@
     "name":"Planetum1",
     "names":"Planetum-1",
     "image":"satellites\/planetum1-satnogs.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-30T00:00:00Z",
     "launched":"2022-05-25T18:27:00Z",
     "deployed":null,
     "website":"https:\/\/www.planetum.cz\/druzice-planetum1\/",
@@ -19751,8 +19751,8 @@
         "decoder":"planetum1"
       }
     ],
-    "updated":"2022-07-20T19:11:32.316879Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/229",
+    "updated":"2024-12-01T07:46:02.347953Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=52738",
     "is_frequency_violator":false,
     "associated_satellites":[
       "CFFC-2458-8956-5827-5183"
@@ -19840,7 +19840,7 @@
   {
     "sat_id":"MAVT-1039-0481-2330-3813",
     "norad_cat_id":99396.0,
-    "norad_follow_id":52743.0,
+    "norad_follow_id":52751.0,
     "name":"SPiN-1",
     "names":"MA61C",
     "image":"satellites\/spin1.png",
@@ -19854,8 +19854,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-27T13:18:42.969347Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/233",
+    "updated":"2024-12-01T09:38:50.350816Z",
+    "citation":"It is believed that object M was broncosat, as it was a 1.5U with bigger drag area and already decayed, since it was unknow if SPiN-1 is OBJECT V or OBJECT M, it is possible that SPiN-1 is OBJECT V (NORAD ID 52751)",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43478,8 +43478,8 @@
     "name":"DORA",
     "names":"Deployable Optical Receiver Aperture",
     "image":"satellites\/DORA_FullRender-246x300_npjpq9i.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-30T00:00:00Z",
     "launched":"2024-08-04T15:02:00Z",
     "deployed":"2024-10-09T10:35:00Z",
     "website":"https:\/\/interplanetarylab.github.io\/missions\/DORA",
@@ -43490,8 +43490,8 @@
         "decoder":"dora"
       }
     ],
-    "updated":"2024-10-14T19:08:42.159236Z",
-    "citation":"The DORA payload is at the bottom and shown with the aluminum shell hidden.",
+    "updated":"2024-12-01T07:46:08.188607Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=61502",
     "is_frequency_violator":false,
     "associated_satellites":[
       "HOLZ-0409-8081-0297-1755",
@@ -44641,7 +44641,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2024-11-04T22:25:54.845847Z",
     "citation":"Change Status",
@@ -48399,7 +48401,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2024-11-04T22:25:54.999983Z",
     "citation":"Change Status",
@@ -48423,7 +48427,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2024-11-04T22:25:54.691935Z",
     "citation":"Change Status",
@@ -48567,7 +48573,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2024-11-04T22:25:54.868502Z",
     "citation":"Change Status",
@@ -48591,7 +48599,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2024-11-06T07:52:15.341661Z",
     "citation":"https:\/\/spacepi.space\/satellites\/tusur-go\/",
