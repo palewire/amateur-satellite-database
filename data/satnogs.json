@@ -3378,7 +3378,7 @@
     ],
     "updated":"2022-12-30T10:54:02.315136Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -18999,10 +18999,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -50021,6 +50021,30 @@
     ],
     "updated":"2024-11-28T07:33:36.196101Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FOYC-0465-3890-7368-7165",
+    "norad_cat_id":61231.0,
+    "norad_follow_id":null,
+    "name":"TY-41",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-04T09:54:41.300995Z",
+    "citation":"https:\/\/community.libre.space\/t\/possible-new-one\/12602",
     "is_frequency_violator":false,
     "associated_satellites":[
 
