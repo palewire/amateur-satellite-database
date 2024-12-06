@@ -30489,7 +30489,7 @@
     "norad_follow_id":null,
     "name":"Mirata",
     "names":"2017-03C",
-    "image":"",
+    "image":"satellites\/dsc_0623cropped11.png",
     "status":"alive",
     "decayed":null,
     "launched":"2017-11-18T00:00:00Z",
@@ -30500,8 +30500,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-03-07T01:40:53.212732Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1QWPckQnx30qAU0ADV2aRApBnva3vvsw0OXWHohH01co\/edit?usp=sharing",
+    "updated":"2024-12-05T18:03:01.674937Z",
+    "citation":"https:\/\/www.nasa.gov\/missions\/small-satellite-missions\/nasa-cubesat-to-test-miniaturized-weather-satellite-technology\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
