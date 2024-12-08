@@ -463,7 +463,7 @@
   },
   {
     "name":"Altair",
-    "norad_id":null,
+    "norad_id":"61779",
     "uplink":null,
     "downlink":"435.615\/435.715",
     "beacon":null,
@@ -991,7 +991,7 @@
   },
   {
     "name":"AO-123",
-    "norad_id":null,
+    "norad_id":"61781",
     "uplink":"145.875",
     "downlink":"435.400\/436.210\/10460.000",
     "beacon":null,
@@ -1211,7 +1211,7 @@
   },
   {
     "name":"ArcticSat-1",
-    "norad_id":null,
+    "norad_id":"61762",
     "uplink":null,
     "downlink":"435.890",
     "beacon":null,
@@ -1409,7 +1409,7 @@
   },
   {
     "name":"ASRTU-1",
-    "norad_id":null,
+    "norad_id":"61781",
     "uplink":"145.850*\/145.875",
     "downlink":"435.400*\/436.210\/10460.000",
     "beacon":null,
@@ -3906,7 +3906,7 @@
   },
   {
     "name":"Colibri-S",
-    "norad_id":null,
+    "norad_id":"61746",
     "uplink":null,
     "downlink":"436.835",
     "beacon":null,
@@ -7689,6 +7689,28 @@
     "satnogs_id":"QRAQ-3104-7805-7099-5968"
   },
   {
+    "name":"Hors-3",
+    "norad_id":"61753",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Hors-4",
+    "norad_id":"61754",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"HORYU-2",
     "norad_id":"38340",
     "uplink":null,
@@ -7899,7 +7921,7 @@
   },
   {
     "name":"HyperView-1G",
-    "norad_id":null,
+    "norad_id":"61772",
     "uplink":null,
     "downlink":"436.540",
     "beacon":null,
@@ -9119,8 +9141,19 @@
     "satnogs_id":"QRAQ-3104-7805-7099-5968"
   },
   {
-    "name":"Khors-3\/4",
-    "norad_id":null,
+    "name":"Khors-3",
+    "norad_id":"61753",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Khors-4",
+    "norad_id":"61754",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -9219,7 +9252,7 @@
   },
   {
     "name":"Kolibri-S",
-    "norad_id":null,
+    "norad_id":"61746",
     "uplink":null,
     "downlink":"436.835",
     "beacon":null,
@@ -10638,7 +10671,7 @@
   },
   {
     "name":"Mordovia-IOT",
-    "norad_id":null,
+    "norad_id":"61765",
     "uplink":null,
     "downlink":"437.100",
     "beacon":null,
@@ -14543,7 +14576,7 @@
   },
   {
     "name":"RTU-MIREA1",
-    "norad_id":null,
+    "norad_id":"61785",
     "uplink":null,
     "downlink":"436.200",
     "beacon":null,
@@ -14554,7 +14587,7 @@
   },
   {
     "name":"Ruzaevka-390",
-    "norad_id":null,
+    "norad_id":"61766",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
@@ -14664,7 +14697,7 @@
   },
   {
     "name":"SamSat-Ionosphere",
-    "norad_id":null,
+    "norad_id":"61784",
     "uplink":null,
     "downlink":"437.400",
     "beacon":null,
@@ -18294,7 +18327,7 @@
   },
   {
     "name":"TUSUR-GO",
-    "norad_id":null,
+    "norad_id":"61782",
     "uplink":null,
     "downlink":"437.730",
     "beacon":null,
@@ -19229,7 +19262,7 @@
   },
   {
     "name":"Vizard-ion",
-    "norad_id":null,
+    "norad_id":"61749",
     "uplink":null,
     "downlink":"436.870",
     "beacon":null,
@@ -20142,7 +20175,7 @@
   },
   {
     "name":"ZimSat-2",
-    "norad_id":null,
+    "norad_id":"61783",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,

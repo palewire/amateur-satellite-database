@@ -101,7 +101,7 @@
   },
   {
     "name":"AO-123",
-    "norad_id":null,
+    "norad_id":"61781",
     "uplink":"145.875",
     "downlink":"435.400\/436.210\/10460.000",
     "beacon":null,
@@ -121,7 +121,7 @@
   },
   {
     "name":"ASRTU-1",
-    "norad_id":null,
+    "norad_id":"61781",
     "uplink":"145.850*\/145.875",
     "downlink":"435.400*\/436.210\/10460.000",
     "beacon":null,
@@ -1971,7 +1971,7 @@
   },
   {
     "name":"Mordovia-IOT",
-    "norad_id":null,
+    "norad_id":"61765",
     "uplink":null,
     "downlink":"437.100",
     "beacon":null,
@@ -2441,7 +2441,7 @@
   },
   {
     "name":"Ruzaevka-390",
-    "norad_id":null,
+    "norad_id":"61766",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,

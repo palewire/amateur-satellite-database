@@ -48853,7 +48853,7 @@
   {
     "sat_id":"FDFJ-7313-9264-4594-1095",
     "norad_cat_id":98777.0,
-    "norad_follow_id":61778.0,
+    "norad_follow_id":61783.0,
     "name":"ZIMSAT-2",
     "names":"Z2AS",
     "image":"",
@@ -48867,8 +48867,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T02:55:02.876986Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/282",
+    "updated":"2024-12-08T09:40:04.907518Z",
+    "citation":"Ikhnos results on Network's observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -49309,7 +49309,7 @@
   {
     "sat_id":"VDAK-9658-1991-0734-5338",
     "norad_cat_id":98764.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61750.0,
     "name":"S2.1b Unknown 3",
     "names":"",
     "image":"",
@@ -49323,8 +49323,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-09T10:59:57.610440Z",
-    "citation":"PE0SAT strf observation",
+    "updated":"2024-12-08T11:32:15.374964Z",
+    "citation":"PE0SAT strf analysis",
     "is_frequency_violator":true,
     "associated_satellites":[
 
