@@ -47671,8 +47671,8 @@
     "name":"CosmoGirl-Sat",
     "names":"JS1YOI, Emma, \u30a8\u30de",
     "image":"satellites\/mission_mark.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-08T18:02:30Z",
     "launched":"2024-08-05T00:00:00Z",
     "deployed":"2024-08-29T09:45:00Z",
     "website":"https:\/\/cosmosgirlham.org\/communication\/",
@@ -47683,8 +47683,8 @@
         "decoder":"cosmogirlsat"
       }
     ],
-    "updated":"2024-09-18T10:26:10.822148Z",
-    "citation":"dl7ndr",
+    "updated":"2024-12-08T21:17:54.925562Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/10723070\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50012,15 +50012,17 @@
     "status":"future",
     "decayed":null,
     "launched":"2024-11-05T00:00:00Z",
-    "deployed":null,
+    "deployed":"2024-12-09T11:30:00Z",
     "website":"https:\/\/sites.google.com\/s.chibakoudai.jp\/gardens-01-yomogi",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"yomogi"
+      }
     ],
-    "updated":"2024-11-28T07:33:36.196101Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-12-08T17:23:30.576202Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004318.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 

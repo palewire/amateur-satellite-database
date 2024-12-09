@@ -465,9 +465,9 @@
     "name":"Altair",
     "norad_id":"61779",
     "uplink":null,
-    "downlink":"435.615\/435.715",
+    "downlink":"435.215*\/435.615\/435.715",
     "beacon":null,
-    "mode":"4800bps BPSK",
+    "mode":"1k2AFSK 4k8BPSK",
     "callsign":"RS65S",
     "status":"unknown",
     "satnogs_id":null
@@ -1211,7 +1211,7 @@
   },
   {
     "name":"ArcticSat-1",
-    "norad_id":"61762",
+    "norad_id":"61764",
     "uplink":null,
     "downlink":"435.890",
     "beacon":null,
