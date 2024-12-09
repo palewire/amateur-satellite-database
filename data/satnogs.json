@@ -47683,8 +47683,8 @@
         "decoder":"cosmogirlsat"
       }
     ],
-    "updated":"2024-12-08T21:17:54.925562Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/10723070\/",
+    "updated":"2024-12-09T04:28:46.640798Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49913,18 +49913,18 @@
     "name":"LignoSat",
     "names":"",
     "image":"satellites\/LignoSat.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-11-05T00:00:00Z",
-    "deployed":null,
+    "deployed":"2024-12-09T11:15:00Z",
     "website":"https:\/\/space.innovationkyoto.org\/amateur-radio-operators\/",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2024-11-18T10:21:39.955631Z",
-    "citation":"Adding Temporary NORAD ID",
+    "updated":"2024-12-09T11:11:04.595210Z",
+    "citation":"https:\/\/youtube.com\/live\/vvUthxds36A",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50009,10 +50009,10 @@
     "name":"YOMOGI",
     "names":"JS1YMX",
     "image":"satellites\/Satellite.JPG",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-11-05T00:00:00Z",
-    "deployed":"2024-12-09T11:30:00Z",
+    "deployed":"2024-12-09T11:15:00Z",
     "website":"https:\/\/sites.google.com\/s.chibakoudai.jp\/gardens-01-yomogi",
     "operator":"None",
     "countries":"JP",
@@ -50021,8 +50021,8 @@
         "decoder":"yomogi"
       }
     ],
-    "updated":"2024-12-08T17:23:30.576202Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004318.html",
+    "updated":"2024-12-09T11:11:02.240628Z",
+    "citation":"https:\/\/youtube.com\/live\/vvUthxds36A",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50047,6 +50047,78 @@
     ],
     "updated":"2024-12-04T09:54:41.300995Z",
     "citation":"https:\/\/community.libre.space\/t\/possible-new-one\/12602",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PZIL-3361-3557-2301-4863",
+    "norad_cat_id":98735.0,
+    "norad_follow_id":null,
+    "name":"YODAKA",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2024-12-09T08:15:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-09T08:16:01.557860Z",
+    "citation":"https:\/\/youtube.com\/live\/95cnnnXWmIs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GPTT-1797-7538-4826-5441",
+    "norad_cat_id":98734.0,
+    "norad_follow_id":null,
+    "name":"DENDEN-01",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2024-12-09T11:15:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-09T11:11:07.309867Z",
+    "citation":"https:\/\/youtube.com\/live\/vvUthxds36A",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BMMH-7711-6036-7770-2924",
+    "norad_cat_id":98733.0,
+    "norad_follow_id":25544.0,
+    "name":"ONGLAISAT",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2024-12-09T14:30:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-09T07:32:01.306372Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612",
     "is_frequency_violator":false,
     "associated_satellites":[
 
