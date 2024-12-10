@@ -1320,6 +1320,16 @@
     "satnogs_id":"BYRQ-8084-9850-7997-7193"
   },
   {
+    "name":"Gardens-01",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"GOMX-1",
     "norad_id":"39430",
     "uplink":null,
@@ -3438,6 +3448,16 @@
     "mode":"UHF CW*",
     "callsign":null,
     "satnogs_id":"WMPC-3806-8308-1122-5138"
+  },
+  {
+    "name":"YOMOGI",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":"JS1YMX",
+    "satnogs_id":null
   },
   {
     "name":"ZACube-1",

@@ -12683,8 +12683,8 @@
     "name":"ION SCV-003",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-09T00:00:00Z",
     "launched":"2021-06-30T19:31:00Z",
     "deployed":null,
     "website":"",
@@ -12693,8 +12693,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-11-08T18:39:39.203693Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-12-10T08:46:29.597029Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
