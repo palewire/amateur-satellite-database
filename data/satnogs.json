@@ -42633,7 +42633,7 @@
   },
   {
     "sat_id":"QXYV-7911-9423-9188-9035",
-    "norad_cat_id":59061.0,
+    "norad_cat_id":59062.0,
     "norad_follow_id":null,
     "name":"SITRO-AIS-50",
     "names":"SC2338",
@@ -42648,8 +42648,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T16:04:46.683934Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59061\/2024-03-03T08%3A16%3A10_9131157_59061_24039L_0-OBJECT-L_0.15242497518519116_B_r24.0_f0.5.png",
+    "updated":"2024-12-09T23:56:40.855299Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/10525426\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42657,7 +42657,7 @@
   },
   {
     "sat_id":"NEBP-5184-1083-8938-2249",
-    "norad_cat_id":59062.0,
+    "norad_cat_id":59061.0,
     "norad_follow_id":null,
     "name":"SITRO-AIS-51",
     "names":"SC2339",
@@ -42672,8 +42672,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T15:55:02.361117Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59062\/2024-03-03T12%3A37%3A37_9131531_59062_24039M_0-OBJECT-M_0.005512645185184795_B_r24.0_f0.4.png",
+    "updated":"2024-12-09T23:50:30.455970Z",
+    "citation":"-",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44629,7 +44629,7 @@
   {
     "sat_id":"UKBO-2090-2618-8439-9299",
     "norad_cat_id":98894.0,
-    "norad_follow_id":61775.0,
+    "norad_follow_id":61785.0,
     "name":"RTU MIREA1",
     "names":"RS51S",
     "image":"satellites\/large_RTU_MIREA_1_transportnoe_polozhenie_41b7f26ab9.png",
@@ -44645,7 +44645,7 @@
         "decoder":"geoscan"
       }
     ],
-    "updated":"2024-12-07T11:16:16.096099Z",
+    "updated":"2024-12-09T21:15:12.373153Z",
     "citation":"Ikhnos results on Network's observations",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -48685,7 +48685,7 @@
   {
     "sat_id":"YHMX-0830-1142-9934-3756",
     "norad_cat_id":98784.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61751.0,
     "name":"Vladivostok-1",
     "names":"",
     "image":"satellites\/1200x1145_1_880bd65a7d9b4b8d46b8c928457896271200x1145_0xsdQs6NaA_69017491440_SyDCS7L.webp",
@@ -48699,8 +48699,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:54.668948Z",
-    "citation":"Change Status",
+    "updated":"2024-12-09T20:09:25.738080Z",
+    "citation":"PE0SAT strf analysis",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -48877,7 +48877,7 @@
   {
     "sat_id":"EVRJ-3332-4264-7494-9956",
     "norad_cat_id":98776.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61768.0,
     "name":"Polytech Universe-4",
     "names":"RS71S",
     "image":"satellites\/large_IMG_7152_ef7d3d9244.jpeg",
@@ -48891,8 +48891,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:55.155226Z",
-    "citation":"Change Status",
+    "updated":"2024-12-09T20:08:28.211502Z",
+    "citation":"PE0SAT strf analysis",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -48901,7 +48901,7 @@
   {
     "sat_id":"ZLTQ-9575-6465-7964-8959",
     "norad_cat_id":98775.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61745.0,
     "name":"Polytech Universe-5",
     "names":"RS70S",
     "image":"satellites\/large_IMG_7386_c14270c9fd.JPG",
@@ -48915,8 +48915,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:54.620002Z",
-    "citation":"Change Status",
+    "updated":"2024-12-09T20:08:47.685224Z",
+    "citation":"PE0SAT strf analysis",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -48997,9 +48997,9 @@
   {
     "sat_id":"WOVV-0972-4230-4960-3415",
     "norad_cat_id":98771.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61768.0,
     "name":"HOD-HOD",
-    "names":"HODHOD",
+    "names":"HODHOD, HOD-HOD-1A",
     "image":"satellites\/hodhod_real.jpg",
     "status":"alive",
     "decayed":null,
@@ -49011,8 +49011,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:54.780026Z",
-    "citation":"Change Status",
+    "updated":"2024-12-09T22:38:15.440223Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/HOD-HOD-1A",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -49045,7 +49045,7 @@
   {
     "sat_id":"JYUW-3071-2314-1825-5576",
     "norad_cat_id":98769.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61775.0,
     "name":"CSTP-2.1",
     "names":"",
     "image":"",
@@ -49059,8 +49059,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:55.063398Z",
-    "citation":"Change Status",
+    "updated":"2024-12-09T22:38:15.498618Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/CSTP-2.1",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -49069,7 +49069,7 @@
   {
     "sat_id":"ANGP-8893-7804-5283-2837",
     "norad_cat_id":98768.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61784.0,
     "name":"CSTP-2.2",
     "names":"",
     "image":"",
@@ -49083,8 +49083,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:55.229918Z",
-    "citation":"Change Status",
+    "updated":"2024-12-09T22:38:15.471899Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/CSTP-2.2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49093,7 +49093,7 @@
   {
     "sat_id":"IFSO-4320-0068-3369-9339",
     "norad_cat_id":98767.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61744.0,
     "name":"CSTP-2.11",
     "names":"",
     "image":"",
@@ -49107,8 +49107,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:55.078800Z",
-    "citation":"Change Status",
+    "updated":"2024-12-09T22:36:10.932714Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/CSTP-2.11",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -50103,22 +50103,94 @@
   {
     "sat_id":"BMMH-7711-6036-7770-2924",
     "norad_cat_id":98733.0,
-    "norad_follow_id":25544.0,
+    "norad_follow_id":null,
     "name":"ONGLAISAT",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":null,
-    "deployed":"2024-12-09T14:30:00Z",
+    "deployed":"2024-12-09T14:17:00Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2024-12-09T07:32:01.306372Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612",
+    "updated":"2024-12-09T15:06:45.096213Z",
+    "citation":"https:\/\/youtube.com\/live\/7sIR5RZb5TQ",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IOXV-9214-6121-5505-3444",
+    "norad_cat_id":60745.0,
+    "norad_follow_id":null,
+    "name":"24153A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-09T22:40:13.535529Z",
+    "citation":"Micha\u0142 Drza\u0142 strf observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YORO-2328-0795-5637-7083",
+    "norad_cat_id":60579.0,
+    "norad_follow_id":null,
+    "name":"LEMUR SIERRINI",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-09T22:54:29.616185Z",
+    "citation":"Micha\u0142 Drza\u0142 strf observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VNMP-0690-9363-8667-8924",
+    "norad_cat_id":60577.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 LLOYD",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-09T22:54:24.976843Z",
+    "citation":"Micha\u0142 Drza\u0142 strf observations and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 

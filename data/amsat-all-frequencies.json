@@ -5104,6 +5104,17 @@
     "satnogs_id":"FCSZ-8739-3200-7406-9928"
   },
   {
+    "name":"DENDEN-01",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"1kpbs PCM-PSK-PM\/10 32 64 115kbps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"DeorbitSail",
     "norad_id":"40719",
     "uplink":null,
@@ -9764,7 +9775,7 @@
     "beacon":"435.820",
     "mode":"4k8GMSK FM CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -12021,6 +12032,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"JNNP-2835-3667-6280-1551"
+  },
+  {
+    "name":"ONGLAISAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"OOV-Cube",
@@ -15507,7 +15529,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2338",
     "status":"active",
-    "satnogs_id":"QXYV-7911-9423-9188-9035"
+    "satnogs_id":"NEBP-5184-1083-8938-2249"
   },
   {
     "name":"SITRO-AIS-51",
@@ -15518,7 +15540,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2339",
     "status":"active",
-    "satnogs_id":"NEBP-5184-1083-8938-2249"
+    "satnogs_id":"QXYV-7911-9423-9188-9035"
   },
   {
     "name":"SITRO-AIS-52",
@@ -19888,6 +19910,17 @@
     "satnogs_id":null
   },
   {
+    "name":"YODAKA",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"922.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"YOMOGI",
     "norad_id":null,
     "uplink":"145.825",
@@ -19895,7 +19928,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
