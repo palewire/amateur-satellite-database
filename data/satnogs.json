@@ -44628,8 +44628,8 @@
   },
   {
     "sat_id":"UKBO-2090-2618-8439-9299",
-    "norad_cat_id":98894.0,
-    "norad_follow_id":61785.0,
+    "norad_cat_id":61785.0,
+    "norad_follow_id":null,
     "name":"RTU MIREA1",
     "names":"RS51S",
     "image":"satellites\/large_RTU_MIREA_1_transportnoe_polozhenie_41b7f26ab9.png",
@@ -44645,8 +44645,8 @@
         "decoder":"geoscan"
       }
     ],
-    "updated":"2024-12-09T21:15:12.373153Z",
-    "citation":"Ikhnos results on Network's observations",
+    "updated":"2024-12-10T18:29:52.033466Z",
+    "citation":"https:\/\/community.libre.space\/uploads\/default\/original\/2X\/f\/f6e0eeb184c4ea36f314d3e69e7e5ce97f18b99c.jpeg",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48951,7 +48951,7 @@
     "norad_cat_id":98773.0,
     "norad_follow_id":61764.0,
     "name":"SIT-2086",
-    "names":"",
+    "names":"SC2335",
     "image":"satellites\/large_X7b_L_hk_Qk5_E_5675674c3b.jpg",
     "status":"alive",
     "decayed":null,
@@ -48963,8 +48963,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T15:56:42.170035Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-10T22:40:25.180260Z",
+    "citation":"Telemetry decode",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50191,6 +50191,30 @@
     ],
     "updated":"2024-12-09T22:54:24.976843Z",
     "citation":"Micha\u0142 Drza\u0142 strf observations and space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BHDW-9495-5982-3877-2806",
+    "norad_cat_id":57582.0,
+    "norad_follow_id":null,
+    "name":"23117C",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-10T23:56:21.825960Z",
+    "citation":"Micha\u0142 Drza\u0142 strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
