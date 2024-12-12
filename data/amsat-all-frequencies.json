@@ -4555,7 +4555,7 @@
   },
   {
     "name":"CSTP-2.1",
-    "norad_id":null,
+    "norad_id":"61775",
     "uplink":null,
     "downlink":"437.485",
     "beacon":null,
@@ -4566,7 +4566,7 @@
   },
   {
     "name":"CSTP-2.11",
-    "norad_id":null,
+    "norad_id":"61774",
     "uplink":null,
     "downlink":"437.985",
     "beacon":null,
@@ -10869,7 +10869,7 @@
   },
   {
     "name":"MTUSI-1",
-    "norad_id":null,
+    "norad_id":"61750",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -14652,28 +14652,6 @@
     "satnogs_id":"INUO-1191-4095-9043-8411"
   },
   {
-    "name":"S21BU2",
-    "norad_id":"61752",
-    "uplink":null,
-    "downlink":null,
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
-  },
-  {
-    "name":"S21BU3",
-    "norad_id":"61750",
-    "uplink":null,
-    "downlink":null,
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
-  },
-  {
     "name":"R5-S1",
     "norad_id":null,
     "uplink":null,
@@ -18396,8 +18374,8 @@
     "norad_id":"61782",
     "uplink":null,
     "downlink":"437.730",
-    "beacon":null,
-    "mode":"9600bps GFSK",
+    "beacon":"437.730",
+    "mode":"9600bps GFSK CW",
     "callsign":"RS78S",
     "status":"unknown",
     "satnogs_id":null

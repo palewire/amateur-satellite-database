@@ -11485,8 +11485,8 @@
     "name":"IDEASSat",
     "names":"",
     "image":"satellites\/IDEAS_Sat.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-09T00:00:00Z",
     "launched":"2021-01-24T15:00:00Z",
     "deployed":"2021-01-24T15:00:00Z",
     "website":"http:\/\/www.ss.ncu.edu.tw\/~ssoffice\/",
@@ -11495,8 +11495,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.874997Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-12-11T12:47:30.659432Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=47458",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48415,7 +48415,7 @@
   {
     "sat_id":"YDID-3447-4202-8525-9942",
     "norad_cat_id":98793.0,
-    "norad_follow_id":61755.0,
+    "norad_follow_id":61757.0,
     "name":"Horizon",
     "names":"\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442, Gorizont, RS59S",
     "image":"satellites\/ddd.jpg",
@@ -48431,8 +48431,8 @@
         "decoder":"geoscan"
       }
     ],
-    "updated":"2024-12-07T20:30:24.419530Z",
-    "citation":"sonik.space\/observations\/386334\/",
+    "updated":"2024-12-11T18:49:15.407623Z",
+    "citation":"STRF measurement, slightly better match then 61755",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48709,7 +48709,7 @@
   {
     "sat_id":"XQMC-1711-8221-5134-0228",
     "norad_cat_id":98783.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61787.0,
     "name":"SWSU-60",
     "names":"YUZGU-60, \u042e\u0417\u0413\u0423-60, Frank-1, RS41S",
     "image":"satellites\/large_acetone_2024527_14485_650_6f646849cd.jpg",
@@ -48723,8 +48723,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:54.735737Z",
-    "citation":"Change Status",
+    "updated":"2024-12-11T22:49:44.904186Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -48733,7 +48733,7 @@
   {
     "sat_id":"ZSXX-2274-2663-0092-3099",
     "norad_cat_id":98782.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61767.0,
     "name":"Nokhcho",
     "names":"\u041d\u043e\u0445\u0447\u043e, RS79S",
     "image":"satellites\/large_IMG_7917_500672b775.jpeg",
@@ -48747,8 +48747,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:54.590272Z",
-    "citation":"Change Status",
+    "updated":"2024-12-11T22:49:39.692977Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":true,
     "associated_satellites":[
 
