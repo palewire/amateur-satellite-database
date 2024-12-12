@@ -7679,12 +7679,12 @@
   },
   {
     "name":"Horizon",
-    "norad_id":"61755",
+    "norad_id":"61757",
     "uplink":null,
     "downlink":"435.430",
     "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":null,
+    "mode":"9600bps GMSK CW",
+    "callsign":"RS59S",
     "status":"unknown",
     "satnogs_id":null
   },

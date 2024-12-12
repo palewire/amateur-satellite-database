@@ -10342,7 +10342,7 @@
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "NFQU-3521-4316-6654-7962"
     ]
   },
   {
@@ -26051,8 +26051,8 @@
   },
   {
     "sat_id":"HKPP-1325-5629-8692-2437",
-    "norad_cat_id":99263.0,
-    "norad_follow_id":55084.0,
+    "norad_cat_id":55084.0,
+    "norad_follow_id":null,
     "name":"Gama Alpha",
     "names":"",
     "image":"satellites\/GAMA-Alpha-mission-patch-GAMA-1024x901.png",
@@ -26066,8 +26066,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-06-23T12:14:35.597036Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-6-2023-01-03-14-56-utc\/9848\/142",
+    "updated":"2024-12-12T09:34:58.901365Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47672,7 +47672,7 @@
     "names":"JS1YOI, Emma, \u30a8\u30de",
     "image":"satellites\/mission_mark.png",
     "status":"re-entered",
-    "decayed":"2025-12-08T18:02:30Z",
+    "decayed":"2024-12-08T18:02:30Z",
     "launched":"2024-08-05T00:00:00Z",
     "deployed":"2024-08-29T09:45:00Z",
     "website":"https:\/\/cosmosgirlham.org\/communication\/",
@@ -47683,8 +47683,8 @@
         "decoder":"cosmogirlsat"
       }
     ],
-    "updated":"2024-12-09T04:28:46.640798Z",
-    "citation":"space-track.org",
+    "updated":"2024-12-12T08:43:27.261739Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48781,7 +48781,7 @@
   {
     "sat_id":"LNIX-1421-5820-7502-3419",
     "norad_cat_id":98780.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61750.0,
     "name":"MTUSI-1",
     "names":"",
     "image":"satellites\/5346494596.jpg",
@@ -48795,11 +48795,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:55.039443Z",
-    "citation":"Change Status",
+    "updated":"2024-12-12T09:58:53.911567Z",
+    "citation":"Add NORAD ID to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "VDAK-9658-1991-0734-5338"
     ]
   },
   {
@@ -49259,30 +49259,6 @@
     ]
   },
   {
-    "sat_id":"NFQU-3521-4316-6654-7962",
-    "norad_cat_id":98765.0,
-    "norad_follow_id":61751.0,
-    "name":"S2.1b Unknown 2",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2024-12-07T20:35:19.210063Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/289",
-    "is_frequency_violator":true,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"LICR-0509-3868-4896-9571",
     "norad_cat_id":60235.0,
     "norad_follow_id":null,
@@ -49302,30 +49278,6 @@
     "updated":"2024-11-06T19:51:56.522691Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1K0Klz1ya500xAI-uJznnu-DPzr_FkifWnHfmtZQTAT0\/edit?usp=sharing",
     "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"VDAK-9658-1991-0734-5338",
-    "norad_cat_id":98764.0,
-    "norad_follow_id":61750.0,
-    "name":"S2.1b Unknown 3",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2024-12-08T11:32:15.374964Z",
-    "citation":"PE0SAT strf analysis",
-    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
