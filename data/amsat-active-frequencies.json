@@ -1321,7 +1321,7 @@
   },
   {
     "name":"Gardens-01",
-    "norad_id":null,
+    "norad_id":"62298",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -3451,7 +3451,7 @@
   },
   {
     "name":"YOMOGI",
-    "norad_id":null,
+    "norad_id":"62298",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",

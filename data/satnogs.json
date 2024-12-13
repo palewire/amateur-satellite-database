@@ -14316,8 +14316,8 @@
     "norad_cat_id":99913.0,
     "norad_follow_id":43761.0,
     "name":"K2SAT",
-    "names":"K\u00b2SAT",
-    "image":"",
+    "names":"2018-099D",
+    "image":"satellites\/k2sat__1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":null,
@@ -14328,8 +14328,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-29T03:11:21.774585Z",
-    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43761#results",
+    "updated":"2024-12-13T08:48:25.004533Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49861,7 +49861,7 @@
   {
     "sat_id":"CTLT-1596-4145-9313-4411",
     "norad_cat_id":98738.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62296.0,
     "name":"LignoSat",
     "names":"",
     "image":"satellites\/LignoSat.jpg",
@@ -49875,8 +49875,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-09T11:11:04.595210Z",
-    "citation":"https:\/\/youtube.com\/live\/vvUthxds36A",
+    "updated":"2024-12-13T08:27:47.108877Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612\/12",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49957,7 +49957,7 @@
   {
     "sat_id":"HHVN-9456-4962-8588-2802",
     "norad_cat_id":98736.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62298.0,
     "name":"YOMOGI",
     "names":"JS1YMX",
     "image":"satellites\/Satellite.JPG",
@@ -49973,8 +49973,8 @@
         "decoder":"yomogi"
       }
     ],
-    "updated":"2024-12-12T14:26:12.115690Z",
-    "citation":"Add dashboard link",
+    "updated":"2024-12-13T08:27:47.130931Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612\/12",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50007,7 +50007,7 @@
   {
     "sat_id":"PZIL-3361-3557-2301-4863",
     "norad_cat_id":98735.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62295.0,
     "name":"YODAKA",
     "names":"",
     "image":"",
@@ -50021,8 +50021,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-09T08:16:01.557860Z",
-    "citation":"https:\/\/youtube.com\/live\/95cnnnXWmIs",
+    "updated":"2024-12-13T08:27:47.081894Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612\/12",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50031,7 +50031,7 @@
   {
     "sat_id":"GPTT-1797-7538-4826-5441",
     "norad_cat_id":98734.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62297.0,
     "name":"DENDEN-01",
     "names":"",
     "image":"",
@@ -50045,8 +50045,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-09T11:11:07.309867Z",
-    "citation":"https:\/\/youtube.com\/live\/vvUthxds36A",
+    "updated":"2024-12-13T08:27:47.054923Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612\/12",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50057,7 +50057,7 @@
     "norad_cat_id":98733.0,
     "norad_follow_id":null,
     "name":"ONGLAISAT",
-    "names":"",
+    "names":"62299",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -50069,8 +50069,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-09T15:06:45.096213Z",
-    "citation":"https:\/\/youtube.com\/live\/7sIR5RZb5TQ",
+    "updated":"2024-12-13T08:27:47.024856Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612\/12",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50167,6 +50167,30 @@
     ],
     "updated":"2024-12-10T23:56:21.825960Z",
     "citation":"Micha\u0142 Drza\u0142 strf observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YWSS-0640-9495-7284-5125",
+    "norad_cat_id":61793.0,
+    "norad_follow_id":null,
+    "name":"PROTOSAT-1",
+    "names":"2024-201B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-11-05T00:00:00Z",
+    "deployed":"2024-11-05T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RW",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-13T07:48:00.507112Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/10MUBQdYoX9bT1GEi0alXCeSpbLk7BjYE_SKT5BcIdr4\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

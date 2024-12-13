@@ -5105,7 +5105,7 @@
   },
   {
     "name":"DENDEN-01",
-    "norad_id":null,
+    "norad_id":"62297",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -6964,7 +6964,7 @@
   },
   {
     "name":"Gardens-01",
-    "norad_id":null,
+    "norad_id":"62298",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -12057,7 +12057,7 @@
   },
   {
     "name":"ONGLAISAT",
-    "norad_id":null,
+    "norad_id":"62296",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -17139,12 +17139,12 @@
   },
   {
     "name":"SWSU-60",
-    "norad_id":null,
+    "norad_id":"61767",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
     "mode":"1135bps AFSK",
-    "callsign":null,
+    "callsign":"RS41S",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -19933,7 +19933,7 @@
   },
   {
     "name":"YODAKA",
-    "norad_id":null,
+    "norad_id":"62295",
     "uplink":null,
     "downlink":"922.000",
     "beacon":null,
@@ -19944,7 +19944,7 @@
   },
   {
     "name":"YOMOGI",
-    "norad_id":null,
+    "norad_id":"62298",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -20120,12 +20120,12 @@
   },
   {
     "name":"YuZGU-60",
-    "norad_id":null,
+    "norad_id":"61767",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
     "mode":"1135bps AFSK",
-    "callsign":null,
+    "callsign":"RS41S",
     "status":"unknown",
     "satnogs_id":null
   },
