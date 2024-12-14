@@ -34916,6 +34916,30 @@
     ]
   },
   {
+    "sat_id":"BDDH-2983-1674-0028-7014",
+    "norad_cat_id":49338.0,
+    "norad_follow_id":null,
+    "name":"Jilin-01 GaoFen 2F",
+    "names":"Jilin-01 GaoFen 13",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-10-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-13T15:59:50.122644Z",
+    "citation":"na",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"URSD-5571-2115-5307-8731",
     "norad_cat_id":99077.0,
     "norad_follow_id":56230.0,

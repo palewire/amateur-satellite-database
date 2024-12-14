@@ -9791,7 +9791,7 @@
   },
   {
     "name":"LignoSat",
-    "norad_id":null,
+    "norad_id":"62296",
     "uplink":null,
     "downlink":"435.820",
     "beacon":"435.820",
@@ -12057,7 +12057,7 @@
   },
   {
     "name":"ONGLAISAT",
-    "norad_id":"62296",
+    "norad_id":null,
     "uplink":null,
     "downlink":null,
     "beacon":null,
