@@ -30845,8 +30845,8 @@
   },
   {
     "sat_id":"FYAH-9859-4626-0049-4502",
-    "norad_cat_id":99194.0,
-    "norad_follow_id":61766.0,
+    "norad_cat_id":61766.0,
+    "norad_follow_id":null,
     "name":"RUZAEVKA-390",
     "names":"RS44S, \u0420\u0443\u0437\u0430\u0435\u0432\u043a\u0430-390",
     "image":"satellites\/large_IMG_7149_cbaaa1292f.JPG",
@@ -30860,8 +30860,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T11:16:11.818321Z",
-    "citation":"Ikhnos results on Network's observations",
+    "updated":"2024-12-14T05:39:37.832895Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -32901,8 +32901,8 @@
   },
   {
     "sat_id":"REOO-2119-3738-4964-1579",
-    "norad_cat_id":99130.0,
-    "norad_follow_id":61781.0,
+    "norad_cat_id":61781.0,
+    "norad_follow_id":null,
     "name":"ASRTU-1",
     "names":"AO-123, Druzhba ATURK, \u0414\u0440\u0443\u0436\u0431\u0430 \u0410\u0422\u0423\u0420\u041a, BJ2CR, RS64S",
     "image":"satellites\/ASRTU-1.png",
@@ -32916,11 +32916,12 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T02:57:08.679584Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/278",
+    "updated":"2024-12-14T05:41:09.344162Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "YYQF-3337-2968-5093-7946"
+      "YYQF-3337-2968-5093-7946",
+      "WCRW-9615-3286-6489-0282"
     ]
   },
   {
@@ -48364,8 +48365,8 @@
   },
   {
     "sat_id":"OVJV-1933-3688-6136-9655",
-    "norad_cat_id":98795.0,
-    "norad_follow_id":61779.0,
+    "norad_cat_id":61779.0,
+    "norad_follow_id":null,
     "name":"Altair",
     "names":"\u0410\u043b\u044c\u0442\u0430\u0438\u0440, RS65S",
     "image":"satellites\/altair.jpg",
@@ -48379,8 +48380,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T11:16:21.384358Z",
-    "citation":"Ikhnos results on Network's observations",
+    "updated":"2024-12-14T05:44:21.685707Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":true,
     "associated_satellites":[
       "XNLL-7156-6531-5656-5504"
@@ -48412,8 +48413,8 @@
   },
   {
     "sat_id":"OVBN-0332-6282-0409-5232",
-    "norad_cat_id":98794.0,
-    "norad_follow_id":61746.0,
+    "norad_cat_id":61746.0,
+    "norad_follow_id":null,
     "name":"Colibri-S",
     "names":"\u041a\u043e\u043b\u0438\u0431\u0440\u0438-\u0421, RS67S",
     "image":"satellites\/large_6_B4_A7594_b435d67963.jpg",
@@ -48429,17 +48430,17 @@
         "decoder":"geoscan"
       }
     ],
-    "updated":"2024-12-07T02:51:09.200927Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/279",
+    "updated":"2024-12-14T05:45:53.618779Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/10732359\/",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "PQHF-7036-2407-4890-1783"
     ]
   },
   {
     "sat_id":"YDID-3447-4202-8525-9942",
     "norad_cat_id":98793.0,
-    "norad_follow_id":61757.0,
+    "norad_follow_id":61755.0,
     "name":"Horizon",
     "names":"\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442, Gorizont, RS59S",
     "image":"satellites\/ddd.jpg",
@@ -48455,8 +48456,8 @@
         "decoder":"geoscan"
       }
     ],
-    "updated":"2024-12-11T18:49:15.407623Z",
-    "citation":"STRF measurement, slightly better match then 61755",
+    "updated":"2024-12-14T06:07:43.565105Z",
+    "citation":"Fix temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48464,8 +48465,8 @@
   },
   {
     "sat_id":"NIAX-2133-1044-8158-9670",
-    "norad_cat_id":98792.0,
-    "norad_follow_id":61735.0,
+    "norad_cat_id":61735.0,
+    "norad_follow_id":null,
     "name":"Ionosfera-M \u21161",
     "names":"",
     "image":"satellites\/2024-08-28_09.39.10_large.jpeg",
@@ -48479,8 +48480,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T10:26:06.470029Z",
-    "citation":"Random choice",
+    "updated":"2024-12-14T05:36:03.181207Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48488,8 +48489,8 @@
   },
   {
     "sat_id":"CDZX-7764-5634-8776-5665",
-    "norad_cat_id":98790.0,
-    "norad_follow_id":61736.0,
+    "norad_cat_id":61736.0,
+    "norad_follow_id":null,
     "name":"Ionosfera-M \u21162",
     "names":"",
     "image":"satellites\/2024-08-28_09.39.10_large_rfxSVSr.jpeg",
@@ -48503,8 +48504,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T10:26:26.449670Z",
-    "citation":"Random choice",
+    "updated":"2024-12-14T05:38:08.709415Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48584,8 +48585,8 @@
   },
   {
     "sat_id":"SQGD-2208-0540-4983-6683",
-    "norad_cat_id":98789.0,
-    "norad_follow_id":61749.0,
+    "norad_cat_id":61749.0,
+    "norad_follow_id":null,
     "name":"Vizard-ion",
     "names":"RS68S",
     "image":"satellites\/large_6_B4_A7305_Vizard_ion_4bec7513ce.jpg",
@@ -48601,8 +48602,8 @@
         "decoder":"geoscan"
       }
     ],
-    "updated":"2024-12-07T02:49:52.018579Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/279",
+    "updated":"2024-12-14T05:46:58.122280Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/10731635\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -48636,8 +48637,8 @@
   },
   {
     "sat_id":"XZIQ-7009-4472-3546-4651",
-    "norad_cat_id":98787.0,
-    "norad_follow_id":61762.0,
+    "norad_cat_id":61762.0,
+    "norad_follow_id":null,
     "name":"ArcticSat-1",
     "names":"RS74S",
     "image":"satellites\/image2.png",
@@ -48651,17 +48652,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T02:53:59.802384Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/280",
+    "updated":"2024-12-14T05:48:20.518424Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "SOXH-3411-5285-1929-4684"
     ]
   },
   {
     "sat_id":"WEXS-3459-9433-8558-2912",
-    "norad_cat_id":98786.0,
-    "norad_follow_id":61784.0,
+    "norad_cat_id":61784.0,
+    "norad_follow_id":null,
     "name":"SamSat-Ionosphere",
     "names":"RS75S, SamSat-Ionosfera, SamSat-ION2",
     "image":"satellites\/SamSat-ION.JPG",
@@ -48675,17 +48676,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T10:20:11.196291Z",
-    "citation":"https:\/\/spaceresearch.ssau.ru\/en\/samsat-ionosfera",
+    "updated":"2024-12-14T05:51:04.979256Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "LZNF-8551-9979-8874-8553"
     ]
   },
   {
     "sat_id":"GAHV-9088-5977-7290-0624",
-    "norad_cat_id":98785.0,
-    "norad_follow_id":61765.0,
+    "norad_cat_id":61765.0,
+    "norad_follow_id":null,
     "name":"MORDOVIA-IOT",
     "names":"RS50S",
     "image":"satellites\/large_IMG_7150_34d1edfc12.JPG",
@@ -48699,11 +48700,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T12:42:42.509094Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/286",
+    "updated":"2024-12-14T05:53:03.472306Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "SKIP-4127-9974-7455-0901"
     ]
   },
   {
@@ -48780,8 +48781,8 @@
   },
   {
     "sat_id":"DQTX-7069-3845-7154-3428",
-    "norad_cat_id":98781.0,
-    "norad_follow_id":61772.0,
+    "norad_cat_id":61772.0,
+    "norad_follow_id":null,
     "name":"HyperView-1G",
     "names":"RS66S",
     "image":"satellites\/large_photo_5217502748101173130_y_6ac3b4320e.jpg",
@@ -48795,11 +48796,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T02:54:28.242947Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/281",
+    "updated":"2024-12-14T05:54:42.968646Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "XTIJ-8688-1082-5019-6844"
     ]
   },
   {
@@ -48828,8 +48829,8 @@
   },
   {
     "sat_id":"YPXG-5912-9779-4324-1114",
-    "norad_cat_id":98779.0,
-    "norad_follow_id":61753.0,
+    "norad_cat_id":61753.0,
+    "norad_follow_id":null,
     "name":"Hors 3",
     "names":"RS81S",
     "image":"satellites\/khors-1__1_acuSFYs_eVylg7o.jpg",
@@ -48843,8 +48844,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T12:41:52.762894Z",
-    "citation":"STRF Measurement",
+    "updated":"2024-12-14T05:56:40.285681Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -48852,8 +48853,8 @@
   },
   {
     "sat_id":"WNQV-7170-2922-7065-7055",
-    "norad_cat_id":98778.0,
-    "norad_follow_id":61754.0,
+    "norad_cat_id":61754.0,
+    "norad_follow_id":null,
     "name":"Hors 4",
     "names":"RS82S",
     "image":"satellites\/khors-1__1_acuSFYs_VkrcYE8.jpg",
@@ -48867,8 +48868,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T12:41:58.663578Z",
-    "citation":"STRF Measurement",
+    "updated":"2024-12-14T05:57:08.721674Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -48876,8 +48877,8 @@
   },
   {
     "sat_id":"FDFJ-7313-9264-4594-1095",
-    "norad_cat_id":98777.0,
-    "norad_follow_id":61783.0,
+    "norad_cat_id":61783.0,
+    "norad_follow_id":null,
     "name":"ZIMSAT-2",
     "names":"Z2AS",
     "image":"",
@@ -48891,17 +48892,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-08T09:40:04.907518Z",
-    "citation":"Ikhnos results on Network's observations",
+    "updated":"2024-12-14T05:58:17.096707Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "DJSX-5624-1633-9421-2166"
     ]
   },
   {
     "sat_id":"EVRJ-3332-4264-7494-9956",
     "norad_cat_id":98776.0,
-    "norad_follow_id":61768.0,
+    "norad_follow_id":61747.0,
     "name":"Polytech Universe-4",
     "names":"RS71S",
     "image":"satellites\/large_IMG_7152_ef7d3d9244.jpeg",
@@ -48915,8 +48916,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-09T20:08:28.211502Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T06:04:24.795424Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/Polytech_Universe-4",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -48948,8 +48949,8 @@
   },
   {
     "sat_id":"PGYI-7132-9309-6598-0525",
-    "norad_cat_id":98774.0,
-    "norad_follow_id":61763.0,
+    "norad_cat_id":61763.0,
+    "norad_follow_id":null,
     "name":"SIT-HSE",
     "names":"",
     "image":"satellites\/large_SXC_3_V_Sh_E_1_ad8fb740d7.jpg",
@@ -48963,8 +48964,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T15:56:17.238157Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:47:23.895471Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48972,8 +48973,8 @@
   },
   {
     "sat_id":"WQFZ-2668-6663-7878-5978",
-    "norad_cat_id":98773.0,
-    "norad_follow_id":61764.0,
+    "norad_cat_id":61764.0,
+    "norad_follow_id":null,
     "name":"SIT-2086",
     "names":"SC2335",
     "image":"satellites\/large_X7b_L_hk_Qk5_E_5675674c3b.jpg",
@@ -48987,8 +48988,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-10T22:40:25.180260Z",
-    "citation":"Telemetry decode",
+    "updated":"2024-12-14T10:46:56.005083Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48996,8 +48997,8 @@
   },
   {
     "sat_id":"PZTP-7474-2420-2319-0048",
-    "norad_cat_id":98772.0,
-    "norad_follow_id":61769.0,
+    "norad_cat_id":61769.0,
+    "norad_follow_id":null,
     "name":"Kosar",
     "names":"",
     "image":"satellites\/kosar_real.jpg",
@@ -49011,8 +49012,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T03:06:00.836560Z",
-    "citation":"Ikhnos results on Network's observations",
+    "updated":"2024-12-14T05:59:47.769684Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
     "is_frequency_violator":true,
     "associated_satellites":[
       "AXCZ-4705-5485-4454-6620"
@@ -49069,7 +49070,7 @@
   {
     "sat_id":"JYUW-3071-2314-1825-5576",
     "norad_cat_id":98769.0,
-    "norad_follow_id":61775.0,
+    "norad_follow_id":61777.0,
     "name":"CSTP-2.1",
     "names":"",
     "image":"",
@@ -49083,7 +49084,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-09T22:38:15.498618Z",
+    "updated":"2024-12-14T06:01:51.090946Z",
     "citation":"https:\/\/tinygs.com\/satellite\/CSTP-2.1",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -49093,7 +49094,7 @@
   {
     "sat_id":"ANGP-8893-7804-5283-2837",
     "norad_cat_id":98768.0,
-    "norad_follow_id":61784.0,
+    "norad_follow_id":61775.0,
     "name":"CSTP-2.2",
     "names":"",
     "image":"",
@@ -49107,7 +49108,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-09T22:38:15.471899Z",
+    "updated":"2024-12-14T06:02:27.423571Z",
     "citation":"https:\/\/tinygs.com\/satellite\/CSTP-2.2",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -49308,8 +49309,8 @@
   },
   {
     "sat_id":"RGSZ-0920-6709-0781-6800",
-    "norad_cat_id":98763.0,
-    "norad_follow_id":61743.0,
+    "norad_cat_id":61743.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-13",
     "names":"SC3231",
     "image":"",
@@ -49323,8 +49324,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:29:11.033040Z",
-    "citation":"STRF Measurement",
+    "updated":"2024-12-14T11:02:56.018646Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49332,8 +49333,8 @@
   },
   {
     "sat_id":"XBCM-2444-8723-2063-1860",
-    "norad_cat_id":98762.0,
-    "norad_follow_id":61752.0,
+    "norad_cat_id":61752.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-14",
     "names":"SC3232",
     "image":"",
@@ -49347,17 +49348,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:29:55.242788Z",
-    "citation":"STRF Measurement",
+    "updated":"2024-12-14T11:01:35.075780Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "IUTD-2857-3597-2610-8641"
     ]
   },
   {
     "sat_id":"IWTX-3285-6320-1822-9070",
-    "norad_cat_id":98761.0,
-    "norad_follow_id":61738.0,
+    "norad_cat_id":61738.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-15",
     "names":"SC3233",
     "image":"",
@@ -49371,8 +49372,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:41:29.257828Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T11:00:15.524586Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49380,8 +49381,8 @@
   },
   {
     "sat_id":"DSVG-7940-2907-4221-6289",
-    "norad_cat_id":98760.0,
-    "norad_follow_id":61737.0,
+    "norad_cat_id":61737.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-16",
     "names":"SC3234",
     "image":"",
@@ -49395,8 +49396,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:42:17.897309Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:59:32.514673Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49428,8 +49429,8 @@
   },
   {
     "sat_id":"VLQF-5068-8022-3260-4042",
-    "norad_cat_id":98757.0,
-    "norad_follow_id":61759.0,
+    "norad_cat_id":61759.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-19",
     "names":"SC3237",
     "image":"",
@@ -49443,8 +49444,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:44:58.203420Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:57:42.685276Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49452,8 +49453,8 @@
   },
   {
     "sat_id":"QTUB-4133-0510-9509-3707",
-    "norad_cat_id":98756.0,
-    "norad_follow_id":61758.0,
+    "norad_cat_id":61758.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-20",
     "names":"SC3238",
     "image":"",
@@ -49467,17 +49468,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:45:51.834103Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:56:17.009943Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "GVQR-5308-8228-7559-1296"
     ]
   },
   {
     "sat_id":"UCFL-1421-7367-6173-4013",
-    "norad_cat_id":98755.0,
-    "norad_follow_id":61739.0,
+    "norad_cat_id":61739.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-21",
     "names":"SC2319",
     "image":"",
@@ -49491,8 +49492,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T15:09:50.694218Z",
-    "citation":"PE0SAT strf analysis (fix previous typo)",
+    "updated":"2024-12-14T10:54:55.015645Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49500,8 +49501,8 @@
   },
   {
     "sat_id":"TRON-6813-0273-5537-8885",
-    "norad_cat_id":98752.0,
-    "norad_follow_id":61741.0,
+    "norad_cat_id":61741.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-24",
     "names":"SC2312",
     "image":"",
@@ -49515,11 +49516,11 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T15:55:22.861445Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:49:56.780193Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "PUAA-3223-4421-8685-2313"
     ]
   },
   {
@@ -49548,8 +49549,8 @@
   },
   {
     "sat_id":"YGZT-8723-5846-9934-3412",
-    "norad_cat_id":98753.0,
-    "norad_follow_id":61742.0,
+    "norad_cat_id":61742.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-23",
     "names":"SC2311",
     "image":"",
@@ -49563,8 +49564,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T15:25:10.496873Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:53:26.191133Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49596,8 +49597,8 @@
   },
   {
     "sat_id":"FFBD-0569-3658-8632-6485",
-    "norad_cat_id":98750.0,
-    "norad_follow_id":61786.0,
+    "norad_cat_id":61786.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-38",
     "names":"SC2326",
     "image":"",
@@ -49611,8 +49612,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:41:03.067665Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:44:39.507724Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49620,8 +49621,8 @@
   },
   {
     "sat_id":"NRCG-0362-0567-0567-5483",
-    "norad_cat_id":98748.0,
-    "norad_follow_id":61776.0,
+    "norad_cat_id":61776.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-40",
     "names":"SC2328",
     "image":"",
@@ -49635,8 +49636,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:42:40.745182Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:43:21.399687Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49644,8 +49645,8 @@
   },
   {
     "sat_id":"CYOX-9810-7226-8589-8352",
-    "norad_cat_id":98747.0,
-    "norad_follow_id":61760.0,
+    "norad_cat_id":61760.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-41",
     "names":"SC2329",
     "image":"",
@@ -49659,17 +49660,17 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:43:31.706150Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:39:58.221538Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "LSTV-7321-5996-4725-1706"
     ]
   },
   {
     "sat_id":"ZBVE-3642-7824-0324-5322",
-    "norad_cat_id":98742.0,
-    "norad_follow_id":61774.0,
+    "norad_cat_id":61774.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-46",
     "names":"SC2334",
     "image":"",
@@ -49683,8 +49684,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T15:21:55.237794Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:34:30.206905Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49692,8 +49693,8 @@
   },
   {
     "sat_id":"OQQY-3994-3361-3091-7110",
-    "norad_cat_id":98741.0,
-    "norad_follow_id":61773.0,
+    "norad_cat_id":61773.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-47",
     "names":"SC2360",
     "image":"",
@@ -49707,8 +49708,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T15:31:13.916347Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:33:15.196311Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49716,8 +49717,8 @@
   },
   {
     "sat_id":"SYCP-0508-2610-5330-6926",
-    "norad_cat_id":98758.0,
-    "norad_follow_id":61790.0,
+    "norad_cat_id":61790.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-18",
     "names":"SC3236",
     "image":"",
@@ -49731,8 +49732,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:43:54.123547Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:58:15.407132Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49740,8 +49741,8 @@
   },
   {
     "sat_id":"EBOD-7707-1906-5225-7688",
-    "norad_cat_id":98749.0,
-    "norad_follow_id":61778.0,
+    "norad_cat_id":61778.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-39",
     "names":"SC2327",
     "image":"",
@@ -49755,8 +49756,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:41:52.228545Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:44:04.294098Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49765,7 +49766,7 @@
   {
     "sat_id":"IVCK-0330-2812-2301-8665",
     "norad_cat_id":98745.0,
-    "norad_follow_id":61755.0,
+    "norad_follow_id":61757.0,
     "name":"SITRO-AIS-43",
     "names":"SC2331",
     "image":"",
@@ -49779,8 +49780,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:45:21.698381Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:37:59.284144Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49788,8 +49789,8 @@
   },
   {
     "sat_id":"BFUM-8692-8299-8436-2228",
-    "norad_cat_id":98746.0,
-    "norad_follow_id":61756.0,
+    "norad_cat_id":61756.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-42",
     "names":"SC2330",
     "image":"",
@@ -49803,8 +49804,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:44:22.252578Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:38:37.529177Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49812,8 +49813,8 @@
   },
   {
     "sat_id":"EHDK-3254-3608-4037-6765",
-    "norad_cat_id":98744.0,
-    "norad_follow_id":61748.0,
+    "norad_cat_id":61748.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-44",
     "names":"SC2332",
     "image":"",
@@ -49827,8 +49828,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:49:44.717092Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:36:53.443434Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49836,8 +49837,8 @@
   },
   {
     "sat_id":"JADE-4377-6478-5986-2355",
-    "norad_cat_id":98743.0,
-    "norad_follow_id":61788.0,
+    "norad_cat_id":61788.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-45",
     "names":"SC2333",
     "image":"",
@@ -49851,8 +49852,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T15:10:23.406014Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:36:11.198426Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49860,8 +49861,8 @@
   },
   {
     "sat_id":"TFFQ-6286-4853-7503-3720",
-    "norad_cat_id":98740.0,
-    "norad_follow_id":61771.0,
+    "norad_cat_id":61771.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-48",
     "names":"SC2370",
     "image":"",
@@ -49875,8 +49876,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T15:55:46.515681Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2024-12-14T10:32:11.381004Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 

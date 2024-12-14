@@ -107,7 +107,7 @@
     "beacon":null,
     "mode":"9k6BPSK NBFM QSPK FM",
     "callsign":"RS64S BJ2CR",
-    "satnogs_id":null
+    "satnogs_id":"REOO-2119-3738-4964-1579"
   },
   {
     "name":"ARGOS-4",
@@ -127,7 +127,7 @@
     "beacon":null,
     "mode":"9k6BPSK NBFM QSPK FM",
     "callsign":"RS64S BJ2CR",
-    "satnogs_id":null
+    "satnogs_id":"REOO-2119-3738-4964-1579"
   },
   {
     "name":"Astrocast-0.1",
@@ -1987,7 +1987,7 @@
     "beacon":null,
     "mode":"1143bps AFSK SSTV",
     "callsign":"RS50S",
-    "satnogs_id":null
+    "satnogs_id":"GAHV-9088-5977-7290-0624"
   },
   {
     "name":"MOVE-2",
@@ -2457,7 +2457,7 @@
     "beacon":null,
     "mode":"1143bps AFSK SSTV",
     "callsign":"RS44S",
-    "satnogs_id":null
+    "satnogs_id":"FYAH-9859-4626-0049-4502"
   },
   {
     "name":"SamSat-ION",
