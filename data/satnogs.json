@@ -50220,5 +50220,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"JJFZ-0785-3476-6623-4451",
+    "norad_cat_id":52322.0,
+    "norad_follow_id":null,
+    "name":"SUPERVIEW NEO-1 02",
+    "names":"2022-043C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2022-04-29T00:00:00Z",
+    "deployed":"2022-04-29T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-14T22:44:44.282954Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1gKENSPdyThJbHlwbif5hgHvCRs5S0SzrkOr1PUwn--U\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
