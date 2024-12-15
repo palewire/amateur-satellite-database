@@ -4555,7 +4555,7 @@
   },
   {
     "name":"CSTP-2.1",
-    "norad_id":"61775",
+    "norad_id":"61777",
     "uplink":null,
     "downlink":"437.485",
     "beacon":null,
@@ -4577,7 +4577,7 @@
   },
   {
     "name":"CSTP-2.2",
-    "norad_id":null,
+    "norad_id":"61775",
     "uplink":null,
     "downlink":"437.985",
     "beacon":null,
@@ -11573,7 +11573,7 @@
   },
   {
     "name":"Nokhcho",
-    "norad_id":null,
+    "norad_id":"61767",
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
@@ -17381,7 +17381,7 @@
   },
   {
     "name":"SWSU-60",
-    "norad_id":"61767",
+    "norad_id":"61787",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
@@ -20362,7 +20362,7 @@
   },
   {
     "name":"YuZGU-60",
-    "norad_id":"61767",
+    "norad_id":"61787",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
