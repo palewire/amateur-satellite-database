@@ -49046,7 +49046,7 @@
   {
     "sat_id":"EJNQ-6110-0979-2724-0011",
     "norad_cat_id":98770.0,
-    "norad_follow_id":null,
+    "norad_follow_id":61761.0,
     "name":"Norby-3",
     "names":"",
     "image":"",
@@ -49060,8 +49060,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-04T22:25:55.174700Z",
-    "citation":"Change Status",
+    "updated":"2024-12-15T20:45:06.890543Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -50240,6 +50240,54 @@
     ],
     "updated":"2024-12-14T22:44:44.282954Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1gKENSPdyThJbHlwbif5hgHvCRs5S0SzrkOr1PUwn--U\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BFPS-7251-1020-2290-1029",
+    "norad_cat_id":98732.0,
+    "norad_follow_id":null,
+    "name":"PARUS-T1A",
+    "names":"",
+    "image":"satellites\/PARUS-T1A.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-15T21:05:52.243854Z",
+    "citation":"Add image",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BKER-3193-7253-4048-2548",
+    "norad_cat_id":58294.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X34",
+    "names":"2023-174AQ",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-15T20:28:04.357442Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/13CK8mx0wayLeIly_X0f8wbLIKophD6w9x1Zl2pep3JQ\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
