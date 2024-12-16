@@ -32496,8 +32496,8 @@
     "name":"StratoSat TK-1-G",
     "names":"RS52SG",
     "image":"satellites\/b_HqwXnvA.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-15T00:00:00Z",
     "launched":"2023-06-27T11:34:00Z",
     "deployed":"2023-07-11T08:00:00Z",
     "website":"",
@@ -32506,8 +32506,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-29T00:45:26.037271Z",
-    "citation":"Satellite Team",
+    "updated":"2024-12-16T10:50:02.461197Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=57325",
     "is_frequency_violator":true,
     "associated_satellites":[
       "TQXE-9792-4163-4929-1078"
