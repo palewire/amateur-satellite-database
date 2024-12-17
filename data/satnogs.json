@@ -9812,8 +9812,8 @@
     "name":"Lucky-7",
     "names":"OK0SAT",
     "image":"satellites\/lucky-7.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-16T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":"2019-07-05T00:00:00Z",
     "website":"http:\/\/www.lucky7satellite.org\/",
@@ -9824,8 +9824,8 @@
         "decoder":"lucky7"
       }
     ],
-    "updated":"2024-06-05T23:09:06.008143Z",
-    "citation":"dl7ndr",
+    "updated":"2024-12-17T06:51:29.700475Z",
+    "citation":"https:\/\/community.libre.space\/t\/lucky-7-re-entry\/12623\/16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48247,21 +48247,21 @@
     "sat_id":"TJNC-9764-2485-7803-5657",
     "norad_cat_id":61223.0,
     "norad_follow_id":null,
-    "name":"OBJECT D",
-    "names":"2024-171D",
+    "name":"KINEIS-3A",
+    "names":"2024-171B",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2024-09-20T00:00:00Z",
-    "deployed":null,
+    "deployed":"2024-09-20T00:00:00Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"FR",
     "telemetries":[
 
     ],
-    "updated":"2024-09-25T14:24:47.719068Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/10lR5A08Xt_YgvTI1yREZ2fBRSZF2Op98T_V0v-1HoZU\/edit?usp=sharing",
+    "updated":"2024-12-17T06:52:19.862426Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/163QMUc_I6htlL9j_nyftZV2q6ZecZZcCRKlPoG-7vqc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50288,6 +50288,102 @@
     ],
     "updated":"2024-12-15T20:28:04.357442Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/13CK8mx0wayLeIly_X0f8wbLIKophD6w9x1Zl2pep3JQ\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SNLN-4837-4388-3772-6101",
+    "norad_cat_id":61221.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-3D",
+    "names":"2024-171B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-09-20T00:00:00Z",
+    "deployed":"2024-09-20T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-17T06:54:22.460160Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/163QMUc_I6htlL9j_nyftZV2q6ZecZZcCRKlPoG-7vqc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BMDG-6675-0607-0851-8712",
+    "norad_cat_id":61220.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-3C",
+    "names":"2024-171B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-09-20T00:00:00Z",
+    "deployed":"2024-09-20T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-17T06:54:17.746898Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/163QMUc_I6htlL9j_nyftZV2q6ZecZZcCRKlPoG-7vqc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PIMT-5061-4270-4034-0750",
+    "norad_cat_id":61224.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-3B",
+    "names":"2024-171B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-09-20T00:00:00Z",
+    "deployed":"2024-09-20T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-17T06:52:26.412303Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/163QMUc_I6htlL9j_nyftZV2q6ZecZZcCRKlPoG-7vqc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KVEB-1740-5392-8849-3383",
+    "norad_cat_id":58555.0,
+    "norad_follow_id":null,
+    "name":"23193C",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-17T11:46:52.265457Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/110",
     "is_frequency_violator":false,
     "associated_satellites":[
 
