@@ -7679,7 +7679,7 @@
   },
   {
     "name":"Horizon",
-    "norad_id":"61757",
+    "norad_id":"61755",
     "uplink":null,
     "downlink":"435.430",
     "beacon":null,
@@ -11628,11 +11628,11 @@
   },
   {
     "name":"Norby-3",
-    "norad_id":null,
+    "norad_id":"61761",
     "uplink":null,
-    "downlink":null,
+    "downlink":"436.570",
     "beacon":null,
-    "mode":null,
+    "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -15687,7 +15687,7 @@
   },
   {
     "name":"SITRO-AIS-43",
-    "norad_id":"61755",
+    "norad_id":"61757",
     "uplink":null,
     "downlink":"401.145",
     "beacon":null,
