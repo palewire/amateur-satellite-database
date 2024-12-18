@@ -50252,7 +50252,7 @@
     "name":"PARUS-T1A",
     "names":"",
     "image":"satellites\/PARUS-T1A.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -50262,8 +50262,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-17T23:22:51.006329Z",
-    "citation":"Change status",
+    "updated":"2024-12-18T02:34:19.038263Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=61644.20",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50420,7 +50420,7 @@
     "name":"TATARA-1",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -50430,8 +50430,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-17T23:22:25.251503Z",
-    "citation":"https:\/\/community.libre.space\/t\/taiwan-parus-t1a-3u-cubesat-ready-to-go\/12643\/8",
+    "updated":"2024-12-18T02:34:27.431437Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=61644.20",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50444,7 +50444,7 @@
     "name":"SC-SAT1",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -50454,8 +50454,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-17T23:22:29.900557Z",
-    "citation":"https:\/\/community.libre.space\/t\/taiwan-parus-t1a-3u-cubesat-ready-to-go\/12643\/8",
+    "updated":"2024-12-18T02:34:22.484638Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=61644.20",
     "is_frequency_violator":false,
     "associated_satellites":[
 
