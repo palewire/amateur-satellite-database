@@ -47722,8 +47722,8 @@
     "name":"SaganSat0",
     "names":"JG6YPC",
     "image":"satellites\/ham_competition_-_CW.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-15T00:00:00Z",
     "launched":"2024-08-05T00:00:00Z",
     "deployed":"2024-08-29T09:45:00Z",
     "website":"https:\/\/twiiit.com\/saga_space",
@@ -47732,8 +47732,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-06T00:07:59.836479Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/104",
+    "updated":"2024-12-17T15:00:44.617442Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=60958",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50252,7 +50252,7 @@
     "name":"PARUS-T1A",
     "names":"",
     "image":"satellites\/PARUS-T1A.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -50262,8 +50262,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-15T21:05:52.243854Z",
-    "citation":"Add image",
+    "updated":"2024-12-17T23:22:51.006329Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50342,6 +50342,30 @@
     ]
   },
   {
+    "sat_id":"FRMD-9887-6036-6811-7247",
+    "norad_cat_id":61222.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-3E",
+    "names":"2024-171B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-09-20T00:00:00Z",
+    "deployed":"2024-09-20T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-17T12:23:24.860485Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/163QMUc_I6htlL9j_nyftZV2q6ZecZZcCRKlPoG-7vqc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"PIMT-5061-4270-4034-0750",
     "norad_cat_id":61224.0,
     "norad_follow_id":null,
@@ -50384,6 +50408,54 @@
     ],
     "updated":"2024-12-17T11:46:52.265457Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/110",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VJQR-9080-6807-0447-6752",
+    "norad_cat_id":98731.0,
+    "norad_follow_id":null,
+    "name":"TATARA-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-17T23:22:25.251503Z",
+    "citation":"https:\/\/community.libre.space\/t\/taiwan-parus-t1a-3u-cubesat-ready-to-go\/12643\/8",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LYRL-0232-4494-6668-9495",
+    "norad_cat_id":98730.0,
+    "norad_follow_id":null,
+    "name":"SC-SAT1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-17T23:22:29.900557Z",
+    "citation":"https:\/\/community.libre.space\/t\/taiwan-parus-t1a-3u-cubesat-ready-to-go\/12643\/8",
     "is_frequency_violator":false,
     "associated_satellites":[
 
