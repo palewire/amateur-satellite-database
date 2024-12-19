@@ -7686,7 +7686,7 @@
     "mode":"9600bps GMSK CW",
     "callsign":"RS59S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"IVCK-0330-2812-2301-8665"
   },
   {
     "name":"Hors-1",
@@ -15716,7 +15716,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2331",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"YDID-3447-4202-8525-9942"
   },
   {
     "name":"SITRO-AIS-44",
@@ -18642,7 +18642,7 @@
     "mode":"9600bps GFSK CW",
     "callsign":"RS78S",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"RUKR-0716-8781-6957-0828"
   },
   {
     "name":"TW-1A",
