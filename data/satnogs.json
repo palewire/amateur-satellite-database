@@ -49981,8 +49981,8 @@
   },
   {
     "sat_id":"HHVN-9456-4962-8588-2802",
-    "norad_cat_id":98736.0,
-    "norad_follow_id":62298.0,
+    "norad_cat_id":62298.0,
+    "norad_follow_id":null,
     "name":"YOMOGI",
     "names":"JS1YMX",
     "image":"satellites\/Satellite.JPG",
@@ -49998,11 +49998,11 @@
         "decoder":"yomogi"
       }
     ],
-    "updated":"2024-12-13T08:27:47.130931Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612\/12",
+    "updated":"2024-12-18T14:19:32.786839Z",
+    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612\/17",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "VXZL-1339-0502-0226-1410"
     ]
   },
   {
@@ -50080,9 +50080,9 @@
   {
     "sat_id":"BMMH-7711-6036-7770-2924",
     "norad_cat_id":98733.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62299.0,
     "name":"ONGLAISAT",
-    "names":"62299",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -50094,8 +50094,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-13T08:27:47.024856Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612\/12",
+    "updated":"2024-12-18T14:26:57.542946Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50456,6 +50456,30 @@
     ],
     "updated":"2024-12-18T02:34:22.484638Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=61644.20",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NRVY-4784-2439-1767-3301",
+    "norad_cat_id":98729.0,
+    "norad_follow_id":null,
+    "name":"DJIBOUTI-1B",
+    "names":"DJIBOUTI-1B",
+    "image":"satellites\/DjibOUTI_1B_300_px.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-12-20T00:00:00Z",
+    "deployed":"2024-12-20T00:00:00Z",
+    "website":"https:\/\/spatialdjiboutien.net\/",
+    "operator":"None",
+    "countries":"DJ",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-18T14:16:32.953241Z",
+    "citation":"Remove re-entry date",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -1327,7 +1327,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"HHVN-9456-4962-8588-2802"
   },
   {
     "name":"GOMX-1",
@@ -3457,7 +3457,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":"JS1YMX",
-    "satnogs_id":null
+    "satnogs_id":"HHVN-9456-4962-8588-2802"
   },
   {
     "name":"ZACube-1",
