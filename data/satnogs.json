@@ -48180,7 +48180,7 @@
     "image":"satellites\/photo-satnogs.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-12-20T11:28:00Z",
+    "launched":"2024-12-20T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/crocube.hr",
     "operator":"None",
@@ -48190,7 +48190,7 @@
         "decoder":"crocube"
       }
     ],
-    "updated":"2024-12-19T23:25:10.483816Z",
+    "updated":"2024-12-20T10:17:57.491856Z",
     "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -48278,7 +48278,7 @@
     "image":"satellites\/lasarsat-7.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-12-20T11:28:00Z",
+    "launched":"2024-12-20T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/lasar.info\/lasarsat",
     "operator":"None",
@@ -48286,7 +48286,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-20T00:13:48.577273Z",
+    "updated":"2024-12-20T10:17:57.471737Z",
     "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -50472,7 +50472,7 @@
     "image":"satellites\/DjibOUTI_1B_300_px.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-12-20T11:28:00Z",
+    "launched":"2024-12-20T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/spatialdjiboutien.net\/",
     "operator":"None",
@@ -50480,7 +50480,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-19T23:24:04.409904Z",
+    "updated":"2024-12-20T10:17:57.478698Z",
     "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -50544,7 +50544,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2024-12-20T11:28:00Z",
+    "launched":"2024-12-20T11:34:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -50552,8 +50552,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-19T23:24:39.097283Z",
-    "citation":"Change status",
+    "updated":"2024-12-20T10:17:57.485697Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50568,7 +50568,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2024-12-20T11:28:00Z",
+    "launched":"2024-12-20T11:34:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -50576,8 +50576,56 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-20T00:22:41.847774Z",
-    "citation":"https:\/\/licensing.fcc.gov\/myibfs\/download.do?attachment_key=27939799",
+    "updated":"2024-12-20T10:17:57.465062Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IFBU-4266-8266-9018-9039",
+    "norad_cat_id":98726.0,
+    "norad_follow_id":null,
+    "name":"SC1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-20T10:17:57.441555Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WLLD-6431-3264-3474-6147",
+    "norad_cat_id":98725.0,
+    "norad_follow_id":null,
+    "name":"XCUBE-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-20T10:17:57.460048Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
