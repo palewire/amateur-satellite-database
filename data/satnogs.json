@@ -48180,16 +48180,18 @@
     "image":"satellites\/photo-satnogs.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-12-20T11:28:00Z",
     "deployed":null,
     "website":"https:\/\/crocube.hr",
     "operator":"None",
     "countries":"HR",
     "telemetries":[
-
+      {
+        "decoder":"crocube"
+      }
     ],
-    "updated":"2024-11-28T07:29:17.591749Z",
-    "citation":"Webpage updated",
+    "updated":"2024-12-19T23:25:10.483816Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48276,7 +48278,7 @@
     "image":"satellites\/lasarsat-7.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2024-12-20T11:28:00Z",
     "deployed":null,
     "website":"https:\/\/lasar.info\/lasarsat",
     "operator":"None",
@@ -48284,8 +48286,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-25T14:30:21.572506Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/317",
+    "updated":"2024-12-20T00:13:48.577273Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48805,8 +48807,8 @@
   },
   {
     "sat_id":"LNIX-1421-5820-7502-3419",
-    "norad_cat_id":98780.0,
-    "norad_follow_id":61750.0,
+    "norad_cat_id":61750.0,
+    "norad_follow_id":null,
     "name":"MTUSI-1",
     "names":"",
     "image":"satellites\/5346494596.jpg",
@@ -48820,9 +48822,9 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-12T09:58:53.911567Z",
-    "citation":"Add NORAD ID to follow",
-    "is_frequency_violator":false,
+    "updated":"2024-12-19T21:58:01.300442Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
+    "is_frequency_violator":true,
     "associated_satellites":[
       "VDAK-9658-1991-0734-5338"
     ]
@@ -49110,7 +49112,7 @@
     ],
     "updated":"2024-12-14T06:02:27.423571Z",
     "citation":"https:\/\/tinygs.com\/satellite\/CSTP-2.2",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -50470,16 +50472,16 @@
     "image":"satellites\/DjibOUTI_1B_300_px.png",
     "status":"future",
     "decayed":null,
-    "launched":"2024-12-20T00:00:00Z",
-    "deployed":"2024-12-20T00:00:00Z",
+    "launched":"2024-12-20T11:28:00Z",
+    "deployed":null,
     "website":"https:\/\/spatialdjiboutien.net\/",
     "operator":"None",
     "countries":"DJ",
     "telemetries":[
 
     ],
-    "updated":"2024-12-18T14:16:32.953241Z",
-    "citation":"Remove re-entry date",
+    "updated":"2024-12-19T23:24:04.409904Z",
+    "citation":"Update launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50528,6 +50530,54 @@
     ],
     "updated":"2024-12-19T09:26:22.473959Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1WMINlpkZlkGKsTlbRRXdtoxpC23ZK51H_8Sfb0GTgzI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VWXG-4101-0824-5480-8078",
+    "norad_cat_id":98728.0,
+    "norad_follow_id":null,
+    "name":"CTC-0",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-12-20T11:28:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-19T23:24:39.097283Z",
+    "citation":"Change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XZYN-7948-2944-3246-2882",
+    "norad_cat_id":98727.0,
+    "norad_follow_id":null,
+    "name":"LIZZIESAT-2",
+    "names":"USASAT-30V",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-12-20T11:28:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-20T00:22:41.847774Z",
+    "citation":"https:\/\/licensing.fcc.gov\/myibfs\/download.do?attachment_key=27939799",
     "is_frequency_violator":false,
     "associated_satellites":[
 
