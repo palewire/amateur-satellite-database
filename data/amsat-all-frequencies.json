@@ -14768,7 +14768,7 @@
     "downlink":"437.400",
     "beacon":null,
     "mode":"1200bps FSK",
-    "callsign":null,
+    "callsign":"RS75S",
     "status":"unknown",
     "satnogs_id":"WEXS-3459-9433-8558-2912"
   },
