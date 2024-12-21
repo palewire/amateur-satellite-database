@@ -46995,7 +46995,7 @@
   },
   {
     "sat_id":"QGMX-5159-0094-5267-2950",
-    "norad_cat_id":98836.0,
+    "norad_cat_id":60479.0,
     "norad_follow_id":null,
     "name":"Tomorrow-S1",
     "names":"",
@@ -47010,8 +47010,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.959936Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-12-21T09:07:29.335743Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47019,7 +47019,7 @@
   },
   {
     "sat_id":"FPHC-2825-3499-3478-4685",
-    "norad_cat_id":98835.0,
+    "norad_cat_id":60485.0,
     "norad_follow_id":null,
     "name":"Tomorrow-S2",
     "names":"",
@@ -47034,8 +47034,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-16T19:57:06.372139Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-19-utc\/11973",
+    "updated":"2024-12-21T09:08:13.888174Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48178,9 +48178,9 @@
     "name":"CroCube",
     "names":"9A0CC",
     "image":"satellites\/photo-satnogs.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2024-12-20T11:34:00Z",
+    "launched":"2024-12-21T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/crocube.hr",
     "operator":"None",
@@ -48190,8 +48190,8 @@
         "decoder":"crocube"
       }
     ],
-    "updated":"2024-12-20T10:17:57.491856Z",
-    "citation":"Update launch date",
+    "updated":"2024-12-21T08:12:43.583118Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48276,7 +48276,7 @@
     "name":"LASARsat",
     "names":"OK0LSR",
     "image":"satellites\/lasarsat-7.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-12-20T11:34:00Z",
     "deployed":null,
@@ -48284,10 +48284,12 @@
     "operator":"None",
     "countries":"",
     "telemetries":[
-
+      {
+        "decoder":"lasarsat"
+      }
     ],
-    "updated":"2024-12-20T10:17:57.471737Z",
-    "citation":"Update launch date",
+    "updated":"2024-12-21T08:12:43.566894Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50470,7 +50472,7 @@
     "name":"DJIBOUTI-1B",
     "names":"DJIBOUTI-1B",
     "image":"satellites\/DjibOUTI_1B_300_px.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-12-20T11:34:00Z",
     "deployed":null,
@@ -50480,8 +50482,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-20T10:17:57.478698Z",
-    "citation":"Update launch date",
+    "updated":"2024-12-21T08:12:43.551299Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50542,7 +50544,7 @@
     "name":"CTC-0",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-12-20T11:34:00Z",
     "deployed":null,
@@ -50552,8 +50554,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-20T10:17:57.485697Z",
-    "citation":"Update launch date",
+    "updated":"2024-12-21T08:12:43.535133Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50566,7 +50568,7 @@
     "name":"LIZZIESAT-2",
     "names":"USASAT-30V",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-12-20T11:34:00Z",
     "deployed":null,
@@ -50576,8 +50578,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-20T10:17:57.465062Z",
-    "citation":"Update launch date",
+    "updated":"2024-12-21T08:12:43.499906Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50614,7 +50616,7 @@
     "name":"XCUBE-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2024-12-20T11:34:00Z",
     "deployed":null,
@@ -50624,8 +50626,296 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-20T10:17:57.460048Z",
+    "updated":"2024-12-21T08:12:43.518588Z",
+    "citation":"Change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IJVK-6151-9121-7874-1695",
+    "norad_cat_id":98724.0,
+    "norad_follow_id":null,
+    "name":"PLEIADES-ORPHEUS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.770309Z",
     "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BVUZ-3947-7137-4672-4482",
+    "norad_cat_id":98723.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-3",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.702086Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TFED-0305-0295-5299-6049",
+    "norad_cat_id":98722.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-4",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.685894Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SYXJ-1945-4314-9869-0685",
+    "norad_cat_id":98720.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-6",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.649891Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KELC-6693-7789-9731-3514",
+    "norad_cat_id":98719.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-7",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.632408Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TREX-5850-1292-0524-4646",
+    "norad_cat_id":98721.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-5",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.668023Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VBZZ-8433-1598-3222-0847",
+    "norad_cat_id":98718.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-8",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.617094Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WQXV-8178-3733-1674-8370",
+    "norad_cat_id":98717.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-9",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.600302Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CSAZ-4242-4475-3091-1604",
+    "norad_cat_id":98715.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-11",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.735185Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"POUI-3474-3381-3722-6313",
+    "norad_cat_id":98716.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-10",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.752760Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KNHH-7681-3827-5051-8023",
+    "norad_cat_id":98714.0,
+    "norad_follow_id":null,
+    "name":"ONDOSAT-OWL-12",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T08:12:43.717738Z",
+    "citation":"Update launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JUDZ-1871-2122-6939-3208",
+    "norad_cat_id":98713.0,
+    "norad_follow_id":null,
+    "name":"Jackal-3",
+    "names":"MX.2, TAANSAAFL-2",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-20T11:34:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-21T09:01:55.181032Z",
+    "citation":"https:\/\/apps.fcc.gov\/els\/GetAtt.html?id=351889&x=. and https:\/\/apps.fcc.gov\/els\/GetAtt.html?id=364704&x=.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
