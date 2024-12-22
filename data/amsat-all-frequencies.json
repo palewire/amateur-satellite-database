@@ -15385,7 +15385,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC3231",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"RGSZ-0920-6709-0781-6800"
   },
   {
@@ -15506,7 +15506,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2312",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"TRON-6813-0273-5537-8885"
   },
   {
@@ -15649,7 +15649,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2325",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -15770,7 +15770,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2370",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"TFFQ-6286-4853-7503-3720"
   },
   {

@@ -2630,6 +2630,26 @@
     "satnogs_id":"PZEY-6339-9659-2258-4284"
   },
   {
+    "name":"SITRO-AIS-13",
+    "norad_id":"61743",
+    "uplink":null,
+    "downlink":"401.015",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC3231",
+    "satnogs_id":"RGSZ-0920-6709-0781-6800"
+  },
+  {
+    "name":"SITRO-AIS-24",
+    "norad_id":"61741",
+    "uplink":null,
+    "downlink":"401.235",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2312",
+    "satnogs_id":"TRON-6813-0273-5537-8885"
+  },
+  {
     "name":"SITRO-AIS-25",
     "norad_id":"59066",
     "uplink":null,
@@ -2748,6 +2768,26 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2324",
     "satnogs_id":"GZOI-5873-1458-3880-9802"
+  },
+  {
+    "name":"SITRO-AIS-37",
+    "norad_id":"61780",
+    "uplink":null,
+    "downlink":"401.025",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2325",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-48",
+    "norad_id":"61771",
+    "uplink":null,
+    "downlink":"401.245",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2370",
+    "satnogs_id":"TFFQ-6286-4853-7503-3720"
   },
   {
     "name":"SITRO-AIS-49",
