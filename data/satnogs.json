@@ -2666,7 +2666,7 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"KR,GB,US",
+    "countries":"GB,KR,US",
     "telemetries":[
 
     ],
@@ -2690,7 +2690,7 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"NL,GB",
+    "countries":"GB,NL",
     "telemetries":[
 
     ],
@@ -3826,9 +3826,9 @@
     "name":"KAITUO 1A",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-11-16T00:00:00Z",
+    "launched":"2015-09-19T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -3836,8 +3836,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.221642Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-12-21T22:46:32.047695Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=40904#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -7388,9 +7388,9 @@
     "name":"GOMX4-B",
     "names":"",
     "image":"satellites\/unnamed.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-10-09T00:00:00Z",
+    "launched":"2018-02-02T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -7398,8 +7398,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-09T14:50:52.749065Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-12-21T22:47:48.470198Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43196#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -8592,7 +8592,7 @@
     "deployed":null,
     "website":"https:\/\/www.esa.int\/Education\/ESEO",
     "operator":"ESA",
-    "countries":"DK,HU,IT,GB",
+    "countries":"DK,GB,HU,IT",
     "telemetries":[
 
     ],
@@ -11801,8 +11801,8 @@
     "name":"Adelis-Sampson 2",
     "names":"SAMSON 2",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-03T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/asri.technion.ac.il\/node\/219",
@@ -11811,8 +11811,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T01:02:44.746644Z",
-    "citation":"https:\/\/www.ucsusa.org\/sites\/default\/files\/2022-02\/UCS-Satellite-Database-Officialname-1-1-2022.txt",
+    "updated":"2024-12-21T22:45:20.689377Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=47939#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -13404,8 +13404,8 @@
     "name":"VR3X-A",
     "names":"Littlefoot",
     "image":"satellites\/vr3x.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-15T00:00:00Z",
     "launched":"2021-01-24T15:00:00Z",
     "deployed":"2021-01-24T15:00:00Z",
     "website":"http:\/\/pycubed.org\/",
@@ -13414,8 +13414,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T19:18:43.648191Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-12-21T22:46:13.161429Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -15255,7 +15255,7 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"LT,GB",
+    "countries":"GB,LT",
     "telemetries":[
 
     ],
@@ -15836,7 +15836,7 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"AU,IL,GB",
+    "countries":"AU,GB,IL",
     "telemetries":[
 
     ],
@@ -15860,7 +15860,7 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"IL,CH",
+    "countries":"CH,IL",
     "telemetries":[
 
     ],
@@ -15956,7 +15956,7 @@
     "deployed":null,
     "website":"https:\/\/skyandspace.co\/",
     "operator":"None",
-    "countries":"AU,IL,GB",
+    "countries":"AU,GB,IL",
     "telemetries":[
 
     ],
@@ -16046,9 +16046,9 @@
     "name":"ZHUHAI-1 OHS-01",
     "names":"",
     "image":"satellites\/ohs-2__1_HwUR4s3.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2024-11-14T00:00:00Z",
+    "launched":"2018-04-26T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -16056,8 +16056,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-12T07:22:47.098875Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-12-21T22:47:14.947869Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43439#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16310,8 +16310,8 @@
     "name":"KEPLER-2",
     "names":"TARS",
     "image":"satellites\/kepler-3__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-10T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16320,8 +16320,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-14T08:48:01.865213Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-12-21T22:45:07.277523Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46319#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16412,7 +16412,7 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"AU,IL,GB",
+    "countries":"AU,GB,IL",
     "telemetries":[
 
     ],
@@ -16670,8 +16670,8 @@
     "name":"NANOVA",
     "names":"Commtrail TYVAK-0092",
     "image":"satellites\/nanova__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-03T00:00:00Z",
     "launched":"2019-12-11T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16680,8 +16680,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-18T06:49:06.272957Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2024-12-21T22:44:55.027253Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44852#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16796,7 +16796,7 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"IL,CH",
+    "countries":"CH,IL",
     "telemetries":[
 
     ],
@@ -17366,8 +17366,8 @@
     "name":"Xingshidai 5",
     "names":"",
     "image":"satellites\/xingshidai-5__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-19T00:00:00Z",
     "launched":"2019-08-17T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.adaspace.com\/",
@@ -17376,8 +17376,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-08T15:44:43.720650Z",
-    "citation":"https:\/\/ucsusa.org\/sites\/default\/files\/2021-11\/UCS%20Satellite%20Database-Officialname-9-1-21_0.txt",
+    "updated":"2024-12-21T22:40:50.947564Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=44488#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18841,13 +18841,13 @@
   },
   {
     "sat_id":"ZNCS-9117-1208-5220-5290",
-    "norad_cat_id":99457.0,
-    "norad_follow_id":51008.0,
+    "norad_cat_id":51008.0,
+    "norad_follow_id":null,
     "name":"ICEYE-X16",
     "names":"ex-ETV-A1",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-16T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/earth.esa.int\/eogateway\/missions\/iceye",
@@ -18856,8 +18856,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-11T10:44:48.716089Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=52372.0;all",
+    "updated":"2024-12-21T22:44:29.779872Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=51008#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19195,7 +19195,7 @@
     "deployed":"2022-02-03T08:55:00Z",
     "website":"",
     "operator":"None",
-    "countries":"BH,AE",
+    "countries":"AE,BH",
     "telemetries":[
 
     ],
@@ -19539,8 +19539,8 @@
     "name":"MP42",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-20T00:00:00Z",
     "launched":"2022-04-01T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -19549,8 +19549,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-04T05:45:16.138586Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/32",
+    "updated":"2024-12-21T22:38:15.502709Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=52169#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -20328,8 +20328,8 @@
     "name":"AKEBONO",
     "names":"EXOS-D",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-26T00:00:00Z",
     "launched":"1989-02-21T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/global.jaxa.jp\/projects\/sas\/akebono\/",
@@ -20338,8 +20338,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:43:13.072678Z",
-    "citation":"https:\/\/github.com\/happysat\/Deadsat\/blob\/main\/README.md",
+    "updated":"2024-12-21T22:41:10.515698Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=19822#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -20904,8 +20904,8 @@
     "name":"PTD-3",
     "names":"TYVAK-0125",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-14T00:00:00Z",
     "launched":"2022-05-25T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -20914,8 +20914,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T02:03:34.400007Z",
-    "citation":"Celestrak",
+    "updated":"2024-12-21T22:48:39.807238Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=52734#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24493,8 +24493,8 @@
     "name":"OP15 FLT1",
     "names":"TYVAK-0820",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-18T00:00:00Z",
     "launched":"2022-05-25T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -24503,8 +24503,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-10-27T09:00:01.524838Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-12-21T22:48:15.056894Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=52741#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25045,8 +25045,8 @@
     "name":"LEMUR 2 SLICERS",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-09T00:00:00Z",
     "launched":"2020-09-28T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -25055,8 +25055,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-30T08:33:09.284481Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/9",
+    "updated":"2024-12-21T22:42:28.086577Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=46500#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26586,8 +26586,8 @@
     "name":"Jilin-1 Gaofen-03D-44",
     "names":"Tianfu Dongpo 08",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-30T00:00:00Z",
     "launched":"2022-12-09T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -26596,8 +26596,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-11T20:59:12.650599Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/15",
+    "updated":"2024-12-21T22:39:52.983233Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=54682#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26874,8 +26874,8 @@
     "name":"Sapling Giganteum",
     "names":"Sapling-2",
     "image":"satellites\/sapling_giganteum_mission_patch.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-18T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":"2023-04-15T07:51:20Z",
     "website":"https:\/\/saplingsat.org",
@@ -26884,8 +26884,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T23:19:05.909701Z",
-    "citation":"Updated NORAD ID to follow Space-track",
+    "updated":"2024-12-21T22:37:55.953882Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=56213#results",
     "is_frequency_violator":false,
     "associated_satellites":[
       "ZOPR-4121-1711-3622-7855",
@@ -27861,11 +27861,11 @@
     "sat_id":"FABK-1615-6681-6450-5201",
     "norad_cat_id":54693.0,
     "norad_follow_id":null,
-    "name":"OBJECT M",
+    "name":"Jiaotong-5",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-27T00:00:00Z",
     "launched":"2022-12-09T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -27874,8 +27874,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T16:19:39.217241Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/17",
+    "updated":"2024-12-21T22:39:36.556875Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=54693#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28664,7 +28664,7 @@
     "deployed":"2023-04-15T07:52:00Z",
     "website":"http:\/\/www.orbitalsolutions.mc\/our-satellites\/",
     "operator":"None",
-    "countries":"MC,CH",
+    "countries":"CH,MC",
     "telemetries":[
       {
         "decoder":"roseycubesat1"
@@ -28897,11 +28897,11 @@
     "sat_id":"RUXR-3870-3304-6679-0796",
     "norad_cat_id":55261.0,
     "norad_follow_id":null,
-    "name":"OBJECT P - 2023-007",
+    "name":"Tianzhi-2D",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-27T00:00:00Z",
     "launched":"2023-01-15T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28910,8 +28910,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-29T10:06:15.556462Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-6-2023-01-03-14-56-utc\/9848\/134",
+    "updated":"2024-12-21T22:39:10.043284Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=55261#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28924,8 +28924,8 @@
     "name":"ANAND",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-21T00:00:00Z",
     "launched":"2022-11-26T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28934,8 +28934,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-29T10:06:07.709549Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2024-12-21T22:38:28.471497Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=54366#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31239,8 +31239,8 @@
     "name":"Vigoride-6",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-23T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":"2023-04-15T08:09:09Z",
     "website":"",
@@ -31249,8 +31249,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T03:24:15.252515Z",
-    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/56196\/format\/html\/emptyresult\/show",
+    "updated":"2024-12-21T22:37:33.682109Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=56196#results",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35337,7 +35337,7 @@
     "deployed":null,
     "website":"https:\/\/www.eoportal.org\/satellite-missions\/euclid",
     "operator":"ESA",
-    "countries":"FR,DE",
+    "countries":"DE,FR",
     "telemetries":[
 
     ],
@@ -38269,7 +38269,7 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"LU,RW,AE",
+    "countries":"AE,LU,RW",
     "telemetries":[
 
     ],
@@ -46159,7 +46159,7 @@
     "deployed":null,
     "website":"https:\/\/www.esa.int\/Science_Exploration\/Space_Science\/Einstein_Probe_factsheet",
     "operator":"ESA",
-    "countries":"CN,FR,DE",
+    "countries":"CN,DE,FR",
     "telemetries":[
 
     ],
