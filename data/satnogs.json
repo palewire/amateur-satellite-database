@@ -32904,8 +32904,8 @@
     "norad_cat_id":61781.0,
     "norad_follow_id":null,
     "name":"ASRTU-1",
-    "names":"AO-123, Druzhba ATURK, \u0414\u0440\u0443\u0436\u0431\u0430 \u0410\u0422\u0423\u0420\u041a, BJ2CR, RS64S",
-    "image":"satellites\/ASRTU-1.png",
+    "names":"AO-123, ASRTU Friendship, Druzhba ATURK, \u0414\u0440\u0443\u0436\u0431\u0430 \u0410\u0422\u0423\u0420\u041a, BJ2CR, RS64S",
+    "image":"satellites\/300px-\u963f\u65af\u56fe\u53cb\u8c0a\u53f7_IPvWmAo.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2024-11-04T23:18:00Z",
@@ -32916,8 +32916,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-14T05:41:09.344162Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
+    "updated":"2024-12-22T13:26:49.604181Z",
+    "citation":"https:\/\/sat.huijiwiki.com\/wiki\/%E9%98%BF%E6%96%AF%E5%9B%BE%E5%8F%8B%E8%B0%8A%E5%8F%B7",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YYQF-3337-2968-5093-7946",
