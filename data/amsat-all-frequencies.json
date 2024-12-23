@@ -4356,6 +4356,17 @@
     "satnogs_id":"PRVO-2434-7302-8951-3277"
   },
   {
+    "name":"CroCube",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.775",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"CryoCube-1",
     "norad_id":"45260",
     "uplink":"2082.004",
@@ -4606,6 +4617,17 @@
     "mode":"9600bps GMSK CW",
     "callsign":"CSUNSAT1",
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"CTC-0",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -5245,6 +5267,17 @@
     "callsign":"DJIB1A",
     "status":"active",
     "satnogs_id":"ZUPC-4545-0225-3537-3322"
+  },
+  {
+    "name":"Djibouti-1B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.800",
+    "beacon":null,
+    "mode":"2400bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Dodona",
@@ -7194,6 +7227,17 @@
     "satnogs_id":null
   },
   {
+    "name":"GITAI-SC1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2264.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Goliat",
     "norad_id":"38080",
     "uplink":null,
@@ -8800,6 +8844,17 @@
     "satnogs_id":"FMZT-1887-7286-8009-2095"
   },
   {
+    "name":"Jackal-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2282.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Jackal-X-1L-001",
     "norad_id":null,
     "uplink":null,
@@ -9614,6 +9669,17 @@
     "satnogs_id":null
   },
   {
+    "name":"LASARsat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.925",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"LBSat",
     "norad_id":"23607",
     "uplink":null,
@@ -9920,6 +9986,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"WWUP-9998-0503-1426-7549"
+  },
+  {
+    "name":"LIZZIESAT-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2262.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"LORIS",
@@ -11576,7 +11653,7 @@
     "norad_id":"61767",
     "uplink":null,
     "downlink":"437.550",
-    "beacon":null,
+    "beacon":"RS79S",
     "mode":"1135bps AFSK",
     "callsign":null,
     "status":"unknown",
@@ -12054,6 +12131,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"JNNP-2835-3667-6280-1551"
+  },
+  {
+    "name":"ONDOSAT-OWL-3~12",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.160",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"ONGLAISAT",
@@ -13035,6 +13123,17 @@
     "satnogs_id":"PRZP-7386-5227-9698-5175"
   },
   {
+    "name":"Pleiades-Orpheus",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Pocket-PUCP",
     "norad_id":null,
     "uplink":null,
@@ -13118,7 +13217,7 @@
     "downlink":"437.785",
     "beacon":null,
     "mode":"LoRa",
-    "callsign":null,
+    "callsign":"RS71S",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -13129,7 +13228,7 @@
     "downlink":"437.885",
     "beacon":null,
     "mode":"LoRa",
-    "callsign":null,
+    "callsign":"RS70S",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -17611,6 +17710,17 @@
     "satnogs_id":null
   },
   {
+    "name":"TANSTAAFL-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2282.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Tanusha-SWSU-1",
     "norad_id":"42911",
     "uplink":null,
@@ -19852,6 +19962,17 @@
     "mode":"1200bps FFSK SSR CW",
     "callsign":null,
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"XCUBE-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2245.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
