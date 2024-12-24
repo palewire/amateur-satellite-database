@@ -4362,7 +4362,7 @@
     "downlink":"436.775",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
+    "callsign":"9A0CC",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -4625,7 +4625,7 @@
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -5275,7 +5275,7 @@
     "downlink":"401.800",
     "beacon":null,
     "mode":"2400bps FSK",
-    "callsign":null,
+    "callsign":"DJIB1B",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -7232,7 +7232,7 @@
     "uplink":null,
     "downlink":"2264.000",
     "beacon":null,
-    "mode":null,
+    "mode":"32k_FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -8849,7 +8849,7 @@
     "uplink":null,
     "downlink":"2282.500",
     "beacon":null,
-    "mode":null,
+    "mode":"13k1_QPSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -9673,9 +9673,9 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"436.925",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":null,
+    "beacon":"436.925",
+    "mode":"9600bps GMSK CW",
+    "callsign":"OK0LSR",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -9991,9 +9991,9 @@
     "name":"LIZZIESAT-2",
     "norad_id":null,
     "uplink":null,
-    "downlink":"2262.250",
+    "downlink":"2201.250\/2262.250",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -13128,7 +13128,7 @@
     "uplink":null,
     "downlink":"437.400",
     "beacon":null,
-    "mode":null,
+    "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -17715,7 +17715,7 @@
     "uplink":null,
     "downlink":"2282.500",
     "beacon":null,
-    "mode":null,
+    "mode":"13k1_QPSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
