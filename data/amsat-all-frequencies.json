@@ -2959,6 +2959,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CASAA-Sat",
+    "norad_id":null,
+    "uplink":"145.900",
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":"CASAA-1",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"CAS-1",
     "norad_id":"36122",
     "uplink":"145.925-145.975",
@@ -4626,7 +4637,7 @@
     "downlink":"401.500",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
+    "callsign":"WX9XKR",
     "status":"unknown",
     "satnogs_id":null
   },
