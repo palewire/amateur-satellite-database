@@ -1340,6 +1340,16 @@
     "satnogs_id":"ZFJP-4482-3637-6524-3782"
   },
   {
+    "name":"Gorizont",
+    "norad_id":"61757",
+    "uplink":null,
+    "downlink":"435.430",
+    "beacon":null,
+    "mode":"9600bps GMSK CW",
+    "callsign":"RS59S",
+    "satnogs_id":"YDID-3447-4202-8525-9942"
+  },
+  {
     "name":"GO-32",
     "norad_id":"25397",
     "uplink":"145.850\/145.930",
@@ -1428,6 +1438,16 @@
     "mode":"1k2AFSK 9k6GMSK CW*",
     "callsign":"JQ1YCX",
     "satnogs_id":"VAJK-7711-8203-8371-3078"
+  },
+  {
+    "name":"Horizon",
+    "norad_id":"61757",
+    "uplink":null,
+    "downlink":"435.430",
+    "beacon":null,
+    "mode":"9600bps GMSK CW",
+    "callsign":"RS59S",
+    "satnogs_id":"YDID-3447-4202-8525-9942"
   },
   {
     "name":"HORYU-4",
@@ -1818,6 +1838,16 @@
     "mode":"1k2*AFSK FM tone 88.5Hz",
     "callsign":"YBSAT\/YBOX-1",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
+  },
+  {
+    "name":"LASARsat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.925",
+    "beacon":"436.925",
+    "mode":"9600bps GMSK CW",
+    "callsign":"OK0LSR",
+    "satnogs_id":null
   },
   {
     "name":"LEDSAT",
@@ -2448,6 +2478,16 @@
     "mode":"9600bps FSK",
     "callsign":"FX6FRD",
     "satnogs_id":"AEYC-6866-6455-5236-7157"
+  },
+  {
+    "name":"RTU-MIREA1",
+    "norad_id":"61785",
+    "uplink":null,
+    "downlink":"436.200",
+    "beacon":"436.200",
+    "mode":"9600bps GFSK CW*",
+    "callsign":"RS51S",
+    "satnogs_id":"UKBO-2090-2618-8439-9299"
   },
   {
     "name":"Ruzaevka-390",

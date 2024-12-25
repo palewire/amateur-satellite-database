@@ -30923,8 +30923,8 @@
     "name":"SSS-2B",
     "names":"APSCO-SSS-2B",
     "image":"satellites\/sss-2b.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-23T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":"2023-04-15T07:48:17Z",
     "website":"https:\/\/uzay.tubitak.gov.tr",
@@ -30933,8 +30933,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-04T01:42:19.292471Z",
-    "citation":"A minor change in description.",
+    "updated":"2024-12-25T08:06:05.122811Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56184",
     "is_frequency_violator":true,
     "associated_satellites":[
 
