@@ -18999,10 +18999,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -50916,6 +50916,30 @@
     ],
     "updated":"2024-12-21T09:01:55.181032Z",
     "citation":"https:\/\/apps.fcc.gov\/els\/GetAtt.html?id=351889&x=. and https:\/\/apps.fcc.gov\/els\/GetAtt.html?id=364704&x=.",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VYRA-6160-4394-8067-9309",
+    "norad_cat_id":98712.0,
+    "norad_follow_id":null,
+    "name":"CASAA-Sat",
+    "names":"",
+    "image":"satellites\/CASAA-Sat.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2024-12-26T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.lam.fr\/formations\/nanosats\/",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-25T17:18:45.235297Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
