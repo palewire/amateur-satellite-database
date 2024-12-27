@@ -18999,10 +18999,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -50936,10 +50936,60 @@
     "operator":"None",
     "countries":"FR",
     "telemetries":[
-
+      {
+        "decoder":"casaasat"
+      }
     ],
     "updated":"2024-12-25T17:18:45.235297Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KAAJ-8960-3762-9584-4637",
+    "norad_cat_id":60478.0,
+    "norad_follow_id":null,
+    "name":"WREN-1",
+    "names":"2024-149L",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-08-16T00:00:00Z",
+    "deployed":"2024-08-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"HU",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-26T23:26:36.582704Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/17rg6_7CkWDWrktWFbFVRtwsmCyxB3r3Vs8MFMvwgItA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IIVY-2373-4936-2113-4358",
+    "norad_cat_id":62084.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-5A",
+    "names":"2024-219D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-11-25T00:00:00Z",
+    "deployed":"2024-11-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-26T23:26:44.918760Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/10WX0v-S0WArdPY5l-sMgZIcxvtiNzUAer17BFFJifdc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

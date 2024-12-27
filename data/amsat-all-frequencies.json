@@ -12331,6 +12331,17 @@
     "satnogs_id":"FTGL-8131-7728-0174-9617"
   },
   {
+    "name":"OrigamiSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.505\/5840.000",
+    "beacon":"437.505",
+    "mode":"437.505",
+    "callsign":"1k2AFSK BPSK QPSK CW",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"ORS-Squared",
     "norad_id":null,
     "uplink":null,
@@ -19962,7 +19973,7 @@
     "mode":"4800bps GMSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"KAAJ-8960-3762-9584-4637"
   },
   {
     "name":"Xatcobeo",
