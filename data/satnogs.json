@@ -50928,9 +50928,9 @@
     "name":"CASAA-Sat",
     "names":"",
     "image":"satellites\/CASAA-Sat.png",
-    "status":"future",
-    "decayed":null,
-    "launched":"2024-12-26T00:00:00Z",
+    "status":"re-entered",
+    "decayed":"2024-12-27T01:03:07Z",
+    "launched":"2024-12-27T01:03:07Z",
     "deployed":null,
     "website":"https:\/\/www.lam.fr\/formations\/nanosats\/",
     "operator":"None",
@@ -50940,8 +50940,8 @@
         "decoder":"casaasat"
       }
     ],
-    "updated":"2024-12-25T17:18:45.235297Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2024-12-27T05:43:07.014459Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60515.msg2651366#msg2651366",
     "is_frequency_violator":false,
     "associated_satellites":[
 

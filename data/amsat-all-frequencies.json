@@ -2966,7 +2966,7 @@
     "beacon":null,
     "mode":"9600bps BPSK",
     "callsign":"CASAA-1",
-    "status":"to be launched",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -12336,8 +12336,8 @@
     "uplink":null,
     "downlink":"437.505\/5840.000",
     "beacon":"437.505",
-    "mode":"437.505",
-    "callsign":"1k2AFSK BPSK QPSK CW",
+    "mode":"1k2AFSK BPSK QPSK CW",
+    "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
   },
