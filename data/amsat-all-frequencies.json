@@ -2084,7 +2084,7 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
-    "mode":"APRS digipeater CW",
+    "mode":"APRS Digipeater CW",
     "callsign":"JG6YKL",
     "status":"re-entered",
     "satnogs_id":"XGQW-0108-4259-0432-9009"
@@ -2216,7 +2216,7 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
-    "mode":"APRS digipeater CW",
+    "mode":"APRS Digipeater CW",
     "callsign":"JG6YKL",
     "status":"re-entered",
     "satnogs_id":"XGQW-0108-4259-0432-9009"
@@ -2227,7 +2227,7 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
-    "mode":"APRS digipeater CW",
+    "mode":"APRS Digipeater CW",
     "callsign":"JG6YKN",
     "status":"re-entered",
     "satnogs_id":"AWFF-8025-3088-3256-6290"
@@ -2238,7 +2238,7 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
-    "mode":"APRS digipeater CW",
+    "mode":"APRS Digipeater CW",
     "callsign":"JG6YKM",
     "status":"re-entered",
     "satnogs_id":"MWXV-7244-7952-4540-2800"
@@ -8692,10 +8692,32 @@
   {
     "name":"ISS",
     "norad_id":"25544",
+    "uplink":null,
+    "downlink":"145.800",
+    "beacon":null,
+    "mode":"SSTV",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"XSKZ-5603-1870-9019-3066"
+  },
+  {
+    "name":"ISS",
+    "norad_id":"25544",
+    "uplink":null,
+    "downlink":"437.550",
+    "beacon":null,
+    "mode":"1200bps AFSK SSTV",
+    "callsign":"RS0ISS NA1SS",
+    "status":"active",
+    "satnogs_id":"XSKZ-5603-1870-9019-3066"
+  },
+  {
+    "name":"ISS",
+    "norad_id":"25544",
     "uplink":"145.825",
     "downlink":"145.825",
     "beacon":null,
-    "mode":"1200bps AFSK",
+    "mode":"1200bps AFSK Digipeater",
     "callsign":"RS0ISS ARISS",
     "status":"active",
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
@@ -8706,42 +8728,9 @@
     "uplink":"145.990",
     "downlink":"437.800",
     "beacon":null,
-    "mode":"FM* tone 67.0Hz 9k6 GFSK",
-    "callsign":"NA1SS",
-    "status":"active",
-    "satnogs_id":"XSKZ-5603-1870-9019-3066"
-  },
-  {
-    "name":"ISS",
-    "norad_id":"25544",
-    "uplink":"145.990",
-    "downlink":"145.800",
-    "beacon":null,
-    "mode":"SSTV",
+    "mode":"FM tone 67.0Hz 9k6 GFSK",
     "callsign":null,
-    "status":"unknown",
-    "satnogs_id":"XSKZ-5603-1870-9019-3066"
-  },
-  {
-    "name":"ISS",
-    "norad_id":"25544",
-    "uplink":"145.200",
-    "downlink":"145.800",
-    "beacon":null,
-    "mode":"Voice(Reg 1)",
-    "callsign":"NA1SS",
-    "status":"inactive",
-    "satnogs_id":"XSKZ-5603-1870-9019-3066"
-  },
-  {
-    "name":"ISS",
-    "norad_id":"25544",
-    "uplink":"144.490",
-    "downlink":"145.800",
-    "beacon":null,
-    "mode":"Voice(Reg 2 3)",
-    "callsign":"NA1SS",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
   },
   {
@@ -8758,11 +8747,22 @@
   {
     "name":"ISS",
     "norad_id":"25544",
-    "uplink":"437.550",
-    "downlink":"437.550",
+    "uplink":"145.200",
+    "downlink":"145.800",
     "beacon":null,
-    "mode":"1200bps AFSK",
-    "callsign":"RS0ISS",
+    "mode":"Voice(Reg 1)",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"XSKZ-5603-1870-9019-3066"
+  },
+  {
+    "name":"ISS",
+    "norad_id":"25544",
+    "uplink":"144.490",
+    "downlink":"145.800",
+    "beacon":null,
+    "mode":"Voice(Reg 2 3)",
+    "callsign":null,
     "status":"inactive",
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
   },
@@ -10301,7 +10301,7 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
-    "mode":"APRS digipeater CW",
+    "mode":"APRS Digipeater CW",
     "callsign":"JG6YKM",
     "status":"re-entered",
     "satnogs_id":"MWXV-7244-7952-4540-2800"
@@ -18958,7 +18958,7 @@
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
     "beacon":"437.375",
-    "mode":"APRS digipeater CW",
+    "mode":"APRS Digipeater CW",
     "callsign":"JG6YKN",
     "status":"inactive",
     "satnogs_id":"AWFF-8025-3088-3256-6290"

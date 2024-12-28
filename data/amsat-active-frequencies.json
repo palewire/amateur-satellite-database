@@ -1672,10 +1672,30 @@
   {
     "name":"ISS",
     "norad_id":"25544",
+    "uplink":null,
+    "downlink":"145.800",
+    "beacon":null,
+    "mode":"SSTV",
+    "callsign":null,
+    "satnogs_id":"XSKZ-5603-1870-9019-3066"
+  },
+  {
+    "name":"ISS",
+    "norad_id":"25544",
+    "uplink":null,
+    "downlink":"437.550",
+    "beacon":null,
+    "mode":"1200bps AFSK SSTV",
+    "callsign":"RS0ISS NA1SS",
+    "satnogs_id":"XSKZ-5603-1870-9019-3066"
+  },
+  {
+    "name":"ISS",
+    "norad_id":"25544",
     "uplink":"145.825",
     "downlink":"145.825",
     "beacon":null,
-    "mode":"1200bps AFSK",
+    "mode":"1200bps AFSK Digipeater",
     "callsign":"RS0ISS ARISS",
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
   },
@@ -1685,8 +1705,8 @@
     "uplink":"145.990",
     "downlink":"437.800",
     "beacon":null,
-    "mode":"FM* tone 67.0Hz 9k6 GFSK",
-    "callsign":"NA1SS",
+    "mode":"FM tone 67.0Hz 9k6 GFSK",
+    "callsign":null,
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
   },
   {
