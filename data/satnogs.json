@@ -50517,7 +50517,7 @@
     "sat_id":"DJTQ-0143-2398-3239-9294",
     "norad_cat_id":62083.0,
     "norad_follow_id":null,
-    "name":"Object C",
+    "name":"KINEIS-5E",
     "names":"2024-219C",
     "image":"",
     "status":"alive",
@@ -50530,8 +50530,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-19T09:26:22.473959Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1WMINlpkZlkGKsTlbRRXdtoxpC23ZK51H_8Sfb0GTgzI\/edit?usp=sharing",
+    "updated":"2024-12-28T13:31:00.653220Z",
+    "citation":"As agreed with Fredy and as shown as name in latest TLE files and on https:\/\/www.n2yo.com\/satellite\/?s=62083",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50990,6 +50990,30 @@
     ],
     "updated":"2024-12-26T23:26:44.918760Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/10WX0v-S0WArdPY5l-sMgZIcxvtiNzUAer17BFFJifdc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HRRC-0025-2737-3152-0811",
+    "norad_cat_id":58303.0,
+    "norad_follow_id":null,
+    "name":"FLOCK 4Q 25",
+    "names":"2023-174AZ",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-27T10:34:40.183397Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1oWJYWIkHfj6lmY9FF3t0fESj8hA8YQCBqVyYYxAz8lg\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
