@@ -51018,5 +51018,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"UQPY-5888-6644-1926-3488",
+    "norad_cat_id":43619.0,
+    "norad_follow_id":null,
+    "name":"NOVASAR 1",
+    "names":"2018-071B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-09-16T00:00:00Z",
+    "deployed":"2018-09-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-31T07:33:06.129544Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1lLuhMWTrlleap2SEI4M8-QkI3xrMUJKg7pUO71ljTg8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
