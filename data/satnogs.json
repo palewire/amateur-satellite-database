@@ -18999,10 +18999,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -51062,6 +51062,30 @@
     ],
     "updated":"2024-12-31T15:40:33.548109Z",
     "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1004",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FYJX-6322-1530-8815-6732",
+    "norad_cat_id":46499.0,
+    "norad_follow_id":null,
+    "name":"KEPLER-4 (Antilles)",
+    "names":"2020-068P",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-09-28T00:00:00Z",
+    "deployed":"2020-09-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CA",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-01T10:43:18.733808Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ws_nGPd6jVSU0D1ufs410EZxUrKexRMpcbFLxRFlrp4\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
