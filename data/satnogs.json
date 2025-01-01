@@ -10878,7 +10878,7 @@
     ],
     "updated":"2021-07-21T10:11:42.835393Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -18999,10 +18999,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -51038,6 +51038,30 @@
     ],
     "updated":"2024-12-31T07:33:06.129544Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1lLuhMWTrlleap2SEI4M8-QkI3xrMUJKg7pUO71ljTg8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UCVR-0643-6863-2318-5100",
+    "norad_cat_id":98711.0,
+    "norad_follow_id":62461.0,
+    "name":"BGS ARPIT",
+    "names":"POEM 4",
+    "image":"satellites\/IMG-20241231-WA0087.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-30T00:00:00Z",
+    "deployed":"2024-12-30T00:00:00Z",
+    "website":"https:\/\/www.isro.gov.in\/POEM_4_Payloads_spadex.html",
+    "operator":"ISRO",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2024-12-31T15:40:33.548109Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1004",
     "is_frequency_violator":false,
     "associated_satellites":[
 
