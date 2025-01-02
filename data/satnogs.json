@@ -51090,5 +51090,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"ZDUX-5503-2435-0439-9772",
+    "norad_cat_id":44887.0,
+    "norad_follow_id":null,
+    "name":"Object J",
+    "names":"2019-093J",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-12-20T00:00:00Z",
+    "deployed":"2019-12-20T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-02T11:39:59.412714Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1riE6qy94dbeIq6yC-PZPnfDzs0e1sYK66zxM148MzJU\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

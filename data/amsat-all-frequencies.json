@@ -1215,9 +1215,9 @@
     "uplink":null,
     "downlink":"435.890",
     "beacon":null,
-    "mode":"2k4 GMSK_USP",
+    "mode":"2k4 GMSK_USP SSTV",
     "callsign":"RS74S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"XZIQ-7009-4472-3546-4651"
   },
   {

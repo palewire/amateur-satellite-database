@@ -110,6 +110,16 @@
     "satnogs_id":"REOO-2119-3738-4964-1579"
   },
   {
+    "name":"ArcticSat-1",
+    "norad_id":"61762",
+    "uplink":null,
+    "downlink":"435.890",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP SSTV",
+    "callsign":"RS74S",
+    "satnogs_id":"XZIQ-7009-4472-3546-4651"
+  },
+  {
     "name":"ARGOS-4",
     "norad_id":"54023",
     "uplink":null,
