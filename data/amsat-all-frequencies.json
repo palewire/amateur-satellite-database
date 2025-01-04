@@ -2079,6 +2079,17 @@
     "satnogs_id":null
   },
   {
+    "name":"BGS-ARPIT",
+    "norad_id":"62461",
+    "uplink":"145.825",
+    "downlink":"145.870",
+    "beacon":null,
+    "mode":"1k2AFSK FM APRS SSTV",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"BHUTAN-1",
     "norad_id":"43591",
     "uplink":"145.825",
@@ -2277,7 +2288,7 @@
     "satnogs_id":"NNNQ-5861-2134-5231-3624"
   },
   {
-    "name":"BIRDS-4(Tsuru)",
+    "name":"BIRDS-4",
     "norad_id":"47927",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -2288,7 +2299,7 @@
     "satnogs_id":"SCFB-5106-8061-3969-1117"
   },
   {
-    "name":"BIRDS-4(Maya-2)",
+    "name":"BIRDS-4",
     "norad_id":"47929",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
@@ -2299,7 +2310,7 @@
     "satnogs_id":"RYZT-9821-8766-4438-4997"
   },
   {
-    "name":"BIRDS-4(GuaraniSat-1)",
+    "name":"BIRDS-4",
     "norad_id":"47931",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -2310,7 +2321,7 @@
     "satnogs_id":"XGOP-6666-1396-1633-1810"
   },
   {
-    "name":"BIRDS-5(Taka)",
+    "name":"BIRDS-5",
     "norad_id":"54534",
     "uplink":null,
     "downlink":"145.825\/435.375",
@@ -2321,7 +2332,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BIRDS-5(PearlAfricaSat-1)",
+    "name":"BIRDS-5",
     "norad_id":"54535",
     "uplink":null,
     "downlink":"145.825\/435.375",
@@ -2332,7 +2343,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BIRDS-5(ZimSat-1)",
+    "name":"BIRDS-5",
     "norad_id":"54536",
     "uplink":null,
     "downlink":"145.825\/435.375",
@@ -4422,7 +4433,7 @@
     "satnogs_id":"CKMD-9513-1025-4842-0352"
   },
   {
-    "name":"CSS(TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"435.06839",
     "downlink":"145.98723",
@@ -4433,7 +4444,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS(TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"145.850",
     "downlink":"145.985",
@@ -4444,7 +4455,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS(TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"435.050",
     "downlink":"436.510",
@@ -4455,7 +4466,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS(TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"145.875",
     "downlink":"436.510",
@@ -4466,7 +4477,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS(TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"435.075",
     "downlink":"145.985",
@@ -4477,7 +4488,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS(TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"145.825",
     "downlink":"145.825",
@@ -4488,7 +4499,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS(TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"437.550",
     "downlink":"437.550",
@@ -4499,7 +4510,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS(TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"145.850",
     "downlink":"145.985",
@@ -4510,7 +4521,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS(TIANHE)",
+    "name":"CSS",
     "norad_id":"48274",
     "uplink":"435.050",
     "downlink":"436.510",
@@ -4521,7 +4532,7 @@
     "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
-    "name":"CSS(WENTIAN)",
+    "name":"CSS",
     "norad_id":"53239",
     "uplink":null,
     "downlink":null,
@@ -4532,7 +4543,7 @@
     "satnogs_id":null
   },
   {
-    "name":"CSS(MENGTIAN)",
+    "name":"CSS",
     "norad_id":"54216",
     "uplink":null,
     "downlink":null,
@@ -9713,7 +9724,7 @@
     "satnogs_id":"JLZT-0277-4784-7719-1707"
   },
   {
-    "name":"Lemur-2(Spacegus)",
+    "name":"Lemur-2",
     "norad_id":"56187",
     "uplink":null,
     "downlink":"402.790",
@@ -9724,7 +9735,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Lemur-2(OnReflection 164)",
+    "name":"Lemur-2",
     "norad_id":"56182",
     "uplink":null,
     "downlink":null,
@@ -9735,7 +9746,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Lemur-2(Romeo-n-Leo 165)",
+    "name":"Lemur-2",
     "norad_id":"56206",
     "uplink":null,
     "downlink":"402.788",
@@ -9746,7 +9757,7 @@
     "satnogs_id":"ANXM-6391-1491-9881-7191"
   },
   {
-    "name":"LEMUR-2(MANGO-2A)",
+    "name":"LEMUR-2",
     "norad_id":"58336",
     "uplink":null,
     "downlink":"402.790\/2022.500\/2200.500\/2440.000",
@@ -9757,7 +9768,7 @@
     "satnogs_id":"PQDQ-5086-3402-1909-8173"
   },
   {
-    "name":"LEMUR-2(MANGO-2B)",
+    "name":"LEMUR-2",
     "norad_id":"58337",
     "uplink":null,
     "downlink":"402.790\/2022.500\/2200.500\/2440.000",
@@ -10219,6 +10230,28 @@
     "satnogs_id":"VKWC-1448-9260-6742-1799"
   },
   {
+    "name":"MANGO-2A",
+    "norad_id":"58336",
+    "uplink":null,
+    "downlink":"402.790\/2022.500\/2200.500\/2440.000",
+    "beacon":null,
+    "mode":"GMSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"PQDQ-5086-3402-1909-8173"
+  },
+  {
+    "name":"MANGO-2B",
+    "norad_id":"58337",
+    "uplink":null,
+    "downlink":"402.790\/2022.500\/2200.500\/2440.000",
+    "beacon":null,
+    "mode":"GMSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
     "name":"MANTIS",
     "norad_id":null,
     "uplink":null,
@@ -10373,17 +10406,6 @@
     "satnogs_id":"BGMK-0175-7442-2160-6546"
   },
   {
-    "name":"M-Cubed",
-    "norad_id":"37855",
-    "uplink":null,
-    "downlink":"437.485",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":null,
-    "status":"re-entered",
-    "satnogs_id":"GTMF-2365-6960-5386-3224"
-  },
-  {
     "name":"MCubed-2",
     "norad_id":"39472",
     "uplink":null,
@@ -10502,6 +10524,17 @@
     "mode":"9600bps BPSK",
     "callsign":null,
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"MENGTIAN",
+    "norad_id":"54216",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11009,6 +11042,17 @@
     "callsign":"A68MX",
     "status":"active",
     "satnogs_id":"FXJU-1542-5342-0390-1271"
+  },
+  {
+    "name":"M-Cubed",
+    "norad_id":"37855",
+    "uplink":null,
+    "downlink":"437.485",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":"GTMF-2365-6960-5386-3224"
   },
   {
     "name":"N3SS",
@@ -12166,6 +12210,17 @@
     "satnogs_id":null
   },
   {
+    "name":"OnReflection-164",
+    "norad_id":"56182",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"OOV-Cube",
     "norad_id":"60240",
     "uplink":null,
@@ -13164,6 +13219,17 @@
     "mode":"1200bps AFSK CW",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"POEM-4",
+    "norad_id":"62461",
+    "uplink":"145.825",
+    "downlink":"145.870",
+    "beacon":null,
+    "mode":"1k2AFSK FM APRS SSTV",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -14232,6 +14298,17 @@
     "callsign":"FX6FRD",
     "status":"active",
     "satnogs_id":"AEYC-6866-6455-5236-7157"
+  },
+  {
+    "name":"Romeo-n-Leo-165",
+    "norad_id":"56206",
+    "uplink":null,
+    "downlink":"402.788",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"ANXM-6391-1491-9881-7191"
   },
   {
     "name":"ROM-2",
@@ -16489,6 +16566,17 @@
     "satnogs_id":"HJRR-9275-8249-4532-6532"
   },
   {
+    "name":"Spacegus",
+    "norad_id":"56187",
+    "uplink":null,
+    "downlink":"402.790",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"SPACEHAUC-1",
     "norad_id":"49277",
     "uplink":null,
@@ -18238,15 +18326,103 @@
     "satnogs_id":"FBWZ-9594-5872-5644-3969"
   },
   {
-    "name":"Tianqi-4B",
-    "norad_id":"44841",
-    "uplink":null,
-    "downlink":"401.612",
+    "name":"TIANHE",
+    "norad_id":"48274",
+    "uplink":"435.06839",
+    "downlink":"145.98723",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"re-entered",
-    "satnogs_id":"IBIG-4790-2209-6495-5567"
+    "status":"unknown",
+    "satnogs_id":"AYDR-6527-9294-8555-4924"
+  },
+  {
+    "name":"TIANHE",
+    "norad_id":"48274",
+    "uplink":"145.850",
+    "downlink":"145.985",
+    "beacon":null,
+    "mode":"NFM Crew Voice",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"AYDR-6527-9294-8555-4924"
+  },
+  {
+    "name":"TIANHE",
+    "norad_id":"48274",
+    "uplink":"435.050",
+    "downlink":"436.510",
+    "beacon":null,
+    "mode":"NFM Crew Voice",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"AYDR-6527-9294-8555-4924"
+  },
+  {
+    "name":"TIANHE",
+    "norad_id":"48274",
+    "uplink":"145.875",
+    "downlink":"436.510",
+    "beacon":null,
+    "mode":"NFM Repeater",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"AYDR-6527-9294-8555-4924"
+  },
+  {
+    "name":"TIANHE",
+    "norad_id":"48274",
+    "uplink":"435.075",
+    "downlink":"145.985",
+    "beacon":null,
+    "mode":"NFM Repeater",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"AYDR-6527-9294-8555-4924"
+  },
+  {
+    "name":"TIANHE",
+    "norad_id":"48274",
+    "uplink":"145.825",
+    "downlink":"145.825",
+    "beacon":null,
+    "mode":"1k2_AFSK Digipeater",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"AYDR-6527-9294-8555-4924"
+  },
+  {
+    "name":"TIANHE",
+    "norad_id":"48274",
+    "uplink":"437.550",
+    "downlink":"437.550",
+    "beacon":null,
+    "mode":"1k2_AFSK Digipeater",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"AYDR-6527-9294-8555-4924"
+  },
+  {
+    "name":"TIANHE",
+    "norad_id":"48274",
+    "uplink":"145.850",
+    "downlink":"145.985",
+    "beacon":null,
+    "mode":"SSTV Imaging",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"AYDR-6527-9294-8555-4924"
+  },
+  {
+    "name":"TIANHE",
+    "norad_id":"48274",
+    "uplink":"435.050",
+    "downlink":"436.510",
+    "beacon":null,
+    "mode":"SSTV Imaging",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"AYDR-6527-9294-8555-4924"
   },
   {
     "name":"TIANQIN-1",
@@ -18280,6 +18456,17 @@
     "callsign":"BJ1SV",
     "status":"active",
     "satnogs_id":"VMQF-4924-7475-1891-3199"
+  },
+  {
+    "name":"Tianqi-4B",
+    "norad_id":"44841",
+    "uplink":null,
+    "downlink":"401.612",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":"IBIG-4790-2209-6495-5567"
   },
   {
     "name":"Tianwang-1A",
@@ -19886,6 +20073,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"DAPE-7947-8127-1321-0742"
+  },
+  {
+    "name":"WENTIAN",
+    "norad_id":"53239",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
   },
   {
     "name":"WE_WISH",
