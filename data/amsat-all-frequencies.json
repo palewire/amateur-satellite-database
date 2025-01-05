@@ -20190,7 +20190,7 @@
     "uplink":null,
     "downlink":"2245.000",
     "beacon":null,
-    "mode":"FM",
+    "mode":"40k_BPSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
