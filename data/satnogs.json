@@ -51114,5 +51114,77 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RVQQ-2495-0095-2153-7456",
+    "norad_cat_id":56731.0,
+    "norad_follow_id":null,
+    "name":"Object A",
+    "names":"2023-069A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-03-21T00:00:00Z",
+    "deployed":"2023-03-21T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-04T20:37:07.695175Z",
+    "citation":"Removed unrelated description",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LVDG-1392-3959-5067-9923",
+    "norad_cat_id":28492.0,
+    "norad_follow_id":null,
+    "name":"HELIOS 2A",
+    "names":"2004-049A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2004-12-18T00:00:00Z",
+    "deployed":"2004-12-18T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-04T20:37:14.804439Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1kCGQRrpiZJTzuqeCp26EgUq0ZrnIfw-OjFP6P_plkS8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UUIC-2721-5016-2935-6643",
+    "norad_cat_id":62460.0,
+    "norad_follow_id":null,
+    "name":"SDX02",
+    "names":"2024-253B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-30T00:00:00Z",
+    "deployed":"2024-12-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-04T20:37:19.862982Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1IYtVQ3-RFgA0DmeK_QSEeG-VgkZfQ7daaJaKeWy_z9c\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
