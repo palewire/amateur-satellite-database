@@ -3335,7 +3335,7 @@
     "uplink":null,
     "downlink":"435.825\/437.625*\/2402.000",
     "beacon":null,
-    "mode":"2k4\/4k8*\/9k6 GMSK_USP SSTV",
+    "mode":"2k4\/4k8\/9k6*GMSK_USP SSTV",
     "callsign":"RS40S",
     "satnogs_id":"SDUV-9624-5611-1090-5908"
   },

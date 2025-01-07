@@ -4015,6 +4015,50 @@
     "satnogs_id":"QMTG-4209-6674-7825-1293"
   },
   {
+    "name":"ConnectaIoT-5",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.510",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-6",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.520",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-7",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.530",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-8",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.540",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Connecta-T1_1",
     "norad_id":"52739",
     "uplink":null,
@@ -8495,9 +8539,9 @@
     "name":"ION-SCV-014",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.415",
     "beacon":null,
-    "mode":null,
+    "mode":"1200bps FSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -8517,9 +8561,9 @@
     "name":"ION-SCV-016",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.415",
     "beacon":null,
-    "mode":null,
+    "mode":"1200bps FSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -19321,7 +19365,7 @@
     "uplink":null,
     "downlink":"435.825\/437.625*\/2402.000",
     "beacon":null,
-    "mode":"2k4\/4k8*\/9k6 GMSK_USP SSTV",
+    "mode":"2k4\/4k8\/9k6*GMSK_USP SSTV",
     "callsign":"RS40S",
     "status":"active",
     "satnogs_id":"SDUV-9624-5611-1090-5908"
