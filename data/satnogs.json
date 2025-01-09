@@ -19222,10 +19222,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -51182,6 +51182,150 @@
     ],
     "updated":"2025-01-04T20:37:19.862982Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1IYtVQ3-RFgA0DmeK_QSEeG-VgkZfQ7daaJaKeWy_z9c\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IMIN-5614-5566-5816-9152",
+    "norad_cat_id":98709.0,
+    "norad_follow_id":null,
+    "name":"INNOCUBE",
+    "names":"",
+    "image":"satellites\/INNOCUBE.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/innocube",
+    "operator":"TU Berlin",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-08T23:24:04.605168Z",
+    "citation":"image shared by mission team via public matrix channel",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EIPI-1482-6978-9759-4787",
+    "norad_cat_id":98710.0,
+    "norad_follow_id":null,
+    "name":"HADES-R",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.amsat-ea.org\/",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-08T23:39:19.941598Z",
+    "citation":"fixed typo",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ODBU-7441-1792-6088-6314",
+    "norad_cat_id":98708.0,
+    "norad_follow_id":null,
+    "name":"HYPE",
+    "names":"",
+    "image":"satellites\/satlab_misja_HYPE_naszywka_RGB.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/satlab.agh.edu.pl\/nasze-projekty\/",
+    "operator":"None",
+    "countries":"PL",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-08T21:27:24.309980Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=969",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UCZO-3697-9016-2037-7134",
+    "norad_cat_id":98707.0,
+    "norad_follow_id":null,
+    "name":"PARUS-T1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-08T22:51:49.046479Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=982",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HNKQ-3878-6919-5321-0117",
+    "norad_cat_id":98706.0,
+    "norad_follow_id":null,
+    "name":"POQUITO",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"LU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-08T22:56:13.507123Z",
+    "citation":"https:\/\/az659834.vo.msecnd.net\/eventsairwesteuprod\/production-atpi-public\/d32772262fd24bb881857f9355646e9f",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JATP-9449-2569-0105-0544",
+    "norad_cat_id":98705.0,
+    "norad_follow_id":null,
+    "name":"PROMETHEUS-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"PT",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-08T22:57:51.985229Z",
+    "citation":"https:\/\/github.com\/AFS-pt\/PROMETHEUS-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
