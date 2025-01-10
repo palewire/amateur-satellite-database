@@ -15672,7 +15672,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"SC3235",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JRAL-1077-7404-4112-3387"
   },
   {
     "name":"SITRO-AIS-18",
@@ -15727,7 +15727,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2310",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JCCX-9296-2809-6004-0718"
   },
   {
     "name":"SITRO-AIS-23",
@@ -15892,7 +15892,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2325",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"FTBQ-6196-7815-5075-3958"
   },
   {
     "name":"SITRO-AIS-38",

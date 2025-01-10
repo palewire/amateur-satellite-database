@@ -19222,10 +19222,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -49409,8 +49409,8 @@
   },
   {
     "sat_id":"JRAL-1077-7404-4112-3387",
-    "norad_cat_id":98759.0,
-    "norad_follow_id":61789.0,
+    "norad_cat_id":61789.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-17",
     "names":"SC3235",
     "image":"",
@@ -49424,8 +49424,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:43:00.694317Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2025-01-09T16:13:16.795823Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49529,8 +49529,8 @@
   },
   {
     "sat_id":"FTBQ-6196-7815-5075-3958",
-    "norad_cat_id":98751.0,
-    "norad_follow_id":61780.0,
+    "norad_cat_id":61780.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-37",
     "names":"SC2325",
     "image":"",
@@ -49544,8 +49544,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T14:30:41.100206Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2025-01-09T16:02:31.975496Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -49577,8 +49577,8 @@
   },
   {
     "sat_id":"JCCX-9296-2809-6004-0718",
-    "norad_cat_id":98754.0,
-    "norad_follow_id":61740.0,
+    "norad_cat_id":61740.0,
+    "norad_follow_id":null,
     "name":"SITRO-AIS-22",
     "names":"SC2310",
     "image":"",
@@ -49592,8 +49592,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-07T15:12:30.929414Z",
-    "citation":"PE0SAT strf analysis",
+    "updated":"2025-01-09T16:11:28.621072Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/306",
     "is_frequency_violator":false,
     "associated_satellites":[
 
