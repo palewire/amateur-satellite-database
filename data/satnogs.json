@@ -46946,30 +46946,6 @@
     ]
   },
   {
-    "sat_id":"ELSZ-1253-5721-3665-3398",
-    "norad_cat_id":98838.0,
-    "norad_follow_id":null,
-    "name":"WREN-1",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2024-08-16T18:56:00Z",
-    "deployed":"2024-08-16T20:18:14Z",
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2024-10-24T04:56:46.605693Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147 and space-track.org",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"DSUV-1493-4798-4172-4256",
     "norad_cat_id":60507.0,
     "norad_follow_id":null,
@@ -50968,7 +50944,7 @@
     "citation":"https:\/\/docs.google.com\/document\/d\/17rg6_7CkWDWrktWFbFVRtwsmCyxB3r3Vs8MFMvwgItA\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "ELSZ-1253-5721-3665-3398"
     ]
   },
   {
