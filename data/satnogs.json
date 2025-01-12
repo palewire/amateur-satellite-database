@@ -48150,7 +48150,7 @@
   {
     "sat_id":"HADL-0708-3181-3728-3212",
     "norad_cat_id":98799.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62394.0,
     "name":"CroCube",
     "names":"9A0CC",
     "image":"satellites\/photo-satnogs.png",
@@ -48166,8 +48166,8 @@
         "decoder":"crocube"
       }
     ],
-    "updated":"2024-12-21T08:12:43.583118Z",
-    "citation":"Change status",
+    "updated":"2025-01-11T18:12:49.248939Z",
+    "citation":"STRF Measurement",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48248,7 +48248,7 @@
   {
     "sat_id":"LLUY-1732-6975-8970-4189",
     "norad_cat_id":98797.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62391.0,
     "name":"LASARsat",
     "names":"OK0LSR",
     "image":"satellites\/lasarsat-7.png",
@@ -48264,8 +48264,8 @@
         "decoder":"lasarsat"
       }
     ],
-    "updated":"2024-12-21T08:12:43.566894Z",
-    "citation":"Change status",
+    "updated":"2025-01-11T18:12:45.244976Z",
+    "citation":"STRF measurement",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50444,7 +50444,7 @@
   {
     "sat_id":"NRVY-4784-2439-1767-3301",
     "norad_cat_id":98729.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62402.0,
     "name":"DJIBOUTI-1B",
     "names":"DJIBOUTI-1B",
     "image":"satellites\/DjibOUTI_1B_300_px.png",
@@ -50458,8 +50458,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-21T08:12:43.551299Z",
-    "citation":"Change status",
+    "updated":"2025-01-11T18:13:02.939814Z",
+    "citation":"STRF Measurement",
     "is_frequency_violator":false,
     "associated_satellites":[
 
