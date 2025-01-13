@@ -12416,19 +12416,21 @@
     "norad_follow_id":null,
     "name":"TUBIN",
     "names":"2BIN, TWOBIN",
-    "image":"satellites\/2021_TUBIN_190503_800x800.jpg",
+    "image":"satellites\/TUBIN_Logo.png",
     "status":"alive",
     "decayed":null,
     "launched":"2021-06-30T19:31:00Z",
     "deployed":null,
-    "website":"https:\/\/www.raumfahrttechnik.tu-berlin.de\/menue\/research\/tubsat_missions\/parameter\/en\/",
-    "operator":"None",
+    "website":"https:\/\/www.tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/tubin",
+    "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"tubin"
+      }
     ],
-    "updated":"2024-05-31T12:32:31.650988Z",
-    "citation":"https:\/\/community.libre.space\/t\/2bin-launch-relaunch-of-tubin-within-student-lecture\/11803",
+    "updated":"2025-01-12T12:52:37.619210Z",
+    "citation":"https:\/\/www.tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/tubin",
     "is_frequency_violator":false,
     "associated_satellites":[
 
