@@ -10742,8 +10742,8 @@
     "name":"AmicalSat",
     "names":"RS17S",
     "image":"satellites\/amical_complete_closefull_view.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-11T00:00:00Z",
     "launched":"2020-09-03T01:51:00Z",
     "deployed":"2020-09-03T03:33:00Z",
     "website":"",
@@ -10754,8 +10754,8 @@
         "decoder":"amicalsat"
       }
     ],
-    "updated":"2021-07-21T10:11:42.828164Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-01-13T09:34:43.924282Z",
+    "citation":"according to satnogs observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
