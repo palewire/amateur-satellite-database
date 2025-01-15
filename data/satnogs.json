@@ -19224,10 +19224,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -45450,7 +45450,7 @@
   {
     "sat_id":"REUD-7904-3179-3406-5877",
     "norad_cat_id":98884.0,
-    "norad_follow_id":60205.0,
+    "norad_follow_id":60208.0,
     "name":"TechEdSat-11",
     "names":"TES-11",
     "image":"",
@@ -45464,8 +45464,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-10T22:15:55.773122Z",
-    "citation":"Random choice",
+    "updated":"2025-01-14T15:05:36.573506Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51172,7 +51172,7 @@
     "name":"ConnectaIoT-5",
     "names":"",
     "image":"satellites\/IoT_0x.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
@@ -51182,8 +51182,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T08:13:42.706737Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-01-14T18:49:14.836174Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51206,8 +51206,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T08:13:34.873526Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-01-14T18:49:14.700795Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51220,7 +51220,7 @@
     "name":"ConnectaIoT-7",
     "names":"",
     "image":"satellites\/IoT_01_irzzc9K_mH7MYeB.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
@@ -51230,8 +51230,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T08:13:27.552377Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-01-14T18:49:15.326833Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51244,7 +51244,7 @@
     "name":"ConnectaIoT-8",
     "names":"",
     "image":"satellites\/IoT_01_irzzc9K_fV03BPX.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
@@ -51254,8 +51254,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T08:13:20.337107Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-01-14T18:49:15.005251Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51268,7 +51268,7 @@
     "name":"INNOCUBE",
     "names":"",
     "image":"satellites\/INNOCUBE.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
@@ -51278,8 +51278,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T01:36:14.636840Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.231994Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51292,7 +51292,7 @@
     "name":"HADES-R",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
@@ -51302,8 +51302,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T01:06:45.921096Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.381640Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51316,7 +51316,7 @@
     "name":"HYPE",
     "names":"",
     "image":"satellites\/satlab_misja_HYPE_naszywka_RGB.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
@@ -51326,8 +51326,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T08:07:50.458800Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:14.949412Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51340,7 +51340,7 @@
     "name":"PARUS-T1",
     "names":"BN0TIT, \u5c71\u96c0-T1",
     "image":"satellites\/PARUS-T1.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
@@ -51350,8 +51350,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T00:52:06.902652Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:14.720836Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51363,8 +51363,8 @@
     "norad_follow_id":null,
     "name":"POQUITO",
     "names":"",
-    "image":"",
-    "status":"future",
+    "image":"satellites\/003.jpg",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
@@ -51374,8 +51374,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T01:59:26.897316Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.254667Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51388,7 +51388,7 @@
     "name":"PROMETHEUS-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
@@ -51398,8 +51398,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T01:53:26.230331Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.179726Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51412,7 +51412,7 @@
     "name":"HCT-SAT1",
     "names":"",
     "image":"satellites\/HCT-SAT-1.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
@@ -51422,8 +51422,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T00:51:34.210774Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.026261Z",
+    "citation":"Change Status",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -51446,8 +51446,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T09:46:08.626351Z",
-    "citation":"Fix temporary NORAD ID",
+    "updated":"2025-01-14T18:49:14.600165Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51470,8 +51470,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T08:36:17.940552Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.395880Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51494,8 +51494,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T08:50:39.486095Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.090214Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51518,8 +51518,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T09:20:12.988243Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:14.738762Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51542,8 +51542,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T09:35:22.465648Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.471962Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51566,8 +51566,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T09:51:46.349796Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.272458Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51590,8 +51590,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T10:10:38.301615Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.455665Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51614,8 +51614,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T10:15:35.502648Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:14.616505Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51638,8 +51638,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T10:15:31.309004Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:14.983746Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51662,8 +51662,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T11:19:39.099134Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.112146Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51686,8 +51686,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T11:40:37.620778Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:14.755007Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51710,8 +51710,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T11:43:19.797698Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.345899Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51734,8 +51734,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T11:47:14.925025Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:14.921444Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51758,8 +51758,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T11:53:03.329246Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:14.653013Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51782,8 +51782,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T11:53:06.806204Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.308741Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51806,8 +51806,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T11:53:09.475924Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:14.803602Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51830,8 +51830,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T12:04:02.073049Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.047561Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51854,8 +51854,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T12:03:58.256044Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:14.872376Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51878,8 +51878,488 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T12:09:13.250805Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "updated":"2025-01-14T18:49:15.194502Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QTGQ-6893-2952-9033-4168",
+    "norad_cat_id":98680.0,
+    "norad_follow_id":null,
+    "name":"GESAT GEN1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.897988Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GXTP-0999-2493-4954-5056",
+    "norad_cat_id":98679.0,
+    "norad_follow_id":null,
+    "name":"IMPULSE-2 MIRA",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:15.291499Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NZXL-7963-6359-3424-9666",
+    "norad_cat_id":98678.0,
+    "norad_follow_id":null,
+    "name":"IRIDE-MS2-HEO-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.962890Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VJYM-9912-3929-8135-4426",
+    "norad_cat_id":98677.0,
+    "norad_follow_id":null,
+    "name":"IRIS-F2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.670611Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FJEH-8509-1736-7936-8017",
+    "norad_cat_id":98676.0,
+    "norad_follow_id":null,
+    "name":"IRIS-F3",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:15.363851Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BKFK-7507-6218-6634-1996",
+    "norad_cat_id":98675.0,
+    "norad_follow_id":null,
+    "name":"LIME",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:15.435579Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RQJV-7255-2019-6420-8611",
+    "norad_cat_id":98674.0,
+    "norad_follow_id":null,
+    "name":"MBZ-SAT",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.820105Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QWVC-8369-3092-0760-9890",
+    "norad_cat_id":98673.0,
+    "norad_follow_id":null,
+    "name":"PAUSAT1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.852283Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BOOP-6845-2073-4291-2087",
+    "norad_cat_id":98672.0,
+    "norad_follow_id":null,
+    "name":"RAY-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:15.418287Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZRUJ-5863-3206-3578-5209",
+    "norad_cat_id":98671.0,
+    "norad_follow_id":null,
+    "name":"SATURNIN-1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.548847Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZMVZ-6621-3817-8557-8217",
+    "norad_cat_id":98670.0,
+    "norad_follow_id":null,
+    "name":"SCOT",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.566438Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TNCA-2269-1089-8167-2586",
+    "norad_cat_id":98669.0,
+    "norad_follow_id":null,
+    "name":"ION SCV-014",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.786028Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JVIJ-4226-9631-1978-7970",
+    "norad_cat_id":98668.0,
+    "norad_follow_id":null,
+    "name":"ION SCV-016",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:15.068734Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZLBR-3633-2309-9357-4429",
+    "norad_cat_id":98667.0,
+    "norad_follow_id":null,
+    "name":"SIGI",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.583470Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JQOL-5796-1704-7812-2045",
+    "norad_cat_id":98666.0,
+    "norad_follow_id":null,
+    "name":"TechEdSat-22",
+    "names":"TES-22",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:15.156410Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VYDU-6291-3888-2654-1098",
+    "norad_cat_id":98665.0,
+    "norad_follow_id":null,
+    "name":"TROLL",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.634435Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AKVV-0510-0359-0753-3221",
+    "norad_cat_id":98664.0,
+    "norad_follow_id":null,
+    "name":"WINNEBAGO-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:15.488537Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZYGH-6854-8968-3413-9554",
+    "norad_cat_id":98663.0,
+    "norad_follow_id":null,
+    "name":"BLUEBON",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.534421Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TVMZ-2332-3454-6429-1922",
+    "norad_cat_id":98662.0,
+    "norad_follow_id":null,
+    "name":"FOSSASAT-2E20",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.772266Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VHGH-9481-1691-1489-9647",
+    "norad_cat_id":98661.0,
+    "norad_follow_id":null,
+    "name":"Sedna-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-14T18:49:14.687975Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 

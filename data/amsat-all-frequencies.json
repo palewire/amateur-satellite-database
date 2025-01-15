@@ -2728,6 +2728,17 @@
     "satnogs_id":"PUFM-6212-8243-7442-9645"
   },
   {
+    "name":"BRO-16",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4k8\/9k6_FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-1",
     "norad_id":"43666",
     "uplink":"436.200",
@@ -6644,6 +6655,28 @@
     "satnogs_id":null
   },
   {
+    "name":"FossaSat-2E18",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"FossaSat-2E19",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"FossaSat-FEROX 14~17",
     "norad_id":null,
     "uplink":null,
@@ -7546,7 +7579,7 @@
     "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
-    "name":"Hades-E",
+    "name":"Hades-R",
     "norad_id":null,
     "uplink":null,
     "downlink":"436.888",
@@ -7557,7 +7590,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Hades-F",
+    "name":"Hades-T",
     "norad_id":null,
     "uplink":null,
     "downlink":"436.666",
