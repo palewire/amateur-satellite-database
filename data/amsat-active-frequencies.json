@@ -430,6 +430,16 @@
     "satnogs_id":"PUFM-6212-8243-7442-9645"
   },
   {
+    "name":"BRO-16",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4k8*\/9k6_FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-2",
     "norad_id":"57175",
     "uplink":"436.200",
@@ -728,6 +738,46 @@
     "mode":"4800bps GMSK",
     "callsign":"CNT004",
     "satnogs_id":"QMTG-4209-6674-7825-1293"
+  },
+  {
+    "name":"ConnectaIoT-5",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.510",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT005",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-6",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.520",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT006",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-7",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.530",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT007",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-8",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.540",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT008",
+    "satnogs_id":null
   },
   {
     "name":"Connecta-T1_1",
@@ -1620,6 +1670,16 @@
     "satnogs_id":"YODX-5832-7103-0922-4071"
   },
   {
+    "name":"ION-SCV-014",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"ION-SCV-015",
     "norad_id":"58469",
     "uplink":null,
@@ -1628,6 +1688,16 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "satnogs_id":"BZWJ-9712-5590-5046-8513"
+  },
+  {
+    "name":"ION-SCV-016",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"IO-86",

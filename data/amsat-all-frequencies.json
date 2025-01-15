@@ -2733,9 +2733,9 @@
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":"4k8\/9k6_FSK",
+    "mode":"4k8*\/9k6_FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -4032,8 +4032,8 @@
     "downlink":"401.510",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT005",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -4043,8 +4043,8 @@
     "downlink":"401.520",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT006",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -4054,8 +4054,8 @@
     "downlink":"401.530",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT007",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -4065,8 +4065,8 @@
     "downlink":"401.540",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT008",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -6662,7 +6662,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -6673,7 +6673,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7584,9 +7584,9 @@
     "uplink":null,
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"1k2FSK FM CW",
+    "mode":"1k2\/2k4_FSK FM CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7595,9 +7595,9 @@
     "uplink":null,
     "downlink":"436.666",
     "beacon":"436.888",
-    "mode":"1k2FSK FM CW",
+    "mode":"1k2\/2k4_FSK FM CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8576,7 +8576,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -8598,7 +8598,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -10356,9 +10356,9 @@
     "uplink":null,
     "downlink":"436.666",
     "beacon":"436.888",
-    "mode":"1k2FSK FM CW",
+    "mode":"1k2\/2k4_FSK FM CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -19563,9 +19563,9 @@
     "uplink":null,
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"1k2FSK FM CW",
+    "mode":"1k2\/2k4_FSK FM CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {

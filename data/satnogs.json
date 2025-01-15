@@ -12057,8 +12057,8 @@
         "decoder":"ksu"
       }
     ],
-    "updated":"2022-08-01T11:11:20.786549Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=722",
+    "updated":"2025-01-15T09:31:38.330827Z",
+    "citation":"Add dashboard URL",
     "is_frequency_violator":false,
     "associated_satellites":[
       "RTVS-5901-4775-0711-6788"
@@ -19224,10 +19224,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -51266,7 +51266,7 @@
     "norad_cat_id":98709.0,
     "norad_follow_id":null,
     "name":"INNOCUBE",
-    "names":"",
+    "names":"TUBSAT-31",
     "image":"satellites\/INNOCUBE.png",
     "status":"alive",
     "decayed":null,
@@ -51278,8 +51278,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.231994Z",
-    "citation":"Change Status",
+    "updated":"2025-01-15T11:56:20.866875Z",
+    "citation":"https:\/\/x.com\/TUBspace\/status\/1879267885006364826",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51666,7 +51666,7 @@
     "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "XSMG-1621-6430-4707-7637"
     ]
   },
   {
