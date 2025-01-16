@@ -45054,7 +45054,9 @@
     "operator":"None",
     "countries":"IN",
     "telemetries":[
-
+      {
+        "decoder":"ssamusat"
+      }
     ],
     "updated":"2025-01-14T01:06:13.722635Z",
     "citation":".",
