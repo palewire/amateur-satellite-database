@@ -2390,6 +2390,16 @@
     "satnogs_id":null
   },
   {
+    "name":"Parus-T1",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.825\/436.850",
+    "beacon":null,
+    "mode":"1k2AFSK APRS_Digipeater",
+    "callsign":"BN0TIT-6",
+    "satnogs_id":null
+  },
+  {
     "name":"PCSAT-1",
     "norad_id":"26931",
     "uplink":"145.827",

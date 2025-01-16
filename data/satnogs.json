@@ -52366,5 +52366,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GZXN-1336-4265-9976-3059",
+    "norad_cat_id":60548.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X33",
+    "names":"2024-129CJ",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-08-16T00:00:00Z",
+    "deployed":"2024-08-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-16T11:07:15.467058Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/18evYUdVzVsA1yg3dCq4DNiXIpf2no3_arWF5asWLQtQ\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
