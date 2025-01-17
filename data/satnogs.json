@@ -48258,7 +48258,7 @@
     "image":"satellites\/lasarsat-7.png",
     "status":"alive",
     "decayed":null,
-    "launched":"2024-12-20T11:34:00Z",
+    "launched":"2024-12-21T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/lasar.info\/lasarsat",
     "operator":"None",
@@ -48268,8 +48268,8 @@
         "decoder":"lasarsat"
       }
     ],
-    "updated":"2025-01-11T18:12:45.244976Z",
-    "citation":"STRF measurement",
+    "updated":"2025-01-16T17:12:52.389704Z",
+    "citation":"Fix launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50454,7 +50454,7 @@
     "image":"satellites\/DjibOUTI_1B_300_px.png",
     "status":"alive",
     "decayed":null,
-    "launched":"2024-12-20T11:34:00Z",
+    "launched":"2024-12-21T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/spatialdjiboutien.net\/",
     "operator":"None",
@@ -50462,8 +50462,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-11T18:13:02.939814Z",
-    "citation":"STRF Measurement",
+    "updated":"2025-01-16T17:11:26.383826Z",
+    "citation":"Djibouti Space Program",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50526,7 +50526,7 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2024-12-20T11:34:00Z",
+    "launched":"2024-12-21T11:34:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -50534,8 +50534,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-21T08:12:43.535133Z",
-    "citation":"Change status",
+    "updated":"2025-01-16T17:11:56.566415Z",
+    "citation":"Fix launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -1580,6 +1580,16 @@
     "satnogs_id":"ISTU-1593-3487-2251-7574"
   },
   {
+    "name":"INNOCUBE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435950",
+    "beacon":null,
+    "mode":"9600bps MSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"INSPIRESat-1",
     "norad_id":"51657",
     "uplink":null,

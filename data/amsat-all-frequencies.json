@@ -8283,6 +8283,17 @@
     "satnogs_id":"SGQP-9600-2585-3107-8587"
   },
   {
+    "name":"INNOCUBE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435950",
+    "beacon":null,
+    "mode":"9600bps MSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"InnoSat-2",
     "norad_id":"43738",
     "uplink":null,
