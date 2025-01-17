@@ -45055,7 +45055,7 @@
     "countries":"IN",
     "telemetries":[
       {
-        "decoder":"ssamusat"
+        "decoder":"amusat"
       }
     ],
     "updated":"2025-01-14T01:06:13.722635Z",
@@ -48170,8 +48170,8 @@
         "decoder":"crocube"
       }
     ],
-    "updated":"2025-01-11T18:12:49.248939Z",
-    "citation":"STRF Measurement",
+    "updated":"2025-01-17T07:36:45.446988Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48268,8 +48268,8 @@
         "decoder":"lasarsat"
       }
     ],
-    "updated":"2025-01-16T17:12:52.389704Z",
-    "citation":"Fix launch date",
+    "updated":"2025-01-17T07:36:54.737752Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51604,7 +51604,7 @@
     "norad_cat_id":98691.0,
     "norad_follow_id":null,
     "name":"Centauri 8",
-    "names":"",
+    "names":"FLEF6N",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -51616,8 +51616,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.616505Z",
-    "citation":"Change Status",
+    "updated":"2025-01-17T05:41:57.960175Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/57",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51628,7 +51628,7 @@
     "norad_cat_id":98692.0,
     "norad_follow_id":null,
     "name":"Centauri 7",
-    "names":"",
+    "names":"FLEF5N",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -51640,8 +51640,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.983746Z",
-    "citation":"Change Status",
+    "updated":"2025-01-17T05:41:53.935382Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/57",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52386,6 +52386,30 @@
     ],
     "updated":"2025-01-16T11:07:15.467058Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/18evYUdVzVsA1yg3dCq4DNiXIpf2no3_arWF5asWLQtQ\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZLYR-0017-3141-0563-6718",
+    "norad_cat_id":98659.0,
+    "norad_follow_id":null,
+    "name":"Unknown T12 satellite 1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-17T05:48:12.593739Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/57",
     "is_frequency_violator":false,
     "associated_satellites":[
 

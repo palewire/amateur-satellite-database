@@ -8739,10 +8739,32 @@
     "uplink":null,
     "downlink":"400.915",
     "beacon":null,
-    "mode":"2k4*\/4k8 BPSK",
-    "callsign":null,
+    "mode":"2400bps BPSK",
+    "callsign":"BN0IF1",
     "status":"active",
     "satnogs_id":"SGTS-7428-9120-3753-9994"
+  },
+  {
+    "name":"IRIS-F2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.915",
+    "beacon":null,
+    "mode":"2400bps BPSK",
+    "callsign":"BN0IF2",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"IRIS-F3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.920",
+    "beacon":null,
+    "mode":"2400bps BPSK",
+    "callsign":"BN0IF2",
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"Irvine-01",
