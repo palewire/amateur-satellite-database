@@ -690,6 +690,26 @@
     "satnogs_id":"LSZL-5040-6372-8930-2241"
   },
   {
+    "name":"Centauri-7",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.220",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"FLEF5N",
+    "satnogs_id":null
+  },
+  {
+    "name":"Centauri-8",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.220",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"FLEF6N",
+    "satnogs_id":null
+  },
+  {
     "name":"Colibri-S",
     "norad_id":"61746",
     "uplink":null,

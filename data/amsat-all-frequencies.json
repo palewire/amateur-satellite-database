@@ -3784,6 +3784,28 @@
     "satnogs_id":"LSZL-5040-6372-8930-2241"
   },
   {
+    "name":"Centauri-7",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.220",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"FLEF5N",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"Centauri-8",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.220",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":"FLEF6N",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"Challenger",
     "norad_id":"42721",
     "uplink":null,
@@ -8094,6 +8116,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"RPKQ-8508-2351-2344-0188"
+  },
+  {
+    "name":"HYPE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"HyperView-1G",
@@ -13461,6 +13494,17 @@
     "mode":"1k2 9k6 CCSDS CW",
     "callsign":"POPSAT",
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"POQUITO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.050",
+    "beacon":"437.050",
+    "mode":"9600bps GFSK CW",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
