@@ -18227,6 +18227,17 @@
     "satnogs_id":null
   },
   {
+    "name":"TechEdSat-22",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.875",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"TechnoSat",
     "norad_id":"42829",
     "uplink":null,
