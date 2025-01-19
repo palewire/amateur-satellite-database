@@ -550,7 +550,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ANSER Leader",
+    "name":"ANSER-Leader",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.850",
@@ -561,7 +561,7 @@
     "satnogs_id":null
   },
   {
-    "name":"ANSER Follower-1",
+    "name":"ANSER-Follower-1",
     "norad_id":"58018",
     "uplink":null,
     "downlink":"401.850",
@@ -572,12 +572,23 @@
     "satnogs_id":null
   },
   {
-    "name":"ANSER Follower-2",
+    "name":"ANSER-Follower-2",
     "norad_id":"58019",
     "uplink":null,
     "downlink":"401.850",
     "beacon":null,
     "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"ANSER-Leaser-S",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.850",
+    "beacon":null,
+    "mode":"9600bps FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -1815,6 +1826,17 @@
     "satnogs_id":"IKZL-1016-6920-2274-7552"
   },
   {
+    "name":"BALKAN-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.360",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"BALKAN",
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"BARRY-1",
     "norad_id":"58338",
     "uplink":null,
@@ -2082,9 +2104,20 @@
     "name":"BGS-ARPIT",
     "norad_id":"62461",
     "uplink":"145.825",
-    "downlink":"145.870",
+    "downlink":"145.825\/145.870",
     "beacon":null,
     "mode":"1k2AFSK FM APRS SSTV",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"BGS-ARPIT",
+    "norad_id":"62461",
+    "uplink":null,
+    "downlink":"2231.000\/2265.500",
+    "beacon":null,
+    "mode":"300k\/525kBPSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -7720,6 +7753,17 @@
     "callsign":"BI4ST",
     "status":"active",
     "satnogs_id":"YFPC-1248-4077-8296-8715"
+  },
+  {
+    "name":"HCT-SAT1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.200",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"OK0BDT",
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"HELLO-TEST-1",
@@ -13624,6 +13668,17 @@
     "downlink":"145.850",
     "beacon":"145.850",
     "mode":"1k2AFSK Digipeater CW",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"PROMETHEUS-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
