@@ -7669,23 +7669,23 @@
   {
     "name":"Hades-R",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"1k2\/2k4_FSK FM CW",
+    "mode":"200-2k4_FSK FM CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
     "name":"Hades-ICM",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"145.925",
     "downlink":"436.666",
     "beacon":"436.888",
-    "mode":"1k2\/2k4_FSK FM CW",
+    "mode":"200-2k4_FSK FM CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
