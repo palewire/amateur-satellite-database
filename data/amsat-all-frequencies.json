@@ -7667,6 +7667,28 @@
     "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
+    "name":"Hades-E",
+    "norad_id":null,
+    "uplink":"145.925",
+    "downlink":"436.888",
+    "beacon":"436.888",
+    "mode":"1k2_FSK FM CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Hades-F",
+    "norad_id":null,
+    "uplink":"145.925",
+    "downlink":"436.666",
+    "beacon":"436.666",
+    "mode":"1k2_FSK FM CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Hades-R",
     "norad_id":null,
     "uplink":"145.925",
@@ -10497,11 +10519,11 @@
     "name":"MARIA-G",
     "norad_id":null,
     "uplink":null,
-    "downlink":"436.666",
-    "beacon":"436.888",
-    "mode":"1k2\/2k4_FSK FM CW",
-    "callsign":null,
-    "status":"unknown",
+    "downlink":"145.925",
+    "beacon":"436.666",
+    "mode":"436.666",
+    "callsign":"1k2_FSK FM CW",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -19770,11 +19792,11 @@
     "name":"UNNE-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"436.888",
+    "downlink":"145.925",
     "beacon":"436.888",
-    "mode":"1k2\/2k4_FSK FM CW",
-    "callsign":null,
-    "status":"unknown",
+    "mode":"436.888",
+    "callsign":"1k2_FSK FM CW",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
