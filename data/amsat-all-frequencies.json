@@ -385,6 +385,17 @@
     "satnogs_id":"IDEJ-3292-6865-3492-6224"
   },
   {
+    "name":"AlainSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.650\/400.850",
+    "beacon":"2260.000",
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":null
+  },
+  {
     "name":"ALEXANDER",
     "norad_id":"39144",
     "uplink":null,
@@ -415,17 +426,6 @@
     "mode":"GFSK",
     "callsign":null,
     "status":"non-amateur",
-    "satnogs_id":null
-  },
-  {
-    "name":"AlainSat-1",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"400.650\/400.850",
-    "beacon":"2260.000",
-    "mode":"9600bps FSK",
-    "callsign":null,
-    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -601,7 +601,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
