@@ -590,7 +590,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"fo29"
+      }
     ],
     "updated":"2022-08-01T16:53:52.946438Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
@@ -52410,6 +52412,150 @@
     ],
     "updated":"2025-01-17T05:48:12.593739Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/57",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CQFJ-5205-2709-0827-0817",
+    "norad_cat_id":98658.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-4",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-20T13:44:26.674866Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=58044.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UAFR-9626-7347-8739-2661",
+    "norad_cat_id":58258.0,
+    "norad_follow_id":null,
+    "name":"ORBASTRO-PC-1",
+    "names":"2023-174C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":"2023-11-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-20T16:52:41.155147Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1pDoP3gtxfQrm8KCyAzFtbn6E1J989IdPN3XNqSL-MnA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZXFF-8076-0852-9934-7825",
+    "norad_cat_id":59147.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 ROCINANTE",
+    "names":"2024-043BB",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":"2024-03-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-20T21:00:12.004472Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Q2Va3cUvHuyU3RV551Ky57_knxi1okH778kdHdgWnSo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NWOM-4390-5517-7463-7459",
+    "norad_cat_id":62581.0,
+    "norad_follow_id":null,
+    "name":"CENTISPACE-1 S12",
+    "names":"2025-01-13",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-13T00:00:00Z",
+    "deployed":"2025-01-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-20T21:00:42.088604Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Rl472I_c5OxTDX4pDef6DQUr5PJv6ZRJC2XGgHbSWRI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UPWG-6298-2856-4553-3565",
+    "norad_cat_id":62576.0,
+    "norad_follow_id":null,
+    "name":"CENTISPACE-1 S7",
+    "names":"2025-007B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-13T00:00:00Z",
+    "deployed":"2025-01-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-20T21:00:49.087408Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1AOmotp8ihZoPqSMCDyXf8hLxWBR31d3DmtPO_kDHuKA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IYVT-2120-8454-7413-6784",
+    "norad_cat_id":58697.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 NANAZ",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-20T21:00:58.688478Z",
+    "citation":"PE0SAT strf analysis on https:\/\/network.satnogs.org\/observations\/10946533\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
