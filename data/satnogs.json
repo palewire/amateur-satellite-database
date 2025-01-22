@@ -51295,7 +51295,7 @@
     "norad_follow_id":null,
     "name":"HADES-R",
     "names":"",
-    "image":"",
+    "image":"satellites\/HADES-R.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
@@ -51306,8 +51306,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.381640Z",
-    "citation":"Change Status",
+    "updated":"2025-01-22T04:11:23.619737Z",
+    "citation":"https:\/\/www.albaorbital.com\/spacex-flight-8",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52556,6 +52556,54 @@
     ],
     "updated":"2025-01-20T21:00:58.688478Z",
     "citation":"PE0SAT strf analysis on https:\/\/network.satnogs.org\/observations\/10946533\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZEIN-6816-4405-8064-1024",
+    "norad_cat_id":98657.0,
+    "norad_follow_id":null,
+    "name":"HelloSpace SKYLINK-1",
+    "names":"",
+    "image":"satellites\/skylink2.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-22T00:00:00Z",
+    "website":"https:\/\/hellospace.ist\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-22T11:47:05.306330Z",
+    "citation":"https:\/\/hellospace.ist\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IYUX-2728-3934-6611-1475",
+    "norad_cat_id":98656.0,
+    "norad_follow_id":null,
+    "name":"HelloSpace SKYLINK-2",
+    "names":"",
+    "image":"satellites\/skylink.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-22T00:00:00Z",
+    "website":"https:\/\/hellospace.ist\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-22T11:25:53.025530Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 

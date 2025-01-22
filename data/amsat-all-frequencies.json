@@ -12828,11 +12828,11 @@
   {
     "name":"Parus-T1",
     "norad_id":null,
-    "uplink":"145.825",
+    "uplink":null,
     "downlink":"145.825\/436.850",
     "beacon":null,
     "mode":"1k2AFSK APRS_Digipeater",
-    "callsign":"BN0TIT-6",
+    "callsign":"BN0TIT",
     "status":"active",
     "satnogs_id":null
   },
