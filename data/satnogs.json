@@ -52567,7 +52567,7 @@
     "norad_follow_id":null,
     "name":"HelloSpace SKYLINK-1",
     "names":"",
-    "image":"satellites\/skylink2.jpeg",
+    "image":"satellites\/skylinksats2.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T00:00:00Z",
@@ -52578,7 +52578,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-22T11:47:05.306330Z",
+    "updated":"2025-01-22T19:16:07.048235Z",
     "citation":"https:\/\/hellospace.ist\/",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -52591,7 +52591,7 @@
     "norad_follow_id":null,
     "name":"HelloSpace SKYLINK-2",
     "names":"",
-    "image":"satellites\/skylink.jpeg",
+    "image":"satellites\/skylinksats1.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T00:00:00Z",
@@ -52602,8 +52602,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-22T11:25:53.025530Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-01-22T19:16:17.827783Z",
+    "citation":"https:\/\/hellospace.ist\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
