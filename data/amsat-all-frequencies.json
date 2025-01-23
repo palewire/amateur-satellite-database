@@ -5943,9 +5943,9 @@
     "name":"Elevation-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"400.575\/2245.500",
-    "beacon":null,
-    "mode":"FM",
+    "downlink":"400.200\/400.575",
+    "beacon":"2245.500",
+    "mode":"7k4_FSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -8421,7 +8421,7 @@
     "downlink":"435950*\/437.020",
     "beacon":null,
     "mode":"9600bps MSK",
-    "callsign":null,
+    "callsign":"DP1NNO",
     "status":"active",
     "satnogs_id":null
   },
