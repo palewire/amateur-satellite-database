@@ -1490,6 +1490,16 @@
     "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
+    "name":"Hades-R",
+    "norad_id":null,
+    "uplink":"145.925",
+    "downlink":"436.888",
+    "beacon":"436.888",
+    "mode":"200-2k4 FSK FM CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Hayasat-1",
     "norad_id":"58471",
     "uplink":null,
@@ -1603,7 +1613,7 @@
     "name":"INNOCUBE",
     "norad_id":null,
     "uplink":null,
-    "downlink":"435950*\/437.020",
+    "downlink":"435.950*\/437.020",
     "beacon":null,
     "mode":"9600bps MSK",
     "callsign":"DP1NNO",

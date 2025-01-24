@@ -2109,7 +2109,7 @@ LYRL-0232-4494-6668-9495,98730.0,,SC-SAT1,,,re-entered,,,,,None,JP,[],2024-12-18
 NRVY-4784-2439-1767-3301,98729.0,62402.0,DJIBOUTI-1B,DJIBOUTI-1B,satellites/DjibOUTI_1B_300_px.png,alive,,2024-12-21T11:34:00Z,,https://spatialdjiboutien.net/,None,DJ,[],2025-01-16T17:11:26.383826Z,Djibouti Space Program,False,[]
 BXAD-4271-3963-6721-9150,62081.0,,Object A,2024-219A,,alive,,2024-11-25T00:00:00Z,2024-11-25T00:00:00Z,,None,,[],2024-12-19T09:26:29.034263Z,https://docs.google.com/document/d/1f5Um9Z01xqtnSkaTqF1LrQ4RQyniwdh3BUH1g2faHyM/edit?usp=sharing,False,[]
 DJTQ-0143-2398-3239-9294,62083.0,,KINEIS-5E,2024-219C,,alive,,2024-11-25T00:00:00Z,2024-11-25T00:00:00Z,,None,,[],2024-12-28T13:31:00.653220Z,As agreed with Fredy and as shown as name in latest TLE files and on https://www.n2yo.com/satellite/?s=62083,False,[]
-VWXG-4101-0824-5480-8078,98728.0,,CTC-0,,,alive,,2024-12-21T11:34:00Z,,,None,,[],2025-01-16T17:11:56.566415Z,Fix launch date,False,[]
+VWXG-4101-0824-5480-8078,98728.0,62401.0,CTC-0,,,alive,,2024-12-21T11:34:00Z,,,None,,[],2025-01-24T11:38:34.210604Z,Based on yurimdias suggestion,False,[]
 XZYN-7948-2944-3246-2882,98727.0,,LIZZIESAT-2,USASAT-30V,,alive,,2024-12-20T11:34:00Z,,,None,,[],2024-12-21T08:12:43.499906Z,Change status,False,[]
 IFBU-4266-8266-9018-9039,98726.0,,SC1,,,alive,,2024-12-20T11:34:00Z,,,None,,[],2024-12-20T10:17:57.441555Z,Update launch date,False,[]
 WLLD-6431-3264-3474-6147,98725.0,,XCUBE-1,,,alive,,2024-12-20T11:34:00Z,,,None,,[],2024-12-21T08:12:43.518588Z,Change status,False,[]

@@ -5450,7 +5450,7 @@
     "uplink":null,
     "downlink":"436.825",
     "beacon":null,
-    "mode":"7400bps FSK",
+    "mode":"7416bps FSK",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"QZRL-4914-4557-2700-9931"
@@ -5943,9 +5943,9 @@
     "name":"Elevation-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"400.200\/400.575",
+    "downlink":"400.200*\/400.575",
     "beacon":"2245.500",
-    "mode":"7k4_FSK FM",
+    "mode":"7416bps FSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -7337,6 +7337,17 @@
     "satnogs_id":null
   },
   {
+    "name":"GENESIS-M",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"GENMAT-1",
     "norad_id":"58276",
     "uplink":null,
@@ -7672,7 +7683,7 @@
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"1k2_FSK FM CW",
+    "mode":"200-2k4 FSK FM CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -7683,7 +7694,7 @@
     "uplink":"145.925",
     "downlink":"436.666",
     "beacon":"436.666",
-    "mode":"1k2_FSK FM CW",
+    "mode":"200-2k4 FSK FM CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -7694,9 +7705,9 @@
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"200-2k4_FSK FM CW",
+    "mode":"200-2k4 FSK FM CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7704,7 +7715,7 @@
     "norad_id":null,
     "uplink":"145.925",
     "downlink":"436.666",
-    "beacon":"436.888",
+    "beacon":"436.666",
     "mode":"200-2k4_FSK FM CW",
     "callsign":null,
     "status":"to be launched",
@@ -8418,7 +8429,7 @@
     "name":"INNOCUBE",
     "norad_id":null,
     "uplink":null,
-    "downlink":"435950*\/437.020",
+    "downlink":"435.950*\/437.020",
     "beacon":null,
     "mode":"9600bps MSK",
     "callsign":"DP1NNO",

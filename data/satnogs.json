@@ -50522,7 +50522,7 @@
   {
     "sat_id":"VWXG-4101-0824-5480-8078",
     "norad_cat_id":98728.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62401.0,
     "name":"CTC-0",
     "names":"",
     "image":"",
@@ -50536,8 +50536,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-16T17:11:56.566415Z",
-    "citation":"Fix launch date",
+    "updated":"2025-01-24T11:38:34.210604Z",
+    "citation":"Based on yurimdias suggestion",
     "is_frequency_violator":false,
     "associated_satellites":[
 
