@@ -52608,5 +52608,125 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"ZTOO-4782-5891-6818-3932",
+    "norad_cat_id":62582.0,
+    "norad_follow_id":null,
+    "name":"CANTISPACE-1 S13",
+    "names":"2025-007H",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-13T00:00:00Z",
+    "deployed":"2025-01-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-24T20:26:17.987212Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/12ZziM3bZ756BY-7vc0IUpmQRodDWrIhkJvp1BDHvHe0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WAOZ-8935-0213-0823-9921",
+    "norad_cat_id":62579.0,
+    "norad_follow_id":null,
+    "name":"CANTISPACE-1 S10",
+    "names":"2025-007E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-13T00:00:00Z",
+    "deployed":"2025-01-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-24T20:26:12.345603Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1O1OcE0GDohV9JOYnOdJkBv72Vvz6JH__wOtxc0dYbmA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RSRF-2561-8544-3821-1594",
+    "norad_cat_id":62578.0,
+    "norad_follow_id":null,
+    "name":"CANTISPACE-1 S9",
+    "names":"2025-007D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-13T00:00:00Z",
+    "deployed":"2025-01-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-24T20:26:07.457288Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1oCeVCsvO2kHIsCx5QPqXW3tMu4ExVbcUlwYGC-WDfXA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DMRX-6880-5065-2905-7408",
+    "norad_cat_id":62585.0,
+    "norad_follow_id":null,
+    "name":"CANTISPACE-1 S16",
+    "names":"2025-007D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-13T00:00:00Z",
+    "deployed":"2025-01-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-24T20:26:02.473504Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1J9GC3WnkTjx3sOtPFkZxJeP5WdaXNgkouNP5SlelHyI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RSDF-0413-7808-6866-7253",
+    "norad_cat_id":99695.0,
+    "norad_follow_id":null,
+    "name":"Unknown 99695",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-24T21:56:24.547549Z",
+    "citation":"From classified list",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
