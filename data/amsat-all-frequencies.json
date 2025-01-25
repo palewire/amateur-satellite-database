@@ -4775,7 +4775,7 @@
   },
   {
     "name":"CTC-0",
-    "norad_id":null,
+    "norad_id":"62401",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
@@ -5424,7 +5424,7 @@
   },
   {
     "name":"Djibouti-1B",
-    "norad_id":null,
+    "norad_id":"62402",
     "uplink":null,
     "downlink":"401.800",
     "beacon":null,
@@ -9122,9 +9122,9 @@
     "name":"Jackal-3",
     "norad_id":null,
     "uplink":null,
-    "downlink":"2282.500",
+    "downlink":"2205.000\/2282.500",
     "beacon":null,
-    "mode":"13k1_QPSK",
+    "mode":"196k8_BPSK\/13k1_QPSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -18131,9 +18131,9 @@
     "name":"TANSTAAFL-2",
     "norad_id":null,
     "uplink":null,
-    "downlink":"2282.500",
+    "downlink":"2205.000\/2282.500",
     "beacon":null,
-    "mode":"13k1_QPSK",
+    "mode":"196k8_BPSK\/13k1_QPSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
