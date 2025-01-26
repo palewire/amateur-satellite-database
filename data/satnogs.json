@@ -35089,6 +35089,30 @@
     ]
   },
   {
+    "sat_id":"WOMN-2694-9536-4474-2517",
+    "norad_cat_id":43636.0,
+    "norad_follow_id":null,
+    "name":"CENTISPACE-1 S1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-09-29T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-26T10:16:50.747378Z",
+    "citation":"Celestrak",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"YPRU-6267-6659-9594-2221",
     "norad_cat_id":44421.0,
     "norad_follow_id":null,
@@ -52613,7 +52637,7 @@
     "sat_id":"ZTOO-4782-5891-6818-3932",
     "norad_cat_id":62582.0,
     "norad_follow_id":null,
-    "name":"CANTISPACE-1 S13",
+    "name":"CENTISPACE-1 S13",
     "names":"2025-007H",
     "image":"",
     "status":"alive",
@@ -52626,8 +52650,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-24T20:26:17.987212Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/12ZziM3bZ756BY-7vc0IUpmQRodDWrIhkJvp1BDHvHe0\/edit?usp=sharing",
+    "updated":"2025-01-26T10:26:53.225027Z",
+    "citation":"Fix typo",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52637,7 +52661,7 @@
     "sat_id":"WAOZ-8935-0213-0823-9921",
     "norad_cat_id":62579.0,
     "norad_follow_id":null,
-    "name":"CANTISPACE-1 S10",
+    "name":"CENTISPACE-1 S10",
     "names":"2025-007E",
     "image":"",
     "status":"alive",
@@ -52650,8 +52674,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-24T20:26:12.345603Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1O1OcE0GDohV9JOYnOdJkBv72Vvz6JH__wOtxc0dYbmA\/edit?usp=sharing",
+    "updated":"2025-01-26T10:26:52.868521Z",
+    "citation":"Fix typo",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52661,7 +52685,7 @@
     "sat_id":"RSRF-2561-8544-3821-1594",
     "norad_cat_id":62578.0,
     "norad_follow_id":null,
-    "name":"CANTISPACE-1 S9",
+    "name":"CENTISPACE-1 S9",
     "names":"2025-007D",
     "image":"",
     "status":"alive",
@@ -52674,8 +52698,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-24T20:26:07.457288Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1oCeVCsvO2kHIsCx5QPqXW3tMu4ExVbcUlwYGC-WDfXA\/edit?usp=sharing",
+    "updated":"2025-01-26T10:26:51.831639Z",
+    "citation":"Fix typo",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52685,7 +52709,7 @@
     "sat_id":"DMRX-6880-5065-2905-7408",
     "norad_cat_id":62585.0,
     "norad_follow_id":null,
-    "name":"CANTISPACE-1 S16",
+    "name":"CENTISPACE-1 S16",
     "names":"2025-007D",
     "image":"",
     "status":"alive",
@@ -52698,8 +52722,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-24T20:26:02.473504Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1J9GC3WnkTjx3sOtPFkZxJeP5WdaXNgkouNP5SlelHyI\/edit?usp=sharing",
+    "updated":"2025-01-26T10:26:51.083392Z",
+    "citation":"Fix typo",
     "is_frequency_violator":false,
     "associated_satellites":[
 
