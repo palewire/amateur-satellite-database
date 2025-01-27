@@ -31123,8 +31123,8 @@
     "name":"DISCO-1",
     "names":"",
     "image":"satellites\/DISCO-1_1851.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-24T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":null,
     "website":"https:\/\/github.com\/discosat",
@@ -31133,8 +31133,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-04T01:36:56.731732Z",
-    "citation":"DISCO team",
+    "updated":"2025-01-26T15:36:24.722653Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56222",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52748,6 +52748,30 @@
     ],
     "updated":"2025-01-24T21:56:24.547549Z",
     "citation":"From classified list",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XDGH-5490-9251-5784-7126",
+    "norad_cat_id":61936.0,
+    "norad_follow_id":null,
+    "name":"HAIYANG 4A",
+    "names":"2024-208A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-11-13T00:00:00Z",
+    "deployed":"2024-11-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-01-26T15:36:39.417148Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1E25_j7Ddi3HoKBUFW_L40hhY0tEmSry6muoXCp3_dmg\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
