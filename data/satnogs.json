@@ -2906,16 +2906,16 @@
     "image":"satellites\/cubebug-1__1.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2013-11-21T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"AR",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.157355Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-01-27T23:16:36.581019Z",
+    "citation":"http:\/\/www.amsat.org.ar\/satcube2.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
