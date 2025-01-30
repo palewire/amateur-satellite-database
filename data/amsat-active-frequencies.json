@@ -435,7 +435,7 @@
     "uplink":null,
     "downlink":"401.735\/2260.500",
     "beacon":null,
-    "mode":"4k8*\/9k6_FSK",
+    "mode":"4k8*\/9k6 FSK",
     "callsign":null,
     "satnogs_id":null
   },

@@ -390,7 +390,7 @@
     "uplink":null,
     "downlink":"400.650\/400.850",
     "beacon":"2260.000",
-    "mode":"9600bps FSK",
+    "mode":"4k8\/9k6 FSK",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":null
@@ -2788,7 +2788,7 @@
     "uplink":null,
     "downlink":"401.735\/2260.500",
     "beacon":null,
-    "mode":"4k8*\/9k6_FSK",
+    "mode":"4k8*\/9k6 FSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
