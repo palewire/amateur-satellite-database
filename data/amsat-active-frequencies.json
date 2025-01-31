@@ -1495,7 +1495,7 @@
     "uplink":"145.925\/145.975",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"50\/300\/1k2-9k6 FSK FM CW*",
+    "mode":"50*\/300\/1k2-9k6 FSK FM CW*",
     "callsign":"AO4URE",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
@@ -1505,7 +1505,7 @@
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"200-2k4 FSK FM CW",
+    "mode":"200*-2k4 FSK FM CW*",
     "callsign":null,
     "satnogs_id":null
   },
@@ -3185,7 +3185,7 @@
     "uplink":"145.925\/145.975",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"50\/300\/1k2-9k6 FSK FM CW*",
+    "mode":"50*\/300\/1k2-9k6 FSK FM CW*",
     "callsign":"AO4URE",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
@@ -3555,7 +3555,7 @@
     "uplink":"145.925\/145.975",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"50\/300\/1k2-9k6 FSK FM CW*",
+    "mode":"50*\/300\/1k2-9k6 FSK FM CW*",
     "callsign":"AO4URE",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
