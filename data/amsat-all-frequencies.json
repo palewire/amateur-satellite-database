@@ -9659,14 +9659,14 @@
   },
   {
     "name":"KOYOH",
-    "norad_id":"58465",
+    "norad_id":"58463",
     "uplink":null,
     "downlink":"467.674\/1624.000",
-    "beacon":null,
-    "mode":"FM",
+    "beacon":"2232.000",
+    "mode":"FM 500k BPSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":"LFHI-3189-2508-4273-7644"
+    "satnogs_id":null
   },
   {
     "name":"KO-23",
@@ -10269,6 +10269,28 @@
     "downlink":"2201.250\/2262.250",
     "beacon":null,
     "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"LOGSATS",
+    "norad_id":"58465",
+    "uplink":null,
+    "downlink":"401.375",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"LFHI-3189-2508-4273-7644"
+  },
+  {
+    "name":"LOGSATS-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -14824,7 +14846,7 @@
     "beacon":"29.3525\/29.3987",
     "mode":"CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"non-operational",
     "satnogs_id":"DBOZ-6429-8624-3701-8847"
   },
   {
@@ -14901,7 +14923,7 @@
     "beacon":"432.098\/435.352",
     "mode":"CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"non-operational",
     "satnogs_id":"JQJE-9408-3483-0314-4576"
   },
   {
@@ -16442,6 +16464,28 @@
     "mode":"57.6Kbps",
     "callsign":null,
     "status":"non-amateur",
+    "satnogs_id":null
+  },
+  {
+    "name":"Skylink-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.075",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Skylink-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.075",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
