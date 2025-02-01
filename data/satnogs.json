@@ -13024,9 +13024,9 @@
     "name":"BEESAT-8",
     "names":"DP0BEL",
     "image":"satellites\/BEESAT-5_scaled_PtnsZVG.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2025-01-28T00:00:00Z",
+    "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.raumfahrttechnik.tu-berlin.de\/menue\/research\/current_projects\/beesat_5_6_7_8\/parameter\/en\/",
     "operator":"TU Berlin",
@@ -13034,8 +13034,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.986586Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-01-31T18:08:11.391142Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14655,13 +14655,13 @@
   },
   {
     "sat_id":"FIPJ-7635-8867-6622-6302",
-    "norad_cat_id":99980.0,
-    "norad_follow_id":42827.0,
+    "norad_cat_id":42830.0,
+    "norad_follow_id":null,
     "name":"MAYAK",
     "names":"",
     "image":"satellites\/mayak-satellite.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-22T00:00:00Z",
     "launched":"2017-07-14T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -14670,8 +14670,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:25:37.588363Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-01-31T20:32:35.395919Z",
+    "citation":"https:\/\/www.n2yo.org\/satellite\/?s=42830  and https:\/\/community.libre.space\/t\/umka-1-telescope-satellite-mission\/10572\/395",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51352,7 +51352,9 @@
     "operator":"None",
     "countries":"PL",
     "telemetries":[
-
+      {
+        "decoder":"hype"
+      }
     ],
     "updated":"2025-01-14T18:49:14.949412Z",
     "citation":"Change Status",
