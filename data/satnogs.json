@@ -4990,18 +4990,18 @@
     "image":"satellites\/ALSAT-1N.png",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2016-09-26T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.surrey.ac.uk\/surrey-space-centre\/missions\/alsat-1n",
     "operator":"None",
-    "countries":"",
+    "countries":"DZ",
     "telemetries":[
       {
         "decoder":"alsat1n"
       }
     ],
-    "updated":"2021-07-21T10:11:42.327720Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-02-01T23:13:46.529453Z",
+    "citation":"https:\/\/www.surrey.ac.uk\/surrey-space-centre\/missions\/alsat-1n",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19003,10 +19003,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -51356,8 +51356,8 @@
         "decoder":"hype"
       }
     ],
-    "updated":"2025-01-14T18:49:14.949412Z",
-    "citation":"Change Status",
+    "updated":"2025-02-01T23:13:12.546356Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/0c1_DWFHk\/hype?orgId=1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
