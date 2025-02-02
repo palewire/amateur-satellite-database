@@ -1490,7 +1490,7 @@
     "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
-    "name":"Hades-B",
+    "name":"HADES-B",
     "norad_id":"56992",
     "uplink":"145.925\/145.975",
     "downlink":"436.888",
@@ -1500,7 +1500,7 @@
     "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
   {
-    "name":"Hades-R",
+    "name":"HADES-R",
     "norad_id":null,
     "uplink":"145.925",
     "downlink":"436.888",

@@ -7634,7 +7634,7 @@
     "satnogs_id":"XGOP-6666-1396-1633-1810"
   },
   {
-    "name":"Hades",
+    "name":"HADES",
     "norad_id":"51080",
     "uplink":"145.925",
     "downlink":"436.888",
@@ -7645,7 +7645,7 @@
     "satnogs_id":"UIZJ-0247-0160-9463-5148"
   },
   {
-    "name":"Hades-B",
+    "name":"HADES-B",
     "norad_id":"56992",
     "uplink":"145.925\/145.975",
     "downlink":"436.888",
@@ -7656,7 +7656,7 @@
     "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
   {
-    "name":"Hades-C",
+    "name":"HADES-C",
     "norad_id":"56994",
     "uplink":null,
     "downlink":"436.235",
@@ -7667,7 +7667,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Hades-D",
+    "name":"HADES-D",
     "norad_id":"58567",
     "uplink":"145.875",
     "downlink":"436.666",
@@ -7678,7 +7678,7 @@
     "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
-    "name":"Hades-E",
+    "name":"HADES-E",
     "norad_id":null,
     "uplink":"145.925",
     "downlink":"436.888",
@@ -7689,7 +7689,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Hades-F",
+    "name":"HADES-F",
     "norad_id":null,
     "uplink":"145.925",
     "downlink":"436.666",
@@ -7700,7 +7700,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Hades-R",
+    "name":"HADES-R",
     "norad_id":null,
     "uplink":"145.925",
     "downlink":"436.888",
@@ -7711,7 +7711,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Hades-ICM",
+    "name":"HADES-ICM",
     "norad_id":null,
     "uplink":"145.925",
     "downlink":"436.666",
