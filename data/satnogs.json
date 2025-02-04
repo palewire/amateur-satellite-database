@@ -52802,5 +52802,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"IGAK-0188-0460-8755-4255",
+    "norad_cat_id":98655.0,
+    "norad_follow_id":null,
+    "name":"HYDRA-T",
+    "names":"",
+    "image":"satellites\/HYDRA-T.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/hydra-space.com\/",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2025-02-04T11:21:55.367474Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
   }
 ]
