@@ -15510,6 +15510,28 @@
     "satnogs_id":"UJIM-5362-3390-5505-7341"
   },
   {
+    "name":"SDX-01",
+    "norad_id":"62459",
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"QOOS-3019-6878-3537-6193"
+  },
+  {
+    "name":"SDX-02",
+    "norad_id":"62460",
+    "uplink":null,
+    "downlink":"2210.000",
+    "beacon":null,
+    "mode":"1500000 BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"UUIC-2721-5016-2935-6643"
+  },
+  {
     "name":"SEAM",
     "norad_id":null,
     "uplink":null,
@@ -16960,6 +16982,28 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"KRWU-0654-8962-9038-6960"
+  },
+  {
+    "name":"SPADEX-A",
+    "norad_id":"62459",
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"QOOS-3019-6878-3537-6193"
+  },
+  {
+    "name":"SPADEX-B",
+    "norad_id":"62460",
+    "uplink":null,
+    "downlink":"2210.000",
+    "beacon":null,
+    "mode":"1500000 BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"UUIC-2721-5016-2935-6643"
   },
   {
     "name":"SPARTAN",

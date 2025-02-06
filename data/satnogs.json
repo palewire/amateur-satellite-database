@@ -594,8 +594,8 @@
         "decoder":"fo29"
       }
     ],
-    "updated":"2022-08-01T16:53:52.946438Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-02-06T08:27:01.879407Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19003,10 +19003,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -30878,8 +30878,8 @@
     "name":"KILICSAT",
     "names":"",
     "image":"satellites\/kilicsat_satnogs.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-30T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":"2023-04-15T07:48:48Z",
     "website":"https:\/\/kilicsat.com\/",
@@ -30888,8 +30888,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-23T12:28:46.016473Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56181\/2023-04-22T08%3A53%3A31_7448135_56181_23054D_0-KILICSAT_0.5310437548148172_A_r29.0_f0.0.png",
+    "updated":"2025-02-06T08:39:51.971022Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56181",
     "is_frequency_violator":true,
     "associated_satellites":[
       "JYOK-0674-7504-4713-1737",
@@ -50549,19 +50549,19 @@
     "norad_follow_id":62401.0,
     "name":"CTC-0",
     "names":"",
-    "image":"",
+    "image":"satellites\/EnduroSat_Gluwa_101.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2024-12-21T11:34:00Z",
-    "deployed":null,
-    "website":"",
+    "deployed":"2024-12-21T13:14:48Z",
+    "website":"https:\/\/spacenetwork.com\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-01-24T11:38:34.210604Z",
-    "citation":"Based on yurimdias suggestion",
+    "updated":"2025-02-06T11:44:52.693369Z",
+    "citation":"https:\/\/spacenews.com\/spacecoin-deploys-first-satellite-for-decentralized-space-connectivity\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51968,20 +51968,20 @@
     "norad_cat_id":98678.0,
     "norad_follow_id":null,
     "name":"IRIDE-MS2-HEO-1",
-    "names":"",
-    "image":"",
+    "names":"HEO Pathfinder (a.k.a. Patricio)",
+    "image":"satellites\/Pubblica-Feed-LinkedIn-2-1024x579.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
+    "deployed":"2025-01-14T22:28:00Z",
+    "website":"https:\/\/argotecgroup.com\/missions\/earth-orbits\/heo",
+    "operator":"ESA",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.962890Z",
-    "citation":"Change Status",
+    "updated":"2025-02-06T11:39:05.435386Z",
+    "citation":"https:\/\/argotecgroup.com\/missions\/earth-orbits\/heo",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52823,6 +52823,54 @@
     "updated":"2025-02-04T11:21:55.367474Z",
     "citation":"Add temporary NORAD ID",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SRYX-5008-9935-5872-7958",
+    "norad_cat_id":98654.0,
+    "norad_follow_id":null,
+    "name":"RSP-03",
+    "names":"JS1YOY",
+    "image":"satellites\/rsp03.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/rsp03.rymansat.com",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-02-06T11:42:40.814207Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "MHEI-3411-8847-6627-3823"
+    ]
+  },
+  {
+    "sat_id":"XBMS-1269-7435-8541-4310",
+    "norad_cat_id":98652.0,
+    "norad_follow_id":null,
+    "name":"OTP-2",
+    "names":"",
+    "image":"satellites\/otp-2_angles_v001_18_copy.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/rogue.space\/missions\/otp-2\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-02-06T12:03:05.996866Z",
+    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/326",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
