@@ -8228,6 +8228,17 @@
     "satnogs_id":"RPKQ-8508-2351-2344-0188"
   },
   {
+    "name":"HYDRA-T",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":"437.780",
+    "mode":"CW",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"HYPE",
     "norad_id":null,
     "uplink":null,
