@@ -19003,10 +19003,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -26511,8 +26511,8 @@
   },
   {
     "sat_id":"EDDS-8288-7653-3819-2151",
-    "norad_cat_id":99283.0,
-    "norad_follow_id":56208.0,
+    "norad_cat_id":56208.0,
+    "norad_follow_id":null,
     "name":"TAIFA-1",
     "names":"",
     "image":"satellites\/Taifa-1.png",
@@ -26526,8 +26526,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-15T10:02:00.461985Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-7-2023-04-15-06-47-utc\/10255\/142",
+    "updated":"2025-02-08T06:07:26.272373Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YHSO-7061-7256-7231-6721"
@@ -52822,7 +52822,7 @@
     ],
     "updated":"2025-02-04T11:21:55.367474Z",
     "citation":"Add temporary NORAD ID",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
