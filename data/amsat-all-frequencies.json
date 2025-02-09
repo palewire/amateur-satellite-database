@@ -8231,11 +8231,11 @@
     "name":"HYDRA-T",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
-    "beacon":"437.780",
-    "mode":"CW",
+    "downlink":"437.777",
+    "beacon":"437.777",
+    "mode":"200bps FSK CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

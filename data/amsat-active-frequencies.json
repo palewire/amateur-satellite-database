@@ -1620,6 +1620,16 @@
     "satnogs_id":"ISTU-1593-3487-2251-7574"
   },
   {
+    "name":"HYDRA-T",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.777",
+    "beacon":"437.777",
+    "mode":"200bps FSK CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"INNOCUBE",
     "norad_id":null,
     "uplink":null,
