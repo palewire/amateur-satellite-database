@@ -10844,8 +10844,8 @@
     "name":"YARILO-2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-12T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -10854,8 +10854,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.833931Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-02-13T10:27:46.641937Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -11851,8 +11851,8 @@
     "name":"Adelis-Sampson 3",
     "names":"SAMSON 3",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-03T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/asri.technion.ac.il\/node\/219",
@@ -11861,8 +11861,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-08T01:59:35.714546Z",
-    "citation":"https:\/\/www.ucsusa.org\/sites\/default\/files\/2022-02\/UCS-Satellite-Database-Officialname-1-1-2022.txt",
+    "updated":"2025-02-13T10:35:23.468759Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -12284,30 +12284,6 @@
     "updated":"2024-09-28T10:52:38.390935Z",
     "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48041",
     "is_frequency_violator":true,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"TPHU-3972-2762-2633-9121",
-    "norad_cat_id":48085.0,
-    "norad_follow_id":null,
-    "name":"Unknown Satellite",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2021-07-21T10:11:42.929289Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -13019,8 +12995,8 @@
   },
   {
     "sat_id":"XHLA-2517-2590-0847-9749",
-    "norad_cat_id":99727.0,
-    "norad_follow_id":48085.0,
+    "norad_cat_id":48085.0,
+    "norad_follow_id":null,
     "name":"BEESAT-8",
     "names":"DP0BEL",
     "image":"satellites\/BEESAT-5_scaled_PtnsZVG.jpg",
@@ -13034,11 +13010,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-31T18:08:11.391142Z",
+    "updated":"2025-02-13T10:41:34.932476Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "TPHU-3972-2762-2633-9121"
     ]
   },
   {
@@ -14953,8 +14929,8 @@
     "name":"BRO-4",
     "names":"",
     "image":"satellites\/bro-1__1_DrWgqP6.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-10T00:00:00Z",
     "launched":"2021-08-17T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/unseenlabs.space\/",
@@ -14963,8 +14939,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-29T11:37:55.034787Z",
-    "citation":"Own STRF observations",
+    "updated":"2025-02-13T10:44:42.838750Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "NYVP-8844-0412-5463-4956"
@@ -15253,8 +15229,8 @@
     "name":"LACUNASAT-3",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-04T00:00:00Z",
     "launched":"2020-09-28T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -15263,8 +15239,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-14T12:02:58.647212Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-02-13T10:47:48.097318Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -15546,8 +15522,8 @@
     "name":"XAIOXIANG-1 07",
     "names":"",
     "image":"satellites\/ty-1-07__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-08T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -15556,8 +15532,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-09T14:50:52.520359Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2025-02-13T10:47:38.093737Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16962,8 +16938,8 @@
     "name":"HIBER-3",
     "names":"",
     "image":"satellites\/hiber-4__1_xXAv3lX.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-04T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16972,8 +16948,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-19T06:17:18.516268Z",
-    "citation":"Eelke Survey",
+    "updated":"2025-02-13T10:48:35.638133Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17418,8 +17394,8 @@
     "name":"Ladybird 2",
     "names":"Piao chong 2 Elvis Presley",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-01T00:00:00Z",
     "launched":"2018-12-07T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -17428,8 +17404,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T11:27:19.810652Z",
-    "citation":"https:\/\/ucsusa.org\/sites\/default\/files\/2021-11\/UCS%20Satellite%20Database-Officialname-9-1-21_0.txt",
+    "updated":"2025-02-13T11:03:01.137120Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17466,8 +17442,8 @@
     "name":"Ladybird 4",
     "names":"Piao chong 4",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-01T00:00:00Z",
     "launched":"2018-12-07T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -17476,8 +17452,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T11:26:40.212707Z",
-    "citation":"https:\/\/ucsusa.org\/sites\/default\/files\/2021-11\/UCS%20Satellite%20Database-Officialname-9-1-21_0.txt",
+    "updated":"2025-02-13T11:02:33.969296Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -17610,8 +17586,8 @@
     "name":"Ladybird 1",
     "names":"OBJECT F",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-25T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -17620,8 +17596,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T11:28:02.864144Z",
-    "citation":"https:\/\/ucsusa.org\/sites\/default\/files\/2021-11\/UCS%20Satellite%20Database-Officialname-9-1-21_0.txt",
+    "updated":"2025-02-13T11:03:35.196273Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18001,8 +17977,8 @@
     "name":"Unicorn-1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-23T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"",
@@ -18011,8 +17987,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T11:13:22.445558Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=491",
+    "updated":"2025-02-13T10:52:24.474618Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18200,8 +18176,8 @@
     "name":"Pilot-1",
     "names":"FossaSat-2E3",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-23T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"https:\/\/fossa.systems\/",
@@ -18210,8 +18186,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:05.838893Z",
-    "citation":"https:\/\/fossa.systems\/",
+    "updated":"2025-02-13T11:01:40.288907Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -20500,8 +20476,8 @@
     "name":"TY-8",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-11T00:00:00Z",
     "launched":"2018-12-07T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/twitter.com\/John_VK2FAK\/status\/1129597149413400576",
@@ -20510,8 +20486,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-17T13:59:59.361982Z",
-    "citation":"https:\/\/twitter.com\/John_VK2FAK\/status\/1129597149413400576",
+    "updated":"2025-02-13T11:04:49.925808Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22641,8 +22617,8 @@
     "name":"URESAT-1",
     "names":"Hades-B, SO-120",
     "image":"satellites\/logo_sat3.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-13T00:00:00Z",
     "launched":"2023-06-12T00:00:00Z",
     "deployed":"2023-06-22T00:00:00Z",
     "website":"https:\/\/uresat.ure.es\/",
@@ -22651,8 +22627,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-26T07:25:07.129427Z",
-    "citation":"https:\/\/www.amsat-ea.org\/",
+    "updated":"2025-02-13T10:29:40.278611Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22906,8 +22882,8 @@
     "name":"Tianqi-9",
     "names":"Tianqi Xingzuo 09",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-03T00:00:00Z",
     "launched":"2021-04-27T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -22916,8 +22892,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-05T08:32:43.433366Z",
-    "citation":"https:\/\/r4uab.ru\/satellite-frequencies-band-400-403-mhz\/",
+    "updated":"2025-02-13T11:06:48.472403Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -24329,8 +24305,8 @@
     "name":"Changshagaoxin, TY-4 01",
     "names":"Object D, TY 7",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-06T00:00:00Z",
     "launched":"2018-10-29T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/space.skyrocket.de\/doc_sdat\/ty-4-01.htm",
@@ -24339,8 +24315,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-10-23T07:04:52.155563Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/ty-4-01.htm",
+    "updated":"2025-02-13T11:05:19.379816Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25073,8 +25049,8 @@
     "name":"LEMUR 2 TINYKEV",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-11T00:00:00Z",
     "launched":"2018-12-27T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -25083,8 +25059,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-30T11:07:17.472742Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/11",
+    "updated":"2025-02-13T11:05:59.389585Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25868,8 +25844,8 @@
     "name":"Zeus-1",
     "names":"",
     "image":"satellites\/Zeus-CubeSat-in-space-with-logos.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-11T00:00:00Z",
     "launched":"2022-12-18T00:00:00Z",
     "deployed":"2022-05-11T22:19:40Z",
     "website":"https:\/\/qosmosys.com\/",
@@ -25878,8 +25854,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-20T06:51:11.410780Z",
-    "citation":"https:\/\/space-track.org",
+    "updated":"2025-02-13T11:14:21.377083Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26084,8 +26060,8 @@
     "name":"SHANNON",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-31T00:00:00Z",
     "launched":"2022-01-04T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/lynk.world\/",
@@ -26094,8 +26070,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T03:11:49.323580Z",
-    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/48938\/format\/html\/emptyresult\/show",
+    "updated":"2025-02-13T11:09:54.338227Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28976,8 +28952,8 @@
     "name":"Flock 4V 20",
     "names":"2020-061BJ",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-11T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -28986,8 +28962,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-29T10:05:56.850937Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1Q4wCaARd6bwEATgfFEsxWL6YYqKu06WDSb69lKnfLFg\/edit?usp=sharing",
+    "updated":"2025-02-13T11:07:17.393448Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29120,8 +29096,8 @@
     "name":"LEMUR-2-SUSURRUS",
     "names":"Lemur-2 120, SUSURRUS",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-10T00:00:00Z",
     "launched":"2020-09-28T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -29130,8 +29106,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-31T10:41:23.552271Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-02-13T11:08:35.873991Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29698,8 +29674,8 @@
     "name":"FLOCK 4V 13",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-27T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.planet.com",
@@ -29708,8 +29684,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:43.973639Z",
-    "citation":"https:\/\/www.planet.com",
+    "updated":"2025-02-13T11:09:03.734030Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -29746,8 +29722,8 @@
     "name":"FLOCK 4V 14",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-23T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.planet.com",
@@ -29756,8 +29732,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:43.952970Z",
-    "citation":"https:\/\/www.planet.com",
+    "updated":"2025-02-13T11:09:28.844195Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30370,8 +30346,8 @@
     "name":"Global-15",
     "names":"2021-106B",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-20T00:00:00Z",
     "launched":"2021-11-18T00:00:00Z",
     "deployed":"2021-11-18T00:00:00Z",
     "website":"",
@@ -30380,8 +30356,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-23T19:29:23.398659Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1d68snwFJ9QmBeZHYHcr3S0D5ll5T47fB3BXQv_9Gjpc\/edit?usp=sharing",
+    "updated":"2025-02-13T11:10:28.500670Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31023,8 +30999,8 @@
     "name":"EOS-07",
     "names":"A55BTN",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-01T00:00:00Z",
     "launched":"2023-02-10T00:00:00Z",
     "deployed":"2023-02-10T00:00:00Z",
     "website":"",
@@ -31035,8 +31011,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2024-05-29T16:55:58.922690Z",
-    "citation":"dl7ndr",
+    "updated":"2025-02-13T11:11:22.375726Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31099,8 +31075,8 @@
     "name":"MRC-100",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-07T00:00:00Z",
     "launched":"2023-06-12T00:00:00Z",
     "deployed":"2023-06-22T00:00:00Z",
     "website":"https:\/\/gnd.bme.hu\/mrc100\/",
@@ -31109,8 +31085,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-24T21:29:25.585927Z",
-    "citation":"https:\/\/gnd.bme.hu\/mrc100\/",
+    "updated":"2025-02-13T11:18:30.907226Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TFLA-5539-7118-2857-5597"
@@ -31291,8 +31267,8 @@
     "name":"REVELA",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-30T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":null,
     "website":"https:\/\/www.npcspacemind.com\/",
@@ -31301,8 +31277,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-20T14:32:51.482241Z",
-    "citation":"https:\/\/www.npcspacemind.com\/",
+    "updated":"2025-02-13T11:20:23.098777Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31430,13 +31406,13 @@
   },
   {
     "sat_id":"MWZH-3560-0830-6670-1735",
-    "norad_cat_id":99173.0,
-    "norad_follow_id":56215.0,
+    "norad_cat_id":56215.0,
+    "norad_follow_id":null,
     "name":"VCUB1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-01T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":null,
     "website":"https:\/\/visionaespacial.com\/",
@@ -31445,8 +31421,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-28T09:43:30.216260Z",
-    "citation":"https:\/\/www.space-track.org",
+    "updated":"2025-02-13T11:13:08.308084Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31967,8 +31943,8 @@
     "name":"Astrocast-0303",
     "names":"2022-158H",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-03T00:00:00Z",
     "launched":"2022-11-06T00:00:00Z",
     "deployed":"2022-11-06T00:00:00Z",
     "website":"",
@@ -31977,8 +31953,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-15T17:35:34.453732Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1NqMT9B69BvSx1xRxwXpOocaZLhdM3_jjCGZ1Rrpuw4E\/edit?usp=sharing",
+    "updated":"2025-02-13T11:17:02.943756Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33871,8 +33847,8 @@
     "name":"MuSat-1",
     "names":"MUSAT1",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-11T00:00:00Z",
     "launched":"2023-06-12T21:35:00Z",
     "deployed":"2023-06-12T22:41:35Z",
     "website":"",
@@ -33881,7 +33857,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-06T22:48:18.692809Z",
+    "updated":"2025-02-13T11:17:37.113936Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -33943,8 +33919,8 @@
     "name":"QPS-SAR-6",
     "names":"AMATERU-III",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-17T00:00:00Z",
     "launched":"2023-06-12T21:35:00Z",
     "deployed":"2023-06-12T22:54:30Z",
     "website":"",
@@ -33953,7 +33929,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-06T22:35:27.089290Z",
+    "updated":"2025-02-13T11:18:05.054944Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -34063,8 +34039,8 @@
     "name":"SATLLA-2I",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-03T00:00:00Z",
     "launched":"2023-06-12T21:35:00Z",
     "deployed":null,
     "website":"",
@@ -34073,8 +34049,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-08T14:28:30.154907Z",
-    "citation":"Random choice of NORAD ID to follow",
+    "updated":"2025-02-13T11:22:27.493805Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34879,8 +34855,8 @@
     "name":"AII-DELTA",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-28T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -34889,7 +34865,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-05T10:14:02.934415Z",
+    "updated":"2025-02-13T11:20:52.552806Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -35599,8 +35575,8 @@
     "name":"Astrocast-0102",
     "names":"2021-006CD",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-08T00:00:00Z",
     "launched":"2021-01-24T00:00:00Z",
     "deployed":"2021-01-24T00:00:00Z",
     "website":"",
@@ -35609,8 +35585,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-11T17:51:22.357536Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1v-GWBPzhrHwqVgooccycU_mZnweR5wJ0yo_OKzMC8e4\/edit?usp=sharing",
+    "updated":"2025-02-13T11:22:59.025571Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -37281,8 +37257,8 @@
     "name":"ASTERISC",
     "names":"2021-102A",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-25T00:00:00Z",
     "launched":"2021-11-09T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -37291,8 +37267,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-18T20:01:20.564913Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/77",
+    "updated":"2025-02-13T11:23:22.082531Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38603,8 +38579,8 @@
     "name":"SPACEBEE-178",
     "names":"2023-084AT",
     "image":"satellites\/spacebee-10__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-16T00:00:00Z",
     "launched":"2023-06-12T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -38613,8 +38589,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-24T10:51:11.132656Z",
-    "citation":"https:\/\/twitter.com\/sq3dho\/status\/1716742700207165769",
+    "updated":"2025-02-13T11:23:46.791599Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38651,8 +38627,8 @@
     "name":"ICEYE-X12",
     "names":"2012-059AM",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-18T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":"2021-06-30T00:00:00Z",
     "website":"",
@@ -38661,8 +38637,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-28T13:26:03.402342Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1Dll3x4uhR4izZxuVsM4i72GUljzPUO2WWlpw2t0agJ8\/edit?usp=sharing",
+    "updated":"2025-02-13T11:26:11.110479Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39152,13 +39128,13 @@
   },
   {
     "sat_id":"XPKL-0131-3921-6138-6792",
-    "norad_cat_id":99008.0,
-    "norad_follow_id":58335.0,
+    "norad_cat_id":58335.0,
+    "norad_follow_id":null,
     "name":"Lemur 2 - Mango 2A",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-05T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:50:57Z",
     "website":"",
@@ -39167,7 +39143,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-16T01:50:42.637962Z",
+    "updated":"2025-02-13T11:27:21.174963Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -39176,13 +39152,13 @@
   },
   {
     "sat_id":"NUNG-8240-6931-0035-5147",
-    "norad_cat_id":99007.0,
-    "norad_follow_id":58337.0,
+    "norad_cat_id":58337.0,
+    "norad_follow_id":null,
     "name":"Lemur 2 - Mango 2B",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-05T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:51:23Z",
     "website":"",
@@ -39191,8 +39167,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T03:31:21.180042Z",
-    "citation":"Revert previous change",
+    "updated":"2025-02-13T11:28:14.607380Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39493,8 +39469,8 @@
     "name":"ROM-3",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-24T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":null,
     "website":"https:\/\/rom-space.ro\/",
@@ -39503,8 +39479,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-16T01:00:39.713140Z",
-    "citation":"Fix NORAD ID",
+    "updated":"2025-02-13T11:28:54.047924Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41225,8 +41201,8 @@
     "name":"TIANTUO 2",
     "names":"2014-053B",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-01T00:00:00Z",
     "launched":"2014-09-08T00:00:00Z",
     "deployed":"2014-09-08T00:00:00Z",
     "website":"",
@@ -41235,8 +41211,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-21T11:10:46.279598Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/16SNAn13oTOMV_HfZFwbR6G7gOVDJxm2OQaPxJol5NSg\/edit?usp=sharing",
+    "updated":"2025-02-13T11:29:19.593436Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42139,8 +42115,8 @@
     "name":"ICEYE-X9",
     "names":"2021-006CX",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-06T00:00:00Z",
     "launched":"2021-01-24T00:00:00Z",
     "deployed":"2021-01-24T00:00:00Z",
     "website":"",
@@ -42149,8 +42125,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-24T19:19:31.052037Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1uZCODxdw-V2adGj44gHKgL1F2xY366O3DsIQiNjrJNk\/edit?usp=sharing",
+    "updated":"2025-02-13T11:31:57.430476Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42183,12 +42159,12 @@
   {
     "sat_id":"QZSV-9417-8256-3594-8481",
     "norad_cat_id":98954.0,
-    "norad_follow_id":59138.0,
+    "norad_follow_id":59139.0,
     "name":"PY4-1",
     "names":"",
     "image":"satellites\/PY4.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-03T00:00:00Z",
     "launched":"2024-03-04T22:05:00Z",
     "deployed":"2024-03-04T22:59:04Z",
     "website":"",
@@ -42197,8 +42173,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-19T23:16:55.296132Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-10-rideshare-vsfb-slc-4e-2024-03-04-22-05-utc\/11375\/67",
+    "updated":"2025-02-13T11:33:03.220814Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42207,12 +42183,12 @@
   {
     "sat_id":"SHZR-8351-0812-6292-4613",
     "norad_cat_id":98955.0,
-    "norad_follow_id":59139.0,
+    "norad_follow_id":59138.0,
     "name":"PY4-2",
     "names":"",
     "image":"satellites\/PY4_ynXAhRN.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-03T00:00:00Z",
     "launched":"2024-03-04T22:05:00Z",
     "deployed":"2024-03-04T22:59:04Z",
     "website":"",
@@ -42221,8 +42197,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-19T23:17:35.656971Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-10-rideshare-vsfb-slc-4e-2024-03-04-22-05-utc\/11375\/67",
+    "updated":"2025-02-13T11:33:36.794062Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42259,8 +42235,8 @@
     "name":"PY4-4",
     "names":"",
     "image":"satellites\/PY4_CxxJVrY.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-24T00:00:00Z",
     "launched":"2024-03-04T22:05:00Z",
     "deployed":"2024-03-04T23:00:09Z",
     "website":"",
@@ -42269,8 +42245,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-19T23:18:23.588187Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-10-rideshare-vsfb-slc-4e-2024-03-04-22-05-utc\/11375\/67",
+    "updated":"2025-02-13T11:34:05.827267Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43363,8 +43339,8 @@
     "name":"LEMUR 2 STEVEALBERS",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-20T00:00:00Z",
     "launched":"2023-01-03T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -43373,8 +43349,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-07T08:21:20.515858Z",
-    "citation":"https:\/\/jwgtechs.com\/strf\/ids\/LEMUR_2_STEVEALBERS.html",
+    "updated":"2025-02-13T11:34:30.663867Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43459,8 +43435,8 @@
     "name":"Nantong Zhongxue Hao",
     "names":"Object B",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-30T00:00:00Z",
     "launched":"2023-01-09T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -43469,8 +43445,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-11T10:39:31.504760Z",
-    "citation":"https:\/\/matrix.to\/#\/!dQMLiYPTOCsfsWeMBq:matrix.org\/$17096758283591FrqiV:matrix.org?via=matrix.org&via=matrix.tu-berlin.de&via=gnuradio.org",
+    "updated":"2025-02-13T11:34:56.050489Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43507,8 +43483,8 @@
     "name":"Tiger-2 ( Ayan-21)",
     "names":"2021-059BT",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-09T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":"2021-06-30T00:00:00Z",
     "website":"",
@@ -43517,8 +43493,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-11T22:28:23.315303Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1ANE5Bjx13vt5_tUcg1zrSbLWxukFKykS1i2V8YzfoWs\/edit?usp=sharing",
+    "updated":"2025-02-13T11:35:34.221124Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43726,8 +43702,8 @@
     "name":"BurstCube",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-17T00:00:00Z",
     "launched":"2024-03-21T20:54:00Z",
     "deployed":"2024-04-18T11:26:00Z",
     "website":"",
@@ -43736,8 +43712,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-29T02:42:54.169067Z",
-    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=59562",
+    "updated":"2025-02-13T11:49:28.366129Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43745,13 +43721,13 @@
   },
   {
     "sat_id":"GEGZ-9203-4627-0599-0475",
-    "norad_cat_id":98898.0,
-    "norad_follow_id":59561.0,
+    "norad_cat_id":59563.0,
+    "norad_follow_id":null,
     "name":"SNoOPI",
     "names":"SigNals of Opportunity: P-band Investigation",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-28T00:00:00Z",
     "launched":"2024-03-21T20:54:00Z",
     "deployed":"2024-04-18T11:26:00Z",
     "website":"",
@@ -43760,8 +43736,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-28T09:00:25.091126Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-cubesat-deployment-nrcsd-27-voyager-space-nanoracks-elana-51-2024-04-18-11-26-utc\/11640\/14",
+    "updated":"2025-02-13T12:08:40.455455Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43774,8 +43750,8 @@
     "name":"HyTI",
     "names":"Hyperspectral Thermal Imager",
     "image":"satellites\/IMG_6231-400x300_wU6MS6D.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-12T00:00:00Z",
     "launched":"2024-03-21T20:54:00Z",
     "deployed":"2024-04-18T11:36:00Z",
     "website":"https:\/\/www.hsfl.hawaii.edu\/missions\/hyti\/",
@@ -43784,8 +43760,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-07T08:00:23.106334Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/288",
+    "updated":"2025-02-13T12:04:11.922051Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43870,8 +43846,8 @@
     "name":"LEMUR 2 AADAN-ALIYAH",
     "names":"2023-084AX",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-17T00:00:00Z",
     "launched":"2023-06-12T00:00:00Z",
     "deployed":"2023-06-12T00:00:00Z",
     "website":"",
@@ -43880,8 +43856,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-02T14:33:16.153286Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1WZWBioOClFBtl0cCEX_TxXndPs5FGANkRwa1R-tO57Y\/edit?usp=sharing",
+    "updated":"2025-02-13T11:36:20.042119Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44110,8 +44086,8 @@
     "name":"FLOCK 4Q 18",
     "names":"2023-174BB",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-11T00:00:00Z",
     "launched":"2023-11-11T00:00:00Z",
     "deployed":"2023-11-11T00:00:00Z",
     "website":"",
@@ -44120,8 +44096,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-02T11:52:27.046368Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1lc1I_erIm0u-FIysx_J4mQn8boqQmjMhux_cHsKXP2Y\/edit?usp=sharing",
+    "updated":"2025-02-13T11:35:57.815207Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44254,8 +44230,8 @@
     "name":"CURTIS",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-09-17T00:00:00Z",
     "launched":null,
     "deployed":"2024-04-11T09:00:00Z",
     "website":"",
@@ -44264,8 +44240,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-06-23T18:46:24.098660Z",
-    "citation":"https:\/\/x.com\/HAMSATNL\/status\/1780935549622083813",
+    "updated":"2025-02-13T11:48:02.796979Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44494,8 +44470,8 @@
     "name":"ICEYE-X24",
     "names":"2022-057Z",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-17T00:00:00Z",
     "launched":"2022-05-25T00:00:00Z",
     "deployed":"2022-05-25T00:00:00Z",
     "website":"",
@@ -44504,8 +44480,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-19T14:50:04.430103Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/181iAo7rDqANl49cMUv6ragl6u32WxXJs9DDpe5S0Ptc\/edit?usp=sharing",
+    "updated":"2025-02-13T12:10:48.162708Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44662,8 +44638,8 @@
     "name":"KANOPUS-V 1",
     "names":"2012-039A",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-11-19T00:00:00Z",
     "launched":"2012-06-22T00:00:00Z",
     "deployed":"2012-06-22T00:00:00Z",
     "website":"",
@@ -44672,8 +44648,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-07T18:55:07.341738Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1ylMqMvcVHXTqD9T9nSkK3M_ESyphLcqYOeq6TUT28jE\/edit?usp=sharing",
+    "updated":"2025-02-13T12:11:17.403265Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44928,8 +44904,8 @@
     "name":"DOT-1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-04T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -44938,8 +44914,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-29T02:50:58.044781Z",
-    "citation":"Change status",
+    "updated":"2025-02-13T12:12:13.506531Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45266,8 +45242,8 @@
     "name":"LEMUR 2 CHARLIE-ROSE",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-14T00:00:00Z",
     "launched":"2024-03-04T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -45276,8 +45252,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T02:46:13.135392Z",
-    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59115\/format\/html\/emptyresult\/show",
+    "updated":"2025-02-13T12:13:08.003409Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45290,8 +45266,8 @@
     "name":"LEMUR 2 FELDHUS",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-12-17T00:00:00Z",
     "launched":"2024-03-04T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -45300,8 +45276,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T02:15:24.793091Z",
-    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/59116\/format\/html\/emptyresult\/show",
+    "updated":"2025-02-13T12:12:41.965265Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51292,7 +51268,7 @@
   {
     "sat_id":"IMIN-5614-5566-5816-9152",
     "norad_cat_id":98709.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62616.0,
     "name":"INNOCUBE",
     "names":"TUBSAT-31",
     "image":"satellites\/INNOCUBE.png",
@@ -51306,8 +51282,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-15T11:56:20.866875Z",
-    "citation":"https:\/\/x.com\/TUBspace\/status\/1879267885006364826",
+    "updated":"2025-02-13T09:58:33.318107Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/230",
     "is_frequency_violator":false,
     "associated_satellites":[
 

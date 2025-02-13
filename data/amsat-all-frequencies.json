@@ -2021,7 +2021,7 @@
     "mode":"4800bps GMSK",
     "callsign":"DB0BEL",
     "status":"unknown",
-    "satnogs_id":"TPHU-3972-2762-2633-9121"
+    "satnogs_id":"XHLA-2517-2590-0847-9749"
   },
   {
     "name":"BEESAT-9",
@@ -10040,7 +10040,7 @@
     "mode":"GMSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"NUNG-8240-6931-0035-5147"
   },
   {
     "name":"LEO",
@@ -10535,7 +10535,7 @@
     "mode":"GMSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"NUNG-8240-6931-0035-5147"
   },
   {
     "name":"MANTIS",
