@@ -270,26 +270,6 @@
     "satnogs_id":"QDDY-8878-5291-1819-3935"
   },
   {
-    "name":"BDSat",
-    "norad_id":"52175",
-    "uplink":null,
-    "downlink":"145.850\/436.025*",
-    "beacon":"436.025",
-    "mode":"9600*bps GFSK CW",
-    "callsign":"OK0BDS",
-    "satnogs_id":"PPRG-8689-8762-8343-4648"
-  },
-  {
-    "name":"BDSat-2",
-    "norad_id":"55098",
-    "uplink":null,
-    "downlink":"145.850\/436.025",
-    "beacon":"436.025",
-    "mode":"9600bps GFSK CW",
-    "callsign":"OK0BDT",
-    "satnogs_id":"NJFB-9884-9643-7739-4519"
-  },
-  {
     "name":"BisonSat",
     "norad_id":"40974",
     "uplink":null,
@@ -1488,16 +1468,6 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "satnogs_id":"CNKC-2118-9597-8621-1044"
-  },
-  {
-    "name":"HADES-B",
-    "norad_id":"56992",
-    "uplink":"145.925\/145.975",
-    "downlink":"436.888",
-    "beacon":"436.888",
-    "mode":"50*\/300\/1k2-9k6 FSK FM CW*",
-    "callsign":"AO4URE",
-    "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
   {
     "name":"HADES-R",
@@ -3190,16 +3160,6 @@
     "satnogs_id":"IRES-5964-9687-1982-0089"
   },
   {
-    "name":"SO-120",
-    "norad_id":"56992",
-    "uplink":"145.925\/145.975",
-    "downlink":"436.888",
-    "beacon":"436.888",
-    "mode":"50*\/300\/1k2-9k6 FSK FM CW*",
-    "callsign":"AO4URE",
-    "satnogs_id":"UDZO-6677-3907-8516-6750"
-  },
-  {
     "name":"Sparrow",
     "norad_id":"43881",
     "uplink":"437.325",
@@ -3558,16 +3518,6 @@
     "mode":"1200bps FSK",
     "callsign":"UPMST2",
     "satnogs_id":"UCSJ-1439-6113-9699-8457"
-  },
-  {
-    "name":"UreSat-1",
-    "norad_id":"56992",
-    "uplink":"145.925\/145.975",
-    "downlink":"436.888",
-    "beacon":"436.888",
-    "mode":"50*\/300\/1k2-9k6 FSK FM CW*",
-    "callsign":"AO4URE",
-    "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
   {
     "name":"UTMN-2",

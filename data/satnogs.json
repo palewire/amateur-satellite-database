@@ -25241,8 +25241,8 @@
     "name":"BDSAT-2",
     "names":"",
     "image":"satellites\/BDSAT-1024x832.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-13T02:47:14Z",
     "launched":"2022-01-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.bdsat.cz\/",
@@ -25253,8 +25253,8 @@
         "decoder":"bdsat2"
       }
     ],
-    "updated":"2023-01-27T16:30:11.716640Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-55098\/2023-01-26T19%3A16%3A23_7078493_55098_23001CT_0-OBJECT-CT_0.20306702148148048_B_r29.0_f0.0.png",
+    "updated":"2025-02-13T12:28:20.040409Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/nlWWQ424k\/bdsat-2?orgId=1&from=1739414820000&to=1739414835000",
     "is_frequency_violator":false,
     "associated_satellites":[
       "WQEO-4762-7312-4169-4541",
@@ -47800,8 +47800,8 @@
     "name":"Wisseed Sat",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-10-22T00:00:00Z",
     "launched":null,
     "deployed":"2024-08-29T09:45:00Z",
     "website":"https:\/\/wisseed-the-terra.co.jp\/space",
@@ -47810,8 +47810,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-04T04:03:34.234060Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-08-29-09-20-utc-and-11-00-utc-iss-cubesat-deployment-jaxa-j-ssod-31-cosmogirl-sat-sagansat0-sakura-wisseed-sat-binar-2-3-4\/12152\/84",
+    "updated":"2025-02-13T12:14:51.330167Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48210,8 +48210,8 @@
     "name":"CYSAT-1",
     "names":"",
     "image":"satellites\/cysat-1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-01-14T00:00:00Z",
     "launched":"2024-08-04T15:02:00Z",
     "deployed":"2024-10-09T10:25:00Z",
     "website":"https:\/\/m2i.aere.iastate.edu\/cysat\/",
@@ -48220,7 +48220,7 @@
     "telemetries":[
 
     ],
-    "updated":"2024-10-13T06:52:42.365631Z",
+    "updated":"2025-02-13T12:15:21.490876Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -51172,7 +51172,7 @@
   {
     "sat_id":"RBKM-9300-7088-8072-2252",
     "norad_cat_id":98700.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62703.0,
     "name":"ConnectaIoT-5",
     "names":"",
     "image":"satellites\/IoT_0x.png",
@@ -51186,8 +51186,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.836174Z",
-    "citation":"Change Status",
+    "updated":"2025-02-13T20:27:47.144982Z",
+    "citation":"PE2BZ strf observations https:\/\/docs.google.com\/document\/d\/1L_lyb-aL3C6YxZXB6oJN5eTz19hmh9RZ5MJZqWsYKlE\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51196,7 +51196,7 @@
   {
     "sat_id":"UMJJ-7799-0684-8751-0613",
     "norad_cat_id":98701.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62709.0,
     "name":"ConnectaIoT-6",
     "names":"",
     "image":"satellites\/IoT_0x_VZS772w.png",
@@ -51210,8 +51210,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.700795Z",
-    "citation":"Change Status",
+    "updated":"2025-02-13T15:56:15.137484Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/11tNgnUCY4dUHL2eDRzZRSpUi1Vwr9MG7IgtDzoB0rvw\/edit?tab=t.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51220,7 +51220,7 @@
   {
     "sat_id":"GABL-0673-9513-3160-7549",
     "norad_cat_id":98702.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62715.0,
     "name":"ConnectaIoT-7",
     "names":"",
     "image":"satellites\/IoT_01_irzzc9K_mH7MYeB.png",
@@ -51234,8 +51234,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.326833Z",
-    "citation":"Change Status",
+    "updated":"2025-02-13T16:05:28.683761Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/12fqJ5q5Omt3LjkPvAgFygZTrfM7mby8t3ewNg8pJDdc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51244,7 +51244,7 @@
   {
     "sat_id":"MZLN-3720-3320-1573-6997",
     "norad_cat_id":98703.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62695.0,
     "name":"ConnectaIoT-8",
     "names":"",
     "image":"satellites\/IoT_01_irzzc9K_fV03BPX.png",
@@ -51258,8 +51258,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.005251Z",
-    "citation":"Change Status",
+    "updated":"2025-02-13T16:08:15.476718Z",
+    "citation":"PE2BZ strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51292,7 +51292,7 @@
   {
     "sat_id":"EIPI-1482-6978-9759-4787",
     "norad_cat_id":98710.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62690.0,
     "name":"HADES-R",
     "names":"",
     "image":"satellites\/HADES-R.jpg",
@@ -51306,8 +51306,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-22T04:11:23.619737Z",
-    "citation":"https:\/\/www.albaorbital.com\/spacex-flight-8",
+    "updated":"2025-02-13T12:26:35.694791Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/233",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51606,7 +51606,7 @@
   {
     "sat_id":"WRLU-1723-6543-5361-0506",
     "norad_cat_id":98691.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62714.0,
     "name":"Centauri 8",
     "names":"FLEF6N",
     "image":"",
@@ -51620,8 +51620,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-17T05:41:57.960175Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/57",
+    "updated":"2025-02-13T14:59:09.106940Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/243",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51630,7 +51630,7 @@
   {
     "sat_id":"NVNE-0921-0696-6168-3956",
     "norad_cat_id":98692.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62708.0,
     "name":"Centauri 7",
     "names":"FLEF5N",
     "image":"",
@@ -51644,8 +51644,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-17T05:41:53.935382Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/57",
+    "updated":"2025-02-13T14:59:05.220313Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/243",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51654,7 +51654,7 @@
   {
     "sat_id":"JQZZ-7952-6075-7313-4040",
     "norad_cat_id":98690.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62612.0,
     "name":"SKYBEE-A01",
     "names":"HiVE",
     "image":"",
@@ -51668,8 +51668,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.112146Z",
-    "citation":"Change Status",
+    "updated":"2025-02-13T15:30:27.158659Z",
+    "citation":"PE2BZ strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
       "XSMG-1621-6430-4707-7637"
@@ -52182,7 +52182,7 @@
   {
     "sat_id":"JVIJ-4226-9631-1978-7970",
     "norad_cat_id":98668.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62630.0,
     "name":"ION SCV-016",
     "names":"",
     "image":"",
@@ -52196,8 +52196,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.068734Z",
-    "citation":"Change Status",
+    "updated":"2025-02-13T17:14:20.268793Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52398,7 +52398,7 @@
   {
     "sat_id":"ZLYR-0017-3141-0563-6718",
     "norad_cat_id":98659.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62713.0,
     "name":"Unknown T12 satellite 1",
     "names":"",
     "image":"",
@@ -52412,8 +52412,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-17T05:48:12.593739Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/57",
+    "updated":"2025-02-13T15:19:16.349157Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/245",
     "is_frequency_violator":false,
     "associated_satellites":[
 

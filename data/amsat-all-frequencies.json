@@ -1888,7 +1888,7 @@
     "beacon":"436.025",
     "mode":"9600*bps GFSK CW",
     "callsign":"OK0BDS",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"PPRG-8689-8762-8343-4648"
   },
   {
@@ -1899,7 +1899,7 @@
     "beacon":"436.025",
     "mode":"9600bps GFSK CW",
     "callsign":"OK0BDT",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"NJFB-9884-9643-7739-4519"
   },
   {
@@ -7652,7 +7652,7 @@
     "beacon":"436.888",
     "mode":"50*\/300\/1k2-9k6 FSK FM CW*",
     "callsign":"AO4URE",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
   {
@@ -16914,7 +16914,7 @@
     "beacon":"436.888",
     "mode":"50*\/300\/1k2-9k6 FSK FM CW*",
     "callsign":"AO4URE",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
   {
@@ -20038,7 +20038,7 @@
     "beacon":"436.888",
     "mode":"50*\/300\/1k2-9k6 FSK FM CW*",
     "callsign":"AO4URE",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
   },
   {
