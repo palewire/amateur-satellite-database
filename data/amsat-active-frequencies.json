@@ -671,7 +671,7 @@
   },
   {
     "name":"Centauri-7",
-    "norad_id":null,
+    "norad_id":"62708",
     "uplink":null,
     "downlink":"400.220",
     "beacon":null,
@@ -681,7 +681,7 @@
   },
   {
     "name":"Centauri-8",
-    "norad_id":null,
+    "norad_id":"62714",
     "uplink":null,
     "downlink":"400.220",
     "beacon":null,
@@ -741,7 +741,7 @@
   },
   {
     "name":"ConnectaIoT-5",
-    "norad_id":null,
+    "norad_id":"62703",
     "uplink":null,
     "downlink":"401.510\/869.525",
     "beacon":null,
@@ -751,7 +751,7 @@
   },
   {
     "name":"ConnectaIoT-6",
-    "norad_id":null,
+    "norad_id":"62709",
     "uplink":null,
     "downlink":"401.520\/869.525",
     "beacon":null,
@@ -761,7 +761,7 @@
   },
   {
     "name":"ConnectaIoT-7",
-    "norad_id":null,
+    "norad_id":"62715",
     "uplink":null,
     "downlink":"401.530\/869.525",
     "beacon":null,
@@ -771,7 +771,7 @@
   },
   {
     "name":"ConnectaIoT-8",
-    "norad_id":null,
+    "norad_id":"62695",
     "uplink":null,
     "downlink":"401.540\/869.525",
     "beacon":null,
@@ -1471,7 +1471,7 @@
   },
   {
     "name":"HADES-R",
-    "norad_id":null,
+    "norad_id":"62690",
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
@@ -1591,7 +1591,7 @@
   },
   {
     "name":"HYDRA-T",
-    "norad_id":null,
+    "norad_id":"62692",
     "uplink":null,
     "downlink":"437.777",
     "beacon":"437.777",
@@ -1601,7 +1601,7 @@
   },
   {
     "name":"INNOCUBE",
-    "norad_id":null,
+    "norad_id":"62616",
     "uplink":null,
     "downlink":"435.950*\/437.020",
     "beacon":null,
@@ -1721,7 +1721,7 @@
   },
   {
     "name":"ION-SCV-016",
-    "norad_id":null,
+    "norad_id":"62630",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
