@@ -51534,7 +51534,7 @@
   {
     "sat_id":"ANGB-2912-5973-0732-4675",
     "norad_cat_id":98695.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62611.0,
     "name":"BALKAN-1",
     "names":"",
     "image":"",
@@ -51548,8 +51548,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.471962Z",
-    "citation":"Change Status",
+    "updated":"2025-02-14T20:53:06.155843Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/248",
     "is_frequency_violator":false,
     "associated_satellites":[
 
