@@ -3389,21 +3389,23 @@
     "sat_id":"ZRIM-9073-8711-5268-6171",
     "norad_cat_id":40054.0,
     "norad_follow_id":null,
-    "name":"AISAT",
+    "name":"AISat",
     "names":"",
     "image":"satellites\/aisat__1.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2014-06-30T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.qrz.com\/db\/DP0AIS",
     "operator":"None",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"aisat"
+      }
     ],
-    "updated":"2022-08-01T18:42:08.943121Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-02-15T18:55:57.344925Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
