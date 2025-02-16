@@ -51306,7 +51306,9 @@
     "operator":"None",
     "countries":"ES",
     "telemetries":[
-
+      {
+        "decoder":"hadesr"
+      }
     ],
     "updated":"2025-02-13T12:26:35.694791Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/233",
