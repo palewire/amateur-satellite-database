@@ -18981,10 +18981,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -51970,7 +51970,7 @@
   {
     "sat_id":"VJYM-9912-3929-8135-4426",
     "norad_cat_id":98677.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62619.0,
     "name":"IRIS-F2",
     "names":"",
     "image":"",
@@ -51984,8 +51984,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.670611Z",
-    "citation":"Change Status",
+    "updated":"2025-02-16T20:10:59.066525Z",
+    "citation":"PE2BZ strf observation, it may be IRIS-F3",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51994,7 +51994,7 @@
   {
     "sat_id":"FJEH-8509-1736-7936-8017",
     "norad_cat_id":98676.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62619.0,
     "name":"IRIS-F3",
     "names":"",
     "image":"",
@@ -52008,8 +52008,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.363851Z",
-    "citation":"Change Status",
+    "updated":"2025-02-16T20:11:16.006048Z",
+    "citation":"PE2BZ strf observation, it may be IRIS-F2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
