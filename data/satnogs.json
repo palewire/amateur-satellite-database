@@ -19204,10 +19204,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -51514,7 +51514,7 @@
   {
     "sat_id":"TWOZ-0766-9014-5875-2073",
     "norad_cat_id":98696.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62644.0,
     "name":"ANSER Leaser-S",
     "names":"ANSER-L-S",
     "image":"",
@@ -51528,8 +51528,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.738762Z",
-    "citation":"Change Status",
+    "updated":"2025-02-17T19:44:58.032958Z",
+    "citation":"PE2BZ strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52162,7 +52162,7 @@
   {
     "sat_id":"TNCA-2269-1089-8167-2586",
     "norad_cat_id":98669.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62628.0,
     "name":"ION SCV-014",
     "names":"",
     "image":"",
@@ -52176,8 +52176,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.786028Z",
-    "citation":"Change Status",
+    "updated":"2025-02-17T19:43:34.563139Z",
+    "citation":"PE2BZ strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
