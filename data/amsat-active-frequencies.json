@@ -260,6 +260,16 @@
     "satnogs_id":"IKZL-1016-6920-2274-7552"
   },
   {
+    "name":"BALKAN-1",
+    "norad_id":"62611",
+    "uplink":null,
+    "downlink":"401.360\/2102.500",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"BALKAN",
+    "satnogs_id":null
+  },
+  {
     "name":"BARRY-1",
     "norad_id":"58338",
     "uplink":null,
@@ -928,6 +938,16 @@
     "mode":"LoRa",
     "callsign":null,
     "satnogs_id":"OEVP-0911-2494-4510-3616"
+  },
+  {
+    "name":"CTC-0",
+    "norad_id":"62401",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"WX9XKR",
+    "satnogs_id":null
   },
   {
     "name":"CubeBel-2",
@@ -1701,7 +1721,7 @@
   },
   {
     "name":"ION-SCV-014",
-    "norad_id":null,
+    "norad_id":"62628",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
@@ -1781,7 +1801,7 @@
   },
   {
     "name":"IRIS-F2",
-    "norad_id":null,
+    "norad_id":"62683",
     "uplink":null,
     "downlink":"400.915\/2280.000",
     "beacon":null,
@@ -1791,7 +1811,7 @@
   },
   {
     "name":"IRIS-F3",
-    "norad_id":null,
+    "norad_id":"62619",
     "uplink":null,
     "downlink":"400.920\/2280.000",
     "beacon":null,
@@ -2860,6 +2880,106 @@
     "satnogs_id":"RGSZ-0920-6709-0781-6800"
   },
   {
+    "name":"SITRO-AIS-14",
+    "norad_id":"61752",
+    "uplink":null,
+    "downlink":"401.035",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC3232",
+    "satnogs_id":"XBCM-2444-8723-2063-1860"
+  },
+  {
+    "name":"SITRO-AIS-15",
+    "norad_id":"61738",
+    "uplink":null,
+    "downlink":"401.055",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC3233",
+    "satnogs_id":"IWTX-3285-6320-1822-9070"
+  },
+  {
+    "name":"SITRO-AIS-16",
+    "norad_id":"61737",
+    "uplink":null,
+    "downlink":"401.075",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC3234",
+    "satnogs_id":"DSVG-7940-2907-4221-6289"
+  },
+  {
+    "name":"SITRO-AIS-17",
+    "norad_id":"61789",
+    "uplink":null,
+    "downlink":"401.095",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC3235",
+    "satnogs_id":"JRAL-1077-7404-4112-3387"
+  },
+  {
+    "name":"SITRO-AIS-18",
+    "norad_id":"61790",
+    "uplink":null,
+    "downlink":"401.115",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC3236",
+    "satnogs_id":"SYCP-0508-2610-5330-6926"
+  },
+  {
+    "name":"SITRO-AIS-19",
+    "norad_id":"61759",
+    "uplink":null,
+    "downlink":"401.135",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC3237",
+    "satnogs_id":"VLQF-5068-8022-3260-4042"
+  },
+  {
+    "name":"SITRO-AIS-20",
+    "norad_id":"61758",
+    "uplink":null,
+    "downlink":"401.155",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC3238",
+    "satnogs_id":"QTUB-4133-0510-9509-3707"
+  },
+  {
+    "name":"SITRO-AIS-21",
+    "norad_id":"61739",
+    "uplink":null,
+    "downlink":"401.175",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2309",
+    "satnogs_id":"UCFL-1421-7367-6173-4013"
+  },
+  {
+    "name":"SITRO-AIS-22",
+    "norad_id":"61740",
+    "uplink":null,
+    "downlink":"401.195",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2310",
+    "satnogs_id":"JCCX-9296-2809-6004-0718"
+  },
+  {
+    "name":"SITRO-AIS-23",
+    "norad_id":"61742",
+    "uplink":null,
+    "downlink":"401.215",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2311",
+    "satnogs_id":"YGZT-8723-5846-9934-3412"
+  },
+  {
     "name":"SITRO-AIS-24",
     "norad_id":"61741",
     "uplink":null,
@@ -3000,6 +3120,106 @@
     "satnogs_id":"FTBQ-6196-7815-5075-3958"
   },
   {
+    "name":"SITRO-AIS-38",
+    "norad_id":"61786",
+    "uplink":null,
+    "downlink":"401.045",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2326",
+    "satnogs_id":"FFBD-0569-3658-8632-6485"
+  },
+  {
+    "name":"SITRO-AIS-39",
+    "norad_id":"61778",
+    "uplink":null,
+    "downlink":"401.065",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2327",
+    "satnogs_id":"EBOD-7707-1906-5225-7688"
+  },
+  {
+    "name":"SITRO-AIS-40",
+    "norad_id":"61776",
+    "uplink":null,
+    "downlink":"401.085",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2328",
+    "satnogs_id":"NRCG-0362-0567-0567-5483"
+  },
+  {
+    "name":"SITRO-AIS-41",
+    "norad_id":"61760",
+    "uplink":null,
+    "downlink":"401.105",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2329",
+    "satnogs_id":"CYOX-9810-7226-8589-8352"
+  },
+  {
+    "name":"SITRO-AIS-42",
+    "norad_id":"61756",
+    "uplink":null,
+    "downlink":"401.125",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2330",
+    "satnogs_id":"BFUM-8692-8299-8436-2228"
+  },
+  {
+    "name":"SITRO-AIS-43",
+    "norad_id":"61755",
+    "uplink":null,
+    "downlink":"401.145",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2331",
+    "satnogs_id":"IVCK-0330-2812-2301-8665"
+  },
+  {
+    "name":"SITRO-AIS-44",
+    "norad_id":"61748",
+    "uplink":null,
+    "downlink":"401.165",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2332",
+    "satnogs_id":"EHDK-3254-3608-4037-6765"
+  },
+  {
+    "name":"SITRO-AIS-45",
+    "norad_id":"61788",
+    "uplink":null,
+    "downlink":"401.185",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2333",
+    "satnogs_id":"JADE-4377-6478-5986-2355"
+  },
+  {
+    "name":"SITRO-AIS-46",
+    "norad_id":"61774",
+    "uplink":null,
+    "downlink":"401.205",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2334",
+    "satnogs_id":"ZBVE-3642-7824-0324-5322"
+  },
+  {
+    "name":"SITRO-AIS-47",
+    "norad_id":"61773",
+    "uplink":null,
+    "downlink":"401.225",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2360",
+    "satnogs_id":"OQQY-3994-3361-3091-7110"
+  },
+  {
     "name":"SITRO-AIS-48",
     "norad_id":"61771",
     "uplink":null,
@@ -3048,6 +3268,46 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2340",
     "satnogs_id":"DOGC-7624-8359-4736-1321"
+  },
+  {
+    "name":"SITRO-AIS-53",
+    "norad_id":"59776",
+    "uplink":null,
+    "downlink":"401.050",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2341",
+    "satnogs_id":"ONSC-2128-9588-6624-5100"
+  },
+  {
+    "name":"SITRO-AIS-54",
+    "norad_id":"59777",
+    "uplink":null,
+    "downlink":"401.080",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2342",
+    "satnogs_id":"SYEN-9282-8275-6947-6745"
+  },
+  {
+    "name":"SITRO-AIS-55",
+    "norad_id":"59809",
+    "uplink":null,
+    "downlink":"401.108",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2343",
+    "satnogs_id":"DAYJ-0946-5871-8218-4145"
+  },
+  {
+    "name":"SITRO-AIS-56",
+    "norad_id":"59778",
+    "uplink":null,
+    "downlink":"401.215",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2344",
+    "satnogs_id":"RBPP-4436-6355-8978-8861"
   },
   {
     "name":"SLIM",

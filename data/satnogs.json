@@ -51490,7 +51490,7 @@
   {
     "sat_id":"JRPK-1739-9766-4189-3079",
     "norad_cat_id":98697.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62637.0,
     "name":"ALAINSAT-1",
     "names":"",
     "image":"",
@@ -51504,8 +51504,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.090214Z",
-    "citation":"Change Status",
+    "updated":"2025-02-18T09:36:22.979334Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/258",
     "is_frequency_violator":false,
     "associated_satellites":[
 
