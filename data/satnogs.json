@@ -51515,7 +51515,7 @@
     "sat_id":"TWOZ-0766-9014-5875-2073",
     "norad_cat_id":98696.0,
     "norad_follow_id":62644.0,
-    "name":"ANSER Leaser-S",
+    "name":"ANSER Leader-S",
     "names":"ANSER-L-S",
     "image":"",
     "status":"alive",
@@ -51528,8 +51528,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-17T19:44:58.032958Z",
-    "citation":"PE2BZ strf observations",
+    "updated":"2025-02-18T19:56:45.425775Z",
+    "citation":"Fix name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
