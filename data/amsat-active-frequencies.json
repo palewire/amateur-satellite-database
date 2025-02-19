@@ -420,16 +420,6 @@
     "satnogs_id":"PUFM-6212-8243-7442-9645"
   },
   {
-    "name":"BRO-16",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"401.735\/2260.500",
-    "beacon":null,
-    "mode":"4k8*\/9k6 FSK",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"BSUSat-2",
     "norad_id":"57175",
     "uplink":"436.200",

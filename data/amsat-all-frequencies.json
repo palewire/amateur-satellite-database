@@ -386,7 +386,7 @@
   },
   {
     "name":"AlainSat-1",
-    "norad_id":null,
+    "norad_id":"62637",
     "uplink":null,
     "downlink":"400.650\/400.850",
     "beacon":"2260.000",
@@ -2790,7 +2790,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -5947,7 +5947,7 @@
     "beacon":"2245.500",
     "mode":"7416bps FSK FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -16479,7 +16479,7 @@
   },
   {
     "name":"SKYBEE-A01",
-    "norad_id":null,
+    "norad_id":"62671",
     "uplink":null,
     "downlink":"401.050\/2228.000",
     "beacon":null,
