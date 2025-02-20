@@ -52401,23 +52401,23 @@
   },
   {
     "sat_id":"ZLYR-0017-3141-0563-6718",
-    "norad_cat_id":98659.0,
-    "norad_follow_id":62713.0,
-    "name":"Unknown T12 satellite 1",
+    "norad_cat_id":62713.0,
+    "norad_follow_id":null,
+    "name":"SATGUS",
     "names":"",
-    "image":"",
+    "image":"satellites\/satgus-optimized.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2025-01-14T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.spaceselfie.com\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-02-13T15:19:16.349157Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/245",
+    "updated":"2025-02-20T11:43:53.205397Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/62713\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
