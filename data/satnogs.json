@@ -19204,10 +19204,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -52401,10 +52401,10 @@
   },
   {
     "sat_id":"ZLYR-0017-3141-0563-6718",
-    "norad_cat_id":62713.0,
+    "norad_cat_id":98659.0,
     "norad_follow_id":null,
     "name":"SATGUS",
-    "names":"",
+    "names":"62713",
     "image":"satellites\/satgus-optimized.jpg",
     "status":"alive",
     "decayed":null,
@@ -52416,8 +52416,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-20T11:43:53.205397Z",
-    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/62713\/format\/html\/emptyresult\/show",
+    "updated":"2025-02-20T13:35:04.068678Z",
+    "citation":"Revert identification until we confirm SATGUS is the satellite",
     "is_frequency_violator":false,
     "associated_satellites":[
 
