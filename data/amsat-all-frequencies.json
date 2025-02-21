@@ -15334,6 +15334,28 @@
     "satnogs_id":null
   },
   {
+    "name":"SATGUS",
+    "norad_id":"62713",
+    "uplink":null,
+    "downlink":"400.200",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"GRAF1N",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"Sathyabamasat",
+    "norad_id":"41600",
+    "uplink":null,
+    "downlink":"145.980",
+    "beacon":null,
+    "mode":"2400bps BPSK CW",
+    "callsign":"SNSAT",
+    "status":"re-entered",
+    "satnogs_id":"NIOX-2801-2640-1045-2883"
+  },
+  {
     "name":"SATLLA-1",
     "norad_id":"46924",
     "uplink":null,
@@ -15376,17 +15398,6 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
-  },
-  {
-    "name":"Sathyabamasat",
-    "norad_id":"41600",
-    "uplink":null,
-    "downlink":"145.980",
-    "beacon":null,
-    "mode":"2400bps BPSK CW",
-    "callsign":"SNSAT",
-    "status":"re-entered",
-    "satnogs_id":"NIOX-2801-2640-1045-2883"
   },
   {
     "name":"Satoro-T2",
