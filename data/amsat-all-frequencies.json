@@ -8246,7 +8246,7 @@
     "beacon":null,
     "mode":"9600bps GFSK LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -12877,7 +12877,7 @@
     "beacon":null,
     "mode":"1k2AFSK APRS_Digipeater",
     "callsign":"BN0TIT",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -13647,7 +13647,7 @@
     "beacon":"437.050",
     "mode":"9600bps GFSK CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
