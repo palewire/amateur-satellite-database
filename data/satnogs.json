@@ -52401,10 +52401,10 @@
   },
   {
     "sat_id":"ZLYR-0017-3141-0563-6718",
-    "norad_cat_id":98659.0,
+    "norad_cat_id":62713.0,
     "norad_follow_id":null,
     "name":"SATGUS",
-    "names":"62713",
+    "names":"",
     "image":"satellites\/satgus-optimized.jpg",
     "status":"alive",
     "decayed":null,
@@ -52416,8 +52416,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-20T13:35:04.068678Z",
-    "citation":"Revert identification until we confirm SATGUS is the satellite",
+    "updated":"2025-02-22T15:59:37.313850Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/62713\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
