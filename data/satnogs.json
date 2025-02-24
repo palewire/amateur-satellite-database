@@ -19204,10 +19204,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -51320,7 +51320,7 @@
   {
     "sat_id":"ODBU-7441-1792-6088-6314",
     "norad_cat_id":98708.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62687.0,
     "name":"HYPE",
     "names":"",
     "image":"satellites\/satlab_misja_HYPE_naszywka_RGB.png",
@@ -51336,8 +51336,8 @@
         "decoder":"hype"
       }
     ],
-    "updated":"2025-02-01T23:13:12.546356Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/0c1_DWFHk\/hype?orgId=1",
+    "updated":"2025-02-23T12:24:18.708836Z",
+    "citation":"https:\/\/community.libre.space\/t\/tle-issue-hype-62687\/12937",
     "is_frequency_violator":false,
     "associated_satellites":[
 
