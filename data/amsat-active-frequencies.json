@@ -267,7 +267,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"BALKAN",
-    "satnogs_id":null
+    "satnogs_id":"ANGB-2912-5973-0732-4675"
   },
   {
     "name":"BARRY-1",
@@ -677,7 +677,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":"FLEF5N",
-    "satnogs_id":null
+    "satnogs_id":"NVNE-0921-0696-6168-3956"
   },
   {
     "name":"Centauri-8",
@@ -687,7 +687,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":"FLEF6N",
-    "satnogs_id":null
+    "satnogs_id":"WRLU-1723-6543-5361-0506"
   },
   {
     "name":"Colibri-S",
@@ -747,7 +747,7 @@
     "beacon":null,
     "mode":"4800bps GMSK LoRa",
     "callsign":"CNT005",
-    "satnogs_id":null
+    "satnogs_id":"RBKM-9300-7088-8072-2252"
   },
   {
     "name":"ConnectaIoT-6",
@@ -757,7 +757,7 @@
     "beacon":null,
     "mode":"4800bps GMSK LoRa",
     "callsign":"CNT006",
-    "satnogs_id":null
+    "satnogs_id":"UMJJ-7799-0684-8751-0613"
   },
   {
     "name":"ConnectaIoT-7",
@@ -767,7 +767,7 @@
     "beacon":null,
     "mode":"4800bps GMSK LoRa",
     "callsign":"CNT007",
-    "satnogs_id":null
+    "satnogs_id":"GABL-0673-9513-3160-7549"
   },
   {
     "name":"ConnectaIoT-8",
@@ -777,7 +777,7 @@
     "beacon":null,
     "mode":"4800bps GMSK LoRa",
     "callsign":"CNT008",
-    "satnogs_id":null
+    "satnogs_id":"MZLN-3720-3320-1573-6997"
   },
   {
     "name":"Connecta-T1_1",
@@ -1487,7 +1487,7 @@
     "beacon":"436.888",
     "mode":"200*-2k4 FSK FM CW*",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"EIPI-1482-6978-9759-4787"
   },
   {
     "name":"Hayasat-1",
@@ -1617,7 +1617,7 @@
     "beacon":null,
     "mode":"9600bps MSK",
     "callsign":"DP1NNO",
-    "satnogs_id":null
+    "satnogs_id":"IMIN-5614-5566-5816-9152"
   },
   {
     "name":"INSPIRESat-1",
@@ -1807,7 +1807,7 @@
     "beacon":null,
     "mode":"2400bps BPSK",
     "callsign":"BN0IF2",
-    "satnogs_id":null
+    "satnogs_id":"FJEH-8509-1736-7936-8017"
   },
   {
     "name":"iSat",
@@ -3408,6 +3408,16 @@
     "mode":"FM* tone 67.0Hz",
     "callsign":null,
     "satnogs_id":"IRES-5964-9687-1982-0089"
+  },
+  {
+    "name":"SO-124",
+    "norad_id":"62690",
+    "uplink":"145.925",
+    "downlink":"436.888",
+    "beacon":"436.888",
+    "mode":"200*-2k4 FSK FM CW*",
+    "callsign":null,
+    "satnogs_id":"EIPI-1482-6978-9759-4787"
   },
   {
     "name":"Sparrow",

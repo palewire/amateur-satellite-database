@@ -1845,7 +1845,7 @@
     "mode":"9600bps GMSK",
     "callsign":"BALKAN",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ANGB-2912-5973-0732-4675"
   },
   {
     "name":"BARRY-1",
@@ -3847,7 +3847,7 @@
     "mode":"9600bps FSK",
     "callsign":"FLEF5N",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"NVNE-0921-0696-6168-3956"
   },
   {
     "name":"Centauri-8",
@@ -3858,7 +3858,7 @@
     "mode":"9600bps FSK",
     "callsign":"FLEF6N",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"WRLU-1723-6543-5361-0506"
   },
   {
     "name":"Challenger",
@@ -4111,7 +4111,7 @@
     "mode":"4800bps GMSK LoRa",
     "callsign":"CNT005",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"RBKM-9300-7088-8072-2252"
   },
   {
     "name":"ConnectaIoT-6",
@@ -4122,7 +4122,7 @@
     "mode":"4800bps GMSK LoRa",
     "callsign":"CNT006",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"UMJJ-7799-0684-8751-0613"
   },
   {
     "name":"ConnectaIoT-7",
@@ -4133,7 +4133,7 @@
     "mode":"4800bps GMSK LoRa",
     "callsign":"CNT007",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"GABL-0673-9513-3160-7549"
   },
   {
     "name":"ConnectaIoT-8",
@@ -4144,7 +4144,7 @@
     "mode":"4800bps GMSK LoRa",
     "callsign":"CNT008",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"MZLN-3720-3320-1573-6997"
   },
   {
     "name":"Connecta-T1_1",
@@ -7708,12 +7708,12 @@
     "mode":"200*-2k4 FSK FM CW*",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"EIPI-1482-6978-9759-4787"
   },
   {
     "name":"HADES-ICM",
     "norad_id":null,
-    "uplink":"145.925",
+    "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
     "mode":"200-2k4_FSK FM CW",
@@ -8247,7 +8247,7 @@
     "mode":"9600bps GFSK LoRa",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"ODBU-7441-1792-6088-6314"
   },
   {
     "name":"HyperView-1G",
@@ -8445,7 +8445,7 @@
     "mode":"9600bps MSK",
     "callsign":"DP1NNO",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"IMIN-5614-5566-5816-9152"
   },
   {
     "name":"InnoSat-2",
@@ -8918,7 +8918,7 @@
     "mode":"2400bps BPSK",
     "callsign":"BN0IF2",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"FJEH-8509-1736-7936-8017"
   },
   {
     "name":"Irvine-01",
@@ -16497,7 +16497,7 @@
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JQZZ-7952-6075-7313-4040"
   },
   {
     "name":"SkyCube",
@@ -16938,6 +16938,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"KDPU-1823-6370-5846-1492"
+  },
+  {
+    "name":"SO-124",
+    "norad_id":"62690",
+    "uplink":"145.925",
+    "downlink":"436.888",
+    "beacon":"436.888",
+    "mode":"200*-2k4 FSK FM CW*",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"EIPI-1482-6978-9759-4787"
   },
   {
     "name":"SPACEANT-D",

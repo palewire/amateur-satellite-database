@@ -19204,10 +19204,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -51173,8 +51173,8 @@
   },
   {
     "sat_id":"RBKM-9300-7088-8072-2252",
-    "norad_cat_id":98700.0,
-    "norad_follow_id":62703.0,
+    "norad_cat_id":62703.0,
+    "norad_follow_id":null,
     "name":"ConnectaIoT-5",
     "names":"",
     "image":"satellites\/IoT_0x.png",
@@ -51188,8 +51188,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-13T20:27:47.144982Z",
-    "citation":"PE2BZ strf observations https:\/\/docs.google.com\/document\/d\/1L_lyb-aL3C6YxZXB6oJN5eTz19hmh9RZ5MJZqWsYKlE\/edit?usp=sharing",
+    "updated":"2025-02-24T12:00:35.560938Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51197,8 +51197,8 @@
   },
   {
     "sat_id":"UMJJ-7799-0684-8751-0613",
-    "norad_cat_id":98701.0,
-    "norad_follow_id":62709.0,
+    "norad_cat_id":62709.0,
+    "norad_follow_id":null,
     "name":"ConnectaIoT-6",
     "names":"",
     "image":"satellites\/IoT_0x_VZS772w.png",
@@ -51212,8 +51212,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-13T15:56:15.137484Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/11tNgnUCY4dUHL2eDRzZRSpUi1Vwr9MG7IgtDzoB0rvw\/edit?tab=t.0",
+    "updated":"2025-02-24T12:02:21.944506Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51221,8 +51221,8 @@
   },
   {
     "sat_id":"GABL-0673-9513-3160-7549",
-    "norad_cat_id":98702.0,
-    "norad_follow_id":62715.0,
+    "norad_cat_id":62715.0,
+    "norad_follow_id":null,
     "name":"ConnectaIoT-7",
     "names":"",
     "image":"satellites\/IoT_01_irzzc9K_mH7MYeB.png",
@@ -51236,8 +51236,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-13T16:05:28.683761Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/12fqJ5q5Omt3LjkPvAgFygZTrfM7mby8t3ewNg8pJDdc\/edit?usp=sharing",
+    "updated":"2025-02-24T12:06:28.372213Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51245,8 +51245,8 @@
   },
   {
     "sat_id":"MZLN-3720-3320-1573-6997",
-    "norad_cat_id":98703.0,
-    "norad_follow_id":62695.0,
+    "norad_cat_id":62695.0,
+    "norad_follow_id":null,
     "name":"ConnectaIoT-8",
     "names":"",
     "image":"satellites\/IoT_01_irzzc9K_fV03BPX.png",
@@ -51260,17 +51260,17 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-13T16:08:15.476718Z",
-    "citation":"PE2BZ strf observations",
+    "updated":"2025-02-24T11:54:32.662715Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "OGTF-3189-8961-2905-9690"
     ]
   },
   {
     "sat_id":"IMIN-5614-5566-5816-9152",
-    "norad_cat_id":98709.0,
-    "norad_follow_id":62616.0,
+    "norad_cat_id":62616.0,
+    "norad_follow_id":null,
     "name":"INNOCUBE",
     "names":"TUBSAT-31",
     "image":"satellites\/INNOCUBE.png",
@@ -51284,8 +51284,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-13T09:58:33.318107Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/230",
+    "updated":"2025-02-24T11:42:11.663609Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51293,10 +51293,10 @@
   },
   {
     "sat_id":"EIPI-1482-6978-9759-4787",
-    "norad_cat_id":98710.0,
-    "norad_follow_id":62690.0,
+    "norad_cat_id":62690.0,
+    "norad_follow_id":null,
     "name":"HADES-R",
-    "names":"",
+    "names":"SO-124",
     "image":"satellites\/HADES-R.jpg",
     "status":"alive",
     "decayed":null,
@@ -51310,17 +51310,17 @@
         "decoder":"hadesr"
       }
     ],
-    "updated":"2025-02-13T12:26:35.694791Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/233",
+    "updated":"2025-02-24T11:21:49.101560Z",
+    "citation":"https:\/\/www.amsat-ea.org\/",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "VGLN-5415-2707-6177-5396"
     ]
   },
   {
     "sat_id":"ODBU-7441-1792-6088-6314",
-    "norad_cat_id":98708.0,
-    "norad_follow_id":62687.0,
+    "norad_cat_id":62687.0,
+    "norad_follow_id":null,
     "name":"HYPE",
     "names":"",
     "image":"satellites\/satlab_misja_HYPE_naszywka_RGB.png",
@@ -51336,8 +51336,8 @@
         "decoder":"hype"
       }
     ],
-    "updated":"2025-02-23T12:24:18.708836Z",
-    "citation":"https:\/\/community.libre.space\/t\/tle-issue-hype-62687\/12937",
+    "updated":"2025-02-24T11:53:56.054549Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51537,8 +51537,8 @@
   },
   {
     "sat_id":"ANGB-2912-5973-0732-4675",
-    "norad_cat_id":98695.0,
-    "norad_follow_id":62611.0,
+    "norad_cat_id":62611.0,
+    "norad_follow_id":null,
     "name":"BALKAN-1",
     "names":"",
     "image":"",
@@ -51552,11 +51552,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-14T20:53:06.155843Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/248",
+    "updated":"2025-02-24T11:35:57.511984Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "SZXW-7434-4202-8117-4734"
     ]
   },
   {
@@ -51609,8 +51609,8 @@
   },
   {
     "sat_id":"WRLU-1723-6543-5361-0506",
-    "norad_cat_id":98691.0,
-    "norad_follow_id":62714.0,
+    "norad_cat_id":62714.0,
+    "norad_follow_id":null,
     "name":"Centauri 8",
     "names":"FLEF6N",
     "image":"",
@@ -51624,8 +51624,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-13T14:59:09.106940Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/243",
+    "updated":"2025-02-24T12:01:32.962477Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/62714\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51633,8 +51633,8 @@
   },
   {
     "sat_id":"NVNE-0921-0696-6168-3956",
-    "norad_cat_id":98692.0,
-    "norad_follow_id":62708.0,
+    "norad_cat_id":62708.0,
+    "norad_follow_id":null,
     "name":"Centauri 7",
     "names":"FLEF5N",
     "image":"",
@@ -51644,12 +51644,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-02-13T14:59:05.220313Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-12-rideshare-vsfb-slc-4e-net-14-january-2025-1849z-1946z\/12762\/243",
+    "updated":"2025-02-24T12:01:08.235464Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/62708\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51657,8 +51657,8 @@
   },
   {
     "sat_id":"JQZZ-7952-6075-7313-4040",
-    "norad_cat_id":98690.0,
-    "norad_follow_id":62612.0,
+    "norad_cat_id":62671.0,
+    "norad_follow_id":null,
     "name":"SKYBEE-A01",
     "names":"HiVE",
     "image":"",
@@ -51672,8 +51672,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-13T15:30:27.158659Z",
-    "citation":"PE2BZ strf observations",
+    "updated":"2025-02-24T11:51:19.629056Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "XSMG-1621-6430-4707-7637"
@@ -51681,10 +51681,10 @@
   },
   {
     "sat_id":"TWNM-5792-3572-2700-3224",
-    "norad_cat_id":98689.0,
+    "norad_cat_id":62610.0,
     "norad_follow_id":null,
-    "name":"EDISON IOD",
-    "names":"",
+    "name":"EDISON-1",
+    "names":"EDISON IOD",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -51696,11 +51696,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.755007Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T10:56:43.856483Z",
+    "citation":"Swap name with alternative name",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "GPYU-3446-8149-8623-1166"
     ]
   },
   {
@@ -51753,7 +51753,7 @@
   },
   {
     "sat_id":"VKIK-6588-2179-0398-0588",
-    "norad_cat_id":98686.0,
+    "norad_cat_id":62701.0,
     "norad_follow_id":null,
     "name":"FIREFLY-1",
     "names":"",
@@ -51768,8 +51768,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.653013Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:58:20.222847Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51777,7 +51777,7 @@
   },
   {
     "sat_id":"GGJV-0148-1387-4167-9717",
-    "norad_cat_id":98685.0,
+    "norad_cat_id":62704.0,
     "norad_follow_id":null,
     "name":"FIREFLY-2",
     "names":"",
@@ -51792,8 +51792,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.308741Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:58:52.999111Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51801,7 +51801,7 @@
   },
   {
     "sat_id":"SGFV-2727-7630-2992-8030",
-    "norad_cat_id":98684.0,
+    "norad_cat_id":62710.0,
     "norad_follow_id":null,
     "name":"FIREFLY-3",
     "names":"",
@@ -51816,8 +51816,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.803602Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T12:03:37.938697Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51849,7 +51849,7 @@
   },
   {
     "sat_id":"QUNZ-3626-5921-8463-0434",
-    "norad_cat_id":98682.0,
+    "norad_cat_id":62676.0,
     "norad_follow_id":null,
     "name":"FOSSASAT-2E19",
     "names":"",
@@ -51864,8 +51864,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.872376Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:52:51.183169Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51897,7 +51897,7 @@
   },
   {
     "sat_id":"QTGQ-6893-2952-9033-4168",
-    "norad_cat_id":98680.0,
+    "norad_cat_id":62612.0,
     "norad_follow_id":null,
     "name":"GESAT GEN1",
     "names":"",
@@ -51908,12 +51908,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.897988Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:40:11.259410Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/62612\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51921,7 +51921,7 @@
   },
   {
     "sat_id":"GXTP-0999-2493-4954-5056",
-    "norad_cat_id":98679.0,
+    "norad_cat_id":62673.0,
     "norad_follow_id":null,
     "name":"IMPULSE-2 MIRA",
     "names":"",
@@ -51936,8 +51936,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.291499Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:52:05.321414Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51945,7 +51945,7 @@
   },
   {
     "sat_id":"NZXL-7963-6359-3424-9666",
-    "norad_cat_id":98678.0,
+    "norad_cat_id":62697.0,
     "norad_follow_id":null,
     "name":"IRIDE-MS2-HEO-1",
     "names":"HEO Pathfinder (a.k.a. Patricio)",
@@ -51960,8 +51960,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-06T11:39:05.435386Z",
-    "citation":"https:\/\/argotecgroup.com\/missions\/earth-orbits\/heo",
+    "updated":"2025-02-24T11:56:49.410660Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51993,8 +51993,8 @@
   },
   {
     "sat_id":"FJEH-8509-1736-7936-8017",
-    "norad_cat_id":98676.0,
-    "norad_follow_id":62619.0,
+    "norad_cat_id":62619.0,
+    "norad_follow_id":null,
     "name":"IRIS-F3",
     "names":"",
     "image":"",
@@ -52008,8 +52008,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-16T20:11:16.006048Z",
-    "citation":"PE2BZ strf observation, it may be IRIS-F2",
+    "updated":"2025-02-24T11:44:17.080378Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52017,7 +52017,7 @@
   },
   {
     "sat_id":"BKFK-7507-6218-6634-1996",
-    "norad_cat_id":98675.0,
+    "norad_cat_id":62648.0,
     "norad_follow_id":null,
     "name":"LIME",
     "names":"",
@@ -52032,8 +52032,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.435579Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:48:38.698132Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52065,7 +52065,7 @@
   },
   {
     "sat_id":"QWVC-8369-3092-0760-9890",
-    "norad_cat_id":98673.0,
+    "norad_cat_id":62653.0,
     "norad_follow_id":null,
     "name":"PAUSAT1",
     "names":"",
@@ -52080,8 +52080,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.852283Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:49:21.925766Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52089,7 +52089,7 @@
   },
   {
     "sat_id":"BOOP-6845-2073-4291-2087",
-    "norad_cat_id":98672.0,
+    "norad_cat_id":62627.0,
     "norad_follow_id":null,
     "name":"RAY-1",
     "names":"",
@@ -52104,8 +52104,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.418287Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:46:11.540196Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52137,10 +52137,10 @@
   },
   {
     "sat_id":"ZMVZ-6621-3817-8557-8217",
-    "norad_cat_id":98670.0,
+    "norad_cat_id":62617.0,
     "norad_follow_id":null,
-    "name":"SCOT",
-    "names":"",
+    "name":"SCOT-1",
+    "names":"SCOT",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -52152,8 +52152,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.566438Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:43:25.685763Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52209,7 +52209,7 @@
   },
   {
     "sat_id":"ZLBR-3633-2309-9357-4429",
-    "norad_cat_id":98667.0,
+    "norad_cat_id":62632.0,
     "norad_follow_id":null,
     "name":"SIGI",
     "names":"",
@@ -52224,8 +52224,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.583470Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:47:29.803104Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52257,7 +52257,7 @@
   },
   {
     "sat_id":"VYDU-6291-3888-2654-1098",
-    "norad_cat_id":98665.0,
+    "norad_cat_id":62658.0,
     "norad_follow_id":null,
     "name":"TROLL",
     "names":"",
@@ -52272,8 +52272,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.634435Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T11:49:59.642363Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52305,7 +52305,7 @@
   },
   {
     "sat_id":"ZYGH-6854-8968-3413-9554",
-    "norad_cat_id":98663.0,
+    "norad_cat_id":63004.0,
     "norad_follow_id":null,
     "name":"BLUEBON",
     "names":"",
@@ -52320,8 +52320,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.534421Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T12:07:57.891331Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52329,7 +52329,7 @@
   },
   {
     "sat_id":"TVMZ-2332-3454-6429-1922",
-    "norad_cat_id":98662.0,
+    "norad_cat_id":63003.0,
     "norad_follow_id":null,
     "name":"FOSSASAT-2E20",
     "names":"",
@@ -52344,8 +52344,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.772266Z",
-    "citation":"Change Status",
+    "updated":"2025-02-24T12:07:34.116410Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
