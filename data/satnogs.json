@@ -53142,5 +53142,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"OIRQ-4478-3940-2632-7996",
+    "norad_cat_id":98650.0,
+    "norad_follow_id":null,
+    "name":"JINJUSat-1B",
+    "names":"",
+    "image":"satellites\/JINJUSat-1B.JPG",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-03T00:00:00Z",
+    "deployed":"2025-03-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-02-25T10:01:00.699663Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
   }
 ]

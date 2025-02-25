@@ -12871,7 +12871,7 @@
   },
   {
     "name":"Parus-T1",
-    "norad_id":null,
+    "norad_id":"62621",
     "uplink":null,
     "downlink":"145.825\/436.850",
     "beacon":null,
