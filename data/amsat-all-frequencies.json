@@ -2120,7 +2120,7 @@
     "mode":"1k2AFSK FM APRS SSTV",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"UCVR-0643-6863-2318-5100"
   },
   {
     "name":"BGS-ARPIT",
@@ -2131,7 +2131,7 @@
     "mode":"300k\/525kBPSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"UCVR-0643-6863-2318-5100"
   },
   {
     "name":"BHUTAN-1",
@@ -4782,7 +4782,7 @@
     "mode":"9600bps GFSK",
     "callsign":"WX9XKR",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"VWXG-4101-0824-5480-8078"
   },
   {
     "name":"CTIM-FD",
@@ -5431,7 +5431,7 @@
     "mode":"2400bps FSK",
     "callsign":"DJIB1B",
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"NRVY-4784-2439-1767-3301"
   },
   {
     "name":"Dodona",
@@ -13516,7 +13516,7 @@
     "mode":"1k2AFSK FM APRS SSTV",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"UCVR-0643-6863-2318-5100"
   },
   {
     "name":"PolyITAN-1",
