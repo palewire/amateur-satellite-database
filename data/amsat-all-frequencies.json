@@ -595,7 +595,7 @@
   },
   {
     "name":"ANSER-Leaser-S",
-    "norad_id":null,
+    "norad_id":"62644",
     "uplink":null,
     "downlink":"401.850\/2204.525",
     "beacon":null,
@@ -2498,14 +2498,14 @@
   },
   {
     "name":"BlueBon",
-    "norad_id":null,
+    "norad_id":"63004",
     "uplink":null,
     "downlink":"400.850",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ZYGH-6854-8968-3413-9554"
   },
   {
     "name":"BlueWalker-3",
@@ -7426,14 +7426,14 @@
   },
   {
     "name":"GITAI-SC1",
-    "norad_id":null,
+    "norad_id":"62388",
     "uplink":null,
     "downlink":"2264.000",
     "beacon":null,
     "mode":"32k_FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"IFBU-4266-8266-9018-9039"
   },
   {
     "name":"Goliat",
@@ -9131,14 +9131,14 @@
   },
   {
     "name":"Jackal-3",
-    "norad_id":null,
+    "norad_id":"62378",
     "uplink":null,
     "downlink":"2205.000\/2282.500",
     "beacon":null,
-    "mode":"196k8_BPSK\/13k1_QPSK",
+    "mode":"196k8_BPSK\/131k_QPSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JUDZ-1871-2122-6939-3208"
   },
   {
     "name":"Jackal-X-1L-001",
@@ -10275,14 +10275,14 @@
   },
   {
     "name":"LIZZIESAT-2",
-    "norad_id":null,
+    "norad_id":"62383",
     "uplink":null,
     "downlink":"2201.250\/2262.250",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"XZYN-7948-2944-3246-2882"
   },
   {
     "name":"LOGSATS",
@@ -14070,7 +14070,7 @@
   },
   {
     "name":"QPS-SAR-8",
-    "norad_id":null,
+    "norad_id":"60542",
     "uplink":null,
     "downlink":"2254.000",
     "beacon":null,
@@ -18250,14 +18250,14 @@
   },
   {
     "name":"TANSTAAFL-2",
-    "norad_id":null,
+    "norad_id":"62378",
     "uplink":null,
     "downlink":"2205.000\/2282.500",
     "beacon":null,
-    "mode":"196k8_BPSK\/13k1_QPSK",
+    "mode":"196k8_BPSK\/131k_QPSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JUDZ-1871-2122-6939-3208"
   },
   {
     "name":"Tanusha-SWSU-1",
@@ -20626,14 +20626,14 @@
   },
   {
     "name":"XCUBE-1",
-    "norad_id":null,
+    "norad_id":"62400",
     "uplink":null,
     "downlink":"2245.000",
     "beacon":null,
     "mode":"40k_BPSK FM",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"WLLD-6431-3264-3474-6147"
   },
   {
     "name":"Xiaoxiang-1",

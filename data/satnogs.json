@@ -52021,19 +52021,19 @@
     "norad_follow_id":null,
     "name":"LIME",
     "names":"",
-    "image":"",
+    "image":"satellites\/LIME.png",
     "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.novillc.com",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-02-24T11:48:38.698132Z",
-    "citation":"space-track.org",
+    "updated":"2025-02-26T10:42:03.198806Z",
+    "citation":"add picture and webside",
     "is_frequency_violator":false,
     "associated_satellites":[
 
