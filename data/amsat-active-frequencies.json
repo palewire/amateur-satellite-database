@@ -2041,13 +2041,13 @@
   },
   {
     "name":"LEV-1",
-    "norad_id":null,
+    "norad_id":"57800",
     "uplink":null,
     "downlink":"437.410",
     "beacon":"2212.000",
     "mode":"CW",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"OOWE-8073-4789-5817-7258"
   },
   {
     "name":"LilacSat-2",
@@ -3301,13 +3301,13 @@
   },
   {
     "name":"SLIM",
-    "norad_id":null,
+    "norad_id":"57800",
     "uplink":null,
     "downlink":"437.410",
     "beacon":"2212.000",
     "mode":"CW",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"OOWE-8073-4789-5817-7258"
   },
   {
     "name":"SMOG-1",

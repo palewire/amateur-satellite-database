@@ -53128,16 +53128,16 @@
     "image":"satellites\/EPIC_CHIMERA_GEO_1.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2025-02-27T00:16:00Z",
+    "deployed":"2025-02-27T01:04:08Z",
     "website":"https:\/\/epic-aerospace.com\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-02-24T22:52:35.131961Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/328",
+    "updated":"2025-02-27T00:01:06.504025Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-intuitive-machines-im-2-ksc-lc-39a-2025-02-27-00-17-utc\/12952\/3",
     "is_frequency_violator":false,
     "associated_satellites":[
 
