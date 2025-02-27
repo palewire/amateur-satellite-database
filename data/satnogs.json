@@ -19204,10 +19204,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -52305,7 +52305,7 @@
   },
   {
     "sat_id":"ZYGH-6854-8968-3413-9554",
-    "norad_cat_id":63004.0,
+    "norad_cat_id":62688.0,
     "norad_follow_id":null,
     "name":"BLUEBON",
     "names":"",
@@ -52320,7 +52320,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-24T12:07:57.891331Z",
+    "updated":"2025-02-27T10:53:01.783442Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53163,6 +53163,30 @@
     "updated":"2025-02-25T10:01:00.699663Z",
     "citation":"Add temporary NORAD ID",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EIMJ-7218-5731-0051-6767",
+    "norad_cat_id":63027.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL 31",
+    "names":"2025-033B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-02-18T00:00:00Z",
+    "deployed":"2025-02-18T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-02-27T11:47:24.736792Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1JqlOzEAIzKcUdETL6eU40gxbZ2YzKqCDcRnw4PHyC04\/edit?usp=sharing",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
