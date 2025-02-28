@@ -2530,6 +2530,17 @@
     "satnogs_id":"RNBQ-9045-6623-3650-8949"
   },
   {
+    "name":"BOTAN",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BO-47",
     "norad_id":"27422",
     "uplink":null,
@@ -7225,6 +7236,17 @@
     "callsign":"JS1YNI",
     "status":"re-entered",
     "satnogs_id":"JFWC-2606-2022-6839-3095"
+  },
+  {
+    "name":"Gardens-04",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8GMSK APRS CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"GASPACS",
