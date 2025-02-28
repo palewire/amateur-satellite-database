@@ -2498,14 +2498,14 @@
   },
   {
     "name":"BlueBon",
-    "norad_id":"63004",
+    "norad_id":"62688",
     "uplink":null,
     "downlink":"400.850",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ZYGH-6854-8968-3413-9554"
   },
   {
     "name":"BlueWalker-3",
