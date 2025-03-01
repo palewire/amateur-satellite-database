@@ -10688,7 +10688,7 @@
     "beacon":"437.375",
     "mode":"1k2APRS 4k8*GMSK CW",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"DWOE-5467-4122-7963-0240"
   },
   {
@@ -10699,7 +10699,7 @@
     "beacon":"437.375",
     "mode":"1k2APRS 4k8*GMSK CW",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"BSOI-4945-7290-6798-4904"
   },
   {
@@ -17581,9 +17581,9 @@
     "name":"StratoSat-TK1-A",
     "norad_id":"57322",
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.260",
     "beacon":"435.060",
-    "mode":"CW 20",
+    "mode":"LoRa CW",
     "callsign":"RS45S",
     "status":"unknown",
     "satnogs_id":"TPFJ-8515-0586-8488-7013"

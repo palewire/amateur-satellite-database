@@ -2100,26 +2100,6 @@
     "satnogs_id":"TVOC-6469-7409-1625-2760"
   },
   {
-    "name":"Maya-5",
-    "norad_id":"57420",
-    "uplink":"145.825",
-    "downlink":"145.825\/437.375",
-    "beacon":"437.375",
-    "mode":"1k2APRS 4k8*GMSK CW",
-    "callsign":null,
-    "satnogs_id":"DWOE-5467-4122-7963-0240"
-  },
-  {
-    "name":"Maya-6",
-    "norad_id":"57419",
-    "uplink":"145.825",
-    "downlink":"145.825\/437.375",
-    "beacon":"437.375",
-    "mode":"1k2APRS 4k8*GMSK CW",
-    "callsign":null,
-    "satnogs_id":"BSOI-4945-7290-6798-4904"
-  },
-  {
     "name":"MCubed-2",
     "norad_id":"39472",
     "uplink":null,
