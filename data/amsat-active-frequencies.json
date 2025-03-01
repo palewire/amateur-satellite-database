@@ -3515,39 +3515,39 @@
     "uplink":null,
     "downlink":"435.870",
     "beacon":null,
-    "mode":"9k6 GMSK",
+    "mode":"9k6 GFSK",
     "callsign":"RS52S",
     "satnogs_id":"BQFG-5755-4293-7808-3570"
   },
   {
-    "name":"StratoSat-TK1 picosat-B",
-    "norad_id":"57200",
+    "name":"StratoSat-TK1-B",
+    "norad_id":"57324",
     "uplink":null,
-    "downlink":"436.260",
+    "downlink":"435.260",
     "beacon":null,
-    "mode":"LoRa",
+    "mode":"9k6 FSK LoRa",
     "callsign":"RS52SB",
-    "satnogs_id":"ZWQX-0507-9428-9365-8363"
+    "satnogs_id":"IIPF-8054-8479-1405-9998"
   },
   {
-    "name":"StratoSat-TK1 picosat-E",
-    "norad_id":"57176",
+    "name":"StratoSat-TK1-E",
+    "norad_id":"57323",
     "uplink":null,
-    "downlink":"436.260",
+    "downlink":"435.260",
     "beacon":null,
-    "mode":"LoRa",
+    "mode":"9k6 FSK LoRa",
     "callsign":"RS52SE",
-    "satnogs_id":"NRAD-4746-6573-1238-7533"
+    "satnogs_id":"KANX-6033-2616-0861-1048"
   },
   {
-    "name":"StratoSat-TK1 picosat-V",
-    "norad_id":"57169",
+    "name":"StratoSat-TK1-V",
+    "norad_id":"57327",
     "uplink":null,
-    "downlink":"436.260",
+    "downlink":"435.260",
     "beacon":null,
-    "mode":"LoRa",
+    "mode":"9k6 FSK LoRa",
     "callsign":"RS52SV",
-    "satnogs_id":null
+    "satnogs_id":"XCGJ-2096-8947-1485-0184"
   },
   {
     "name":"Suomi-100",
