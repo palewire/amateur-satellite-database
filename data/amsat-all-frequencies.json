@@ -17585,7 +17585,7 @@
     "beacon":"435.060",
     "mode":"LoRa CW",
     "callsign":"RS45S",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"TPFJ-8515-0586-8488-7013"
   },
   {
@@ -17607,7 +17607,7 @@
     "beacon":null,
     "mode":"9k6 FSK LoRa",
     "callsign":"RS52SD",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"LHKG-2370-4970-1896-6067"
   },
   {
@@ -17629,7 +17629,7 @@
     "beacon":null,
     "mode":"9k6 FSK LoRa",
     "callsign":"RS52SG",
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"HDIN-9074-4089-8994-4974"
   },
   {
@@ -17640,7 +17640,7 @@
     "beacon":null,
     "mode":"9k6 FSK LoRa",
     "callsign":"RS52SV",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"XCGJ-2096-8947-1485-0184"
   },
   {

@@ -3520,16 +3520,6 @@
     "satnogs_id":"KANX-6033-2616-0861-1048"
   },
   {
-    "name":"StratoSat-TK1-V",
-    "norad_id":"57327",
-    "uplink":null,
-    "downlink":"435.260",
-    "beacon":null,
-    "mode":"9k6 FSK LoRa",
-    "callsign":"RS52SV",
-    "satnogs_id":"XCGJ-2096-8947-1485-0184"
-  },
-  {
     "name":"Suomi-100",
     "norad_id":"43804",
     "uplink":null,
