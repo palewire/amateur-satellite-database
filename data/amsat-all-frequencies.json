@@ -14253,7 +14253,7 @@
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"REUD-7904-3179-3406-5877"
   },
   {
     "name":"R5-S4",
@@ -15716,7 +15716,7 @@
     "mode":"4800bps GFSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"GDPS-1527-9538-4129-7581"
   },
   {
     "name":"SERPENS",

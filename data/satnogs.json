@@ -45360,7 +45360,7 @@
   {
     "sat_id":"WRQD-3611-7297-1682-8367",
     "norad_cat_id":98887.0,
-    "norad_follow_id":60208.0,
+    "norad_follow_id":60204.0,
     "name":"SOC-i",
     "names":"",
     "image":"satellites\/SOC-i.png",
@@ -45374,8 +45374,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-24T21:22:37.554610Z",
-    "citation":"Random NORAD ID to follow",
+    "updated":"2025-03-03T09:29:26.202592Z",
+    "citation":"Random choice based on https:\/\/community.libre.space\/t\/tle-issue-soc-i-98887\/12970\/2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45431,8 +45431,8 @@
   },
   {
     "sat_id":"IITE-3822-1649-0687-2055",
-    "norad_cat_id":98885.0,
-    "norad_follow_id":60208.0,
+    "norad_cat_id":60207.0,
+    "norad_follow_id":null,
     "name":"R5-S2-2.0",
     "names":"",
     "image":"",
@@ -45446,8 +45446,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-06T17:35:05.885190Z",
-    "citation":"Change randomly NORAD ID to follow, related with the position of received MESAT-1",
+    "updated":"2025-03-03T09:24:39.559312Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45455,8 +45455,8 @@
   },
   {
     "sat_id":"REUD-7904-3179-3406-5877",
-    "norad_cat_id":98884.0,
-    "norad_follow_id":60208.0,
+    "norad_cat_id":60208.0,
+    "norad_follow_id":null,
     "name":"TechEdSat-11",
     "names":"TES-11",
     "image":"",
@@ -45470,7 +45470,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T15:05:36.573506Z",
+    "updated":"2025-03-03T09:25:41.605004Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -45479,8 +45479,8 @@
   },
   {
     "sat_id":"GDPS-1527-9538-4129-7581",
-    "norad_cat_id":98883.0,
-    "norad_follow_id":60204.0,
+    "norad_cat_id":60206.0,
+    "norad_follow_id":null,
     "name":"R5-S4",
     "names":"",
     "image":"",
@@ -45494,8 +45494,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-23T17:48:44.590587Z",
-    "citation":"Random NORAD ID to follow",
+    "updated":"2025-03-03T09:23:48.313946Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53186,6 +53186,78 @@
     ],
     "updated":"2025-02-27T11:47:24.736792Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1JqlOzEAIzKcUdETL6eU40gxbZ2YzKqCDcRnw4PHyC04\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XGQN-0763-0835-9355-9632",
+    "norad_cat_id":46496.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X7",
+    "names":"2020-068L",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-09-28T00:00:00Z",
+    "deployed":"2020-09-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-03T09:33:59.364979Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1VXK8G6R0IBSFQBb0zzIs7yBtewU7xFSZm63G1JsLQDs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XDQS-6013-3638-0881-3326",
+    "norad_cat_id":98649.0,
+    "norad_follow_id":null,
+    "name":"SamSat-Orion",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-03T09:33:45.968886Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1017",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NEFX-0140-3722-5286-7867",
+    "norad_cat_id":60539.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X43",
+    "names":"2024-149BZ",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-08-16T00:00:00Z",
+    "deployed":"2024-08-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-03T09:32:36.740863Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/191yw5ZwH4OrPwyVPNHEgvR2hYZORNrUYWqdBFolCOmo\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
