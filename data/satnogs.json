@@ -3340,22 +3340,22 @@
     "norad_cat_id":40042.0,
     "norad_follow_id":null,
     "name":"POLYITAN-1",
-    "names":"",
+    "names":"EM0UKP",
     "image":"satellites\/polyitan.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2014-06-19T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"http:\/\/www.cubesat.org.ua\/en\/sitemap-en",
     "operator":"None",
-    "countries":"",
+    "countries":"UA",
     "telemetries":[
       {
         "decoder":"polyitan1"
       }
     ],
-    "updated":"2021-07-21T10:11:42.194176Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-03-02T15:54:18.449870Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19204,10 +19204,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
