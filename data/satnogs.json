@@ -51346,7 +51346,7 @@
   {
     "sat_id":"UCZO-3697-9016-2037-7134",
     "norad_cat_id":98707.0,
-    "norad_follow_id":62621.0,
+    "norad_follow_id":null,
     "name":"PARUS-T1",
     "names":"BN0TIT, \u5c71\u96c0-T1",
     "image":"satellites\/PARUS-T1.jpg",
@@ -51360,8 +51360,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-24T12:27:57.647724Z",
-    "citation":"assign candidate based on other suggestions",
+    "updated":"2025-03-04T08:54:50.568176Z",
+    "citation":"Removing NORAD ID we follow to manually track the satellite",
     "is_frequency_violator":false,
     "associated_satellites":[
 

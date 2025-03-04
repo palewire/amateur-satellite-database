@@ -2143,7 +2143,7 @@ MZLN-3720-3320-1573-6997,62695.0,,ConnectaIoT-8,,satellites/IoT_01_irzzc9K_fV03B
 IMIN-5614-5566-5816-9152,62616.0,,INNOCUBE,TUBSAT-31,satellites/INNOCUBE.png,alive,,2025-01-14T18:49:00Z,,https://www.tu.berlin/en/raumfahrttechnik/research/current-projects/innocube,TU Berlin,DE,[],2025-02-24T11:42:11.663609Z,space-track.org,False,[]
 EIPI-1482-6978-9759-4787,62690.0,,HADES-R,SO-124,satellites/HADES-R.jpg,alive,,2025-01-14T18:49:00Z,,https://www.amsat-ea.org/,None,ES,[{'decoder': 'hadesr'}],2025-02-24T11:21:49.101560Z,https://www.amsat-ea.org/,False,['VGLN-5415-2707-6177-5396']
 ODBU-7441-1792-6088-6314,62687.0,,HYPE,,satellites/satlab_misja_HYPE_naszywka_RGB.png,alive,,2025-01-14T18:49:00Z,,https://satlab.agh.edu.pl/nasze-projekty/,None,PL,[{'decoder': 'hype'}],2025-02-24T11:53:56.054549Z,space-track.org,False,['UEYD-9775-4497-0700-7697']
-UCZO-3697-9016-2037-7134,98707.0,62621.0,PARUS-T1,"BN0TIT, 山雀-T1",satellites/PARUS-T1.jpg,alive,,2025-01-14T18:49:00Z,,,None,TW,[],2025-02-24T12:27:57.647724Z,assign candidate based on other suggestions,False,[]
+UCZO-3697-9016-2037-7134,98707.0,,PARUS-T1,"BN0TIT, 山雀-T1",satellites/PARUS-T1.jpg,alive,,2025-01-14T18:49:00Z,,,None,TW,[],2025-03-04T08:54:50.568176Z,Removing NORAD ID we follow to manually track the satellite,False,[]
 HNKQ-3878-6919-5321-0117,98706.0,,POQUITO,,satellites/003.jpg,alive,,2025-01-14T18:49:00Z,,,None,LU,[],2025-01-14T18:49:15.254667Z,Change Status,False,[]
 JATP-9449-2569-0105-0544,98705.0,,PROMETHEUS-1,,,alive,,2025-01-14T18:49:00Z,,,None,PT,[],2025-01-14T18:49:15.179726Z,Change Status,False,[]
 LKHA-6040-0473-3608-3062,98704.0,,HCT-SAT1,,satellites/HCT-SAT-1.png,alive,,2025-01-14T18:49:00Z,,,None,AE,[],2025-01-14T18:49:15.026261Z,Change Status,True,[]
