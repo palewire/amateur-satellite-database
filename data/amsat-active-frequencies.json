@@ -460,56 +460,6 @@
     "satnogs_id":"WMGA-3000-1529-8035-2634"
   },
   {
-    "name":"CAS-3B",
-    "norad_id":"40911",
-    "uplink":"435.090-435.110",
-    "downlink":"145.750-145.730",
-    "beacon":"145.705\/145.725",
-    "mode":"9k6\/19k2 GMSK\/CW*",
-    "callsign":"BJ1SC",
-    "satnogs_id":"TZEC-4580-2722-6773-9216"
-  },
-  {
-    "name":"CAS-3C",
-    "norad_id":"40906",
-    "uplink":"435.150-435.170",
-    "downlink":"145.815-145.795",
-    "beacon":"145.770\/145.790",
-    "mode":"9k6\/19k2 GMSK\/CW*",
-    "callsign":"BJ1SD",
-    "satnogs_id":"LEDR-0123-1783-1341-9342"
-  },
-  {
-    "name":"CAS-3D",
-    "norad_id":"40907",
-    "uplink":"435.210-435.230",
-    "downlink":"145.880-145.860",
-    "beacon":"145.835\/145.855",
-    "mode":"9k6\/19k2 GMSK\/CW*",
-    "callsign":"BJ1SE",
-    "satnogs_id":"TPLI-0230-3137-9154-3991"
-  },
-  {
-    "name":"CAS-3E",
-    "norad_id":"40909",
-    "uplink":"435.270-435.290",
-    "downlink":"145.935-145.915",
-    "beacon":"145.890\/145.910",
-    "mode":"9k6 GMSK\/CW*",
-    "callsign":"BJ1SF",
-    "satnogs_id":"DTZR-4707-4114-9612-3004"
-  },
-  {
-    "name":"CAS-3F",
-    "norad_id":"40910",
-    "uplink":"435.330-435.350",
-    "downlink":"146.000-145.980",
-    "beacon":"145.955\/145.975",
-    "mode":"9k6 GMSK\/CW*",
-    "callsign":"BJ1SG",
-    "satnogs_id":"YWAV-5902-3690-5734-3273"
-  },
-  {
     "name":"CAS-3H",
     "norad_id":"40908",
     "uplink":"145.825\/145.875",
@@ -518,16 +468,6 @@
     "mode":"1k2\/4k8*\/9k6 FSK APRS FM",
     "callsign":"BJ1SI",
     "satnogs_id":"AHVS-7983-8710-8819-8034"
-  },
-  {
-    "name":"CAS-3I",
-    "norad_id":"40900",
-    "uplink":null,
-    "downlink":"437.300",
-    "beacon":null,
-    "mode":"9k6 GFSK",
-    "callsign":"BJ1SJ",
-    "satnogs_id":"PDYY-8479-0832-6941-1000"
   },
   {
     "name":"CAS-4B",
@@ -3858,46 +3798,6 @@
     "mode":"CW",
     "callsign":"BJ1SA",
     "satnogs_id":"JJGC-7637-4682-0934-3692"
-  },
-  {
-    "name":"XW-2B",
-    "norad_id":"40911",
-    "uplink":"435.090-435.110",
-    "downlink":"145.750-145.730",
-    "beacon":"145.705\/145.725",
-    "mode":"9k6\/19k2 GMSK\/CW*",
-    "callsign":"BJ1SC",
-    "satnogs_id":"TZEC-4580-2722-6773-9216"
-  },
-  {
-    "name":"XW-2C",
-    "norad_id":"40906",
-    "uplink":"435.150-435.170",
-    "downlink":"145.815-145.795",
-    "beacon":"145.770\/145.790",
-    "mode":"9k6\/19k2 GMSK\/CW*",
-    "callsign":"BJ1SD",
-    "satnogs_id":"LEDR-0123-1783-1341-9342"
-  },
-  {
-    "name":"XW-2D",
-    "norad_id":"40907",
-    "uplink":"435.210-435.230",
-    "downlink":"145.880-145.860",
-    "beacon":"145.835\/145.855",
-    "mode":"9k6\/19k2 GMSK\/CW*",
-    "callsign":"BJ1SE",
-    "satnogs_id":"TPLI-0230-3137-9154-3991"
-  },
-  {
-    "name":"XW-2E",
-    "norad_id":"40909",
-    "uplink":"435.270-435.290",
-    "downlink":"145.935-145.915",
-    "beacon":"145.890\/145.910",
-    "mode":"9k6 GMSK\/CW*",
-    "callsign":"BJ1SF",
-    "satnogs_id":"DTZR-4707-4114-9612-3004"
   },
   {
     "name":"XW-3",

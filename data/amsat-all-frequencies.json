@@ -3131,7 +3131,7 @@
     "beacon":"145.705\/145.725",
     "mode":"9k6\/19k2 GMSK\/CW*",
     "callsign":"BJ1SC",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"TZEC-4580-2722-6773-9216"
   },
   {
@@ -3142,7 +3142,7 @@
     "beacon":"145.770\/145.790",
     "mode":"9k6\/19k2 GMSK\/CW*",
     "callsign":"BJ1SD",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"LEDR-0123-1783-1341-9342"
   },
   {
@@ -3153,7 +3153,7 @@
     "beacon":"145.835\/145.855",
     "mode":"9k6\/19k2 GMSK\/CW*",
     "callsign":"BJ1SE",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"TPLI-0230-3137-9154-3991"
   },
   {
@@ -3164,7 +3164,7 @@
     "beacon":"145.890\/145.910",
     "mode":"9k6 GMSK\/CW*",
     "callsign":"BJ1SF",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"DTZR-4707-4114-9612-3004"
   },
   {
@@ -3175,7 +3175,7 @@
     "beacon":"145.955\/145.975",
     "mode":"9k6 GMSK\/CW*",
     "callsign":"BJ1SG",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"YWAV-5902-3690-5734-3273"
   },
   {
@@ -3208,7 +3208,7 @@
     "beacon":null,
     "mode":"9k6 GFSK",
     "callsign":"BJ1SJ",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"PDYY-8479-0832-6941-1000"
   },
   {
@@ -18630,7 +18630,7 @@
     "beacon":null,
     "mode":"9600bps BPSK* FM",
     "callsign":"T1OFK",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"LGQA-5372-5302-5624-9737"
   },
   {
@@ -18641,7 +18641,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T2YRC",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"GZOH-6912-3361-0211-8264"
   },
   {
@@ -18652,7 +18652,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T3TYB",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"LEAV-8991-5988-2220-6884"
   },
   {
@@ -18663,7 +18663,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T4ATA",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"MVWM-0813-4348-1031-3202"
   },
   {
@@ -18696,7 +18696,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM*",
     "callsign":"T7ADM",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"CIFL-5741-4177-0610-3533"
   },
   {
@@ -18707,7 +18707,7 @@
     "beacon":null,
     "mode":"9600bps BPSK* FM",
     "callsign":"T8GBS",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"VNEP-7767-9055-3195-4316"
   },
   {
@@ -20764,7 +20764,7 @@
     "beacon":"145.705\/145.725",
     "mode":"9k6\/19k2 GMSK\/CW*",
     "callsign":"BJ1SC",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"TZEC-4580-2722-6773-9216"
   },
   {
@@ -20775,7 +20775,7 @@
     "beacon":"145.770\/145.790",
     "mode":"9k6\/19k2 GMSK\/CW*",
     "callsign":"BJ1SD",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"LEDR-0123-1783-1341-9342"
   },
   {
@@ -20786,7 +20786,7 @@
     "beacon":"145.835\/145.855",
     "mode":"9k6\/19k2 GMSK\/CW*",
     "callsign":"BJ1SE",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"TPLI-0230-3137-9154-3991"
   },
   {
@@ -20797,7 +20797,7 @@
     "beacon":"145.890\/145.910",
     "mode":"9k6 GMSK\/CW*",
     "callsign":"BJ1SF",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"DTZR-4707-4114-9612-3004"
   },
   {
