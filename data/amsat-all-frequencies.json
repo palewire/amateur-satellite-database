@@ -7887,6 +7887,17 @@
     "satnogs_id":null
   },
   {
+    "name":"HERMES-Pathfinder",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"HERON-Mk-II",
     "norad_id":null,
     "uplink":null,
@@ -20205,6 +20216,17 @@
     "callsign":"LATMOS-1",
     "status":"re-entered",
     "satnogs_id":"VFOS-7446-8140-1963-2095"
+  },
+  {
+    "name":"UVSQ-SAT-NG",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.850\/2208.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"UWE-1",
