@@ -19204,10 +19204,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -53268,20 +53268,20 @@
     "norad_cat_id":98648.0,
     "norad_follow_id":null,
     "name":"Buccaneer MM",
-    "names":"",
-    "image":"",
+    "names":"Buccaneer Main Mission",
+    "image":"satellites\/Buccaneer-Main-Mission-CubeSat-with-UHF-antenna-gold-part-of-HF-antenna-green_Ev5MKW5.jpg",
     "status":"future",
     "decayed":null,
     "launched":null,
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.dst.defence.gov.au\/",
     "operator":"None",
-    "countries":"",
+    "countries":"AU",
     "telemetries":[
 
     ],
-    "updated":"2025-03-06T13:10:11.648733Z",
-    "citation":"Satellite Team",
+    "updated":"2025-03-07T07:59:10.735456Z",
+    "citation":"https:\/\/www.researchgate.net\/publication\/375138293_Deployable_optics_for_the_Buccaneer_Main_Mission_BMM",
     "is_frequency_violator":false,
     "associated_satellites":[
 
