@@ -3878,8 +3878,8 @@
     "name":"XW-2C",
     "names":"CAS-3C; BJ1SD",
     "image":"satellites\/XW-2C.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-17T00:00:00Z",
     "launched":"2015-09-19T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/amsat-uk.org\/satellites\/comms\/camsat-xw-2\/",
@@ -3888,8 +3888,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:54:08.538215Z",
-    "citation":"https:\/\/amsat-uk.org\/satellites\/comms\/camsat-xw-2\/",
+    "updated":"2025-03-08T10:30:33.805621Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=40906",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -19204,10 +19204,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -26518,8 +26518,8 @@
     "name":"CAS-5A",
     "names":"FO-118, Fengtai-OSCAR 118, CAMSAT",
     "image":"satellites\/CAS-5A_\u56fe4_AaG5mO1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-03-06T00:00:00Z",
     "launched":"2022-12-09T06:35:00Z",
     "deployed":"2022-12-09T06:35:00Z",
     "website":"",
@@ -26530,8 +26530,8 @@
         "decoder":"cas5a"
       }
     ],
-    "updated":"2023-03-07T01:33:29.586705Z",
-    "citation":"Fix dashboard link",
+    "updated":"2025-03-08T10:33:46.294147Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=54684",
     "is_frequency_violator":false,
     "associated_satellites":[
       "UFRH-3475-3339-9474-7463"
