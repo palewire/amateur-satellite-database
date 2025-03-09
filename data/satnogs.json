@@ -10822,8 +10822,8 @@
     "name":"YARILO-1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-03-07T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -10832,8 +10832,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.832502Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-03-09T07:57:00.595714Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=46490",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19204,10 +19204,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",

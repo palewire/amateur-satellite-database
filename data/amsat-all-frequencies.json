@@ -2827,6 +2827,17 @@
     "satnogs_id":"PIHV-8715-3112-5892-6258"
   },
   {
+    "name":"Buccaneer-MM",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.800",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BugSat-1",
     "norad_id":"40014",
     "uplink":null,
@@ -9303,6 +9314,17 @@
     "mode":"9600bps BPSK",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"JINJUSAT-1B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.185",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
