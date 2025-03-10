@@ -956,7 +956,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"co57"
+      }
     ],
     "updated":"2022-08-01T11:31:17.649372Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
@@ -1502,20 +1504,20 @@
     "norad_cat_id":33498.0,
     "norad_follow_id":null,
     "name":"STARS",
-    "names":"KUKAI-GENNAI mother and daughter",
+    "names":"KUKAI: Mother (Parents) JR5YBN, Daughter (Child) JR5YBO",
     "image":"satellites\/STARS-1.2.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
+    "launched":"2009-01-23T00:00:00Z",
+    "deployed":"2009-01-23T00:00:00Z",
+    "website":"http:\/\/stars.eng.shizuoka.ac.jp\/stars_kukai.html",
     "operator":"None",
-    "countries":"",
+    "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.076264Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-03-09T19:58:37.105912Z",
+    "citation":"http:\/\/stars.eng.shizuoka.ac.jp\/stars_kukai.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
