@@ -40,7 +40,7 @@ VMIE-3340-5003-6094-2811,26609.0,,Phase 3-D,OSCAR-40,satellites/AO-40.jpg,alive,
 MIOI-0494-0446-3367-1916,26931.0,,PCSAT,NO-44,satellites/no44.gif,alive,,2001-09-30T00:00:00Z,,http://www.aprs.org/pcsat.html,None,US,[{'decoder': 'no44'}],2024-07-02T17:57:59.359794Z,dl7ndr,False,[]
 IRES-5964-9687-1982-0089,27607.0,,SAUDISAT 1C,SO-50,satellites/saudisat-so-50.jpg,alive,,2002-12-20T00:00:00Z,,,None,SA,[],2022-08-01T16:54:58.241438Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 JOVH-8612-8312-2052-1559,27844.0,,CUTE-1,CO-55,satellites/cute-1__1.jpg,alive,,2003-06-30T00:00:00Z,,,None,JP,[],2022-08-01T16:55:35.487190Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-KZUI-4275-4790-4963-1514,27848.0,,CUBESAT XI-IV,CO-57,satellites/xi-4__1.jpg,alive,,2003-06-30T00:00:00Z,,https://www.space.t.u-tokyo.ac.jp/,None,JP,[{'decoder': 'co57'}],2022-08-01T11:31:17.649372Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+KZUI-4275-4790-4963-1514,27848.0,,CUBESAT XI-IV,CO-57,satellites/xi-4__1.jpg,alive,,2003-06-30T00:00:00Z,,https://www.space.t.u-tokyo.ac.jp/,None,JP,[{'decoder': 'co57'}],2025-03-10T06:46:48.466444Z,https://dashboard.satnogs.org/d/saVIuIcNk3/co-57,False,[]
 JQJE-9408-3483-0314-4576,27939.0,,MOZHAYETS 4,RS-22,satellites/zeya__1.jpg,alive,,2003-09-27T00:00:00Z,,,None,RU,[],2022-08-01T16:56:56.438277Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 AWRD-0316-6644-2878-7013,28628.0,,INMARSAT 4-F1,Alphasat1,satellites/inmarsat-4__1.jpg,alive,,,,,None,,[],2021-07-21T10:11:42.027220Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 MNUP-5257-9728-2566-4220,28650.0,,HAMSAT,VO-52,satellites/hamsat.jpg,dead,,,,,None,,[],2021-07-21T10:11:42.030628Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
