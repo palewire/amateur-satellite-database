@@ -49954,7 +49954,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2025-03-14T06:39:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -49962,8 +49962,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-11-21T08:50:36.837870Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/320",
+    "updated":"2025-03-11T05:24:43.864458Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-12-march-2025-06-39-utc\/12934\/18",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -52842,7 +52842,7 @@
     "image":"satellites\/otp-2_angles_v001_18_copy.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2025-03-14T06:39:00Z",
     "deployed":null,
     "website":"https:\/\/rogue.space\/missions\/otp-2\/",
     "operator":"None",
@@ -52850,8 +52850,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-06T12:03:05.996866Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/326",
+    "updated":"2025-03-11T06:25:48.509060Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-12-march-2025-06-39-utc\/12934\/18",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53154,16 +53154,16 @@
     "image":"satellites\/JINJUSat-1B.JPG",
     "status":"future",
     "decayed":null,
-    "launched":"2025-03-03T00:00:00Z",
-    "deployed":"2025-03-03T00:00:00Z",
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2025-02-25T10:01:00.699663Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-03-11T05:24:43.870718Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-12-march-2025-06-39-utc\/12934\/18",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -53274,7 +53274,7 @@
     "image":"satellites\/Buccaneer-Main-Mission-CubeSat-with-UHF-antenna-gold-part-of-HF-antenna-green_Ev5MKW5.jpg",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2025-03-14T06:39:00Z",
     "deployed":null,
     "website":"https:\/\/www.dst.defence.gov.au\/",
     "operator":"None",
@@ -53282,8 +53282,296 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-07T07:59:10.735456Z",
-    "citation":"https:\/\/www.researchgate.net\/publication\/375138293_Deployable_optics_for_the_Buccaneer_Main_Mission_BMM",
+    "updated":"2025-03-11T05:24:43.875690Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-12-march-2025-06-39-utc\/12934\/18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TJDQ-0178-9438-9402-8155",
+    "norad_cat_id":98647.0,
+    "norad_follow_id":null,
+    "name":"TEVEL2-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:18:11.441029Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TEEQ-9120-3378-4148-7582",
+    "norad_cat_id":98646.0,
+    "norad_follow_id":null,
+    "name":"TEVEL2-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:18:11.435234Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HOVZ-3709-8195-4274-1541",
+    "norad_cat_id":98645.0,
+    "norad_follow_id":null,
+    "name":"TEVEL2-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:18:11.429113Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FVND-4948-5613-7394-9932",
+    "norad_cat_id":98644.0,
+    "norad_follow_id":null,
+    "name":"TEVEL2-4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:18:11.423151Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VYVA-6255-9438-9598-3516",
+    "norad_cat_id":98643.0,
+    "norad_follow_id":null,
+    "name":"TEVEL2-5",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:18:11.417102Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TETG-4546-2995-9890-0055",
+    "norad_cat_id":98642.0,
+    "norad_follow_id":null,
+    "name":"TEVEL2-6",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:18:11.412222Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UAJW-1753-5711-2656-8187",
+    "norad_cat_id":98641.0,
+    "norad_follow_id":null,
+    "name":"TEVEL2-7",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:18:11.404625Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XCLO-3560-6764-5044-2622",
+    "norad_cat_id":98640.0,
+    "norad_follow_id":null,
+    "name":"TEVEL2-8",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:18:11.397999Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YEOH-3929-6205-1615-7126",
+    "norad_cat_id":98639.0,
+    "norad_follow_id":null,
+    "name":"TEVEL2-9",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:18:11.391130Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TPAP-4475-7915-0965-4305",
+    "norad_cat_id":98637.0,
+    "norad_follow_id":null,
+    "name":"HADES-ICM",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:18:11.374935Z",
+    "citation":"Fix status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VRWX-9292-5099-3709-0142",
+    "norad_cat_id":98636.0,
+    "norad_follow_id":null,
+    "name":"BOTSAT-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:27:33.225847Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MBHE-2044-4906-7895-1280",
+    "norad_cat_id":98638.0,
+    "norad_follow_id":null,
+    "name":"UVSQ-SAT-NG",
+    "names":"UVSQsat-NG",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-14T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-11T06:16:06.356413Z",
+    "citation":"Add alternative name",
     "is_frequency_violator":false,
     "associated_satellites":[
 

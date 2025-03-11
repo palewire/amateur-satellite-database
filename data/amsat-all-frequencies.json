@@ -2541,6 +2541,17 @@
     "satnogs_id":null
   },
   {
+    "name":"BOTSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BO-47",
     "norad_id":"27422",
     "uplink":null,
