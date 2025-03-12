@@ -29483,7 +29483,7 @@
     "norad_follow_id":null,
     "name":"Tansat",
     "names":"2016-081A",
-    "image":"",
+    "image":"satellites\/TanSat-preview.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2016-12-21T00:00:00Z",
@@ -29494,8 +29494,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-02T12:58:58.568530Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/13HOzb599vwkWF2SrbJKGVsDKAtA54KDdU-MUdlBHnYA\/edit?usp=sharing",
+    "updated":"2025-03-11T21:49:51.091290Z",
+    "citation":"Add Picture Tansat",
     "is_frequency_violator":false,
     "associated_satellites":[
 
