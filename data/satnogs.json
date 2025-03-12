@@ -53576,5 +53576,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"UROD-1324-3012-4066-0785",
+    "norad_cat_id":44910.0,
+    "norad_follow_id":null,
+    "name":"SJ-20",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-12-27T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-12T07:17:44.785556Z",
+    "citation":"Space-Track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
