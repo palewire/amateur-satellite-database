@@ -358,7 +358,7 @@ EKKN-6409-4479-1170-0607,43721.0,,FACSAT-1,,,re-entered,2023-06-03T00:00:00Z,202
 UESS-5249-7079-4000-7571,43722.0,,Centauri-2,,,re-entered,2023-03-20T00:00:00Z,,,,None,,[],2023-04-04T10:50:14.003589Z,https://www.space-track.org/#decay,False,[]
 UUUL-8721-0443-0737-3074,43738.0,,InnoSat 2,,satellites/innosat2.jpg,re-entered,2022-12-12T19:08:00Z,,,,None,MY,[],2022-12-14T11:24:39.925119Z,https://www.space-track.org,False,[]
 ILUP-3176-4624-1525-3825,43743.0,,Reaktor Hello World,OH2RHW1,,re-entered,2023-10-22T00:00:00Z,2018-11-29T00:00:00Z,,https://reaktorspace.com/reaktor-hello-world/,None,FI,[],2023-10-27T15:59:16.402586Z,https://kuvaspace.com/reaktor-hello-world-bids-adieu/,False,[]
-XQNL-8221-6393-9116-3452,43758.0,,MinXSS 2,,,alive,,,,,None,,[{'decoder': 'minxss'}],2021-07-21T10:11:42.626853Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+XQNL-8221-6393-9116-3452,43758.0,,MinXSS 2,,,dead,,2018-12-03T00:00:00Z,,https://lasp.colorado.edu/minxss/,None,US,[{'decoder': 'minxss'}],2025-03-12T17:31:22.705050Z,https://lasp.colorado.edu/minxss/,False,[]
 KRVN-6468-4574-3162-9980,43759.0,,SIRION PATHFINDER-2,,,alive,,,,,None,,[],2021-07-21T10:11:42.628827Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 MSIH-7029-5546-1995-2723,43768.0,,AISTECHSAT-2,,satellites/aistechsat-2__1.jpg,alive,,2018-12-03T00:00:00Z,,,None,ES,[],2021-07-21T10:11:42.631536Z,CITATION NEEDED - https://xkcd.com/285/,True,[]
 KHIK-6754-7801-4022-8938,43770.0,,FOX-1C,AO-95Fox-1Cliff,satellites/fox-1c__1.jpg,alive,,,2018-12-03T00:00:00Z,https://www.amsat.org/meet-the-fox-project/,None,US,[{'decoder': 'fox'}],2022-04-25T16:31:47.966101Z,https://space.skyrocket.de/doc_sdat/fox-1c.htm,False,[]

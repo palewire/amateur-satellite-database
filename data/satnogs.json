@@ -8276,20 +8276,20 @@
     "name":"MinXSS 2",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"dead",
     "decayed":null,
-    "launched":null,
+    "launched":"2018-12-03T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/lasp.colorado.edu\/minxss\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
       {
         "decoder":"minxss"
       }
     ],
-    "updated":"2021-07-21T10:11:42.626853Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-03-12T17:31:22.705050Z",
+    "citation":"https:\/\/lasp.colorado.edu\/minxss\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

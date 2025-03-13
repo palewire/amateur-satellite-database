@@ -2544,9 +2544,9 @@
     "name":"BOTSAT-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.360",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps GMSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -20256,7 +20256,7 @@
     "uplink":null,
     "downlink":"401.850\/2208.000",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps BPSK FM",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
