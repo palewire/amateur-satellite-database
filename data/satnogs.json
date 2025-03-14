@@ -1067,8 +1067,8 @@
     "sat_id":"IYDL-1832-4040-0556-1587",
     "norad_cat_id":28895.0,
     "norad_follow_id":null,
-    "name":"CUBESAT XI 5",
-    "names":"CO-58, OSCAR 58",
+    "name":"CUBESAT XI-V",
+    "names":"CO-58, Cubesat OSCAR 58",
     "image":"satellites\/XI-V-Sai-Five-300x225.jpg",
     "status":"alive",
     "decayed":null,
@@ -1078,10 +1078,12 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"co58"
+      }
     ],
-    "updated":"2022-08-01T16:55:49.156545Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-03-13T12:55:14.688079Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/69kjKOhHz\/co-58",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53596,6 +53598,30 @@
     ],
     "updated":"2025-03-12T07:17:44.785556Z",
     "citation":"Space-Track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EZAU-8235-2008-4656-9477",
+    "norad_cat_id":98635.0,
+    "norad_follow_id":null,
+    "name":"ION SCV-017",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-13T16:44:04.096645Z",
+    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/ION%20SCV-017\/124545291",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -45,7 +45,7 @@ JQJE-9408-3483-0314-4576,27939.0,,MOZHAYETS 4,RS-22,satellites/zeya__1.jpg,alive
 AWRD-0316-6644-2878-7013,28628.0,,INMARSAT 4-F1,Alphasat1,satellites/inmarsat-4__1.jpg,alive,,,,,None,,[],2021-07-21T10:11:42.027220Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 MNUP-5257-9728-2566-4220,28650.0,,HAMSAT,VO-52,satellites/hamsat.jpg,dead,,,,,None,,[],2021-07-21T10:11:42.030628Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 SWSC-0362-2710-3817-5254,28654.0,,NOAA 18,,satellites/NOAA-18_or_19_rendering.jpg,alive,,2005-05-20T00:00:00Z,,https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=2005-018A,None,US,[],2022-05-30T10:58:26.688289Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-IYDL-1832-4040-0556-1587,28895.0,,CUBESAT XI 5,"CO-58, OSCAR 58",satellites/XI-V-Sai-Five-300x225.jpg,alive,,2005-10-27T00:00:00Z,,,None,JP,[],2022-08-01T16:55:49.156545Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+IYDL-1832-4040-0556-1587,28895.0,,CUBESAT XI-V,"CO-58, Cubesat OSCAR 58",satellites/XI-V-Sai-Five-300x225.jpg,alive,,2005-10-27T00:00:00Z,,,None,JP,[{'decoder': 'co58'}],2025-03-13T12:55:14.688079Z,https://dashboard.satnogs.org/d/69kjKOhHz/co-58,False,[]
 GVNJ-7390-8100-5940-4823,29499.0,,METOP-A,,satellites/metopa.jpg,dead,,,,https://www.eumetsat.int/our-satellites/metop-series,None,,[],2022-03-05T02:45:57.262820Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 CASG-2405-5488-8993-2476,29710.0,,CARTOSAT-2,IRS-P7,satellites/CartoSat2_AutoB.jpeg,re-entered,2024-02-14T00:00:00Z,2007-01-10T00:00:00Z,,,None,IN,[],2024-03-03T23:05:05.027733Z,https://www.n2yo.com/satellite/?s=29710#results,False,[]
 XKYJ-4339-8214-6490-1978,30776.0,,FALCONSAT 3,PFS3,satellites/FALCONSAT-3.jpg,re-entered,,2007-03-09T00:00:00Z,2023-01-21T13:34:20Z,https://www.amsat.org/falconsat-3/,None,US,[{'decoder': 'ax25monitor'}],2023-01-22T10:28:15.795146Z,https://network.satnogs.org/observations/7061690/,False,[]
@@ -2237,3 +2237,4 @@ TPAP-4475-7915-0965-4305,98637.0,,HADES-ICM,,,future,,2025-03-14T06:39:00Z,,,Non
 VRWX-9292-5099-3709-0142,98636.0,,BOTSAT-1,,,future,,2025-03-14T06:39:00Z,,,None,,[],2025-03-11T06:27:33.225847Z,https://forum.nasaspaceflight.com/index.php?topic=60272.0,False,[]
 MBHE-2044-4906-7895-1280,98638.0,,UVSQ-SAT-NG,UVSQsat-NG,,future,,2025-03-14T06:39:00Z,,,None,,[],2025-03-11T06:16:06.356413Z,Add alternative name,False,[]
 UROD-1324-3012-4066-0785,44910.0,,SJ-20,,,alive,,2019-12-27T00:00:00Z,,,None,CN,[],2025-03-12T07:17:44.785556Z,Space-Track.org,False,[]
+EZAU-8235-2008-4656-9477,98635.0,,ION SCV-017,,,future,,2025-03-15T06:39:00Z,,,None,,[],2025-03-13T16:44:04.096645Z,https://www.itu.int/itu-r/space/apps/public/spaceexplorer/networks-explorer/space-stations/dashboard/non-plans/ION%20SCV-017/124545291,False,[]
