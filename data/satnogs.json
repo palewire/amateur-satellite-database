@@ -53156,16 +53156,16 @@
     "image":"satellites\/JINJUSat-1B.JPG",
     "status":"future",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
-    "deployed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":"2025-03-15T07:34:06Z",
     "website":"",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T05:24:43.870718Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-12-march-2025-06-39-utc\/12934\/18",
+    "updated":"2025-03-14T04:51:20.225086Z",
+    "citation":"This is an update request of JINJUSat-1B's deploy time.",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -53622,6 +53622,126 @@
     ],
     "updated":"2025-03-13T16:44:04.096645Z",
     "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/ION%20SCV-017\/124545291",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZMUU-1298-3682-9426-1829",
+    "norad_cat_id":98634.0,
+    "norad_follow_id":null,
+    "name":"HYDRA-W",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T09:36:42.488792Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IIMN-8263-4327-6890-1624",
+    "norad_cat_id":98633.0,
+    "norad_follow_id":null,
+    "name":"IOD-1",
+    "names":"IOD1, Startical 1",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T10:04:42.852786Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GGXJ-9238-8176-9137-9636",
+    "norad_cat_id":98632.0,
+    "norad_follow_id":null,
+    "name":"ARVAKER I",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T10:16:58.579381Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NCYO-4369-6511-4107-4327",
+    "norad_cat_id":98631.0,
+    "norad_follow_id":null,
+    "name":"DROID.002",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T10:38:29.065477Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YDZO-6101-3702-7991-4125",
+    "norad_cat_id":98630.0,
+    "norad_follow_id":null,
+    "name":"HYVRID",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T10:53:38.255446Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 

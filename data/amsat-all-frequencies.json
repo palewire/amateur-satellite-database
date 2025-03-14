@@ -8822,6 +8822,17 @@
     "satnogs_id":null
   },
   {
+    "name":"ION-SCV-017",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415\/2275.500",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"IO-26",
     "norad_id":"22826",
     "uplink":"145.875-145.950",
