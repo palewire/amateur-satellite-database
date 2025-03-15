@@ -49954,9 +49954,9 @@
     "name":"NILA",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -49964,8 +49964,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T05:24:43.864458Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-12-march-2025-06-39-utc\/12934\/18",
+    "updated":"2025-03-15T06:55:42.584610Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -52842,9 +52842,9 @@
     "name":"OTP-2",
     "names":"",
     "image":"satellites\/otp-2_angles_v001_18_copy.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"https:\/\/rogue.space\/missions\/otp-2\/",
     "operator":"None",
@@ -52852,8 +52852,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:25:48.509060Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-12-march-2025-06-39-utc\/12934\/18",
+    "updated":"2025-03-15T06:55:42.190125Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53154,9 +53154,9 @@
     "name":"JINJUSat-1B",
     "names":"",
     "image":"satellites\/JINJUSat-1B.JPG",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":"2025-03-15T07:34:06Z",
     "website":"",
     "operator":"None",
@@ -53164,8 +53164,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T04:51:20.225086Z",
-    "citation":"This is an update request of JINJUSat-1B's deploy time.",
+    "updated":"2025-03-15T06:55:42.603139Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -53274,9 +53274,9 @@
     "name":"Buccaneer MM",
     "names":"Buccaneer Main Mission",
     "image":"satellites\/Buccaneer-Main-Mission-CubeSat-with-UHF-antenna-gold-part-of-HF-antenna-green_Ev5MKW5.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"https:\/\/www.dst.defence.gov.au\/",
     "operator":"None",
@@ -53284,8 +53284,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T05:24:43.875690Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-12-march-2025-06-39-utc\/12934\/18",
+    "updated":"2025-03-15T06:55:42.128746Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53298,9 +53298,9 @@
     "name":"TEVEL2-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53308,8 +53308,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:18:11.441029Z",
-    "citation":"Fix status",
+    "updated":"2025-03-15T06:55:42.542922Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53322,9 +53322,9 @@
     "name":"TEVEL2-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53332,8 +53332,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:18:11.435234Z",
-    "citation":"Fix status",
+    "updated":"2025-03-15T06:55:42.521652Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53346,9 +53346,9 @@
     "name":"TEVEL2-3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53356,8 +53356,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:18:11.429113Z",
-    "citation":"Fix status",
+    "updated":"2025-03-15T06:55:42.502915Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53370,9 +53370,9 @@
     "name":"TEVEL2-4",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53380,8 +53380,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:18:11.423151Z",
-    "citation":"Fix status",
+    "updated":"2025-03-15T06:55:42.484047Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53394,9 +53394,9 @@
     "name":"TEVEL2-5",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53404,8 +53404,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:18:11.417102Z",
-    "citation":"Fix status",
+    "updated":"2025-03-15T06:55:42.465460Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53418,9 +53418,9 @@
     "name":"TEVEL2-6",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53428,8 +53428,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:18:11.412222Z",
-    "citation":"Fix status",
+    "updated":"2025-03-15T06:55:42.446145Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53442,9 +53442,9 @@
     "name":"TEVEL2-7",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53452,8 +53452,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:18:11.404625Z",
-    "citation":"Fix status",
+    "updated":"2025-03-15T06:55:42.407799Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53466,9 +53466,9 @@
     "name":"TEVEL2-8",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53476,8 +53476,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:18:11.397999Z",
-    "citation":"Fix status",
+    "updated":"2025-03-15T06:55:42.426632Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53490,9 +53490,9 @@
     "name":"TEVEL2-9",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53500,8 +53500,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:18:11.391130Z",
-    "citation":"Fix status",
+    "updated":"2025-03-15T06:55:42.389123Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53514,9 +53514,9 @@
     "name":"HADES-ICM",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53524,8 +53524,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:18:11.374935Z",
-    "citation":"Fix status",
+    "updated":"2025-03-15T06:55:42.298481Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53538,9 +53538,9 @@
     "name":"BOTSAT-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53548,7 +53548,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:27:33.225847Z",
+    "updated":"2025-03-15T06:55:42.648297Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53562,9 +53562,9 @@
     "name":"UVSQ-SAT-NG",
     "names":"UVSQsat-NG",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-14T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53572,8 +53572,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-11T06:16:06.356413Z",
-    "citation":"Add alternative name",
+    "updated":"2025-03-15T06:55:42.621903Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53607,12 +53607,12 @@
     "sat_id":"EZAU-8235-2008-4656-9477",
     "norad_cat_id":98635.0,
     "norad_follow_id":null,
-    "name":"ION SCV-017",
-    "names":"",
+    "name":"ION SCV Marvelous Mathias",
+    "names":"ION SCV-017",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53620,8 +53620,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-13T16:44:04.096645Z",
-    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/ION%20SCV-017\/124545291",
+    "updated":"2025-03-15T06:55:42.273851Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53634,9 +53634,9 @@
     "name":"HYDRA-W",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53644,7 +53644,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T09:36:42.488792Z",
+    "updated":"2025-03-15T06:55:42.164254Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -53658,9 +53658,9 @@
     "name":"IOD-1",
     "names":"IOD1, Startical 1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53668,7 +53668,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T10:04:42.852786Z",
+    "updated":"2025-03-15T06:55:42.010220Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53682,9 +53682,9 @@
     "name":"ARVAKER I",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53692,7 +53692,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T10:16:58.579381Z",
+    "updated":"2025-03-15T06:55:41.987116Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53706,9 +53706,9 @@
     "name":"DROID.002",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53716,7 +53716,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T10:38:29.065477Z",
+    "updated":"2025-03-15T06:55:41.945265Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53730,9 +53730,9 @@
     "name":"HYVRID",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53740,7 +53740,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T10:53:38.255446Z",
+    "updated":"2025-03-15T06:55:42.366998Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53754,9 +53754,9 @@
     "name":"Firesat-0",
     "names":"MuSat-4",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53764,7 +53764,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T12:35:40.472650Z",
+    "updated":"2025-03-15T06:55:41.966032Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53778,9 +53778,9 @@
     "name":"NUSHSat1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53788,7 +53788,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T12:48:07.717145Z",
+    "updated":"2025-03-15T06:55:42.565351Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -53802,9 +53802,9 @@
     "name":"SOAP-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53812,7 +53812,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T13:20:34.435634Z",
+    "updated":"2025-03-15T06:55:41.923989Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53826,9 +53826,9 @@
     "name":"YAM-8",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53836,7 +53836,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T13:31:53.674257Z",
+    "updated":"2025-03-15T06:55:41.904330Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53850,9 +53850,9 @@
     "name":"EZIE-A",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53860,7 +53860,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T14:11:19.320890Z",
+    "updated":"2025-03-15T06:55:41.834422Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53874,9 +53874,9 @@
     "name":"EZIE-B",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53884,7 +53884,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T14:11:22.962190Z",
+    "updated":"2025-03-15T06:55:41.857796Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53898,9 +53898,9 @@
     "name":"EZIE-C",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53908,7 +53908,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T14:11:26.981158Z",
+    "updated":"2025-03-15T06:55:41.880470Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53922,9 +53922,9 @@
     "name":"M-SEL\/CORTEZ",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53932,7 +53932,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T14:25:39.332384Z",
+    "updated":"2025-03-15T06:55:42.220275Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53946,9 +53946,9 @@
     "name":"Sphinx\/Frazier",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53956,7 +53956,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T15:20:28.766078Z",
+    "updated":"2025-03-15T06:55:42.247856Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53970,9 +53970,9 @@
     "name":"AEROCUBE-18 B",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -53980,7 +53980,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T16:02:32.362034Z",
+    "updated":"2025-03-15T06:55:42.037972Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -53994,9 +53994,9 @@
     "name":"AEROCUBE-18 A",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -54004,7 +54004,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T16:02:27.010208Z",
+    "updated":"2025-03-15T06:55:42.065966Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -54018,9 +54018,9 @@
     "name":"Al-Munther",
     "names":"ALMUNTHER",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -54028,7 +54028,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T16:25:08.584037Z",
+    "updated":"2025-03-15T06:55:42.315904Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -54042,9 +54042,9 @@
     "name":"Clarity-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:39:00Z",
+    "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -54052,7 +54052,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-14T17:02:06.461643Z",
+    "updated":"2025-03-15T06:55:42.093849Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
     "is_frequency_violator":false,
     "associated_satellites":[
