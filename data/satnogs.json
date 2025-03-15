@@ -53746,5 +53746,317 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"OKCC-1655-1877-7316-3182",
+    "norad_cat_id":98629.0,
+    "norad_follow_id":null,
+    "name":"Firesat-0",
+    "names":"MuSat-4",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T12:35:40.472650Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AGMX-2508-1337-4945-9939",
+    "norad_cat_id":98628.0,
+    "norad_follow_id":null,
+    "name":"NUSHSat1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"SG",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T12:48:07.717145Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GEED-8819-6884-7912-8834",
+    "norad_cat_id":98627.0,
+    "norad_follow_id":null,
+    "name":"SOAP-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T13:20:34.435634Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FRYL-2190-5989-7903-4697",
+    "norad_cat_id":98626.0,
+    "norad_follow_id":null,
+    "name":"YAM-8",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T13:31:53.674257Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HEXS-1537-1719-9417-4530",
+    "norad_cat_id":98625.0,
+    "norad_follow_id":null,
+    "name":"EZIE-A",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T14:11:19.320890Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NJXF-0769-8231-7706-2942",
+    "norad_cat_id":98624.0,
+    "norad_follow_id":null,
+    "name":"EZIE-B",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T14:11:22.962190Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PDCU-2422-0291-6540-9954",
+    "norad_cat_id":98623.0,
+    "norad_follow_id":null,
+    "name":"EZIE-C",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T14:11:26.981158Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VKPY-8452-8098-5507-1677",
+    "norad_cat_id":98622.0,
+    "norad_follow_id":null,
+    "name":"M-SEL\/CORTEZ",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T14:25:39.332384Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JLGR-6309-2492-5570-9631",
+    "norad_cat_id":98621.0,
+    "norad_follow_id":null,
+    "name":"Sphinx\/Frazier",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T15:20:28.766078Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YCBA-3471-7604-0041-1680",
+    "norad_cat_id":98619.0,
+    "norad_follow_id":null,
+    "name":"AEROCUBE-18 B",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T16:02:32.362034Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HPUI-6622-0525-0305-6932",
+    "norad_cat_id":98620.0,
+    "norad_follow_id":null,
+    "name":"AEROCUBE-18 A",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T16:02:27.010208Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ARXR-0292-1551-2619-9743",
+    "norad_cat_id":98618.0,
+    "norad_follow_id":null,
+    "name":"Al-Munther",
+    "names":"ALMUNTHER",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"BH",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T16:25:08.584037Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QHUH-9410-3504-5925-2941",
+    "norad_cat_id":98617.0,
+    "norad_follow_id":null,
+    "name":"Clarity-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-15T06:39:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-14T17:02:06.461643Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
