@@ -872,7 +872,7 @@
     "norad_cat_id":26931.0,
     "norad_follow_id":null,
     "name":"PCSAT",
-    "names":"NO-44",
+    "names":"NO-44, W3ADO",
     "image":"satellites\/no44.gif",
     "status":"alive",
     "decayed":null,
@@ -886,8 +886,8 @@
         "decoder":"no44"
       }
     ],
-    "updated":"2024-07-02T17:57:59.359794Z",
-    "citation":"dl7ndr",
+    "updated":"2025-03-16T00:27:15.392702Z",
+    "citation":"removed filter on dashboard link",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19208,10 +19208,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -54063,7 +54063,7 @@
     "sat_id":"UNQO-4453-5207-3473-9466",
     "norad_cat_id":98616.0,
     "norad_follow_id":null,
-    "name":"Unknown satellite of T14",
+    "name":"Unknown satellite of T13",
     "names":"",
     "image":"",
     "status":"alive",
@@ -54076,8 +54076,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T14:51:30.940595Z",
-    "citation":"From PE0SAT strf observation",
+    "updated":"2025-03-16T11:32:01.480851Z",
+    "citation":"Typo, should be T13 - Transporter 13 launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 

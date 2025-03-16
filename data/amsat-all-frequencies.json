@@ -4273,7 +4273,7 @@
     "uplink":null,
     "downlink":"400.500\/2491.750",
     "beacon":null,
-    "mode":null,
+    "mode":"38400bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -7111,7 +7111,7 @@
     "uplink":null,
     "downlink":"400.500\/401.100",
     "beacon":null,
-    "mode":null,
+    "mode":"38400bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -11478,7 +11478,7 @@
     "uplink":null,
     "downlink":"400.500\/2491.750",
     "beacon":null,
-    "mode":null,
+    "mode":"38400bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -12523,9 +12523,9 @@
     "uplink":null,
     "downlink":"436.200",
     "beacon":null,
-    "mode":null,
+    "mode":"1200bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -12897,9 +12897,9 @@
     "uplink":null,
     "downlink":"400.500\/2222.500",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -17264,7 +17264,7 @@
     "uplink":null,
     "downlink":"400.500\/401.100",
     "beacon":null,
-    "mode":null,
+    "mode":"38400bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -18938,7 +18938,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-6-1",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18960,7 +18960,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-8-1",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -20367,8 +20367,8 @@
     "downlink":"401.850\/2208.000",
     "beacon":null,
     "mode":"9600bps BPSK FM",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"UVSQ",
+    "status":"active",
     "satnogs_id":null
   },
   {
