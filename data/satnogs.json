@@ -53742,7 +53742,7 @@
     ],
     "updated":"2025-03-15T06:55:42.366998Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -54054,6 +54054,30 @@
     ],
     "updated":"2025-03-15T06:55:42.093849Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UNQO-4453-5207-3473-9466",
+    "norad_cat_id":98616.0,
+    "norad_follow_id":null,
+    "name":"Unknown satellite of T14",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-15T14:51:30.940595Z",
+    "citation":"From PE0SAT strf observation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
