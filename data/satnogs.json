@@ -19208,10 +19208,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -53751,21 +53751,21 @@
     "sat_id":"OKCC-1655-1877-7316-3182",
     "norad_cat_id":98629.0,
     "norad_follow_id":null,
-    "name":"Firesat-0",
-    "names":"MuSat-4",
+    "name":"FIRESAT-0",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2025-03-15T06:43:00Z",
-    "deployed":null,
+    "launched":"2025-03-15T00:00:00Z",
+    "deployed":"2025-03-15T00:00:00Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:41.966032Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-03-17T09:44:53.844227Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/12Y6LVOvKSbxayqSoXvGEVqA0MkkjjS5i0g5Rb7RdaDE\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
