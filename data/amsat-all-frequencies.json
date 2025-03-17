@@ -9400,7 +9400,7 @@
     "downlink":"435.185",
     "beacon":null,
     "mode":"9600bps BPSK",
-    "callsign":null,
+    "callsign":"JINJUS-1",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -12898,7 +12898,7 @@
     "downlink":"400.500\/2222.500",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
+    "callsign":"ABCDEF",
     "status":"active",
     "satnogs_id":null
   },
