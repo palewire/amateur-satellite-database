@@ -498,10 +498,10 @@
     "name":"Al-Munther",
     "norad_id":null,
     "uplink":null,
-    "downlink":"436.500",
+    "downlink":"401.175\/436.500",
     "beacon":null,
-    "mode":"FM",
-    "callsign":null,
+    "mode":"1200bps BPSK FM",
+    "callsign":"ALMTFM",
     "status":"unknown",
     "satnogs_id":null
   },
