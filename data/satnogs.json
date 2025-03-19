@@ -10814,7 +10814,7 @@
     ],
     "updated":"2021-07-21T10:11:42.831070Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -15410,16 +15410,18 @@
     "image":"satellites\/TS4_patch.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2021-11-09T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/spacesystemsociety.jimdofree.com\/projects\/teikyosat-project\/teikyosat-4-info\/",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"teikyosat4"
+      }
     ],
-    "updated":"2021-11-15T19:37:16.874332Z",
-    "citation":"https:\/\/spacesystemsociety.jimdofree.com\/projects\/teikyosat-project\/teikyosat-4-info\/",
+    "updated":"2025-03-19T11:06:03.002849Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=49396",
     "is_frequency_violator":false,
     "associated_satellites":[
       "YUVF-6931-8350-4566-0923"
@@ -18985,10 +18987,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",

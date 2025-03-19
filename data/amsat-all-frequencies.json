@@ -8376,7 +8376,7 @@
     "uplink":null,
     "downlink":"436.500\/2404.750",
     "beacon":null,
-    "mode":"2k4FSK 4k8GFSK FM",
+    "mode":"2k4_FSK 4k8_GFSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -14866,7 +14866,7 @@
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
-    "mode":"1k2AFSK 2k4QPSK 9k6GMSK",
+    "mode":"1k2_AFSK 2k4_4FSK OQPSK 9k6_GMSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
