@@ -9401,7 +9401,7 @@
     "beacon":null,
     "mode":"9600bps BPSK",
     "callsign":"JINJUS-1",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -18938,7 +18938,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-6-1",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

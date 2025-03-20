@@ -1840,6 +1840,16 @@
     "satnogs_id":"XTKP-9404-9174-4088-2406"
   },
   {
+    "name":"JINJUSAT-1B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.185",
+    "beacon":null,
+    "mode":"9600bps BPSK",
+    "callsign":"JINJUS-1",
+    "satnogs_id":null
+  },
+  {
     "name":"JO-97",
     "norad_id":"43803",
     "uplink":"435.100-435.120",
@@ -3617,6 +3627,16 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-5-1",
+    "satnogs_id":null
+  },
+  {
+    "name":"TEVEL-2-6",
+    "norad_id":null,
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"TVL2-6-1",
     "satnogs_id":null
   },
   {
