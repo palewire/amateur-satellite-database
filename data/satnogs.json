@@ -18987,10 +18987,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -54080,6 +54080,30 @@
     ],
     "updated":"2025-03-16T11:32:01.480851Z",
     "citation":"Typo, should be T13 - Transporter 13 launch",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EYWK-8780-8758-9764-0550",
+    "norad_cat_id":62726.0,
+    "norad_follow_id":null,
+    "name":"Object B",
+    "names":"2025-012B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-17T00:00:00Z",
+    "deployed":"2025-01-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-20T20:36:52.520385Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ZrOZyWTdIp-couVUlFnmZHgEnD7wxM_iFLq4Ls0ERdc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
