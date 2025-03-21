@@ -2856,7 +2856,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8378,7 +8378,7 @@
     "beacon":null,
     "mode":"2k4_FSK 4k8_GFSK FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -11821,7 +11821,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
