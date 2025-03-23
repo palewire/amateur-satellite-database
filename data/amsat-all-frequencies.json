@@ -4977,7 +4977,7 @@
     "uplink":null,
     "downlink":"436.570",
     "beacon":null,
-    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
+    "mode":"2k4*\/4k8\/9k6 GMSK_USP",
     "callsign":"RS42S",
     "status":"active",
     "satnogs_id":"UMPN-9044-0154-0093-6402"
@@ -11588,7 +11588,7 @@
     "uplink":null,
     "downlink":"437.000",
     "beacon":null,
-    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
+    "mode":"2k4\/4k8\/9k6* GMSK_USP",
     "callsign":"RS49S",
     "status":"active",
     "satnogs_id":"VMNV-8729-6815-0607-7666"
@@ -18012,7 +18012,7 @@
     "uplink":null,
     "downlink":"437.875",
     "beacon":null,
-    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
+    "mode":"2k4*\/4k8\/9k6 GMSK_USP",
     "callsign":null,
     "status":"active",
     "satnogs_id":"LWVG-4743-3629-4474-1375"
@@ -20586,7 +20586,7 @@
     "uplink":null,
     "downlink":"437.825",
     "beacon":null,
-    "mode":"2k4\/4k8*\/9k6 GMSK_USP",
+    "mode":"2k4\/4k8\/9k6* GMSK_USP",
     "callsign":"RS38S",
     "status":"active",
     "satnogs_id":"OYGZ-5054-3166-8092-6448"
