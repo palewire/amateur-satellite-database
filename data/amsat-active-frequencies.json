@@ -906,7 +906,7 @@
     "downlink":"437.445",
     "beacon":null,
     "mode":"1k2AFSK 9k6* FSK",
-    "callsign":"CUBEB2-6",
+    "callsign":"CUBEB2",
     "satnogs_id":"MRQX-2618-0103-4345-3937"
   },
   {
@@ -1036,7 +1036,7 @@
     "downlink":"400.450",
     "beacon":null,
     "mode":"1200bps BPSK",
-    "callsign":"DIDO-3",
+    "callsign":"DIDO3",
     "satnogs_id":"UTVH-8269-9182-3451-8658"
   },
   {
@@ -1706,7 +1706,7 @@
     "downlink":"435.880\/145.825",
     "beacon":"437.425",
     "mode":"FM tone 88.5Hz\/APRS",
-    "callsign":"YBSAT\/YBOX-1",
+    "callsign":"YBSAT\/YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
   {
@@ -1846,7 +1846,7 @@
     "downlink":"435.185",
     "beacon":null,
     "mode":"9600bps BPSK",
-    "callsign":"JINJUS-1",
+    "callsign":"JINJUS",
     "satnogs_id":null
   },
   {
@@ -1876,7 +1876,7 @@
     "downlink":"435.835\/2404.400",
     "beacon":null,
     "mode":"1200bps GMSK",
-    "callsign":"KAFSAT-1",
+    "callsign":"KAFSAT",
     "satnogs_id":"APQS-1800-5981-4551-3856"
   },
   {
@@ -1986,7 +1986,7 @@
     "downlink":"435.880\/145.825",
     "beacon":"437.425",
     "mode":"1k2*AFSK FM tone 88.5Hz",
-    "callsign":"YBSAT\/YBOX-1",
+    "callsign":"YBSAT YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
   {
@@ -2036,7 +2036,7 @@
     "downlink":"437.445",
     "beacon":null,
     "mode":"1k2AFSK 9k6FSK",
-    "callsign":"CUBEB2-6",
+    "callsign":"CUBEB2",
     "satnogs_id":"MRQX-2618-0103-4345-3937"
   },
   {
@@ -2086,7 +2086,7 @@
     "downlink":"401.050",
     "beacon":null,
     "mode":"9600bps GMSK",
-    "callsign":"MDASAT-2",
+    "callsign":"MDASAT",
     "satnogs_id":null
   },
   {
@@ -2360,6 +2360,16 @@
     "satnogs_id":"IWZL-9125-3719-4852-5266"
   },
   {
+    "name":"ORARI",
+    "norad_id":"40931",
+    "uplink":"145.880\/145.825",
+    "downlink":"435.880\/145.825",
+    "beacon":"437.425",
+    "mode":"1k2*AFSK FM tone 88.5Hz",
+    "callsign":"YBSAT\/YBOX",
+    "satnogs_id":"EEIT-0315-8565-1765-1994"
+  },
+  {
     "name":"ORBICRAFT-ZORKIY",
     "norad_id":"47960",
     "uplink":null,
@@ -2386,7 +2396,7 @@
     "downlink":"436.500",
     "beacon":null,
     "mode":"9600bps GMSK",
-    "callsign":"KJ7SAT-11",
+    "callsign":"KJ7SAT",
     "satnogs_id":"DKCD-1609-0567-7056-3922"
   },
   {
@@ -2466,7 +2476,7 @@
     "downlink":"435.525",
     "beacon":null,
     "mode":"1k2*\/9k6 BPSK FM",
-    "callsign":"PICSAT-2",
+    "callsign":"PICSAT",
     "satnogs_id":"HJCD-0974-5560-7412-4382"
   },
   {
@@ -2726,7 +2736,7 @@
     "downlink":null,
     "beacon":"436.370",
     "mode":"9600bps BPSK",
-    "callsign":"MXSAT-1",
+    "callsign":"MXSAT",
     "satnogs_id":"UFIT-6008-6845-0096-1151"
   },
   {
@@ -3556,7 +3566,7 @@
     "downlink":"436.400",
     "beacon":null,
     "mode":"9600bps BPSK",
-    "callsign":"TAUSAT-2",
+    "callsign":"TAUSAT",
     "satnogs_id":"JRGY-1674-7223-5551-1972"
   },
   {
@@ -3806,7 +3816,7 @@
     "downlink":"145.826*\/435.025",
     "beacon":"2401.500",
     "mode":"(V)FM (S)PSK",
-    "callsign":"UOSAT-2",
+    "callsign":"UOSAT2",
     "satnogs_id":"TDVY-5283-4801-7631-6209"
   },
   {

@@ -54108,5 +54108,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"QVUS-7026-9123-2240-8592",
+    "norad_cat_id":98615.0,
+    "norad_follow_id":null,
+    "name":"HERMES H1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-03-15T06:43:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-24T11:17:35.176107Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/122",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
