@@ -7953,12 +7953,12 @@
     "satnogs_id":null
   },
   {
-    "name":"HERMES-Pathfinder",
+    "name":"HERMES-H1~H6",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.000",
+    "downlink":"401.500",
     "beacon":null,
-    "mode":null,
+    "mode":"25000bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

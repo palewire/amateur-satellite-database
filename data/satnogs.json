@@ -54252,5 +54252,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"UTKR-5270-3239-9362-1650",
+    "norad_cat_id":62615.0,
+    "norad_follow_id":null,
+    "name":"OBJECT G",
+    "names":"2025-009G",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-25T19:42:34.528439Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1dau-T-aPZKvmKvmMszpuXREhERaVceWDNDXzPt3dq5U\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CDTY-5641-8926-6173-5010",
+    "norad_cat_id":62635.0,
+    "norad_follow_id":null,
+    "name":"Garai-A",
+    "names":"2025-009AC",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-25T18:55:24.350078Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/16wqC-7JwOZ3hHXtNQ9yAI1Md989FPb8Wcx3gcZ3uCYY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
