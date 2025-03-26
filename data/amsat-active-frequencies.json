@@ -2405,7 +2405,7 @@
     "uplink":null,
     "downlink":"400.500\/2222.500",
     "beacon":null,
-    "mode":"9600bps GFSK",
+    "mode":"4k8\/9k6 GFSK",
     "callsign":"ABCDEF",
     "satnogs_id":null
   },

@@ -12053,8 +12053,8 @@
     "name":"KSU-Cubesat",
     "names":"KSU1C",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-03-22T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/twitter.com\/ksucubesat",
@@ -12065,8 +12065,8 @@
         "decoder":"ksu"
       }
     ],
-    "updated":"2025-01-15T09:31:38.330827Z",
-    "citation":"Add dashboard URL",
+    "updated":"2025-03-26T11:37:46.998107Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/m200fowGk\/ksu-cubesat?orgId=1&from=1742591565336&to=1742601854939",
     "is_frequency_violator":false,
     "associated_satellites":[
       "RTVS-5901-4775-0711-6788"
