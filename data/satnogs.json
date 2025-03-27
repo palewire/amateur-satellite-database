@@ -54324,5 +54324,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"DRGA-2213-9727-7220-9890",
+    "norad_cat_id":62705.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X45",
+    "names":"2025-009DA",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-27T08:55:46.627125Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1z0_eZvrojNV0IPe-e1ynHGQuvfGrFrok6U7_HqdtlSo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
