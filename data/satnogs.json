@@ -54300,5 +54300,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"CXJW-8959-9671-2060-9440",
+    "norad_cat_id":98609.0,
+    "norad_follow_id":null,
+    "name":"FRAM2HAM",
+    "names":"",
+    "image":"satellites\/Dragon.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/fram2ham.com\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-03-26T17:59:20.954136Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
