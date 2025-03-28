@@ -231,6 +231,17 @@
     "satnogs_id":"EIWX-7695-6296-0911-6539"
   },
   {
+    "name":"AEPEX",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"AeroCube-1",
     "norad_id":null,
     "uplink":null,
@@ -2923,6 +2934,17 @@
     "mode":"1200bps AFSK",
     "callsign":"KJ6FIX",
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"CANVAS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -7115,6 +7137,17 @@
     "callsign":"CAS5A",
     "status":"active",
     "satnogs_id":"THLP-9709-3501-8618-5195"
+  },
+  {
+    "name":"Fram2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.550",
+    "beacon":null,
+    "mode":"SSTV",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Frazier",
@@ -15752,6 +15785,17 @@
     "satnogs_id":"UUIC-2721-5016-2935-6643"
   },
   {
+    "name":"SeaLion",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"SEAM",
     "norad_id":null,
     "uplink":null,
@@ -20383,6 +20427,17 @@
     "satnogs_id":"ESPB-1611-5692-0685-8383"
   },
   {
+    "name":"Ut-ProSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"UVSQ-Sat",
     "norad_id":"47438",
     "uplink":"145.905",
@@ -21184,6 +21239,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"TLZR-1993-2564-0036-4315"
+  },
+  {
+    "name":"YAM-5",
+    "norad_id":"55076",
+    "uplink":null,
+    "downlink":"400.100\/401.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"YWEP-1897-4060-1849-8088"
   },
   {
     "name":"YAM-6",
