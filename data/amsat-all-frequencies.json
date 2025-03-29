@@ -509,11 +509,11 @@
     "name":"Al-Munther",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.175\/436.500",
+    "downlink":"401.175*\/436.500",
     "beacon":null,
     "mode":"1200bps BPSK FM",
     "callsign":"ALMTFM",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -10268,7 +10268,7 @@
     "uplink":null,
     "downlink":"437.175",
     "beacon":null,
-    "mode":"300* 1k2 AFSK",
+    "mode":"300*\/1k2 AFSK",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":null

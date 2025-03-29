@@ -54032,9 +54032,9 @@
     ],
     "updated":"2025-03-15T06:55:42.315904Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
-
+      "UNQO-4453-5207-3473-9466"
     ]
   },
   {
@@ -54056,30 +54056,6 @@
     ],
     "updated":"2025-03-15T06:55:42.093849Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"UNQO-4453-5207-3473-9466",
-    "norad_cat_id":98616.0,
-    "norad_follow_id":null,
-    "name":"Unknown satellite of T13",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2025-03-16T11:32:01.480851Z",
-    "citation":"Typo, should be T13 - Transporter 13 launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54307,7 +54283,7 @@
     "norad_follow_id":null,
     "name":"FRAM2HAM",
     "names":"",
-    "image":"satellites\/Dragon.jpg",
+    "image":"satellites\/Iss071e052057.jpg",
     "status":"future",
     "decayed":null,
     "launched":null,
@@ -54318,8 +54294,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-26T17:59:20.954136Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-03-28T21:52:20.169112Z",
+    "citation":"By NASA Johnson Space Center - This image or video was catalogued by Johnson Space Center of the United States National Aeronautics and Space Administration (NASA)\u00a0under Photo\u00a0ID: iss071e052057., Public Domain, https:\/\/commons.wikimedia.org\/w\/index.php?curid=148215780",
     "is_frequency_violator":false,
     "associated_satellites":[
 

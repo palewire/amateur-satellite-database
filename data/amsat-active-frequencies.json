@@ -30,6 +30,16 @@
     "satnogs_id":"MSIH-7029-5546-1995-2723"
   },
   {
+    "name":"Al-Munther",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.175*\/436.500",
+    "beacon":null,
+    "mode":"1200bps BPSK FM",
+    "callsign":"ALMTFM",
+    "satnogs_id":null
+  },
+  {
     "name":"AmicalSat",
     "norad_id":"46287",
     "uplink":null,
