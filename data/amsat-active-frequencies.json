@@ -510,46 +510,6 @@
     "satnogs_id":"NGHO-5109-0535-2414-7008"
   },
   {
-    "name":"CAS-5A",
-    "norad_id":"54684",
-    "uplink":"145.820",
-    "downlink":"435.540",
-    "beacon":null,
-    "mode":"VHF\/UHF SSB bandwidth 30kHz",
-    "callsign":null,
-    "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
-    "name":"CAS-5A",
-    "norad_id":"54684",
-    "uplink":"145.925",
-    "downlink":"435.600",
-    "beacon":null,
-    "mode":"VHF\/UHF FM bandwidth 30kHz",
-    "callsign":null,
-    "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
-    "name":"CAS-5A",
-    "norad_id":"54684",
-    "uplink":"145.975",
-    "downlink":"435.650",
-    "beacon":null,
-    "mode":"4k8 GMSK image*data",
-    "callsign":"CAS5A",
-    "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
-    "name":"CAS-5A",
-    "norad_id":"54684",
-    "uplink":null,
-    "downlink":null,
-    "beacon":"435.570",
-    "mode":"UHF_CW",
-    "callsign":"BJ1SO",
-    "satnogs_id":"THLP-9709-3501-8618-5195"
-  },
-  {
     "name":"CAS-6",
     "norad_id":"44881",
     "uplink":null,
@@ -562,31 +522,11 @@
   {
     "name":"CAS-9",
     "norad_id":"50466",
-    "uplink":"145.855-145.885",
-    "downlink":"435.195-435.165",
-    "beacon":null,
-    "mode":"VHF\/UHF SSB*",
-    "callsign":null,
-    "satnogs_id":"WMPC-3806-8308-1122-5138"
-  },
-  {
-    "name":"CAS-9",
-    "norad_id":"50466",
     "uplink":"145.985",
     "downlink":"435.725",
     "beacon":null,
     "mode":"4k8*GMSK image data",
     "callsign":"CAS9",
-    "satnogs_id":"WMPC-3806-8308-1122-5138"
-  },
-  {
-    "name":"CAS-9",
-    "norad_id":"50466",
-    "uplink":null,
-    "downlink":null,
-    "beacon":"435.575",
-    "mode":"UHF CW*",
-    "callsign":null,
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
@@ -1522,31 +1462,11 @@
   {
     "name":"HO-113",
     "norad_id":"50466",
-    "uplink":"145.855-145.885",
-    "downlink":"435.195-435.165",
-    "beacon":null,
-    "mode":"VHF\/UHF SSB*",
-    "callsign":null,
-    "satnogs_id":"WMPC-3806-8308-1122-5138"
-  },
-  {
-    "name":"HO-113",
-    "norad_id":"50466",
     "uplink":"145.985",
     "downlink":"435.725",
     "beacon":null,
     "mode":"4k8*GMSK image data",
     "callsign":"CAS9",
-    "satnogs_id":"WMPC-3806-8308-1122-5138"
-  },
-  {
-    "name":"HO-113",
-    "norad_id":"50466",
-    "uplink":null,
-    "downlink":null,
-    "beacon":"435.575",
-    "mode":"UHF CW*",
-    "callsign":null,
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
@@ -1968,16 +1888,6 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "satnogs_id":"LQIA-1498-8400-4918-0119"
-  },
-  {
-    "name":"KSU-Cubesat",
-    "norad_id":"47954",
-    "uplink":null,
-    "downlink":"437.130",
-    "beacon":null,
-    "mode":"4800bps GMSK",
-    "callsign":"KSUC1",
-    "satnogs_id":"GJTN-2368-5876-8326-4725"
   },
   {
     "name":"KuzGTU-1",
@@ -3962,31 +3872,11 @@
   {
     "name":"XW-3",
     "norad_id":"50466",
-    "uplink":"145.855-145.885",
-    "downlink":"435.195-435.165",
-    "beacon":null,
-    "mode":"VHF\/UHF SSB*",
-    "callsign":null,
-    "satnogs_id":"WMPC-3806-8308-1122-5138"
-  },
-  {
-    "name":"XW-3",
-    "norad_id":"50466",
     "uplink":null,
     "downlink":"435.725",
     "beacon":null,
     "mode":"4k8*GMSK telemetry",
     "callsign":"CAS9",
-    "satnogs_id":"WMPC-3806-8308-1122-5138"
-  },
-  {
-    "name":"XW-3",
-    "norad_id":"50466",
-    "uplink":null,
-    "downlink":null,
-    "beacon":"435.575",
-    "mode":"UHF CW*",
-    "callsign":null,
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
