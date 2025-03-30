@@ -31,7 +31,7 @@
   },
   {
     "name":"Al-Munther",
-    "norad_id":null,
+    "norad_id":"63240",
     "uplink":null,
     "downlink":"401.175*\/436.500",
     "beacon":null,
@@ -321,7 +321,7 @@
   },
   {
     "name":"BOTSAT-1",
-    "norad_id":null,
+    "norad_id":"63216",
     "uplink":null,
     "downlink":"401.360",
     "beacon":null,
@@ -1601,7 +1601,7 @@
   },
   {
     "name":"ION-SCV-017",
-    "norad_id":null,
+    "norad_id":"63230",
     "uplink":null,
     "downlink":"401.415\/2275.500",
     "beacon":null,
@@ -2241,7 +2241,7 @@
   },
   {
     "name":"NUSHSat-1",
-    "norad_id":null,
+    "norad_id":"63211",
     "uplink":null,
     "downlink":"436.200",
     "beacon":null,
@@ -2301,7 +2301,7 @@
   },
   {
     "name":"OTP-2",
-    "norad_id":null,
+    "norad_id":"63235",
     "uplink":null,
     "downlink":"400.500\/2222.500",
     "beacon":null,
@@ -3491,7 +3491,7 @@
   },
   {
     "name":"TEVEL-2-1",
-    "norad_id":null,
+    "norad_id":"63217",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -3501,7 +3501,7 @@
   },
   {
     "name":"TEVEL-2-2",
-    "norad_id":null,
+    "norad_id":"63218",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -3511,7 +3511,7 @@
   },
   {
     "name":"TEVEL-2-3",
-    "norad_id":null,
+    "norad_id":"63219",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -3521,7 +3521,7 @@
   },
   {
     "name":"TEVEL-2-4",
-    "norad_id":null,
+    "norad_id":"63213",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -3531,7 +3531,7 @@
   },
   {
     "name":"TEVEL-2-5",
-    "norad_id":null,
+    "norad_id":"63214",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -3541,7 +3541,7 @@
   },
   {
     "name":"TEVEL-2-6",
-    "norad_id":null,
+    "norad_id":"63215",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -3551,7 +3551,7 @@
   },
   {
     "name":"TEVEL-2-7",
-    "norad_id":null,
+    "norad_id":"63237",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -3561,7 +3561,7 @@
   },
   {
     "name":"TEVEL-2-9",
-    "norad_id":null,
+    "norad_id":"63239",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -3741,7 +3741,7 @@
   },
   {
     "name":"UVSQ-SAT-NG",
-    "norad_id":null,
+    "norad_id":"63251",
     "uplink":null,
     "downlink":"401.850\/2208.000",
     "beacon":null,

@@ -507,7 +507,7 @@
   },
   {
     "name":"Al-Munther",
-    "norad_id":null,
+    "norad_id":"63240",
     "uplink":null,
     "downlink":"401.175*\/436.500",
     "beacon":null,
@@ -2564,7 +2564,7 @@
   },
   {
     "name":"BOTSAT-1",
-    "norad_id":null,
+    "norad_id":"63216",
     "uplink":null,
     "downlink":"401.360",
     "beacon":null,
@@ -2861,7 +2861,7 @@
   },
   {
     "name":"Buccaneer-MM",
-    "norad_id":null,
+    "norad_id":"63245",
     "uplink":null,
     "downlink":"400.800",
     "beacon":null,
@@ -3536,7 +3536,18 @@
     "uplink":"145.900",
     "downlink":"435.690",
     "beacon":"435.715",
-    "mode":"VHF\/UHF FM CW",
+    "mode":"VHF\/UHF FM",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-7C",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.715",
+    "mode":"CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -3826,6 +3837,94 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"TLZR-1993-2564-0036-4315"
+  },
+  {
+    "name":"CAS-11",
+    "norad_id":null,
+    "uplink":"21.3125-21.3275",
+    "downlink":"435.5125-435.4975",
+    "beacon":null,
+    "mode":"HF\/UHF SSB",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-11",
+    "norad_id":null,
+    "uplink":"145.845-145.875",
+    "downlink":"435.555-435.525",
+    "beacon":null,
+    "mode":"VHF\/UHF SSB",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-11",
+    "norad_id":null,
+    "uplink":"145.917-145.933",
+    "downlink":"435.608-435.592",
+    "beacon":null,
+    "mode":"VHF\/UHF FM",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-11",
+    "norad_id":null,
+    "uplink":"145.925",
+    "downlink":"435.700",
+    "beacon":null,
+    "mode":"VHF\/UHF 4k8 store-and-forward",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-11",
+    "norad_id":null,
+    "uplink":"145.895",
+    "downlink":"145.895",
+    "beacon":null,
+    "mode":"VHF 1k2 AFSK store-and-forward",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-11",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.650",
+    "beacon":null,
+    "mode":"UHF 4k8\/9k6 GMSK telemetry",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-11",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":"435.570",
+    "mode":"CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS-11",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":"2405.500",
+    "mode":"Multimode beacon",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"CatSat",
@@ -4299,17 +4398,6 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"ZKYN-9221-2374-5641-3454"
-  },
-  {
-    "name":"CORTEZ",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"400.500\/2491.750",
-    "beacon":null,
-    "mode":"38400bps GFSK",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
   },
   {
     "name":"CORVUS-BC2",
@@ -7161,17 +7249,6 @@
     "satnogs_id":null
   },
   {
-    "name":"Frazier",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"400.500\/401.100",
-    "beacon":null,
-    "mode":"38400bps GFSK",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
-  },
-  {
     "name":"FSI-SAT",
     "norad_id":null,
     "uplink":null,
@@ -7997,7 +8074,62 @@
     "satnogs_id":null
   },
   {
-    "name":"HERMES-H1~H6",
+    "name":"HERMES-H1",
+    "norad_id":"63228",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"25000bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"HERMES-H2",
+    "norad_id":"63229",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"25000bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"HERMES-H3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"25000bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"HERMES-H4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"25000bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"HERMES-H5",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"25000bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"HERMES-H6",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.500",
@@ -8427,7 +8559,7 @@
   },
   {
     "name":"HYVRID",
-    "norad_id":null,
+    "norad_id":"63252",
     "uplink":null,
     "downlink":"436.500\/2404.750",
     "beacon":null,
@@ -8933,7 +9065,7 @@
   },
   {
     "name":"ION-SCV-017",
-    "norad_id":null,
+    "norad_id":"63230",
     "uplink":null,
     "downlink":"401.415\/2275.500",
     "beacon":null,
@@ -9439,7 +9571,7 @@
   },
   {
     "name":"JINJUSAT-1",
-    "norad_id":null,
+    "norad_id":"63210",
     "uplink":null,
     "downlink":"435.185",
     "beacon":null,
@@ -11528,8 +11660,8 @@
     "satnogs_id":"GTMF-2365-6960-5386-3224"
   },
   {
-    "name":"M-SEL",
-    "norad_id":null,
+    "name":"M-SEL\/CORTEZ",
+    "norad_id":"63231",
     "uplink":null,
     "downlink":"400.500\/2491.750",
     "beacon":null,
@@ -11870,7 +12002,7 @@
   },
   {
     "name":"NILA",
-    "norad_id":null,
+    "norad_id":"63233",
     "uplink":null,
     "downlink":"435.400",
     "beacon":null,
@@ -12574,7 +12706,7 @@
   },
   {
     "name":"NUSHSat-1",
-    "norad_id":null,
+    "norad_id":"63211",
     "uplink":null,
     "downlink":"436.200",
     "beacon":null,
@@ -12959,7 +13091,7 @@
   },
   {
     "name":"OTP-2",
-    "norad_id":null,
+    "norad_id":"63235",
     "uplink":null,
     "downlink":"400.500\/2222.500",
     "beacon":null,
@@ -17347,8 +17479,8 @@
     "satnogs_id":"RINJ-3108-9789-8075-5047"
   },
   {
-    "name":"Sphinx",
-    "norad_id":null,
+    "name":"Sphinx\/Frazier",
+    "norad_id":"63232",
     "uplink":null,
     "downlink":"400.500\/401.100",
     "beacon":null,
@@ -18965,7 +19097,7 @@
   },
   {
     "name":"TEVEL-2-1",
-    "norad_id":null,
+    "norad_id":"63217",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -18976,7 +19108,7 @@
   },
   {
     "name":"TEVEL-2-2",
-    "norad_id":null,
+    "norad_id":"63218",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -18987,7 +19119,7 @@
   },
   {
     "name":"TEVEL-2-3",
-    "norad_id":null,
+    "norad_id":"63219",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -18998,7 +19130,7 @@
   },
   {
     "name":"TEVEL-2-4",
-    "norad_id":null,
+    "norad_id":"63213",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -19009,7 +19141,7 @@
   },
   {
     "name":"TEVEL-2-5",
-    "norad_id":null,
+    "norad_id":"63214",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -19020,7 +19152,7 @@
   },
   {
     "name":"TEVEL-2-6",
-    "norad_id":null,
+    "norad_id":"63215",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -19031,7 +19163,7 @@
   },
   {
     "name":"TEVEL-2-7",
-    "norad_id":null,
+    "norad_id":"63237",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -19042,7 +19174,7 @@
   },
   {
     "name":"TEVEL-2-8",
-    "norad_id":null,
+    "norad_id":"63238",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -19053,7 +19185,7 @@
   },
   {
     "name":"TEVEL-2-9",
-    "norad_id":null,
+    "norad_id":"63239",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -20461,7 +20593,7 @@
   },
   {
     "name":"UVSQ-SAT-NG",
-    "norad_id":null,
+    "norad_id":"63251",
     "uplink":null,
     "downlink":"401.850\/2208.000",
     "beacon":null,
