@@ -490,26 +490,6 @@
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },
   {
-    "name":"CAS-4B",
-    "norad_id":"42759",
-    "uplink":"435.270-435.290",
-    "downlink":"145.935-145.915",
-    "beacon":null,
-    "mode":"SSB*",
-    "callsign":null,
-    "satnogs_id":"NGHO-5109-0535-2414-7008"
-  },
-  {
-    "name":"CAS-4B",
-    "norad_id":"42759",
-    "uplink":null,
-    "downlink":"145.890",
-    "beacon":"145.910",
-    "mode":"4800bps GMSK CW",
-    "callsign":"BJ1SL",
-    "satnogs_id":"NGHO-5109-0535-2414-7008"
-  },
-  {
     "name":"CAS-6",
     "norad_id":"44881",
     "uplink":null,
