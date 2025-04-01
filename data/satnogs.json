@@ -16778,8 +16778,8 @@
     "name":"DIDO 3",
     "names":"",
     "image":"satellites\/dido-3__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-03-23T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -16788,8 +16788,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-18T06:49:06.452045Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2025-04-01T01:04:37.310964Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=46284",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19210,10 +19210,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -28500,8 +28500,8 @@
     "name":"TAUSAT-2",
     "names":"Tel Aviv University Satellite 2",
     "image":"satellites\/tausat2.JPEG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-03-23T00:00:00Z",
     "launched":"2023-01-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/reaching4thestars.com\/first-israeli-nanosatellite-designed-to-communicate-from-space-with-optical-ground-station\/",
@@ -28510,8 +28510,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T13:48:23.995483Z",
-    "citation":"https:\/\/reaching4thestars.com\/first-israeli-nanosatellite-designed-to-communicate-from-space-with-optical-ground-station\/",
+    "updated":"2025-04-01T09:39:40.735733Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=55073",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -49980,8 +49980,8 @@
     "name":"YOMOGI",
     "names":"JS1YMX",
     "image":"satellites\/Satellite.JPG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-03-31T00:00:00Z",
     "launched":"2024-11-05T00:00:00Z",
     "deployed":"2024-12-09T11:15:00Z",
     "website":"https:\/\/sites.google.com\/s.chibakoudai.jp\/gardens-01-yomogi",
@@ -49992,8 +49992,8 @@
         "decoder":"yomogi"
       }
     ],
-    "updated":"2024-12-18T14:19:32.786839Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612\/17",
+    "updated":"2025-04-01T10:51:49.926719Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=62298",
     "is_frequency_violator":false,
     "associated_satellites":[
       "VXZL-1339-0502-0226-1410"
@@ -53312,7 +53312,7 @@
     ],
     "updated":"2025-03-29T12:54:36.962815Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -53336,7 +53336,7 @@
     ],
     "updated":"2025-03-29T12:54:36.944486Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -53360,7 +53360,7 @@
     ],
     "updated":"2025-03-29T12:54:36.926141Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -53384,7 +53384,7 @@
     ],
     "updated":"2025-03-29T12:54:36.907802Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -53408,7 +53408,7 @@
     ],
     "updated":"2025-03-29T12:54:36.889443Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -53432,7 +53432,7 @@
     ],
     "updated":"2025-03-29T12:54:36.728450Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -53456,7 +53456,7 @@
     ],
     "updated":"2025-03-29T12:54:36.704284Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -53480,7 +53480,7 @@
     ],
     "updated":"2025-03-29T12:54:36.679690Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -53504,7 +53504,7 @@
     ],
     "updated":"2025-03-29T12:54:36.657299Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -54088,7 +54088,7 @@
   {
     "sat_id":"QVUS-7026-9123-2240-8592",
     "norad_cat_id":98615.0,
-    "norad_follow_id":63228.0,
+    "norad_follow_id":63242.0,
     "name":"HERMES H1",
     "names":"",
     "image":"",
@@ -54102,8 +54102,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:51:05.912858Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-01T09:32:47.985052Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/254",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54208,7 +54208,7 @@
   {
     "sat_id":"KCXP-0649-4427-9976-3893",
     "norad_cat_id":98614.0,
-    "norad_follow_id":63229.0,
+    "norad_follow_id":63243.0,
     "name":"HERMES H2",
     "names":"",
     "image":"",
@@ -54222,8 +54222,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.542566Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-01T09:32:43.601295Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/254",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54281,21 +54281,21 @@
     "sat_id":"CXJW-8959-9671-2060-9440",
     "norad_cat_id":98609.0,
     "norad_follow_id":null,
-    "name":"FRAM2HAM",
+    "name":"Fram2",
     "names":"",
     "image":"satellites\/Iss071e052057.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":null,
-    "website":"https:\/\/fram2ham.com\/",
+    "website":"https:\/\/f2.com\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-03-28T21:52:20.169112Z",
-    "citation":"By NASA Johnson Space Center - This image or video was catalogued by Johnson Space Center of the United States National Aeronautics and Space Administration (NASA)\u00a0under Photo\u00a0ID: iss071e052057., Public Domain, https:\/\/commons.wikimedia.org\/w\/index.php?curid=148215780",
+    "updated":"2025-04-01T07:38:09.679121Z",
+    "citation":"revert follow norad id",
     "is_frequency_violator":false,
     "associated_satellites":[
 

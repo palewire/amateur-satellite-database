@@ -7239,13 +7239,13 @@
   },
   {
     "name":"Fram2",
-    "norad_id":null,
+    "norad_id":"63427",
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
     "mode":"SSTV",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7927,7 +7927,7 @@
     "beacon":"436.666",
     "mode":"200-2k4_FSK FM CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -8075,24 +8075,24 @@
   },
   {
     "name":"HERMES-H1",
-    "norad_id":"63228",
+    "norad_id":"63242",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"HERMES-H2",
-    "norad_id":"63229",
+    "norad_id":"63243",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -19096,7 +19096,7 @@
     "satnogs_id":"VNEP-7767-9055-3195-4316"
   },
   {
-    "name":"TEVEL-2-1",
+    "name":"TEVEL2-1",
     "norad_id":"63217",
     "uplink":"145.970",
     "downlink":"436.400",
@@ -19107,7 +19107,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TEVEL-2-2",
+    "name":"TEVEL2-2",
     "norad_id":"63218",
     "uplink":"145.970",
     "downlink":"436.400",
@@ -19118,7 +19118,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TEVEL-2-3",
+    "name":"TEVEL2-3",
     "norad_id":"63219",
     "uplink":"145.970",
     "downlink":"436.400",
@@ -19129,7 +19129,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TEVEL-2-4",
+    "name":"TEVEL2-4",
     "norad_id":"63213",
     "uplink":"145.970",
     "downlink":"436.400",
@@ -19140,7 +19140,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TEVEL-2-5",
+    "name":"TEVEL2-5",
     "norad_id":"63214",
     "uplink":"145.970",
     "downlink":"436.400",
@@ -19151,7 +19151,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TEVEL-2-6",
+    "name":"TEVEL2-6",
     "norad_id":"63215",
     "uplink":"145.970",
     "downlink":"436.400",
@@ -19162,7 +19162,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TEVEL-2-7",
+    "name":"TEVEL2-7",
     "norad_id":"63237",
     "uplink":"145.970",
     "downlink":"436.400",
@@ -19173,7 +19173,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TEVEL-2-8",
+    "name":"TEVEL2-8",
     "norad_id":"63238",
     "uplink":"145.970",
     "downlink":"436.400",
@@ -19184,7 +19184,7 @@
     "satnogs_id":null
   },
   {
-    "name":"TEVEL-2-9",
+    "name":"TEVEL2-9",
     "norad_id":"63239",
     "uplink":"145.970",
     "downlink":"436.400",
