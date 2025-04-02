@@ -2868,7 +2868,7 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"BDVO-4886-9138-3275-1637"
   },
   {
     "name":"BugSat-1",
@@ -13098,7 +13098,7 @@
     "mode":"4k8\/9k6 GFSK",
     "callsign":"ABCDEF",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"XBMS-1269-7435-8541-4310"
   },
   {
     "name":"Otter-Pup",

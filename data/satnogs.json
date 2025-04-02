@@ -52839,8 +52839,8 @@
   },
   {
     "sat_id":"XBMS-1269-7435-8541-4310",
-    "norad_cat_id":98652.0,
-    "norad_follow_id":63235.0,
+    "norad_cat_id":63235.0,
+    "norad_follow_id":null,
     "name":"OTP-2",
     "names":"",
     "image":"satellites\/otp-2_angles_v001_18_copy.png",
@@ -52854,8 +52854,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:37.058658Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-02T09:43:42.132143Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63235\/2025-04-02T08%3A12%3A51_11326897_63235_25052AB_0-OBJECT-AB_0.4687669244444379_B_r24.0_f0.6.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53271,8 +53271,8 @@
   },
   {
     "sat_id":"BDVO-4886-9138-3275-1637",
-    "norad_cat_id":98648.0,
-    "norad_follow_id":63245.0,
+    "norad_cat_id":63245.0,
+    "norad_follow_id":null,
     "name":"Buccaneer MM",
     "names":"Buccaneer Main Mission",
     "image":"satellites\/Buccaneer-Main-Mission-CubeSat-with-UHF-antenna-gold-part-of-HF-antenna-green_Ev5MKW5.jpg",
@@ -53286,8 +53286,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.568005Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-02T09:24:55.541287Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63245\/2025-04-02T02%3A13%3A47_11337095_63245_25052AM_0-OBJECT-AM_0.12537007259258814_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
