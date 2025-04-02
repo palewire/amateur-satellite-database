@@ -1235,9 +1235,9 @@
     "uplink":null,
     "downlink":"437.550",
     "beacon":null,
-    "mode":"SSTV",
+    "mode":"FM SSTV",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"CXJW-8959-9671-2060-9440"
   },
   {
     "name":"FUNcube-1",

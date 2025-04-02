@@ -54279,7 +54279,7 @@
   },
   {
     "sat_id":"CXJW-8959-9671-2060-9440",
-    "norad_cat_id":98609.0,
+    "norad_cat_id":63427.0,
     "norad_follow_id":null,
     "name":"Fram2",
     "names":"",
@@ -54294,8 +54294,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-01T07:38:09.679121Z",
-    "citation":"revert follow norad id",
+    "updated":"2025-04-01T20:56:34.184609Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
