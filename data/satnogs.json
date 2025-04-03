@@ -53524,7 +53524,9 @@
     "operator":"None",
     "countries":"",
     "telemetries":[
-
+      {
+        "decoder":"hadesicm"
+      }
     ],
     "updated":"2025-03-15T06:55:42.298481Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
@@ -54126,8 +54128,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-24T14:15:58.751675Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/122",
+    "updated":"2025-04-02T18:17:08.279606Z",
+    "citation":"Remove temporary following ION deployer in favor of TLE at https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/266",
     "is_frequency_violator":false,
     "associated_satellites":[
 
