@@ -53151,8 +53151,8 @@
   },
   {
     "sat_id":"OIRQ-4478-3940-2632-7996",
-    "norad_cat_id":98650.0,
-    "norad_follow_id":63210.0,
+    "norad_cat_id":63210.0,
+    "norad_follow_id":null,
     "name":"JINJUSat-1B",
     "names":"",
     "image":"satellites\/JINJUSat-1B.JPG",
@@ -53166,11 +53166,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.981229Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-03T03:01:34.414241Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63210",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "GSVE-3017-6696-9576-8577"
     ]
   },
   {
@@ -53537,8 +53537,8 @@
   },
   {
     "sat_id":"VRWX-9292-5099-3709-0142",
-    "norad_cat_id":98636.0,
-    "norad_follow_id":63216.0,
+    "norad_cat_id":63216.0,
+    "norad_follow_id":null,
     "name":"BOTSAT-1",
     "names":"",
     "image":"",
@@ -53552,8 +53552,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:37.019813Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-03T03:19:21.050834Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63216\/2025-04-03T02%3A35%3A03_11339345_63216_25052G_0-OBJECT-G_1.2480645911111168_B_r24.0_f-0.7.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53561,8 +53561,8 @@
   },
   {
     "sat_id":"MBHE-2044-4906-7895-1280",
-    "norad_cat_id":98638.0,
-    "norad_follow_id":63251.0,
+    "norad_cat_id":63251.0,
+    "norad_follow_id":null,
     "name":"UVSQ-SAT-NG",
     "names":"UVSQsat-NG",
     "image":"",
@@ -53576,8 +53576,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.999736Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-03T03:16:18.806674Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63251\/2025-04-02T08%3A55%3A01_11339395_63251_25052AT_0-OBJECT-AT_0.4090822518518564_B_r38.5_f1.2.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53609,8 +53609,8 @@
   },
   {
     "sat_id":"EZAU-8235-2008-4656-9477",
-    "norad_cat_id":98635.0,
-    "norad_follow_id":63230.0,
+    "norad_cat_id":63230.0,
+    "norad_follow_id":null,
     "name":"ION SCV Marvelous Mathias",
     "names":"ION SCV-017",
     "image":"",
@@ -53624,8 +53624,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:37.039253Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-03T02:30:14.139944Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63230\/2025-04-02T08%3A09%3A41_11326654_63230_25052W_0-OBJECT-W_0.4687515303703691_B_r24.0_f0.6.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53777,8 +53777,8 @@
   },
   {
     "sat_id":"AGMX-2508-1337-4945-9939",
-    "norad_cat_id":98628.0,
-    "norad_follow_id":63211.0,
+    "norad_cat_id":63211.0,
+    "norad_follow_id":null,
     "name":"NUSHSat1",
     "names":"",
     "image":"",
@@ -53792,8 +53792,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:50:33.094163Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/231?u=geoscan",
+    "updated":"2025-04-03T02:56:31.778779Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63211\/2025-04-02T22%3A21%3A26_11339534_63211_25052B_0-OBJECT-B_1.0100086059259326_B_r24.0_f-0.5.png",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -53921,8 +53921,8 @@
   },
   {
     "sat_id":"VKPY-8452-8098-5507-1677",
-    "norad_cat_id":98622.0,
-    "norad_follow_id":63231.0,
+    "norad_cat_id":63231.0,
+    "norad_follow_id":null,
     "name":"M-SEL\/CORTEZ",
     "names":"",
     "image":"",
@@ -53936,8 +53936,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.614900Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-03T02:36:08.006509Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63231\/2025-04-01T13%3A28%3A16_11326665_63231_25052X_0-OBJECT-X_0.30804464370370965_A_r77.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53945,8 +53945,8 @@
   },
   {
     "sat_id":"JLGR-6309-2492-5570-9631",
-    "norad_cat_id":98621.0,
-    "norad_follow_id":63232.0,
+    "norad_cat_id":63232.0,
+    "norad_follow_id":null,
     "name":"Sphinx\/Frazier",
     "names":"",
     "image":"",
@@ -53960,8 +53960,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.590852Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-03T02:38:37.751685Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63232\/2025-04-01T21%3A19%3A31_11326681_63232_25052Y_0-OBJECT-Y_0.017782340740737368_B_r77.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54017,8 +54017,8 @@
   },
   {
     "sat_id":"ARXR-0292-1551-2619-9743",
-    "norad_cat_id":98618.0,
-    "norad_follow_id":63240.0,
+    "norad_cat_id":63240.0,
+    "norad_follow_id":null,
     "name":"Al-Munther",
     "names":"ALMUNTHER",
     "image":"",
@@ -54032,8 +54032,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.636446Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-03T02:44:51.531362Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63240\/2025-04-02T22%3A47%3A28_11339110_63240_25052AG_0-OBJECT-AG_1.0089515196296333_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
       "UNQO-4453-5207-3473-9466"

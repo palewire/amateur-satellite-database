@@ -37,7 +37,7 @@
     "beacon":null,
     "mode":"1200bps BPSK FM",
     "callsign":"ALMTFM",
-    "satnogs_id":null
+    "satnogs_id":"ARXR-0292-1551-2619-9743"
   },
   {
     "name":"AmicalSat",
@@ -327,7 +327,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"BOTSAT",
-    "satnogs_id":null
+    "satnogs_id":"VRWX-9292-5099-3709-0142"
   },
   {
     "name":"BRO-4",
@@ -1385,7 +1385,7 @@
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
-    "mode":"200-2k4_FSK FM CW",
+    "mode":"200*-2k4_FSK FM CW*",
     "callsign":null,
     "satnogs_id":null
   },
@@ -1505,7 +1505,7 @@
     "uplink":null,
     "downlink":"437.777",
     "beacon":"437.777",
-    "mode":"200bps FSK CW",
+    "mode":"200bps FSK CW*",
     "callsign":null,
     "satnogs_id":null
   },
@@ -1647,7 +1647,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"EZAU-8235-2008-4656-9477"
   },
   {
     "name":"IO-86",
@@ -2287,7 +2287,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"AGMX-2508-1337-4945-9939"
   },
   {
     "name":"OOV-Cube",
@@ -3787,7 +3787,7 @@
     "beacon":null,
     "mode":"9600bps BPSK FM",
     "callsign":"UVSQ",
-    "satnogs_id":null
+    "satnogs_id":"MBHE-2044-4906-7895-1280"
   },
   {
     "name":"UWE-4",
