@@ -1430,6 +1430,16 @@
     "satnogs_id":null
   },
   {
+    "name":"HERMES-H6",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"25000bps GFSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Hirogari",
     "norad_id":"47930",
     "uplink":"436.500",
@@ -3591,7 +3601,7 @@
   },
   {
     "name":"TEVEL2-7",
-    "norad_id":"63237",
+    "norad_id":"63239",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
@@ -3600,8 +3610,18 @@
     "satnogs_id":null
   },
   {
+    "name":"TEVEL2-8",
+    "norad_id":"63237",
+    "uplink":"145.970",
+    "downlink":"436.400",
+    "beacon":null,
+    "mode":"9600bps BPSK FM",
+    "callsign":"TVL2-8-1",
+    "satnogs_id":null
+  },
+  {
     "name":"TEVEL2-9",
-    "norad_id":"63239",
+    "norad_id":"63238",
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
