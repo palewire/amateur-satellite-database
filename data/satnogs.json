@@ -18987,10 +18987,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -34023,8 +34023,8 @@
     "name":"SpeiSat",
     "names":"Guardian of Hope",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-04-04T00:00:00Z",
     "launched":"2023-06-12T21:35:00Z",
     "deployed":null,
     "website":"",
@@ -34033,8 +34033,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-11T14:19:28.755894Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56991\/2023-07-11T03%3A17%3A02_7843948_56991_23084BT_0-OBJECT-BT_1.0266726337037255_B_r29.0_f0.0.png",
+    "updated":"2025-04-05T10:46:17.989931Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56991",
     "is_frequency_violator":true,
     "associated_satellites":[
 
