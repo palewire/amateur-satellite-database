@@ -38659,8 +38659,8 @@
     "name":"KAFASAT",
     "names":"Korea Air Force Academy Satellite",
     "image":"satellites\/Kafasat.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-04-02T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T20:09:20Z",
     "website":"",
@@ -38671,8 +38671,8 @@
         "decoder":"kafasat1"
       }
     ],
-    "updated":"2023-12-14T09:53:47.634189Z",
-    "citation":"Add public dashboard link",
+    "updated":"2025-04-04T16:01:33.625809Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=58317",
     "is_frequency_violator":false,
     "associated_satellites":[
       "AJCL-1372-8870-8487-2083"
@@ -49884,8 +49884,8 @@
     "name":"LignoSat",
     "names":"",
     "image":"satellites\/LignoSat.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-04-03T00:00:00Z",
     "launched":"2024-11-05T00:00:00Z",
     "deployed":"2024-12-09T11:15:00Z",
     "website":"https:\/\/space.innovationkyoto.org\/amateur-radio-operators\/",
@@ -49894,8 +49894,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-13T08:27:47.108877Z",
-    "citation":"https:\/\/community.libre.space\/t\/2024-12-09-07-45-utc-10-50-utc-and-14-00-utc-iss-cubesat-deployment-jaxa-j-ssod-30-yodaka-denden-01-lignosat-yomogi-onglaisat\/12612\/12",
+    "updated":"2025-04-04T15:58:13.135998Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=62296",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54286,8 +54286,8 @@
     "name":"Fram2",
     "names":"",
     "image":"satellites\/Iss071e052057.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-04-04T16:19:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/f2.com\/",
@@ -54296,8 +54296,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-01T20:56:34.184609Z",
-    "citation":"space-track.org",
+    "updated":"2025-04-04T16:10:23.507079Z",
+    "citation":"spacex.com",
     "is_frequency_violator":false,
     "associated_satellites":[
 
