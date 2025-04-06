@@ -51040,8 +51040,8 @@
     "name":"BGS ARPIT",
     "names":"POEM 4",
     "image":"satellites\/IMG-20241231-WA0087.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-04-04T00:00:00Z",
     "launched":"2024-12-30T00:00:00Z",
     "deployed":"2024-12-30T00:00:00Z",
     "website":"https:\/\/www.isro.gov.in\/POEM_4_Payloads_spadex.html",
@@ -51050,8 +51050,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-24T23:19:48.412835Z",
-    "citation":"space-track.org",
+    "updated":"2025-04-06T09:52:34.718487Z",
+    "citation":"VU2JEK",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -1230,16 +1230,6 @@
     "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
-    "name":"Fram2",
-    "norad_id":"63427",
-    "uplink":null,
-    "downlink":"437.550",
-    "beacon":null,
-    "mode":"FM SSTV",
-    "callsign":null,
-    "satnogs_id":"CXJW-8959-9671-2060-9440"
-  },
-  {
     "name":"FUNcube-1",
     "norad_id":"39444",
     "uplink":"435.130-435.150",
