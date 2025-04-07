@@ -7859,7 +7859,7 @@
     "uplink":"145.925\/145.975",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"50*\/300\/1k2-9k6 FSK FM CW*",
+    "mode":"50*\/300\/1k2-9k6 USB FM CW*",
     "callsign":"AO4URE",
     "status":"re-entered",
     "satnogs_id":"UDZO-6677-3907-8516-6750"
@@ -7881,7 +7881,7 @@
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
-    "mode":"50*\/300\/1k2-9k6 FSK FM* CW",
+    "mode":"50*\/300\/1k2-9k6 USB FM* CW",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"KDPU-1823-6370-5846-1492"
@@ -7892,7 +7892,7 @@
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"200-2k4 FSK FM CW",
+    "mode":"200-2k4 USB FM CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -7903,7 +7903,7 @@
     "uplink":"145.925",
     "downlink":"436.666",
     "beacon":"436.666",
-    "mode":"200-2k4 FSK FM CW",
+    "mode":"200-2k4 USB FM CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -7914,7 +7914,7 @@
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"200*-2k4 FSK FM CW*",
+    "mode":"200*-2k4 USB FM CW",
     "callsign":null,
     "status":"active",
     "satnogs_id":"EIPI-1482-6978-9759-4787"
@@ -7925,7 +7925,7 @@
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
-    "mode":"200*-2k4_FSK FM CW*",
+    "mode":"200*-2k4_USB FM CW",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
@@ -8503,12 +8503,23 @@
     "satnogs_id":"RPKQ-8508-2351-2344-0188"
   },
   {
+    "name":"HYDRA-1",
+    "norad_id":"58567",
+    "uplink":"145.875",
+    "downlink":"436.666",
+    "beacon":"436.666",
+    "mode":"50*\/300\/1k2-9k6 USB FM* CW",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":"KDPU-1823-6370-5846-1492"
+  },
+  {
     "name":"HYDRA-T",
     "norad_id":"62692",
     "uplink":null,
-    "downlink":"437.777",
-    "beacon":"437.777",
-    "mode":"200bps FSK CW*",
+    "downlink":"437.780",
+    "beacon":"437.780",
+    "mode":"200bps USB CW",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
@@ -8519,9 +8530,9 @@
     "uplink":null,
     "downlink":"437.780",
     "beacon":null,
-    "mode":"200bps FSK",
+    "mode":"200bps USB",
     "callsign":null,
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -17330,7 +17341,7 @@
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
-    "mode":"50*\/300\/1k2-9k6 FSK FM CW",
+    "mode":"50*\/300\/1k2-9k6 USB FM CW",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"KDPU-1823-6370-5846-1492"

@@ -1365,7 +1365,7 @@
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"200*-2k4 FSK FM CW*",
+    "mode":"200*-2k4 USB FM CW",
     "callsign":null,
     "satnogs_id":"EIPI-1482-6978-9759-4787"
   },
@@ -1375,7 +1375,7 @@
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
-    "mode":"200*-2k4_FSK FM CW*",
+    "mode":"200*-2k4_USB FM CW",
     "callsign":null,
     "satnogs_id":null
   },
@@ -1503,9 +1503,19 @@
     "name":"HYDRA-T",
     "norad_id":"62692",
     "uplink":null,
-    "downlink":"437.777",
-    "beacon":"437.777",
-    "mode":"200bps FSK CW*",
+    "downlink":"437.780",
+    "beacon":"437.780",
+    "mode":"200bps USB CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"HYDRA-W",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.780",
+    "beacon":null,
+    "mode":"200bps USB",
     "callsign":null,
     "satnogs_id":null
   },
