@@ -54446,5 +54446,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GVZT-5268-8158-2283-3052",
+    "norad_cat_id":56988.0,
+    "norad_follow_id":null,
+    "name":"AYRIS-1",
+    "names":"2023-084BJ",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-12T00:00:00Z",
+    "deployed":"2023-06-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IL",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-07T15:09:28.107373Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Xd5mNCXHQDX7XVAQBxr6kUD-25q10h6ult7qYI1pgIY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
