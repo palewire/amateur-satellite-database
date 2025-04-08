@@ -51711,7 +51711,7 @@
   },
   {
     "sat_id":"FOYA-6887-7497-4856-0981",
-    "norad_cat_id":98688.0,
+    "norad_cat_id":62677.0,
     "norad_follow_id":null,
     "name":"ELEVATION-1",
     "names":"",
@@ -51726,8 +51726,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.345899Z",
-    "citation":"Change Status",
+    "updated":"2025-04-08T04:29:07.615168Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
