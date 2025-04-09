@@ -1372,7 +1372,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"co66"
+      }
     ],
     "updated":"2023-05-06T18:54:17.533644Z",
     "citation":"na",
@@ -54142,7 +54144,7 @@
     "name":"HERMES H5",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
@@ -54152,8 +54154,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-24T14:15:58.718906Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/122",
+    "updated":"2025-04-09T12:05:05.397752Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/325",
     "is_frequency_violator":false,
     "associated_satellites":[
 
