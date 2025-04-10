@@ -53514,7 +53514,7 @@
   {
     "sat_id":"TPAP-4475-7915-0965-4305",
     "norad_cat_id":98637.0,
-    "norad_follow_id":null,
+    "norad_follow_id":63492.0,
     "name":"HADES-ICM",
     "names":"",
     "image":"",
@@ -53530,8 +53530,8 @@
         "decoder":"hadesicm"
       }
     ],
-    "updated":"2025-03-15T06:55:42.298481Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-04-09T17:08:06.230116Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53636,7 +53636,7 @@
   {
     "sat_id":"ZMUU-1298-3682-9426-1829",
     "norad_cat_id":98634.0,
-    "norad_follow_id":null,
+    "norad_follow_id":63490.0,
     "name":"HYDRA-W",
     "names":"",
     "image":"",
@@ -53650,8 +53650,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:42.164254Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-04-09T17:08:47.250071Z",
+    "citation":"Ikhnos analysis on Network observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -53996,7 +53996,7 @@
   {
     "sat_id":"HPUI-6622-0525-0305-6932",
     "norad_cat_id":98620.0,
-    "norad_follow_id":null,
+    "norad_follow_id":63220.0,
     "name":"AEROCUBE-18 A",
     "names":"",
     "image":"",
@@ -54010,8 +54010,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:42.065966Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-04-10T00:10:44.405821Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54116,7 +54116,7 @@
   {
     "sat_id":"AXDZ-6917-8551-3502-7467",
     "norad_cat_id":98610.0,
-    "norad_follow_id":null,
+    "norad_follow_id":63489.0,
     "name":"HERMES H6",
     "names":"",
     "image":"",
@@ -54130,8 +54130,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-02T18:17:08.279606Z",
-    "citation":"Remove temporary following ION deployer in favor of TLE at https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/266",
+    "updated":"2025-04-09T17:10:27.231884Z",
+    "citation":"Ikhnos analysis on Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54144,7 +54144,7 @@
     "name":"HERMES H5",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
@@ -54154,8 +54154,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-09T12:05:05.397752Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/325",
+    "updated":"2025-04-09T13:46:34.769330Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/326",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -1371,7 +1371,7 @@
   },
   {
     "name":"HADES-ICM",
-    "norad_id":null,
+    "norad_id":"63492",
     "uplink":"145.875",
     "downlink":"436.666",
     "beacon":"436.666",
@@ -1421,7 +1421,7 @@
   },
   {
     "name":"HERMES-H6",
-    "norad_id":null,
+    "norad_id":"63489",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
@@ -1511,7 +1511,7 @@
   },
   {
     "name":"HYDRA-W",
-    "norad_id":null,
+    "norad_id":"63490",
     "uplink":null,
     "downlink":"437.780",
     "beacon":null,
