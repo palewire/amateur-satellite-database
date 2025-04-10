@@ -850,7 +850,7 @@ ISS,25544,145.990,437.800,,FM tone 67.0Hz 9k6 GFSK,,active,XSKZ-5603-1870-9019-3
 ISS,25544,435.050,145.800,,FM tone 67.0Hz,,inactive,XSKZ-5603-1870-9019-3066
 ISS,25544,145.200,145.800,,Voice(Reg 1),,inactive,XSKZ-5603-1870-9019-3066
 ISS,25544,144.490,145.800,,Voice(Reg 2 3),,inactive,XSKZ-5603-1870-9019-3066
-Istanbul-1,56231,,,,,,unknown,
+Istanbul-1,,,,,,,re-entered,
 ISX,43856,,437.150,437.150,9600bps FSK CW,,inactive,WSKN-9493-7628-4683-4260
 ITASAT-1,43786,,145.860/2400.150,,1k2 BPSK/14k4 BPSK,PY0EIA,inactive,FDZF-3106-8767-3766-2200
 ISTSAT-1,60238,,145.895,145.895,1200bps AFSK CW,,unknown,VFKG-4740-7583-8424-4286
@@ -1122,8 +1122,8 @@ NOAA-19,33591,,137.100*/1698.000,,,,weather sat,LSCG-5988-6402-6624-6585
 NOAA 20,43013,,2248.000,,FM,,weather sat,UDBA-5128-1022-2939-7269
 NOAA-21,54234,,2247.500,,12k8 BPSK,,weather sat,CNAZ-9368-1972-2448-3217
 Nokhcho,61767,,437.550,RS79S,1135bps AFSK,,unknown,
-NOOR-1A,,,,,,,unknown,
-NOOR-1B,,,,,,,unknown,
+NOOR-1A,44827,,,,,,unknown,
+NOOR-1B,44828,,,,,,unknown,
 Norbi,46494,,436.700,,9600bps FSK/250k_LoRa,CUBSAT,active,DNNN-7162-2135-4056-8903
 Norby-2,57179,,435.600,,LoRa,,active,WSRI-6167-9286-6885-9902
 Norby-3,61761,,436.570,,LoRa,,unknown,
@@ -1839,13 +1839,25 @@ Umbra-09,,,2254.000,,FM,,unknown,
 Umbra-10,,,2254.000,,FM,,unknown,
 UmKA-1,57172,,435.825/437.625*/2402.000,,2k4/4k8/9k6*GMSK_USP SSTV,RS40S,active,SDUV-9624-5611-1090-5908
 UniBRITE,39092,,145.890,145.890,CW,,inactive,JVIG-3362-0807-4026-2397
-UNICORN-1,51076,,401.820,,9600bps FSK,,unknown,
+UNICORN-1,51076,,401.820,,9600bps FSK,,re-entered,
+UNICORN-2,52421,,,,,,re-entered,
 UNICORN-2A,51073,,401.820,,9600bps FSK,,re-entered,
-UNICORN-2B,,,,,,,unknown,
-UNICORN-2C,,,,,,,unknown,
+UNICORN-2B,44827,,,,,,re-entered,
+UNICORN-2C,44828,,,,,,re-entered,
 UNICORN-2D,51032,,401.820,,9600bps FSK,,re-entered,UFKA-4180-3727-4648-0537
-UNICORN-2E,,,,,,,unknown,
-UNICORN-2I,56230,,401.820,,9k6_FSK,,inactive,ZHHQ-5752-7286-6121-4715
+UNICORN-2E,,,,,,,re-entered,
+UNICORN-2F,,,,,,,re-entered,
+UNICORN-2G,,,,,,,failure,
+UNICORN-2H,,,,,,,failure,
+UNICORN-2I,56230,,401.820,,9k6_FSK,,re-entered,ZHHQ-5752-7286-6121-4715
+UNICORN-2J,58566,,,,,,re-entered,
+UNICORN-2K,,,,,,,re-entered,
+UNICORN-2L,,,,,,,unknown,
+UNICORN-2M,,,,,,,unknown,
+UNICORN-2N,58642,,,,,,re-entered,
+UNICORN-2O,,,,,,,to be launched,
+UNICORN-2P,,,,,,,to be launched,
+UNICORN-2Q,,,,,,,to be launched,
 UNICubeSAT,38085,,437.305,,9600bps FSK,,inactive,
 UNIFORM-1,39767,,2228.000,,,,non-amateur,
 UniSat-5,39421,,437.175/437.425,,9600bps GMSK,,inactive,

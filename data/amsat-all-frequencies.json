@@ -9362,13 +9362,13 @@
   },
   {
     "name":"Istanbul-1",
-    "norad_id":"56231",
+    "norad_id":null,
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -12354,7 +12354,7 @@
   },
   {
     "name":"NOOR-1A",
-    "norad_id":null,
+    "norad_id":"44827",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -12365,7 +12365,7 @@
   },
   {
     "name":"NOOR-1B",
-    "norad_id":null,
+    "norad_id":"44828",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -20247,7 +20247,18 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2",
+    "norad_id":"52421",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -20263,24 +20274,24 @@
   },
   {
     "name":"UNICORN-2B",
-    "norad_id":null,
+    "norad_id":"44827",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
     "name":"UNICORN-2C",
-    "norad_id":null,
+    "norad_id":"44828",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -20302,7 +20313,40 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2F",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2G",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2H",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -20313,8 +20357,96 @@
     "beacon":null,
     "mode":"9k6_FSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"ZHHQ-5752-7286-6121-4715"
+  },
+  {
+    "name":"UNICORN-2J",
+    "norad_id":"58566",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2K",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2L",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2M",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2N",
+    "norad_id":"58642",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2O",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2P",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNICORN-2Q",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"UNICubeSAT",
