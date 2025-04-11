@@ -53974,7 +53974,7 @@
     "norad_cat_id":98619.0,
     "norad_follow_id":null,
     "name":"AEROCUBE-18 B",
-    "names":"",
+    "names":"63222",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -53986,8 +53986,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:42.037972Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-04-11T08:41:19.758658Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
