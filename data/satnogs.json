@@ -54472,5 +54472,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GBZR-5672-8725-5183-7557",
+    "norad_cat_id":63298.0,
+    "norad_follow_id":null,
+    "name":"Unknown 25055H",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-11T13:51:29.663656Z",
+    "citation":"PE0SAT strf observations",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UVDR-2969-8593-6169-2536",
+    "norad_cat_id":44547.0,
+    "norad_follow_id":null,
+    "name":"YUNHAI 1-02",
+    "names":"2019-063A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-09-25T00:00:00Z",
+    "deployed":"2019-09-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-11T15:19:46.680037Z",
+    "citation":"From message on Satnogs Element",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
