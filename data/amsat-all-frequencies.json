@@ -10615,6 +10615,17 @@
     "satnogs_id":"XZYN-7948-2944-3246-2882"
   },
   {
+    "name":"LIZZIESAT-3",
+    "norad_id":"63233",
+    "uplink":null,
+    "downlink":"2201.200",
+    "beacon":null,
+    "mode":"400kbps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"IJGZ-8632-7360-8929-3381"
+  },
+  {
     "name":"LOGSATS",
     "norad_id":"58465",
     "uplink":null,
