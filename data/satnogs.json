@@ -12155,8 +12155,8 @@
     "name":"Orbicraft-Zorkiy",
     "names":"RS15S",
     "image":"satellites\/Zorkiy-panel_lg.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-04-12T12:06:40Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites-sputnix\/in-orbit\/cubesat-6u",
@@ -12167,8 +12167,8 @@
         "decoder":"sputnixusp"
       }
     ],
-    "updated":"2023-02-07T19:58:11.451425Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-04-12T13:21:26.864915Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/11396179\/ and https:\/\/network.satnogs.org\/observations\/11396196\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54516,6 +54516,30 @@
     ],
     "updated":"2025-04-11T15:19:46.680037Z",
     "citation":"From message on Satnogs Element",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IJGZ-8632-7360-8929-3381",
+    "norad_cat_id":63233.0,
+    "norad_follow_id":null,
+    "name":"LIZZIESAT (LS-3)",
+    "names":"2025-052Z",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-03-15T00:00:00Z",
+    "deployed":"2025-03-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-12T19:12:36.064262Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ReeDb5zfXMUAd--i1nDfniWW0n6JEb4LTNd39a_L5ks\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
