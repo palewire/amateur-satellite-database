@@ -54544,5 +54544,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"HESP-1067-2752-7440-5400",
+    "norad_cat_id":47305.0,
+    "norad_follow_id":null,
+    "name":"CSO 2",
+    "names":"2020-104A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2020-12-29T00:00:00Z",
+    "deployed":"2020-12-29T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-13T20:31:10.034314Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ppLR1PhROJW1yyGqvn9ndbLrQjxQivbhK4z_FpNhfrg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

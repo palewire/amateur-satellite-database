@@ -570,16 +570,6 @@
     "satnogs_id":"WRLU-1723-6543-5361-0506"
   },
   {
-    "name":"Colibri-S",
-    "norad_id":"61746",
-    "uplink":null,
-    "downlink":"436.835",
-    "beacon":"436.835",
-    "mode":"9600bps GFSK CW*",
-    "callsign":"RS67S",
-    "satnogs_id":"OVBN-0332-6282-0409-5232"
-  },
-  {
     "name":"ConnectaIoT-1",
     "norad_id":"60472",
     "uplink":null,
@@ -1858,16 +1848,6 @@
     "mode":"1200bps AFSK CW*",
     "callsign":"JQ1YYY",
     "satnogs_id":"BFDT-9094-9258-2665-0692"
-  },
-  {
-    "name":"Kolibri-S",
-    "norad_id":"61746",
-    "uplink":null,
-    "downlink":"436.835",
-    "beacon":"436.835",
-    "mode":"9600bps GFSK CW*",
-    "callsign":"RS67S",
-    "satnogs_id":"OVBN-0332-6282-0409-5232"
   },
   {
     "name":"KOSEN-1",

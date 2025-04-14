@@ -4196,9 +4196,9 @@
     "uplink":null,
     "downlink":"436.835",
     "beacon":"436.835",
-    "mode":"9600bps GFSK CW*",
+    "mode":"9600bps GFSK CW",
     "callsign":"RS67S",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"OVBN-0332-6282-0409-5232"
   },
   {
@@ -9960,9 +9960,9 @@
     "uplink":null,
     "downlink":"436.835",
     "beacon":"436.835",
-    "mode":"9600bps GFSK CW*",
+    "mode":"9600bps GFSK CW",
     "callsign":"RS67S",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"OVBN-0332-6282-0409-5232"
   },
   {
