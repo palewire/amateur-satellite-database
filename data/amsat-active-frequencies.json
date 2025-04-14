@@ -1407,7 +1407,7 @@
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"KCXP-0649-4427-9976-3893"
   },
   {
     "name":"HERMES-H6",
@@ -2298,16 +2298,6 @@
     "mode":"1k2*AFSK FM tone 88.5Hz",
     "callsign":"YBSAT\/YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
-  },
-  {
-    "name":"ORBICRAFT-ZORKIY",
-    "norad_id":"47960",
-    "uplink":null,
-    "downlink":"437.850*\/437.950\/10465.000",
-    "beacon":null,
-    "mode":"2k4\/4k8*\/9k6GMSK_USP SSTV",
-    "callsign":"RS15S",
-    "satnogs_id":"OMJF-9743-1169-8966-7578"
   },
   {
     "name":"ORCASAT",

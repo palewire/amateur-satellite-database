@@ -8093,7 +8093,7 @@
     "mode":"25000bps GFSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"KCXP-0649-4427-9976-3893"
   },
   {
     "name":"HERMES-H3",
@@ -12998,7 +12998,7 @@
     "beacon":null,
     "mode":"2k4\/4k8*\/9k6GMSK_USP SSTV",
     "callsign":"RS15S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"OMJF-9743-1169-8966-7578"
   },
   {

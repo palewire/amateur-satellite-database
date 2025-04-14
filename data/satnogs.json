@@ -54211,8 +54211,8 @@
   },
   {
     "sat_id":"KCXP-0649-4427-9976-3893",
-    "norad_cat_id":98614.0,
-    "norad_follow_id":63243.0,
+    "norad_cat_id":63243.0,
+    "norad_follow_id":null,
     "name":"HERMES H2",
     "names":"",
     "image":"",
@@ -54226,8 +54226,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-01T09:32:43.601295Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/254",
+    "updated":"2025-04-14T08:43:44.232224Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63243\/2025-04-13T09%3A47%3A07_11390505_63243_25052AK_0-OBJECT-AK_0.26952946740740913_B_r50.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
