@@ -13821,13 +13821,13 @@
   },
   {
     "sat_id":"ZGMS-1913-1268-0054-9591",
-    "norad_cat_id":99800.0,
-    "norad_follow_id":46273.0,
+    "norad_cat_id":46273.0,
+    "norad_follow_id":null,
     "name":"ESAIL",
     "names":"",
     "image":"satellites\/esail__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-03-03T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -13836,8 +13836,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:43.048013Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-04-15T07:30:28.755735Z",
+    "citation":"space-track.org satcat",
     "is_frequency_violator":false,
     "associated_satellites":[
 
