@@ -53322,7 +53322,7 @@
   {
     "sat_id":"TEEQ-9120-3378-4148-7582",
     "norad_cat_id":98646.0,
-    "norad_follow_id":63218.0,
+    "norad_follow_id":63219.0,
     "name":"TEVEL2-2",
     "names":"",
     "image":"",
@@ -53336,8 +53336,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.944486Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-15T17:57:00.391894Z",
+    "citation":"Checked with the help of an IQ replay",
     "is_frequency_violator":false,
     "associated_satellites":[
 
