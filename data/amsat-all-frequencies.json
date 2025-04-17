@@ -19580,6 +19580,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Tomorrow-R1",
+    "norad_id":"56199",
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"38k4 GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"BEOV-3887-3126-0382-4341"
+  },
+  {
     "name":"Tomorrow-R2",
     "norad_id":"56959",
     "uplink":null,
