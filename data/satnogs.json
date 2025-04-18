@@ -1486,8 +1486,8 @@
     "name":"PRISM",
     "names":"HITOMI",
     "image":"satellites\/PRISM_AutoF.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-04-16T00:00:00Z",
     "launched":"2009-01-23T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.pe0sat.vgnet.nl\/satellite\/cube-nano-picosats\/prism\/",
@@ -1496,8 +1496,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:53:57.866785Z",
-    "citation":"https:\/\/www.pe0sat.vgnet.nl\/satellite\/cube-nano-picosats\/prism\/",
+    "updated":"2025-04-17T19:54:42.883326Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/?norad=33493",
     "is_frequency_violator":false,
     "associated_satellites":[
 
