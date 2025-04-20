@@ -1430,16 +1430,6 @@
     "satnogs_id":"ZVPZ-0777-4479-4472-0152"
   },
   {
-    "name":"HITOMI",
-    "norad_id":"33493",
-    "uplink":null,
-    "downlink":"437.425",
-    "beacon":"437.250",
-    "mode":"1k2AFSK 9k6GMSK CW*",
-    "callsign":"JQ1YCX",
-    "satnogs_id":"VAJK-7711-8203-8371-3078"
-  },
-  {
     "name":"Horizon",
     "norad_id":"61757",
     "uplink":null,
@@ -2478,16 +2468,6 @@
     "mode":"FM* tone 141.3Hz CW",
     "callsign":"D1W2PH",
     "satnogs_id":"HIEK-3729-5596-2727-4744"
-  },
-  {
-    "name":"PRISM",
-    "norad_id":"33493",
-    "uplink":null,
-    "downlink":"437.425",
-    "beacon":"437.250",
-    "mode":"1k2AFSK 9k6GMSK CW*",
-    "callsign":"JQ1YCX",
-    "satnogs_id":"VAJK-7711-8203-8371-3078"
   },
   {
     "name":"QO-100",

@@ -8191,7 +8191,7 @@
     "beacon":"437.250",
     "mode":"1k2AFSK 9k6GMSK CW*",
     "callsign":"JQ1YCX",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"VAJK-7711-8203-8371-3078"
   },
   {
@@ -14131,7 +14131,7 @@
     "beacon":"437.250",
     "mode":"1k2AFSK 9k6GMSK CW*",
     "callsign":"JQ1YCX",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"VAJK-7711-8203-8371-3078"
   },
   {
