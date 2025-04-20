@@ -54568,5 +54568,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"HHGZ-5215-4378-0264-4038",
+    "norad_cat_id":98608.0,
+    "norad_follow_id":null,
+    "name":"Phoenix One",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/atmos-space-cargo.com\/",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-20T10:01:21.036830Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
