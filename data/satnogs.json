@@ -8508,7 +8508,9 @@
     "operator":"None",
     "countries":"KR",
     "telemetries":[
-
+      {
+        "decoder":"snuglite"
+      }
     ],
     "updated":"2024-09-18T10:26:04.187388Z",
     "citation":"https:\/\/snuglitecubesat.wixsite.com\/website\/snuglite-project",
@@ -53346,7 +53348,7 @@
   {
     "sat_id":"HOVZ-3709-8195-4274-1541",
     "norad_cat_id":98645.0,
-    "norad_follow_id":63219.0,
+    "norad_follow_id":63218.0,
     "name":"TEVEL2-3",
     "names":"",
     "image":"",
@@ -53360,8 +53362,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.926141Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-20T18:23:47.320679Z",
+    "citation":"network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53442,7 +53444,7 @@
   {
     "sat_id":"UAJW-1753-5711-2656-8187",
     "norad_cat_id":98641.0,
-    "norad_follow_id":63239.0,
+    "norad_follow_id":63238.0,
     "name":"TEVEL2-7",
     "names":"",
     "image":"",
@@ -53456,8 +53458,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-04T04:07:47.903167Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/287",
+    "updated":"2025-04-20T18:25:50.712616Z",
+    "citation":"PE0SAT observations analysis",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53466,7 +53468,7 @@
   {
     "sat_id":"XCLO-3560-6764-5044-2622",
     "norad_cat_id":98640.0,
-    "norad_follow_id":63237.0,
+    "norad_follow_id":63239.0,
     "name":"TEVEL2-8",
     "names":"",
     "image":"",
@@ -53480,8 +53482,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-04T04:07:52.224760Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/287",
+    "updated":"2025-04-20T18:26:09.782200Z",
+    "citation":"PE0SAT observations analysis",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53490,7 +53492,7 @@
   {
     "sat_id":"YEOH-3929-6205-1615-7126",
     "norad_cat_id":98639.0,
-    "norad_follow_id":63238.0,
+    "norad_follow_id":63237.0,
     "name":"TEVEL2-9",
     "names":"",
     "image":"",
@@ -53504,8 +53506,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-04T04:07:56.799077Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/287",
+    "updated":"2025-04-20T18:26:25.430456Z",
+    "citation":"PE0SAT observations analysis",
     "is_frequency_violator":false,
     "associated_satellites":[
 
