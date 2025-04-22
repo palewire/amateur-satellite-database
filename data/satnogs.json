@@ -54578,7 +54578,7 @@
     "name":"Phoenix One",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -54588,8 +54588,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-21T13:04:35.554846Z",
-    "citation":"Set to alive to schedule observations in Network",
+    "updated":"2025-04-22T03:32:24.798455Z",
+    "citation":"Satellite team and expected trajectory",
     "is_frequency_violator":false,
     "associated_satellites":[
 
