@@ -8512,8 +8512,8 @@
         "decoder":"snuglite"
       }
     ],
-    "updated":"2024-09-18T10:26:04.187388Z",
-    "citation":"https:\/\/snuglitecubesat.wixsite.com\/website\/snuglite-project",
+    "updated":"2025-04-21T16:50:22.148329Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54578,7 +54578,7 @@
     "name":"Phoenix One",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -54588,8 +54588,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-20T10:01:21.036830Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-04-21T13:04:35.554846Z",
+    "citation":"Set to alive to schedule observations in Network",
     "is_frequency_violator":false,
     "associated_satellites":[
 
