@@ -2290,16 +2290,6 @@
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
   {
-    "name":"ORCASAT",
-    "norad_id":"55126",
-    "uplink":null,
-    "downlink":"437.060",
-    "beacon":null,
-    "mode":"10.17kbit\/s FSK",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"OreSat-0.5",
     "norad_id":"60525",
     "uplink":null,
