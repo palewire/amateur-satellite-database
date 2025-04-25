@@ -1490,16 +1490,6 @@
     "satnogs_id":null
   },
   {
-    "name":"HYDRA-W",
-    "norad_id":"63490",
-    "uplink":null,
-    "downlink":"437.780",
-    "beacon":null,
-    "mode":"200bps USB",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"INNOCUBE",
     "norad_id":"62616",
     "uplink":null,

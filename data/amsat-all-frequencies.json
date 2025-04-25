@@ -8543,7 +8543,7 @@
     "beacon":null,
     "mode":"200bps USB",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
