@@ -38423,8 +38423,8 @@
     "name":"Hayasat",
     "names":"Hayasat-1, EK1HYS",
     "image":"satellites\/Hayasat.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-04-25T00:00:00Z",
     "launched":"2023-12-01T18:19:00Z",
     "deployed":null,
     "website":"https:\/\/www.bazoomq.org\/hayasat-1",
@@ -38433,8 +38433,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T22:12:24.291170Z",
-    "citation":"Updated image",
+    "updated":"2025-04-26T08:06:29.018529Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=58471",
     "is_frequency_violator":true,
     "associated_satellites":[
       "QMNO-1392-5483-8050-7868"

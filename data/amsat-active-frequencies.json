@@ -1370,16 +1370,6 @@
     "satnogs_id":null
   },
   {
-    "name":"Hayasat-1",
-    "norad_id":"58471",
-    "uplink":null,
-    "downlink":"437.020",
-    "beacon":null,
-    "mode":"9600bps GFSK",
-    "callsign":"EK1HYS",
-    "satnogs_id":"FNGO-2772-5931-1779-2835"
-  },
-  {
     "name":"HA-1",
     "norad_id":"43156",
     "uplink":"145.930",
