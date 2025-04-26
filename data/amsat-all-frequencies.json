@@ -3025,6 +3025,17 @@
     "satnogs_id":"NNNU-2927-1621-5351-4273"
   },
   {
+    "name":"CANVAS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Canyval-X 1\/2",
     "norad_id":null,
     "uplink":null,
@@ -13035,6 +13046,17 @@
     "satnogs_id":null
   },
   {
+    "name":"OrCa-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"OreSat-0",
     "norad_id":"52017",
     "uplink":null,
@@ -15092,12 +15114,34 @@
     "satnogs_id":"YBRZ-1252-5198-2682-7854"
   },
   {
+    "name":"RSP-02",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.910",
+    "beacon":null,
+    "mode":"9k6_GMSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"RSP-03",
     "norad_id":null,
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
     "mode":"1k2_AFSK 2k4_4FSK OQPSK 9k6_GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"RSP-04",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"128k",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -18931,6 +18975,17 @@
     "satnogs_id":null
   },
   {
+    "name":"TechEdSat-16",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"TechEdSat-22",
     "norad_id":null,
     "uplink":null,
@@ -21084,6 +21139,28 @@
     "mode":"CW",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"VSCP-1A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"VSCP-1B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {

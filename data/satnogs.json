@@ -54594,5 +54594,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"YYFY-3983-6706-5917-4291",
+    "norad_cat_id":62664.0,
+    "norad_follow_id":null,
+    "name":"LYRA-1",
+    "names":"2025-009BH",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-25T19:39:13.317043Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1zPwVm38ekW8CDJFDGtqakE-lJjSCk0kodTyP7_NsDx4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
