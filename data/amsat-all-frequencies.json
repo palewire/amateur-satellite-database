@@ -7950,7 +7950,7 @@
     "mode":"200*-2k4_USB FM CW",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"TPAP-4475-7915-0965-4305"
   },
   {
     "name":"Hamsat",
@@ -8555,7 +8555,7 @@
     "mode":"200bps USB",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"ZMUU-1298-3682-9426-1829"
   },
   {
     "name":"HYPE",
@@ -19192,7 +19192,7 @@
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-1-1",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"TJDQ-0178-9438-9402-8155"
   },
   {
     "name":"TEVEL2-2",
@@ -19225,7 +19225,7 @@
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-4-1",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"FVND-4948-5613-7394-9932"
   },
   {
     "name":"TEVEL2-5",
@@ -19236,7 +19236,7 @@
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-5-1",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"VYVA-6255-9438-9598-3516"
   },
   {
     "name":"TEVEL2-6",
@@ -19247,7 +19247,7 @@
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-6-1",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"TETG-4546-2995-9890-0055"
   },
   {
     "name":"TEVEL2-7",
@@ -19258,7 +19258,7 @@
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-7-1",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"UAJW-1753-5711-2656-8187"
   },
   {
     "name":"TEVEL2-8",
@@ -19269,7 +19269,7 @@
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-8-1",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"XCLO-3560-6764-5044-2622"
   },
   {
     "name":"TEVEL2-9",
@@ -19280,7 +19280,7 @@
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-9-1",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"YEOH-3929-6205-1615-7126"
   },
   {
     "name":"Thybolt-1",

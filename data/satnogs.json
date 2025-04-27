@@ -53299,8 +53299,8 @@
   },
   {
     "sat_id":"TJDQ-0178-9438-9402-8155",
-    "norad_cat_id":98647.0,
-    "norad_follow_id":63217.0,
+    "norad_cat_id":63217.0,
+    "norad_follow_id":null,
     "name":"TEVEL2-1",
     "names":"",
     "image":"",
@@ -53314,11 +53314,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.962815Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-26T19:19:56.832858Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63217\/2025-04-26T09%3A03%3A18_11480873_63217_25052H_0-OBJECT-H_0.06071053333333509_A_r38.5_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "AMOA-6407-3423-1403-7293"
     ]
   },
   {
@@ -53371,8 +53371,8 @@
   },
   {
     "sat_id":"FVND-4948-5613-7394-9932",
-    "norad_cat_id":98644.0,
-    "norad_follow_id":63213.0,
+    "norad_cat_id":63213.0,
+    "norad_follow_id":null,
     "name":"TEVEL2-4",
     "names":"",
     "image":"",
@@ -53386,17 +53386,17 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.907802Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-26T18:58:12.675266Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63213\/2025-04-23T21%3A10%3A23_11461953_63213_25052D_0-OBJECT-D_0.21663715814814566_B_r38.5_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "NERL-3695-6241-2035-7855"
     ]
   },
   {
     "sat_id":"VYVA-6255-9438-9598-3516",
-    "norad_cat_id":98643.0,
-    "norad_follow_id":63214.0,
+    "norad_cat_id":63214.0,
+    "norad_follow_id":null,
     "name":"TEVEL2-5",
     "names":"",
     "image":"",
@@ -53410,17 +53410,17 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.889443Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-26T18:45:15.805593Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63214\/2025-04-26T04%3A34%3A03_11480802_63214_25052E_0-OBJECT-E_0.04404341999999417_A_r38.5_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "LAKE-4359-2992-2668-5387"
     ]
   },
   {
     "sat_id":"TETG-4546-2995-9890-0055",
-    "norad_cat_id":98642.0,
-    "norad_follow_id":63215.0,
+    "norad_cat_id":63215.0,
+    "norad_follow_id":null,
     "name":"TEVEL2-6",
     "names":"",
     "image":"",
@@ -53434,17 +53434,17 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:36.728450Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-04-26T18:40:55.857583Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63215\/2025-04-26T08%3A57%3A05_11480833_63215_25052F_0-OBJECT-F_0.1258028629629564_A_r38.5_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "IQBS-4867-9993-9068-2682"
     ]
   },
   {
     "sat_id":"UAJW-1753-5711-2656-8187",
-    "norad_cat_id":98641.0,
-    "norad_follow_id":63238.0,
+    "norad_cat_id":63238.0,
+    "norad_follow_id":null,
     "name":"TEVEL2-7",
     "names":"",
     "image":"",
@@ -53458,17 +53458,17 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-20T18:25:50.712616Z",
-    "citation":"PE0SAT observations analysis",
+    "updated":"2025-04-26T18:37:00.999768Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63238\/2025-04-26T08%3A15%3A48_11483368_63238_25052AE_0-OBJECT-AE_0.13780731555554837_B_r38.5_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "EVNX-0886-6549-2636-7740"
     ]
   },
   {
     "sat_id":"XCLO-3560-6764-5044-2622",
-    "norad_cat_id":98640.0,
-    "norad_follow_id":63239.0,
+    "norad_cat_id":63239.0,
+    "norad_follow_id":null,
     "name":"TEVEL2-8",
     "names":"",
     "image":"",
@@ -53482,17 +53482,17 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-20T18:26:09.782200Z",
-    "citation":"PE0SAT observations analysis",
+    "updated":"2025-04-26T16:41:30.266391Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63239\/2025-04-23T22%3A04%3A22_11461895_63239_25052AF_0-OBJECT-AF_2.0240284059259324_A_r38.5_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "TDJO-3816-5133-7463-5259"
     ]
   },
   {
     "sat_id":"YEOH-3929-6205-1615-7126",
-    "norad_cat_id":98639.0,
-    "norad_follow_id":63237.0,
+    "norad_cat_id":63237.0,
+    "norad_follow_id":null,
     "name":"TEVEL2-9",
     "names":"",
     "image":"",
@@ -53506,17 +53506,17 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-20T18:26:25.430456Z",
-    "citation":"PE0SAT observations analysis",
+    "updated":"2025-04-26T16:24:54.817414Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63237\/2025-04-26T04%3A53%3A55_11480754_63237_25052AD_0-OBJECT-AD_0.0015505437037006686_A_r38.5_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "IMFZ-5495-9229-4651-2576"
     ]
   },
   {
     "sat_id":"TPAP-4475-7915-0965-4305",
-    "norad_cat_id":98637.0,
-    "norad_follow_id":63492.0,
+    "norad_cat_id":63492.0,
+    "norad_follow_id":null,
     "name":"HADES-ICM",
     "names":"",
     "image":"",
@@ -53532,11 +53532,11 @@
         "decoder":"hadesicm"
       }
     ],
-    "updated":"2025-04-09T17:08:06.230116Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2025-04-26T19:35:39.007718Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63492\/2025-04-26T09%3A01%3A31_11480656_63492_25052BN_0-OBJECT-BN_0.40098408074074143_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "PJLO-8862-7918-1336-0908"
     ]
   },
   {
@@ -53637,8 +53637,8 @@
   },
   {
     "sat_id":"ZMUU-1298-3682-9426-1829",
-    "norad_cat_id":98634.0,
-    "norad_follow_id":63490.0,
+    "norad_cat_id":63490.0,
+    "norad_follow_id":null,
     "name":"HYDRA-W",
     "names":"",
     "image":"",
@@ -53652,11 +53652,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-09T17:08:47.250071Z",
-    "citation":"Ikhnos analysis on Network observations",
+    "updated":"2025-04-26T19:38:15.910583Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63490\/2025-04-26T15%3A11%3A08_11480623_63490_25052BL_0-OBJECT-BL_0.6619615614814904_B_r24.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "SOLX-2575-6918-2904-2210"
     ]
   },
   {
