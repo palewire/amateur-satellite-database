@@ -54618,5 +54618,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"CALZ-4762-0079-5930-5917",
+    "norad_cat_id":62696.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 STAR-FOX",
+    "names":"2025-009CR",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-27T09:33:33.691609Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1by0QJ1IkRLU5xYLu-xQ2IE_3P1RD3pZyYYaPX_a0mzk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
