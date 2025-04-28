@@ -54642,5 +54642,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"DIMF-3031-6909-7806-4195",
+    "norad_cat_id":62931.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-2E",
+    "names":"2025-028D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-02-08T00:00:00Z",
+    "deployed":"2025-02-08T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-27T13:31:26.468443Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1kQRWSceazCD8_bxI8LMVntJmnKFG6Bqm30ffUEw8ah4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RKKC-6356-1747-0473-1462",
+    "norad_cat_id":59141.0,
+    "norad_follow_id":null,
+    "name":"TIGER-7",
+    "names":"2024-043AV",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":"2024-03-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RW",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-27T18:43:18.729305Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Ka72mug3neszZT6khiDAcg24da0ubKaRR07OhU97IqA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
