@@ -6150,14 +6150,14 @@
   },
   {
     "name":"Elevation-1",
-    "norad_id":null,
+    "norad_id":"62677",
     "uplink":null,
     "downlink":"400.200*\/400.575",
     "beacon":"2245.500",
     "mode":"7416bps FSK FM",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"FOYA-6887-7497-4856-0981"
   },
   {
     "name":"ELFIN-A",
@@ -6964,6 +6964,17 @@
   },
   {
     "name":"FossaSat-2E19",
+    "norad_id":"62676",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"QUNZ-3626-5921-8463-0434"
+  },
+  {
+    "name":"FossaSat-2E20",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.700",
@@ -9920,6 +9931,17 @@
     "callsign":"YM2RKS",
     "status":"active",
     "satnogs_id":"LIQD-2119-7593-4558-1219"
+  },
+  {
+    "name":"KINEIS-2E",
+    "norad_id":"62931",
+    "uplink":null,
+    "downlink":"400.644",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"DIMF-3031-6909-7806-4195"
   },
   {
     "name":"KITSUNE",
