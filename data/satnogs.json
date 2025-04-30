@@ -54690,5 +54690,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GFYX-2544-2234-7063-3678",
+    "norad_cat_id":98607.0,
+    "norad_follow_id":null,
+    "name":"BIOMASS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-04-29T09:15:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"ESA",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-29T14:56:13.888443Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=EEhmFO_Y_WE",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TPKP-0250-5312-3451-3572",
+    "norad_cat_id":5560.0,
+    "norad_follow_id":null,
+    "name":"ASTEX 1",
+    "names":"1971-089A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"1971-10-17T00:00:00Z",
+    "deployed":"1971-10-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-29T17:57:45.737605Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/13EAG86lMPHqh6YrBtNTpUcEIw_gjNlty7kK_TxHjUQc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
