@@ -39097,8 +39097,8 @@
     "name":"Barry-1",
     "names":"B1B2",
     "image":"satellites\/b1b2_angles_v001_0005.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-04-07T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:44:27Z",
     "website":"https:\/\/rogue.space\/missions\/barry-1\/",
@@ -39107,8 +39107,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T01:32:26.440318Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58338\/2023-12-04T22%3A34%3A58_8646639_58338_23174CL_0-OBJECT-CL_0.4016610540740544_B_r24.0_f-1.0.png",
+    "updated":"2025-04-30T08:50:45.858075Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
       "NBQF-9040-3877-9153-0686"

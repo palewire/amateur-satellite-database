@@ -3645,7 +3645,7 @@
     "uplink":null,
     "downlink":"435.613",
     "beacon":null,
-    "mode":"1000bps FSK",
+    "mode":"1000bps GFSK",
     "callsign":null,
     "satnogs_id":"FWIK-4601-2533-0527-1613"
   },
