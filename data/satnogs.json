@@ -12143,8 +12143,8 @@
         "decoder":"grbalpha"
       }
     ],
-    "updated":"2023-01-03T04:24:21.351092Z",
-    "citation":"https:\/\/www.om3ksi.sk\/en\/2021\/03\/19\/do-not-miss-the-launch-of-the-second-slovak-satellite-grbalpha\/",
+    "updated":"2025-04-30T16:47:42.362160Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54734,6 +54734,30 @@
     ],
     "updated":"2025-04-29T17:57:45.737605Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/13EAG86lMPHqh6YrBtNTpUcEIw_gjNlty7kK_TxHjUQc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NEOX-9503-4846-7418-8078",
+    "norad_cat_id":98606.0,
+    "norad_follow_id":null,
+    "name":"Delfi-Twin",
+    "names":"",
+    "image":"satellites\/Delfi-Twin.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.tudelft.nl\/lr\/delfi-space\/delfi-program",
+    "operator":"None",
+    "countries":"NL",
+    "telemetries":[
+
+    ],
+    "updated":"2025-04-30T16:47:16.075473Z",
+    "citation":"Adding temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
