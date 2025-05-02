@@ -32923,8 +32923,8 @@
     "name":"Yarilo No. 3",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-04-28T00:00:00Z",
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/bsail.ru\/?page_id=2255&lang=en",
@@ -32933,8 +32933,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-06T23:44:47.768676Z",
-    "citation":"ikhnos identificated",
+    "updated":"2025-05-02T07:39:04.967840Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=57198",
     "is_frequency_violator":true,
     "associated_satellites":[
       "HGXU-3537-8964-9124-6162"
