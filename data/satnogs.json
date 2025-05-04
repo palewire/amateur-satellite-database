@@ -54762,5 +54762,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"JIWX-0747-6970-8531-1068",
+    "norad_cat_id":55329.0,
+    "norad_follow_id":null,
+    "name":"IGS RADAR 7",
+    "names":"2023-012A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-01-26T00:00:00Z",
+    "deployed":"2023-01-26T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-05-04T09:33:21.001935Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1suQM0X8QUIqvgfBBH1i4zEVbwVaYTYgaIkITmgLLEmY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
