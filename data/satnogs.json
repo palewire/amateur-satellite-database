@@ -54142,7 +54142,7 @@
   {
     "sat_id":"WUKW-6330-0740-0240-9676",
     "norad_cat_id":98611.0,
-    "norad_follow_id":null,
+    "norad_follow_id":63834.0,
     "name":"HERMES H5",
     "names":"",
     "image":"",
@@ -54156,8 +54156,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-04-09T13:46:34.769330Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/326",
+    "updated":"2025-05-07T08:18:10.610340Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/348",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54166,7 +54166,7 @@
   {
     "sat_id":"OFTK-1257-4466-4685-0808",
     "norad_cat_id":98612.0,
-    "norad_follow_id":null,
+    "norad_follow_id":63833.0,
     "name":"HERMES H4",
     "names":"",
     "image":"",
@@ -54180,8 +54180,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-24T14:15:58.688641Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/122",
+    "updated":"2025-05-07T08:18:06.098993Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/348",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54190,7 +54190,7 @@
   {
     "sat_id":"XIVD-4897-2719-9942-8832",
     "norad_cat_id":98613.0,
-    "norad_follow_id":null,
+    "norad_follow_id":63835.0,
     "name":"HERMES H3",
     "names":"",
     "image":"",
@@ -54204,8 +54204,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-24T14:15:58.651074Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/122",
+    "updated":"2025-05-07T08:18:01.947198Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/348",
     "is_frequency_violator":false,
     "associated_satellites":[
 
