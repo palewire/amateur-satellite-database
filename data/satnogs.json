@@ -12135,7 +12135,7 @@
     "decayed":null,
     "launched":"2021-03-22T06:07:00Z",
     "deployed":null,
-    "website":"https:\/\/om3ksi.sk\/en\/grbalpha-en\/",
+    "website":"https:\/\/om3ksi.tuke.sk\/en\/home\/",
     "operator":"None",
     "countries":"HU",
     "telemetries":[
@@ -12143,8 +12143,8 @@
         "decoder":"grbalpha"
       }
     ],
-    "updated":"2025-04-30T16:47:42.362160Z",
-    "citation":"dl7ndr",
+    "updated":"2025-05-10T12:09:16.893577Z",
+    "citation":"Update website link",
     "is_frequency_violator":false,
     "associated_satellites":[
 
