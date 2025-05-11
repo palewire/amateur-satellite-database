@@ -54786,5 +54786,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"CMZG-7872-9403-7289-2611",
+    "norad_cat_id":62929.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-2C",
+    "names":"",
+    "image":"satellites\/kineis.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.kineis.com\/",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-05-10T21:29:32.990578Z",
+    "citation":"STRF Observation",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
