@@ -18862,8 +18862,8 @@
     "name":"SSS-1",
     "names":"",
     "image":"satellites\/SSS-1_QYon6E7.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-05-10T00:00:00Z",
     "launched":"2021-10-14T18:24:00Z",
     "deployed":null,
     "website":"",
@@ -18872,8 +18872,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-10-23T11:53:49.910536Z",
-    "citation":"Move name from \"other names\" to \"name\" field",
+    "updated":"2025-05-12T05:03:27.691200Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=49322",
     "is_frequency_violator":false,
     "associated_satellites":[
       "LZRM-2467-8982-4085-4433"
