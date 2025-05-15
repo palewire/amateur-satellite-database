@@ -8130,35 +8130,35 @@
   },
   {
     "name":"HERMES-H3",
-    "norad_id":null,
+    "norad_id":"63835",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"HERMES-H4",
-    "norad_id":null,
+    "norad_id":"63833",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"HERMES-H5",
-    "norad_id":null,
+    "norad_id":"63834",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

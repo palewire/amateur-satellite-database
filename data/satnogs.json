@@ -412,7 +412,7 @@
     "norad_cat_id":14781.0,
     "norad_follow_id":null,
     "name":"UOSAT 2",
-    "names":"UO-11OSCAR-11",
+    "names":"UO-11 OSCAR-11",
     "image":"satellites\/UoSat-2.jpg",
     "status":"alive",
     "decayed":null,
@@ -424,8 +424,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:56:31.662777Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-05-15T09:37:59.491896Z",
+    "citation":"Mistype. Added s space between \"UO-11\" and \"OSCAR-11\" in \"Other names\"",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18991,10 +18991,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
