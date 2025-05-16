@@ -18991,10 +18991,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -54806,6 +54806,30 @@
     ],
     "updated":"2025-05-10T21:29:32.990578Z",
     "citation":"STRF Observation",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AVNA-5006-9771-6873-2104",
+    "norad_cat_id":62700.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X41",
+    "names":"2025-009CV",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-05-15T20:49:38.355715Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1j0wfw4cOMeDTPogj17hIJnuBalNM2Yy-e_exhSbdziM\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
