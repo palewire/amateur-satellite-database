@@ -53686,7 +53686,7 @@
   {
     "sat_id":"GGXJ-9238-8176-9137-9636",
     "norad_cat_id":98632.0,
-    "norad_follow_id":null,
+    "norad_follow_id":63252.0,
     "name":"ARVAKER I",
     "names":"",
     "image":"",
@@ -53700,8 +53700,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:41.987116Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-05-17T11:05:59.380823Z",
+    "citation":"Suggested in the Matrix chat",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54830,6 +54830,30 @@
     ],
     "updated":"2025-05-15T20:49:38.355715Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1j0wfw4cOMeDTPogj17hIJnuBalNM2Yy-e_exhSbdziM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NSPV-9593-9175-6289-3371",
+    "norad_cat_id":43800.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X2",
+    "names":"2018-099AU",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-12-03T00:00:00Z",
+    "deployed":"2018-12-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2025-05-17T11:05:34.356288Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1SaLPEm3GHK6DEhGmvEB8Viy1wnwGqWOFj0x7ayj7Yng\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
