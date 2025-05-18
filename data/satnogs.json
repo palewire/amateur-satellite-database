@@ -54858,5 +54858,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"ISGT-6824-8899-8674-0425",
+    "norad_cat_id":64050.0,
+    "norad_follow_id":null,
+    "name":"TIANYI C",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-05-18T11:04:42.511139Z",
+    "citation":"STRF Obs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WIEX-2913-0110-1587-0519",
+    "norad_cat_id":64049.0,
+    "norad_follow_id":null,
+    "name":"TIANYI B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-05-18T11:04:33.837202Z",
+    "citation":"STRF Obs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
