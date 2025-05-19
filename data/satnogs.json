@@ -24679,7 +24679,7 @@
     "image":"satellites\/wren.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2013-11-21T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/amsat-uk.org\/2013\/10\/24\/wren-a-ham-radio-sstv-pocketqube\/",
     "operator":"None",
@@ -24687,8 +24687,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-11-02T21:09:12.874734Z",
-    "citation":"Check if it is came back alive",
+    "updated":"2025-05-18T16:08:40.272115Z",
+    "citation":"na",
     "is_frequency_violator":false,
     "associated_satellites":[
 
