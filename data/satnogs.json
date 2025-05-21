@@ -54906,5 +54906,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"XMDB-8297-3690-9765-7268",
+    "norad_cat_id":56847.0,
+    "norad_follow_id":null,
+    "name":"Object B",
+    "names":"2023-081B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-07T00:00:00Z",
+    "deployed":"2023-06-07T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-05-21T09:42:23.535212Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1n1486pZI9tz04inOPg8xv8IK8Zy6OMXZ_ci1xxxwMG8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
