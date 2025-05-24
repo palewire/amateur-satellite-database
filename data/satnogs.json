@@ -34287,7 +34287,7 @@
   {
     "sat_id":"FWIU-0278-1477-9989-7844",
     "norad_cat_id":99089.0,
-    "norad_follow_id":57186.0,
+    "norad_follow_id":57181.0,
     "name":"Impulse-1",
     "names":"\u0418\u043c\u043f\u0443\u043b\u044c\u0441-1",
     "image":"",
@@ -34301,8 +34301,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-25T11:45:20.755125Z",
-    "citation":"Possible TLE",
+    "updated":"2025-05-23T12:45:17.015583Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
