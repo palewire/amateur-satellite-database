@@ -13172,8 +13172,8 @@
     "uplink":null,
     "downlink":"400.500\/2222.500",
     "beacon":null,
-    "mode":"4k8\/9k6 GFSK",
-    "callsign":"ABCDEF",
+    "mode":"4k8*\/9k6 GFSK",
+    "callsign":"OTP-2",
     "status":"active",
     "satnogs_id":"XBMS-1269-7435-8541-4310"
   },
