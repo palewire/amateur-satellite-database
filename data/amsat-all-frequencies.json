@@ -11639,14 +11639,14 @@
   },
   {
     "name":"MTCube-1",
-    "norad_id":"44399",
+    "norad_id":"44395",
     "uplink":null,
     "downlink":"436.750",
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"inactive",
-    "satnogs_id":"AXJM-2333-0617-1242-6553"
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"MTCube-2",
@@ -15005,14 +15005,14 @@
   },
   {
     "name":"ROBUSTA-1C",
-    "norad_id":"44399",
+    "norad_id":"44395",
     "uplink":null,
     "downlink":"436.750",
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"inactive",
-    "satnogs_id":"AXJM-2333-0617-1242-6553"
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"ROBUSTA-1D",
