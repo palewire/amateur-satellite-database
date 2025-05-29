@@ -535,7 +535,7 @@
     "beacon":null,
     "mode":"1k2*AFSK 9k6 GMSK",
     "callsign":"RS17S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"BHEP-0319-3345-0774-6350"
   },
   {
@@ -1833,7 +1833,7 @@
     "beacon":null,
     "mode":"1200bps FSK LoRa",
     "callsign":"AZDSAT",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"EKAM-8316-2757-5928-1987"
   },
   {
@@ -2460,7 +2460,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
@@ -6992,7 +6992,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -7828,7 +7828,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
@@ -8686,7 +8686,7 @@
     "beacon":"BN0IDA",
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"FIOW-8506-8934-6705-7282"
   },
   {
@@ -8895,7 +8895,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":"INDUSR",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"AWLV-5462-4771-2461-0551"
   },
   {
@@ -9742,7 +9742,7 @@
     "beacon":null,
     "mode":"1200bps GMSK",
     "callsign":"KAFSAT",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"APQS-1800-5981-4551-3856"
   },
   {
@@ -9852,7 +9852,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -10391,7 +10391,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"ANXM-6391-1491-9881-7191"
   },
   {
@@ -12481,7 +12481,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"non-amateur",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -13867,7 +13867,7 @@
     "beacon":"436.680",
     "mode":"9k6* GFSK CW Digipeater",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"CBUM-7092-9005-4302-8636"
   },
   {
@@ -14010,7 +14010,7 @@
     "beacon":null,
     "mode":null,
     "callsign":"125k LoRa",
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"BIBQ-3650-2732-6215-9835"
   },
   {
@@ -14021,7 +14021,7 @@
     "beacon":null,
     "mode":null,
     "callsign":"125k LoRa",
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"BMIA-4278-8868-6922-2242"
   },
   {
@@ -14923,7 +14923,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
@@ -15066,7 +15066,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"ANXM-6391-1491-9881-7191"
   },
   {
@@ -17057,7 +17057,7 @@
     "beacon":"437.345",
     "mode":"2GMSK CW",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"AGJP-1224-9255-0586-8359"
   },
   {
@@ -19312,7 +19312,7 @@
     "beacon":"435.360",
     "mode":"4k8\/9k6 FSK CW*",
     "callsign":"THY01",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"WQPT-3457-5126-1772-6682"
   },
   {
@@ -19323,7 +19323,7 @@
     "beacon":"435.360",
     "mode":"4k8\/9k6 FSK CW*",
     "callsign":"THY02",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"FBWZ-9594-5872-5644-3969"
   },
   {

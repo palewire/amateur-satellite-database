@@ -18991,10 +18991,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -54926,6 +54926,30 @@
     ],
     "updated":"2025-05-21T09:42:23.535212Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1n1486pZI9tz04inOPg8xv8IK8Zy6OMXZ_ci1xxxwMG8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QNPL-4066-8786-5475-3992",
+    "norad_cat_id":43914.0,
+    "norad_follow_id":null,
+    "name":"HONGYAN 1",
+    "names":"2018-112F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-12-29T00:00:00Z",
+    "deployed":"2018-12-29T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-05-28T15:00:51.602052Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1L0BIWYrM1YHBM7MsQmW5j27fvNUgNGdHsJqAo4REglY\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

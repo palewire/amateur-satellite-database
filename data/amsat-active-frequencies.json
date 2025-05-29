@@ -40,16 +40,6 @@
     "satnogs_id":"ARXR-0292-1551-2619-9743"
   },
   {
-    "name":"AmicalSat",
-    "norad_id":"46287",
-    "uplink":null,
-    "downlink":"436.100*\/2415.300",
-    "beacon":null,
-    "mode":"1k2*AFSK 9k6 GMSK",
-    "callsign":"RS17S",
-    "satnogs_id":"BHEP-0319-3345-0774-6350"
-  },
-  {
     "name":"AmurSat",
     "norad_id":"44394",
     "uplink":null,
@@ -298,16 +288,6 @@
     "mode":"9600bps GMSK",
     "callsign":"N7SKC",
     "satnogs_id":"IGGV-1318-5974-9239-7350"
-  },
-  {
-    "name":"Blue Diamond",
-    "norad_id":"42783",
-    "uplink":null,
-    "downlink":"401.150",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":null,
-    "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
     "name":"BlueWalker-3",
@@ -1340,16 +1320,6 @@
     "satnogs_id":"KGEF-8685-2681-9687-2264"
   },
   {
-    "name":"Green Diamond",
-    "norad_id":"42783",
-    "uplink":null,
-    "downlink":"401.150",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":null,
-    "satnogs_id":"CNKC-2118-9597-8621-1044"
-  },
-  {
     "name":"HADES-R",
     "norad_id":"62690",
     "uplink":"145.925",
@@ -1528,16 +1498,6 @@
     "mode":"9600bps GFSK",
     "callsign":"BCT",
     "satnogs_id":"KAEG-9794-2542-4829-8548"
-  },
-  {
-    "name":"INS-2TD",
-    "norad_id":"51658",
-    "uplink":null,
-    "downlink":"435.080",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":"INDUSR",
-    "satnogs_id":"AWLV-5462-4771-2461-0551"
   },
   {
     "name":"INTUITION-1",
@@ -1818,16 +1778,6 @@
     "mode":"1200bps BPSK SSB CW",
     "callsign":"JY1SAT",
     "satnogs_id":"KLYF-4722-0218-1441-3015"
-  },
-  {
-    "name":"KAFASAT",
-    "norad_id":"58317",
-    "uplink":null,
-    "downlink":"435.835\/2404.400",
-    "beacon":null,
-    "mode":"1200bps GMSK",
-    "callsign":"KAFSAT",
-    "satnogs_id":"APQS-1800-5981-4551-3856"
   },
   {
     "name":"KILICSAT",
@@ -2400,16 +2350,6 @@
     "satnogs_id":"HGYE-7318-8290-9065-4147"
   },
   {
-    "name":"PLANETUM-1",
-    "norad_id":"52738",
-    "uplink":"145.925",
-    "downlink":"436.680",
-    "beacon":"436.680",
-    "mode":"9k6* GFSK CW Digipeater",
-    "callsign":null,
-    "satnogs_id":"CBUM-7092-9005-4302-8636"
-  },
-  {
     "name":"PlantSat",
     "norad_id":"52188",
     "uplink":null,
@@ -2508,16 +2448,6 @@
     "mode":"1k2*\/9k6 BPSK",
     "callsign":"RANDEV",
     "satnogs_id":"LYKB-5376-2648-5150-0020"
-  },
-  {
-    "name":"Red Diamond",
-    "norad_id":"42783",
-    "uplink":null,
-    "downlink":"401.150",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":null,
-    "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
     "name":"ROBUSTA-1E",
@@ -3190,16 +3120,6 @@
     "satnogs_id":"OOWE-8073-4789-5817-7258"
   },
   {
-    "name":"SMOG-1",
-    "norad_id":"47964",
-    "uplink":null,
-    "downlink":"437.345",
-    "beacon":"437.345",
-    "mode":"2GMSK CW",
-    "callsign":null,
-    "satnogs_id":"AGJP-1224-9255-0586-8359"
-  },
-  {
     "name":"SMOG-P",
     "norad_id":"44832",
     "uplink":null,
@@ -3578,26 +3498,6 @@
     "mode":"9600bps BPSK FM",
     "callsign":"TVL2-9-1",
     "satnogs_id":"YEOH-3929-6205-1615-7126"
-  },
-  {
-    "name":"Thybolt-1",
-    "norad_id":"54363",
-    "uplink":null,
-    "downlink":"436.175",
-    "beacon":"435.360",
-    "mode":"4k8\/9k6 FSK CW*",
-    "callsign":"THY01",
-    "satnogs_id":"WQPT-3457-5126-1772-6682"
-  },
-  {
-    "name":"Thybolt-2",
-    "norad_id":"54364",
-    "uplink":null,
-    "downlink":"436.175",
-    "beacon":"435.360",
-    "mode":"4k8\/9k6 FSK CW*",
-    "callsign":"THY02",
-    "satnogs_id":"FBWZ-9594-5872-5644-3969"
   },
   {
     "name":"TIANQIN-1",
