@@ -53518,7 +53518,7 @@
     "norad_cat_id":63492.0,
     "norad_follow_id":null,
     "name":"HADES-ICM",
-    "names":"",
+    "names":"SO-125",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -53532,8 +53532,8 @@
         "decoder":"hadesicm"
       }
     ],
-    "updated":"2025-04-26T19:35:39.007718Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63492\/2025-04-26T09%3A01%3A31_11480656_63492_25052BN_0-OBJECT-BN_0.40098408074074143_B_r24.0_f0.0.png",
+    "updated":"2025-05-29T16:34:37.993982Z",
+    "citation":"EA3EA",
     "is_frequency_violator":false,
     "associated_satellites":[
       "PJLO-8862-7918-1336-0908"
