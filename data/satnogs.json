@@ -54954,5 +54954,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"OEWZ-7837-0843-7324-3447",
+    "norad_cat_id":62085.0,
+    "norad_follow_id":null,
+    "name":"Kineis-5B",
+    "names":"2024-219E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-11-25T00:00:00Z",
+    "deployed":"2024-11-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-05-31T11:27:56.546969Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Y7OxVMzI0GLnVJU8Fe0DVbyWNi2_opBw7mpgoKq8rN0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
