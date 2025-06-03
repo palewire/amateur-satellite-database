@@ -11783,30 +11783,6 @@
     ]
   },
   {
-    "sat_id":"HDDF-3964-4305-4297-4074",
-    "norad_cat_id":47938.0,
-    "norad_follow_id":null,
-    "name":"Unknown Satellite",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2021-07-21T10:11:42.894899Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"GNLF-4402-1630-4837-3824",
     "norad_cat_id":47939.0,
     "norad_follow_id":null,
@@ -13106,8 +13082,8 @@
     "name":"CANYVAL-C 2U",
     "names":"Pumbaa",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-05-30T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -13116,11 +13092,11 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:34:36.789292Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-06-03T10:54:21.956488Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=47938",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "HDDF-3964-4305-4297-4074"
     ]
   },
   {
@@ -13130,8 +13106,8 @@
     "name":"CANYVAL-C 1U",
     "names":"Timon",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-05-30T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -13140,8 +13116,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:34:42.995362Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-06-03T10:54:07.703730Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=47938",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32314,7 +32290,7 @@
   {
     "sat_id":"IIBK-3665-7725-6873-0003",
     "norad_cat_id":99155.0,
-    "norad_follow_id":56748.0,
+    "norad_follow_id":56747.0,
     "name":"JLC-101-v1-2",
     "names":"JAC",
     "image":"satellites\/thumbnail_JLC-101-v1-2.png",
@@ -32328,8 +32304,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-03T10:44:17.792588Z",
-    "citation":"Satellite team",
+    "updated":"2025-06-03T12:08:09.321508Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/predicates\/OBJECT_ID,OBJECT_NAME,NORAD_CAT_ID,COUNTRY,PERIOD,INCLINATION,APOGEE,PERIGEE,RCS_SIZE,RCSVALUE,LAUNCH,COMMENT\/DECAY\/null-val\/CURRENT\/Y\/orderby\/NORAD_CAT_ID%20desc\/format\/html\/emptyresult\/show",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -51979,8 +51955,8 @@
   },
   {
     "sat_id":"VJYM-9912-3929-8135-4426",
-    "norad_cat_id":98677.0,
-    "norad_follow_id":62684.0,
+    "norad_cat_id":62684.0,
+    "norad_follow_id":null,
     "name":"IRIS-F2",
     "names":"",
     "image":"",
@@ -51994,8 +51970,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-05-31T17:53:24.373261Z",
-    "citation":"By PE2BZ strf observations",
+    "updated":"2025-06-03T10:49:35.272037Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53661,7 +53637,7 @@
   },
   {
     "sat_id":"IIMN-8263-4327-6890-1624",
-    "norad_cat_id":98633.0,
+    "norad_cat_id":63212.0,
     "norad_follow_id":null,
     "name":"IOD-1",
     "names":"IOD1, Startical 1",
@@ -53672,12 +53648,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"ES",
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:42.010220Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-06-03T10:37:27.995064Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/63212\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53709,7 +53685,7 @@
   },
   {
     "sat_id":"NCYO-4369-6511-4107-4327",
-    "norad_cat_id":98631.0,
+    "norad_cat_id":63223.0,
     "norad_follow_id":null,
     "name":"DROID.002",
     "names":"",
@@ -53720,12 +53696,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:41.945265Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-06-03T10:37:56.204301Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/63223\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53853,7 +53829,7 @@
   },
   {
     "sat_id":"HEXS-1537-1719-9417-4530",
-    "norad_cat_id":98625.0,
+    "norad_cat_id":63247.0,
     "norad_follow_id":null,
     "name":"EZIE-A",
     "names":"",
@@ -53868,8 +53844,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:41.834422Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-06-03T10:42:31.254043Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53877,7 +53853,7 @@
   },
   {
     "sat_id":"NJXF-0769-8231-7706-2942",
-    "norad_cat_id":98624.0,
+    "norad_cat_id":63250.0,
     "norad_follow_id":null,
     "name":"EZIE-B",
     "names":"",
@@ -53892,8 +53868,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:41.857796Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-06-03T10:45:01.502297Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53901,7 +53877,7 @@
   },
   {
     "sat_id":"PDCU-2422-0291-6540-9954",
-    "norad_cat_id":98623.0,
+    "norad_cat_id":63249.0,
     "norad_follow_id":null,
     "name":"EZIE-C",
     "names":"",
@@ -53916,8 +53892,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:41.880470Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-06-03T10:44:07.057583Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53973,10 +53949,10 @@
   },
   {
     "sat_id":"YCBA-3471-7604-0041-1680",
-    "norad_cat_id":98619.0,
+    "norad_cat_id":63222.0,
     "norad_follow_id":null,
     "name":"AEROCUBE-18 B",
-    "names":"63222",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -53984,12 +53960,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-04-11T08:41:19.758658Z",
-    "citation":"space-track.org",
+    "updated":"2025-06-03T10:36:10.788131Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/63222\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53997,8 +53973,8 @@
   },
   {
     "sat_id":"HPUI-6622-0525-0305-6932",
-    "norad_cat_id":98620.0,
-    "norad_follow_id":63220.0,
+    "norad_cat_id":63220.0,
+    "norad_follow_id":null,
     "name":"AEROCUBE-18 A",
     "names":"",
     "image":"",
@@ -54008,12 +53984,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-04-10T00:10:44.405821Z",
-    "citation":"space-track.org",
+    "updated":"2025-06-03T10:34:39.014971Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/63220\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54045,7 +54021,7 @@
   },
   {
     "sat_id":"QHUH-9410-3504-5925-2941",
-    "norad_cat_id":98617.0,
+    "norad_cat_id":63227.0,
     "norad_follow_id":null,
     "name":"Clarity-1",
     "names":"",
@@ -54056,12 +54032,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:42.093849Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-06-03T10:38:20.256162Z",
+    "citation":"https:\/\/www.space-track.org\/basicspacedata\/query\/class\/satcat\/NORAD_CAT_ID\/63227\/format\/html\/emptyresult\/show",
     "is_frequency_violator":false,
     "associated_satellites":[
 
