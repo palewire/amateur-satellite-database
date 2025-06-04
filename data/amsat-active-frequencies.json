@@ -3540,16 +3540,6 @@
     "satnogs_id":"XCTT-8747-8578-2256-0351"
   },
   {
-    "name":"TORO",
-    "norad_id":"60530",
-    "uplink":null,
-    "downlink":"435.410",
-    "beacon":null,
-    "mode":"4k8*\/9k6 GMSK",
-    "callsign":"XX0UHF",
-    "satnogs_id":"BRVJ-5081-2405-0905-4894"
-  },
-  {
     "name":"TO-108",
     "norad_id":"44881",
     "uplink":null,
