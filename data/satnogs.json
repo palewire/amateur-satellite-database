@@ -53661,8 +53661,8 @@
   },
   {
     "sat_id":"GGXJ-9238-8176-9137-9636",
-    "norad_cat_id":98632.0,
-    "norad_follow_id":63252.0,
+    "norad_cat_id":63252.0,
+    "norad_follow_id":null,
     "name":"ARVAKER I",
     "names":"",
     "image":"",
@@ -53676,8 +53676,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-05-17T11:05:59.380823Z",
-    "citation":"Suggested in the Matrix chat",
+    "updated":"2025-06-03T14:10:41.757779Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
