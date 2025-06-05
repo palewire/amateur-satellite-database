@@ -1577,7 +1577,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"TNCA-2269-1089-8167-2586"
   },
   {
     "name":"ION-SCV-015",
@@ -1597,7 +1597,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"JVIJ-4226-9631-1978-7970"
   },
   {
     "name":"ION-SCV-017",

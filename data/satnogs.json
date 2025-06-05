@@ -12861,23 +12861,23 @@
   },
   {
     "sat_id":"RVMN-9472-0063-2326-3360",
-    "norad_cat_id":99719.0,
-    "norad_follow_id":47944.0,
-    "name":"Unknown Sat",
-    "names":"",
+    "norad_cat_id":47944.0,
+    "norad_follow_id":null,
+    "name":"ELSA-D",
+    "names":"End-of-Life Services by Astroscale",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/astroscale.com",
     "operator":"None",
-    "countries":"",
+    "countries":"JP,SG",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.976826Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-06-04T19:34:58.425629Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52147,32 +52147,8 @@
   },
   {
     "sat_id":"TNCA-2269-1089-8167-2586",
-    "norad_cat_id":98669.0,
-    "norad_follow_id":62628.0,
-    "name":"ION SCV-014",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2025-01-14T18:49:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2025-02-17T19:43:34.563139Z",
-    "citation":"PE2BZ strf observations",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"JVIJ-4226-9631-1978-7970",
-    "norad_cat_id":98668.0,
-    "norad_follow_id":62630.0,
+    "norad_cat_id":62628.0,
+    "norad_follow_id":null,
     "name":"ION SCV-016",
     "names":"",
     "image":"",
@@ -52186,11 +52162,35 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-13T17:14:20.268793Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2025-06-04T19:41:35.303235Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
+      "CZIW-8720-2904-7509-1699"
+    ]
+  },
+  {
+    "sat_id":"JVIJ-4226-9631-1978-7970",
+    "norad_cat_id":62630.0,
+    "norad_follow_id":null,
+    "name":"ION SCV-014",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T18:49:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
 
+    ],
+    "updated":"2025-06-04T19:38:40.090257Z",
+    "citation":"space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "HKRV-0628-6643-3889-9456"
     ]
   },
   {
@@ -53710,7 +53710,7 @@
   {
     "sat_id":"YDZO-6101-3702-7991-4125",
     "norad_cat_id":98630.0,
-    "norad_follow_id":63252.0,
+    "norad_follow_id":63260.0,
     "name":"HYVRID",
     "names":"",
     "image":"",
@@ -53724,8 +53724,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-29T12:54:37.078095Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-13-rideshare-vsfb-slc-4e-15-march-2025-06-39-utc\/12934\/235",
+    "updated":"2025-06-04T18:01:02.821668Z",
+    "citation":"Random choice",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -54950,6 +54950,78 @@
     ],
     "updated":"2025-05-31T11:27:56.546969Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1Y7OxVMzI0GLnVJU8Fe0DVbyWNi2_opBw7mpgoKq8rN0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YZDJ-0599-3979-0410-5539",
+    "norad_cat_id":62932.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-2A",
+    "names":"2025-028E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-02-08T00:00:00Z",
+    "deployed":"2025-02-08T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-04T17:23:00.701346Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1j9zsKus6EWA7-ulzpzYTnK2M6PNJYWI8vAz_9zNFts0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GQEW-0215-7569-4066-3377",
+    "norad_cat_id":62934.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-2B",
+    "names":"2025-028G",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-02-08T00:00:00Z",
+    "deployed":"2025-02-08T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-04T17:22:55.943336Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/12kEL7znULw0BrKXnfrNccd1mEn1G3exowsnRziXAaa0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EIKR-2979-0745-1303-0282",
+    "norad_cat_id":62698.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X42",
+    "names":"2025-009CT",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-04T17:22:46.469699Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1qNpgKjEshNQWiFwEqqPHP9F1svMSW3jajSAa6uQ_6NA\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
