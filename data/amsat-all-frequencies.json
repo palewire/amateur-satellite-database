@@ -7432,7 +7432,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"HHVN-9456-4962-8588-2802"
   },
   {
@@ -21754,7 +21754,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":"JS1YMX",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"HHVN-9456-4962-8588-2802"
   },
   {
