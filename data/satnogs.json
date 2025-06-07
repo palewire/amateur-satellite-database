@@ -18477,8 +18477,8 @@
     "name":"IRIS-A",
     "names":"",
     "image":"satellites\/IRIS-A.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-06-05T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":null,
     "website":"http:\/\/satellite.ncku.edu.tw\/",
@@ -18487,8 +18487,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-19T07:13:44.237970Z",
-    "citation":"update photo",
+    "updated":"2025-06-06T14:10:01.423797Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=51044",
     "is_frequency_violator":false,
     "associated_satellites":[
       "FKPI-6803-4516-3684-0735",
