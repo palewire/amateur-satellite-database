@@ -11933,8 +11933,8 @@
     "name":"CubeSX-Sirius-HSE",
     "names":"RS14S, SiriusSat 3U, Sirius-DZZ",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-06-07T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites\/planned-missions\/siriussat-dzz",
@@ -11945,8 +11945,8 @@
         "decoder":"sputnixusp"
       }
     ],
-    "updated":"2023-02-04T05:45:32.616352Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-06-08T09:46:24.410566Z",
+    "citation":"https:\/\/r4uab.ru\/decay\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -11959,8 +11959,8 @@
     "name":"CubeSX-HSE",
     "names":"RS13S, MIEM 3U, NRU HSE-DZZ",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-06-07T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/sputnix.ru\/en\/satellites\/planned-missions\/miem-3u-en",
@@ -11971,8 +11971,8 @@
         "decoder":"sputnixusp"
       }
     ],
-    "updated":"2023-02-04T05:47:15.364134Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-06-08T09:46:36.074420Z",
+    "citation":"https:\/\/r4uab.ru\/decay\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

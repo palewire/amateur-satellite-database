@@ -17446,6 +17446,17 @@
     "satnogs_id":"EIPI-1482-6978-9759-4787"
   },
   {
+    "name":"SO-125",
+    "norad_id":"63492",
+    "uplink":"145.875",
+    "downlink":"436.666",
+    "beacon":"436.666",
+    "mode":"200*-2k4_USB FM CW",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"TPAP-4475-7915-0965-4305"
+  },
+  {
     "name":"SPACEANT-D",
     "norad_id":"58290",
     "uplink":null,
