@@ -11855,30 +11855,6 @@
     ]
   },
   {
-    "sat_id":"LHMS-0538-8348-2005-3412",
-    "norad_cat_id":47944.0,
-    "norad_follow_id":null,
-    "name":"Unknown Satellite",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2021-07-21T10:11:42.901491Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"QKBK-9080-1354-2848-1016",
     "norad_cat_id":47945.0,
     "norad_follow_id":null,
@@ -12880,7 +12856,7 @@
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "LHMS-0538-8348-2005-3412"
     ]
   },
   {
