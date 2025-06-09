@@ -1280,7 +1280,7 @@
     "satnogs_id":"FCHF-0545-3706-3789-8061"
   },
   {
-    "name":"GRBALPHA",
+    "name":"GRBAlpha",
     "norad_id":"47959",
     "uplink":"145.905",
     "downlink":"437.025",

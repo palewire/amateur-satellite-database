@@ -7777,7 +7777,7 @@
     "satnogs_id":"FCHF-0545-3706-3789-8061"
   },
   {
-    "name":"GRBALPHA",
+    "name":"GRBAlpha",
     "norad_id":"47959",
     "uplink":"145.905",
     "downlink":"437.025",
@@ -12180,9 +12180,9 @@
     "name":"NOAA-2",
     "norad_id":"6235",
     "uplink":null,
-    "downlink":"1.698GHz",
+    "downlink":"137.620",
     "beacon":null,
-    "mode":"HRPT",
+    "mode":"APT",
     "callsign":null,
     "status":"weather sat",
     "satnogs_id":"CLVL-1708-0584-5360-1752"
