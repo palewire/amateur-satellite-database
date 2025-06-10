@@ -12083,8 +12083,8 @@
     "name":"GRBAlpha",
     "names":"OM9GRB",
     "image":"satellites\/grbalpha.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-06-09T19:53:00Z",
     "launched":"2021-03-22T06:07:00Z",
     "deployed":null,
     "website":"https:\/\/om3ksi.tuke.sk\/en\/home\/",
@@ -12095,8 +12095,8 @@
         "decoder":"grbalpha"
       }
     ],
-    "updated":"2025-05-10T12:09:16.893577Z",
-    "citation":"Update website link",
+    "updated":"2025-06-10T11:09:21.374038Z",
+    "citation":"https:\/\/community.libre.space\/t\/grbalpha-re-entry\/13367\/52 and Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
