@@ -13924,8 +13924,8 @@
     "name":"MTCube",
     "names":"ROBUSTA 1C",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-06-09T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/csu.edu.umontpellier.fr\/en\/completed-and-ongoing-projects\/",
@@ -13934,8 +13934,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-29T02:56:06.939860Z",
-    "citation":"https:\/\/in-the-sky.org\/spacecraft.php?id=44395",
+    "updated":"2025-06-09T20:02:04.776866Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=44395",
     "is_frequency_violator":true,
     "associated_satellites":[
 
