@@ -1518,7 +1518,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"stars"
+      }
     ],
     "updated":"2025-03-09T19:58:37.105912Z",
     "citation":"http:\/\/stars.eng.shizuoka.ac.jp\/stars_kukai.html",
@@ -53781,7 +53783,7 @@
   },
   {
     "sat_id":"FRYL-2190-5989-7903-4697",
-    "norad_cat_id":98626.0,
+    "norad_cat_id":63254.0,
     "norad_follow_id":null,
     "name":"YAM-8",
     "names":"",
@@ -53796,8 +53798,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:41.904330Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-06-10T19:19:44.533936Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
