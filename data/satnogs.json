@@ -55004,5 +55004,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"XSXK-2964-0486-7115-0785",
+    "norad_cat_id":59123.0,
+    "norad_follow_id":null,
+    "name":"LYNK TOWER 6",
+    "names":"2024-043AB",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":"2024-03-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-11T23:10:09.935776Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/17zsU5xlgijVHDhxKAPwKmTSuaz0Ydmuv-ApbEQwaIMg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
