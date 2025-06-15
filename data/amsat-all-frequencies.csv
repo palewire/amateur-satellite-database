@@ -393,10 +393,10 @@ ConnectaIoT-5,62703,,401.510/869.525,,4800bps GMSK LoRa,CNT005,active,RBKM-9300-
 ConnectaIoT-6,62709,,401.520/869.525,,4800bps GMSK LoRa,CNT006,active,UMJJ-7799-0684-8751-0613
 ConnectaIoT-7,62715,,401.530/869.525,,4800bps GMSK LoRa,CNT007,active,GABL-0673-9513-3160-7549
 ConnectaIoT-8,62695,,401.540/869.525,,4800bps GMSK LoRa,CNT008,active,MZLN-3720-3320-1573-6997
-ConnectaIoT-9,,,,,,,to be launched,
-ConnectaIoT-10,,,,,,,to be launched,
-ConnectaIoT-11,,,,,,,to be launched,
-ConnectaIoT-12,,,,,,,to be launched,
+ConnectaIoT-9,,,401.510,,4800bps GMSK,,to be launched,
+ConnectaIoT-10,,,401.520,,4800bps GMSK,,to be launched,
+ConnectaIoT-11,,,401.530,,4800bps GMSK,,to be launched,
+ConnectaIoT-12,,,401.540,,4800bps GMSK,,to be launched,
 Connecta-T1_1,52739,,401.525,,9600bps GMSK,CONT11,active,RLGA-3050-8635-4193-2562
 Connecta-T1_2,55012,,401.525,,4800bps GFSK,CONT12,active,TVZK-1463-5590-8994-0377
 Connecta-T2.1,56210,,401.525,,9600bps GMSK,CONT21,active,RYJB-2072-5322-3255-6402
