@@ -10806,8 +10806,8 @@
     "name":"MEZNSAT",
     "names":"",
     "image":"satellites\/meznsat.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-05-02T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -10818,8 +10818,8 @@
         "decoder":"meznsat"
       }
     ],
-    "updated":"2021-07-21T10:11:42.831070Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-06-17T07:50:24.033253Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=46489",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -18945,10 +18945,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19168,10 +19168,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
