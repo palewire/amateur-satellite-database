@@ -19168,10 +19168,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -32198,9 +32198,9 @@
     "norad_cat_id":99160.0,
     "norad_follow_id":56746.0,
     "name":"SNIPE C",
-    "names":"KASI-SAT C, SNIPE-3",
+    "names":"KASI-SAT C, SNIPE 3",
     "image":"satellites\/SNIPE_VdScGIb.jpg",
-    "status":"alive",
+    "status":"dead",
     "decayed":null,
     "launched":"2023-05-25T09:24:00Z",
     "deployed":"2023-05-25T09:38:23Z",
@@ -32210,8 +32210,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-09-18T10:07:10.719071Z",
-    "citation":"Fix Followed NORAD ID",
+    "updated":"2025-06-17T12:52:02.056469Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/SNIPE_(satellite)",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -55024,6 +55024,30 @@
     ],
     "updated":"2025-06-11T23:10:09.935776Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/17zsU5xlgijVHDhxKAPwKmTSuaz0Ydmuv-ApbEQwaIMg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VYPV-4633-2839-4480-4360",
+    "norad_cat_id":62626.0,
+    "norad_follow_id":null,
+    "name":"OBJECT T",
+    "names":"2025-009T",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-17T12:51:17.286617Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/137TSt_jaweb_YWiboH9WFTKmMXdAoEVXFU8WVRnoH5k\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
