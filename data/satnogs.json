@@ -55030,6 +55030,30 @@
     ]
   },
   {
+    "sat_id":"SOMQ-2553-4561-6516-9069",
+    "norad_cat_id":null,
+    "norad_follow_id":null,
+    "name":"PARUS-T2",
+    "names":"",
+    "image":"satellites\/LINE_ALBUM_2025.2.5_250205_1.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T08:57:58.657277Z",
+    "citation":"TBC",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"VYPV-4633-2839-4480-4360",
     "norad_cat_id":62626.0,
     "norad_follow_id":null,
@@ -55051,6 +55075,54 @@
     "is_frequency_violator":false,
     "associated_satellites":[
 
+    ]
+  },
+  {
+    "sat_id":"CRXA-4448-4621-5391-2945",
+    "norad_cat_id":null,
+    "norad_follow_id":null,
+    "name":"PARUS-T2",
+    "names":"BN0TIT",
+    "image":"satellites\/LINE_ALBUM_2025.2.5_250205_1.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-21T21:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T08:55:17.452268Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1022",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YYRC-9798-0843-8711-0931",
+    "norad_cat_id":98603.0,
+    "norad_follow_id":null,
+    "name":"PARUS-T2",
+    "names":"",
+    "image":"satellites\/LINE_ALBUM_2025.2.5_250205_1.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T08:58:05.902522Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "PGUQ-4100-4276-4196-0860"
     ]
   }
 ]
