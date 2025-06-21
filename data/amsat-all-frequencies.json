@@ -5896,6 +5896,17 @@
     "satnogs_id":"VLOV-4213-3168-9454-2191"
   },
   {
+    "name":"DUBAISAT-1",
+    "norad_id":"35682",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"THDC-5854-7345-5323-0312"
+  },
+  {
     "name":"Duchifat-1",
     "norad_id":"40021",
     "uplink":"435.220",
@@ -5927,6 +5938,17 @@
     "callsign":"SZ2DUT",
     "status":"re-entered",
     "satnogs_id":"WGJS-9308-0078-0270-6632"
+  },
+  {
+    "name":"DUTHSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"DX-1",
@@ -7579,6 +7601,17 @@
     "satnogs_id":"NYPQ-6177-1118-6247-2663"
   },
   {
+    "name":"GCOM-W1",
+    "norad_id":"38337",
+    "uplink":null,
+    "downlink":"2220.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"VDKH-1975-7199-5585-9817"
+  },
+  {
     "name":"GEARRSat-1",
     "norad_id":"40456",
     "uplink":null,
@@ -7852,6 +7885,17 @@
     "callsign":"RS59S",
     "status":"active",
     "satnogs_id":"YDID-3447-4202-8525-9942"
+  },
+  {
+    "name":"GOSAT",
+    "norad_id":"33492",
+    "uplink":null,
+    "downlink":"2220.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"LVDU-7847-8812-2822-2919"
   },
   {
     "name":"Gossamer Piccolomini",
@@ -8602,6 +8646,17 @@
     "satnogs_id":"VNRS-0413-3415-7769-6012"
   },
   {
+    "name":"Hubble-7",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Humsat-D",
     "norad_id":"39433",
     "uplink":null,
@@ -8710,6 +8765,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"GGXJ-9238-8176-9137-9636"
+  },
+  {
+    "name":"IBUKI",
+    "norad_id":"33492",
+    "uplink":null,
+    "downlink":"2220.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"LVDU-7847-8812-2822-2919"
   },
   {
     "name":"ICEcube-1",
@@ -15398,6 +15464,17 @@
     "callsign":"RS37S",
     "status":"inactive",
     "satnogs_id":"SEMQ-5896-1667-7154-6568"
+  },
+  {
+    "name":"RIDUSat-1",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"145.825\/145.980",
+    "beacon":null,
+    "mode":"APRS",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"RINCON",

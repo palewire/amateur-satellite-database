@@ -53759,7 +53759,7 @@
   },
   {
     "sat_id":"GEED-8819-6884-7912-8834",
-    "norad_cat_id":98627.0,
+    "norad_cat_id":63263.0,
     "norad_follow_id":null,
     "name":"SOAP-1",
     "names":"",
@@ -53774,11 +53774,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-15T06:55:41.923989Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60272.0",
+    "updated":"2025-06-20T15:24:53.269842Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "NPRP-2459-5323-5263-1821"
     ]
   },
   {
@@ -55006,6 +55006,102 @@
     ]
   },
   {
+    "sat_id":"VQRH-1619-5526-5288-0616",
+    "norad_cat_id":98596.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-9",
+    "names":"",
+    "image":"satellites\/connecta-iot-batch3.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-21T21:19:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T14:15:40.781166Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OPSM-5371-6840-8894-7677",
+    "norad_cat_id":98597.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-10",
+    "names":"",
+    "image":"satellites\/connecta-iot-batch3_CDzuxi3.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-21T21:19:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T14:15:15.705352Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QPJF-4748-4397-6565-6149",
+    "norad_cat_id":98598.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-11",
+    "names":"",
+    "image":"satellites\/connecta-iot-batch3_t2Dj0Fm.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-21T21:19:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T14:14:54.056498Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XXEA-0494-6151-7239-4386",
+    "norad_cat_id":98599.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-12",
+    "names":"",
+    "image":"satellites\/connecta-iot-batch3_Xs96spu.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-21T21:19:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T14:14:27.953172Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"XSXK-2964-0486-7115-0785",
     "norad_cat_id":59123.0,
     "norad_follow_id":null,
@@ -55024,30 +55120,6 @@
     ],
     "updated":"2025-06-11T23:10:09.935776Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/17zsU5xlgijVHDhxKAPwKmTSuaz0Ydmuv-ApbEQwaIMg\/edit?usp=sharing",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"SOMQ-2553-4561-6516-9069",
-    "norad_cat_id":null,
-    "norad_follow_id":null,
-    "name":"PARUS-T2",
-    "names":"",
-    "image":"satellites\/LINE_ALBUM_2025.2.5_250205_1.jpg",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"TW",
-    "telemetries":[
-
-    ],
-    "updated":"2025-06-20T08:57:58.657277Z",
-    "citation":"TBC",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55078,8 +55150,32 @@
     ]
   },
   {
+    "sat_id":"IDDA-3367-7223-2853-3512",
+    "norad_cat_id":98600.0,
+    "norad_follow_id":null,
+    "name":"RIDUSat-1",
+    "names":"YH1SAT",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-21T00:00:00Z",
+    "deployed":"2025-06-21T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"ID",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T14:13:11.820346Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"CRXA-4448-4621-5391-2945",
-    "norad_cat_id":null,
+    "norad_cat_id":98602.0,
     "norad_follow_id":null,
     "name":"PARUS-T2",
     "names":"BN0TIT",
@@ -55094,35 +55190,180 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T08:55:17.452268Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1022",
+    "updated":"2025-06-20T13:04:50.626093Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "SOMQ-2553-4561-6516-9069",
+      "YYRC-9798-0843-8711-0931"
+    ]
+  },
+  {
+    "sat_id":"VNWS-4720-9290-9692-1890",
+    "norad_cat_id":98593.0,
+    "norad_follow_id":null,
+    "name":"PADRE",
+    "names":"PADRE",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-21T00:00:00Z",
+    "deployed":"2025-06-21T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T15:15:26.820098Z",
+    "citation":"Adding temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
   },
   {
-    "sat_id":"YYRC-9798-0843-8711-0931",
-    "norad_cat_id":98603.0,
+    "sat_id":"JQQB-0518-6266-3074-6580",
+    "norad_cat_id":98594.0,
     "norad_follow_id":null,
-    "name":"PARUS-T2",
-    "names":"",
-    "image":"satellites\/LINE_ALBUM_2025.2.5_250205_1.jpg",
-    "status":"alive",
+    "name":"Hubble-6",
+    "names":"Lilo",
+    "image":"",
+    "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
+    "launched":"2025-06-21T00:00:00Z",
+    "deployed":"2025-06-21T00:00:00Z",
+    "website":"https:\/\/hubblenetwork.com",
     "operator":"None",
-    "countries":"TW",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T08:58:05.902522Z",
+    "updated":"2025-06-20T15:14:40.819475Z",
     "citation":"Adding temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "PGUQ-4100-4276-4196-0860"
+
+    ]
+  },
+  {
+    "sat_id":"WIGX-0851-6692-4320-5851",
+    "norad_cat_id":98595.0,
+    "norad_follow_id":null,
+    "name":"Hubble-7",
+    "names":"Stitch",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-21T00:00:00Z",
+    "deployed":"2025-06-21T00:00:00Z",
+    "website":"https:\/\/hubblenetwork.com\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T15:13:57.384282Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LVDU-7847-8812-2822-2919",
+    "norad_cat_id":33492.0,
+    "norad_follow_id":null,
+    "name":"GOSAT (IBUKI)",
+    "names":"2009-002A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2009-01-23T00:00:00Z",
+    "deployed":"2009-01-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T15:10:53.369762Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ercHkYKp4k-uw0GZ8lydL73oLQLj__h7cP5CJiYu-00\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VDKH-1975-7199-5585-9817",
+    "norad_cat_id":38337.0,
+    "norad_follow_id":null,
+    "name":"GCOM W1",
+    "names":"2012-025A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2012-05-17T00:00:00Z",
+    "deployed":"2012-05-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T15:09:48.668388Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/17puUGKnE-9wXZ92ZEi6LyVjoF-Rhw3e_hJ038GkFNA8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HWSK-3928-3901-7383-3031",
+    "norad_cat_id":98592.0,
+    "norad_follow_id":null,
+    "name":"DUTHSAT-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-21T21:19:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T15:18:55.099723Z",
+    "citation":"Communication with the Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"THDC-5854-7345-5323-0312",
+    "norad_cat_id":35682.0,
+    "norad_follow_id":null,
+    "name":"DUBAISAT 1",
+    "names":"2009-041B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2009-07-29T00:00:00Z",
+    "deployed":"2009-07-29T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"AE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-20T21:37:55.161841Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1EK4UD8vL-e-I9qb5Gg3uGjno6BRWpko2sHE20aIb9so\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
     ]
   }
 ]
