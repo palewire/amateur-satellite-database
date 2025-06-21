@@ -55014,7 +55014,7 @@
     "image":"satellites\/connecta-iot-batch3.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-21T21:19:00Z",
+    "launched":"2025-06-22T21:19:00Z",
     "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
@@ -55022,8 +55022,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T14:15:40.781166Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-06-21T09:31:59.385937Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60273.msg2695551#msg2695551",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55038,7 +55038,7 @@
     "image":"satellites\/connecta-iot-batch3_CDzuxi3.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-21T21:19:00Z",
+    "launched":"2025-06-22T21:19:00Z",
     "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
@@ -55046,8 +55046,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T14:15:15.705352Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-06-21T09:31:59.391135Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60273.msg2695551#msg2695551",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55062,7 +55062,7 @@
     "image":"satellites\/connecta-iot-batch3_t2Dj0Fm.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-21T21:19:00Z",
+    "launched":"2025-06-22T21:19:00Z",
     "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
@@ -55070,8 +55070,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T14:14:54.056498Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-06-21T09:31:59.396063Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60273.msg2695551#msg2695551",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55086,7 +55086,7 @@
     "image":"satellites\/connecta-iot-batch3_Xs96spu.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-21T21:19:00Z",
+    "launched":"2025-06-22T21:19:00Z",
     "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
@@ -55094,8 +55094,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T14:14:27.953172Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-06-21T09:31:59.400809Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60273.msg2695551#msg2695551",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55158,16 +55158,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-21T00:00:00Z",
-    "deployed":"2025-06-21T00:00:00Z",
+    "launched":"2025-06-22T21:19:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
     "countries":"ID",
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T14:13:11.820346Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-06-21T09:31:59.405548Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60273.msg2695551#msg2695551",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55180,9 +55180,9 @@
     "name":"PARUS-T2",
     "names":"BN0TIT",
     "image":"satellites\/LINE_ALBUM_2025.2.5_250205_1.jpg",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
-    "launched":"2025-06-21T21:18:00Z",
+    "launched":"2025-06-22T21:19:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -55190,8 +55190,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T13:04:50.626093Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-06-21T09:31:59.409906Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60273.msg2695551#msg2695551",
     "is_frequency_violator":false,
     "associated_satellites":[
       "SOMQ-2553-4561-6516-9069",
@@ -55207,16 +55207,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-21T00:00:00Z",
-    "deployed":"2025-06-21T00:00:00Z",
+    "launched":"2025-06-22T21:19:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T15:15:26.820098Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-06-21T09:31:59.370458Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60273.msg2695551#msg2695551",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55231,16 +55231,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-21T00:00:00Z",
-    "deployed":"2025-06-21T00:00:00Z",
+    "launched":"2025-06-22T21:19:00Z",
+    "deployed":null,
     "website":"https:\/\/hubblenetwork.com",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T15:14:40.819475Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-06-21T09:31:59.376028Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60273.msg2695551#msg2695551",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55255,16 +55255,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-21T00:00:00Z",
-    "deployed":"2025-06-21T00:00:00Z",
+    "launched":"2025-06-22T21:19:00Z",
+    "deployed":null,
     "website":"https:\/\/hubblenetwork.com\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T15:13:57.384282Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-06-21T09:31:59.380797Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60273.msg2695551#msg2695551",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55322,12 +55322,12 @@
     "sat_id":"HWSK-3928-3901-7383-3031",
     "norad_cat_id":98592.0,
     "norad_follow_id":null,
-    "name":"DUTHSAT-2",
+    "name":"DUTHSat-2",
     "names":"",
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-21T21:19:00Z",
+    "launched":"2025-06-22T21:19:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -55335,8 +55335,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-20T15:18:55.099723Z",
-    "citation":"Communication with the Satellite Team",
+    "updated":"2025-06-21T09:28:09.893834Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60273.msg2695551#msg2695551",
     "is_frequency_violator":false,
     "associated_satellites":[
 
