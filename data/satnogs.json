@@ -55437,5 +55437,149 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"CWNT-5072-1644-9392-2654",
+    "norad_cat_id":98588.0,
+    "norad_follow_id":null,
+    "name":"Hyperfield-1B",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:13:39Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T08:21:44.530002Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XINU-9252-1582-7722-7388",
+    "norad_cat_id":98587.0,
+    "norad_follow_id":null,
+    "name":"TPA-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:13:50Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T08:27:31.495889Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XWXT-1615-5633-9630-7970",
+    "norad_cat_id":98586.0,
+    "norad_follow_id":null,
+    "name":"SATMAR",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:14:17Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T09:09:33.773106Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YRHO-3873-7803-0414-5598",
+    "norad_cat_id":64393.0,
+    "norad_follow_id":null,
+    "name":"Zhangheng 1-02",
+    "names":"2025-128A and CSES 1-02",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-14T00:00:00Z",
+    "deployed":"2025-06-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T09:48:28.598996Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1JzCLh4uvigsf31nKfITyMf6Cv98L0qAZkO5GkRdOmt4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TNIF-9489-4101-4135-4428",
+    "norad_cat_id":98585.0,
+    "norad_follow_id":null,
+    "name":"Otter Pup 2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:14:36Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T09:41:43.815316Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ENLC-4952-6681-1812-8294",
+    "norad_cat_id":98584.0,
+    "norad_follow_id":null,
+    "name":"BRO-18",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:14:57Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T10:14:00.458479Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
