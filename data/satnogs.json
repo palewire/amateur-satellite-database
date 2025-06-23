@@ -15341,19 +15341,19 @@
     "norad_follow_id":null,
     "name":"Z-Sat",
     "names":"",
-    "image":"",
+    "image":"satellites\/z-sat.png",
     "status":"alive",
     "decayed":null,
     "launched":"2021-11-09T00:00:00Z",
     "deployed":null,
-    "website":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=580",
+    "website":"",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2023-06-01T08:05:20.157539Z",
-    "citation":"http:\/\/www.amsatuk.me.uk\/iaru\/finished_detail.php?serialnum=580",
+    "updated":"2025-06-23T07:27:56.965023Z",
+    "citation":"Remove the website as it is not an official webpage but social account",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55014,15 +55014,15 @@
     "image":"satellites\/connecta-iot-batch3.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:14:24Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:14:24Z",
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T20:54:25.569561Z",
+    "updated":"2025-06-23T11:24:31.418818Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55038,15 +55038,15 @@
     "image":"satellites\/connecta-iot-batch3_CDzuxi3.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:12:41Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:12:41Z",
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T20:54:25.578206Z",
+    "updated":"2025-06-23T11:24:31.428888Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55062,15 +55062,15 @@
     "image":"satellites\/connecta-iot-batch3_t2Dj0Fm.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:12:55Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:12:55Z",
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T20:54:25.573800Z",
+    "updated":"2025-06-23T11:24:31.425562Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55086,15 +55086,15 @@
     "image":"satellites\/connecta-iot-batch3_Xs96spu.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:13:13Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:13:13Z",
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T20:54:25.564857Z",
+    "updated":"2025-06-23T11:24:31.422194Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55158,15 +55158,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:13:21Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:13:21Z",
     "website":"",
     "operator":"None",
     "countries":"ID",
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T20:54:25.582898Z",
+    "updated":"2025-06-23T11:24:31.348950Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55182,15 +55182,15 @@
     "image":"satellites\/LINE_ALBUM_2025.2.5_250205_1.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:34:47Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:34:47Z",
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T20:54:25.592155Z",
+    "updated":"2025-06-23T11:24:31.353634Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55207,16 +55207,16 @@
     "image":"satellites\/padre-logo.svg.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:34:09Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:34:09Z",
     "website":"",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T17:57:46.869758Z",
-    "citation":"Adds PADRE logo",
+    "updated":"2025-06-23T11:24:31.358355Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55231,15 +55231,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:35:08Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:35:08Z",
     "website":"https:\/\/hubblenetwork.com",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T16:53:13.159863Z",
+    "updated":"2025-06-23T11:24:31.393653Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55255,15 +55255,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:34:04Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:34:04Z",
     "website":"https:\/\/hubblenetwork.com\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T16:53:13.153597Z",
+    "updated":"2025-06-23T11:24:31.388694Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55327,15 +55327,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:14:10Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:14:10Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T20:54:25.587519Z",
+    "updated":"2025-06-23T11:24:31.412219Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55375,15 +55375,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:13:01Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:13:01Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T23:05:27.035341Z",
+    "updated":"2025-06-23T11:24:31.367796Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55399,16 +55399,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:13:07Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:13:07Z",
     "website":"",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T18:15:05.705289Z",
-    "citation":"Change status",
+    "updated":"2025-06-23T11:24:31.320860Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55423,16 +55423,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:15:26Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:15:26Z",
     "website":"",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T18:15:05.710310Z",
-    "citation":"Change status",
+    "updated":"2025-06-23T11:24:31.315781Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55447,15 +55447,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:13:39Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:13:39Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T08:21:44.530002Z",
+    "updated":"2025-06-23T11:24:31.383305Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55471,15 +55471,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:13:50Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:13:50Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T08:27:31.495889Z",
+    "updated":"2025-06-23T11:24:31.325814Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55495,15 +55495,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:14:17Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:14:17Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T09:09:33.773106Z",
+    "updated":"2025-06-23T11:24:31.344417Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55543,15 +55543,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:14:36Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:14:36Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T09:41:43.815316Z",
+    "updated":"2025-06-23T11:24:31.363186Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55567,15 +55567,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:14:57Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:14:57Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T10:14:00.458479Z",
+    "updated":"2025-06-23T11:24:31.432300Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55591,15 +55591,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:16:04Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:16:04Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T12:10:59.018256Z",
+    "updated":"2025-06-23T11:24:31.405512Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55615,15 +55615,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:16:14Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:16:14Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T12:14:33.504713Z",
+    "updated":"2025-06-23T11:24:31.435557Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55635,20 +55635,20 @@
     "norad_cat_id":98581.0,
     "norad_follow_id":null,
     "name":"ION SCV Passionate Paula",
-    "names":"",
+    "names":"ION SCV-020",
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:16:22Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:16:22Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T12:18:28.215418Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-06-23T11:24:31.373243Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14 and celestrak.org supplemental TLE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55659,20 +55659,20 @@
     "norad_cat_id":98580.0,
     "norad_follow_id":null,
     "name":"ION SCV Charismatic Carlus",
-    "names":"",
+    "names":"ION SCV-018",
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:38:40Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:38:40Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T12:18:35.570270Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-06-23T11:24:31.378298Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14 and celestrak.org supplemental TLE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55687,15 +55687,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:16:55Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:16:55Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T14:17:29.344564Z",
+    "updated":"2025-06-23T11:24:31.408886Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55711,15 +55711,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:19:34Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:19:34Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T15:14:03.040999Z",
+    "updated":"2025-06-23T11:24:31.335273Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55735,15 +55735,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T22:22:10Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T22:22:10Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T15:14:03.034419Z",
+    "updated":"2025-06-23T11:24:31.415528Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55759,15 +55759,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:34:40Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:34:40Z",
     "website":"",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T16:53:13.175568Z",
+    "updated":"2025-06-23T11:24:31.401932Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55783,15 +55783,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:36:27Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:36:27Z",
     "website":"",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T16:53:13.167440Z",
+    "updated":"2025-06-23T11:24:31.398121Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55807,15 +55807,15 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:34:16Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:34:16Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T17:57:10.612895Z",
+    "updated":"2025-06-23T11:24:31.438845Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -55831,16 +55831,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:34:28Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:34:28Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T18:15:05.698190Z",
-    "citation":"Change status",
+    "updated":"2025-06-23T11:24:31.339924Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55855,16 +55855,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:35:31Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:35:31Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T18:14:17.108968Z",
-    "citation":"Change status",
+    "updated":"2025-06-23T11:24:31.330591Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55879,15 +55879,183 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-06-22T21:18:00Z",
-    "deployed":"2025-06-22T23:39:38Z",
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:39:38Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-22T17:57:10.547975Z",
+    "updated":"2025-06-23T11:24:31.308896Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GLPZ-0943-1414-0560-0702",
+    "norad_cat_id":98570.0,
+    "norad_follow_id":null,
+    "name":"IRIDE-MS2-HEO-02",
+    "names":"HEO 02",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:36:42Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-23T11:26:32.380823Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DFRG-8245-5768-0986-9767",
+    "norad_cat_id":98569.0,
+    "norad_follow_id":null,
+    "name":"IRIDE-MS2-HEO-03",
+    "names":"HEO-03",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:37:14Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-23T11:26:32.368193Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YRYV-6790-3398-0831-4729",
+    "norad_cat_id":98568.0,
+    "norad_follow_id":null,
+    "name":"IRIDE-MS2-HEO-04",
+    "names":"HEO-04",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:38:14Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-23T11:26:32.418388Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VVNJ-2534-2034-2907-6678",
+    "norad_cat_id":98567.0,
+    "norad_follow_id":null,
+    "name":"IRIDE-MS2-HEO-05",
+    "names":"HEO-05",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:37:46Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-23T11:26:32.400521Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZIUN-8544-3725-1485-3560",
+    "norad_cat_id":98566.0,
+    "norad_follow_id":null,
+    "name":"IRIDE-MS2-HEO-06",
+    "names":"HEO-06",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:40:02Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-23T11:26:32.427430Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XQOO-5836-8962-0849-4671",
+    "norad_cat_id":98565.0,
+    "norad_follow_id":null,
+    "name":"IRIDE-MS2-HEO-08",
+    "names":"HEO-08",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:36:32Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-23T11:26:32.409222Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HBZN-9787-4481-5510-8890",
+    "norad_cat_id":98564.0,
+    "norad_follow_id":null,
+    "name":"IRIDE-MS2-HEO-09",
+    "names":"HEO-09",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-23T21:18:00Z",
+    "deployed":"2025-06-23T23:37:38Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-23T11:26:32.391415Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
