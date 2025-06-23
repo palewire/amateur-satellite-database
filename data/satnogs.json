@@ -55204,7 +55204,7 @@
     "norad_follow_id":null,
     "name":"PADRE",
     "names":"PADRE",
-    "image":"",
+    "image":"satellites\/padre-logo.svg.png",
     "status":"future",
     "decayed":null,
     "launched":"2025-06-22T21:18:00Z",
@@ -55215,8 +55215,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T20:54:25.560233Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-06-22T17:57:46.869758Z",
+    "citation":"Adds PADRE logo",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55232,14 +55232,14 @@
     "status":"future",
     "decayed":null,
     "launched":"2025-06-22T21:18:00Z",
-    "deployed":null,
+    "deployed":"2025-06-22T23:35:08Z",
     "website":"https:\/\/hubblenetwork.com",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T20:54:25.555629Z",
+    "updated":"2025-06-22T16:53:13.159863Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55256,14 +55256,14 @@
     "status":"future",
     "decayed":null,
     "launched":"2025-06-22T21:18:00Z",
-    "deployed":null,
+    "deployed":"2025-06-22T23:34:04Z",
     "website":"https:\/\/hubblenetwork.com\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T20:54:25.549324Z",
+    "updated":"2025-06-22T16:53:13.153597Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55397,7 +55397,7 @@
     "name":"UND ROADS 1",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2025-06-22T21:18:00Z",
     "deployed":"2025-06-22T22:13:07Z",
@@ -55407,8 +55407,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T23:17:17.692097Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-06-22T18:15:05.705289Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55421,7 +55421,7 @@
     "name":"UND ROADS 2",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2025-06-22T21:18:00Z",
     "deployed":"2025-06-22T22:15:26Z",
@@ -55431,8 +55431,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-21T23:17:25.954482Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-06-22T18:15:05.710310Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55576,6 +55576,318 @@
 
     ],
     "updated":"2025-06-22T10:14:00.458479Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RBAW-0155-7922-9410-2702",
+    "norad_cat_id":98583.0,
+    "norad_follow_id":null,
+    "name":"FOSSASAT-1E21",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:16:04Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T12:10:59.018256Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ONWG-6270-0673-9384-3627",
+    "norad_cat_id":98582.0,
+    "norad_follow_id":null,
+    "name":"ARCSTONE",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:16:14Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T12:14:33.504713Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JLJE-0670-3801-0857-8118",
+    "norad_cat_id":98581.0,
+    "norad_follow_id":null,
+    "name":"ION SCV Passionate Paula",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:16:22Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T12:18:28.215418Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MJWC-6105-7146-5103-2066",
+    "norad_cat_id":98580.0,
+    "norad_follow_id":null,
+    "name":"ION SCV Charismatic Carlus",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T23:38:40Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T12:18:35.570270Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ROOH-2554-4237-7628-0847",
+    "norad_cat_id":98579.0,
+    "norad_follow_id":null,
+    "name":"ForgeStar-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:16:55Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T14:17:29.344564Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MMWT-8866-0909-9243-3201",
+    "norad_cat_id":98578.0,
+    "norad_follow_id":null,
+    "name":"SkyBee-2",
+    "names":"HiVe",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:19:34Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T15:14:03.040999Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PJSF-9274-5441-3914-8511",
+    "norad_cat_id":98577.0,
+    "norad_follow_id":null,
+    "name":"Dragoon",
+    "names":"USWSA-DRAGOON",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T22:22:10Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T15:14:03.034419Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LDUU-5490-5289-6437-8584",
+    "norad_cat_id":98576.0,
+    "norad_follow_id":null,
+    "name":"Hubble-4",
+    "names":"Shaggy",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T23:34:40Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T16:53:13.175568Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TGGE-0655-3824-5329-0738",
+    "norad_cat_id":98575.0,
+    "norad_follow_id":null,
+    "name":"Hubble-5",
+    "names":"Scooby",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T23:36:27Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T16:53:13.167440Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SSSX-0322-2102-6904-8277",
+    "norad_cat_id":98574.0,
+    "norad_follow_id":null,
+    "name":"ADDCUBE",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T23:34:16Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T17:57:10.612895Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ERBZ-8933-2960-3678-6096",
+    "norad_cat_id":98573.0,
+    "norad_follow_id":null,
+    "name":"SATORO-T3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T23:34:28Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T18:15:05.698190Z",
+    "citation":"Change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NQPZ-5486-5353-2540-5685",
+    "norad_cat_id":98572.0,
+    "norad_follow_id":null,
+    "name":"Time Flies",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T23:35:31Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T18:14:17.108968Z",
+    "citation":"Change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HBQW-7559-0012-8008-0023",
+    "norad_cat_id":98571.0,
+    "norad_follow_id":null,
+    "name":"YAM-10",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-06-22T21:18:00Z",
+    "deployed":"2025-06-22T23:39:38Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-22T17:57:10.547975Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
     "associated_satellites":[
