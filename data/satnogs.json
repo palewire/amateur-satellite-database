@@ -18945,10 +18945,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -53473,21 +53473,21 @@
     "norad_follow_id":null,
     "name":"HADES-ICM",
     "names":"SO-125",
-    "image":"",
+    "image":"satellites\/cache_19342873.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.amsat-ea.org\/",
     "operator":"None",
-    "countries":"",
+    "countries":"ES",
     "telemetries":[
       {
         "decoder":"hadesicm"
       }
     ],
-    "updated":"2025-05-29T16:34:37.993982Z",
-    "citation":"EA3EA",
+    "updated":"2025-06-24T08:08:03.223315Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/formal_detail.php?serialnum=1001",
     "is_frequency_violator":false,
     "associated_satellites":[
       "PJLO-8862-7918-1336-0908"
@@ -55179,7 +55179,7 @@
     "norad_follow_id":null,
     "name":"PARUS-T2",
     "names":"BN0TIT",
-    "image":"satellites\/LINE_ALBUM_2025.2.5_250205_1.jpg",
+    "image":"satellites\/T2_in_space.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-06-23T21:25:00Z",
@@ -55190,8 +55190,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:10.118737Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-06-24T07:20:34.636701Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1022",
     "is_frequency_violator":false,
     "associated_satellites":[
       "SOMQ-2553-4561-6516-9069",
@@ -56058,6 +56058,30 @@
     "updated":"2025-06-23T21:25:09.130999Z",
     "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RETZ-4463-1879-6283-9781",
+    "norad_cat_id":98563.0,
+    "norad_follow_id":null,
+    "name":"T14 Unknown 1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T21:25:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-24T07:42:19.406076Z",
+    "citation":"PE0SAT strf observations",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
