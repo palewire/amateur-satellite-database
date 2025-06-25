@@ -420,6 +420,16 @@
     "satnogs_id":"PUFM-6212-8243-7442-9645"
   },
   {
+    "name":"BRO-18",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735\/2260.500",
+    "beacon":null,
+    "mode":"4k8*\/9k6 FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-2",
     "norad_id":"57175",
     "uplink":"436.200",
@@ -628,6 +638,46 @@
     "mode":"4800bps GMSK LoRa",
     "callsign":"CNT008",
     "satnogs_id":"MZLN-3720-3320-1573-6997"
+  },
+  {
+    "name":"ConnectaIoT-9",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.510",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT009",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-10",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.520",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT010",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-11",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.530",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT011",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-12",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.540",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT012",
+    "satnogs_id":null
   },
   {
     "name":"Connecta-T1_1",
@@ -1600,6 +1650,26 @@
     "satnogs_id":"EZAU-8235-2008-4656-9477"
   },
   {
+    "name":"ION-SCV-018",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"ION-SCV-020",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"IO-86",
     "norad_id":"40931",
     "uplink":"145.880\/145.825",
@@ -1728,6 +1798,16 @@
     "mode":"19200bps GFSK CW*",
     "callsign":"ITUPSAT",
     "satnogs_id":"FMZT-1887-7286-8009-2095"
+  },
+  {
+    "name":"JACK-001",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.300",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"JACK001",
+    "satnogs_id":null
   },
   {
     "name":"JAS-2",
@@ -3550,6 +3630,16 @@
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
+    "name":"TPA-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.900\/2220.500",
+    "beacon":null,
+    "mode":"2400bps GFSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Triton-1",
     "norad_id":"39427",
     "uplink":"435.xxx",
@@ -3588,6 +3678,26 @@
     "mode":"2k4\/4k8\/9k6*GMSK_USP SSTV",
     "callsign":"RS40S",
     "satnogs_id":"SDUV-9624-5611-1090-5908"
+  },
+  {
+    "name":"UND-ROADS-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.900\/435.400*\/2401.875",
+    "beacon":null,
+    "mode":"1k2\/4k8*FSK QPSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"UND-ROADS-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.900\/435.400*\/2401.875",
+    "beacon":null,
+    "mode":"1k2\/4k8*FSK QPSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"UniSat-6",

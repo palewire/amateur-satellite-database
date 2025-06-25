@@ -2838,6 +2838,17 @@
     "satnogs_id":null
   },
   {
+    "name":"BRO-18",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735\/2260.500",
+    "beacon":null,
+    "mode":"4k8*\/9k6 FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-1",
     "norad_id":"43666",
     "uplink":"436.200",
@@ -4340,8 +4351,8 @@
     "downlink":"401.510",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT009",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -4351,8 +4362,8 @@
     "downlink":"401.520",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT010",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -4362,8 +4373,8 @@
     "downlink":"401.530",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT011",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -4373,8 +4384,8 @@
     "downlink":"401.540",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT012",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -5947,7 +5958,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8679,6 +8690,28 @@
     "satnogs_id":"VNRS-0413-3415-7769-6012"
   },
   {
+    "name":"Hubble-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Hubble-5",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Hubble-6",
     "norad_id":null,
     "uplink":null,
@@ -9658,6 +9691,28 @@
     "satnogs_id":"EZAU-8235-2008-4656-9477"
   },
   {
+    "name":"ION-SCV-018",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"ION-SCV-020",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"IO-26",
     "norad_id":"22826",
     "uplink":"145.875-145.950",
@@ -10019,6 +10074,17 @@
     "callsign":"ITUPSAT",
     "status":"active",
     "satnogs_id":"FMZT-1887-7286-8009-2095"
+  },
+  {
+    "name":"JACK-001",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.300",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"JACK001",
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"Jackal-3",
@@ -13889,7 +13955,7 @@
     "beacon":null,
     "mode":"1k2AFSK APRS FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -15517,7 +15583,7 @@
     "beacon":null,
     "mode":"APRS",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -20339,6 +20405,17 @@
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
+    "name":"TPA-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.900\/2220.500",
+    "beacon":null,
+    "mode":"2400bps GFSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"Trailblazer-1",
     "norad_id":"39400",
     "uplink":null,
@@ -20909,6 +20986,28 @@
     "callsign":"RS40S",
     "status":"active",
     "satnogs_id":"SDUV-9624-5611-1090-5908"
+  },
+  {
+    "name":"UND-ROADS-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.900\/435.400*\/2401.875",
+    "beacon":null,
+    "mode":"1k2\/4k8*FSK QPSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"UND-ROADS-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.900\/435.400*\/2401.875",
+    "beacon":null,
+    "mode":"1k2\/4k8*FSK QPSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"UniBRITE",
