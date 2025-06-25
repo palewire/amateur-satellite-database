@@ -15340,7 +15340,7 @@
     "norad_cat_id":49399.0,
     "norad_follow_id":null,
     "name":"Z-Sat",
-    "names":"",
+    "names":"JJ2YJX",
     "image":"satellites\/z-sat.png",
     "status":"alive",
     "decayed":null,
@@ -15352,8 +15352,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T07:27:56.965023Z",
-    "citation":"Remove the website as it is not an official webpage but social account",
+    "updated":"2025-06-24T17:38:14.164623Z",
+    "citation":"Moving social account from website field to description",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18945,10 +18945,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -56066,21 +56066,21 @@
     "sat_id":"RETZ-4463-1879-6283-9781",
     "norad_cat_id":98563.0,
     "norad_follow_id":null,
-    "name":"T14 Unknown 1",
+    "name":"JACK-001",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2025-06-23T21:25:00Z",
-    "deployed":null,
+    "deployed":"2025-06-23T22:20:28Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-06-24T07:42:19.406076Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2025-06-24T13:51:37.081366Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/81",
     "is_frequency_violator":true,
     "associated_satellites":[
 
