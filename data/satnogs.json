@@ -55900,7 +55900,7 @@
     "norad_follow_id":null,
     "name":"IRIDE-MS2-HEO-02",
     "names":"HEO 02 (a.k.a Fausto)",
-    "image":"",
+    "image":"satellites\/Immagine1_Lr5YnCb.png",
     "status":"alive",
     "decayed":null,
     "launched":"2025-06-23T21:25:00Z",
@@ -55911,7 +55911,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-25T11:56:49.650611Z",
+    "updated":"2025-06-25T15:19:22.963438Z",
     "citation":"https:\/\/argotecgroup.com\/missions\/earth-orbits\/heo",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -55931,11 +55931,11 @@
     "deployed":"2025-06-23T23:44:44Z",
     "website":"https:\/\/argotecgroup.com\/missions\/earth-orbits\/heo",
     "operator":"ESA",
-    "countries":"",
+    "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2025-06-25T11:56:53.820077Z",
+    "updated":"2025-06-25T15:19:14.557639Z",
     "citation":"https:\/\/argotecgroup.com\/missions\/earth-orbits\/heo",
     "is_frequency_violator":false,
     "associated_satellites":[

@@ -1500,6 +1500,16 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
+    "name":"Hubble-6",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.100*\/402.790\/2200.500",
+    "beacon":null,
+    "mode":"4800bps GMSK FM",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Humsat-D",
     "norad_id":"39433",
     "uplink":null,
@@ -2350,6 +2360,16 @@
     "satnogs_id":null
   },
   {
+    "name":"PADRE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.360\/2277.500",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Painani-2",
     "norad_id":"48942",
     "uplink":null,
@@ -3180,6 +3200,16 @@
     "satnogs_id":"RBPP-4436-6355-8978-8861"
   },
   {
+    "name":"SKYBEE-A02",
+    "norad_id":"62671",
+    "uplink":null,
+    "downlink":"401.050\/2228.000",
+    "beacon":null,
+    "mode":"2400bps FSK FM",
+    "callsign":null,
+    "satnogs_id":"JQZZ-7952-6075-7313-4040"
+  },
+  {
     "name":"SLIM",
     "norad_id":"57800",
     "uplink":null,
@@ -3635,7 +3665,7 @@
     "uplink":null,
     "downlink":"401.900\/2220.500",
     "beacon":null,
-    "mode":"2400bps GFSK",
+    "mode":"2400bps FSK",
     "callsign":null,
     "satnogs_id":null
   },

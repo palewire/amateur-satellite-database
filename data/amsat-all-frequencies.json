@@ -8693,9 +8693,9 @@
     "name":"Hubble-4",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps GMSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -8704,9 +8704,9 @@
     "name":"Hubble-5",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps GMSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -8715,20 +8715,20 @@
     "name":"Hubble-6",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.100*\/402.790\/2200.500",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps GMSK FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"Hubble-7",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps GMSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -13794,6 +13794,17 @@
     "satnogs_id":"TOVH-3956-2034-5742-2102"
   },
   {
+    "name":"Otter-Pup-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"38k4 GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"OUFTI-1",
     "norad_id":"41458",
     "uplink":"435.045",
@@ -13880,6 +13891,17 @@
     "callsign":"PACSAT-11 12",
     "status":"inactive",
     "satnogs_id":"BWUQ-1126-2556-9888-6948"
+  },
+  {
+    "name":"PADRE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.360\/2277.500",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"Painani-1",
@@ -17611,14 +17633,14 @@
     "satnogs_id":"BDML-1083-7096-5526-2883"
   },
   {
-    "name":"SKYBEE-A01",
+    "name":"SKYBEE-A02",
     "norad_id":"62671",
     "uplink":null,
     "downlink":"401.050\/2228.000",
     "beacon":null,
-    "mode":"FM",
+    "mode":"2400bps FSK FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"JQZZ-7952-6075-7313-4040"
   },
   {
@@ -20410,7 +20432,7 @@
     "uplink":null,
     "downlink":"401.900\/2220.500",
     "beacon":null,
-    "mode":"2400bps GFSK",
+    "mode":"2400bps FSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
