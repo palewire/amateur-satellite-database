@@ -19711,8 +19711,8 @@
     "name":"Foresail-1",
     "names":"OH2F1S",
     "image":"satellites\/FORESAIL-1_Flight_Model.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-06-25T00:00:00Z",
     "launched":"2022-05-25T18:27:00Z",
     "deployed":null,
     "website":"https:\/\/foresail.github.io\/",
@@ -19723,8 +19723,8 @@
         "decoder":"foresail1"
       }
     ],
-    "updated":"2022-07-16T18:21:12.256792Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/228",
+    "updated":"2025-06-26T08:34:58.954045Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=52766",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51911,7 +51911,7 @@
     "sat_id":"NZXL-7963-6359-3424-9666",
     "norad_cat_id":62697.0,
     "norad_follow_id":null,
-    "name":"IRIDE-MS2-HEO-1",
+    "name":"IRIDE-MS2-HEO-01",
     "names":"HEO Pathfinder (a.k.a. Patricio)",
     "image":"satellites\/Immagine1_QAuEHpn.png",
     "status":"alive",
@@ -51924,7 +51924,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-25T11:56:45.508352Z",
+    "updated":"2025-06-26T08:34:03.275734Z",
     "citation":"https:\/\/argotecgroup.com\/missions\/earth-orbits\/heo",
     "is_frequency_violator":false,
     "associated_satellites":[

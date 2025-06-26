@@ -7117,6 +7117,50 @@
     "satnogs_id":null
   },
   {
+    "name":"FossaSat-2E14",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"FossaSat-2E15",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"FossaSat-2E16",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"FossaSat-2E17",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
     "name":"FossaSat-2E18",
     "norad_id":null,
     "uplink":null,
@@ -7147,6 +7191,17 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"FossaSat-2E21",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -21012,10 +21067,10 @@
   {
     "name":"UND-ROADS-1",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"435.400",
     "downlink":"145.900\/435.400*\/2401.875",
     "beacon":null,
-    "mode":"1k2\/4k8*FSK QPSK",
+    "mode":"1k2\/4k8*\/19k2 FSK Digipeater",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
@@ -21023,10 +21078,10 @@
   {
     "name":"UND-ROADS-2",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"435.400",
     "downlink":"145.900\/435.400*\/2401.875",
     "beacon":null,
-    "mode":"1k2\/4k8*FSK QPSK",
+    "mode":"1k2\/4k8*\/19k2 FSK Digipeater",
     "callsign":null,
     "status":"active",
     "satnogs_id":null

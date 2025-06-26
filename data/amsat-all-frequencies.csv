@@ -646,9 +646,14 @@ FossaSat-2E10,,,401.700,,9600bps GFSK 125k LoRa*,,active,
 FossaSat-2E11,52750,,401.700,,9600bps GFSK 125k LoRa*,,re-entered,RQGN-8584-9526-1967-0454
 FossaSat-2E12,52773,,401.700,,9600bps GFSK 125k LoRa*,,re-entered,MYQU-2688-4982-5356-0669
 FossaSat-2E13,52776,,401.700,,9600bps GFSK 125k LoRa*,,active,
+FossaSat-2E14,,,401.700,,LoRa,,re-entered,
+FossaSat-2E15,,,401.700,,LoRa,,re-entered,
+FossaSat-2E16,,,401.700,,LoRa,,re-entered,
+FossaSat-2E17,,,401.700,,LoRa,,re-entered,
 FossaSat-2E18,,,401.700,,LoRa,,unknown,
 FossaSat-2E19,62676,,401.700,,LoRa,,unknown,QUNZ-3626-5921-8463-0434
 FossaSat-2E20,,,401.700,,LoRa,,unknown,
+FossaSat-2E21,,,401.700,,LoRa,,active,
 FossaSat-FEROX 14~17,,,401.700,,LoRa,,re-entered,
 Fox-1A,40967,435.182,145.980,145.980,FM CTCSS 67.0Hz/200bps DUV,,inactive,VQGN-3314-0779-1450-1457
 Fox-1B,43017,435.250,145.960,145.960,FM* CTCSS 67.0Hz/200bps DUV,,active,PMAW-9203-2442-8666-3249
@@ -1909,8 +1914,8 @@ Umbra-08,58292,,2254.000,,FM,,inactive,
 Umbra-09,,,2254.000,,FM,,unknown,
 Umbra-10,,,2254.000,,FM,,unknown,
 UmKA-1,57172,,435.825/437.625*/2402.000,,2k4/4k8/9k6*GMSK_USP SSTV,RS40S,active,SDUV-9624-5611-1090-5908
-UND-ROADS-1,,,145.900/435.400*/2401.875,,1k2/4k8*FSK QPSK,,active,
-UND-ROADS-2,,,145.900/435.400*/2401.875,,1k2/4k8*FSK QPSK,,active,
+UND-ROADS-1,,435.400,145.900/435.400*/2401.875,,1k2/4k8*/19k2 FSK Digipeater,,active,
+UND-ROADS-2,,435.400,145.900/435.400*/2401.875,,1k2/4k8*/19k2 FSK Digipeater,,active,
 UniBRITE,39092,,145.890,145.890,CW,,inactive,JVIG-3362-0807-4026-2397
 UNICORN-1,51076,,401.820,,9600bps FSK,,re-entered,
 UNICORN-2,52421,,,,,,re-entered,
