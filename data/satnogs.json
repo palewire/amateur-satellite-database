@@ -1610,16 +1610,16 @@
     "image":"satellites\/swisscube.jpeg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2009-09-23T06:21:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"CH",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.081749Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-06-27T07:03:29.897480Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/SwissCube-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18945,10 +18945,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",

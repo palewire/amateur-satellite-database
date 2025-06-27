@@ -9834,6 +9834,17 @@
     "satnogs_id":"QHGB-5011-7406-7134-6581"
   },
   {
+    "name":"IRIDE-MS2-HEO-1",
+    "norad_id":"62697",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"NZXL-7963-6359-3424-9666"
+  },
+  {
     "name":"IRIDE-MS2-HEO-2",
     "norad_id":null,
     "uplink":null,
@@ -9896,7 +9907,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
