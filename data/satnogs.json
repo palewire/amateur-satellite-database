@@ -55586,7 +55586,7 @@
     "sat_id":"RBAW-0155-7922-9410-2702",
     "norad_cat_id":98583.0,
     "norad_follow_id":null,
-    "name":"FOSSASAT-1E21",
+    "name":"FOSSASAT-2E21",
     "names":"",
     "image":"",
     "status":"alive",
@@ -55599,8 +55599,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.661732Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-06-26T15:54:23.462318Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/FossaSat-2E21",
     "is_frequency_violator":false,
     "associated_satellites":[
 
