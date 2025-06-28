@@ -56157,5 +56157,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RNAT-4607-0106-2995-6819",
+    "norad_cat_id":98560.0,
+    "norad_follow_id":null,
+    "name":"239Alferov",
+    "names":"239-PTS, RS61S",
+    "image":"satellites\/239_Alferov_1_878fee3227.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-28T09:03:39.300850Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/formal_detail.php?serialnum=934",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

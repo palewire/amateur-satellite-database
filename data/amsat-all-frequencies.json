@@ -14126,10 +14126,10 @@
   {
     "name":"Parus-T2",
     "norad_id":null,
-    "uplink":"145.825\/145.980",
+    "uplink":null,
     "downlink":"145.825\/435.250\/437.850",
     "beacon":null,
-    "mode":"1k2AFSK APRS FM",
+    "mode":"1200bps AFSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -15754,10 +15754,10 @@
   {
     "name":"RIDUSat-1",
     "norad_id":null,
-    "uplink":"145.825",
-    "downlink":"145.825\/145.980",
+    "uplink":null,
+    "downlink":"145.825\/145.925*\/145.980",
     "beacon":null,
-    "mode":"APRS",
+    "mode":"1200bps AFSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
