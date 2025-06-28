@@ -18945,10 +18945,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -56105,6 +56105,54 @@
     ],
     "updated":"2025-06-25T07:44:56.742091Z",
     "citation":"space-track.com",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LOWP-5503-3513-2546-3200",
+    "norad_cat_id":98562.0,
+    "norad_follow_id":null,
+    "name":"Ionosfera-M \u21163",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-27T15:42:32.094463Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63091.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HUAK-5803-4755-7745-2939",
+    "norad_cat_id":98561.0,
+    "norad_follow_id":null,
+    "name":"Ionosfera-M \u21164",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-06-27T15:42:27.873631Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63091.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
