@@ -1046,7 +1046,7 @@
     "name":"NOAA 18",
     "names":"",
     "image":"satellites\/NOAA-18_or_19_rendering.jpg",
-    "status":"alive",
+    "status":"dead",
     "decayed":null,
     "launched":"2005-05-20T00:00:00Z",
     "deployed":null,
@@ -1056,8 +1056,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-05-30T10:58:26.688289Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-06-28T13:18:03.978270Z",
+    "citation":"NOAA 18 Shutdown",
     "is_frequency_violator":false,
     "associated_satellites":[
 

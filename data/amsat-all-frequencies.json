@@ -15755,9 +15755,9 @@
     "name":"RIDUSat-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"145.825\/145.925*\/145.980",
+    "downlink":"145.825\/145.925*",
     "beacon":null,
-    "mode":"1200bps AFSK FM",
+    "mode":"1200bps AFSK\/GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
