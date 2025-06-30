@@ -8895,12 +8895,12 @@
     "norad_follow_id":null,
     "name":"UWE-4",
     "names":"DP0UWH",
-    "image":"",
+    "image":"satellites\/UWE-4_AutoF.jpeg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2018-12-27T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.informatik.uni-wuerzburg.de\/space\/forschung\/space-exploration\/projects\/uwe-4\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
@@ -8908,8 +8908,8 @@
         "decoder":"uwe4"
       }
     ],
-    "updated":"2021-07-21T10:11:42.699432Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-06-30T08:46:58.093710Z",
+    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/uwe-4 (source of the description) and  https:\/\/www.informatik.uni-wuerzburg.de\/space\/forschung\/space-exploration\/projects\/uwe-4\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

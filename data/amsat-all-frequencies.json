@@ -220,6 +220,17 @@
     "satnogs_id":"EYEX-3123-7466-3755-9687"
   },
   {
+    "name":"ADDCUBE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.500\/2412.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"AENEAS",
     "norad_id":"38760",
     "uplink":null,
