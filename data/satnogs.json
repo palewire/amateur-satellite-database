@@ -55153,9 +55153,9 @@
     "sat_id":"IDDA-3367-7223-2853-3512",
     "norad_cat_id":98600.0,
     "norad_follow_id":null,
-    "name":"RIDUSat-1",
-    "names":"YH1SAT",
-    "image":"",
+    "name":"RIDU-Sat 1",
+    "names":"YH1SUP",
+    "image":"satellites\/RIDU-Sat_1.png",
     "status":"alive",
     "decayed":null,
     "launched":"2025-06-23T21:25:00Z",
@@ -55166,8 +55166,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:10.092073Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-04T17:14:35.617919Z",
+    "citation":"Greetings, I am Imanuel YD1BEJ from RIDU as the program coordinator of RIDU-Sat, also act as the responsibel operator as stated in the IARU frequency coordination",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56201,6 +56201,198 @@
     ],
     "updated":"2025-07-03T06:20:42.878810Z",
     "citation":"https:\/\/www.n2yo.com\/satellite\/?s=29273#results",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YHKV-6117-6256-9430-5472",
+    "norad_cat_id":98559.0,
+    "norad_follow_id":null,
+    "name":"Geoscan-1",
+    "names":"\u0413\u0435\u043e\u0441\u043a\u0430\u043d-1, RS92S1",
+    "image":"satellites\/geoscan.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/geoscan.space\/en",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-04T17:16:05.808679Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WEMP-5992-7749-9773-6718",
+    "norad_cat_id":98558.0,
+    "norad_follow_id":null,
+    "name":"Geoscan-2",
+    "names":"\u0413\u0435\u043e\u0441\u043a\u0430\u043d-2, RS92S2",
+    "image":"satellites\/geoscan_1suQqZN.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/geoscan.space\/en",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-04T17:16:05.803860Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NAYK-9396-4687-3348-2272",
+    "norad_cat_id":98557.0,
+    "norad_follow_id":null,
+    "name":"Geoscan-3",
+    "names":"\u0413\u0435\u043e\u0441\u043a\u0430\u043d-3, RS92S3",
+    "image":"satellites\/geoscan_fsoUFw5.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/geoscan.space\/en",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-04T17:16:05.799122Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WVBC-1896-0549-3910-3643",
+    "norad_cat_id":98556.0,
+    "norad_follow_id":null,
+    "name":"Geoscan-4",
+    "names":"\u0413\u0435\u043e\u0441\u043a\u0430\u043d-4, RS92S4",
+    "image":"satellites\/geoscan_g6FJMhe.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/geoscan.space\/en",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-04T17:16:05.794670Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NHQC-9171-5329-3956-5220",
+    "norad_cat_id":98555.0,
+    "norad_follow_id":null,
+    "name":"Geoscan-5",
+    "names":"\u0413\u0435\u043e\u0441\u043a\u0430\u043d-5, RS92S5",
+    "image":"satellites\/geoscan_FP4yos3.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/geoscan.space\/en",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-04T17:16:05.790435Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UURX-8785-0574-4809-0080",
+    "norad_cat_id":98554.0,
+    "norad_follow_id":null,
+    "name":"Geoscan-6",
+    "names":"\u0413\u0435\u043e\u0441\u043a\u0430\u043d-6, RS92S6",
+    "image":"satellites\/geoscan_8YE54XU.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/geoscan.space\/en",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-04T17:16:05.786411Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VCOU-5138-4852-6587-2660",
+    "norad_cat_id":98553.0,
+    "norad_follow_id":null,
+    "name":"InnoSat3",
+    "names":"\u0418\u043d\u043d\u043e\u0421\u0430\u04423, RS92S0",
+    "image":"satellites\/geoscan_sXWCjsg.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/geoscan.space\/en",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-04T17:16:05.782174Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UBWS-4293-1234-8994-1295",
+    "norad_cat_id":98552.0,
+    "norad_follow_id":null,
+    "name":"InnoSat16",
+    "names":"\u0418\u043d\u043d\u043e\u0421\u0430\u044216, RS92S7",
+    "image":"satellites\/630_-_2025-07-04T145114.159.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"https:\/\/geoscan.space\/en",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-04T17:16:05.776133Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
