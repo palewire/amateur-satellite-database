@@ -5978,7 +5978,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"38400bps GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -14052,7 +14052,7 @@
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
-    "mode":"38k4 GFSK",
+    "mode":"38400bps GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"TOVH-3956-2034-5742-2102"
@@ -16795,6 +16795,17 @@
     "callsign":"BN0TR2",
     "status":"unknown",
     "satnogs_id":"IYBG-5656-4053-4485-9560"
+  },
+  {
+    "name":"Satoro-T3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.970\/2280.000",
+    "beacon":null,
+    "mode":"2400bps BPSK FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Saturn",

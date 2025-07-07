@@ -9778,8 +9778,8 @@
     "name":"SONATE",
     "names":"SOlutus NAno satteliTE",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-07-04T00:00:00Z",
     "launched":"2019-07-05T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/web.archive.org\/web\/20190708150749\/http:\/\/www8.informatik.uni-wuerzburg.de\/en\/wissenschaftforschung\/sonate\/",
@@ -9788,8 +9788,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:53:59.115017Z",
-    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/sonate#launch",
+    "updated":"2025-07-07T08:01:29.970702Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=44400",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56393,6 +56393,30 @@
     ],
     "updated":"2025-07-04T17:16:05.776133Z",
     "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ATLJ-6067-6962-0391-3100",
+    "norad_cat_id":57032.0,
+    "norad_follow_id":null,
+    "name":"Object AE",
+    "names":"2023-06-15",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-06-15T00:00:00Z",
+    "deployed":"2023-06-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-07T08:02:13.258214Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/11a5LsfGVnVvDvtsM3FoIwMSU1GQl84VgItLCAn8OyLE\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
