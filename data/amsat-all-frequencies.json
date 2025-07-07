@@ -22,6 +22,17 @@
     "satnogs_id":"VWFS-8293-1536-2839-9284"
   },
   {
+    "name":"239Alferov",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.270\/10473.350",
+    "beacon":null,
+    "mode":"9k6 GFSK\/DVB-S2 QPSK",
+    "callsign":"RS61S",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"3B5GSAT",
     "norad_id":"47961",
     "uplink":null,
@@ -7843,6 +7854,72 @@
     "satnogs_id":"VJRG-4563-6320-7277-2016"
   },
   {
+    "name":"Geoscan-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS92S1",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Geoscan-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS92S2",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Geoscan-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS92S3",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Geoscan-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS92S4",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Geoscan-5",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS92S5",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Geoscan-6",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS92S6",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Geoscan-Edelveis",
     "norad_id":"53385",
     "uplink":null,
@@ -9436,6 +9513,28 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"UUUL-8721-0443-0737-3074"
+  },
+  {
+    "name":"InnoSat-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS92S0",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"InnoSat-16",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS92S7",
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"INSPIRESat-1",
