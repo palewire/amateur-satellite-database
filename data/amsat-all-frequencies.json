@@ -16549,7 +16549,7 @@
     "uplink":null,
     "downlink":"436.200",
     "beacon":"436.200",
-    "mode":"9600bps GFSK CW*",
+    "mode":"9600bps GFSK CW",
     "callsign":"RS51S",
     "status":"active",
     "satnogs_id":"UKBO-2090-2618-8439-9299"
