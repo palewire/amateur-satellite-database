@@ -14236,10 +14236,10 @@
   {
     "name":"Parus-T2",
     "norad_id":null,
-    "uplink":null,
-    "downlink":"145.825\/435.250\/437.850",
+    "uplink":"145.980",
+    "downlink":"145.825\/435.250*\/437.850",
     "beacon":null,
-    "mode":"1200bps AFSK FM",
+    "mode":"1200bps AFSK FM*",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

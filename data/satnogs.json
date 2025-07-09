@@ -52273,19 +52273,19 @@
     "norad_follow_id":null,
     "name":"BLUEBON",
     "names":"",
-    "image":"",
+    "image":"satellites\/BlueBon_Rendering_Hu1IjjK.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2025-02-27T10:53:01.783442Z",
-    "citation":"space-track.org",
+    "updated":"2025-07-08T14:59:17.681630Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/File:BlueBon_Rendering.jpg",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54883,6 +54883,30 @@
     "is_frequency_violator":false,
     "associated_satellites":[
 
+    ]
+  },
+  {
+    "sat_id":"ODGB-0581-1588-5723-3392",
+    "norad_cat_id":98550.0,
+    "norad_follow_id":null,
+    "name":"APTAS",
+    "names":"",
+    "image":"satellites\/APTAS.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.ltu.se\/en\/research\/research-areas\/space\/student-projects\/student-projects\/2024-05-28-aptas",
+    "operator":"None",
+    "countries":"SE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-08T14:55:07.812173Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "BIAA-0728-1901-6005-7923"
     ]
   },
   {
