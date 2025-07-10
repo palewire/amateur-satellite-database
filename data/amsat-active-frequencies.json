@@ -3555,7 +3555,7 @@
     "uplink":"145.970",
     "downlink":"436.400",
     "beacon":null,
-    "mode":"9600bps BPSK FM",
+    "mode":"9600bps BPSK FM*",
     "callsign":"TVL2-3-1",
     "satnogs_id":null
   },
