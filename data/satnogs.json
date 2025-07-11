@@ -8527,19 +8527,19 @@
     "norad_follow_id":null,
     "name":"ITASAT 1",
     "names":"ITASAT-14",
-    "image":"",
+    "image":"satellites\/ITASAT-_1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2018-12-03T00:00:00Z",
     "deployed":null,
-    "website":"http:\/\/www.itasat.ita.br\/",
+    "website":"https:\/\/web.archive.org\/web\/20231130050727\/http:\/\/www.itasat.ita.br\/",
     "operator":"None",
     "countries":"BR",
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T15:10:06.064737Z",
-    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/itasat-1",
+    "updated":"2025-07-11T07:33:13.842479Z",
+    "citation":"Update website to the archived version of it",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -15584,8 +15584,8 @@
     "name":"BRIO",
     "names":"",
     "image":"satellites\/brio__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-07-11T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -15594,8 +15594,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-10-09T14:50:52.652184Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2025-07-11T07:25:57.827978Z",
+    "citation":"latest TLE from space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
