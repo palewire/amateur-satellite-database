@@ -56445,5 +56445,77 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"IWAR-4019-1423-1363-0578",
+    "norad_cat_id":57764.0,
+    "norad_follow_id":null,
+    "name":"WILDFIRE 1",
+    "names":"2023-133J",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-02T00:00:00Z",
+    "deployed":"2023-09-02T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-11T21:17:06.218399Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1tQBlEXK9HSYDN-evmu_kCWKMs2nZx78XDobq3bQlGQA\/edit?usp=sharing transmitter to be confirmed",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SMYF-3767-7993-5685-3976",
+    "norad_cat_id":57766.0,
+    "norad_follow_id":null,
+    "name":"WILDFIRE 10",
+    "names":"2023-133L",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-02T00:00:00Z",
+    "deployed":"2023-09-02T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-11T21:16:58.327262Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/14wnsOfyStkm95EMSzPMOfvlGZMxkH6PHMa8hhXPf980\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SLNJ-8867-2151-2052-6656",
+    "norad_cat_id":57765.0,
+    "norad_follow_id":null,
+    "name":"WILDFIRE 9",
+    "names":"2023-133K",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-09-02T00:00:00Z",
+    "deployed":"2023-09-02T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-11T21:16:45.844716Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1fyPehE2IBuLsrN-VKplx3sMabm66NTbB-kUWbTaIO5k\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
