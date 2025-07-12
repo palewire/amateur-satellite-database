@@ -4242,7 +4242,7 @@
     "beacon":"436.835",
     "mode":"9600bps GFSK CW",
     "callsign":"RS67S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"OVBN-0332-6282-0409-5232"
   },
   {
@@ -8961,7 +8961,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"RS66S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"DQTX-7069-3845-7154-3428"
   },
   {
@@ -10875,7 +10875,7 @@
     "beacon":"436.835",
     "mode":"9600bps GFSK CW",
     "callsign":"RS67S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"OVBN-0332-6282-0409-5232"
   },
   {
@@ -20918,7 +20918,7 @@
     "beacon":"437.730",
     "mode":"9600bps GFSK CW",
     "callsign":"RS78S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"RUKR-0716-8781-6957-0828"
   },
   {
@@ -22029,7 +22029,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"RS68S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"SQGD-2208-0540-4983-6683"
   },
   {

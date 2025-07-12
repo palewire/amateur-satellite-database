@@ -560,6 +560,16 @@
     "satnogs_id":"WRLU-1723-6543-5361-0506"
   },
   {
+    "name":"Colibri-S",
+    "norad_id":"61746",
+    "uplink":null,
+    "downlink":"436.835",
+    "beacon":"436.835",
+    "mode":"9600bps GFSK CW",
+    "callsign":"RS67S",
+    "satnogs_id":"OVBN-0332-6282-0409-5232"
+  },
+  {
     "name":"ConnectaIoT-1",
     "norad_id":"60472",
     "uplink":null,
@@ -1540,6 +1550,16 @@
     "satnogs_id":null
   },
   {
+    "name":"HyperView-1G",
+    "norad_id":"61772",
+    "uplink":null,
+    "downlink":"436.540",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"RS66S",
+    "satnogs_id":"DQTX-7069-3845-7154-3428"
+  },
+  {
     "name":"INNOCUBE",
     "norad_id":"62616",
     "uplink":null,
@@ -1888,6 +1908,16 @@
     "mode":"1200bps AFSK CW*",
     "callsign":"JQ1YYY",
     "satnogs_id":"BFDT-9094-9258-2665-0692"
+  },
+  {
+    "name":"Kolibri-S",
+    "norad_id":"61746",
+    "uplink":null,
+    "downlink":"436.835",
+    "beacon":"436.835",
+    "mode":"9600bps GFSK CW",
+    "callsign":"RS67S",
+    "satnogs_id":"OVBN-0332-6282-0409-5232"
   },
   {
     "name":"KOSEN-1",
@@ -3700,6 +3730,16 @@
     "satnogs_id":"FWIK-4601-2533-0527-1613"
   },
   {
+    "name":"TUSUR-GO",
+    "norad_id":"61782",
+    "uplink":null,
+    "downlink":"437.730",
+    "beacon":"437.730",
+    "mode":"9600bps GFSK CW",
+    "callsign":"RS78S",
+    "satnogs_id":"RUKR-0716-8781-6957-0828"
+  },
+  {
     "name":"TY-4",
     "norad_id":"43669",
     "uplink":"435.925\/2409.000\/5659.000",
@@ -3828,6 +3868,16 @@
     "mode":"9600bps GFSK",
     "callsign":"OM9VER",
     "satnogs_id":"EXYP-7555-6232-5402-1667"
+  },
+  {
+    "name":"Vizard-ion",
+    "norad_id":"61749",
+    "uplink":null,
+    "downlink":"436.870",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"RS68S",
+    "satnogs_id":"SQGD-2208-0540-4983-6683"
   },
   {
     "name":"VIZARD-meteo",
