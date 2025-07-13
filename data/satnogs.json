@@ -16418,6 +16418,30 @@
     ]
   },
   {
+    "sat_id":"FDMQ-4877-9089-8664-0698",
+    "norad_cat_id":43807.0,
+    "norad_follow_id":null,
+    "name":"EUCROPIS",
+    "names":"2018-099BB",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-12-03T00:00:00Z",
+    "deployed":"2018-12-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-13T06:53:13.402849Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/16iKuR70-sia4snqcTJgN3I2_HN5ky60D_380v2OyV8I\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"RPDQ-1197-8043-4841-1250",
     "norad_cat_id":44349.0,
     "norad_follow_id":null,
