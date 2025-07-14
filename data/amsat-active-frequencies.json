@@ -1550,6 +1550,16 @@
     "satnogs_id":null
   },
   {
+    "name":"HYDRA-W",
+    "norad_id":"63490",
+    "uplink":null,
+    "downlink":"437.780",
+    "beacon":null,
+    "mode":"200bps USB",
+    "callsign":null,
+    "satnogs_id":"ZMUU-1298-3682-9426-1829"
+  },
+  {
     "name":"HyperView-1G",
     "norad_id":"61772",
     "uplink":null,
