@@ -56541,5 +56541,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"KNME-4557-1933-2318-6400",
+    "norad_cat_id":64095.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2588",
+    "names":"2025-109A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-05-23T00:00:00Z",
+    "deployed":"2025-05-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-14T14:52:28.539491Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/12GpJ_dOSJWamLnICjQWxA3VMKv_CYZXYg0e2TXyLfVU\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
