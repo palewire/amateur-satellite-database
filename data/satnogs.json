@@ -26772,7 +26772,7 @@
     "name":"MDQSAT-1A",
     "names":"\"Juana Azurduy\"",
     "image":"satellites\/Maqueta_MDQubesat-1_en_Tecn\u00f3polis_Octubre_2022_04.jpg",
-    "status":"future",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2023-01-02T14:55:00Z",
     "deployed":null,
@@ -26782,8 +26782,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-20T07:27:48.392707Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.msg2422889#msg2422889",
+    "updated":"2025-07-15T09:13:06.000594Z",
+    "citation":"https:\/\/web.archive.org\/web\/20230228102059\/https:\/\/blog.preciouspayload.com\/launchers-orbiter-sn1-failure-rip-spaceryde-and-more-smallsat-updates\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -26796,7 +26796,7 @@
     "name":"MDQSAT-1B",
     "names":"\"Sim\u00f3n Bolivar\"",
     "image":"satellites\/Maqueta_MDQubesat-1_en_Tecn\u00f3polis_Octubre_2022_04_OEDL0bm.jpg",
-    "status":"future",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2023-01-02T14:55:00Z",
     "deployed":null,
@@ -26806,8 +26806,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-20T07:27:29.956661Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.msg2422889#msg2422889",
+    "updated":"2025-07-15T09:14:01.462871Z",
+    "citation":"https:\/\/spacenews.com\/first-launcher-orbital-transfer-vehicle-fails\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34077,7 +34077,7 @@
     "name":"MDQSAT-1C",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2023-06-12T21:35:00Z",
     "deployed":null,
@@ -34087,8 +34087,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:35:09.573314Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2025-07-15T09:18:46.554967Z",
+    "citation":"The object should be re-entered, but without identification we are not sure about its re-entry date",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -34101,7 +34101,7 @@
     "name":"MDQSAT-1D",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2023-06-12T21:35:00Z",
     "deployed":null,
@@ -34111,8 +34111,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-12T22:35:09.557084Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-19-utc\/10499",
+    "updated":"2025-07-15T09:19:04.354899Z",
+    "citation":"The object should be re-entered, but without identification we are not sure about its re-entry date",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -54310,6 +54310,54 @@
     ]
   },
   {
+    "sat_id":"ATDL-8443-0938-6167-0031",
+    "norad_cat_id":59910.0,
+    "norad_follow_id":null,
+    "name":"TIANQI 26",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-15T09:04:40.717593Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?NAME=tianqi&PAYLOAD=1&ACTIVE=1&MAX=500",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DOHI-1671-3901-3231-0879",
+    "norad_cat_id":59909.0,
+    "norad_follow_id":null,
+    "name":"TIANQI 25",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-15T09:06:03.349429Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?NAME=tianqi&PAYLOAD=1&ACTIVE=1&MAX=500",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"TWUP-5560-6327-7189-2917",
     "norad_cat_id":63300.0,
     "norad_follow_id":null,
@@ -54880,6 +54928,30 @@
     ],
     "updated":"2025-05-18T11:04:33.837202Z",
     "citation":"STRF Obs",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LOLB-6503-6398-1581-9126",
+    "norad_cat_id":60133.0,
+    "norad_follow_id":null,
+    "name":"GOES-19",
+    "names":"GOES-U",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-06-25T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-15T08:39:03.296590Z",
+    "citation":"https:\/\/www.nesdis.noaa.gov\/our-satellites\/currently-flying\/geostationary-satellites\/noaas-goes-u",
     "is_frequency_violator":false,
     "associated_satellites":[
 
