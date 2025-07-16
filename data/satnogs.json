@@ -8430,8 +8430,8 @@
     "name":"MOVE-II",
     "names":"DP0MVE",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-07-13T00:00:00Z",
     "launched":"2018-12-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.move2space.de\/MOVE-II\/",
@@ -8440,8 +8440,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:54:05.632023Z",
-    "citation":"https:\/\/www.move2space.de\/MOVE-II\/",
+    "updated":"2025-07-16T06:10:05.291232Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43780",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18969,10 +18969,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
