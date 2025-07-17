@@ -1738,6 +1738,50 @@
     "satnogs_id":null
   },
   {
+    "name":"AstroLine-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"AstroLine-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"AstroLine-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"AstroLine-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Athenoxat-1",
     "norad_id":"41168",
     "uplink":null,
@@ -5005,6 +5049,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CSTP-2.2",
+    "norad_id":"61775",
+    "uplink":null,
+    "downlink":"437.985",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"CSTP-2.11",
     "norad_id":"61774",
     "uplink":null,
@@ -5016,14 +5071,47 @@
     "satnogs_id":"ZBVE-3642-7824-0324-5322"
   },
   {
-    "name":"CSTP-2.2",
-    "norad_id":"61775",
+    "name":"CSTP-?.1",
+    "norad_id":null,
     "uplink":null,
-    "downlink":"437.985",
+    "downlink":null,
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CSTP-?.2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CSTP-?.3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"CSTP-?.4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -16803,7 +16891,7 @@
     "downlink":"401.970\/2280.000",
     "beacon":null,
     "mode":"2400bps BPSK FM",
-    "callsign":null,
+    "callsign":"BN0TR3",
     "status":"unknown",
     "satnogs_id":null
   },

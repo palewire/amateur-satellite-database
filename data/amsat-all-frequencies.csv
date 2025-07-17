@@ -157,6 +157,10 @@ Astrocast-0403,55111,,,,,,unknown,
 Astrocast-0404,55112,,,,,,unknown,
 ASTROLAND-1,,145.875,436.888,436.888,1k2/2k4 AFSK FM APRS CW,AM2SAT,re-entered,
 ASTROLAND-2,,145.925,436.666,436.666,1k2/2k4 AFSK FM APRS SSTV CW,AM3SAT,re-entered,
+AstroLine-1,,,,,,,to be launched,
+AstroLine-2,,,,,,,to be launched,
+AstroLine-3,,,,,,,to be launched,
+AstroLine-4,,,,,,,to be launched,
 Athenoxat-1,41168,,437.485,437.485,2k4*GMSK 4k8*AFSK CW,ATX1,re-entered,VTHG-6292-4004-9767-5017
 ATHER-1/2,,,,,,,unknown,
 Atlantis,42737,,436.390,,9600bps GMSK,WD8DOX,re-entered,SNRU-8765-3595-7354-2501
@@ -454,8 +458,12 @@ CSTB-1,31122,,400.038,,1200bps AFSK,,inactive,
 CSTP-1.1,57202,,436.075,,LoRa,,active,CGZW-4770-7854-7332-3001
 CSTP-1.2,57186,,436.270,,LoRa,,active,OEVP-0911-2494-4510-3616
 CSTP-2.1,61777,,437.485,,LoRa,,unknown,
-CSTP-2.11,61774,,437.985,,LoRa,,unknown,ZBVE-3642-7824-0324-5322
 CSTP-2.2,61775,,437.985,,LoRa,,unknown,
+CSTP-2.11,61774,,437.985,,LoRa,,unknown,ZBVE-3642-7824-0324-5322
+CSTP-?.1,,,,,LoRa,,to be launched,
+CSTP-?.2,,,,,LoRa,,to be launched,
+CSTP-?.3,,,,,LoRa,,to be launched,
+CSTP-?.4,,,,,LoRa,,to be launched,
 CSUNSat1,42715,,437.400,437.400,9600bps GMSK CW,CSUNSAT1,re-entered,
 CTC-0,62401,,401.500,,9600bps GFSK,WX9XKR,active,VWXG-4101-0824-5480-8078
 CTIM-FD,52950,,437.250,,9600bps GFSK,,re-entered,CSGC-5605-1718-3109-5402
@@ -1526,7 +1534,7 @@ SATLLA-2A,50984,,437.250,,9600bps FSK 62.5k LoRa*,,unknown,
 SATLLA-2B,50986,,437.250,,9600bps FSK 62.5k LoRa*,,unknown,TPDX-4064-2548-6167-6896
 SATLLA-2I,56227,,437.250,,LoRa,,unknown,
 Satoro-T2,60477,,400.425,,2400bps BPSK,BN0TR2,unknown,IYBG-5656-4053-4485-9560
-Satoro-T3,,,401.970/2280.000,,2400bps BPSK FM,,unknown,
+Satoro-T3,,,401.970/2280.000,,2400bps BPSK FM,BN0TR3,unknown,
 Saturn,57174,,435.790,,1200bps AFSK,RS43S,active,KATA-8177-7690-1660-7290
 SATurnin-1,,,400.575/401.500,,FM,,unknown,
 SaudiSat-1A,26545,,436.775,,9600bps FSK,SASAT1-11 12,inactive,
