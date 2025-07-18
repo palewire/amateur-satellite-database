@@ -18964,6 +18964,17 @@
     "satnogs_id":"GMXL-7215-1950-4661-9393"
   },
   {
+    "name":"STARS-Me2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":"437.350",
+    "mode":"1k2AFSK 9k6FSK CW",
+    "callsign":"JJ2YXO",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"STECCO",
     "norad_id":"47962",
     "uplink":null,

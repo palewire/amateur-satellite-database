@@ -18969,10 +18969,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -55286,8 +55286,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-04T17:14:35.617919Z",
-    "citation":"Greetings, I am Imanuel YD1BEJ from RIDU as the program coordinator of RIDU-Sat, also act as the responsibel operator as stated in the IARU frequency coordination",
+    "updated":"2025-07-18T07:28:30.186324Z",
+    "citation":"we update our partner name: \"Berlin Nanosatellite Alliance\"",
     "is_frequency_violator":false,
     "associated_satellites":[
 
