@@ -8552,8 +8552,8 @@
     "name":"KAZSCISAT-1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-07-18T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -8562,8 +8562,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-01T16:11:35.774059Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-07-19T07:36:55.631565Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43787",
     "is_frequency_violator":true,
     "associated_satellites":[
 

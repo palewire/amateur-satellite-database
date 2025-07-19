@@ -460,10 +460,10 @@ CSTP-1.2,57186,,436.270,,LoRa,,active,OEVP-0911-2494-4510-3616
 CSTP-2.1,61777,,437.485,,LoRa,,unknown,
 CSTP-2.2,61775,,437.985,,LoRa,,unknown,
 CSTP-2.11,61774,,437.985,,LoRa,,unknown,ZBVE-3642-7824-0324-5322
-CSTP-?.1,,,,,LoRa,,to be launched,
-CSTP-?.2,,,,,LoRa,,to be launched,
-CSTP-?.3,,,,,LoRa,,to be launched,
-CSTP-?.4,,,,,LoRa,,to be launched,
+CSTP-4.1,,,,,LoRa,,to be launched,
+CSTP-4.2,,,,,LoRa,,to be launched,
+CSTP-4.3,,,,,LoRa,,to be launched,
+CSTP-4.4,,,,,LoRa,,to be launched,
 CSUNSat1,42715,,437.400,437.400,9600bps GMSK CW,CSUNSAT1,re-entered,
 CTC-0,62401,,401.500,,9600bps GFSK,WX9XKR,active,VWXG-4101-0824-5480-8078
 CTIM-FD,52950,,437.250,,9600bps GFSK,,re-entered,CSGC-5605-1718-3109-5402
@@ -721,12 +721,12 @@ GENESIS-L,,145.875,434.203/436.875,436.875,50bps_ASK CW,AM2SAT,failure,
 GENESIS-N,,145.888,434.216/436.888,436.888,50bps_ASK CW,AM3SAT,failure,
 GENESIS-M,,,,,,,to be launched,
 GENMAT-1,58276,,2245.000,,57k0 GFSK,,inactive,VJRG-4563-6320-7277-2016
-Geoscan-1,,,,,9600bps GFSK,RS92S1,to be launched,
-Geoscan-2,,,,,9600bps GFSK,RS92S2,to be launched,
-Geoscan-3,,,,,9600bps GFSK,RS92S3,to be launched,
-Geoscan-4,,,,,9600bps GFSK,RS92S4,to be launched,
-Geoscan-5,,,,,9600bps GFSK,RS92S5,to be launched,
-Geoscan-6,,,,,9600bps GFSK,RS92S6,to be launched,
+Geoscan-1,,,435.970,,9600bps GFSK,RS92S1,to be launched,
+Geoscan-2,,,436.160,,9600bps GFSK,RS92S2,to be launched,
+Geoscan-3,,,435.740,,9600bps GFSK,RS92S3,to be launched,
+Geoscan-4,,,435.335,,9600bps GFSK,RS92S4,to be launched,
+Geoscan-5,,,436.660,,9600bps GFSK,RS92S5,to be launched,
+Geoscan-6,,,436.940,,9600bps GFSK,RS92S6,to be launched,
 Geoscan-Edelveis,53385,,436.200/10492.000,,9k6/19k2 GFSK USP,RS20S,re-entered,QNCD-8954-6090-5430-2718
 GEO-KOMPSAT-2A,43823,,1692.140,,,,non-amateur,
 GEO-KOMPSAT-2B,45246,,1692.140,,,,non-amateur,
@@ -872,8 +872,8 @@ INCA,,,437.125,,0k2 MSK,,failure,
 InflateSail,42770,,436.060,,1200bps BPSK,ON06GB,re-entered,SGQP-9600-2585-3107-8587
 INNOCUBE,62616,,435.950*/437.020,,9600bps MSK,DP1NNO,active,IMIN-5614-5566-5816-9152
 InnoSat-2,43738,,435.500*/437.450,,4800bps GMSK,,re-entered,UUUL-8721-0443-0737-3074
-InnoSat-3,,,,,9600bps GFSK,RS92S0,to be launched,
-InnoSat-16,,,,,9600bps GFSK,RS92S7,to be launched,
+InnoSat-3,,,436.436,,9600bps GFSK,RS92S0,to be launched,
+InnoSat-16,,,435.830,,9600bps GFSK,RS92S7,to be launched,
 INSPIRESat-1,51657,,437.500,,9600bps GFSK,BCT,active,KAEG-9794-2542-4829-8548
 INSPIRESat-4,57485,,437.760,,9600bps GFSK,,inactive,
 INSPIRESat-7,56211,145.830/145.970*,435.200/437.410*,,9k6 BPSK FM,UVSQPL,re-entered,MQAA-5897-1513-7320-7285
