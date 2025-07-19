@@ -56615,6 +56615,30 @@
     ]
   },
   {
+    "sat_id":"VFID-6070-7308-8164-6890",
+    "norad_cat_id":39084.0,
+    "norad_follow_id":null,
+    "name":"LANDSAT 8",
+    "names":"2013-008A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-02-11T00:00:00Z",
+    "deployed":"2013-02-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-18T14:21:44.249702Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1z-7-2hTIkoNMKEvWJ8GwRHG-C6y2two41UZPdBLV0EY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"KNME-4557-1933-2318-6400",
     "norad_cat_id":64095.0,
     "norad_follow_id":null,
