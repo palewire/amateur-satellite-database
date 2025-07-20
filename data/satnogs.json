@@ -56661,5 +56661,101 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"TXTQ-8508-3753-1711-2656",
+    "norad_cat_id":49260.0,
+    "norad_follow_id":null,
+    "name":"LANDSAT 9",
+    "names":"2021-088A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-09-27T00:00:00Z",
+    "deployed":"2021-09-27T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-20T07:54:28.465848Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1B3PlL3LKr5NRWhQzI1Tn9qoAbH92fLS1kNUnTuCIGmc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RIYQ-0386-2271-5998-0264",
+    "norad_cat_id":56851.0,
+    "norad_follow_id":null,
+    "name":"Object F",
+    "names":"2023-081F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-07-07T00:00:00Z",
+    "deployed":"2023-07-07T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-20T07:54:10.373864Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1QVwOQW8c1GYAlEnEtxWs3iIev2jPb6cFoBpry2or08w\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LEMB-3584-1713-7720-8464",
+    "norad_cat_id":64545.0,
+    "norad_follow_id":null,
+    "name":"OBJECT T",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":"2025-06-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-20T08:57:03.694296Z",
+    "citation":"Fix name and description",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HMAF-6984-0020-2932-5739",
+    "norad_cat_id":64588.0,
+    "norad_follow_id":null,
+    "name":"BIFROST-DNK",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T21:25:00Z",
+    "deployed":"2025-06-23T23:42:20Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DK",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-20T09:10:10.215040Z",
+    "citation":"Identification from space-track.org, fixing name and deploy and launch dates based on spacex.com, description sources: https:\/\/spacenews.com\/space-inventor-launches-first-danish-arctic-satellite\/ and https:\/\/space.skyrocket.de\/doc_sdat\/bifrost.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

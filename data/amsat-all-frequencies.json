@@ -8928,7 +8928,7 @@
     "beacon":null,
     "mode":"4800bps GMSK FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8939,7 +8939,7 @@
     "beacon":null,
     "mode":"4800bps GMSK FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8950,7 +8950,7 @@
     "beacon":null,
     "mode":"4800bps GMSK FM",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8961,7 +8961,7 @@
     "beacon":null,
     "mode":"4800bps GMSK FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -9951,7 +9951,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -9962,7 +9962,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -10435,7 +10435,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"JACK001",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -12705,6 +12705,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Nahid-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"NanoDragon",
     "norad_id":"49398",
     "uplink":null,
@@ -14252,7 +14263,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -14329,7 +14340,7 @@
     "beacon":null,
     "mode":"1200bps AFSK FM*",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -15957,7 +15968,7 @@
     "beacon":null,
     "mode":"1200bps AFSK\/GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -16892,7 +16903,7 @@
     "beacon":null,
     "mode":"2400bps BPSK FM",
     "callsign":"BN0TR3",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -18003,7 +18014,7 @@
     "beacon":null,
     "mode":"2400bps FSK FM",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"JQZZ-7952-6075-7313-4040"
   },
   {
@@ -20808,7 +20819,7 @@
     "beacon":null,
     "mode":"2400bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -21391,7 +21402,7 @@
     "beacon":null,
     "mode":"1k2\/4k8*\/19k2 FSK Digipeater",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -21402,7 +21413,7 @@
     "beacon":null,
     "mode":"1k2\/4k8*\/19k2 FSK Digipeater",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {

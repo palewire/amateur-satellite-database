@@ -1520,16 +1520,6 @@
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
-    "name":"Hubble-6",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"401.100*\/402.790\/2200.500",
-    "beacon":null,
-    "mode":"4800bps GMSK FM",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"Humsat-D",
     "norad_id":"39433",
     "uplink":null,
@@ -1700,26 +1690,6 @@
     "satnogs_id":"EZAU-8235-2008-4656-9477"
   },
   {
-    "name":"ION-SCV-018",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"401.415",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
-    "name":"ION-SCV-020",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"401.415",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"IO-86",
     "norad_id":"40931",
     "uplink":"145.880\/145.825",
@@ -1848,16 +1818,6 @@
     "mode":"19200bps GFSK CW*",
     "callsign":"ITUPSAT",
     "satnogs_id":"FMZT-1887-7286-8009-2095"
-  },
-  {
-    "name":"JACK-001",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"436.300",
-    "beacon":null,
-    "mode":"9600bps GFSK",
-    "callsign":"JACK001",
-    "satnogs_id":null
   },
   {
     "name":"JAS-2",
@@ -2406,16 +2366,6 @@
     "downlink":"2273.250",
     "beacon":null,
     "mode":null,
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
-    "name":"PADRE",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"401.360\/2277.500",
-    "beacon":null,
-    "mode":"9600bps GMSK",
     "callsign":null,
     "satnogs_id":null
   },
@@ -3250,16 +3200,6 @@
     "satnogs_id":"RBPP-4436-6355-8978-8861"
   },
   {
-    "name":"SKYBEE-A02",
-    "norad_id":"62671",
-    "uplink":null,
-    "downlink":"401.050\/2228.000",
-    "beacon":null,
-    "mode":"2400bps FSK FM",
-    "callsign":null,
-    "satnogs_id":"JQZZ-7952-6075-7313-4040"
-  },
-  {
     "name":"SLIM",
     "norad_id":"57800",
     "uplink":null,
@@ -3710,16 +3650,6 @@
     "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
-    "name":"TPA-1",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"401.900\/2220.500",
-    "beacon":null,
-    "mode":"2400bps FSK",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"Triton-1",
     "norad_id":"39427",
     "uplink":"435.xxx",
@@ -3768,26 +3698,6 @@
     "mode":"2k4\/4k8\/9k6*GMSK_USP SSTV",
     "callsign":"RS40S",
     "satnogs_id":"SDUV-9624-5611-1090-5908"
-  },
-  {
-    "name":"UND-ROADS-1",
-    "norad_id":null,
-    "uplink":"435.400",
-    "downlink":"145.900\/435.400*\/2401.875",
-    "beacon":null,
-    "mode":"1k2\/4k8*\/19k2 FSK Digipeater",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
-    "name":"UND-ROADS-2",
-    "norad_id":null,
-    "uplink":"435.400",
-    "downlink":"145.900\/435.400*\/2401.875",
-    "beacon":null,
-    "mode":"1k2\/4k8*\/19k2 FSK Digipeater",
-    "callsign":null,
-    "satnogs_id":null
   },
   {
     "name":"UniSat-6",
