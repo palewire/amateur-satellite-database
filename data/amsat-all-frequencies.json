@@ -8927,7 +8927,7 @@
     "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
     "mode":"4800bps GMSK FM",
-    "callsign":null,
+    "callsign":"HUBBLE4",
     "status":"inactive",
     "satnogs_id":null
   },
@@ -8938,7 +8938,7 @@
     "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
     "mode":"4800bps GMSK FM",
-    "callsign":null,
+    "callsign":"HUBBLE5",
     "status":"inactive",
     "satnogs_id":null
   },
@@ -8949,7 +8949,7 @@
     "downlink":"401.100*\/402.790\/2200.500",
     "beacon":null,
     "mode":"4800bps GMSK FM",
-    "callsign":null,
+    "callsign":"HUBBLE6",
     "status":"inactive",
     "satnogs_id":null
   },
@@ -8960,7 +8960,7 @@
     "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
     "mode":"4800bps GMSK FM",
-    "callsign":null,
+    "callsign":"HUBBLE7",
     "status":"inactive",
     "satnogs_id":null
   },

@@ -55128,7 +55128,7 @@
   {
     "sat_id":"VQRH-1619-5526-5288-0616",
     "norad_cat_id":98596.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64534.0,
     "name":"ConnectaIoT-9",
     "names":"",
     "image":"satellites\/connecta-iot-batch3.jpg",
@@ -55142,8 +55142,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.997090Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:30:54.208017Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55152,7 +55152,7 @@
   {
     "sat_id":"OPSM-5371-6840-8894-7677",
     "norad_cat_id":98597.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64555.0,
     "name":"ConnectaIoT-10",
     "names":"",
     "image":"satellites\/connecta-iot-batch3_CDzuxi3.jpg",
@@ -55166,8 +55166,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:10.020049Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:30:54.253912Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55176,7 +55176,7 @@
   {
     "sat_id":"QPJF-4748-4397-6565-6149",
     "norad_cat_id":98598.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64557.0,
     "name":"ConnectaIoT-11",
     "names":"",
     "image":"satellites\/connecta-iot-batch3_t2Dj0Fm.jpg",
@@ -55190,8 +55190,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:10.041988Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:30:54.293072Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55200,7 +55200,7 @@
   {
     "sat_id":"XXEA-0494-6151-7239-4386",
     "norad_cat_id":98599.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64553.0,
     "name":"ConnectaIoT-12",
     "names":"",
     "image":"satellites\/connecta-iot-batch3_Xs96spu.jpg",
@@ -55214,8 +55214,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:10.068096Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:30:54.331797Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55272,7 +55272,7 @@
   {
     "sat_id":"IDDA-3367-7223-2853-3512",
     "norad_cat_id":98600.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64529.0,
     "name":"RIDU-Sat 1",
     "names":"YH1SUP",
     "image":"satellites\/RIDU-Sat_1.png",
@@ -55286,8 +55286,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-18T07:28:30.186324Z",
-    "citation":"we update our partner name: \"Berlin Nanosatellite Alliance\"",
+    "updated":"2025-07-20T23:30:54.496682Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55441,7 +55441,7 @@
   {
     "sat_id":"HWSK-3928-3901-7383-3031",
     "norad_cat_id":98592.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64539.0,
     "name":"DUTHSat-2",
     "names":"",
     "image":"",
@@ -55455,8 +55455,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.907649Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:30:54.073688Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55489,7 +55489,7 @@
   {
     "sat_id":"IDDL-0362-3375-9982-6560",
     "norad_cat_id":98591.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64543.0,
     "name":"MOBIUS-1",
     "names":"",
     "image":"",
@@ -55503,8 +55503,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.875679Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:36:18.314041Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55513,7 +55513,7 @@
   {
     "sat_id":"CGQM-1404-3051-5125-7571",
     "norad_cat_id":98590.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64535.0,
     "name":"UND ROADS 1",
     "names":"",
     "image":"",
@@ -55527,8 +55527,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.836121Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:30:54.456553Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55537,7 +55537,7 @@
   {
     "sat_id":"BZMH-1691-0385-6822-7921",
     "norad_cat_id":98589.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64549.0,
     "name":"UND ROADS 2",
     "names":"",
     "image":"",
@@ -55551,8 +55551,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.806093Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:30:54.408141Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55585,7 +55585,7 @@
   {
     "sat_id":"XINU-9252-1582-7722-7388",
     "norad_cat_id":98587.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64531.0,
     "name":"TPA-1",
     "names":"",
     "image":"",
@@ -55599,8 +55599,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.746661Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T16:23:48.867389Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55609,7 +55609,7 @@
   {
     "sat_id":"XWXT-1615-5633-9630-7970",
     "norad_cat_id":98586.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64537.0,
     "name":"SATMAR",
     "names":"",
     "image":"",
@@ -55623,8 +55623,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.718118Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:30:54.029728Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55657,7 +55657,7 @@
   {
     "sat_id":"TNIF-9489-4101-4135-4428",
     "norad_cat_id":98585.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64538.0,
     "name":"Otter Pup 2",
     "names":"",
     "image":"",
@@ -55671,8 +55671,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.692604Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:30:54.140829Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55681,7 +55681,7 @@
   {
     "sat_id":"ENLC-4952-6681-1812-8294",
     "norad_cat_id":98584.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64551.0,
     "name":"BRO-18",
     "names":"",
     "image":"",
@@ -55695,8 +55695,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.237900Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:34:35.899915Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55705,7 +55705,7 @@
   {
     "sat_id":"RBAW-0155-7922-9410-2702",
     "norad_cat_id":98583.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64536.0,
     "name":"FOSSASAT-2E21",
     "names":"",
     "image":"",
@@ -55719,8 +55719,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-26T15:54:23.462318Z",
-    "citation":"https:\/\/tinygs.com\/satellite\/FossaSat-2E21",
+    "updated":"2025-07-20T23:30:54.177681Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55729,7 +55729,7 @@
   {
     "sat_id":"ONWG-6270-0673-9384-3627",
     "norad_cat_id":98582.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64540.0,
     "name":"ARCSTONE",
     "names":"",
     "image":"",
@@ -55743,8 +55743,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.620477Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T16:26:29.026771Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55753,7 +55753,7 @@
   {
     "sat_id":"JLJE-0670-3801-0857-8118",
     "norad_cat_id":98581.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64532.0,
     "name":"ION SCV Passionate Paula",
     "names":"ION SCV-020",
     "image":"",
@@ -55767,8 +55767,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.597894Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T23:30:54.104363Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55777,7 +55777,7 @@
   {
     "sat_id":"MJWC-6105-7146-5103-2066",
     "norad_cat_id":98580.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64575.0,
     "name":"ION SCV Charismatic Carlus",
     "names":"ION SCV-018",
     "image":"",
@@ -55791,8 +55791,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.577895Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T16:27:39.305362Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55825,8 +55825,8 @@
   {
     "sat_id":"MMWT-8866-0909-9243-3201",
     "norad_cat_id":98578.0,
-    "norad_follow_id":null,
-    "name":"SkyBee-2",
+    "norad_follow_id":64544.0,
+    "name":"SkyBee-A02",
     "names":"HiVe",
     "image":"",
     "status":"alive",
@@ -55839,8 +55839,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.215133Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T16:25:58.110627Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55849,7 +55849,7 @@
   {
     "sat_id":"PJSF-9274-5441-3914-8511",
     "norad_cat_id":98577.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64542.0,
     "name":"Dragoon",
     "names":"USWSA-DRAGOON",
     "image":"",
@@ -55863,8 +55863,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.536589Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T16:24:48.572054Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55945,7 +55945,7 @@
   {
     "sat_id":"ERBZ-8933-2960-3678-6096",
     "norad_cat_id":98573.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64589.0,
     "name":"SATORO-T3",
     "names":"",
     "image":"",
@@ -55959,8 +55959,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.190105Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T16:29:45.244978Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55993,7 +55993,7 @@
   {
     "sat_id":"HBQW-7559-0012-8008-0023",
     "norad_cat_id":98571.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64580.0,
     "name":"YAM-10",
     "names":"",
     "image":"",
@@ -56007,8 +56007,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.447684Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-20T16:29:08.884777Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56185,7 +56185,7 @@
   {
     "sat_id":"RETZ-4463-1879-6283-9781",
     "norad_cat_id":98563.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64530.0,
     "name":"JACK-001",
     "names":"",
     "image":"",
@@ -56199,8 +56199,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-24T13:51:37.081366Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/81",
+    "updated":"2025-07-20T23:30:54.371680Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
     "is_frequency_violator":true,
     "associated_satellites":[
 
