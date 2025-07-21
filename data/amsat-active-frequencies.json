@@ -421,7 +421,7 @@
   },
   {
     "name":"BRO-18",
-    "norad_id":null,
+    "norad_id":"64551",
     "uplink":null,
     "downlink":"401.735\/2260.500",
     "beacon":null,
@@ -651,7 +651,7 @@
   },
   {
     "name":"ConnectaIoT-9",
-    "norad_id":null,
+    "norad_id":"64534",
     "uplink":null,
     "downlink":"401.510",
     "beacon":null,
@@ -661,7 +661,7 @@
   },
   {
     "name":"ConnectaIoT-10",
-    "norad_id":null,
+    "norad_id":"64555",
     "uplink":null,
     "downlink":"401.520",
     "beacon":null,
@@ -671,7 +671,7 @@
   },
   {
     "name":"ConnectaIoT-11",
-    "norad_id":null,
+    "norad_id":"64557",
     "uplink":null,
     "downlink":"401.530",
     "beacon":null,
@@ -681,7 +681,7 @@
   },
   {
     "name":"ConnectaIoT-12",
-    "norad_id":null,
+    "norad_id":"64553",
     "uplink":null,
     "downlink":"401.540",
     "beacon":null,
@@ -1191,7 +1191,7 @@
   },
   {
     "name":"FossaSat-2E21",
-    "norad_id":null,
+    "norad_id":"64536",
     "uplink":null,
     "downlink":"401.700",
     "beacon":null,
