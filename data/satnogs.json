@@ -30941,8 +30941,8 @@
     "name":"ROM-2",
     "names":"Space Sparrow, HADES-C",
     "image":"satellites\/sat20-removebg-preview.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-07-11T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":null,
     "website":"https:\/\/rom-space.ro\/",
@@ -30951,8 +30951,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-06T22:58:16.158075Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-8-2023-06-12-21-35-utc\/10499\/161",
+    "updated":"2025-07-21T14:54:09.900299Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56231",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55296,7 +55296,7 @@
   {
     "sat_id":"CRXA-4448-4621-5391-2945",
     "norad_cat_id":98602.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64574.0,
     "name":"PARUS-T2",
     "names":"BN0TIT",
     "image":"satellites\/T2_in_space.jpg",
@@ -55310,8 +55310,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-24T07:20:34.636701Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1022",
+    "updated":"2025-07-21T16:13:41.864753Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/155",
     "is_frequency_violator":false,
     "associated_satellites":[
       "SOMQ-2553-4561-6516-9069",
@@ -55321,7 +55321,7 @@
   {
     "sat_id":"VNWS-4720-9290-9692-1890",
     "norad_cat_id":98593.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64559.0,
     "name":"PADRE",
     "names":"PADRE",
     "image":"satellites\/padre-logo.svg.png",
@@ -55335,8 +55335,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.259055Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-21T16:13:41.845127Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/155",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55345,7 +55345,7 @@
   {
     "sat_id":"JQQB-0518-6266-3074-6580",
     "norad_cat_id":98594.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64562.0,
     "name":"Hubble-6",
     "names":"Lilo",
     "image":"",
@@ -55359,8 +55359,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.940327Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-21T16:13:41.821033Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/155",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55369,7 +55369,7 @@
   {
     "sat_id":"WIGX-0851-6692-4320-5851",
     "norad_cat_id":98595.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64590.0,
     "name":"Hubble-7",
     "names":"Stitch",
     "image":"",
@@ -55383,8 +55383,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.969104Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-21T16:13:41.923658Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/155",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55873,7 +55873,7 @@
   {
     "sat_id":"LDUU-5490-5289-6437-8584",
     "norad_cat_id":98576.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64566.0,
     "name":"Hubble-4",
     "names":"Shaggy",
     "image":"",
@@ -55887,8 +55887,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.517083Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-21T16:13:41.884549Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/155",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55897,7 +55897,7 @@
   {
     "sat_id":"TGGE-0655-3824-5329-0738",
     "norad_cat_id":98575.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64584.0,
     "name":"Hubble-5",
     "names":"Scooby",
     "image":"",
@@ -55911,8 +55911,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:41:44.852619Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-21T16:13:41.904078Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/155",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55921,7 +55921,7 @@
   {
     "sat_id":"SSSX-0322-2102-6904-8277",
     "norad_cat_id":98574.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64590.0,
     "name":"ADDCUBE",
     "names":"",
     "image":"",
@@ -55935,8 +55935,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.471312Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-21T16:13:41.943288Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/155",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -56663,6 +56663,30 @@
     ]
   },
   {
+    "sat_id":"ZNYX-2468-9597-3161-5205",
+    "norad_cat_id":98545.0,
+    "norad_follow_id":null,
+    "name":"REAL",
+    "names":"",
+    "image":"satellites\/real_logo_color.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"http:\/\/www.ssel.montana.edu\/projects\/real.html",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-21T14:17:07.474234Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"TXTQ-8508-3753-1711-2656",
     "norad_cat_id":49260.0,
     "norad_follow_id":null,
@@ -56753,6 +56777,30 @@
     ],
     "updated":"2025-07-20T09:10:10.215040Z",
     "citation":"Identification from space-track.org, fixing name and deploy and launch dates based on spacex.com, description sources: https:\/\/spacenews.com\/space-inventor-launches-first-danish-arctic-satellite\/ and https:\/\/space.skyrocket.de\/doc_sdat\/bifrost.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ECSY-4375-1849-2831-4239",
+    "norad_cat_id":64231.0,
+    "norad_follow_id":null,
+    "name":"GLOBAL 32",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-21T14:09:11.531847Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 

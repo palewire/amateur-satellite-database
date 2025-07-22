@@ -232,7 +232,7 @@
   },
   {
     "name":"ADDCUBE",
-    "norad_id":null,
+    "norad_id":"64590",
     "uplink":null,
     "downlink":"435.500\/2412.000",
     "beacon":null,
@@ -9098,7 +9098,7 @@
   },
   {
     "name":"Hubble-4",
-    "norad_id":null,
+    "norad_id":"64566",
     "uplink":null,
     "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
@@ -9109,7 +9109,7 @@
   },
   {
     "name":"Hubble-5",
-    "norad_id":null,
+    "norad_id":"64584",
     "uplink":null,
     "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
@@ -9120,7 +9120,7 @@
   },
   {
     "name":"Hubble-6",
-    "norad_id":null,
+    "norad_id":"64562",
     "uplink":null,
     "downlink":"401.100*\/402.790\/2200.500",
     "beacon":null,
@@ -9131,7 +9131,7 @@
   },
   {
     "name":"Hubble-7",
-    "norad_id":null,
+    "norad_id":"64590",
     "uplink":null,
     "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
@@ -11793,13 +11793,13 @@
   },
   {
     "name":"Lilo",
-    "norad_id":null,
+    "norad_id":"64562",
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.100*\/402.790\/2200.500",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"4800bps GMSK FM",
+    "callsign":"HUBBLE6",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -14598,7 +14598,7 @@
   },
   {
     "name":"PADRE",
-    "norad_id":null,
+    "norad_id":"64559",
     "uplink":null,
     "downlink":"401.360\/2277.500",
     "beacon":null,
@@ -14675,7 +14675,7 @@
   },
   {
     "name":"Parus-T2",
-    "norad_id":null,
+    "norad_id":"64574",
     "uplink":"145.980",
     "downlink":"145.825\/435.250*\/437.850",
     "beacon":null,
@@ -17282,7 +17282,7 @@
   },
   {
     "name":"Satoro-T3",
-    "norad_id":null,
+    "norad_id":"64589",
     "uplink":null,
     "downlink":"401.970\/2280.000",
     "beacon":null,
@@ -17370,13 +17370,13 @@
   },
   {
     "name":"Scooby",
-    "norad_id":null,
+    "norad_id":"64584",
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"4800bps GMSK FM",
+    "callsign":"HUBBLE5",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -17645,13 +17645,13 @@
   },
   {
     "name":"Shaggy",
-    "norad_id":null,
+    "norad_id":"64566",
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"4800bps GMSK FM",
+    "callsign":"HUBBLE4",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -19449,13 +19449,13 @@
   },
   {
     "name":"Stitch",
-    "norad_id":null,
+    "norad_id":"64590",
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"4800bps GMSK FM",
+    "callsign":"HUBBLE7",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -23233,7 +23233,7 @@
   },
   {
     "name":"YAM-10",
-    "norad_id":null,
+    "norad_id":"64580",
     "uplink":null,
     "downlink":null,
     "beacon":null,
