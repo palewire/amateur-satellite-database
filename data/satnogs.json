@@ -1145,9 +1145,9 @@
     "names":"PFS3",
     "image":"satellites\/FALCONSAT-3.jpg",
     "status":"re-entered",
-    "decayed":null,
+    "decayed":"2023-01-21T13:34:20Z",
     "launched":"2007-03-09T00:00:00Z",
-    "deployed":"2023-01-21T13:34:20Z",
+    "deployed":null,
     "website":"https:\/\/www.amsat.org\/falconsat-3\/",
     "operator":"None",
     "countries":"US",
@@ -1156,8 +1156,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2023-01-22T10:28:15.795146Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/7061690\/",
+    "updated":"2025-07-22T08:58:05.813759Z",
+    "citation":"moved deploy date to re-entry date;  see McDowell GCAT, satcat table entry for S30776",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -12990,7 +12990,7 @@
     "image":"satellites\/BEESAT-5_scaled_ryyeGjZ.jpg",
     "status":"re-entered",
     "decayed":"2024-08-06T00:00:00Z",
-    "launched":null,
+    "launched":"2021-03-22T06:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.raumfahrttechnik.tu-berlin.de\/menue\/research\/current_projects\/beesat_5_6_7_8\/parameter\/en\/",
     "operator":"TU Berlin",
@@ -12998,8 +12998,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-13T12:53:40.450264Z",
-    "citation":"space-track.org",
+    "updated":"2025-07-22T08:56:23.760884Z",
+    "citation":"see McDowell GCAT, satcat table entry S48084",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22795,23 +22795,23 @@
   },
   {
     "sat_id":"CFUC-5547-0998-3244-8282",
-    "norad_cat_id":99346.0,
+    "norad_cat_id":55903.0,
     "norad_follow_id":null,
     "name":"Lunar-IceCube",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2022-11-15T00:00:00Z",
+    "status":"re-entered",
+    "decayed":"2024-06-28T00:00:00Z",
+    "launched":"2022-11-16T06:47:44Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2022-156C",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2022-11-16T08:50:15.770660Z",
-    "citation":"https:\/\/sgcderek.github.io\/blog\/artemis-1.html",
+    "updated":"2025-07-22T08:48:14.957497Z",
+    "citation":"https:\/\/planet4589.org\/space\/gcat\/tsv\/satcat.tsv @ S55903",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22819,23 +22819,23 @@
   },
   {
     "sat_id":"OYAG-5763-8859-2035-4062",
-    "norad_cat_id":99345.0,
+    "norad_cat_id":55904.0,
     "norad_follow_id":null,
     "name":"OMOTENASHI",
     "names":"Outstanding MOon exploration Technologies demonstrated by NAno Semi-Hard Impactor",
     "image":"",
-    "status":"alive",
+    "status":"dead",
     "decayed":null,
-    "launched":"2022-08-29T00:00:00Z",
+    "launched":"2022-11-16T06:47:44Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2022-156D",
     "operator":"None",
     "countries":"JP,US",
     "telemetries":[
 
     ],
-    "updated":"2022-11-17T18:02:36.666045Z",
-    "citation":"https:\/\/sgcderek.github.io\/blog\/artemis-1.html",
+    "updated":"2025-07-22T08:44:49.424346Z",
+    "citation":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2022-156D, https:\/\/en.wikipedia.org\/wiki\/OMOTENASHI",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -22939,23 +22939,23 @@
   },
   {
     "sat_id":"XKUH-3270-0013-3739-7799",
-    "norad_cat_id":99343.0,
+    "norad_cat_id":54257.0,
     "norad_follow_id":null,
     "name":"ARTEMIS 1",
-    "names":"",
+    "names":"Orion",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2022-11-15T00:00:00Z",
+    "status":"re-entered",
+    "decayed":"2022-12-11T17:40:30Z",
+    "launched":"2022-11-16T06:47:44Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2022-156A",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2022-11-18T05:06:01.259727Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-07-22T08:46:11.477210Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/Artemis_I, https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2022-156A",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26453,14 +26453,14 @@
   },
   {
     "sat_id":"RYKF-4582-4605-7595-4204",
-    "norad_cat_id":99282.0,
+    "norad_cat_id":55107.0,
     "norad_follow_id":null,
-    "name":"KelpieSat-1",
-    "names":"Kelpie-1",
+    "name":"AAC-AIS-SAT-1",
+    "names":"Kelpie-1, KelpieSat-1",
     "image":"satellites\/KelpieSats.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
+    "launched":"2023-01-03T14:52:48Z",
     "deployed":null,
     "website":"https:\/\/www.aac-clyde.space\/",
     "operator":"None",
@@ -26468,8 +26468,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T10:01:44.402287Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.msg2434118#msg2434118",
+    "updated":"2025-07-22T08:55:12.508191Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38691,8 +38691,8 @@
     "name":"JINJUSat-1",
     "names":"",
     "image":"satellites\/JINJUSat-1.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-11T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:48:40Z",
     "website":"",
@@ -38701,8 +38701,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T17:42:34.664741Z",
-    "citation":"Change status",
+    "updated":"2025-07-22T08:40:00.930054Z",
+    "citation":"Re-add the temporary NORAD ID",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -39363,8 +39363,8 @@
     "name":"AMAN-1",
     "names":"STORK-7",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-11T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:53:29Z",
     "website":"",
@@ -39373,8 +39373,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-11T20:04:41.554999Z",
-    "citation":"Communication with the SatRev team",
+    "updated":"2025-07-22T08:38:28.729485Z",
+    "citation":"Re-add the temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
       "OVKA-4100-6086-6292-8946"
@@ -39435,8 +39435,8 @@
     "name":"Picacho",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2023-11-11T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:48:13Z",
     "website":"",
@@ -39445,8 +39445,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-13T12:39:36.423048Z",
-    "citation":"Gunter",
+    "updated":"2025-07-22T08:39:03.764364Z",
+    "citation":"Re-add the temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39960,23 +39960,23 @@
   },
   {
     "sat_id":"BSXU-9221-2520-7531-0635",
-    "norad_cat_id":98976.0,
+    "norad_cat_id":58332.0,
     "norad_follow_id":null,
     "name":"Lemur 2 Marapamasan",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2023-11-11T00:00:00Z",
-    "deployed":"2023-11-11T00:00:00Z",
+    "status":"re-entered",
+    "decayed":"2025-04-08T00:00:00Z",
+    "launched":"2023-11-11T18:43:12Z",
+    "deployed":"2023-11-11T19:49:37Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2023-11-12T16:11:22.668063Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-07-22T08:36:28.497590Z",
+    "citation":"https:\/\/planet4589.org\/space\/gcat\/tsv\/satcat.tsv @ S58332",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48976,7 +48976,7 @@
     "norad_cat_id":61769.0,
     "norad_follow_id":null,
     "name":"Kosar",
-    "names":"",
+    "names":"Kowsar",
     "image":"satellites\/kosar_real.jpg",
     "status":"alive",
     "decayed":null,
@@ -48988,8 +48988,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-14T05:59:47.769684Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
+    "updated":"2025-07-22T10:37:04.507699Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/Iranian_Space_Research_Center",
     "is_frequency_violator":true,
     "associated_satellites":[
       "AXCZ-4705-5485-4454-6620"
@@ -53109,7 +53109,7 @@
   },
   {
     "sat_id":"XTUC-4731-8551-4221-5063",
-    "norad_cat_id":98651.0,
+    "norad_cat_id":63100.0,
     "norad_follow_id":null,
     "name":"EPIC CHIMERA GEO 1",
     "names":"",
@@ -53124,8 +53124,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-27T00:01:06.504025Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-intuitive-machines-im-2-ksc-lc-39a-2025-02-27-00-17-utc\/12952\/3",
+    "updated":"2025-07-22T08:59:37.313067Z",
+    "citation":"see McDowell GCAT, satcat table entry for JCAT == S63100",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55657,7 +55657,7 @@
   {
     "sat_id":"TNIF-9489-4101-4135-4428",
     "norad_cat_id":98585.0,
-    "norad_follow_id":64538.0,
+    "norad_follow_id":64537.0,
     "name":"Otter Pup 2",
     "names":"",
     "image":"",
@@ -55671,8 +55671,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-20T23:30:54.140829Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
+    "updated":"2025-07-22T07:47:04.088337Z",
+    "citation":"PE0SAT strf observations and network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56293,7 +56293,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2025-06-28T09:03:39.300850Z",
     "citation":"https:\/\/iaru.amsat-uk.org\/formal_detail.php?serialnum=934",
@@ -56341,7 +56343,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2025-07-04T17:16:05.808679Z",
     "citation":"Satellite Team",
@@ -56365,7 +56369,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2025-07-04T17:16:05.803860Z",
     "citation":"Satellite Team",
@@ -56389,7 +56395,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2025-07-04T17:16:05.799122Z",
     "citation":"Satellite Team",
@@ -56413,7 +56421,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2025-07-04T17:16:05.794670Z",
     "citation":"Satellite Team",
@@ -56437,7 +56447,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2025-07-04T17:16:05.790435Z",
     "citation":"Satellite Team",
@@ -56461,7 +56473,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2025-07-04T17:16:05.786411Z",
     "citation":"Satellite Team",
@@ -56485,7 +56499,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan"
+      }
     ],
     "updated":"2025-07-04T17:16:05.782174Z",
     "citation":"Satellite Team",
@@ -56509,7 +56525,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"innosat16"
+      }
     ],
     "updated":"2025-07-04T17:16:05.776133Z",
     "citation":"Satellite Team",
@@ -56687,6 +56705,102 @@
     ]
   },
   {
+    "sat_id":"GHHQ-7851-2351-6199-5019",
+    "norad_cat_id":98548.0,
+    "norad_follow_id":null,
+    "name":"CSTP-4.2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-22T09:57:07.674176Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EVPS-3932-6760-8444-4986",
+    "norad_cat_id":98547.0,
+    "norad_follow_id":null,
+    "name":"CSTP-4.3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-22T09:56:57.350134Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WANH-5681-5223-3411-5792",
+    "norad_cat_id":98546.0,
+    "norad_follow_id":null,
+    "name":"CSTP-4.4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-22T09:56:38.553339Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WGSR-4301-7876-3301-8338",
+    "norad_cat_id":98549.0,
+    "norad_follow_id":null,
+    "name":"CSTP-4.1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-07-25T05:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-22T09:56:47.729891Z",
+    "citation":"Satellite Team",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"TXTQ-8508-3753-1711-2656",
     "norad_cat_id":49260.0,
     "norad_follow_id":null,
@@ -56800,6 +56914,54 @@
 
     ],
     "updated":"2025-07-21T14:09:11.531847Z",
+    "citation":"PE0SAT strf observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ISII-2594-0078-0321-4480",
+    "norad_cat_id":64550.0,
+    "norad_follow_id":null,
+    "name":"OBJECT Y",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T21:25:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-22T07:49:56.644332Z",
+    "citation":"PE0SAT strf observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RQVE-6140-7666-1987-0895",
+    "norad_cat_id":64052.0,
+    "norad_follow_id":null,
+    "name":"OBJECT E - 2025-103",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-07-22T08:10:39.057723Z",
     "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
