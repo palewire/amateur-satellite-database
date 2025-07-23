@@ -2364,7 +2364,7 @@ SMYF-3767-7993-5685-3976,57766.0,,WILDFIRE 10,2023-133L,,alive,,2023-09-02T00:00
 SLNJ-8867-2151-2052-6656,57765.0,,WILDFIRE 9,2023-133K,,alive,,2023-09-02T00:00:00Z,2023-09-02T00:00:00Z,,None,US,[],2025-07-11T21:16:45.844716Z,https://docs.google.com/document/d/1fyPehE2IBuLsrN-VKplx3sMabm66NTbB-kUWbTaIO5k/edit?usp=sharing,False,[]
 VFID-6070-7308-8164-6890,39084.0,,LANDSAT 8,2013-008A,,alive,,2013-02-11T00:00:00Z,2013-02-11T00:00:00Z,,None,US,[],2025-07-18T14:21:44.249702Z,https://docs.google.com/document/d/1z-7-2hTIkoNMKEvWJ8GwRHG-C6y2two41UZPdBLV0EY/edit?usp=sharing,False,[]
 KNME-4557-1933-2318-6400,64095.0,,COSMOS 2588,2025-109A,,alive,,2025-05-23T00:00:00Z,2025-05-23T00:00:00Z,,None,RU,[],2025-07-14T14:52:28.539491Z,https://docs.google.com/document/d/12GpJ_dOSJWamLnICjQWxA3VMKv_CYZXYg0e2TXyLfVU/edit?usp=sharing,False,[]
-ZNYX-2468-9597-3161-5205,98545.0,,REAL,,satellites/real_logo_color.png,future,,,,http://www.ssel.montana.edu/projects/real.html,None,US,[],2025-07-21T14:17:07.474234Z,Adding temporary NORAD ID,False,[]
+ZNYX-2468-9597-3161-5205,98545.0,,REAL,,satellites/real_logo_color.png,future,,2025-07-22T18:13:00Z,2025-07-22T19:07:50Z,http://www.ssel.montana.edu/projects/real.html,None,US,[],2025-07-22T18:14:50.646810Z,Launch didn't happen,False,[]
 GHHQ-7851-2351-6199-5019,98548.0,,CSTP-4.2,,,future,,2025-07-25T05:54:00Z,,,None,RU,[],2025-07-22T09:57:07.674176Z,Satellite Team,False,[]
 EVPS-3932-6760-8444-4986,98547.0,,CSTP-4.3,,,future,,2025-07-25T05:54:00Z,,,None,RU,[],2025-07-22T09:56:57.350134Z,Satellite Team,False,[]
 WANH-5681-5223-3411-5792,98546.0,,CSTP-4.4,,,future,,2025-07-25T05:54:00Z,,,None,RU,[],2025-07-22T09:56:38.553339Z,Satellite Team,False,[]
@@ -2376,3 +2376,4 @@ HMAF-6984-0020-2932-5739,64588.0,,BIFROST-DNK,,,alive,,2025-06-23T21:25:00Z,2025
 ECSY-4375-1849-2831-4239,64231.0,,GLOBAL 32,,,alive,,,,,None,,[],2025-07-21T14:09:11.531847Z,PE0SAT strf observations,False,[]
 ISII-2594-0078-0321-4480,64550.0,,OBJECT Y,,,alive,,2025-06-23T21:25:00Z,,,None,,[],2025-07-22T07:49:56.644332Z,PE0SAT strf observations,False,[]
 RQVE-6140-7666-1987-0895,64052.0,,OBJECT E - 2025-103,,,alive,,,,,None,,[],2025-07-22T08:10:39.057723Z,PE0SAT strf observations,False,[]
+EXUC-1848-4327-5468-4776,61228.0,,Object B,2024-173B,,alive,,2024-09-24T00:00:00Z,2024-09-24T00:00:00Z,,None,CN,[],2025-07-22T14:59:22.877489Z,https://docs.google.com/document/d/1oLgy-7Br9ZXlK4OCkUoplM5MehjV_QFWwcgAKcX4n2g/edit?usp=sharing,False,[]
