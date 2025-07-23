@@ -2540,6 +2540,16 @@
     "satnogs_id":"LYKB-5376-2648-5150-0020"
   },
   {
+    "name":"RIDUSat-1",
+    "norad_id":"64532",
+    "uplink":null,
+    "downlink":"145.825\/145.925*",
+    "beacon":null,
+    "mode":"1200bps AFSK\/GMSK*",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"ROBUSTA-1E",
     "norad_id":"58471",
     "uplink":null,

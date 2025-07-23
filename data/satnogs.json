@@ -25685,23 +25685,23 @@
   },
   {
     "sat_id":"BJJO-0291-6120-2060-7994",
-    "norad_cat_id":99250.0,
+    "norad_cat_id":55086.0,
     "norad_follow_id":null,
     "name":"KSF3-A",
     "names":"",
     "image":"satellites\/KSF3-PATCH-1024x989.png",
     "status":"alive",
     "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
-    "deployed":null,
+    "launched":"2023-01-03T14:56:00Z",
+    "deployed":"2023-01-03T15:57:07Z",
     "website":"https:\/\/kleos.space\/satellite-launch-observer\/",
     "operator":"None",
     "countries":"LU",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:11:40.539485Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-07-23T10:41:33.186870Z",
+    "citation":"space-track.org and https:\/\/forum.nasaspaceflight.com\/index.php?topic=54928.140",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34073,22 +34073,22 @@
   {
     "sat_id":"UMMH-5672-3767-3819-6257",
     "norad_cat_id":99097.0,
-    "norad_follow_id":null,
+    "norad_follow_id":56945.0,
     "name":"MDQSAT-1C",
     "names":"",
     "image":"",
     "status":"re-entered",
-    "decayed":null,
-    "launched":"2023-06-12T21:35:00Z",
+    "decayed":"2024-11-13T00:00:00Z",
+    "launched":"2023-06-12T21:36:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"AR",
     "telemetries":[
 
     ],
-    "updated":"2025-07-15T09:18:46.554967Z",
-    "citation":"The object should be re-entered, but without identification we are not sure about its re-entry date",
+    "updated":"2025-07-23T10:34:47.290566Z",
+    "citation":"Remove alternative name as the satellite wasn't identified",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -38878,23 +38878,23 @@
   },
   {
     "sat_id":"OULJ-5315-8438-7012-4466",
-    "norad_cat_id":99017.0,
+    "norad_cat_id":58344.0,
     "norad_follow_id":null,
     "name":"PICO-1A-8",
-    "names":"Apogeo Space 8",
+    "names":"Apogeo Space 8, PICO-01C008",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2023-11-11T18:49:00Z",
-    "deployed":"2023-11-22T00:00:00Z",
+    "status":"re-entered",
+    "decayed":"2024-07-23T00:00:00Z",
+    "launched":"2023-11-11T18:43:12Z",
+    "deployed":"2023-11-29T00:00:00Z",
     "website":"https:\/\/www.apogeo.space",
     "operator":"None",
     "countries":"IT",
     "telemetries":[
 
     ],
-    "updated":"2023-11-22T15:01:04.970790Z",
-    "citation":"Fix naming",
+    "updated":"2025-07-23T10:13:18.021828Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -45352,8 +45352,8 @@
     "name":"SOC-i",
     "names":"",
     "image":"satellites\/SOC-i.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-07-04T00:00:00Z",
     "launched":"2024-07-04T04:04:00Z",
     "deployed":"2024-07-04T04:48:33Z",
     "website":"",
@@ -45362,8 +45362,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-03T09:29:26.202592Z",
-    "citation":"Random choice based on https:\/\/community.libre.space\/t\/tle-issue-soc-i-98887\/12970\/2",
+    "updated":"2025-07-23T10:06:33.783382Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=60204",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -50800,22 +50800,22 @@
   {
     "sat_id":"CSAZ-4242-4475-3091-1604",
     "norad_cat_id":98715.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62385.0,
     "name":"ONDOSAT-OWL-11",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2024-12-20T11:34:00Z",
-    "deployed":null,
+    "launched":"2024-12-21T11:34:00Z",
+    "deployed":"2024-12-21T13:15:00Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"MN",
     "telemetries":[
 
     ],
-    "updated":"2024-12-21T08:12:43.735185Z",
-    "citation":"Update launch date",
+    "updated":"2025-07-23T10:24:48.922390Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60655.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55272,7 +55272,7 @@
   {
     "sat_id":"IDDA-3367-7223-2853-3512",
     "norad_cat_id":98600.0,
-    "norad_follow_id":64529.0,
+    "norad_follow_id":64532.0,
     "name":"RIDU-Sat 1",
     "names":"YH1SUP",
     "image":"satellites\/RIDU-Sat_1.png",
@@ -55286,8 +55286,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-20T23:30:54.496682Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
+    "updated":"2025-07-23T10:58:51.593485Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/156",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55561,7 +55561,7 @@
   {
     "sat_id":"CWNT-5072-1644-9392-2654",
     "norad_cat_id":98588.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64552.0,
     "name":"Hyperfield-1B",
     "names":"",
     "image":"",
@@ -55575,8 +55575,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-23T21:25:09.778176Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/mission\/?missionId=transporter14",
+    "updated":"2025-07-23T13:07:05.463599Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55753,7 +55753,7 @@
   {
     "sat_id":"JLJE-0670-3801-0857-8118",
     "norad_cat_id":98581.0,
-    "norad_follow_id":64532.0,
+    "norad_follow_id":64549.0,
     "name":"ION SCV Passionate Paula",
     "names":"ION SCV-020",
     "image":"",
@@ -55767,8 +55767,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-20T23:30:54.104363Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/154",
+    "updated":"2025-07-23T11:01:50.184917Z",
+    "citation":"Randomly change to 64549",
     "is_frequency_violator":false,
     "associated_satellites":[
 

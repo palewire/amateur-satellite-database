@@ -10209,7 +10209,7 @@
   },
   {
     "name":"ION-SCV-020",
-    "norad_id":"64532",
+    "norad_id":"64549",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
@@ -16336,13 +16336,13 @@
   },
   {
     "name":"RIDUSat-1",
-    "norad_id":"64529",
+    "norad_id":"64532",
     "uplink":null,
     "downlink":"145.825\/145.925*",
     "beacon":null,
-    "mode":"1200bps AFSK\/GMSK",
+    "mode":"1200bps AFSK\/GMSK*",
     "callsign":null,
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":null
   },
   {
