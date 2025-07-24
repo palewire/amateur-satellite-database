@@ -2541,7 +2541,7 @@
   },
   {
     "name":"RIDUSat-1",
-    "norad_id":"64532",
+    "norad_id":"64531",
     "uplink":null,
     "downlink":"145.825\/145.925*",
     "beacon":null,

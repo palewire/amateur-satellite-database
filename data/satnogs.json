@@ -36963,14 +36963,14 @@
     "deployed":"2023-11-11T19:43:33Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"SK",
     "telemetries":[
       {
         "decoder":"veronika"
       }
     ],
-    "updated":"2023-12-05T02:17:52.422136Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58261\/2023-12-04T21%3A42%3A30_8649047_58261_23174F_0-OBJECT-F_0.3354654288889378_B_r29.0_f0.0.png",
+    "updated":"2025-07-24T00:23:03.180260Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=920",
     "is_frequency_violator":false,
     "associated_satellites":[
       "DQNU-0623-7968-4457-6637"
@@ -55272,7 +55272,7 @@
   {
     "sat_id":"IDDA-3367-7223-2853-3512",
     "norad_cat_id":98600.0,
-    "norad_follow_id":64532.0,
+    "norad_follow_id":64531.0,
     "name":"RIDU-Sat 1",
     "names":"YH1SUP",
     "image":"satellites\/RIDU-Sat_1.png",
@@ -55286,8 +55286,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-23T10:58:51.593485Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/156",
+    "updated":"2025-07-23T15:08:59.929854Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/157",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -55585,7 +55585,7 @@
   {
     "sat_id":"XINU-9252-1582-7722-7388",
     "norad_cat_id":98587.0,
-    "norad_follow_id":64531.0,
+    "norad_follow_id":64533.0,
     "name":"TPA-1",
     "names":"",
     "image":"",
@@ -55599,8 +55599,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-20T16:23:48.867389Z",
-    "citation":"space-track.org",
+    "updated":"2025-07-23T15:08:31.147048Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/157",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56687,7 +56687,7 @@
     "name":"REAL",
     "names":"",
     "image":"satellites\/real_logo_color.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-07-22T18:13:00Z",
     "deployed":"2025-07-22T19:07:50Z",
@@ -56697,8 +56697,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-22T18:14:50.646810Z",
-    "citation":"Launch didn't happen",
+    "updated":"2025-07-23T17:46:54.311157Z",
+    "citation":"Set status to alive",
     "is_frequency_violator":false,
     "associated_satellites":[
 
