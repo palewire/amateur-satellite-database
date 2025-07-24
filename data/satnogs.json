@@ -56683,7 +56683,7 @@
   {
     "sat_id":"ZNYX-2468-9597-3161-5205",
     "norad_cat_id":98545.0,
-    "norad_follow_id":null,
+    "norad_follow_id":64875.0,
     "name":"REAL",
     "names":"",
     "image":"satellites\/real_logo_color.png",
@@ -56697,8 +56697,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-23T17:46:54.311157Z",
-    "citation":"Set status to alive",
+    "updated":"2025-07-24T09:28:24.997837Z",
+    "citation":"Fix NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
