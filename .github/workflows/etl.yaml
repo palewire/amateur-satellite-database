@@ -14,32 +14,25 @@ jobs:
         name: Checkout
         uses: actions/checkout@v4
 
-      - id: setup-python
-        name: Setup Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
           cache: 'pipenv'
 
-      - id: install-pipenv
-        name: Install pipenv
+      - name: Install pipenv
         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
 
-      - id: install-python-dependencies
-        name: Install Python dependencies
+      - name: Install Python dependencies
         run: pipenv install --dev --python=`which python`
-        shell: bash
 
-      - id: download
-        name: Download raw data
-        run: |
-          pipenv run python src/download.py satnogs
-          pipenv run python src/download.py je9pel
-        shell: bash
+      - name: Download Satnogs
+        run: pipenv run python src/download.py satnogs
 
-      - id: commit
-        name: Commit
+      - name: Download je9pel
+        run: pipenv run python src/download.py je9pel
+
+      - name: Commit
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"

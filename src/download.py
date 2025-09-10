@@ -40,6 +40,7 @@ def je9pel():
         names=fields,
         dtype=str,
         on_bad_lines="warn",
+        engine="python",
     )
 
     # Strip all whitespace
@@ -51,7 +52,10 @@ def je9pel():
 
     # Merge in SatNOGS ids
     satnogs = pd.read_csv(
-        "./data/satnogs.csv", usecols=["sat_id", "norad_cat_id"], dtype=str
+        "./data/satnogs.csv",
+        usecols=["sat_id", "norad_cat_id"],
+        dtype=str,
+        engine="python",
     ).rename(columns={"sat_id": "satnogs_id", "norad_cat_id": "norad_id"})
     satnogs = satnogs[~pd.isnull(satnogs.norad_id)].copy()
     satnogs.norad_id = satnogs.norad_id.str.replace(".0", "", regex=False)
