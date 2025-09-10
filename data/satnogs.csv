@@ -12,12 +12,10 @@ PCWN-4534-3390-1366-2242,3669.0,,ISIS-1,International Satellite for Ionospheric 
 CXUY-3779-8771-9506-4176,4237.0,,OPS 7613 (P/L 4),"S69-4,  POPPY-6B, NRL PL162",,alive,,1969-09-30T00:00:00Z,,,None,US,[],2022-07-08T01:28:11.150504Z,https://web.archive.org/web/20070702171235/https://space.skyrocket.de/doc_sdat/poppy-6.htm,False,[]
 TRRF-3160-5167-1401-6829,4256.0,,TIMATION-II,,,alive,,1969-09-30T00:00:00Z,,,None,,[],2022-08-02T18:33:57.739894Z,https://github.com/happysat/Deadsat/blob/main/README.md,False,[]
 RKRU-2930-8927-7743-2506,5485.0,,SHINSEI (MS-F2),,,alive,,1971-09-28T00:00:00Z,,https://www.isas.jaxa.jp/en/missions/spacecraft/past/shinsei.html,None,JP,[],2022-08-01T18:46:11.891516Z,https://github.com/happysat/Deadsat#11,False,[]
-MDNJ-2178-8370-7421-2425,5580.0,,PROSPERO,BLACK ARROW
- X-3,satellites/prospero.JPG,alive,,,,,None,GB,[],2021-07-21T10:11:41.970160Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+MDNJ-2178-8370-7421-2425,5580.0,,PROSPERO,BLACK ARROW X-3,satellites/prospero.JPG,alive,,,,,None,GB,[],2021-07-21T10:11:41.970160Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 JLIH-4238-8564-8762-0468,5680.0,,OPS 7898 (NRL P/L 172),"POPPY 7B, NOSS",,alive,,1971-12-14T00:00:00Z,,http://mdkenny.customer.netspace.net.au/emitters.html,None,US,[],2023-06-01T08:06:32.210417Z,http://mdkenny.customer.netspace.net.au/emitters.html,False,[]
 HHSS-6325-1344-4603-7774,7530.0,,OSCAR 7,"AO-7, AMSAT OSCAR 7",satellites/AMSAT-OSCAR_7.jpg,alive,,1974-11-15T00:00:00Z,,https://www.amsat.org/two-way-satellites/ao-7/,None,US,[],2022-11-29T12:13:05.281288Z,https://www.amsat.org/two-way-satellites/ao-7/,False,[]
-WAGS-8572-2494-3083-1675,14129.0,,Phase 3-B,AO-10
- OSCAR-10,satellites/AO-10.jpg,alive,,,,,None,,[],2021-07-21T10:11:41.975296Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+WAGS-8572-2494-3083-1675,14129.0,,Phase 3-B,AO-10 OSCAR-10,satellites/AO-10.jpg,alive,,,,,None,,[],2021-07-21T10:11:41.975296Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 TDVY-5283-4801-7631-6209,14781.0,,UOSAT 2,UO-11 OSCAR-11,satellites/UoSat-2.jpg,alive,,1984-03-01T00:00:00Z,,,None,GB,[],2025-05-15T09:37:59.491896Z,"Mistype. Added s space between ""UO-11"" and ""OSCAR-11"" in ""Other names""",False,[]
 RQTU-0962-4589-7454-8433,15427.0,,NOAA 9,NOAA-F,satellites/Noaa-9-full.jpg,alive,,1984-12-12T00:00:00Z,,https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1984-123A,None,US,[],2022-06-05T08:54:38.622850Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 XWJC-7674-8051-0421-7789,18351.0,,Eutelsat I F-4,"EUTE I F4, EUTE 1-F4, ECS 4",,alive,,1987-09-16T00:00:00Z,,,ESA,,[],2022-08-01T11:40:34.899497Z,https://en.wikipedia.org/wiki/Eutelsat_I_F-4,False,[]
@@ -135,8 +133,7 @@ EGOY-0622-3973-5317-4250,39770.0,,SPROUT,,satellites/SPROUT.png,re-entered,2024-
 RJRN-2264-7831-8205-7763,40012.0,,UNISAT-6,,satellites/unisat-6__1.jpg,alive,,,,,None,,[{'decoder': 'us6'}],2021-07-21T10:11:42.178263Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 GPLA-1467-3987-8284-6460,40014.0,,BUGSAT-1,TITA,satellites/bugsat-1__1.jpg,alive,,2014-06-19T00:00:00Z,,,None,AR,[{'decoder': 'bugsat1'}],2022-04-25T16:21:43.295489Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 KVVP-7917-6314-8782-3778,40021.0,,DUCHIFAT-1,,satellites/duchifat-1__1.jpg,alive,,2014-06-19T00:00:00Z,,https://amsat-uk.org/2012/08/29/duchifat-1-a-145-825-mhz-aprs-cubesat/,None,IL,[],2023-06-01T15:01:28.771196Z,https://www.dk3wn.info/wp/satelliten/duchifat-1/,False,[]
-YAQZ-5189-9885-8827-9333,40024.0,,NANOSATC-BR1,NCBR-1
- NCBR1,satellites/nanosat.jpg,alive,,,,,None,,[],2021-07-21T10:11:42.186099Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+YAQZ-5189-9885-8827-9333,40024.0,,NANOSATC-BR1,NCBR-1 NCBR1,satellites/nanosat.jpg,alive,,,,,None,,[],2021-07-21T10:11:42.186099Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 GJDY-0208-2030-6329-7076,40025.0,,QB50P1,"EO 79, European-OSCAR 79, FUNcube 3, EO-79",satellites/qb50p1__1.jpg,alive,,2014-06-19T00:00:00Z,,https://www.amsat.org/two-way-satellites/eo-79-qb50p1-and-funcube-3/,None,BE,[],2023-05-06T18:54:03.494187Z,https://www.amsat.org/two-way-satellites/eo-79-qb50p1-and-funcube-3/,False,[]
 VLOV-4213-3168-9454-2191,40030.0,,DTUSAT-2,,satellites/DTUSAT-2.jpg,alive,,,,,None,,[],2021-07-21T10:11:42.191271Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 HHWQ-8145-7306-2252-6043,40032.0,,QB50P2,"EO 80, European-OSCAR 80, EO-80",satellites/qb50p2__1.jpg,alive,,2014-06-19T00:00:00Z,,https://www.amsat.org/eo-80-qb50p2/,None,"BE,NL",[],2023-05-17T13:59:27.020587Z,http://web.archive.org/web/20150208071131/https://www.qb50.eu/,False,[]
@@ -223,33 +220,22 @@ NFQJ-3321-9747-8579-9505,41935.0,,AOBA-VELOX 3,AOBA-VeloxIII,satellites/aoba.jpg
 GTOO-9256-7621-8163-6435,41948.0,,CARTOSAT 2D,,satellites/cartosat-2__1.jpg,alive,,2017-02-15T00:00:00Z,,,ISRO,IN,[],2021-10-12T07:22:46.911653Z,VK5Q1 and SV1QVE survey,False,[]
 SVPP-9764-1942-2462-5319,42017.0,,NAYIF-1,"EO-88, FUNCUBE-5",satellites/NAYIF-1.jpg,re-entered,2023-07-18T18:31:45Z,2017-02-15T00:00:00Z,,https://www.mbrsc.ae/satellite-programme/nayif-1,None,AE,[],2023-07-19T06:36:22.747244Z,https://community.libre.space/t/nayif-1-re-entry/10714/10,False,[]
 LFPS-5167-1276-5886-5665,42018.0,,FLOCK 3P-23,,,re-entered,2023-01-18T00:00:00Z,,,,None,,[],2023-01-27T17:01:51.213090Z,space-track.org,False,[]
-TBAT-2500-7857-8558-4608,42700.0,,SOMP2,DE02
- ON02DE,satellites/SOMP-2.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.362539Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-KAYD-6826-9650-6277-6779,42701.0,,HAVELSAT,TR02
- ON02TR,satellites/Havelsat1.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.365073Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-AMQV-8272-4458-8097-5541,42702.0,,COLUMBIA,US04
- ON04US,,re-entered,2018-03-07T00:00:00Z,,,,None,,[],2021-07-21T10:11:42.367535Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-UQOW-0891-3949-6041-9698,42706.0,,PHOENIX,TW01
- ON01TW,,re-entered,2019-05-23T19:04:33Z,,,,None,,[],2021-07-21T10:11:42.369545Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-OUHQ-7538-4862-1228-5686,42707.0,,X-CUBESAT,FR01
- ON01FR,satellites/X-CUBESAT.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.371595Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-ZCSR-6244-8593-9764-3160,42708.0,,QBEE,SE01
- ON01SE,satellites/qbee__1.jpg,re-entered,,,,,None,,[{'decoder': 'qbee'}],2021-07-21T10:11:42.373599Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-GKGO-8867-1154-9953-5426,42713.0,,ZA-AEROSAT,AEROSAT
- AZ01
- ON01AZ,satellites/ZA-AEROSAT.jpg,re-entered,2019-06-08T13:25:31Z,,,,None,,[],2021-07-21T10:11:42.375590Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+TBAT-2500-7857-8558-4608,42700.0,,SOMP2,DE02 ON02DE,satellites/SOMP-2.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.362539Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+KAYD-6826-9650-6277-6779,42701.0,,HAVELSAT,TR02 ON02TR,satellites/Havelsat1.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.365073Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+AMQV-8272-4458-8097-5541,42702.0,,COLUMBIA,US04 ON04US,,re-entered,2018-03-07T00:00:00Z,,,,None,,[],2021-07-21T10:11:42.367535Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+UQOW-0891-3949-6041-9698,42706.0,,PHOENIX,TW01 ON01TW,,re-entered,2019-05-23T19:04:33Z,,,,None,,[],2021-07-21T10:11:42.369545Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+OUHQ-7538-4862-1228-5686,42707.0,,X-CUBESAT,FR01 ON01FR,satellites/X-CUBESAT.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.371595Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+ZCSR-6244-8593-9764-3160,42708.0,,QBEE,SE01 ON01SE,satellites/qbee__1.jpg,re-entered,,,,,None,,[{'decoder': 'qbee'}],2021-07-21T10:11:42.373599Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+GKGO-8867-1154-9953-5426,42713.0,,ZA-AEROSAT,AEROSAT AZ01 ON01AZ,satellites/ZA-AEROSAT.jpg,re-entered,2019-06-08T13:25:31Z,,,,None,,[],2021-07-21T10:11:42.375590Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 RVBU-2782-8177-0481-6884,42714.0,,LINK,KR01ON01KR,satellites/LINK.jpg,re-entered,2018-09-23T00:00:00Z,,,http://ascl.kaist.ac.kr,None,KR,[],2022-07-01T18:51:46.361083Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 ZGQO-8873-2944-7238-8629,42716.0,,UPSAT,GR02 ON02GR,satellites/upsat.jpg,re-entered,2018-11-12T00:00:00Z,2017-04-17T00:00:00Z,2017-05-17T00:00:00Z,https://upsat.gr,LSF,GR,[],2021-07-21T10:11:42.379518Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-HJRR-9275-8249-4532-6532,42717.0,,SPACECUBE,FR05
- ON05FR,satellites/SPACECUBE.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.381524Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-EUEM-5177-4568-9915-2869,42718.0,,HOOPOE,IL01
- ON01IL,satellites/HOOPOE.jpg,re-entered,2018-12-22T00:00:00Z,,,,None,,[],2021-07-21T10:11:42.383468Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+HJRR-9275-8249-4532-6532,42717.0,,SPACECUBE,FR05 ON05FR,satellites/SPACECUBE.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.381524Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+EUEM-5177-4568-9915-2869,42718.0,,HOOPOE,IL01 ON01IL,satellites/HOOPOE.jpg,re-entered,2018-12-22T00:00:00Z,,,,None,,[],2021-07-21T10:11:42.383468Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 WWFS-5618-7245-9667-1046,42721.0,,CHALLENGER,"US01 ON01US QB50 US01, QBUS 1",satellites/CHALLENGER.jpg,re-entered,2018-08-12T00:00:00Z,,,,None,,[],2021-07-21T10:11:42.385397Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 MKJM-7476-6768-2522-3779,42722.0,,NJUST-1,CN03 ON03CN,satellites/NJUST-1.jpg,re-entered,2019-08-07T13:56:32Z,,,,None,,[],2021-07-21T10:11:42.387302Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 SXFR-5969-5367-4392-2346,42723.0,,UNSW-ECO,AU02 ON02AU,satellites/UNSW-EC0.jpg,re-entered,2018-12-03T00:00:00Z,,,,None,,[],2021-07-21T10:11:42.389151Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 WGJS-9308-0078-0270-6632,42724.0,,DUTHSat,GR01 ON01GR,satellites/09_Inside-TVAC-chamber.jpg,re-entered,2018-08-26T00:00:00Z,,,,None,,[],2021-07-21T10:11:42.391027Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-PEAF-6165-8245-0396-3965,42725.0,,LILACSAT-1,CN02 ON02CN
- LO-90,satellites/LILACSAT-1.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.392896Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+PEAF-6165-8245-0396-3965,42725.0,,LILACSAT-1,CN02 ON02CN LO-90,satellites/LILACSAT-1.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.392896Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 BCOV-7599-9581-1666-0834,42726.0,,NSIGHT-1,AZ02 ON02AZ,satellites/nsight-1__1.jpg,re-entered,2020-04-25T19:30:04Z,,,,None,,[],2021-07-21T10:11:42.394749Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 UQHD-7887-7423-9441-4796,42727.0,,SNUSAT-1B,KR03 ON03KR,satellites/SNUSAT-1.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.396758Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 LBKP-1756-4543-6904-4177,42728.0,,QBITO,ES01 ON01ES,satellites/QBITO.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.398579Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
@@ -291,8 +277,7 @@ GNZD-4544-6012-8756-0675,42983.0,,SIMPL,,satellites/simpl__1.jpg,re-entered,2022
 BLAS-7456-1209-3590-8960,43010.0,,FengYun 3D,FY-3D,,alive,,2017-11-15T00:00:00Z,,http://www.nsmc.org.cn/nsmc/cn/satellite/FY3D.html,None,CN,[],2022-05-30T10:58:26.831273Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 DNKN-6854-2011-7405-7283,43012.0,,CZ-4C R/B,,satellites/cz-4c__yg-16__1.jpg,alive,,,,,None,CN,[],2022-08-02T17:54:59.713239Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 FICC-5569-8485-6311-2104,43016.0,,MAKERSAT 0,,,alive,,2017-11-18T00:00:00Z,,https://www.nnu.edu/makersat-0,None,US,[],2023-05-28T15:10:06.043761Z,https://www.nnu.edu/makersat-0,False,[]
-PMAW-9203-2442-8666-3249,43017.0,,FOX-1B,AO-91
- RADFXSAT,satellites/RadFxSat_Flight-300x300.jpg,alive,,,,,None,,[{'decoder': 'fox'}],2021-07-21T10:11:42.473350Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+PMAW-9203-2442-8666-3249,43017.0,,FOX-1B,AO-91 RADFXSAT,satellites/RadFxSat_Flight-300x300.jpg,alive,,,,,None,,[{'decoder': 'fox'}],2021-07-21T10:11:42.473350Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 GPCS-5280-8824-7420-8704,43018.0,,EAGLESAT-1,,satellites/eaglesat__1.jpg,alive,,2017-11-18T00:00:00Z,,https://eaglelife.erau.edu/eaglesat/home/,None,US,[],2023-05-17T14:20:32.536336Z,https://eaglelife.erau.edu/eaglesat/home/,False,[]
 AHTJ-2968-9777-7716-2636,43019.0,,ECAMSAT,,satellites/ecamsat.jpg,re-entered,2021-12-08T00:00:00Z,,,,None,,[],2021-12-14T02:10:47.690145Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 KYGI-3501-5760-3207-9884,43022.0,,JILIN-01-04,Jilin-1 SP-04,satellites/jilin-1-video-04__1.jpg,alive,,2017-11-21T04:50:00Z,,,CIOMP,CN,[],2021-07-21T10:11:42.482402Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
@@ -323,8 +308,7 @@ LQPY-8821-4598-4140-0055,43196.0,,GOMX4-B,,satellites/unnamed.jpg,re-entered,202
 UFIT-6008-6845-0096-1151,43199.0,,SHAONIAN XING,Juvenile-1F,,re-entered,2023-08-01T00:00:00Z,2018-02-02T00:00:00Z,,,None,CN,[],2023-08-09T16:21:04.701769Z,space-track.org,False,[]
 VWFS-8293-1536-2839-9284,43466.0,,1KUNS-PF,1KUNS,satellites/1KUNS.png,re-entered,2020-06-16T13:40:44Z,,,,None,,[],2021-07-21T10:11:42.545141Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 UZLP-5382-5760-6380-2860,43467.0,,UBAKUSAT,,satellites/ubakusat-cubesat.jpg,re-entered,,,,,None,,[],2021-07-21T10:11:42.547823Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-QHGB-5011-7406-7134-6581,43468.0,,IRAZU,Irazú
- BATSU-CS1,satellites/satelite-irazu-tec.png,re-entered,2020-03-06T12:26:31Z,,,,None,,[{'decoder': 'irazu'}],2021-07-21T10:11:42.550519Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+QHGB-5011-7406-7134-6581,43468.0,,IRAZU,Irazú BATSU-CS1,satellites/satelite-irazu-tec.png,re-entered,2020-03-06T12:26:31Z,,,,None,,[{'decoder': 'irazu'}],2021-07-21T10:11:42.550519Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 QWJS-4478-4513-2046-4348,43485.0,,Luojia-1,"LUOJIA 1-01, LUOJIA 1A",,alive,,2018-06-02T00:00:00Z,,,None,CN,[],2022-07-08T01:04:43.436701Z,https://www.researchgate.net/figure/The-appearance-of-the-Luojia-1A-satellite_fig1_342545164,True,[]
 OYTI-8726-8857-0789-4716,43551.0,,ENDUROSAT ONE,ENDUROSAT AD,satellites/Endurosat.jpg,re-entered,2020-11-10T23:10:05Z,,,,None,,[],2021-07-21T10:11:42.555818Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 SABJ-3457-7659-3993-3753,43552.0,,EQUiSat,,satellites/equisat.jpg,re-entered,2020-12-27T00:16:45Z,,,,None,,[{'decoder': 'equisat'}],2021-07-21T10:11:42.558338Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
@@ -335,14 +319,12 @@ XGQW-0108-4259-0432-9009,43591.0,,BHUTAN-1,"JG6YKL, BIRD-BT, BIRDS-2",satellites
 BLWY-9945-8549-3046-3067,43595.0,,SiriusSat-1,RS13S,satellites/SiriusSat.png,re-entered,2020-12-10T07:51:24Z,,,https://sputnix.ru/en/satellites/in-orbit/siriussat-1-en,None,,[{'decoder': 'siriussat'}],2021-07-21T10:11:42.571004Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 OWBN-9783-9030-5673-9344,43596.0,,SiriusSat-2,RS14S,satellites/SiriusSat_Q5EGcM6.png,re-entered,2020-12-10T07:51:09Z,,,https://sputnix.ru/en/satellites/in-orbit/siriussat-2-en,None,,[{'decoder': 'siriussat'}],2021-07-21T10:11:42.573613Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 DYGX-2292-8178-2790-2062,43597.0,,Tanusha-3,Tanusha-SWSU-3 (RS-8)RS8S,,re-entered,2020-12-10T07:51:44Z,,,,None,,[],2021-07-21T10:11:42.576422Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-PGHZ-9811-8576-7503-9559,43598.0,,Tanusha-4,Tanusha-SWSU-4 (RS-9)
- RS9S,,re-entered,2020-08-26T10:09:32Z,,,,None,,[],2021-07-21T10:11:42.578982Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+PGHZ-9811-8576-7503-9559,43598.0,,Tanusha-4,Tanusha-SWSU-4 (RS-9) RS9S,,re-entered,2020-08-26T10:09:32Z,,,,None,,[],2021-07-21T10:11:42.578982Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 GJWI-0355-3023-2147-0500,43614.0,,SurfSat,,satellites/SurfSAT_41476485_Medium-286x400.png,re-entered,2023-01-25T00:00:00Z,,,,None,,[],2023-01-27T17:02:53.248951Z,space-track.org,False,[]
 MUDL-3446-6586-9825-4790,43615.0,,CP7 (DAVE),,satellites/dave.png,re-entered,2023-02-12T00:00:00Z,2018-09-15T00:00:00Z,,,None,,[],2023-02-16T17:22:30.722345Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 JQOK-1219-5774-2073-2907,43616.0,,ELFIN-B,ELFIN-STARWJ2XOX,satellites/ELFIN.jpg,re-entered,2022-09-29T21:51:00Z,,,,None,,[{'decoder': 'elfin'}],2022-09-30T06:43:08.850394Z,CITATION NEEDED - https://xkcd.com/285/,False,['HDII-3074-4152-1419-9411']
 JSEY-1831-4025-6206-5301,43617.0,,ELFIN-A,WJ2XNX,satellites/ELFIN_KFgi12l.jpg,re-entered,2022-09-17T14:00:00Z,,,,None,,[{'decoder': 'elfin'}],2022-09-18T08:37:48.783021Z,https://twitter.com/EU1SAT/status/1571193723391823875,False,[]
-GMXL-7215-1950-4661-9393,43640.0,,STARS-Me,JJ2YPL
- JJ2YPM,,re-entered,2021-07-09T03:53:43Z,,,,None,,[],2021-07-21T10:11:42.591042Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+GMXL-7215-1950-4661-9393,43640.0,,STARS-Me,JJ2YPL JJ2YPM,,re-entered,2021-07-09T03:53:43Z,,,,None,,[],2021-07-21T10:11:42.591042Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 YIDE-3824-4144-2209-0731,43656.0,,CZ-4B R/B,,,alive,,,,,None,,[],2021-07-21T10:11:42.593523Z,CITATION NEEDED - https://xkcd.com/285/,True,[]
 WMQB-0532-9164-6364-5821,43666.0,,CubeBel-1,BSUSat-1,satellites/BSUSat_1.jpg,re-entered,2024-03-07T00:00:00Z,2018-10-29T00:00:00Z,,https://bsusat.com,None,BY,[{'decoder': 'cubebel1'}],2024-03-08T01:22:37.564634Z,https://twitter.com/CubeBel_FL/status/1765834081697198543,False,[]
 DWZS-2247-2262-5163-7605,43669.0,,CHANGSHAGAOXIN,TY 4-01,,re-entered,2024-05-10T02:00:00Z,2018-10-29T00:00:00Z,,https://mp.weixin.qq.com/s/HuuqOIrG43_qXymB4DbDfA,None,CN,[],2024-05-10T16:37:51.865674Z,https://sonik.space/observations/132503/,False,[]
@@ -437,9 +419,7 @@ VWJO-7516-8563-9331-1420,44791.0,,AQT-D,,,re-entered,2022-04-20T00:00:00Z,,,,Non
 KYHE-4616-0361-3811-0011,44804.0,,CARTOSAT-3,,satellites/Render_of_Cartosat-3.png,alive,,2019-11-27T03:58:00Z,2019-11-27T03:58:00Z,,ISRO,IN,[],2021-07-21T10:11:42.791741Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 MOSP-5595-5214-8491-9029,44829.0,,FossaSat 1,,,re-entered,2020-11-08T00:08:23Z,,,,None,,[],2021-07-21T10:11:42.793232Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 ZYHY-4125-9970-1147-2424,44830.0,,ATL-1,HA1ATL MO-106 Magyar-OSCAR 106,,re-entered,2020-11-10T23:08:57Z,2019-12-06T00:00:00Z,2019-12-06T00:00:00Z,,None,HU,[],2021-07-21T10:11:42.794708Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
-NVJW-1778-4425-6707-0234,44832.0,,SMOG-P,HA4C
- MO-105
- Magyar-OSCAR 105,,re-entered,2020-10-02T05:02:26Z,,,,None,,[],2021-07-21T10:11:42.796289Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+NVJW-1778-4425-6707-0234,44832.0,,SMOG-P,HA4C MO-105 Magyar-OSCAR 105,,re-entered,2020-10-02T05:02:26Z,,,,None,,[],2021-07-21T10:11:42.796289Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 YXQQ-6207-4287-8188-9048,44854.0,,DUCHIFAT-3,,,alive,,,,,None,,[{'decoder': 'duchifat3'}],2021-07-21T10:11:42.797774Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 NRVR-2280-9172-8926-1963,44878.0,,OPS-SAT,,satellites/OPS-SAT.jpg,re-entered,2024-05-22T21:30:30Z,2019-12-18T00:00:00Z,2019-12-18T00:00:00Z,https://www.esa.int/Enabling_Support/Operations/OPS-SAT_your_flying_laboratory,ESA,,[{'decoder': 'opssat1'}],2024-05-24T10:55:19.073779Z,Fix re-entry date,False,[]
 VMQF-4924-7475-1891-3199,44881.0,,CAS-6 (TO-108),2019-093C,,alive,,2019-12-20T00:00:00Z,2019-12-20T00:00:00Z,,None,CN,[],2023-06-29T18:56:09.762895Z,https://docs.google.com/document/d/1RT7Tz9aAIFVsiLObRck8A0EBotTtFyKM4RDGbrxYaXY/edit?usp=sharing,False,[]
