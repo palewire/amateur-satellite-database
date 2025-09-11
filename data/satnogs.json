@@ -57426,5 +57426,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"XVQA-0958-3275-0558-2249",
+    "norad_cat_id":62406.0,
+    "norad_follow_id":null,
+    "name":"STRIX-2",
+    "names":"2024-248A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-12-21T00:00:00Z",
+    "deployed":"2024-12-21T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-11T10:35:20.702377Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1hamiA5J9O9yd5UYdDrhVcL-THZtLUtk0cxhj3MuBpyA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
