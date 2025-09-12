@@ -9809,7 +9809,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"HOBY-7151-1376-6349-2091"
   },
   {
     "name":"ICEYE-X57",
@@ -14792,7 +14792,7 @@
     "mode":"1200bps AFSK FM*",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"GEOX-9409-1329-6133-6345"
   },
   {
     "name":"PCSAT-1",

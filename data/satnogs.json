@@ -57450,5 +57450,101 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"IWJW-7383-4186-3264-0647",
+    "norad_cat_id":41786.0,
+    "norad_follow_id":null,
+    "name":"ALSAT 2B",
+    "names":"2016-059D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2016-09-26T00:00:00Z",
+    "deployed":"2016-09-26T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DZ",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-11T18:40:30.005610Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1cGG5eQVHCNTg4OSLC8GRJ0qaqawOIc3hWWHqbETerCs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HOBY-7151-1376-6349-2091",
+    "norad_cat_id":63257.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X51",
+    "names":"2025-03-15",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-03-15T00:00:00Z",
+    "deployed":"2025-03-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-11T18:40:01.845184Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1kKqn_C2Z4lxFO90TkVTKH6W_EBAGkRrObZYFOuHdJYY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GEOX-9409-1329-6133-6345",
+    "norad_cat_id":64574.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X56",
+    "names":"2025-06-23",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":"2025-06-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-11T18:39:48.847731Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1fcrC2mfeo_xW7zfQ3uqF9zPNAwc2lnkCc3UfJ3QK72E\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EEEK-5201-8668-7459-3807",
+    "norad_cat_id":64579.0,
+    "norad_follow_id":null,
+    "name":"GRUS-3 ALPHA",
+    "names":"2025-135BD",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":"2025-06-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-11T18:51:18.085323Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/14140x93hxOEd_RK-e-iziS0-v4Je83oUyRDrWn4kTn4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
