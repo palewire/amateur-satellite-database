@@ -8448,15 +8448,15 @@
     "satnogs_id":"TZQT-5140-2201-6886-0585"
   },
   {
-    "name":"GRUS-3a",
-    "norad_id":null,
+    "name":"GRUS-3 ALPHA",
+    "norad_id":"64579",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2275.900",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"EEEK-5201-8668-7459-3807"
   },
   {
     "name":"GT-1",
@@ -19754,6 +19754,17 @@
     "callsign":"RS52SV",
     "status":"inactive",
     "satnogs_id":"XCGJ-2096-8947-1485-0184"
+  },
+  {
+    "name":"STRIX-2",
+    "norad_id":"62406",
+    "uplink":null,
+    "downlink":"2277.307",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"XVQA-0958-3275-0558-2249"
   },
   {
     "name":"StudSat",
