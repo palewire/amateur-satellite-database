@@ -57240,20 +57240,20 @@
     "norad_cat_id":98541.0,
     "norad_follow_id":null,
     "name":"GHS-01",
-    "names":"\u3089\u3044\u3061\u3087\u3046",
-    "image":"",
+    "names":"Raich\u014d\uff08\u3089\u3044\u3061\u3087\u3046\uff09, JJ2YZA",
+    "image":"satellites\/GHS-01_\u3089\u3044\u3061\u3087\u3046.jpg",
     "status":"future",
     "decayed":null,
     "launched":"2025-08-24T00:00:00Z",
-    "deployed":null,
+    "deployed":"2025-09-19T00:00:00Z",
     "website":"https:\/\/gifuhs2022.wordpress.com\/",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2025-08-31T19:10:29.912914Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-09-12T15:06:53.424906Z",
+    "citation":"gifuhs2022.wordpress.com",
     "is_frequency_violator":false,
     "associated_satellites":[
 
