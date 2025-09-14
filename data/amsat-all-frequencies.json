@@ -517,15 +517,48 @@
     "satnogs_id":"CQLE-4630-2620-1207-7883"
   },
   {
-    "name":"ALSat-1N",
+    "name":"ALSAT-1B",
+    "norad_id":"41785",
+    "uplink":null,
+    "downlink":"2233.332",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"TZLM-3764-7906-6364-2931"
+  },
+  {
+    "name":"ALSAT-1N",
     "norad_id":"41789",
     "uplink":null,
-    "downlink":"437.646",
+    "downlink":"437.650",
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":"AL1N",
     "status":"inactive",
     "satnogs_id":"UPOC-3374-7750-1640-6748"
+  },
+  {
+    "name":"ALSAT-2A",
+    "norad_id":"36789",
+    "uplink":null,
+    "downlink":"2266.500",
+    "beacon":null,
+    "mode":"200kbps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"ALSAT-2B",
+    "norad_id":"41786",
+    "uplink":null,
+    "downlink":"2266.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"IWJW-7383-4186-3264-0647"
   },
   {
     "name":"Altair",
