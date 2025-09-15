@@ -2602,7 +2602,7 @@
     "downlink":"437.375",
     "beacon":"437.375",
     "mode":"4800bps GMSK APRS CW",
-    "callsign":null,
+    "callsign":"JG6YOW",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -2746,7 +2746,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -6056,7 +6056,7 @@
     "downlink":"437.375",
     "beacon":"437.375",
     "mode":"4800bps GMSK APRS CW",
-    "callsign":null,
+    "callsign":"JG6YOW",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -7971,7 +7971,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8267,7 +8267,7 @@
     "downlink":"437.090",
     "beacon":"437.090",
     "mode":"1k2AFSK 9k6GMSK Digitalker CW",
-    "callsign":null,
+    "callsign":"JJ2YZA",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -16693,7 +16693,7 @@
     "downlink":"437.050",
     "beacon":"437.050",
     "mode":"1k2_AFSK 2k4_4FSK OQPSK 9k6_GMSK CW",
-    "callsign":null,
+    "callsign":"JS1YOY",
     "status":"unknown",
     "satnogs_id":null
   },

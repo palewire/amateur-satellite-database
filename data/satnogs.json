@@ -18969,10 +18969,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -57542,6 +57542,54 @@
     ],
     "updated":"2025-09-11T18:51:18.085323Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/14140x93hxOEd_RK-e-iziS0-v4Je83oUyRDrWn4kTn4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JUZY-8128-3389-0634-7401",
+    "norad_cat_id":62707.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X44",
+    "names":"2025-009DC",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-15T03:13:23.234968Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1OmqqxBPzzmlV0SO4Zg--Z4ytbAkRPMShoj4qKRjSz1o\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QDGN-6423-1454-4019-6723",
+    "norad_cat_id":64581.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X55",
+    "names":"2025-135BF",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":"2025-06-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-15T03:13:42.856954Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/18iJ3PIIxYb-q-DkE_zOhDnz5jFgnB9fPbFYT6yWi17s\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
