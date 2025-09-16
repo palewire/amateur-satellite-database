@@ -18969,10 +18969,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -57217,7 +57217,7 @@
     "norad_follow_id":null,
     "name":"BOTAN",
     "names":"JS1YPT",
-    "image":"",
+    "image":"satellites\/DSC_3451_M7LlLPt.JPG",
     "status":"future",
     "decayed":null,
     "launched":"2025-09-16T00:00:00Z",
@@ -57228,8 +57228,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-08-31T13:23:39.356295Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-09-15T17:27:30.628109Z",
+    "citation":"Chiba Institute of Technology",
     "is_frequency_violator":false,
     "associated_satellites":[
 
