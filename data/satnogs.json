@@ -57339,11 +57339,11 @@
     "norad_follow_id":null,
     "name":"Dragonfly (BIRDS-X)",
     "names":"JG6YOW",
-    "image":"",
+    "image":"satellites\/BIRDS-X_\u4e5d\u5dde\u5de5\u696d\u5927\u5b66_APRS_MISSION.jpg",
     "status":"future",
     "decayed":null,
     "launched":"2025-08-24T00:00:00Z",
-    "deployed":null,
+    "deployed":"2025-09-19T00:00:00Z",
     "website":"https:\/\/birds-x.birds-project.com\/satellite-information\/",
     "operator":"None",
     "countries":"JP",
@@ -57352,8 +57352,8 @@
         "decoder":"dragonfly"
       }
     ],
-    "updated":"2025-09-04T17:06:41.366545Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-09-17T07:24:40.398269Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57618,6 +57618,30 @@
     ],
     "updated":"2025-09-16T19:01:29.501726Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1gysGk0bbnN3_IWHUQn3aapnfM_onKkBPLv3ea1vBgPM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JMIF-0517-5295-9753-0215",
+    "norad_cat_id":98538.0,
+    "norad_follow_id":null,
+    "name":"SilverSat",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-09-14T22:11:00Z",
+    "deployed":null,
+    "website":"https:\/\/silversat.org\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-17T07:32:11.943366Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=998 and https:\/\/community.libre.space\/t\/ng-23-silversat\/13784",
     "is_frequency_violator":false,
     "associated_satellites":[
 
