@@ -4705,7 +4705,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"ECTY-2095-6453-4056-1105"
   },
   {
     "name":"CO-55",
@@ -9845,6 +9845,28 @@
     "satnogs_id":"HOBY-7151-1376-6349-2091"
   },
   {
+    "name":"ICEYE-X55",
+    "norad_id":"64581",
+    "uplink":null,
+    "downlink":"2269.725",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"QDGN-6423-1454-4019-6723"
+  },
+  {
+    "name":"ICEYE-X56",
+    "norad_id":"64574",
+    "uplink":null,
+    "downlink":"2269.725",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"GEOX-9409-1329-6133-6345"
+  },
+  {
     "name":"ICEYE-X57",
     "norad_id":"64578",
     "uplink":null,
@@ -14818,14 +14840,14 @@
   },
   {
     "name":"Parus-T2",
-    "norad_id":"64574",
+    "norad_id":"64560",
     "uplink":"145.980",
     "downlink":"145.825\/435.250*\/437.850",
     "beacon":null,
     "mode":"1200bps AFSK FM*",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":"GEOX-9409-1329-6133-6345"
+    "satnogs_id":null
   },
   {
     "name":"PCSAT-1",

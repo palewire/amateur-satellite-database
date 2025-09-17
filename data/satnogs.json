@@ -52814,8 +52814,8 @@
         "decoder":"rsp03"
       }
     ],
-    "updated":"2025-09-09T21:36:34.298231Z",
-    "citation":"New dashboard update",
+    "updated":"2025-09-16T14:34:22.423203Z",
+    "citation":"Dashboard update",
     "is_frequency_violator":false,
     "associated_satellites":[
       "MHEI-3411-8847-6627-3823"
@@ -57250,7 +57250,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"ghs01"
+      }
     ],
     "updated":"2025-09-12T15:06:53.424906Z",
     "citation":"gifuhs2022.wordpress.com",
@@ -57346,7 +57348,9 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"dragonfly"
+      }
     ],
     "updated":"2025-09-04T17:06:41.366545Z",
     "citation":"Add temporary NORAD ID",
@@ -57590,6 +57594,30 @@
     ],
     "updated":"2025-09-15T03:13:42.856954Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/18iJ3PIIxYb-q-DkE_zOhDnz5jFgnB9fPbFYT6yWi17s\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ECTY-2095-6453-4056-1105",
+    "norad_cat_id":59773.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2576",
+    "names":"2024-092A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-05-16T00:00:00Z",
+    "deployed":"2024-05-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-16T19:01:29.501726Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1gysGk0bbnN3_IWHUQn3aapnfM_onKkBPLv3ea1vBgPM\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
