@@ -57646,5 +57646,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"SRUH-2426-9455-6910-0580",
+    "norad_cat_id":65262.0,
+    "norad_follow_id":null,
+    "name":"Object D",
+    "names":"2025-180D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-08-19T00:00:00Z",
+    "deployed":"2025-08-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-17T18:00:00.283323Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1NqPkKUDXcsz7d2mEiVvTj-HplVQ53QO7yZH1GcypoB0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
