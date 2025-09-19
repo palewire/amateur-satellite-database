@@ -52802,10 +52802,10 @@
     "name":"RSP-03",
     "names":"JS1YOY",
     "image":"satellites\/rsp03.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-08-24T00:00:00Z",
-    "deployed":null,
+    "deployed":"2025-09-19T10:40:00Z",
     "website":"https:\/\/rsp03.rymansat.com",
     "operator":"None",
     "countries":"JP",
@@ -52814,8 +52814,8 @@
         "decoder":"rsp03"
       }
     ],
-    "updated":"2025-09-16T14:34:22.423203Z",
-    "citation":"Dashboard update",
+    "updated":"2025-09-19T10:40:36.078463Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=W6v9XU62GGs",
     "is_frequency_violator":false,
     "associated_satellites":[
       "MHEI-3411-8847-6627-3823"
@@ -56954,10 +56954,10 @@
     "name":"STARS-Me2",
     "names":"JJ2YXO, H\u014drai (\u84ec\u83b1)",
     "image":"satellites\/STARS-Me2_for_Dashboard.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-08-24T00:00:00Z",
-    "deployed":"2025-09-19T00:00:00Z",
+    "deployed":"2025-09-19T10:40:00Z",
     "website":"https:\/\/wwp.shizuoka.ac.jp\/suarc\/stars-me2-overview-english\/",
     "operator":"None",
     "countries":"JP",
@@ -56966,8 +56966,8 @@
         "decoder":"starsme2"
       }
     ],
-    "updated":"2025-09-18T20:23:27.866616Z",
-    "citation":"dl7ndr",
+    "updated":"2025-09-19T10:40:31.898246Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=W6v9XU62GGs",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57244,10 +57244,10 @@
     "name":"GHS-01",
     "names":"Raich\u014d\uff08\u3089\u3044\u3061\u3087\u3046\uff09, JJ2YZA",
     "image":"satellites\/GHS-01_\u3089\u3044\u3061\u3087\u3046.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-08-24T00:00:00Z",
-    "deployed":"2025-09-19T00:00:00Z",
+    "deployed":"2025-09-19T08:50:00Z",
     "website":"https:\/\/gifuhs2022.wordpress.com\/",
     "operator":"None",
     "countries":"JP",
@@ -57256,8 +57256,8 @@
         "decoder":"ghs01"
       }
     ],
-    "updated":"2025-09-12T15:06:53.424906Z",
-    "citation":"gifuhs2022.wordpress.com",
+    "updated":"2025-09-19T08:49:53.676444Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=LvvUfWakkIg",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57339,13 +57339,13 @@
     "sat_id":"DWWV-4312-0144-3164-0720",
     "norad_cat_id":98539.0,
     "norad_follow_id":null,
-    "name":"Dragonfly (BIRDS-X)",
+    "name":"Dragonfly",
     "names":"JG6YOW",
     "image":"satellites\/BIRDS-X_\u4e5d\u5dde\u5de5\u696d\u5927\u5b66_APRS_MISSION.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-08-24T00:00:00Z",
-    "deployed":"2025-09-19T00:00:00Z",
+    "deployed":"2025-09-19T08:50:00Z",
     "website":"https:\/\/birds-x.birds-project.com\/satellite-information\/",
     "operator":"None",
     "countries":"JP",
@@ -57354,8 +57354,8 @@
         "decoder":"dragonfly"
       }
     ],
-    "updated":"2025-09-17T07:24:40.398269Z",
-    "citation":"dl7ndr",
+    "updated":"2025-09-19T08:49:57.996152Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=LvvUfWakkIg",
     "is_frequency_violator":false,
     "associated_satellites":[
 
