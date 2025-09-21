@@ -57348,14 +57348,14 @@
     "deployed":"2025-09-19T08:50:00Z",
     "website":"https:\/\/birds-x.birds-project.com\/satellite-information\/",
     "operator":"None",
-    "countries":"JP",
+    "countries":"LK",
     "telemetries":[
       {
         "decoder":"dragonfly"
       }
     ],
-    "updated":"2025-09-19T08:49:57.996152Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=LvvUfWakkIg",
+    "updated":"2025-09-20T16:02:05.834125Z",
+    "citation":"The BIRDS-X Dragonfly satellite is a nano-satellite developed by Sri Lanka in collaboration with the Kyushu Institute of Technology (Japan) and the Arthur C. Clarke Institute for Modern Technologies (Sri Lanka). It marks a significant milestone in Sri Lanka's space technology development",
     "is_frequency_violator":false,
     "associated_satellites":[
 
