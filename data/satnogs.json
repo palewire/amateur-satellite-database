@@ -19192,10 +19192,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -39219,8 +39219,8 @@
     "name":"NinjaSat",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-09-18T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:43:04Z",
     "website":"",
@@ -39229,8 +39229,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-16T01:18:53.979638Z",
-    "citation":"Network observations through ikhnos",
+    "updated":"2025-09-22T07:54:19.337368Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=58341",
     "is_frequency_violator":false,
     "associated_satellites":[
 
