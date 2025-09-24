@@ -57631,19 +57631,19 @@
     "norad_follow_id":null,
     "name":"SilverSat",
     "names":"",
-    "image":"",
+    "image":"satellites\/Launch-Config.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-09-14T22:11:00Z",
-    "deployed":null,
+    "deployed":"2025-11-17T00:00:00Z",
     "website":"https:\/\/silversat.org\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-09-17T07:32:11.943366Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=998 and https:\/\/community.libre.space\/t\/ng-23-silversat\/13784",
+    "updated":"2025-09-23T12:38:36.869807Z",
+    "citation":"Information from the project",
     "is_frequency_violator":false,
     "associated_satellites":[
 
