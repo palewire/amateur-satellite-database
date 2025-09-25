@@ -52798,7 +52798,7 @@
   {
     "sat_id":"SRYX-5008-9935-5872-7958",
     "norad_cat_id":98654.0,
-    "norad_follow_id":null,
+    "norad_follow_id":65729.0,
     "name":"RSP-03",
     "names":"JS1YOY",
     "image":"satellites\/rsp03.jpg",
@@ -52814,8 +52814,8 @@
         "decoder":"rsp03"
       }
     ],
-    "updated":"2025-09-19T10:40:36.078463Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=W6v9XU62GGs",
+    "updated":"2025-09-25T09:54:48.225113Z",
+    "citation":"Random selection from the deployed group",
     "is_frequency_violator":false,
     "associated_satellites":[
       "MHEI-3411-8847-6627-3823"
@@ -56950,7 +56950,7 @@
   {
     "sat_id":"VYIN-6766-0675-3270-0532",
     "norad_cat_id":98540.0,
-    "norad_follow_id":null,
+    "norad_follow_id":65733.0,
     "name":"STARS-Me2",
     "names":"JJ2YXO, H\u014drai (\u84ec\u83b1)",
     "image":"satellites\/STARS-Me2_for_Dashboard.jpg",
@@ -56966,8 +56966,8 @@
         "decoder":"starsme2"
       }
     ],
-    "updated":"2025-09-19T10:40:31.898246Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=W6v9XU62GGs",
+    "updated":"2025-09-25T09:55:36.819498Z",
+    "citation":"Random selection from the deployed group",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57240,7 +57240,7 @@
   {
     "sat_id":"KSNB-8591-3590-2702-4074",
     "norad_cat_id":98541.0,
-    "norad_follow_id":null,
+    "norad_follow_id":65731.0,
     "name":"GHS-01",
     "names":"Raich\u014d\uff08\u3089\u3044\u3061\u3087\u3046\uff09, JJ2YZA",
     "image":"satellites\/GHS-01_\u3089\u3044\u3061\u3087\u3046.jpg",
@@ -57256,8 +57256,8 @@
         "decoder":"ghs01"
       }
     ],
-    "updated":"2025-09-19T08:49:53.676444Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=LvvUfWakkIg",
+    "updated":"2025-09-25T09:52:41.729054Z",
+    "citation":"Semi-random based on old good observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57338,7 +57338,7 @@
   {
     "sat_id":"DWWV-4312-0144-3164-0720",
     "norad_cat_id":98539.0,
-    "norad_follow_id":null,
+    "norad_follow_id":65732.0,
     "name":"Dragonfly",
     "names":"JG6YOW",
     "image":"satellites\/Dragonfly.jpg",
@@ -57354,8 +57354,8 @@
         "decoder":"dragonfly"
       }
     ],
-    "updated":"2025-09-24T10:55:25.474655Z",
-    "citation":"New Picture and Little change in Description.",
+    "updated":"2025-09-25T09:53:30.455138Z",
+    "citation":"Random selection from the deployed group",
     "is_frequency_violator":false,
     "associated_satellites":[
 
