@@ -8478,18 +8478,18 @@
     "name":"SNUSAT-2",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"dead",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2018-12-03T00:00:00Z",
+    "deployed":"2018-12-03T00:00:00Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.654682Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-09-24T10:33:34.503045Z",
+    "citation":"dl7ndr",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -52102,7 +52102,7 @@
   {
     "sat_id":"ZRUJ-5863-3206-3578-5209",
     "norad_cat_id":98671.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62615.0,
     "name":"SATURNIN-1",
     "names":"",
     "image":"",
@@ -52116,8 +52116,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:14.548847Z",
-    "citation":"Change Status",
+    "updated":"2025-09-24T08:44:49.870614Z",
+    "citation":"https:\/\/vedromik.cz\/hled%C3%A1n%C3%AD-saturnina-hunting-for-saturnin-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57341,7 +57341,7 @@
     "norad_follow_id":null,
     "name":"Dragonfly",
     "names":"JG6YOW",
-    "image":"satellites\/BIRDS-X_\u4e5d\u5dde\u5de5\u696d\u5927\u5b66_APRS_MISSION.jpg",
+    "image":"satellites\/Dragonfly.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-08-24T00:00:00Z",
@@ -57354,8 +57354,8 @@
         "decoder":"dragonfly"
       }
     ],
-    "updated":"2025-09-21T08:12:12.458960Z",
-    "citation":"As shamika wrote: \"... in collaboration with the Kyushu Institute of Technology (Japan) and the Arthur C. Clarke Institute for Modern Technologies (Sri Lanka)\"",
+    "updated":"2025-09-24T10:55:25.474655Z",
+    "citation":"New Picture and Little change in Description.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
