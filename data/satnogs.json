@@ -55274,7 +55274,7 @@
   {
     "sat_id":"IDDA-3367-7223-2853-3512",
     "norad_cat_id":98600.0,
-    "norad_follow_id":64531.0,
+    "norad_follow_id":64532.0,
     "name":"RIDU-Sat 1",
     "names":"YH1SUP",
     "image":"satellites\/RIDU-Sat_1.png",
@@ -55288,8 +55288,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-23T15:08:59.929854Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-14-rideshare-vandenberg-slc-4e-23-jun-2025-21-18-utc\/13339\/157",
+    "updated":"2025-09-26T19:35:10.953923Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1L5J1mUkhm70jzUSE0ppV3UhCju2ycMsZcsFuetrPWHw\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57668,6 +57668,30 @@
     ],
     "updated":"2025-09-17T18:00:00.283323Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1NqPkKUDXcsz7d2mEiVvTj-HplVQ53QO7yZH1GcypoB0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LLEW-4775-7241-6889-7282",
+    "norad_cat_id":98537.0,
+    "norad_follow_id":null,
+    "name":"HUNITY",
+    "names":"NMHH-1",
+    "image":"satellites\/HUNITY.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-10-31T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.albaorbital.com\/bme-hunity",
+    "operator":"None",
+    "countries":"HU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-26T19:34:03.763427Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
