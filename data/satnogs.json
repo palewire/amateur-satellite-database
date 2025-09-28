@@ -18301,7 +18301,8 @@
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "SDEM-8152-5501-7453-0746"
+      "SDEM-8152-5501-7453-0746",
+      "KIOQ-8702-8845-6177-4699"
     ]
   },
   {
@@ -52798,7 +52799,7 @@
   {
     "sat_id":"SRYX-5008-9935-5872-7958",
     "norad_cat_id":98654.0,
-    "norad_follow_id":65729.0,
+    "norad_follow_id":65732.0,
     "name":"RSP-03",
     "names":"JS1YOY",
     "image":"satellites\/rsp03.jpg",
@@ -52814,8 +52815,8 @@
         "decoder":"rsp03"
       }
     ],
-    "updated":"2025-09-25T09:54:48.225113Z",
-    "citation":"Random selection from the deployed group",
+    "updated":"2025-09-27T13:07:21.046121Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-32-2025-09-19\/13705\/61",
     "is_frequency_violator":false,
     "associated_satellites":[
       "MHEI-3411-8847-6627-3823"
