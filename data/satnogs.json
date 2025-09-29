@@ -43527,7 +43527,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2024-03-21T20:54:00Z",
+    "launched":"2025-09-14T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/prescott.erau.edu\/about\/labs\/axfab-eaglesat",
     "operator":"None",
@@ -43535,8 +43535,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-20T07:14:37.656021Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-09-29T08:02:17.894164Z",
+    "citation":"https:\/\/community.libre.space\/t\/ng-23-silversat\/13784\/4",
     "is_frequency_violator":false,
     "associated_satellites":[
 
