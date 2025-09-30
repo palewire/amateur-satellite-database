@@ -57697,5 +57697,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"NKES-5884-4663-7598-3201",
+    "norad_cat_id":98534.0,
+    "norad_follow_id":null,
+    "name":"IWATO",
+    "names":"e-kagaku-1",
+    "image":"satellites\/e-kagaku-1.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2025-10-10T00:00:00Z",
+    "website":"https:\/\/ekagaku-sat.net",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-29T16:10:49.525471Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ALOH-7003-5089-9988-8754",
+    "norad_cat_id":98535.0,
+    "norad_follow_id":null,
+    "name":"YOTSUBA-KULOVER",
+    "names":"",
+    "image":"satellites\/YOTSUBA-KULOVER.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2025-10-10T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-09-29T16:10:15.436782Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
