@@ -2603,7 +2603,7 @@
     "beacon":"437.375",
     "mode":"4800bps GMSK APRS CW",
     "callsign":"JG6YOW",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -2746,7 +2746,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":"JS1YPT",
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -6057,7 +6057,7 @@
     "beacon":"437.375",
     "mode":"4800bps GMSK APRS CW",
     "callsign":"JG6YOW",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -7971,7 +7971,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8GMSK APRS CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -8268,7 +8268,7 @@
     "beacon":"437.090",
     "mode":"1k2AFSK 9k6GMSK Digitalker CW",
     "callsign":"JJ2YZA",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -16716,7 +16716,7 @@
     "beacon":"437.050",
     "mode":"1k2_AFSK 2k4_4FSK OQPSK 9k6_GMSK CW",
     "callsign":"JS1YOY",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -19598,7 +19598,7 @@
     "beacon":"437.350",
     "mode":"1k2AFSK 9k6FSK CW",
     "callsign":"JJ2YXO",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -23527,6 +23527,17 @@
     "callsign":"JS1YMX",
     "status":"re-entered",
     "satnogs_id":"HHVN-9456-4962-8588-2802"
+  },
+  {
+    "name":"YOTSUBA-KULOVER",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"4k8_GMSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"YPSat",
