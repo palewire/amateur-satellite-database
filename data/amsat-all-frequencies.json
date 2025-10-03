@@ -17919,6 +17919,17 @@
     "satnogs_id":null
   },
   {
+    "name":"SilverSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.175",
+    "beacon":"437.175",
+    "mode":"9k6_SSDV CW",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"SIMBA",
     "norad_id":"46279",
     "uplink":null,
