@@ -12679,14 +12679,14 @@
     "decayed":"2024-09-07T00:00:00Z",
     "launched":"2021-06-30T19:31:00Z",
     "deployed":"2021-07-16T12:00:00Z",
-    "website":"https:\/\/www.orbitalspace.org\/qmr-kwt",
+    "website":"https:\/\/www.orbital-space.com",
     "operator":"None",
     "countries":"KW",
     "telemetries":[
 
     ],
-    "updated":"2024-09-11T05:13:36.235825Z",
-    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48943",
+    "updated":"2025-10-04T10:01:33.189661Z",
+    "citation":"https:\/\/www.orbital-space.com\/",
     "is_frequency_violator":true,
     "associated_satellites":[
       "PYFE-6996-7413-5550-3917",

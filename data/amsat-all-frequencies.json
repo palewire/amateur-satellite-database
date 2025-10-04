@@ -2597,7 +2597,7 @@
   },
   {
     "name":"BIRDS-X",
-    "norad_id":null,
+    "norad_id":"65732",
     "uplink":"145.825\/435.375",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -6051,7 +6051,7 @@
   },
   {
     "name":"Dragonfly",
-    "norad_id":null,
+    "norad_id":"65732",
     "uplink":"145.825\/435.375",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -8262,7 +8262,7 @@
   },
   {
     "name":"GHS-01",
-    "norad_id":null,
+    "norad_id":"65731",
     "uplink":null,
     "downlink":"437.090",
     "beacon":"437.090",
@@ -16710,7 +16710,7 @@
   },
   {
     "name":"RSP-03",
-    "norad_id":null,
+    "norad_id":"65732",
     "uplink":null,
     "downlink":"437.050",
     "beacon":"437.050",
@@ -19603,7 +19603,7 @@
   },
   {
     "name":"STARS-Me2",
-    "norad_id":null,
+    "norad_id":"65733",
     "uplink":null,
     "downlink":"437.400",
     "beacon":"437.350",
