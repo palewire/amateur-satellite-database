@@ -18970,10 +18970,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -57702,8 +57702,8 @@
     "sat_id":"NKES-5884-4663-7598-3201",
     "norad_cat_id":98534.0,
     "norad_follow_id":null,
-    "name":"IWATO",
-    "names":"e-kagaku-1",
+    "name":"e-kagaku-1",
+    "names":"IWATO",
     "image":"satellites\/e-kagaku-1.jpg",
     "status":"future",
     "decayed":null,
@@ -57715,8 +57715,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-09-29T16:10:49.525471Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-10-06T06:33:33.593090Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004982.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
