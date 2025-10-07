@@ -57745,5 +57745,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"XWTX-9859-8737-7609-7570",
+    "norad_cat_id":58928.0,
+    "norad_follow_id":null,
+    "name":"PACE",
+    "names":"2024-026A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-02-08T00:00:00Z",
+    "deployed":"2024-02-08T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-07T07:17:26.155311Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1VcNHxXeqRFm__BjaMPZpwoKwmsu1hY9alePx8lEoZ5g\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
