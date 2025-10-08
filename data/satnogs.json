@@ -52798,8 +52798,8 @@
   },
   {
     "sat_id":"SRYX-5008-9935-5872-7958",
-    "norad_cat_id":98654.0,
-    "norad_follow_id":65732.0,
+    "norad_cat_id":65732.0,
+    "norad_follow_id":null,
     "name":"RSP-03",
     "names":"JS1YOY",
     "image":"satellites\/rsp03.jpg",
@@ -52815,11 +52815,12 @@
         "decoder":"rsp03"
       }
     ],
-    "updated":"2025-09-27T13:07:21.046121Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-32-2025-09-19\/13705\/61",
+    "updated":"2025-10-08T09:00:04.996322Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-32-2025-09-19\/13705\/111",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "MHEI-3411-8847-6627-3823"
+      "MHEI-3411-8847-6627-3823",
+      "VSOZ-8439-1092-5565-5762"
     ]
   },
   {
@@ -55275,7 +55276,7 @@
   {
     "sat_id":"IDDA-3367-7223-2853-3512",
     "norad_cat_id":98600.0,
-    "norad_follow_id":64532.0,
+    "norad_follow_id":64531.0,
     "name":"RIDU-Sat 1",
     "names":"YH1SUP",
     "image":"satellites\/RIDU-Sat_1.png",
@@ -55289,8 +55290,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-09-26T19:35:10.953923Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1L5J1mUkhm70jzUSE0ppV3UhCju2ycMsZcsFuetrPWHw\/edit?usp=sharing",
+    "updated":"2025-10-08T10:36:05.452660Z",
+    "citation":"https:\/\/community.libre.space\/t\/observations-analysis\/13888\/7",
     "is_frequency_violator":false,
     "associated_satellites":[
 
