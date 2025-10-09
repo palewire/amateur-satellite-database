@@ -57704,7 +57704,7 @@
     "norad_cat_id":98534.0,
     "norad_follow_id":null,
     "name":"e-kagaku-1",
-    "names":"IWATO",
+    "names":"IWATO, JL3ZPN",
     "image":"satellites\/e-kagaku-1.jpg",
     "status":"future",
     "decayed":null,
@@ -57716,8 +57716,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-06T06:33:33.593090Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/004982.html",
+    "updated":"2025-10-08T13:17:23.742785Z",
+    "citation":"https:\/\/ekagaku-sat.net",
     "is_frequency_violator":false,
     "associated_satellites":[
 
