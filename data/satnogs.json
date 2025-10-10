@@ -56952,7 +56952,7 @@
   {
     "sat_id":"VYIN-6766-0675-3270-0532",
     "norad_cat_id":98540.0,
-    "norad_follow_id":65733.0,
+    "norad_follow_id":65731.0,
     "name":"STARS-Me2",
     "names":"JJ2YXO, H\u014drai (\u84ec\u83b1)",
     "image":"satellites\/STARS-Me2_for_Dashboard.jpg",
@@ -56968,8 +56968,8 @@
         "decoder":"starsme2"
       }
     ],
-    "updated":"2025-09-25T09:55:36.819498Z",
-    "citation":"Random selection from the deployed group",
+    "updated":"2025-10-10T09:06:25.519155Z",
+    "citation":"Random choice of Object to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57222,18 +57222,18 @@
     "name":"BOTAN",
     "names":"JS1YPT",
     "image":"satellites\/DSC_3451_M7LlLPt.JPG",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-09-16T00:00:00Z",
-    "deployed":null,
+    "deployed":"2025-10-10T09:50:00Z",
     "website":"https:\/\/sites.google.com\/p.chibakoudai.jp\/gardens-04\/satellite\/downlink-format",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2025-09-15T17:27:30.628109Z",
-    "citation":"Chiba Institute of Technology",
+    "updated":"2025-10-10T09:55:24.663009Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=a3Ouzw2raME",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57242,7 +57242,7 @@
   {
     "sat_id":"KSNB-8591-3590-2702-4074",
     "norad_cat_id":98541.0,
-    "norad_follow_id":65731.0,
+    "norad_follow_id":65733.0,
     "name":"GHS-01",
     "names":"Raich\u014d\uff08\u3089\u3044\u3061\u3087\u3046\uff09, JJ2YZA",
     "image":"satellites\/GHS-01_\u3089\u3044\u3061\u3087\u3046.jpg",
@@ -57258,8 +57258,8 @@
         "decoder":"ghs01"
       }
     ],
-    "updated":"2025-09-25T09:52:41.729054Z",
-    "citation":"Semi-random based on old good observations",
+    "updated":"2025-10-10T09:06:25.491381Z",
+    "citation":"Random choice of Object to follow",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57706,18 +57706,18 @@
     "name":"e-kagaku-1",
     "names":"IWATO, JL3ZPN",
     "image":"satellites\/e-kagaku-1.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":null,
-    "deployed":"2025-10-10T00:00:00Z",
+    "deployed":"2025-10-10T09:50:00Z",
     "website":"https:\/\/ekagaku-sat.net",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2025-10-08T13:17:23.742785Z",
-    "citation":"https:\/\/ekagaku-sat.net",
+    "updated":"2025-10-10T09:55:24.629478Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=a3Ouzw2raME",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57730,18 +57730,18 @@
     "name":"YOTSUBA-KULOVER",
     "names":"",
     "image":"satellites\/YOTSUBA-KULOVER.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":null,
-    "deployed":"2025-10-10T00:00:00Z",
+    "deployed":"2025-10-10T09:40:00Z",
     "website":"",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2025-09-29T16:10:15.436782Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-10-10T09:39:13.753468Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=a3Ouzw2raME",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57766,6 +57766,30 @@
     ],
     "updated":"2025-10-07T07:17:26.155311Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1VcNHxXeqRFm__BjaMPZpwoKwmsu1hY9alePx8lEoZ5g\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TGTS-2545-7071-3839-4406",
+    "norad_cat_id":42758.0,
+    "norad_follow_id":42758.0,
+    "name":"HXMT",
+    "names":"HUIYAN",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-06-15T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-10T07:12:33.933117Z",
+    "citation":"confirmed s-band downlink on 2216.391432 MHz via multiple STRF observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 

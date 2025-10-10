@@ -6957,7 +6957,7 @@
     "uplink":null,
     "downlink":"145.840",
     "beacon":null,
-    "mode":"1k2AFSK 9K6GMSK",
+    "mode":"1k2AFSK 9K6GMSK CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
