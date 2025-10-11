@@ -40566,8 +40566,8 @@
     "name":"TROPICS-07",
     "names":"",
     "image":"satellites\/tropics__2_GXZNn9B.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-09-06T00:00:00Z",
     "launched":"2023-05-26T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.eoportal.org\/satellite-missions\/tropics",
@@ -40576,8 +40576,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T22:58:15.911141Z",
-    "citation":"Own research, 3 of the TROPICS have been received multiple time on S-Band",
+    "updated":"2025-10-10T12:30:09.044619Z",
+    "citation":"https:\/\/www.space-track.org\/#decay",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57790,6 +57790,30 @@
     ],
     "updated":"2025-10-10T07:12:33.933117Z",
     "citation":"confirmed s-band downlink on 2216.391432 MHz via multiple STRF observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DNRV-5514-5594-8907-1012",
+    "norad_cat_id":98533.0,
+    "norad_follow_id":null,
+    "name":"CAS-11",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-10-11T02:25:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-10T16:52:21.356194Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=57735.20 & https:\/\/amsat-dl.org\/satelliten-geplant\/ & https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1003",
     "is_frequency_violator":false,
     "associated_satellites":[
 

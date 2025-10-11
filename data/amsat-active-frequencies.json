@@ -330,6 +330,16 @@
     "satnogs_id":"MMZL-7798-8557-0116-9958"
   },
   {
+    "name":"BOTAN",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
+    "callsign":"JS1YPT",
+    "satnogs_id":null
+  },
+  {
     "name":"BOTSAT-1",
     "norad_id":"63216",
     "uplink":null,
@@ -1358,6 +1368,16 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "satnogs_id":"BYRQ-8084-9850-7997-7193"
+  },
+  {
+    "name":"Gardens-04",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"Geoscan-1",
