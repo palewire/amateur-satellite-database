@@ -10835,6 +10835,17 @@
     "satnogs_id":"FMZT-1887-7286-8009-2095"
   },
   {
+    "name":"IWATO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.840",
+    "beacon":null,
+    "mode":"1k2AFSK 9K6GMSK CW",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"JACK-001",
     "norad_id":"64530",
     "uplink":null,

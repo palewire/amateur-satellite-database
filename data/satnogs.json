@@ -10684,8 +10684,8 @@
     "name":"UPMSat 2",
     "names":"",
     "image":"satellites\/upmsat-2__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-11T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -10694,8 +10694,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.823833Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-10-12T09:28:56.934573Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=46276",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57218,7 +57218,7 @@
   {
     "sat_id":"PHOX-2063-1951-4466-3756",
     "norad_cat_id":98543.0,
-    "norad_follow_id":null,
+    "norad_follow_id":65943.0,
     "name":"BOTAN",
     "names":"JS1YPT",
     "image":"satellites\/DSC_3451_M7LlLPt.JPG",
@@ -57232,8 +57232,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-10T09:55:24.663009Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=a3Ouzw2raME",
+    "updated":"2025-10-12T07:25:52.652692Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57702,7 +57702,7 @@
   {
     "sat_id":"NKES-5884-4663-7598-3201",
     "norad_cat_id":98534.0,
-    "norad_follow_id":null,
+    "norad_follow_id":65942.0,
     "name":"e-kagaku-1",
     "names":"IWATO, JL3ZPN",
     "image":"satellites\/e-kagaku-1.jpg",
@@ -57716,8 +57716,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-10T09:55:24.629478Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=a3Ouzw2raME",
+    "updated":"2025-10-12T07:25:52.593693Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57726,7 +57726,7 @@
   {
     "sat_id":"ALOH-7003-5089-9988-8754",
     "norad_cat_id":98535.0,
-    "norad_follow_id":null,
+    "norad_follow_id":65941.0,
     "name":"YOTSUBA-KULOVER",
     "names":"",
     "image":"satellites\/YOTSUBA-KULOVER.jpg",
@@ -57740,8 +57740,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-10T09:39:13.753468Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=a3Ouzw2raME",
+    "updated":"2025-10-12T07:25:52.621958Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57802,7 +57802,7 @@
     "name":"CAS-11",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":"2025-10-11T02:25:00Z",
     "deployed":null,
@@ -57812,8 +57812,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-10T16:52:21.356194Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=57735.20 & https:\/\/amsat-dl.org\/satelliten-geplant\/ & https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1003",
+    "updated":"2025-10-12T07:37:08.423962Z",
+    "citation":"https:\/\/community.libre.space\/t\/gravity-1-orienspace-2025-10-11-02-15utc\/13892\/8",
     "is_frequency_violator":false,
     "associated_satellites":[
 
