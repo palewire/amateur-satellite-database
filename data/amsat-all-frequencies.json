@@ -2601,9 +2601,9 @@
     "uplink":"145.825\/435.375",
     "downlink":"437.375",
     "beacon":"437.375",
-    "mode":"4800bps GMSK APRS CW",
+    "mode":"4800bps GMSK APRS CW*",
     "callsign":"JG6YOW",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -6055,9 +6055,9 @@
     "uplink":"145.825\/435.375",
     "downlink":"437.375",
     "beacon":"437.375",
-    "mode":"4800bps GMSK APRS CW",
+    "mode":"4800bps GMSK APRS CW*",
     "callsign":"JG6YOW",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":null
   },
   {

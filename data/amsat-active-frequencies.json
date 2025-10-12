@@ -310,6 +310,16 @@
     "satnogs_id":"ANGB-2912-5973-0732-4675"
   },
   {
+    "name":"BIRDS-X",
+    "norad_id":"65729",
+    "uplink":"145.825\/435.375",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"4800bps GMSK APRS CW*",
+    "callsign":"JG6YOW",
+    "satnogs_id":null
+  },
+  {
     "name":"BisonSat",
     "norad_id":"40974",
     "uplink":null,
@@ -1088,6 +1098,16 @@
     "mode":"SSB CW",
     "callsign":"RS44",
     "satnogs_id":"UFYD-5782-6372-2920-6054"
+  },
+  {
+    "name":"Dragonfly",
+    "norad_id":"65729",
+    "uplink":"145.825\/435.375",
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"4800bps GMSK APRS CW*",
+    "callsign":"JG6YOW",
+    "satnogs_id":null
   },
   {
     "name":"Duchifat-1",
