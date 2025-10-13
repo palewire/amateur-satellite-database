@@ -341,7 +341,7 @@
   },
   {
     "name":"BOTAN",
-    "norad_id":null,
+    "norad_id":"65943",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -1391,7 +1391,7 @@
   },
   {
     "name":"Gardens-04",
-    "norad_id":null,
+    "norad_id":"65943",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -3888,16 +3888,6 @@
     "mode":"(V)FM (S)PSK",
     "callsign":"UOSAT2",
     "satnogs_id":"TDVY-5283-4801-7631-6209"
-  },
-  {
-    "name":"UPMSat-2",
-    "norad_id":"46276",
-    "uplink":null,
-    "downlink":"437.405",
-    "beacon":null,
-    "mode":"1200bps FSK",
-    "callsign":"UPMST2",
-    "satnogs_id":"UCSJ-1439-6113-9699-8457"
   },
   {
     "name":"UTMN-2",

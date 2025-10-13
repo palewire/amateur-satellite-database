@@ -1452,6 +1452,17 @@
     "satnogs_id":"GFHE-3541-7447-2114-2770"
   },
   {
+    "name":"ARICA-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.830",
+    "beacon":"436.830",
+    "mode":"4k8_GMSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"ARISSat-1",
     "norad_id":"37772",
     "uplink":"435.742-435.758",
@@ -2740,7 +2751,7 @@
   },
   {
     "name":"BOTAN",
-    "norad_id":null,
+    "norad_id":"65943",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -6953,12 +6964,12 @@
   },
   {
     "name":"e-kagaku-1",
-    "norad_id":null,
+    "norad_id":"65942",
     "uplink":null,
     "downlink":"145.840",
     "beacon":null,
     "mode":"1k2AFSK 9K6GMSK CW",
-    "callsign":null,
+    "callsign":"JL3ZPN",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -7799,6 +7810,17 @@
     "satnogs_id":null
   },
   {
+    "name":"FSI-SAT2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.175",
+    "beacon":"437.175",
+    "mode":"1k2AFSK 9k6GMSK SSTV CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"FUNcube-1",
     "norad_id":"39444",
     "uplink":"435.130-435.150",
@@ -7965,7 +7987,7 @@
   },
   {
     "name":"Gardens-04",
-    "norad_id":null,
+    "norad_id":"65943",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -8262,7 +8284,7 @@
   },
   {
     "name":"GHS-01",
-    "norad_id":"65731",
+    "norad_id":"65733",
     "uplink":null,
     "downlink":"437.090",
     "beacon":"437.090",
@@ -10836,12 +10858,12 @@
   },
   {
     "name":"IWATO",
-    "norad_id":null,
+    "norad_id":"65942",
     "uplink":null,
     "downlink":"145.840",
     "beacon":null,
     "mode":"1k2AFSK 9K6GMSK CW",
-    "callsign":null,
+    "callsign":"JL3ZPN",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -11426,6 +11448,17 @@
     "mode":"1k2AFSK 9k6GMSK CW",
     "callsign":null,
     "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"KOSEN-2R",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.750",
+    "beacon":"436.750",
+    "mode":"1k2AFSK 9k6GMSK CW",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -12309,6 +12342,17 @@
     "satnogs_id":null
   },
   {
+    "name":"MAGNARO-II",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.850\/436.325",
+    "beacon":"436.325",
+    "mode":"1k2AFSK 9k6GMSK 19k2GMSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"MakerSat-0",
     "norad_id":"43016",
     "uplink":null,
@@ -12934,6 +12978,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"PJTC-6029-0615-1270-1207"
+  },
+  {
+    "name":"Mono-Nikko",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Moonlighter",
@@ -14591,7 +14646,7 @@
     "uplink":null,
     "downlink":"437.505\/5840.000",
     "beacon":"437.497",
-    "mode":"1200bps AFSK CW",
+    "mode":"1k2_AFSK CW",
     "callsign":"JS1YAX",
     "status":"re-entered",
     "satnogs_id":"FTGL-8131-7728-0174-9617"
@@ -14602,7 +14657,7 @@
     "uplink":null,
     "downlink":"437.505\/5840.000",
     "beacon":"437.505",
-    "mode":"1k2AFSK BPSK QPSK CW",
+    "mode":"1k2_AFSK BPSK QPSK CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -15673,6 +15728,17 @@
     "callsign":"PRATHAM",
     "status":"inactive",
     "satnogs_id":"BVPV-2085-0638-3310-5387"
+  },
+  {
+    "name":"PRELUDE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"PRETTY",
@@ -19614,7 +19680,7 @@
   },
   {
     "name":"STARS-Me2",
-    "norad_id":"65733",
+    "norad_id":"65731",
     "uplink":null,
     "downlink":"437.400",
     "beacon":"437.350",
@@ -22502,7 +22568,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":"UPMST2",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UCSJ-1439-6113-9699-8457"
   },
   {
@@ -23009,6 +23075,17 @@
     "mode":"1k2FSK CW",
     "callsign":null,
     "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"WASEDA-SAT-ZERO-II",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.200",
+    "beacon":"437.200",
+    "mode":"1k2FSK CW",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -23552,9 +23629,9 @@
   },
   {
     "name":"YOTSUBA-KULOVER",
-    "norad_id":null,
+    "norad_id":"65941",
     "uplink":null,
-    "downlink":"437.375",
+    "downlink":"400.960\/437.375",
     "beacon":"437.375",
     "mode":"4k8_GMSK CW",
     "callsign":null,
