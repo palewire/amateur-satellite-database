@@ -2752,8 +2752,8 @@
   {
     "name":"BOTAN",
     "norad_id":"65943",
-    "uplink":"145.825",
-    "downlink":"437.375",
+    "uplink":null,
+    "downlink":"145.825\/437.375*",
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YPT",
@@ -23631,9 +23631,9 @@
     "name":"YOTSUBA-KULOVER",
     "norad_id":"65941",
     "uplink":null,
-    "downlink":"400.960\/437.375",
-    "beacon":"437.375",
-    "mode":"4k8_GMSK CW",
+    "downlink":"400.960",
+    "beacon":null,
+    "mode":"4k8_GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

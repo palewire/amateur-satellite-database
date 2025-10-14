@@ -18970,10 +18970,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -57295,21 +57295,21 @@
     "sat_id":"XLMW-8572-5630-2261-9465",
     "norad_cat_id":64558.0,
     "norad_follow_id":null,
-    "name":"Object AG",
+    "name":"QUICK\u00b3",
     "names":"2025-135AG",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2025-06-23T00:00:00Z",
     "deployed":"2025-06-23T00:00:00Z",
-    "website":"",
+    "website":"https:\/\/www.quick3.de\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-09-02T13:39:51.909346Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1FKk4AXE7TDQkVR95Zeko6Htxzn_CTNIRL7B-AZDBjf4\/edit?usp=sharing",
+    "updated":"2025-10-14T11:14:41.729686Z",
+    "citation":"https:\/\/www.quick3.de\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
