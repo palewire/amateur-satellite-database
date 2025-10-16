@@ -57218,7 +57218,7 @@
   {
     "sat_id":"PHOX-2063-1951-4466-3756",
     "norad_cat_id":98543.0,
-    "norad_follow_id":65943.0,
+    "norad_follow_id":65942.0,
     "name":"BOTAN",
     "names":"JS1YPT",
     "image":"satellites\/DSC_3451_M7LlLPt.JPG",
@@ -57234,8 +57234,8 @@
         "decoder":"botan"
       }
     ],
-    "updated":"2025-10-12T07:25:52.652692Z",
-    "citation":"space-track.org",
+    "updated":"2025-10-15T13:10:50.713590Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57704,7 +57704,7 @@
   {
     "sat_id":"NKES-5884-4663-7598-3201",
     "norad_cat_id":98534.0,
-    "norad_follow_id":65942.0,
+    "norad_follow_id":65943.0,
     "name":"e-kagaku-1",
     "names":"IWATO, JL3ZPN",
     "image":"satellites\/e-kagaku-1.jpg",
@@ -57718,8 +57718,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-12T07:25:52.593693Z",
-    "citation":"space-track.org",
+    "updated":"2025-10-15T13:17:23.027671Z",
+    "citation":"65942 fits BOTAN based on Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
