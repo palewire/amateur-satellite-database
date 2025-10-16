@@ -341,7 +341,7 @@
   },
   {
     "name":"BOTAN",
-    "norad_id":"65943",
+    "norad_id":"65942",
     "uplink":null,
     "downlink":"145.825\/437.375*",
     "beacon":"437.375",
@@ -1391,7 +1391,7 @@
   },
   {
     "name":"Gardens-04",
-    "norad_id":"65943",
+    "norad_id":"65942",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",

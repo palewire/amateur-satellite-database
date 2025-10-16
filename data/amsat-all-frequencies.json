@@ -2751,7 +2751,7 @@
   },
   {
     "name":"BOTAN",
-    "norad_id":"65943",
+    "norad_id":"65942",
     "uplink":null,
     "downlink":"145.825\/437.375*",
     "beacon":"437.375",
@@ -6964,7 +6964,7 @@
   },
   {
     "name":"e-kagaku-1",
-    "norad_id":"65942",
+    "norad_id":"65943",
     "uplink":null,
     "downlink":"145.840",
     "beacon":null,
@@ -7987,7 +7987,7 @@
   },
   {
     "name":"Gardens-04",
-    "norad_id":"65943",
+    "norad_id":"65942",
     "uplink":"145.825",
     "downlink":"437.375",
     "beacon":"437.375",
@@ -10858,7 +10858,7 @@
   },
   {
     "name":"IWATO",
-    "norad_id":"65942",
+    "norad_id":"65943",
     "uplink":null,
     "downlink":"145.840",
     "beacon":null,

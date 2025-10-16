@@ -57234,8 +57234,8 @@
         "decoder":"botan"
       }
     ],
-    "updated":"2025-10-15T13:10:50.713590Z",
-    "citation":"Network observations",
+    "updated":"2025-10-16T11:54:13.177554Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/botan\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57888,6 +57888,54 @@
     ],
     "updated":"2025-10-13T11:40:40.894520Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1Yfo_a1LRoP8l-OozJIMcGkHnfyCP1EUqaXc6cEYYpfg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CAOL-2416-3135-3240-8425",
+    "norad_cat_id":98531.0,
+    "norad_follow_id":null,
+    "name":"GXIBA-1",
+    "names":"",
+    "image":"satellites\/250912_GXIBA.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-10-20T02:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/upaep.mx\/gxiba",
+    "operator":"None",
+    "countries":"MX",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-16T11:53:41.049673Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SCWJ-8858-4107-1493-6553",
+    "norad_cat_id":98532.0,
+    "norad_follow_id":null,
+    "name":"KNACKSAT-2",
+    "names":"",
+    "image":"satellites\/Knacksat-2_5.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-10-21T00:01:59Z",
+    "deployed":null,
+    "website":"https:\/\/insted.kmutnb.ac.th\/KNACKSAT-2.html",
+    "operator":"None",
+    "countries":"TH",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-16T11:53:08.196305Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
