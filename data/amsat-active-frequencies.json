@@ -317,7 +317,7 @@
     "beacon":"437.375",
     "mode":"4800bps GMSK APRS CW*",
     "callsign":"JG6YOW",
-    "satnogs_id":null
+    "satnogs_id":"DWWV-4312-0144-3164-0720"
   },
   {
     "name":"BisonSat",
@@ -347,7 +347,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YPT",
-    "satnogs_id":null
+    "satnogs_id":"PHOX-2063-1951-4466-3756"
   },
   {
     "name":"BOTSAT-1",
@@ -1107,7 +1107,7 @@
     "beacon":"437.375",
     "mode":"4800bps GMSK APRS CW*",
     "callsign":"JG6YOW",
-    "satnogs_id":null
+    "satnogs_id":"DWWV-4312-0144-3164-0720"
   },
   {
     "name":"Duchifat-1",
@@ -1397,7 +1397,7 @@
     "beacon":"437.375",
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"PHOX-2063-1951-4466-3756"
   },
   {
     "name":"Geoscan-1",

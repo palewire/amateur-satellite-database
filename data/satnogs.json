@@ -6034,8 +6034,8 @@
     "name":"ZHUHAI-1 OVS-1B",
     "names":"CAS 4B",
     "image":"satellites\/cas-4-satellite_27im88Z.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-15T00:00:00Z",
     "launched":"2017-06-15T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -6046,8 +6046,8 @@
         "decoder":"cas4"
       }
     ],
-    "updated":"2022-04-25T16:24:15.759472Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-10-17T21:34:23.730073Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=42759",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -14818,8 +14818,8 @@
     "name":"LEDSAT",
     "names":"",
     "image":"satellites\/ledsat.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-15T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/www.s5lab.space\/index.php\/ledsat-home\/",
@@ -14830,8 +14830,8 @@
         "decoder":"ledsat"
       }
     ],
-    "updated":"2023-06-19T04:34:43.729441Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-49069\/2021-08-22T11%3A20%3A00_4608735_49069_21073D_0-OBJECT-D_0.28404435222222446_B_r29.0_f0.0.png",
+    "updated":"2025-10-17T21:35:09.707305Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=49069",
     "is_frequency_violator":false,
     "associated_satellites":[
       "UETP-9374-3176-7626-2861",
@@ -57217,8 +57217,8 @@
   },
   {
     "sat_id":"PHOX-2063-1951-4466-3756",
-    "norad_cat_id":98543.0,
-    "norad_follow_id":65942.0,
+    "norad_cat_id":65942.0,
+    "norad_follow_id":null,
     "name":"BOTAN",
     "names":"JS1YPT",
     "image":"satellites\/DSC_3451_M7LlLPt.JPG",
@@ -57234,11 +57234,11 @@
         "decoder":"botan"
       }
     ],
-    "updated":"2025-10-16T11:54:13.177554Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/botan\/",
+    "updated":"2025-10-17T20:34:27.082185Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-33-2025-10-10-09-50-utc\/13840\/55",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "TLDL-5520-5897-5856-7638"
     ]
   },
   {
@@ -57341,8 +57341,8 @@
   },
   {
     "sat_id":"DWWV-4312-0144-3164-0720",
-    "norad_cat_id":98539.0,
-    "norad_follow_id":65729.0,
+    "norad_cat_id":65729.0,
+    "norad_follow_id":null,
     "name":"Dragonfly",
     "names":"JG6YOW",
     "image":"satellites\/Dragonfly.jpg",
@@ -57358,11 +57358,11 @@
         "decoder":"dragonfly"
       }
     ],
-    "updated":"2025-10-04T17:26:24.806302Z",
-    "citation":"Random choice",
+    "updated":"2025-10-17T21:08:34.176111Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-32-2025-09-19\/13705\/129",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "DKNK-8081-1202-2570-6966"
     ]
   },
   {

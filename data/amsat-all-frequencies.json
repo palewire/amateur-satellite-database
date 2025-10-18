@@ -2615,7 +2615,7 @@
     "mode":"4800bps GMSK APRS CW*",
     "callsign":"JG6YOW",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"DWWV-4312-0144-3164-0720"
   },
   {
     "name":"BIROS",
@@ -2758,7 +2758,7 @@
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":"JS1YPT",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"PHOX-2063-1951-4466-3756"
   },
   {
     "name":"BOTSAT-1",
@@ -4675,6 +4675,17 @@
     "satnogs_id":"ZKYN-9221-2374-5641-3454"
   },
   {
+    "name":"CORAL",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"CORVUS-BC2",
     "norad_id":"42846",
     "uplink":null,
@@ -6069,7 +6080,7 @@
     "mode":"4800bps GMSK APRS CW*",
     "callsign":"JG6YOW",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"DWWV-4312-0144-3164-0720"
   },
   {
     "name":"DRAGONSat",
@@ -7994,7 +8005,7 @@
     "mode":"1k2AFSK 4k8*GMSK APRS CW*",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"PHOX-2063-1951-4466-3756"
   },
   {
     "name":"GASPACS",
@@ -8536,6 +8547,17 @@
     "satnogs_id":"XGOP-6666-1396-1633-1810"
   },
   {
+    "name":"Gxiba-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.300",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"HADES",
     "norad_id":"51080",
     "uplink":"145.925",
@@ -8886,6 +8908,17 @@
     "callsign":"JQ1YCX",
     "status":"re-entered",
     "satnogs_id":"VAJK-7711-8203-8371-3078"
+  },
+  {
+    "name":"HMU-SAT2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Hoopoe",
@@ -11396,6 +11429,17 @@
     "satnogs_id":null
   },
   {
+    "name":"KNACKSAT-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Kolibri-S",
     "norad_id":"61746",
     "uplink":null,
@@ -11878,6 +11922,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"CVWL-5147-2655-6759-5452"
+  },
+  {
+    "name":"LEOPARD",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"LEV-1",
@@ -21956,7 +22011,7 @@
     "satnogs_id":"BVAM-1721-9431-5775-2144"
   },
   {
-    "name":"UiTMSat-1",
+    "name":"UiTMSAT-1",
     "norad_id":"43589",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
@@ -21965,6 +22020,17 @@
     "callsign":"JG6YKN",
     "status":"inactive",
     "satnogs_id":"AWFF-8025-3088-3256-6290"
+  },
+  {
+    "name":"UiTMSAT-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"45.825\/437.375",
+    "beacon":null,
+    "mode":"4800bps GMSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Ukpik-1",
