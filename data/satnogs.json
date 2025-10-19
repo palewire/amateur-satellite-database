@@ -6060,8 +6060,8 @@
     "name":"ZHUHAI-1 OVS-01",
     "names":"CAS 4A, BJ1SK",
     "image":"satellites\/ovs-1__1_NnIrDeS.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-09T00:00:00Z",
     "launched":"2017-06-15T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -6072,8 +6072,8 @@
         "decoder":"cas4"
       }
     ],
-    "updated":"2025-08-04T07:08:48.456083Z",
-    "citation":"dl7ndr",
+    "updated":"2025-10-18T15:15:55.385641Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=42761",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -12603,8 +12603,8 @@
     "name":"Aurora",
     "names":"AstroDigital Demo 9",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-16T00:00:00Z",
     "launched":"2021-06-30T19:31:00Z",
     "deployed":null,
     "website":"https:\/\/www.orbitalsidekick.com\/",
@@ -12613,8 +12613,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T15:55:40.376203Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-10-18T15:11:11.300407Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48956",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -16592,7 +16592,7 @@
     "name":"OSM-1 CICERO",
     "names":"TYVAK-0088",
     "image":"satellites\/cicero__2_qpFfxvw.jpg",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":"2025-08-31T00:00:00Z",
     "launched":"2020-09-03T00:00:00Z",
     "deployed":null,
@@ -16602,8 +16602,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-09-05T06:27:57.243445Z",
-    "citation":"space-track.org last TLE",
+    "updated":"2025-10-18T15:10:40.065457Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=46294",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19889,8 +19889,8 @@
     "name":"Platform-1",
     "names":"SharedSat_2141",
     "image":"satellites\/platform-1_FV4MP08.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-09-25T00:00:00Z",
     "launched":"2022-05-25T18:35:00Z",
     "deployed":null,
     "website":"",
@@ -19899,8 +19899,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-09T14:14:23.477332Z",
-    "citation":"Platform-1 (also known as SharedSat_2141) is a commercial mission by EnduroSat providing access to Space for several customer payloads for Earth Observation and data processing. In addition to its control and data downlink channels, it emits periodic beacons in AX.25 format in the commercial UHF range.",
+    "updated":"2025-10-18T15:10:26.281922Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28315,8 +28315,8 @@
     "name":"Tianping 1B",
     "names":"2018-094E",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-16T00:00:00Z",
     "launched":"2018-11-19T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/twitter.com\/planet4589\/status\/1064684586117054469",
@@ -28325,8 +28325,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-08T15:44:56.755925Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-10-18T15:09:39.195470Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43714",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -28459,8 +28459,8 @@
     "name":"Astrocast-0304",
     "names":"2022-158G",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-08-25T00:00:00Z",
     "launched":"2022-11-26T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.astrocast.com\/",
@@ -28469,8 +28469,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-15T19:34:58.502653Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1ahwidPbIcHw7dpVBGTWkClI8DLEAbUnNLjhggt20rnQ\/edit?usp=sharing",
+    "updated":"2025-10-18T15:08:55.362192Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=54367",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30797,8 +30797,8 @@
     "name":"Connecta T2.1",
     "names":"",
     "image":"satellites\/connectat21.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-14T00:00:00Z",
     "launched":"2023-04-15T06:47:00Z",
     "deployed":"2023-04-15T07:51:08Z",
     "website":"https:\/\/www.plan.space\/technology\/connecta-t2-1",
@@ -30807,8 +30807,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-04-23T18:15:50.176541Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-56210\/2023-04-22T21%3A37%3A52_7447272_56210_23054AJ_0-OBJECT-AJ_0.08528260629628903_B_r29.0_f0.0.png",
+    "updated":"2025-10-18T15:08:41.577302Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32006,8 +32006,8 @@
     "name":"Astrocast-0302",
     "names":"2022-158J",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-09-12T00:00:00Z",
     "launched":"2022-11-26T00:00:00Z",
     "deployed":"2022-11-26T00:00:00Z",
     "website":"",
@@ -32016,8 +32016,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-15T17:35:28.798126Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/18bZN2fPshnGa5jN0LlY4sM1yU7S7qaqSz7HN5w5TvIw\/edit?usp=sharing",
+    "updated":"2025-10-18T15:07:53.140800Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -34678,8 +34678,8 @@
     "name":"W-Cube",
     "names":"2021-059CQ",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-01T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":"2021-06-30T00:00:00Z",
     "website":"",
@@ -34688,8 +34688,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-14T13:06:09.992757Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1dGCPFOvNtcxVQt8ApbMnzySto6newxaT4c2uhDZYYUo\/edit?usp=sharing",
+    "updated":"2025-10-18T15:07:16.172919Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48965",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -38546,8 +38546,8 @@
     "name":"Connecta T3.2",
     "names":"",
     "image":"satellites\/connecta_T_3_2_.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-09-13T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:48:00Z",
     "website":"https:\/\/www.plan.space\/",
@@ -38556,8 +38556,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T01:12:01.553524Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58268\/2023-12-04T21%3A44%3A24_8648877_58268_23174N_0-OBJECT-N_0.33782579333330887_B_r24.0_f0.0.png",
+    "updated":"2025-10-18T15:07:01.642416Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=58268",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41648,8 +41648,8 @@
     "name":"KSF3-D",
     "names":"2023-001CE",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-10T00:00:00Z",
     "launched":"2023-01-03T00:00:00Z",
     "deployed":"2023-01-03T00:00:00Z",
     "website":"",
@@ -41658,8 +41658,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-18T16:10:32.718589Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/140Bbwq-pkKuIy_absaZA5XFiHA4GWAw7MF81sCBJWCo\/edit?usp=sharing",
+    "updated":"2025-10-18T15:06:04.386081Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=55085",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -54968,8 +54968,8 @@
     "name":"Object B",
     "names":"2023-081B",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-09-09T00:00:00Z",
     "launched":"2023-06-07T00:00:00Z",
     "deployed":"2023-06-07T00:00:00Z",
     "website":"",
@@ -54978,8 +54978,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-05-21T09:42:23.535212Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1n1486pZI9tz04inOPg8xv8IK8Zy6OMXZ_ci1xxxwMG8\/edit?usp=sharing",
+    "updated":"2025-10-18T15:05:49.510265Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56847",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56548,8 +56548,8 @@
     "name":"Object AE",
     "names":"2023-06-15",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-09T00:00:00Z",
     "launched":"2023-06-15T00:00:00Z",
     "deployed":"2023-06-15T00:00:00Z",
     "website":"",
@@ -56558,8 +56558,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-07T08:02:13.258214Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/11a5LsfGVnVvDvtsM3FoIwMSU1GQl84VgItLCAn8OyLE\/edit?usp=sharing",
+    "updated":"2025-10-18T15:05:34.708397Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56836,8 +56836,8 @@
     "name":"Object F",
     "names":"2023-081F",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-09-06T00:00:00Z",
     "launched":"2023-07-07T00:00:00Z",
     "deployed":"2023-07-07T00:00:00Z",
     "website":"",
@@ -56846,8 +56846,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-20T07:54:10.373864Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1QVwOQW8c1GYAlEnEtxWs3iIev2jPb6cFoBpry2or08w\/edit?usp=sharing",
+    "updated":"2025-10-18T15:04:42.282765Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56851",
     "is_frequency_violator":false,
     "associated_satellites":[
 
