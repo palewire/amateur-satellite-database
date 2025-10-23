@@ -57940,5 +57940,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"DIHG-1236-7880-5134-7678",
+    "norad_cat_id":65055.0,
+    "norad_follow_id":null,
+    "name":"PRSC-S1",
+    "names":"2025-164A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-07-31T00:00:00Z",
+    "deployed":"2025-07-31T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-23T06:48:05.579716Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1zVr6uhG1op_HCJLz656T6fxXfsZxQuGw5qKkNPcg-bU\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
