@@ -20,16 +20,6 @@
     "satnogs_id":"RNAT-4607-0106-2995-6819"
   },
   {
-    "name":"AAUSAT-2",
-    "norad_id":"32788",
-    "uplink":null,
-    "downlink":"437.426",
-    "beacon":null,
-    "mode":"1k2*MSK 9k6 FSK",
-    "callsign":"OZ2CUB",
-    "satnogs_id":"IMKY-8694-8138-3077-8494"
-  },
-  {
     "name":"AISTECHSAT-2",
     "norad_id":"43768",
     "uplink":null,
@@ -2120,16 +2110,6 @@
     "satnogs_id":null
   },
   {
-    "name":"LEDSAT",
-    "norad_id":"49069",
-    "uplink":"435.310",
-    "downlink":"435.190",
-    "beacon":null,
-    "mode":"1k2\/9k6* FSK Digipeater",
-    "callsign":null,
-    "satnogs_id":"JLZT-0277-4784-7719-1707"
-  },
-  {
     "name":"LEV-1",
     "norad_id":"57800",
     "uplink":null,
@@ -2208,16 +2188,6 @@
     "mode":"1200bps BPSK SSB",
     "callsign":null,
     "satnogs_id":"ANJN-0857-0652-4935-2307"
-  },
-  {
-    "name":"MeznSat",
-    "norad_id":"46489",
-    "uplink":null,
-    "downlink":"436.600",
-    "beacon":null,
-    "mode":"1k2-9k6* BPSK",
-    "callsign":"A68MZ",
-    "satnogs_id":"HXPT-8292-6749-4283-2496"
   },
   {
     "name":"MIMAN",
@@ -3080,86 +3050,6 @@
     "satnogs_id":"QBAD-3953-1599-8847-5828"
   },
   {
-    "name":"SITRO-AIS-29",
-    "norad_id":"59052",
-    "uplink":null,
-    "downlink":"401.360",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2317",
-    "satnogs_id":"IUVT-1138-3100-5867-8561"
-  },
-  {
-    "name":"SITRO-AIS-30",
-    "norad_id":"59053",
-    "uplink":null,
-    "downlink":"401.020",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2318",
-    "satnogs_id":"DQXO-6715-7220-7746-2829"
-  },
-  {
-    "name":"SITRO-AIS-31",
-    "norad_id":"59054",
-    "uplink":null,
-    "downlink":"401.040",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2319",
-    "satnogs_id":"MJYG-1305-3322-9647-4171"
-  },
-  {
-    "name":"SITRO-AIS-32",
-    "norad_id":"59057",
-    "uplink":null,
-    "downlink":"401.060",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2320",
-    "satnogs_id":"AHIQ-6261-1381-9151-8638"
-  },
-  {
-    "name":"SITRO-AIS-33",
-    "norad_id":"59055",
-    "uplink":null,
-    "downlink":"401.080",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2321",
-    "satnogs_id":"ZRBN-5589-4326-3586-7443"
-  },
-  {
-    "name":"SITRO-AIS-34",
-    "norad_id":"59058",
-    "uplink":null,
-    "downlink":"401.100",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2322",
-    "satnogs_id":"GWGI-3233-9228-6755-9737"
-  },
-  {
-    "name":"SITRO-AIS-35",
-    "norad_id":"59056",
-    "uplink":null,
-    "downlink":"401.120",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2323",
-    "satnogs_id":"OBMG-8045-5635-2816-6327"
-  },
-  {
-    "name":"SITRO-AIS-36",
-    "norad_id":"59059",
-    "uplink":null,
-    "downlink":"401.140",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2324",
-    "satnogs_id":"GZOI-5873-1458-3880-9802"
-  },
-  {
     "name":"SITRO-AIS-37",
     "norad_id":"61780",
     "uplink":null,
@@ -3280,26 +3170,6 @@
     "satnogs_id":"TFFQ-6286-4853-7503-3720"
   },
   {
-    "name":"SITRO-AIS-49",
-    "norad_id":"59060",
-    "uplink":null,
-    "downlink":"401.160",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2337",
-    "satnogs_id":"AHLL-7972-4412-3002-1177"
-  },
-  {
-    "name":"SITRO-AIS-50",
-    "norad_id":"59061",
-    "uplink":null,
-    "downlink":"401.180",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2338",
-    "satnogs_id":"NEBP-5184-1083-8938-2249"
-  },
-  {
     "name":"SITRO-AIS-51",
     "norad_id":"59062",
     "uplink":null,
@@ -3308,16 +3178,6 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2339",
     "satnogs_id":"QXYV-7911-9423-9188-9035"
-  },
-  {
-    "name":"SITRO-AIS-52",
-    "norad_id":"59063",
-    "uplink":null,
-    "downlink":"401.220",
-    "beacon":null,
-    "mode":"2k4 GMSK_USP",
-    "callsign":"SC2340",
-    "satnogs_id":"DOGC-7624-8359-4736-1321"
   },
   {
     "name":"SITRO-AIS-53",
