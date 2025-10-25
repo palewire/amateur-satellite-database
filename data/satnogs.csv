@@ -449,7 +449,7 @@ IWFP-4808-8766-5041-0735,46491.0,,YARILO-2,,,re-entered,2025-02-12T00:00:00Z,,,,
 LBLF-9256-3450-0417-4224,46493.0,,DEKART,,,alive,,,,,None,RU,[],2021-07-21T10:11:42.835393Z,CITATION NEEDED - https://xkcd.com/285/,True,[]
 DNNN-7162-2135-4056-8903,46494.0,,NORBI,NORBY,,alive,,,,,None,RU,[],2021-07-21T10:11:42.836824Z,CITATION NEEDED - https://xkcd.com/285/,True,[]
 CWCJ-6029-4779-5201-8503,46495.0,,SALSAT,DP0WER,satellites/csm_Mission_Patch_cut_829a68e1ee.png,alive,,2020-09-28T11:20:32Z,2020-09-28T14:46:12Z,https://www.tu.berlin/forschen/satellitenmission-salsat,TU Berlin,DE,[{'decoder': 'salsat'}],2023-01-06T06:58:32.770421Z,https://www.space.tu-berlin.de/menue/research/current_projects/salsat/,False,[]
-KPFF-6607-7806-3530-0376,46504.0,,NETSAT 4,,satellites/netsat__1_lwntwlx.jpg,alive,,,,,None,DE,[{'decoder': 'netsat'}],2021-07-21T10:11:42.840424Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+KPFF-6607-7806-3530-0376,46504.0,,NETSAT 4,,satellites/netsat__1_lwntwlx.jpg,alive,,2020-09-28T00:00:00Z,,,None,DE,[{'decoder': 'netsat'}],2025-10-25T11:50:23.573166Z,https://community.libre.space/t/soyuz-2-1b-fregat-m-2020-09-28/6727,False,[]
 PDZV-7495-4443-2585-1990,46505.0,,NETSAT 3,,satellites/netsat__1_268tUmv.jpg,alive,,,,,None,DE,[{'decoder': 'netsat'}],2021-07-21T10:11:42.841926Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 OZSW-9908-0796-8166-3293,46506.0,,NETSAT 1,,satellites/netsat__1.jpg,alive,,,,,None,DE,[{'decoder': 'netsat'}],2021-07-21T10:11:42.843368Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
 DBTP-4321-2218-3495-4829,46507.0,,NETSAT 2,,satellites/netsat__1_wb3WWyF.jpg,alive,,,,,None,DE,[{'decoder': 'netsat'}],2021-07-21T10:11:42.844842Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
@@ -2397,3 +2397,4 @@ UZCM-7531-2216-8681-8632,58849.0,,Object A,2024-018A,,alive,,2024-01-28T00:00:00
 CAOL-2416-3135-3240-8425,98531.0,,GXIBA-1,,satellites/250912_GXIBA.jpg,future,,2025-10-20T02:00:00Z,,https://upaep.mx/gxiba,None,MX,[],2025-10-16T11:53:41.049673Z,Add temporary NORAD ID,False,[]
 SCWJ-8858-4107-1493-6553,98532.0,,KNACKSAT-2,,satellites/Knacksat-2_5.jpg,future,,2025-10-21T00:01:59Z,,https://insted.kmutnb.ac.th/KNACKSAT-2.html,None,TH,[],2025-10-16T11:53:08.196305Z,Add temporary NORAD ID,False,[]
 DIHG-1236-7880-5134-7678,65055.0,,PRSC-S1,2025-164A,,alive,,2025-07-31T00:00:00Z,2025-07-31T00:00:00Z,,None,CN,[],2025-10-23T06:48:05.579716Z,https://docs.google.com/document/d/1zVr6uhG1op_HCJLz656T6fxXfsZxQuGw5qKkNPcg-bU/edit?usp=sharing,False,[]
+UQTL-8834-3656-1268-4500,,,CyBEEsat,,,future,,,,,TU Berlin,DE,[],2025-10-25T11:49:13.806042Z,https://event.dlr.de/en/ila2022/cybeesat/,False,[]

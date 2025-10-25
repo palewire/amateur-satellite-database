@@ -10956,7 +10956,7 @@
     "image":"satellites\/netsat__1_lwntwlx.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2020-09-28T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -10966,8 +10966,8 @@
         "decoder":"netsat"
       }
     ],
-    "updated":"2021-07-21T10:11:42.840424Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-10-25T11:50:23.573166Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-m-2020-09-28\/6727",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57960,6 +57960,30 @@
     ],
     "updated":"2025-10-23T06:48:05.579716Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1zVr6uhG1op_HCJLz656T6fxXfsZxQuGw5qKkNPcg-bU\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UQTL-8834-3656-1268-4500",
+    "norad_cat_id":null,
+    "norad_follow_id":null,
+    "name":"CyBEEsat",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"TU Berlin",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-25T11:49:13.806042Z",
+    "citation":"https:\/\/event.dlr.de\/en\/ila2022\/cybeesat\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
