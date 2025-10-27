@@ -4682,7 +4682,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8554,7 +8554,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8917,7 +8917,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -9314,7 +9314,7 @@
     "mode":"200bps USB CW",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"IGAK-0188-0460-8755-4255"
   },
   {
     "name":"HYDRA-W",
@@ -11436,7 +11436,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -11931,7 +11931,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -20918,7 +20918,7 @@
     "beacon":"435.895",
     "mode":"4k8-38k4_GMSK 38k4_4FSK Digitalker",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -20929,7 +20929,7 @@
     "beacon":"5839.000",
     "mode":"CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -22029,7 +22029,7 @@
     "beacon":null,
     "mode":"4800bps GMSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {

@@ -52774,8 +52774,8 @@
   },
   {
     "sat_id":"IGAK-0188-0460-8755-4255",
-    "norad_cat_id":98655.0,
-    "norad_follow_id":62692.0,
+    "norad_cat_id":62692.0,
+    "norad_follow_id":null,
     "name":"HYDRA-T",
     "names":"",
     "image":"satellites\/HYDRA-T.jpg",
@@ -52789,11 +52789,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-24T12:29:25.058378Z",
-    "citation":"STRF Measurement",
+    "updated":"2025-10-27T09:37:42.245418Z",
+    "citation":"Remove \"Followed Norad ID\" field",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "JVCA-7248-9153-2946-4916"
     ]
   },
   {
@@ -57967,7 +57967,7 @@
   },
   {
     "sat_id":"UQTL-8834-3656-1268-4500",
-    "norad_cat_id":null,
+    "norad_cat_id":98528.0,
     "norad_follow_id":null,
     "name":"CyBEEsat",
     "names":"",
@@ -57982,8 +57982,56 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-25T11:49:13.806042Z",
-    "citation":"https:\/\/event.dlr.de\/en\/ila2022\/cybeesat\/",
+    "updated":"2025-10-27T09:49:13.279086Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KVUS-0486-2614-8565-9913",
+    "norad_cat_id":98530.0,
+    "norad_follow_id":null,
+    "name":"PHASMA LAMARR",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-10T00:00:00Z",
+    "deployed":"2025-11-10T00:00:00Z",
+    "website":"https:\/\/gitlab.com\/librespacefoundation\/phasma",
+    "operator":"None",
+    "countries":"GR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-27T09:48:18.513629Z",
+    "citation":"https:\/\/libre.space\/projects\/phasma\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GPEA-4779-0511-8218-9913",
+    "norad_cat_id":98529.0,
+    "norad_follow_id":null,
+    "name":"PHASMA DIRAC",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-10T00:00:00Z",
+    "deployed":"2025-11-10T00:00:00Z",
+    "website":"https:\/\/libre.space\/projects\/phasma\/",
+    "operator":"None",
+    "countries":"GR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-27T09:48:22.258883Z",
+    "citation":"https:\/\/libre.space\/projects\/phasma\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
