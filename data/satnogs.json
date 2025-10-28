@@ -57993,9 +57993,9 @@
     "sat_id":"KVUS-0486-2614-8565-9913",
     "norad_cat_id":98530.0,
     "norad_follow_id":null,
-    "name":"PHASMA LAMARR",
+    "name":"PHASMA-LAMARR",
     "names":"",
-    "image":"",
+    "image":"satellites\/PHASMA-1.png",
     "status":"future",
     "decayed":null,
     "launched":"2025-11-10T00:00:00Z",
@@ -58006,8 +58006,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-27T09:48:18.513629Z",
-    "citation":"https:\/\/libre.space\/projects\/phasma\/",
+    "updated":"2025-10-27T14:50:36.762031Z",
+    "citation":"proper name and image",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58017,9 +58017,9 @@
     "sat_id":"GPEA-4779-0511-8218-9913",
     "norad_cat_id":98529.0,
     "norad_follow_id":null,
-    "name":"PHASMA DIRAC",
+    "name":"PHASMA-DIRAC",
     "names":"",
-    "image":"",
+    "image":"satellites\/PHASMA-1_B9RaTzC.png",
     "status":"future",
     "decayed":null,
     "launched":"2025-11-10T00:00:00Z",
@@ -58030,8 +58030,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-27T09:48:22.258883Z",
-    "citation":"https:\/\/libre.space\/projects\/phasma\/",
+    "updated":"2025-10-27T14:51:07.540716Z",
+    "citation":"phasma image",
     "is_frequency_violator":false,
     "associated_satellites":[
 
