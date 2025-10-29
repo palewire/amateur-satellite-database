@@ -57970,8 +57970,8 @@
     "norad_cat_id":98528.0,
     "norad_follow_id":null,
     "name":"CyBEEsat",
-    "names":"",
-    "image":"",
+    "names":"TUBSAT-32",
+    "image":"satellites\/CyBEEsat_FM.jpeg",
     "status":"future",
     "decayed":null,
     "launched":null,
@@ -57982,8 +57982,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-27T09:49:13.279086Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-10-28T18:41:21.382358Z",
+    "citation":"Jens Freymuth",
     "is_frequency_violator":false,
     "associated_satellites":[
 
