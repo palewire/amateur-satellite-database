@@ -58036,5 +58036,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"BMYD-8328-6159-7072-4807",
+    "norad_cat_id":98527.0,
+    "norad_follow_id":null,
+    "name":"Black Kite-1",
+    "names":"8U RIoT-1",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-30T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/rapidtek.net\/en\/satellite",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-30T06:54:46.006515Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
