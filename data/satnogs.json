@@ -58060,5 +58060,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"OKGA-8851-7796-3537-9901",
+    "norad_cat_id":98526.0,
+    "norad_follow_id":null,
+    "name":"CEVROSAT1",
+    "names":"",
+    "image":"satellites\/Cevrosat1.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-02T05:09:00Z",
+    "deployed":"2025-11-02T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CZ",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-30T14:55:42.190412Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

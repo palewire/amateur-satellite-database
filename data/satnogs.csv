@@ -2401,3 +2401,4 @@ UQTL-8834-3656-1268-4500,98528.0,,CyBEEsat,TUBSAT-32,satellites/CyBEEsat_FM.jpeg
 KVUS-0486-2614-8565-9913,98530.0,,PHASMA-LAMARR,,satellites/PHASMA-1.png,future,,2025-11-10T00:00:00Z,2025-11-10T00:00:00Z,https://gitlab.com/librespacefoundation/phasma,None,GR,[],2025-10-27T14:50:36.762031Z,proper name and image,False,[]
 GPEA-4779-0511-8218-9913,98529.0,,PHASMA-DIRAC,,satellites/PHASMA-1_B9RaTzC.png,future,,2025-11-10T00:00:00Z,2025-11-10T00:00:00Z,https://libre.space/projects/phasma/,None,GR,[],2025-10-27T14:51:07.540716Z,phasma image,False,[]
 BMYD-8328-6159-7072-4807,98527.0,,Black Kite-1,8U RIoT-1,,future,,2025-11-30T00:00:00Z,,https://rapidtek.net/en/satellite,None,TW,[],2025-10-30T06:54:46.006515Z,Add temporary NORAD ID,False,[]
+OKGA-8851-7796-3537-9901,98526.0,,CEVROSAT1,,satellites/Cevrosat1.jpg,future,,2025-11-02T05:09:00Z,2025-11-02T00:00:00Z,,None,CZ,[],2025-10-30T14:55:42.190412Z,Add temporary NORAD ID,False,[]
