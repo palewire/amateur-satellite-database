@@ -4268,6 +4268,17 @@
     "satnogs_id":"WRLU-1723-6543-5361-0506"
   },
   {
+    "name":"CEVROSAT1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.025",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Challenger",
     "norad_id":"42721",
     "uplink":null,

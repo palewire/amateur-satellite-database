@@ -58071,15 +58071,63 @@
     "status":"future",
     "decayed":null,
     "launched":"2025-11-02T05:09:00Z",
-    "deployed":"2025-11-02T00:00:00Z",
+    "deployed":"2025-11-01T01:18:30Z",
     "website":"",
     "operator":"None",
     "countries":"CZ",
     "telemetries":[
 
     ],
-    "updated":"2025-10-30T14:55:42.190412Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-10-31T11:18:48.992368Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JIKF-4308-0800-7269-0673",
+    "norad_cat_id":66054.0,
+    "norad_follow_id":null,
+    "name":"Object B",
+    "names":"2025-234B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-10-19T00:00:00Z",
+    "deployed":"2025-10-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-31T06:09:48.250037Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/15A4n50v1usu5T5RyJw_lwAlhYTGUxO4DZKyghe7FvKI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AQMO-1689-8741-5620-7321",
+    "norad_cat_id":98525.0,
+    "norad_follow_id":null,
+    "name":"HAVEN-DEMO",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-02T05:09:00Z",
+    "deployed":"2025-11-01T01:19:16Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-10-31T11:21:20.077605Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
     "is_frequency_violator":false,
     "associated_satellites":[
 
