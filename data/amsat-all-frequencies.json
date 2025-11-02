@@ -4274,8 +4274,8 @@
     "downlink":"436.025",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"OK0CVR",
+    "status":"active",
     "satnogs_id":null
   },
   {

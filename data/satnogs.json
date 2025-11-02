@@ -58068,7 +58068,7 @@
     "name":"CEVROSAT1",
     "names":"",
     "image":"satellites\/Cevrosat1.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-02T05:09:00Z",
     "deployed":"2025-11-01T01:18:30Z",
@@ -58078,8 +58078,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-31T11:18:48.992368Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "updated":"2025-11-02T05:04:49.104848Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58116,7 +58116,7 @@
     "name":"HAVEN-DEMO",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-02T05:09:00Z",
     "deployed":"2025-11-01T01:19:16Z",
@@ -58126,8 +58126,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-31T11:21:20.077605Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "updated":"2025-11-02T05:04:49.124485Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58164,7 +58164,7 @@
     "name":"TAURUS 1",
     "names":"",
     "image":"satellites\/TAURUS.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-02T05:09:00Z",
     "deployed":"2025-11-02T06:19:02Z",
@@ -58174,8 +58174,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-01T13:37:33.307977Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "updated":"2025-11-02T05:04:49.141868Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58188,7 +58188,7 @@
     "name":"TAURUS 2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-02T05:09:00Z",
     "deployed":"2025-11-02T06:19:02Z",
@@ -58198,8 +58198,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-01T13:37:33.304458Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "updated":"2025-11-02T05:04:49.159071Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58212,7 +58212,7 @@
     "name":"TAURUS 3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-02T05:09:00Z",
     "deployed":"2025-11-02T06:19:02Z",
@@ -58222,8 +58222,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-01T13:37:33.300843Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "updated":"2025-11-02T05:04:49.177583Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58236,7 +58236,7 @@
     "name":"TAURUS 4",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-02T05:09:00Z",
     "deployed":"2025-11-02T06:19:02Z",
@@ -58246,8 +58246,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-01T13:37:33.295969Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "updated":"2025-11-02T05:04:49.197069Z",
+    "citation":"Change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58258,9 +58258,9 @@
     "norad_cat_id":98520.0,
     "norad_follow_id":null,
     "name":"LUMEN-1",
-    "names":"",
+    "names":"STARCLOUD-1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-02T05:09:00Z",
     "deployed":"2025-11-02T06:22:38Z",
@@ -58270,8 +58270,32 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-01T13:51:16.239137Z",
+    "updated":"2025-11-02T06:24:22.959520Z",
     "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FMFV-2706-2035-1081-4263",
+    "norad_cat_id":65489.0,
+    "norad_follow_id":null,
+    "name":"Object B",
+    "names":"2025-197B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-09-05T00:00:00Z",
+    "deployed":"2025-09-05T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-02T10:14:51.834831Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1CNb5Akuw04-VOJ8S-_z4mtTMjUeSH6mU9ihKSX4uYU8\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

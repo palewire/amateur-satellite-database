@@ -600,6 +600,16 @@
     "satnogs_id":"WRLU-1723-6543-5361-0506"
   },
   {
+    "name":"CEVROSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.025",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"OK0CVR",
+    "satnogs_id":null
+  },
+  {
     "name":"Colibri-S",
     "norad_id":"61746",
     "uplink":null,
