@@ -58132,5 +58132,149 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"KKCI-7592-4817-6833-4928",
+    "norad_cat_id":39462.0,
+    "norad_follow_id":null,
+    "name":"USA 247",
+    "names":"NROL-39, FIA RADAR 3",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-12-06T00:00:00Z",
+    "deployed":"2013-12-06T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-01T13:32:00.764477Z",
+    "citation":"Fix naming",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XXAW-5244-5891-9363-2009",
+    "norad_cat_id":98524.0,
+    "norad_follow_id":null,
+    "name":"TAURUS 1",
+    "names":"",
+    "image":"satellites\/TAURUS.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-02T05:09:00Z",
+    "deployed":"2025-11-02T06:19:02Z",
+    "website":"https:\/\/www.taurustr.com\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-01T13:37:33.307977Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EXYE-7453-9544-6346-4841",
+    "norad_cat_id":98523.0,
+    "norad_follow_id":null,
+    "name":"TAURUS 2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-02T05:09:00Z",
+    "deployed":"2025-11-02T06:19:02Z",
+    "website":"https:\/\/www.taurustr.com\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-01T13:37:33.304458Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EJBR-8018-5758-7655-7040",
+    "norad_cat_id":98522.0,
+    "norad_follow_id":null,
+    "name":"TAURUS 3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-02T05:09:00Z",
+    "deployed":"2025-11-02T06:19:02Z",
+    "website":"https:\/\/www.taurustr.com\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-01T13:37:33.300843Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VVPV-7817-5171-7846-9352",
+    "norad_cat_id":98521.0,
+    "norad_follow_id":null,
+    "name":"TAURUS 4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-02T05:09:00Z",
+    "deployed":"2025-11-02T06:19:02Z",
+    "website":"https:\/\/www.taurustr.com\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-01T13:37:33.295969Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MEKC-1774-6115-5644-8771",
+    "norad_cat_id":98520.0,
+    "norad_follow_id":null,
+    "name":"LUMEN-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-02T05:09:00Z",
+    "deployed":"2025-11-02T06:22:38Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-01T13:51:16.239137Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
