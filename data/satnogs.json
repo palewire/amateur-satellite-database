@@ -58076,7 +58076,9 @@
     "operator":"None",
     "countries":"CZ",
     "telemetries":[
-
+      {
+        "decoder":"cevrosat"
+      }
     ],
     "updated":"2025-11-02T17:25:21.492353Z",
     "citation":"Website location",
@@ -58257,8 +58259,8 @@
     "sat_id":"MEKC-1774-6115-5644-8771",
     "norad_cat_id":98520.0,
     "norad_follow_id":null,
-    "name":"LUMEN-1",
-    "names":"STARCLOUD-1",
+    "name":"STARCLOUD-1",
+    "names":"LUMEN-1",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -58270,8 +58272,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-02T06:24:22.959520Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126",
+    "updated":"2025-11-03T09:37:08.928096Z",
+    "citation":"Swap the names",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58368,6 +58370,150 @@
     ],
     "updated":"2025-11-02T15:12:49.546830Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1f6uh0n_Ggo9kutMMhHrbfhvdqundcQhACor7rvVVCCg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IHPZ-6510-7381-6780-6404",
+    "norad_cat_id":null,
+    "norad_follow_id":null,
+    "name":"VEGAFLY-1",
+    "names":"XV5T",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-02-13T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/vsgacademy.com\/vegafly-1-radio-nghiep-du-va-ve-tinh-giao-duc.html",
+    "operator":"None",
+    "countries":"VN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-03T08:11:59.787987Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1036",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FARU-2408-4871-2360-6066",
+    "norad_cat_id":64577.0,
+    "norad_follow_id":null,
+    "name":"LYRA-3",
+    "names":"2025-135BB",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":"2025-06-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-03T08:11:25.949387Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1NS1iVBR6p8xHqaM_ATvurL9tYPQ6xV6CkLwveS4BEDk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PGYC-9815-4321-6615-5487",
+    "norad_cat_id":62609.0,
+    "norad_follow_id":null,
+    "name":"BUZZZER-1",
+    "names":"2025-009A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T00:00:00Z",
+    "deployed":"2025-01-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-03T08:11:22.121947Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1r12W8glG2AEjGSYp7lbrQdo7x_KiY9yu63_ZM3BcbJA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XDZN-7664-2111-3570-1391",
+    "norad_cat_id":64691.0,
+    "norad_follow_id":null,
+    "name":"LYRA-4",
+    "names":"2025-139A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-28T00:00:00Z",
+    "deployed":"2025-06-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-03T08:11:04.317545Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/10ZAKvO0YfWCu_f-kWSXTyhgtvoP5Y5fyTnxxyqlzMGg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ADTD-6715-0145-6281-7132",
+    "norad_cat_id":64051.0,
+    "norad_follow_id":null,
+    "name":"OBJECT D",
+    "names":"2025-103D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-05-17T00:00:00Z",
+    "deployed":"2025-05-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-03T08:10:58.807232Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1wJR3wU5RxouVy79XZO0xycwShspsstfTB2HL7fMl51w\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IRLD-1740-5150-6457-7411",
+    "norad_cat_id":65259.0,
+    "norad_follow_id":null,
+    "name":"Object A",
+    "names":"2025-180A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-08-19T00:00:00Z",
+    "deployed":"2025-08-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-03T09:23:23.442905Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1hKNBivqg7rriO5KeF0v5Ed6G2D4cIzPO7P5LUfNyn0Y\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
