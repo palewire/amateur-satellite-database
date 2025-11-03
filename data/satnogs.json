@@ -58072,14 +58072,14 @@
     "decayed":null,
     "launched":"2025-11-02T05:09:00Z",
     "deployed":"2025-11-01T01:18:30Z",
-    "website":"",
+    "website":"https:\/\/cevrosat.cz\/",
     "operator":"None",
     "countries":"CZ",
     "telemetries":[
 
     ],
-    "updated":"2025-11-02T05:04:49.104848Z",
-    "citation":"Change status",
+    "updated":"2025-11-02T17:25:21.492353Z",
+    "citation":"Website location",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58296,6 +58296,78 @@
     ],
     "updated":"2025-11-02T10:14:51.834831Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1CNb5Akuw04-VOJ8S-_z4mtTMjUeSH6mU9ihKSX4uYU8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GMBK-4067-3278-8780-9618",
+    "norad_cat_id":63491.0,
+    "norad_follow_id":null,
+    "name":"UNICORN-2Q",
+    "names":"2025-052BM",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-03-15T00:00:00Z",
+    "deployed":"2025-03-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-02T14:40:45.956080Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/179L-l6_5HNMFeRb7riomz0bCHLKdStJ6GuE2__PnmXQ\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PSVM-4094-8175-9794-2341",
+    "norad_cat_id":63980.0,
+    "norad_follow_id":null,
+    "name":"Unicorn-2O",
+    "names":"2025-052BS",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-03-15T00:00:00Z",
+    "deployed":"2025-03-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-02T15:12:55.393611Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1tAYUeiJIZrilC5p0yAFSYej9FV-LDXLCzHknEt-ACD0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MQTO-6114-1961-2306-1706",
+    "norad_cat_id":63981.0,
+    "norad_follow_id":null,
+    "name":"Unicorn-2P",
+    "names":"2025-052BT",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-03-15T00:00:00Z",
+    "deployed":"2025-03-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-02T15:12:49.546830Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1f6uh0n_Ggo9kutMMhHrbfhvdqundcQhACor7rvVVCCg\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

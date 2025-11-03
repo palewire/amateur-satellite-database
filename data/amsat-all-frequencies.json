@@ -20636,6 +20636,50 @@
     "satnogs_id":"EJQU-9911-5613-4301-2109"
   },
   {
+    "name":"TAURUS-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.7625",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"TAURUS-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.7625",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"TAURUS-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.7625",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"TAURUS-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.7625",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Tausat-1",
     "norad_id":"47926",
     "uplink":null,
@@ -22437,7 +22481,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"PSVM-4094-8175-9794-2341"
   },
   {
     "name":"UNICORN-2P",
@@ -22448,7 +22492,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"MQTO-6114-1961-2306-1706"
   },
   {
     "name":"UNICORN-2Q",
@@ -22459,7 +22503,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"GMBK-4067-3278-8780-9618"
   },
   {
     "name":"UNICubeSAT",
