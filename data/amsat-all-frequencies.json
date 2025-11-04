@@ -8807,7 +8807,7 @@
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"QVUS-7026-9123-2240-8592"
   },
   {
@@ -8818,7 +8818,7 @@
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"KCXP-0649-4427-9976-3893"
   },
   {
@@ -8829,7 +8829,7 @@
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"XIVD-4897-2719-9942-8832"
   },
   {
@@ -8840,7 +8840,7 @@
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"OFTK-1257-4466-4685-0808"
   },
   {
@@ -8851,7 +8851,7 @@
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"WUKW-6330-0740-0240-9676"
   },
   {
@@ -8862,7 +8862,7 @@
     "beacon":null,
     "mode":"25000bps GFSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"AXDZ-6917-8551-3502-7467"
   },
   {
@@ -9324,7 +9324,7 @@
     "beacon":"437.780",
     "mode":"200bps USB CW",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"IGAK-0188-0460-8755-4255"
   },
   {
@@ -17530,7 +17530,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"GRAF1N",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"ZLYR-0017-3141-0563-6718"
   },
   {

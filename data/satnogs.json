@@ -58518,5 +58518,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RGHP-8697-5632-9467-2081",
+    "norad_cat_id":98518.0,
+    "norad_follow_id":null,
+    "name":"MICE-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-10T00:00:00Z",
+    "deployed":"2025-11-10T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-04T10:01:11.619507Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.msg2662821#msg2662821",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IVHU-2604-2538-1455-1131",
+    "norad_cat_id":98517.0,
+    "norad_follow_id":null,
+    "name":"3UCUBED-A",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-10T00:00:00Z",
+    "deployed":"2025-11-10T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-04T10:21:47.546606Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.msg2731294#msg2731294",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

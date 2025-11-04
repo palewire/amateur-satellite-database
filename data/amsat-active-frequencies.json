@@ -1550,66 +1550,6 @@
     "satnogs_id":"YFPC-1248-4077-8296-8715"
   },
   {
-    "name":"HERMES-H1",
-    "norad_id":"63242",
-    "uplink":null,
-    "downlink":"401.500",
-    "beacon":null,
-    "mode":"25000bps GFSK",
-    "callsign":null,
-    "satnogs_id":"QVUS-7026-9123-2240-8592"
-  },
-  {
-    "name":"HERMES-H2",
-    "norad_id":"63243",
-    "uplink":null,
-    "downlink":"401.500",
-    "beacon":null,
-    "mode":"25000bps GFSK",
-    "callsign":null,
-    "satnogs_id":"KCXP-0649-4427-9976-3893"
-  },
-  {
-    "name":"HERMES-H3",
-    "norad_id":"63835",
-    "uplink":null,
-    "downlink":"401.500",
-    "beacon":null,
-    "mode":"25000bps GFSK",
-    "callsign":null,
-    "satnogs_id":"XIVD-4897-2719-9942-8832"
-  },
-  {
-    "name":"HERMES-H4",
-    "norad_id":"63833",
-    "uplink":null,
-    "downlink":"401.500",
-    "beacon":null,
-    "mode":"25000bps GFSK",
-    "callsign":null,
-    "satnogs_id":"OFTK-1257-4466-4685-0808"
-  },
-  {
-    "name":"HERMES-H5",
-    "norad_id":"63834",
-    "uplink":null,
-    "downlink":"401.500",
-    "beacon":null,
-    "mode":"25000bps GFSK",
-    "callsign":null,
-    "satnogs_id":"WUKW-6330-0740-0240-9676"
-  },
-  {
-    "name":"HERMES-H6",
-    "norad_id":"63489",
-    "uplink":null,
-    "downlink":"401.500",
-    "beacon":null,
-    "mode":"25000bps GFSK",
-    "callsign":null,
-    "satnogs_id":"AXDZ-6917-8551-3502-7467"
-  },
-  {
     "name":"Hirogari",
     "norad_id":"47930",
     "uplink":"436.500",
@@ -1668,16 +1608,6 @@
     "mode":"1200*bps MSK CW",
     "callsign":"HUMDE",
     "satnogs_id":"ISTU-1593-3487-2251-7574"
-  },
-  {
-    "name":"HYDRA-T",
-    "norad_id":"62692",
-    "uplink":null,
-    "downlink":"437.780",
-    "beacon":"437.780",
-    "mode":"200bps USB CW",
-    "callsign":null,
-    "satnogs_id":"IGAK-0188-0460-8755-4255"
   },
   {
     "name":"HYDRA-W",
@@ -2738,16 +2668,6 @@
     "mode":"LoRa",
     "callsign":"KN6HCC",
     "satnogs_id":null
-  },
-  {
-    "name":"SATGUS",
-    "norad_id":"62713",
-    "uplink":null,
-    "downlink":"400.200",
-    "beacon":null,
-    "mode":"9600bps GFSK",
-    "callsign":"GRAF1N",
-    "satnogs_id":"ZLYR-0017-3141-0563-6718"
   },
   {
     "name":"Saturn",
