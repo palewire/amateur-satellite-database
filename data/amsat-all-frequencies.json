@@ -110,6 +110,17 @@
     "satnogs_id":"CHKH-0088-8886-9724-9925"
   },
   {
+    "name":"3UCubed-A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.010",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"4M-LXS",
     "norad_id":null,
     "uplink":null,
@@ -1450,6 +1461,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"GFHE-3541-7447-2114-2770"
+  },
+  {
+    "name":"Argus-01\/02",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"UHFLoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"ARICA-2",
@@ -8712,6 +8734,17 @@
     "satnogs_id":"TBAT-2500-7857-8558-4608"
   },
   {
+    "name":"Haven demo",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500\/400.575",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"HawaiiSat1",
     "norad_id":null,
     "uplink":null,
@@ -8974,6 +9007,17 @@
     "callsign":null,
     "status":"non-amateur",
     "satnogs_id":"XCTG-7337-9615-0882-4390"
+  },
+  {
+    "name":"HONEYBEE-00",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.575",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"HORIS-1",
@@ -9282,6 +9326,17 @@
     "callsign":"HUMDE",
     "status":"active",
     "satnogs_id":"ISTU-1593-3487-2251-7574"
+  },
+  {
+    "name":"HUNITY",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"GMSK LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"HuskySat-1",
@@ -12331,6 +12386,17 @@
     "satnogs_id":"TVOC-6469-7409-1625-2760"
   },
   {
+    "name":"LUMEN-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"LUME-1",
     "norad_id":"43908",
     "uplink":null,
@@ -12749,6 +12815,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Mercury-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2220.000\/2265.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"MEROPE",
     "norad_id":null,
     "uplink":null,
@@ -12857,6 +12934,17 @@
     "callsign":"RS32S",
     "status":"re-entered",
     "satnogs_id":"HKXU-1877-4030-6508-9166"
+  },
+  {
+    "name":"Mice-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"MicroDragon",
@@ -13725,6 +13813,17 @@
     "mode":"1200bps FM USB",
     "callsign":null,
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"NMHH-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"GMSK LoRa",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -17468,6 +17567,17 @@
     "satnogs_id":"WEXS-3459-9433-8558-2912"
   },
   {
+    "name":"SAMWISE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400\/2427.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"SanoSat-1",
     "norad_id":"51031",
     "uplink":"436.235",
@@ -19481,6 +19591,17 @@
     "satnogs_id":"VUIJ-4442-3257-2619-1322"
   },
   {
+    "name":"SPRITE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.325\/2402.000",
+    "beacon":null,
+    "mode":"19k2_GMSK 4Mbps_BPSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Sprites",
     "norad_id":null,
     "uplink":null,
@@ -20458,6 +20579,17 @@
     "callsign":"RS8S",
     "status":"re-entered",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
+  },
+  {
+    "name":"SZESAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"2k4-19k2_GFSK LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"S-NetA",
@@ -23263,6 +23395,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"JHGM-7853-8293-9677-2181"
+  },
+  {
+    "name":"WISeSat-5\/6\/7",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Wisseed-Sat",

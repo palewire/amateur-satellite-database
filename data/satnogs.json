@@ -57998,16 +57998,16 @@
     "image":"satellites\/PHASMA-1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-10T00:00:00Z",
-    "deployed":"2025-11-10T00:00:00Z",
+    "launched":"2025-11-10T18:18:00Z",
+    "deployed":null,
     "website":"https:\/\/gitlab.com\/librespacefoundation\/phasma",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
 
     ],
-    "updated":"2025-10-27T14:50:36.762031Z",
-    "citation":"proper name and image",
+    "updated":"2025-11-05T07:49:04.150498Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=62130.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58022,16 +58022,16 @@
     "image":"satellites\/PHASMA-1_B9RaTzC.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-10T00:00:00Z",
-    "deployed":"2025-11-10T00:00:00Z",
+    "launched":"2025-11-10T18:18:00Z",
+    "deployed":null,
     "website":"https:\/\/libre.space\/projects\/phasma\/",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
 
     ],
-    "updated":"2025-10-27T14:51:07.540716Z",
-    "citation":"phasma image",
+    "updated":"2025-11-05T07:49:04.169079Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=62130.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58046,7 +58046,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-30T00:00:00Z",
+    "launched":"2025-11-10T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/rapidtek.net\/en\/satellite",
     "operator":"None",
@@ -58054,8 +58054,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-30T06:54:46.006515Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-05T07:47:01.985516Z",
+    "citation":"https:\/\/rapidtek.net\/en\/satellite",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58504,16 +58504,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-10T00:00:00Z",
-    "deployed":"2025-11-10T00:00:00Z",
+    "launched":"2025-11-10T18:18:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-11-04T10:01:11.619507Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.msg2662821#msg2662821",
+    "updated":"2025-11-05T07:49:04.143823Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=62130.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58528,16 +58528,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-10T00:00:00Z",
-    "deployed":"2025-11-10T00:00:00Z",
+    "launched":"2025-11-10T18:18:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-11-04T10:21:47.546606Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.msg2731294#msg2731294",
+    "updated":"2025-11-05T07:49:04.159387Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=62130.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58565,6 +58565,30 @@
     "is_frequency_violator":false,
     "associated_satellites":[
       "IHPZ-6510-7381-6780-6404"
+    ]
+  },
+  {
+    "sat_id":"IJUF-7527-4844-9362-5409",
+    "norad_cat_id":49052.0,
+    "norad_follow_id":null,
+    "name":"MONOLITH",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-07-29T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-05T06:14:24.017280Z",
+    "citation":"NORAD",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
     ]
   }
 ]
