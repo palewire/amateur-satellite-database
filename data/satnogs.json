@@ -55445,7 +55445,7 @@
   {
     "sat_id":"HWSK-3928-3901-7383-3031",
     "norad_cat_id":98592.0,
-    "norad_follow_id":64532.0,
+    "norad_follow_id":64530.0,
     "name":"DUTHSat-2",
     "names":"",
     "image":"",
@@ -55459,8 +55459,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-08-29T16:08:00.029509Z",
-    "citation":"Per satellite team request",
+    "updated":"2025-11-04T13:47:52.535104Z",
+    "citation":"Choice by satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58376,30 +58376,6 @@
     ]
   },
   {
-    "sat_id":"IHPZ-6510-7381-6780-6404",
-    "norad_cat_id":null,
-    "norad_follow_id":null,
-    "name":"VEGAFLY-1",
-    "names":"XV5T",
-    "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2026-02-13T00:00:00Z",
-    "deployed":null,
-    "website":"https:\/\/vsgacademy.com\/vegafly-1-radio-nghiep-du-va-ve-tinh-giao-duc.html",
-    "operator":"None",
-    "countries":"VN",
-    "telemetries":[
-
-    ],
-    "updated":"2025-11-03T08:11:59.787987Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1036",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"FARU-2408-4871-2360-6066",
     "norad_cat_id":64577.0,
     "norad_follow_id":null,
@@ -58565,6 +58541,30 @@
     "is_frequency_violator":false,
     "associated_satellites":[
 
+    ]
+  },
+  {
+    "sat_id":"LPUU-9270-2724-3685-4470",
+    "norad_cat_id":98519.0,
+    "norad_follow_id":null,
+    "name":"VEGAFLY-1",
+    "names":"XV5T",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-02-13T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/vsgacademy.com\/vegafly-1-radio-nghiep-du-va-ve-tinh-giao-duc.html",
+    "operator":"None",
+    "countries":"VN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-04T16:17:33.973718Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "IHPZ-6510-7381-6780-6404"
     ]
   }
 ]
