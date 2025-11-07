@@ -40544,8 +40544,8 @@
     "name":"TROPICS-06",
     "names":"",
     "image":"satellites\/tropics__2_hv3rEss.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-24T00:00:00Z",
     "launched":"2023-05-08T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.eoportal.org\/satellite-missions\/tropics",
@@ -40554,8 +40554,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-20T22:58:09.971869Z",
-    "citation":"Own research, 3 of the TROPICS have been received multiple time on S-Band",
+    "updated":"2025-11-07T09:47:59.805360Z",
+    "citation":"https:\/\/orbit.ing-now.com\/satellite\/56444\/2023-062c\/tropics-06\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58056,8 +58056,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-05T07:47:01.985516Z",
-    "citation":"https:\/\/rapidtek.net\/en\/satellite",
+    "updated":"2025-11-07T09:46:44.315100Z",
+    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/RAPIDTEK\/125545223",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58067,13 +58067,13 @@
     "sat_id":"OKGA-8851-7796-3537-9901",
     "norad_cat_id":98526.0,
     "norad_follow_id":null,
-    "name":"CEVROSAT1",
-    "names":"",
+    "name":"CEVROSAT-1",
+    "names":"OK0CVR",
     "image":"satellites\/Cevrosat1.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":"2025-11-02T05:09:00Z",
-    "deployed":"2025-11-01T01:18:30Z",
+    "launched":"2025-11-02T06:09:00Z",
+    "deployed":"2025-11-02T07:18:30Z",
     "website":"https:\/\/cevrosat.cz\/",
     "operator":"None",
     "countries":"CZ",
@@ -58082,8 +58082,8 @@
         "decoder":"cevrosat"
       }
     ],
-    "updated":"2025-11-02T17:25:21.492353Z",
-    "citation":"Website location",
+    "updated":"2025-11-07T09:46:18.138714Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/bandwagon-4",
     "is_frequency_violator":false,
     "associated_satellites":[
 

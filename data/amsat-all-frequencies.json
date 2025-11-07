@@ -7011,10 +7011,10 @@
     "norad_id":"65943",
     "uplink":null,
     "downlink":"145.840",
-    "beacon":null,
+    "beacon":"145.840",
     "mode":"1k2AFSK 9K6GMSK CW",
     "callsign":"JL3ZPN",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -10960,10 +10960,10 @@
     "norad_id":"65943",
     "uplink":null,
     "downlink":"145.840",
-    "beacon":null,
+    "beacon":"145.840",
     "mode":"1k2AFSK 9K6GMSK CW",
     "callsign":"JL3ZPN",
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -23899,7 +23899,7 @@
     "beacon":null,
     "mode":"4k8_GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
