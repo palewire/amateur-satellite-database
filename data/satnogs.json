@@ -31918,7 +31918,9 @@
     "operator":"None",
     "countries":"",
     "telemetries":[
-
+      {
+        "decoder":"rhoksat"
+      }
     ],
     "updated":"2023-06-14T16:19:36.907414Z",
     "citation":"Rename the satellite",
@@ -58586,6 +58588,30 @@
     ],
     "updated":"2025-11-05T06:14:24.017280Z",
     "citation":"NORAD",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PGBV-1455-0125-1743-2785",
+    "norad_cat_id":63209.0,
+    "norad_follow_id":null,
+    "name":"TIANYAN 23",
+    "names":"2025-051B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-03-15T00:00:00Z",
+    "deployed":"2025-03-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-06T19:58:14.749890Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1fnDVAA4pvCHzIjs_tN9-6or-lwMshBKwlKfAJrB0MqE\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

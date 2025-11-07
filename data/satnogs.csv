@@ -1315,7 +1315,7 @@ XZTR-0134-6905-2883-2166,44537.0,,Zhuhai-1 03C,2019-060D,,alive,,2019-09-19T00:0
 VCYP-9969-8311-5460-7151,44880.0,,Object B,2019-093B,,alive,,2019-12-20T00:00:00Z,2019-12-20T00:00:00Z,,None,CN,[],2023-05-06T18:50:28.541645Z,https://docs.google.com/document/d/13Di2y4j8lWlnpZhQR_gfWqhs0lNoFdlHfo07BTRjSM0/edit?usp=sharing,False,[]
 IONG-2509-4860-2457-6420,53758.0,,Centispace-1 S4,2022-108B,,alive,,2022-09-06T00:00:00Z,2022-09-06T00:00:00Z,,None,CN,[],2023-05-08T16:17:21.047132Z,https://docs.google.com/document/d/1o8q_EDKnakXgq3LdlgC8IHxwpKu_sJK1HrM5r011wU0/edit?usp=sharing,False,[]
 MFSP-3073-4112-9106-7043,47527.0,,Flock 4S 7,2021-006DT,,re-entered,2024-08-28T00:00:00Z,2021-01-24T00:00:00Z,2021-01-24T00:00:00Z,,None,US,[],2024-09-11T05:29:06.783011Z,space-track.org,False,[]
-GDGL-8515-2553-1728-8249,99932.0,,RHOK-SAT,,,future,,,,,None,,[],2023-06-14T16:19:36.907414Z,Rename the satellite,False,[]
+GDGL-8515-2553-1728-8249,99932.0,,RHOK-SAT,,,future,,,,,None,,[{'decoder': 'rhoksat'}],2023-06-14T16:19:36.907414Z,Rename the satellite,False,[]
 YVLW-7172-6368-8769-3972,54368.0,,Astrocast-0303,2022-158H,,re-entered,2024-12-03T00:00:00Z,2022-11-06T00:00:00Z,2022-11-06T00:00:00Z,,None,CH,[],2025-02-13T11:17:02.943756Z,space-track.org,False,[]
 UMPB-4838-3573-4295-4716,54370.0,,Astrocast-0301,2022-158K,,alive,,2022-11-26T00:00:00Z,2022-11-26T00:00:00Z,,None,CH,[],2023-05-15T17:35:32.382137Z,https://docs.google.com/document/d/1O3W6f7-jJnCKKzkzEFHwTHATmr8GH9rDJboKjzXdpLU/edit?usp=sharing,False,[]
 YSOP-1343-8549-9925-1699,48955.0,,Astrocast-0203,2021-059CE,,alive,,2021-06-30T00:00:00Z,2021-06-30T00:00:00Z,,None,CH,[],2023-05-15T17:35:30.565444Z,https://docs.google.com/document/d/1DHwfY2eF8bZ4_n_Fpau-FWmtuJczi-WV-n6tXwO7UkI/edit?usp=sharing,False,[]
@@ -2423,3 +2423,4 @@ RGHP-8697-5632-9467-2081,98518.0,,MICE-1,,,future,,2025-11-10T18:18:00Z,,,None,,
 IVHU-2604-2538-1455-1131,98517.0,,3UCUBED-A,,,future,,2025-11-10T18:18:00Z,,,None,,[],2025-11-05T07:49:04.159387Z,https://forum.nasaspaceflight.com/index.php?topic=62130.0;all,False,[]
 LPUU-9270-2724-3685-4470,98519.0,,VEGAFLY-1,XV5T,,future,,2026-02-13T00:00:00Z,,https://vsgacademy.com/vegafly-1-radio-nghiep-du-va-ve-tinh-giao-duc.html,None,VN,[],2025-11-04T16:17:33.973718Z,Add temporary NORAD ID,False,['IHPZ-6510-7381-6780-6404']
 IJUF-7527-4844-9362-5409,49052.0,,MONOLITH,,,alive,,2021-07-29T00:00:00Z,,,None,,[],2025-11-05T06:14:24.017280Z,NORAD,False,[]
+PGBV-1455-0125-1743-2785,63209.0,,TIANYAN 23,2025-051B,,alive,,2025-03-15T00:00:00Z,2025-03-15T00:00:00Z,,None,CN,[],2025-11-06T19:58:14.749890Z,https://docs.google.com/document/d/1fnDVAA4pvCHzIjs_tN9-6or-lwMshBKwlKfAJrB0MqE/edit?usp=sharing,False,[]
