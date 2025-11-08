@@ -57972,7 +57972,7 @@
     "norad_cat_id":98528.0,
     "norad_follow_id":null,
     "name":"CyBEEsat",
-    "names":"TUBSAT-32",
+    "names":"TUBSAT-33",
     "image":"satellites\/CyBEEsat_FM.jpeg",
     "status":"future",
     "decayed":null,
@@ -57984,8 +57984,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-28T18:41:21.382358Z",
-    "citation":"Jens Freymuth",
+    "updated":"2025-11-07T17:20:57.082046Z",
+    "citation":"TU Berlin",
     "is_frequency_violator":false,
     "associated_satellites":[
 
