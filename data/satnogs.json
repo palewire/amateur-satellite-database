@@ -5120,8 +5120,8 @@
     "name":"KAIDUN-1",
     "names":"CATON-1 \u51ef\u76fe\u4e00\u53f7",
     "image":"satellites\/KAIDUN-1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-03T00:00:00Z",
     "launched":"2017-01-09T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/www.catonglobal.cc\/news_detail.php?id=35&class_id=8",
@@ -5130,8 +5130,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-05-30T10:58:26.894504Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-11-10T10:48:11.314147Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=41915",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40616,8 +40616,8 @@
     "name":"ENSO",
     "names":"ROBUSTA 1E",
     "image":"satellites\/Patch-ENSO-1024x1024.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-09T06:20:00Z",
     "launched":"2023-12-01T18:19:00Z",
     "deployed":null,
     "website":"http:\/\/csu.edu.umontpellier.fr\/",
@@ -40628,8 +40628,8 @@
         "decoder":"enso"
       }
     ],
-    "updated":"2024-07-30T10:00:55.055558Z",
-    "citation":"Add enso dashboard url",
+    "updated":"2025-11-10T06:21:53.437584Z",
+    "citation":"https:\/\/community.libre.space\/t\/enso-near-reentry-and-last-beacon-game\/13957\/52",
     "is_frequency_violator":false,
     "associated_satellites":[
       "EJZB-6514-3791-0732-9193"

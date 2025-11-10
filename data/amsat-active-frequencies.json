@@ -241,7 +241,7 @@
   },
   {
     "name":"AstroLine-1",
-    "norad_id":"64888",
+    "norad_id":"64887",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -251,7 +251,7 @@
   },
   {
     "name":"AstroLine-2",
-    "norad_id":"64886",
+    "norad_id":"64888",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -261,7 +261,7 @@
   },
   {
     "name":"AstroLine-3",
-    "norad_id":"64887",
+    "norad_id":"64886",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -461,13 +461,13 @@
   },
   {
     "name":"BRO-18",
-    "norad_id":"64551",
+    "norad_id":"64550",
     "uplink":null,
     "downlink":"401.735\/2260.500",
     "beacon":null,
     "mode":"4k8*\/9k6 FSK",
     "callsign":null,
-    "satnogs_id":"XWXT-1615-5633-9630-7970"
+    "satnogs_id":"ENLC-4952-6681-1812-8294"
   },
   {
     "name":"BSUSat-2",
@@ -1741,13 +1741,13 @@
   },
   {
     "name":"ION-SCV-014",
-    "norad_id":"62628",
+    "norad_id":"62630",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "satnogs_id":"TNCA-2269-1089-8167-2586"
+    "satnogs_id":"JVIJ-4226-9631-1978-7970"
   },
   {
     "name":"ION-SCV-015",
@@ -1761,13 +1761,13 @@
   },
   {
     "name":"ION-SCV-016",
-    "norad_id":"62630",
+    "norad_id":"62628",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "satnogs_id":"JVIJ-4226-9631-1978-7970"
+    "satnogs_id":"TNCA-2269-1089-8167-2586"
   },
   {
     "name":"ION-SCV-017",
