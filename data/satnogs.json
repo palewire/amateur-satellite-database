@@ -21668,8 +21668,8 @@
     "name":"Unknown  Satellite from Transporter 5",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-07T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -21678,8 +21678,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-16T18:21:29.433122Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-5-2022-05-25-18-35utc\/9264\/90",
+    "updated":"2025-11-11T07:14:16.944771Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=52765",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -27403,8 +27403,8 @@
     "name":"Tianqi 3",
     "names":"Tao Xingzhi",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-26T00:00:00Z",
     "launched":"2019-06-05T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/www.guodiangaoke.com",
@@ -27413,8 +27413,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T08:20:10.607923Z",
-    "citation":"https:\/\/nssdc.gsfc.nasa.gov\/nmc\/spacecraft\/display.action?id=2019-032D",
+    "updated":"2025-11-11T07:14:40.218359Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=44313",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30461,8 +30461,8 @@
     "name":"Mirata",
     "names":"2017-03C",
     "image":"satellites\/dsc_0623cropped11.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-23T00:00:00Z",
     "launched":"2017-11-18T00:00:00Z",
     "deployed":"2017-11-18T00:00:00Z",
     "website":"",
@@ -30471,8 +30471,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-05T18:03:01.674937Z",
-    "citation":"https:\/\/www.nasa.gov\/missions\/small-satellite-missions\/nasa-cubesat-to-test-miniaturized-weather-satellite-technology\/",
+    "updated":"2025-11-11T07:15:43.689088Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43015",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -31960,8 +31960,8 @@
     "name":"Astrocast-0301",
     "names":"2022-158K",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-03T00:00:00Z",
     "launched":"2022-11-26T00:00:00Z",
     "deployed":"2022-11-26T00:00:00Z",
     "website":"",
@@ -31970,8 +31970,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-15T17:35:32.382137Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1O3W6f7-jJnCKKzkzEFHwTHATmr8GH9rDJboKjzXdpLU\/edit?usp=sharing",
+    "updated":"2025-11-11T07:16:08.984705Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=54370",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35040,8 +35040,8 @@
     "name":"FACSAT-2",
     "names":"2023-054AD, Chibiriquete",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-27T00:00:00Z",
     "launched":"2023-04-15T00:00:00Z",
     "deployed":"2023-04-15T00:00:00Z",
     "website":"https:\/\/www.airforce-technology.com\/news\/colombian-air-force-gomspace-facsat-2\/",
@@ -35050,8 +35050,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-19T06:01:48.333919Z",
-    "citation":"https:\/\/www.airforce-technology.com\/news\/colombian-air-force-gomspace-facsat-2\/",
+    "updated":"2025-11-11T07:16:26.135236Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56205",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35304,8 +35304,8 @@
     "name":"LAYAN-23",
     "names":"2023-084H",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-24T00:00:00Z",
     "launched":"2023-06-12T00:00:00Z",
     "deployed":"2023-06-12T00:00:00Z",
     "website":"",
@@ -35314,8 +35314,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-30T21:57:14.836649Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1LobABTrh-CeZKHdDn7dPqYiDeIhA9TpLZ1-owi1O-fs\/edit?usp=sharing",
+    "updated":"2025-11-11T07:16:53.266034Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56939",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56934,8 +56934,8 @@
     "name":"Object B",
     "names":"2024-173B",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-04T00:00:00Z",
     "launched":"2024-09-24T00:00:00Z",
     "deployed":"2024-09-24T00:00:00Z",
     "website":"",
@@ -56944,8 +56944,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-22T14:59:22.877489Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1oLgy-7Br9ZXlK4OCkUoplM5MehjV_QFWwcgAKcX4n2g\/edit?usp=sharing",
+    "updated":"2025-11-11T07:17:30.584467Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=61228",
     "is_frequency_violator":false,
     "associated_satellites":[
 
