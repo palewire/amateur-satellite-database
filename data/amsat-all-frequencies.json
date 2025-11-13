@@ -975,7 +975,7 @@
     "beacon":null,
     "mode":"1200bps AFSK FM",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"XTDR-0995-4168-5549-5936"
   },
   {
@@ -7661,7 +7661,7 @@
     "uplink":"145.900-146.000",
     "downlink":"435.900-435.800",
     "beacon":"435.795",
-    "mode":"SSB CW* DigiTalker",
+    "mode":"SSB* CW DigiTalker",
     "callsign":null,
     "status":"active",
     "satnogs_id":"XTKP-9404-9174-4088-2406"
@@ -8462,7 +8462,7 @@
     "name":"GO-32",
     "norad_id":"25397",
     "uplink":"145.850\/145.930",
-    "downlink":"435.225\/435.325*",
+    "downlink":"435.225*\/435.325",
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":"4XTECH-11 12",
@@ -14208,7 +14208,7 @@
     "beacon":null,
     "mode":"1200bps AFSK",
     "callsign":"(A) W3ADO-1",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
@@ -14219,7 +14219,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":"(A) PCSAT-1",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
@@ -22751,11 +22751,11 @@
     "name":"UO-11",
     "norad_id":"14781",
     "uplink":null,
-    "downlink":"145.826*\/435.025",
+    "downlink":"145.825*\/435.025",
     "beacon":"2401.500",
-    "mode":"(V)FM (S)PSK",
+    "mode":"1k2_AFSK FM PSK",
     "callsign":"UOSAT2",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"TDVY-5283-4801-7631-6209"
   },
   {
