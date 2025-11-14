@@ -58263,19 +58263,19 @@
     "norad_follow_id":null,
     "name":"STARCLOUD-1",
     "names":"LUMEN-1",
-    "image":"",
+    "image":"satellites\/starcloud.png",
     "status":"alive",
     "decayed":null,
     "launched":"2025-11-02T05:09:00Z",
     "deployed":"2025-11-02T06:22:38Z",
-    "website":"",
+    "website":"https:\/\/www.starcloud.com\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-11-03T09:37:08.928096Z",
-    "citation":"Swap the names",
+    "updated":"2025-11-13T14:48:33.613382Z",
+    "citation":"Description and Picture",
     "is_frequency_violator":false,
     "associated_satellites":[
 
