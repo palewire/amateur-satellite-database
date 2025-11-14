@@ -58616,5 +58616,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"AHGC-8560-2925-1501-6871",
+    "norad_cat_id":64887.0,
+    "norad_follow_id":null,
+    "name":"New Satellite",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-14T06:58:35.192876Z",
+    "citation":"",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OCRT-7423-2175-5905-4646",
+    "norad_cat_id":98515.0,
+    "norad_follow_id":null,
+    "name":"T.MicroSat-1",
+    "names":"",
+    "image":"satellites\/T_MicroSat_1.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.tronfuture.com\/",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-14T06:45:53.848149Z",
+    "citation":"Removed note from description",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
