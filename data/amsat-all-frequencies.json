@@ -1878,7 +1878,7 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"active",
-    "satnogs_id":"AHGC-8560-2925-1501-6871"
+    "satnogs_id":null
   },
   {
     "name":"AstroLine-2",

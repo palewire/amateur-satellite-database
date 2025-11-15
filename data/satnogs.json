@@ -6764,8 +6764,8 @@
     "name":"EAGLESAT-1",
     "names":"",
     "image":"satellites\/eaglesat__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-13T00:00:00Z",
     "launched":"2017-11-18T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/eaglelife.erau.edu\/eaglesat\/home\/",
@@ -6774,8 +6774,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T14:20:32.536336Z",
-    "citation":"https:\/\/eaglelife.erau.edu\/eaglesat\/home\/",
+    "updated":"2025-11-14T13:27:57.380478Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43018",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -11887,8 +11887,8 @@
     "name":"Unknown Satellite",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-12T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -11897,8 +11897,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.904754Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-11-14T13:27:32.082291Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=47946",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -20707,8 +20707,8 @@
     "name":"BRIK-II",
     "names":"BRIK-2 2021-058F",
     "image":"satellites\/brik-ii.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-12T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/english.defensie.nl\/latest\/news\/2021\/07\/02\/first-dutch-military-nanosatellite-launched-successfully",
@@ -20717,8 +20717,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-06-10T22:28:00.706208Z",
-    "citation":"https:\/\/twitter.com\/eelkevisser\/status\/1461601307689734144",
+    "updated":"2025-11-14T13:26:39.315347Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48876",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58612,30 +58612,6 @@
     ],
     "updated":"2025-11-06T19:58:14.749890Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1fnDVAA4pvCHzIjs_tN9-6or-lwMshBKwlKfAJrB0MqE\/edit?usp=sharing",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"AHGC-8560-2925-1501-6871",
-    "norad_cat_id":64887.0,
-    "norad_follow_id":null,
-    "name":"New Satellite",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2025-11-14T06:58:35.192876Z",
-    "citation":"",
     "is_frequency_violator":false,
     "associated_satellites":[
 
