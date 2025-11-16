@@ -42060,8 +42060,8 @@
     "name":"ICEYE-X8",
     "names":"2021-006DB",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-14T00:00:00Z",
     "launched":"2021-01-24T00:00:00Z",
     "deployed":"2021-01-24T00:00:00Z",
     "website":"",
@@ -42070,8 +42070,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-24T19:20:01.479204Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1_IdOn9VZ5H3zXY_aNx-dgamg8vyzvaMeAqGA4l9snIo\/edit?usp=sharing",
+    "updated":"2025-11-16T07:15:24.363322Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=47510",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56702,7 +56702,9 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"real"
+      }
     ],
     "updated":"2025-08-20T10:02:19.822920Z",
     "citation":"space-track.org and network observations",
