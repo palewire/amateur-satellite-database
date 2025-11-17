@@ -3109,7 +3109,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"LU7AA",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"GPLA-1467-3987-8284-6460"
   },
   {
@@ -15715,7 +15715,7 @@
     "beacon":"437.677",
     "mode":"9600*bps FSK CW",
     "callsign":"EM0UKP",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"UIYC-4491-1380-9406-8215"
   },
   {
@@ -21842,7 +21842,7 @@
     "beacon":"2408.000",
     "mode":"1200bps RC-BPSK CW*",
     "callsign":"TRIV0 TRIV1",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"APZD-5343-3708-9744-3445"
   },
   {
@@ -22689,7 +22689,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"II0US",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"RJRN-2264-7831-8205-7763"
   },
   {
