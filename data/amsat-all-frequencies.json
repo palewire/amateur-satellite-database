@@ -21824,6 +21824,17 @@
     "satnogs_id":"IDXT-3826-9067-2235-0516"
   },
   {
+    "name":"Triton",
+    "norad_id":"58017",
+    "uplink":null,
+    "downlink":null,
+    "beacon":"400.900",
+    "mode":"CW",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"WUYF-8239-9189-0421-5797"
+  },
+  {
     "name":"Triton-1",
     "norad_id":"39427",
     "uplink":"435.xxx",
