@@ -1340,16 +1340,6 @@
     "satnogs_id":"SEXU-2964-9908-3979-4793"
   },
   {
-    "name":"FUNcube-6",
-    "norad_id":"43803",
-    "uplink":"435.100-435.120",
-    "downlink":"145.875-145.855",
-    "beacon":"145.840",
-    "mode":"1200bps BPSK SSB CW",
-    "callsign":"JY1SAT",
-    "satnogs_id":"KLYF-4722-0218-1441-3015"
-  },
-  {
     "name":"Galassia",
     "norad_id":"41170",
     "uplink":null,
@@ -1898,26 +1888,6 @@
     "mode":"9600bps BPSK",
     "callsign":"JINJUS",
     "satnogs_id":null
-  },
-  {
-    "name":"JO-97",
-    "norad_id":"43803",
-    "uplink":"435.100-435.120",
-    "downlink":"145.875-145.855",
-    "beacon":"145.840",
-    "mode":"1200bps BPSK SSB CW",
-    "callsign":"JY1SAT",
-    "satnogs_id":"KLYF-4722-0218-1441-3015"
-  },
-  {
-    "name":"JY1Sat",
-    "norad_id":"43803",
-    "uplink":"435.100-435.120",
-    "downlink":"145.875-145.855",
-    "beacon":"145.840",
-    "mode":"1200bps BPSK SSB CW",
-    "callsign":"JY1SAT",
-    "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
   {
     "name":"KILICSAT",

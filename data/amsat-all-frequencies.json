@@ -7927,7 +7927,7 @@
     "beacon":"145.840",
     "mode":"1200bps BPSK SSB CW",
     "callsign":"JY1SAT",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
   {
@@ -11150,7 +11150,7 @@
     "beacon":"145.840",
     "mode":"1200bps BPSK SSB CW",
     "callsign":"JY1SAT",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
   {
@@ -11216,7 +11216,7 @@
     "beacon":"145.840",
     "mode":"1200bps BPSK SSB CW",
     "callsign":"JY1SAT",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"KLYF-4722-0218-1441-3015"
   },
   {

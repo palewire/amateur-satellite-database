@@ -57690,7 +57690,7 @@
     "image":"satellites\/HUNITY.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-10-31T00:00:00Z",
+    "launched":"2025-11-19T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/www.albaorbital.com\/bme-hunity",
     "operator":"None",
@@ -57698,8 +57698,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-09-26T19:34:03.763427Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-18T09:04:26.706780Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58002,7 +58002,7 @@
     "image":"satellites\/PHASMA-1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-10T18:18:00Z",
+    "launched":"2025-11-19T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/gitlab.com\/librespacefoundation\/phasma",
     "operator":"None",
@@ -58010,8 +58010,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-05T07:49:04.150498Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=62130.0;all",
+    "updated":"2025-11-18T08:56:17.663282Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58026,7 +58026,7 @@
     "image":"satellites\/PHASMA-1_B9RaTzC.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-10T18:18:00Z",
+    "launched":"2025-11-19T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/libre.space\/projects\/phasma\/",
     "operator":"None",
@@ -58034,8 +58034,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-05T07:49:04.169079Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=62130.0;all",
+    "updated":"2025-11-18T08:56:13.605744Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58508,7 +58508,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-10T18:18:00Z",
+    "launched":"2025-11-19T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58516,8 +58516,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-05T07:49:04.143823Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=62130.0;all",
+    "updated":"2025-11-18T09:03:43.837639Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58628,7 +58628,7 @@
     "image":"satellites\/T_MicroSat_1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T00:00:00Z",
+    "launched":"2025-11-19T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/www.tronfuture.com\/",
     "operator":"None",
@@ -58636,8 +58636,416 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-14T06:45:53.848149Z",
-    "citation":"Removed note from description",
+    "updated":"2025-11-18T09:03:50.013993Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JHRF-0337-3219-1911-8361",
+    "norad_cat_id":98500.0,
+    "norad_follow_id":null,
+    "name":"6GSTARLAB",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:55:58.531763Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JLEB-0721-4376-1745-3628",
+    "norad_cat_id":98501.0,
+    "norad_follow_id":null,
+    "name":"AC1-001",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:55:31.176481Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SPMP-9044-9220-3749-3997",
+    "norad_cat_id":98502.0,
+    "norad_follow_id":null,
+    "name":"AC1-002",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:55:07.116961Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ARUO-2168-8360-8839-5781",
+    "norad_cat_id":98503.0,
+    "norad_follow_id":null,
+    "name":"AC1-003",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:54:43.560277Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HHCI-2151-9440-7989-1358",
+    "norad_cat_id":98504.0,
+    "norad_follow_id":null,
+    "name":"CTS-1A",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:54:17.766787Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZOKF-1808-2919-3310-9428",
+    "norad_cat_id":98506.0,
+    "norad_follow_id":null,
+    "name":"HYDROGNSS-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:53:32.051320Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UUME-2328-9296-9738-9467",
+    "norad_cat_id":98505.0,
+    "norad_follow_id":null,
+    "name":"HYDROGNSS-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:53:56.219393Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WGJF-9753-0185-8964-7735",
+    "norad_cat_id":98507.0,
+    "norad_follow_id":null,
+    "name":"ION SCV-021",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:53:11.805726Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UQKX-0360-6571-5279-5297",
+    "norad_cat_id":98508.0,
+    "norad_follow_id":null,
+    "name":"ION SCV-022",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:52:43.775675Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EGDO-0528-2484-4224-1235",
+    "norad_cat_id":98509.0,
+    "norad_follow_id":null,
+    "name":"LUNA-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:52:17.463578Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YXPN-6198-5145-0440-6603",
+    "norad_cat_id":98510.0,
+    "norad_follow_id":null,
+    "name":"MERCURY ONE (M1)",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:51:48.884358Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CSCG-0961-5128-2311-6817",
+    "norad_cat_id":98511.0,
+    "norad_follow_id":null,
+    "name":"NAHLA",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:51:26.029468Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RYNA-2795-1118-6092-9017",
+    "norad_cat_id":98512.0,
+    "norad_follow_id":null,
+    "name":"PHI-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:51:02.722229Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IWGF-7249-1338-4367-2504",
+    "norad_cat_id":98513.0,
+    "norad_follow_id":null,
+    "name":"PW-6U",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:50:36.387938Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XSYX-9066-9977-0340-5352",
+    "norad_cat_id":98514.0,
+    "norad_follow_id":null,
+    "name":"TRYAD",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T08:50:04.464133Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JBBF-3425-4524-4262-2493",
+    "norad_cat_id":98499.0,
+    "norad_follow_id":null,
+    "name":"BRO-17",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T09:05:12.123372Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QTIE-7003-0773-7118-5213",
+    "norad_cat_id":98498.0,
+    "norad_follow_id":null,
+    "name":"BRO-20",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-19T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-18T09:05:40.577840Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
