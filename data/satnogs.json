@@ -23333,8 +23333,8 @@
     "name":"Starlink 1010",
     "names":"",
     "image":"satellites\/starlink_yFDXJ20.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-15T00:00:00Z",
     "launched":"2019-11-11T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -23343,8 +23343,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-09-12T19:19:37.056259Z",
-    "citation":"https:\/\/planet4589.org\/space\/stats\/star\/spl02\/index.html",
+    "updated":"2025-11-19T07:36:23.872439Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=44716",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57686,20 +57686,20 @@
     "norad_cat_id":98537.0,
     "norad_follow_id":null,
     "name":"HUNITY",
-    "names":"NMHH-1",
+    "names":"NMHH-1, HG1NMHH",
     "image":"satellites\/HUNITY.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-20T18:18:00Z",
     "deployed":null,
-    "website":"https:\/\/www.albaorbital.com\/bme-hunity",
+    "website":"https:\/\/gnd.bme.hu\/hunity",
     "operator":"None",
     "countries":"HU",
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T09:04:26.706780Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-11-19T07:01:59.834341Z",
+    "citation":"Add callsign",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58505,19 +58505,19 @@
     "norad_follow_id":null,
     "name":"MICE-1",
     "names":"",
-    "image":"",
+    "image":"satellites\/mice-1_patch-480e274e.webp",
     "status":"future",
     "decayed":null,
     "launched":"2025-11-19T18:18:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/prismael.com\/index.php\/en\/activities-en\/space-esa-en\/mice-1",
     "operator":"None",
-    "countries":"",
+    "countries":"GR",
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T09:03:43.837639Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-11-19T07:36:36.002853Z",
+    "citation":"https:\/\/prismael.com\/index.php\/en\/activities-en\/space-esa-en\/mice-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -500,16 +500,6 @@
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },
   {
-    "name":"CAS-6",
-    "norad_id":"44881",
-    "uplink":null,
-    "downlink":"145.910",
-    "beacon":"145.910",
-    "mode":"CW",
-    "callsign":"BJ1SV",
-    "satnogs_id":"VMQF-4924-7475-1891-3199"
-  },
-  {
     "name":"CAS-9",
     "norad_id":"50466",
     "uplink":"145.985",
@@ -1010,16 +1000,6 @@
     "satnogs_id":"SRMQ-6676-8759-6509-8693"
   },
   {
-    "name":"DEKART",
-    "norad_id":"46493",
-    "uplink":null,
-    "downlink":"437.000",
-    "beacon":null,
-    "mode":"4800bps mobitex",
-    "callsign":null,
-    "satnogs_id":"LBLF-9256-3450-0417-4224"
-  },
-  {
     "name":"DELFI-C3",
     "norad_id":"32789",
     "uplink":null,
@@ -1068,16 +1048,6 @@
     "mode":"2400bps FSK",
     "callsign":"DJIB1A",
     "satnogs_id":"ZUPC-4545-0225-3537-3322"
-  },
-  {
-    "name":"DOSAAF-85",
-    "norad_id":"44909",
-    "uplink":"145.935-145.995",
-    "downlink":"435.670-435.610",
-    "beacon":"435.605",
-    "mode":"SSB CW",
-    "callsign":"RS44",
-    "satnogs_id":"UFYD-5782-6372-2920-6054"
   },
   {
     "name":"Dragonfly",
@@ -2248,16 +2218,6 @@
     "mode":"4800bps GFSK",
     "callsign":"XX0UHF",
     "satnogs_id":"BGSA-1802-1526-4835-1410"
-  },
-  {
-    "name":"Norbi",
-    "norad_id":"46494",
-    "uplink":null,
-    "downlink":"436.700",
-    "beacon":null,
-    "mode":"9600bps FSK\/250k_LoRa",
-    "callsign":"CUBSAT",
-    "satnogs_id":"DNNN-7162-2135-4056-8903"
   },
   {
     "name":"Norby-2",
@@ -3450,16 +3410,6 @@
     "satnogs_id":"YEOH-3929-6205-1615-7126"
   },
   {
-    "name":"TIANQIN-1",
-    "norad_id":"44881",
-    "uplink":null,
-    "downlink":"145.910",
-    "beacon":"145.910",
-    "mode":"CW",
-    "callsign":"BJ1SV",
-    "satnogs_id":"VMQF-4924-7475-1891-3199"
-  },
-  {
     "name":"Tianyi-2",
     "norad_id":"43155",
     "uplink":"435.350\/2403.000\/5653.000",
@@ -3488,16 +3438,6 @@
     "mode":"9600bps FSK",
     "callsign":"HNATIG",
     "satnogs_id":"XCTT-8747-8578-2256-0351"
-  },
-  {
-    "name":"TO-108",
-    "norad_id":"44881",
-    "uplink":null,
-    "downlink":"145.910",
-    "beacon":"145.910",
-    "mode":"CW",
-    "callsign":"BJ1SV",
-    "satnogs_id":"VMQF-4924-7475-1891-3199"
   },
   {
     "name":"TRISAT-R",
