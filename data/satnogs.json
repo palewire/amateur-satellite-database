@@ -58769,19 +58769,19 @@
     "norad_follow_id":null,
     "name":"HYDROGNSS-1",
     "names":"",
-    "image":"",
+    "image":"satellites\/cropped-HydroGNSS-Sat-251x300_7occGCx.png",
     "status":"future",
     "decayed":null,
     "launched":"2025-11-19T18:18:00Z",
     "deployed":null,
-    "website":"",
-    "operator":"None",
+    "website":"https:\/\/www.hydrognss.org\/",
+    "operator":"ESA",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:53:32.051320Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-18T13:10:31.908554Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58793,19 +58793,19 @@
     "norad_follow_id":null,
     "name":"HYDROGNSS-2",
     "names":"",
-    "image":"",
+    "image":"satellites\/cropped-HydroGNSS-Sat-251x300.png",
     "status":"future",
     "decayed":null,
     "launched":"2025-11-19T18:18:00Z",
     "deployed":null,
-    "website":"",
-    "operator":"None",
+    "website":"https:\/\/www.hydrognss.org\/",
+    "operator":"ESA",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:53:56.219393Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-18T13:10:27.050085Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58985,19 +58985,19 @@
     "norad_follow_id":null,
     "name":"TRYAD",
     "names":"",
-    "image":"",
+    "image":"satellites\/TRYAD-patch.png",
     "status":"future",
     "decayed":null,
     "launched":"2025-11-19T18:18:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/space.auburn.edu\/tryad\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:50:04.464133Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-18T13:10:44.867541Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
