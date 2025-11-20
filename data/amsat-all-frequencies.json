@@ -3417,7 +3417,7 @@
     "beacon":"435.710",
     "mode":"FM CW*",
     "callsign":"CAS2T",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"WMGA-3000-1529-8035-2634"
   },
   {
@@ -6926,7 +6926,7 @@
     "beacon":null,
     "mode":"Linear  transponder",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
@@ -6937,7 +6937,7 @@
     "beacon":null,
     "mode":"Digital transponder",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
@@ -7982,7 +7982,7 @@
     "beacon":"436.400",
     "mode":"4k8*AFSK 9k6GMSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"GMGG-8364-0705-0161-3298"
   },
   {
@@ -8400,7 +8400,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"non-amateur",
+    "status":"re-entered",
     "satnogs_id":"PJOY-0550-6470-9256-2782"
   },
   {
@@ -9115,7 +9115,7 @@
     "beacon":"437.375*",
     "mode":"1k2 AFSK 9k6 GMSK S-BPSK CW*",
     "callsign":"JG6YBW",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"VJOC-8812-6508-8111-4056"
   },
   {
@@ -13174,7 +13174,7 @@
     "beacon":"145.950",
     "mode":"12k5 BPSK CW",
     "callsign":"DB0MVE",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"JWFD-9682-9871-6006-7786"
   },
   {
@@ -15297,7 +15297,7 @@
     "beacon":null,
     "mode":"Linear  transponder",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
@@ -15308,7 +15308,7 @@
     "beacon":null,
     "mode":"Digital transponder",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
@@ -16265,7 +16265,7 @@
     "beacon":null,
     "mode":"Linear  transponder",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
@@ -16276,7 +16276,7 @@
     "beacon":null,
     "mode":"Digital transponder",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
@@ -20599,7 +20599,7 @@
     "beacon":null,
     "mode":"1k2*\/2k4 FFSK",
     "callsign":"DP0TBB",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"MCHL-8693-9902-0813-2147"
   },
   {
@@ -22100,14 +22100,14 @@
   },
   {
     "name":"TY-4",
-    "norad_id":"43669",
+    "norad_id":"43665",
     "uplink":"435.925\/2409.000\/5659.000",
     "downlink":"435.925*\/2409.000\/5839.000",
     "beacon":null,
     "mode":"9k6 GMSK\/5Mbps OFDM",
     "callsign":null,
-    "status":"active",
-    "satnogs_id":"DWZS-2247-2262-5163-7605"
+    "status":"re-entered",
+    "satnogs_id":"PTXD-4514-0747-9499-7521"
   },
   {
     "name":"TY-5",

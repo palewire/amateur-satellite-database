@@ -480,16 +480,6 @@
     "satnogs_id":"JJGC-7637-4682-0934-3692"
   },
   {
-    "name":"CAS-2T",
-    "norad_id":"41847",
-    "uplink":"145.925",
-    "downlink":"435.615",
-    "beacon":"435.710",
-    "mode":"FM CW*",
-    "callsign":"CAS2T",
-    "satnogs_id":"WMGA-3000-1529-8035-2634"
-  },
-  {
     "name":"CAS-3H",
     "norad_id":"40908",
     "uplink":"145.825\/145.875",
@@ -1110,16 +1100,6 @@
     "satnogs_id":"NLUY-5633-4354-5527-8129"
   },
   {
-    "name":"Es'Hail-2",
-    "norad_id":"43700",
-    "uplink":"2400.050-2400.300",
-    "downlink":"10489.550-10489.800",
-    "beacon":null,
-    "mode":"Linear  transponder",
-    "callsign":null,
-    "satnogs_id":"LBQI-9987-6865-3928-8294"
-  },
-  {
     "name":"EXO-0",
     "norad_id":"59175",
     "uplink":null,
@@ -1310,16 +1290,6 @@
     "satnogs_id":"SEXU-2964-9908-3979-4793"
   },
   {
-    "name":"Galassia",
-    "norad_id":"41170",
-    "uplink":null,
-    "downlink":"144.200\/145.000",
-    "beacon":"436.400",
-    "mode":"4k8*AFSK 9k6GMSK",
-    "callsign":null,
-    "satnogs_id":"GMGG-8364-0705-0161-3298"
-  },
-  {
     "name":"GALASSIA-2",
     "norad_id":"57486",
     "uplink":null,
@@ -1508,16 +1478,6 @@
     "mode":"9600bps GMSK CW",
     "callsign":"RS59S",
     "satnogs_id":"YDID-3447-4202-8525-9942"
-  },
-  {
-    "name":"HORYU-4",
-    "norad_id":"41340",
-    "uplink":null,
-    "downlink":"437.375\/2400.300",
-    "beacon":"437.375*",
-    "mode":"1k2 AFSK 9k6 GMSK S-BPSK CW*",
-    "callsign":"JG6YBW",
-    "satnogs_id":"VJOC-8812-6508-8111-4056"
   },
   {
     "name":"HO-68",
@@ -2090,16 +2050,6 @@
     "satnogs_id":"GAHV-9088-5977-7290-0624"
   },
   {
-    "name":"MOVE-2",
-    "norad_id":"43780",
-    "uplink":"437.800",
-    "downlink":"145.950",
-    "beacon":"145.950",
-    "mode":"12k5 BPSK CW",
-    "callsign":"DB0MVE",
-    "satnogs_id":"JWFD-9682-9871-6006-7786"
-  },
-  {
     "name":"MO-105",
     "norad_id":"44832",
     "uplink":null,
@@ -2340,16 +2290,6 @@
     "satnogs_id":"GLVU-3778-3036-0537-1969"
   },
   {
-    "name":"Phase-4A",
-    "norad_id":"43700",
-    "uplink":"2400.050-2400.300",
-    "downlink":"10489.550-10489.800",
-    "beacon":null,
-    "mode":"Linear  transponder",
-    "callsign":null,
-    "satnogs_id":"LBQI-9987-6865-3928-8294"
-  },
-  {
     "name":"PicSat",
     "norad_id":"43132",
     "uplink":"145.910",
@@ -2418,16 +2358,6 @@
     "mode":"FM* tone 141.3Hz CW",
     "callsign":"D1W2PH",
     "satnogs_id":"HIEK-3729-5596-2727-4744"
-  },
-  {
-    "name":"QO-100",
-    "norad_id":"43700",
-    "uplink":"2400.050-2400.300",
-    "downlink":"10489.550-10489.800",
-    "beacon":null,
-    "mode":"Linear  transponder",
-    "callsign":null,
-    "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
     "name":"QUBE",
@@ -3290,16 +3220,6 @@
     "satnogs_id":"YOQT-9019-0118-9280-5437"
   },
   {
-    "name":"S-NetA",
-    "norad_id":"43188",
-    "uplink":null,
-    "downlink":"435.950\/2263.000",
-    "beacon":null,
-    "mode":"1k2*\/2k4 FFSK",
-    "callsign":"DP0TBB",
-    "satnogs_id":"MCHL-8693-9902-0813-2147"
-  },
-  {
     "name":"TechSat-1B",
     "norad_id":"25397",
     "uplink":"145.850\/145.930",
@@ -3458,16 +3378,6 @@
     "mode":"9600bps GFSK CW",
     "callsign":"RS78S",
     "satnogs_id":"RUKR-0716-8781-6957-0828"
-  },
-  {
-    "name":"TY-4",
-    "norad_id":"43669",
-    "uplink":"435.925\/2409.000\/5659.000",
-    "downlink":"435.925*\/2409.000\/5839.000",
-    "beacon":null,
-    "mode":"9k6 GMSK\/5Mbps OFDM",
-    "callsign":null,
-    "satnogs_id":"DWZS-2247-2262-5163-7605"
   },
   {
     "name":"UmKA-1",
