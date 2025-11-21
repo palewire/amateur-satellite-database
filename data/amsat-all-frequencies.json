@@ -18131,11 +18131,11 @@
     "name":"SHERPA-AC1",
     "norad_id":"52763",
     "uplink":null,
-    "downlink":"400.481",
-    "beacon":"400.481",
-    "mode":"CW",
+    "downlink":null,
+    "beacon":"400.500\/400.481",
+    "mode":"FM CW",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"GZWO-4435-4264-5456-3264"
   },
   {
@@ -22349,7 +22349,7 @@
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"PECP-7624-9468-5114-8950"
   },
   {
     "name":"Umbra-06",

@@ -2370,16 +2370,6 @@
     "satnogs_id":"DELH-6722-1461-1897-7938"
   },
   {
-    "name":"SHERPA-AC1",
-    "norad_id":"52763",
-    "uplink":null,
-    "downlink":"400.481",
-    "beacon":"400.481",
-    "mode":"CW",
-    "callsign":null,
-    "satnogs_id":"GZWO-4435-4264-5456-3264"
-  },
-  {
     "name":"SITRO-AIS-5",
     "norad_id":"57176",
     "uplink":null,

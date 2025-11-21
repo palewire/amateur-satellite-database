@@ -26262,13 +26262,13 @@
   },
   {
     "sat_id":"PECP-7624-9468-5114-8950",
-    "norad_cat_id":99273.0,
-    "norad_follow_id":55036.0,
+    "norad_cat_id":55036.0,
+    "norad_follow_id":null,
     "name":"Umbra 05",
     "names":"",
     "image":"satellites\/Umbra-satellite2_qOxpVmL.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-18T00:00:00Z",
     "launched":"2022-12-18T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/umbra.space\/",
@@ -26277,7 +26277,7 @@
     "telemetries":[
 
     ],
-    "updated":"2023-11-05T19:18:49.908970Z",
+    "updated":"2025-11-21T08:09:18.006211Z",
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -42972,8 +42972,8 @@
     "name":"IRIS-F1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-18T00:00:00Z",
     "launched":"2024-03-04T22:05:00Z",
     "deployed":"2024-03-04T23:00:35Z",
     "website":"",
@@ -42982,8 +42982,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T02:31:41.079656Z",
-    "citation":"https:\/\/twitter.com\/HAMSATNL\/status\/1768696475385512054",
+    "updated":"2025-11-21T08:07:58.619259Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=59110",
     "is_frequency_violator":false,
     "associated_satellites":[
 
