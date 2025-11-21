@@ -8282,7 +8282,7 @@
     "name":"MinXSS 2",
     "names":"",
     "image":"",
-    "status":"dead",
+    "status":"alive",
     "decayed":null,
     "launched":"2018-12-03T00:00:00Z",
     "deployed":null,
@@ -8294,8 +8294,8 @@
         "decoder":"minxss"
       }
     ],
-    "updated":"2025-03-12T17:31:22.705050Z",
-    "citation":"https:\/\/lasp.colorado.edu\/minxss\/",
+    "updated":"2025-11-20T15:02:15.263550Z",
+    "citation":"https:\/\/orbit.ing-now.com\/satellite-tle\/2018-099A\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -8478,7 +8478,7 @@
     "name":"SNUSAT-2",
     "names":"",
     "image":"",
-    "status":"dead",
+    "status":"alive",
     "decayed":null,
     "launched":"2018-12-03T00:00:00Z",
     "deployed":"2018-12-03T00:00:00Z",
@@ -8488,8 +8488,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-09-24T10:33:34.503045Z",
-    "citation":"dl7ndr",
+    "updated":"2025-11-20T15:02:15.233219Z",
+    "citation":"https:\/\/orbit.ing-now.com\/satellite-tle\/2018-099AA\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -21862,7 +21862,7 @@
     "name":"MTCube 2",
     "names":"ROBUSTA-1F, FX6FRA",
     "image":"satellites\/M2C.jpg",
-    "status":"dead",
+    "status":"alive",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -21872,8 +21872,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-07-30T14:34:28.624878Z",
-    "citation":"CSUM Team",
+    "updated":"2025-11-20T15:02:15.311790Z",
+    "citation":"According to the October 13 TLE, MTCUBE is fully operational and functioning normally. It is in a stable medium-Earth orbit (MEO) and continues to carry out its mission.  https:\/\/orbit.ing-now.com\/satellite\/53109\/2022-080e\/mtcube\/",
     "is_frequency_violator":false,
     "associated_satellites":[
       "WBXW-9677-0234-4123-6430"
@@ -32227,7 +32227,7 @@
     "name":"SNIPE C",
     "names":"KASI-SAT C, SNIPE 3",
     "image":"satellites\/SNIPE_VdScGIb.jpg",
-    "status":"dead",
+    "status":"alive",
     "decayed":null,
     "launched":"2023-05-25T09:24:00Z",
     "deployed":"2023-05-25T09:38:23Z",
@@ -32237,8 +32237,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-06-17T12:52:02.056469Z",
-    "citation":"https:\/\/en.wikipedia.org\/wiki\/SNIPE_(satellite)",
+    "updated":"2025-11-20T15:02:15.289666Z",
+    "citation":"https:\/\/orbit.ing-now.com\/satellite-tle\/2023-072C\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -38524,8 +38524,8 @@
     "name":"Connecta T3.1",
     "names":"",
     "image":"satellites\/connecta_T_3_1_.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-16T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:48:10Z",
     "website":"https:\/\/www.plan.space\/",
@@ -38534,8 +38534,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T00:56:09.126368Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58256",
+    "updated":"2025-11-20T14:52:15.123152Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=58256",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42012,8 +42012,8 @@
     "name":"ICEYE-X27",
     "names":"2023-001BF",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-15T00:00:00Z",
     "launched":"2023-01-03T00:00:00Z",
     "deployed":"2023-01-03T00:00:00Z",
     "website":"",
@@ -42022,8 +42022,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-22T17:21:26.075286Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1OUW0VKWroR8j6peNcd8ZIQKm5GnlBR7MWQ2lR5GMioI\/edit?usp=sharing",
+    "updated":"2025-11-20T14:51:42.525543Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=55062",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -44103,8 +44103,8 @@
     "name":"Object F",
     "names":"2024-016F",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-16T00:00:00Z",
     "launched":"2024-01-23T00:00:00Z",
     "deployed":"2024-01-23T00:00:00Z",
     "website":"",
@@ -44113,8 +44113,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-04-04T13:59:47.078163Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1FVBr9d6P8hZ80h4f0WbO3Ua33uWbJ1g-MeaEX2yCSl4\/edit?usp=sharing",
+    "updated":"2025-11-20T14:51:24.308886Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=58825",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57690,7 +57690,7 @@
     "image":"satellites\/HUNITY.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-20T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/gnd.bme.hu\/hunity",
     "operator":"None",
@@ -57698,8 +57698,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-19T07:01:59.834341Z",
-    "citation":"Add callsign",
+    "updated":"2025-11-20T15:00:12.312408Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58002,15 +58002,17 @@
     "image":"satellites\/PHASMA-1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/gitlab.com\/librespacefoundation\/phasma",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
-
+      {
+        "decoder":"yamcs"
+      }
     ],
-    "updated":"2025-11-18T08:56:17.663282Z",
+    "updated":"2025-11-20T14:57:21.381944Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58026,15 +58028,17 @@
     "image":"satellites\/PHASMA-1_B9RaTzC.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/libre.space\/projects\/phasma\/",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
-
+      {
+        "decoder":"yamcs"
+      }
     ],
-    "updated":"2025-11-18T08:56:13.605744Z",
+    "updated":"2025-11-20T14:57:21.371859Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58508,7 +58512,7 @@
     "image":"satellites\/mice-1_patch-480e274e.webp",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/prismael.com\/index.php\/en\/activities-en\/space-esa-en\/mice-1",
     "operator":"None",
@@ -58516,8 +58520,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-19T07:36:36.002853Z",
-    "citation":"https:\/\/prismael.com\/index.php\/en\/activities-en\/space-esa-en\/mice-1",
+    "updated":"2025-11-20T14:57:21.349243Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58532,7 +58536,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-10T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58540,8 +58544,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-05T07:49:04.159387Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=62130.0;all",
+    "updated":"2025-11-20T15:00:12.318445Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58628,7 +58632,7 @@
     "image":"satellites\/T_MicroSat_1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/www.tronfuture.com\/",
     "operator":"None",
@@ -58636,7 +58640,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T09:03:50.013993Z",
+    "updated":"2025-11-20T14:57:21.407219Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58649,19 +58653,19 @@
     "norad_follow_id":null,
     "name":"6GSTARLAB",
     "names":"",
-    "image":"",
+    "image":"satellites\/15-I2CAT-6GStarLab-768x432.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/esaphilabnet-spain.ieec.cat\/ca\/infrastructure\/6gstarlab\/",
     "operator":"None",
     "countries":"ES",
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:55:58.531763Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.431938Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58676,7 +58680,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58684,8 +58688,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:55:31.176481Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.247715Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58700,7 +58704,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58708,8 +58712,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:55:07.116961Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.257648Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58724,7 +58728,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58732,8 +58736,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:54:43.560277Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.265290Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58748,7 +58752,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58756,8 +58760,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:54:17.766787Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.291291Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58772,7 +58776,7 @@
     "image":"satellites\/cropped-HydroGNSS-Sat-251x300_7occGCx.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/www.hydrognss.org\/",
     "operator":"ESA",
@@ -58780,7 +58784,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T13:10:31.908554Z",
+    "updated":"2025-11-20T14:57:21.300352Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58796,7 +58800,7 @@
     "image":"satellites\/cropped-HydroGNSS-Sat-251x300.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/www.hydrognss.org\/",
     "operator":"ESA",
@@ -58804,7 +58808,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T13:10:27.050085Z",
+    "updated":"2025-11-20T14:57:21.307717Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58820,7 +58824,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58828,8 +58832,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:53:11.805726Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.313415Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58844,7 +58848,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58852,8 +58856,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:52:43.775675Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.319383Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58868,16 +58872,16 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:52:17.463578Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.329247Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58892,7 +58896,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58900,8 +58904,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:51:48.884358Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.339100Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58916,7 +58920,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58924,8 +58928,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:51:26.029468Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.359043Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58940,7 +58944,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58948,8 +58952,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:51:02.722229Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.391685Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58964,7 +58968,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -58972,8 +58976,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T08:50:36.387938Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.399348Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58988,7 +58992,7 @@
     "image":"satellites\/TRYAD-patch.png",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/space.auburn.edu\/tryad\/",
     "operator":"None",
@@ -58996,7 +59000,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T13:10:44.867541Z",
+    "updated":"2025-11-20T15:00:12.304744Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59012,7 +59016,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -59020,8 +59024,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T09:05:12.123372Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.271396Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59036,7 +59040,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-19T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -59044,8 +59048,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-18T09:05:40.577840Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-20T14:57:21.280814Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 

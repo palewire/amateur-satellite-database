@@ -320,16 +320,6 @@
     "satnogs_id":"FIRA-5450-5372-6155-3095"
   },
   {
-    "name":"BRO-7",
-    "norad_id":"52174",
-    "uplink":null,
-    "downlink":"401.735",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":null,
-    "satnogs_id":"JCFO-8453-2271-5998-5795"
-  },
-  {
     "name":"BRO-8",
     "norad_id":"55011",
     "uplink":null,
@@ -450,16 +440,6 @@
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },
   {
-    "name":"CAS-9",
-    "norad_id":"50466",
-    "uplink":"145.985",
-    "downlink":"435.725",
-    "beacon":null,
-    "mode":"4k8*GMSK image data",
-    "callsign":"CAS9",
-    "satnogs_id":"WMPC-3806-8308-1122-5138"
-  },
-  {
     "name":"CatSat",
     "norad_id":"60246",
     "uplink":null,
@@ -468,16 +448,6 @@
     "mode":"2k4*\/9k6\/38k4 FSK",
     "callsign":null,
     "satnogs_id":"EIOW-0233-5270-5407-2865"
-  },
-  {
-    "name":"Centauri-5",
-    "norad_id":"52742",
-    "uplink":null,
-    "downlink":"400.180",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":"FLEF3N",
-    "satnogs_id":"PWFW-2275-1349-5417-9753"
   },
   {
     "name":"Centauri-6",
@@ -1900,16 +1870,6 @@
     "satnogs_id":"SSBD-3811-5706-8042-1219"
   },
   {
-    "name":"MDASat-1C",
-    "norad_id":"51038",
-    "uplink":null,
-    "downlink":"401.050",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"MDASAT",
-    "satnogs_id":"DNMS-7281-4476-5826-4348"
-  },
-  {
     "name":"MESAT-1",
     "norad_id":"60209",
     "uplink":"145.910-145.940",
@@ -2188,16 +2148,6 @@
     "mode":"9600bps MSK",
     "callsign":null,
     "satnogs_id":"HGYE-7318-8290-9065-4147"
-  },
-  {
-    "name":"PlantSat",
-    "norad_id":"52188",
-    "uplink":null,
-    "downlink":"437.240",
-    "beacon":null,
-    "mode":"4800bps FSK",
-    "callsign":null,
-    "satnogs_id":null
   },
   {
     "name":"Platform-1",

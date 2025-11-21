@@ -2955,7 +2955,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"JCFO-8453-2271-5998-5795"
   },
   {
@@ -4044,7 +4044,7 @@
     "beacon":null,
     "mode":"4k8*GMSK image data",
     "callsign":"CAS9",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"WMPC-3806-8308-1122-5138"
   },
   {
@@ -4053,7 +4053,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":"435.575",
-    "mode":"CW*",
+    "mode":"CW",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"WMPC-3806-8308-1122-5138"
@@ -4253,7 +4253,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":"FLEF3N",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"PWFW-2275-1349-5417-9753"
   },
   {
@@ -12723,7 +12723,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"RDYM-6468-8383-2209-5747"
   },
   {
@@ -12734,7 +12734,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"MDASAT",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"DNMS-7281-4476-5826-4348"
   },
   {
@@ -15627,7 +15627,7 @@
     "beacon":null,
     "mode":"4800bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
