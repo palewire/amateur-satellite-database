@@ -40,7 +40,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"DZKC-2045-5925-0631-5801"
   },
   {
@@ -15649,7 +15649,7 @@
     "beacon":null,
     "mode":"2k4\/4k8*\/9k6 GFSK",
     "callsign":"SS2141",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UIXV-7191-6999-4098-0253"
   },
   {
@@ -15660,7 +15660,7 @@
     "beacon":null,
     "mode":"4800bps GFSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"ZVIO-0893-8720-4254-3996"
   },
   {
@@ -15671,7 +15671,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"AOWV-3972-1112-6379-5554"
   },
   {
@@ -15682,7 +15682,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"PL0005",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"PRZP-7386-5227-9698-5175"
   },
   {
@@ -16595,7 +16595,7 @@
     "beacon":null,
     "mode":"1k2*\/9k6 BPSK",
     "callsign":"RANDEV",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"LYKB-5376-2648-5150-0020"
   },
   {
@@ -17629,18 +17629,51 @@
     "beacon":null,
     "mode":"4k8 GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":"AOWV-3972-1112-6379-5554"
   },
   {
     "name":"Sateliot-1",
-    "norad_id":null,
+    "norad_id":"47961",
     "uplink":null,
     "downlink":"399.975\/400.550",
     "beacon":null,
     "mode":"QPSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
+    "satnogs_id":"DZKC-2045-5925-0631-5801"
+  },
+  {
+    "name":"Sateliot-2",
+    "norad_id":"60534",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Sateliot-3",
+    "norad_id":"60552",
+    "uplink":null,
+    "downlink":"2189.800",
+    "beacon":null,
+    "mode":"200k BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Sateliot-4",
+    "norad_id":"60534",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -19928,7 +19961,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"STEP2",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"ODFG-1778-1250-1047-4122"
   },
   {

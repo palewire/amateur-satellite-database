@@ -2150,26 +2150,6 @@
     "satnogs_id":"HGYE-7318-8290-9065-4147"
   },
   {
-    "name":"Platform-1",
-    "norad_id":"52770",
-    "uplink":null,
-    "downlink":"400.360",
-    "beacon":null,
-    "mode":"2k4\/4k8*\/9k6 GFSK",
-    "callsign":"SS2141",
-    "satnogs_id":"UIXV-7191-6999-4098-0253"
-  },
-  {
-    "name":"Platform-5",
-    "norad_id":"58339",
-    "uplink":null,
-    "downlink":"401.360\/2277.500",
-    "beacon":null,
-    "mode":"4800bps GMSK",
-    "callsign":"PL0005",
-    "satnogs_id":"PRZP-7386-5227-9698-5175"
-  },
-  {
     "name":"Polytech-Universe-3",
     "norad_id":"57191",
     "uplink":null,
@@ -2208,16 +2188,6 @@
     "mode":"FM* CTCSS 67.0Hz\/200bps DUV",
     "callsign":null,
     "satnogs_id":"PMAW-9203-2442-8666-3249"
-  },
-  {
-    "name":"RANDEV",
-    "norad_id":"52898",
-    "uplink":null,
-    "downlink":"436.030",
-    "beacon":null,
-    "mode":"1k2*\/9k6 BPSK",
-    "callsign":"RANDEV",
-    "satnogs_id":"LYKB-5376-2648-5150-0020"
   },
   {
     "name":"REAL",
@@ -2958,16 +2928,6 @@
     "mode":"1200bps FM CW*",
     "callsign":"JR5YBO",
     "satnogs_id":"RCSI-2248-9538-7513-4618"
-  },
-  {
-    "name":"STEP CubeLab-II",
-    "norad_id":"52897",
-    "uplink":null,
-    "downlink":"437.485",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"STEP2",
-    "satnogs_id":"ODFG-1778-1250-1047-4122"
   },
   {
     "name":"STRaND-1",
