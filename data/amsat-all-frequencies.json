@@ -1437,7 +1437,7 @@
     "beacon":null,
     "mode":"QPSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"FSSK-6949-2964-0842-4335"
   },
   {
@@ -1767,7 +1767,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UMPB-4838-3573-4295-4716"
   },
   {
@@ -1778,7 +1778,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UBSL-9996-0697-6364-8541"
   },
   {
@@ -1789,7 +1789,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"YVLW-7172-6368-8769-3972"
   },
   {
@@ -1800,7 +1800,7 @@
     "beacon":null,
     "mode":"400bps QPSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"TXDT-0013-3741-7488-5458"
   },
   {
@@ -2757,7 +2757,7 @@
     "beacon":null,
     "mode":"2k4*\/9k6 FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"MMZL-7798-8557-0116-9958"
   },
   {
@@ -2966,7 +2966,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"RJCF-5779-9216-5641-4111"
   },
   {
@@ -4660,7 +4660,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"CONT21",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"RYJB-2072-5322-3255-6402"
   },
   {
@@ -5903,7 +5903,7 @@
     "beacon":null,
     "mode":"2k4 FSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"CUBE-8122-6984-5413-0457"
   },
   {
@@ -6717,7 +6717,7 @@
     "beacon":null,
     "mode":"1k2AFSK APRS",
     "callsign":"A55BTN",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"NLUY-5633-4354-5527-8129"
   },
   {
@@ -8521,7 +8521,7 @@
     "beacon":null,
     "mode":"0k3\/1k2*\/2k4FSK Digipeater",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"KGEF-8685-2681-9687-2264"
   },
   {
@@ -10369,7 +10369,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"VPUU-7194-1121-2414-5647"
   },
   {
@@ -10380,7 +10380,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"NJEX-6170-8600-1975-0468"
   },
   {
@@ -10402,7 +10402,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"DIVJ-8110-8669-4923-0530"
   },
   {
@@ -10413,7 +10413,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"TWEF-8525-8046-9814-5948"
   },
   {
@@ -11436,7 +11436,7 @@
     "beacon":null,
     "mode":"9k6 GMSK",
     "callsign":"YM2RKS",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"LIQD-2119-7593-4558-1219"
   },
   {
@@ -13306,7 +13306,7 @@
     "beacon":null,
     "mode":"1k25\/2k5\/5k\/12k5*GMSK",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"PDTE-7914-8172-6131-7029"
   },
   {
@@ -17552,7 +17552,7 @@
     "beacon":"437.400",
     "mode":"1k2*\/2k4 FSK CW",
     "callsign":"RS36S",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"ODQC-6867-8683-7650-3513"
   },
   {
@@ -17618,7 +17618,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":"KN6HCC",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -18047,7 +18047,7 @@
     "beacon":null,
     "mode":"9600bps 2FSK",
     "callsign":"WJ2XOX",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"OSBB-5160-7827-1540-1828"
   },
   {
@@ -19026,7 +19026,7 @@
     "beacon":null,
     "mode":"4800bps MSK_AX.100_Mode 5",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"AYLO-6910-6407-3496-4588"
   },
   {
@@ -19532,7 +19532,7 @@
     "beacon":null,
     "mode":"9k6 GMSK",
     "callsign":"SPEIST",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"RINJ-3108-9789-8075-5047"
   },
   {
@@ -19741,7 +19741,7 @@
     "beacon":null,
     "mode":"9k6 GMSK",
     "callsign":"YM2RTU",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"UHCZ-3181-8745-4096-1978"
   },
   {
@@ -19774,7 +19774,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6GMSK",
     "callsign":"OM9GRB",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"LSZR-8461-9828-5431-6212"
   },
   {
@@ -21908,7 +21908,7 @@
     "beacon":null,
     "mode":"1000bps GFSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"FWIK-4601-2533-0527-1613"
   },
   {
