@@ -670,16 +670,6 @@
     "satnogs_id":"CGZW-4770-7854-7332-3001"
   },
   {
-    "name":"CSTP-1.2",
-    "norad_id":"57186",
-    "uplink":null,
-    "downlink":"436.270",
-    "beacon":null,
-    "mode":"LoRa",
-    "callsign":null,
-    "satnogs_id":"OEVP-0911-2494-4510-3616"
-  },
-  {
     "name":"CSTP-4.1",
     "norad_id":"64882",
     "uplink":null,

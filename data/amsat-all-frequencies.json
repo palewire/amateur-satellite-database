@@ -5221,7 +5221,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"OEVP-0911-2494-4510-3616"
   },
   {

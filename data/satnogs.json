@@ -59054,5 +59054,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"CWDV-0028-2331-0716-8618",
+    "norad_cat_id":98496.0,
+    "norad_follow_id":null,
+    "name":"SNUGLITE-III HANA",
+    "names":"SNUGLITE-III A",
+    "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/gnss.snu.ac.kr\/snuglite\/",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-24T10:18:09.747303Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JAUW-7193-3193-5642-8786",
+    "norad_cat_id":98497.0,
+    "norad_follow_id":null,
+    "name":"SNUGLITE-III DURI",
+    "names":"SNUGLITE-III B",
+    "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac_6HNiO4O.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-24T10:18:01.545044Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
