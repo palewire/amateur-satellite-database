@@ -2988,7 +2988,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"BISO-5259-3723-1730-8460"
   },
   {
@@ -2999,7 +2999,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"BKIY-3032-2869-4485-1697"
   },
   {
@@ -4671,7 +4671,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"CONT31",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"IMJX-7102-0140-6430-7844"
   },
   {
@@ -4682,7 +4682,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"CONT32",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"ZAVF-3403-5726-0559-1255"
   },
   {
@@ -5034,7 +5034,7 @@
     "beacon":null,
     "mode":"1200bps BPSK",
     "callsign":"CSC1",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"CNPX-5092-5371-0749-4265"
   },
   {
@@ -5045,7 +5045,7 @@
     "beacon":null,
     "mode":"1200bps BPSK",
     "callsign":"CSC2",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"PONC-2290-8188-0010-0245"
   },
   {
@@ -5969,11 +5969,11 @@
     "beacon":null,
     "mode":"2400bps FSK",
     "callsign":"DJIB1A",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"ZUPC-4545-0225-3537-3322"
   },
   {
-    "name":"Djibouti-1B",
+    "name":"DJIBOUTI-1B",
     "norad_id":"62402",
     "uplink":null,
     "downlink":"401.800",
@@ -6684,7 +6684,7 @@
     "beacon":null,
     "mode":"2k4\/9k6*FSK",
     "callsign":"FX6FRC",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"OBZD-9153-9709-2837-1280"
   },
   {
@@ -7975,7 +7975,7 @@
     "satnogs_id":"JZKF-3943-1313-5044-2973"
   },
   {
-    "name":"Galassia",
+    "name":"GALASSIA",
     "norad_id":"41170",
     "uplink":null,
     "downlink":"144.200\/145.000",
@@ -7993,7 +7993,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"BYRQ-8084-9850-7997-7193"
   },
   {
@@ -10710,7 +10710,7 @@
     "beacon":null,
     "mode":"9600bps BPSK",
     "callsign":"BN0TR1",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"JZOW-0900-7355-5555-3949"
   },
   {
@@ -11766,7 +11766,7 @@
     "beacon":null,
     "mode":"2k4*-9k6 GMSK_USP",
     "callsign":"RS47S",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"IAID-3852-6397-8056-8089"
   },
   {
@@ -13317,7 +13317,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -14978,7 +14978,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":"XWTX-9859-8737-7609-7570"
   },
   {
@@ -16826,7 +16826,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -16848,7 +16848,7 @@
     "beacon":null,
     "mode":"2k4\/9k6*FSK",
     "callsign":"FX6FRC",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"FNGO-2772-5931-1779-2835"
   },
   {
@@ -18982,7 +18982,7 @@
     "beacon":"2212.000",
     "mode":"CW",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"OOWE-8073-4789-5817-7258"
   },
   {
@@ -23089,17 +23089,6 @@
     "satnogs_id":"MBWN-8482-2114-9688-9106"
   },
   {
-    "name":"VELOX-P2",
-    "norad_id":"39438",
-    "uplink":"437.305",
-    "downlink":"145.980",
-    "beacon":"145.980",
-    "mode":"1200bps BPSK CW",
-    "callsign":null,
-    "status":"inactive",
-    "satnogs_id":"FVZE-6295-2194-3210-6337"
-  },
-  {
     "name":"VELOX-2",
     "norad_id":"41171",
     "uplink":null,
@@ -23109,6 +23098,28 @@
     "callsign":"VELOX2",
     "status":"re-entered",
     "satnogs_id":"DSGN-7978-0500-3017-5294"
+  },
+  {
+    "name":"VELOX-AM",
+    "norad_id":"57482",
+    "uplink":null,
+    "downlink":"437.125",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"BVGM-7941-1194-7387-5450"
+  },
+  {
+    "name":"VELOX-P2",
+    "norad_id":"39438",
+    "uplink":"437.305",
+    "downlink":"145.980",
+    "beacon":"145.980",
+    "mode":"1200bps BPSK CW",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"FVZE-6295-2194-3210-6337"
   },
   {
     "name":"VELOX-III",

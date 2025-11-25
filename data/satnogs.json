@@ -59064,7 +59064,7 @@
     "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-26T00:00:00Z",
+    "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
     "website":"https:\/\/gnss.snu.ac.kr\/snuglite\/",
     "operator":"None",
@@ -59072,8 +59072,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-24T10:18:09.747303Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-25T12:05:42.611551Z",
+    "citation":"Change launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59088,7 +59088,7 @@
     "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac_6HNiO4O.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-26T00:00:00Z",
+    "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -59096,8 +59096,320 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-24T10:18:01.545044Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-11-25T12:05:39.513110Z",
+    "citation":"Change launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FUNJ-2834-4382-2735-5337",
+    "norad_cat_id":98493.0,
+    "norad_follow_id":null,
+    "name":"BEE-1000",
+    "names":"",
+    "image":"satellites\/BEE_Logo.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T08:33:31.566106Z",
+    "citation":"Add temporary NORAD ID and https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XFCX-7274-9992-0205-7857",
+    "norad_cat_id":98494.0,
+    "norad_follow_id":null,
+    "name":"COSMIC",
+    "names":"",
+    "image":"satellites\/KakaoTalk_20251125_151839057.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T08:26:54.779587Z",
+    "citation":"Add temporary NORAD ID and https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TFCT-6554-7216-6555-9189",
+    "norad_cat_id":98495.0,
+    "norad_follow_id":null,
+    "name":"TORO-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T12:02:43.209130Z",
+    "citation":"Fix launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WNIW-3579-8441-1864-2418",
+    "norad_cat_id":98492.0,
+    "norad_follow_id":null,
+    "name":"SPIRONE",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T09:23:06.524558Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VITR-2667-4745-6003-3786",
+    "norad_cat_id":98491.0,
+    "norad_follow_id":null,
+    "name":"PERSAT01",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T11:55:04.693761Z",
+    "citation":"Change status",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QLDP-3783-5419-7098-2257",
+    "norad_cat_id":98490.0,
+    "norad_follow_id":null,
+    "name":"INHA-RoSAT",
+    "names":"ROSAT",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T10:54:56.519173Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VFAW-1957-0148-9612-7991",
+    "norad_cat_id":98489.0,
+    "norad_follow_id":null,
+    "name":"K-HERO",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T11:01:19.540337Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TLQC-3012-7514-0280-5350",
+    "norad_cat_id":98488.0,
+    "norad_follow_id":null,
+    "name":"JACK-003",
+    "names":"JAC",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T11:54:57.429754Z",
+    "citation":"Change status",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QYWU-8968-1222-0258-9408",
+    "norad_cat_id":98487.0,
+    "norad_follow_id":null,
+    "name":"JACK-004",
+    "names":"JAC",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T11:32:07.116301Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LXMJ-8963-3008-5567-5816",
+    "norad_cat_id":98486.0,
+    "norad_follow_id":null,
+    "name":"E3_TESTER_KARI-1",
+    "names":"E3 TESTER_KARI",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T11:32:07.112074Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QNUG-5690-5888-9770-0276",
+    "norad_cat_id":98485.0,
+    "norad_follow_id":null,
+    "name":"ETRISat",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T11:32:07.107449Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EQML-6882-0922-9942-3929",
+    "norad_cat_id":98484.0,
+    "norad_follow_id":null,
+    "name":"SJSAT-4",
+    "names":"SEJONG-4",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T11:32:07.103172Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IGUM-2152-0197-4071-8038",
+    "norad_cat_id":98483.0,
+    "norad_follow_id":null,
+    "name":"CAS500-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T15:54:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T12:03:22.881992Z",
+    "citation":"Fix country of origin",
     "is_frequency_violator":false,
     "associated_satellites":[
 
