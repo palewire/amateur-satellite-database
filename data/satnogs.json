@@ -57643,15 +57643,15 @@
     "status":"alive",
     "decayed":null,
     "launched":"2025-09-14T22:11:00Z",
-    "deployed":"2025-11-17T00:00:00Z",
+    "deployed":"2025-12-02T08:28:00Z",
     "website":"https:\/\/silversat.org\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-09-23T12:38:36.869807Z",
-    "citation":"Information from the project",
+    "updated":"2025-11-25T14:09:47.480380Z",
+    "citation":"https:\/\/community.libre.space\/t\/new-users-welcome\/29\/590",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58666,7 +58666,7 @@
     ],
     "updated":"2025-11-20T14:57:21.431938Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -59090,14 +59090,14 @@
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/gnss.snu.ac.kr\/snuglite\/",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T12:05:39.513110Z",
-    "citation":"Change launch date",
+    "updated":"2025-11-25T12:18:47.687217Z",
+    "citation":"https:\/\/gnss.snu.ac.kr\/snuglite\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59410,6 +59410,174 @@
     ],
     "updated":"2025-11-25T12:03:22.881992Z",
     "citation":"Fix country of origin",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OTUO-9494-3471-7180-4596",
+    "norad_cat_id":98482.0,
+    "norad_follow_id":null,
+    "name":"CTC-1A",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T17:43:57.775848Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CDDD-0280-4973-5946-8664",
+    "norad_cat_id":98481.0,
+    "norad_follow_id":null,
+    "name":"CTC-1B",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T17:43:57.771111Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IJQV-1195-2515-8742-0084",
+    "norad_cat_id":98480.0,
+    "norad_follow_id":null,
+    "name":"CTC-1C",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T17:43:57.764832Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WVDG-4965-1801-4190-1789",
+    "norad_cat_id":98479.0,
+    "norad_follow_id":null,
+    "name":"IHI-SAT 2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T19:22:14.622152Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TBRA-6788-0701-0482-9659",
+    "norad_cat_id":98478.0,
+    "norad_follow_id":null,
+    "name":"LILIUM-2",
+    "names":"NCKU-LILIUM-2",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T19:41:22.157452Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZAQI-1863-4357-0208-7597",
+    "norad_cat_id":98477.0,
+    "norad_follow_id":null,
+    "name":"LILIUM-3",
+    "names":"NCKU-LILIUM-3",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T19:41:22.152256Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JFKN-0559-0700-3409-5701",
+    "norad_cat_id":98476.0,
+    "norad_follow_id":null,
+    "name":"OBSERVER-1B",
+    "names":"GYEONGGISAT-1, MX\u00c1O-1",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-25T20:04:23.600332Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
