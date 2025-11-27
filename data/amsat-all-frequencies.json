@@ -3010,7 +3010,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"KSFC-2018-1319-4536-1314"
   },
   {
@@ -4207,7 +4207,7 @@
     "uplink":null,
     "downlink":"400.625",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"DYBD-8638-9272-8158-5486"
@@ -4218,7 +4218,7 @@
     "uplink":null,
     "downlink":"400.625",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"UESS-5249-7079-4000-7571"
@@ -4229,7 +4229,7 @@
     "uplink":null,
     "downlink":"400.180",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":"FLEF1N",
     "status":"re-entered",
     "satnogs_id":"ZJER-5082-9774-9829-7564"
@@ -4240,7 +4240,7 @@
     "uplink":null,
     "downlink":"400.180",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":"FLEF2N",
     "status":"re-entered",
     "satnogs_id":"AXQA-7364-6026-4427-9296"
@@ -4251,7 +4251,7 @@
     "uplink":null,
     "downlink":"400.180",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":"FLEF3N",
     "status":"re-entered",
     "satnogs_id":"PWFW-2275-1349-5417-9753"
@@ -4262,9 +4262,9 @@
     "uplink":null,
     "downlink":"400.180",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":"FLEF4N",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"LSZL-5040-6372-8930-2241"
   },
   {
@@ -4273,7 +4273,7 @@
     "uplink":null,
     "downlink":"400.220",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":"FLEF5N",
     "status":"active",
     "satnogs_id":"NVNE-0921-0696-6168-3956"
@@ -4284,7 +4284,7 @@
     "uplink":null,
     "downlink":"400.220",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":"FLEF6N",
     "status":"active",
     "satnogs_id":"WRLU-1723-6543-5361-0506"
@@ -6992,7 +6992,7 @@
     "beacon":null,
     "mode":"4800bps GMSK",
     "callsign":"EXO000",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"TCKS-3322-7921-4714-6406"
   },
   {
@@ -10732,7 +10732,7 @@
     "beacon":null,
     "mode":"2400bps BPSK",
     "callsign":"BN0IF1",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"SGTS-7428-9120-3753-9994"
   },
   {
@@ -10743,7 +10743,7 @@
     "beacon":null,
     "mode":"2400bps BPSK",
     "callsign":"BN0IF2",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -10754,7 +10754,7 @@
     "beacon":null,
     "mode":"2400bps BPSK",
     "callsign":"BN0IF2",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"FJEH-8509-1736-7936-8017"
   },
   {
@@ -14648,7 +14648,7 @@
     "beacon":"2263.000",
     "mode":"1200bps AFSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"IWZL-9125-3719-4852-5266"
   },
   {
@@ -14813,7 +14813,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"KJ7SAT",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"DKCD-1609-0567-7056-3922"
   },
   {

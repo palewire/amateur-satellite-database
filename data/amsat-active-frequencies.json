@@ -270,16 +270,6 @@
     "satnogs_id":"XFVV-4114-4685-9543-2674"
   },
   {
-    "name":"BRO-12",
-    "norad_id":"59107",
-    "uplink":null,
-    "downlink":"401.735",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":null,
-    "satnogs_id":"KSFC-2018-1319-4536-1314"
-  },
-  {
     "name":"BRO-13",
     "norad_id":"59108",
     "uplink":null,
@@ -360,22 +350,12 @@
     "satnogs_id":"EIOW-0233-5270-5407-2865"
   },
   {
-    "name":"Centauri-6",
-    "norad_id":"59451",
-    "uplink":null,
-    "downlink":"400.180",
-    "beacon":null,
-    "mode":"9600bps FSK",
-    "callsign":"FLEF4N",
-    "satnogs_id":"LSZL-5040-6372-8930-2241"
-  },
-  {
     "name":"Centauri-7",
     "norad_id":"62708",
     "uplink":null,
     "downlink":"400.220",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":"FLEF5N",
     "satnogs_id":"NVNE-0921-0696-6168-3956"
   },
@@ -385,7 +365,7 @@
     "uplink":null,
     "downlink":"400.220",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":"FLEF6N",
     "satnogs_id":"WRLU-1723-6543-5361-0506"
   },
@@ -798,16 +778,6 @@
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"DP1GOS",
     "satnogs_id":"QTXY-8933-7836-7484-6250"
-  },
-  {
-    "name":"EXO-0",
-    "norad_id":"59175",
-    "uplink":null,
-    "downlink":"401.360",
-    "beacon":null,
-    "mode":"4800bps GMSK",
-    "callsign":"EXO000",
-    "satnogs_id":"TCKS-3322-7921-4714-6406"
   },
   {
     "name":"FossaSat-2E1",
@@ -1330,36 +1300,6 @@
     "satnogs_id":"KGEF-8685-2681-9687-2264"
   },
   {
-    "name":"IRIS-F1",
-    "norad_id":"59111",
-    "uplink":null,
-    "downlink":"400.915",
-    "beacon":null,
-    "mode":"2400bps BPSK",
-    "callsign":"BN0IF1",
-    "satnogs_id":"SGTS-7428-9120-3753-9994"
-  },
-  {
-    "name":"IRIS-F2",
-    "norad_id":"62683",
-    "uplink":null,
-    "downlink":"400.915\/2280.000",
-    "beacon":null,
-    "mode":"2400bps BPSK",
-    "callsign":"BN0IF2",
-    "satnogs_id":null
-  },
-  {
-    "name":"IRIS-F3",
-    "norad_id":"62619",
-    "uplink":null,
-    "downlink":"400.920\/2280.000",
-    "beacon":null,
-    "mode":"2400bps BPSK",
-    "callsign":"BN0IF2",
-    "satnogs_id":"FJEH-8509-1736-7936-8017"
-  },
-  {
     "name":"iSat",
     "norad_id":"43879",
     "uplink":"437.325",
@@ -1760,16 +1700,6 @@
     "satnogs_id":"AGMX-2508-1337-4945-9939"
   },
   {
-    "name":"OOV-Cube",
-    "norad_id":"60240",
-    "uplink":null,
-    "downlink":"435.950",
-    "beacon":"2263.000",
-    "mode":"1200bps AFSK",
-    "callsign":null,
-    "satnogs_id":"IWZL-9125-3719-4852-5266"
-  },
-  {
     "name":"ORARI",
     "norad_id":"40931",
     "uplink":"145.880\/145.825",
@@ -1778,16 +1708,6 @@
     "mode":"1k2*AFSK FM tone 88.5Hz",
     "callsign":"YBSAT\/YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
-  },
-  {
-    "name":"OreSat-0.5",
-    "norad_id":"60525",
-    "uplink":null,
-    "downlink":"436.500",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"KJ7SAT",
-    "satnogs_id":"DKCD-1609-0567-7056-3922"
   },
   {
     "name":"OTP-2",

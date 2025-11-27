@@ -58054,7 +58054,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2025-11-10T18:18:00Z",
+    "launched":"2025-11-26T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/rapidtek.net\/en\/satellite",
     "operator":"None",
@@ -58062,8 +58062,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-07T09:46:44.315100Z",
-    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/RAPIDTEK\/125545223",
+    "updated":"2025-11-26T08:03:05.646655Z",
+    "citation":"Update launch date, https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58744,30 +58744,6 @@
     ]
   },
   {
-    "sat_id":"HHCI-2151-9440-7989-1358",
-    "norad_cat_id":98504.0,
-    "norad_follow_id":null,
-    "name":"CTS-1A",
-    "names":"",
-    "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2025-11-26T18:18:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2025-11-20T14:57:21.291291Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"ZOKF-1808-2919-3310-9428",
     "norad_cat_id":98506.0,
     "norad_follow_id":null,
@@ -58954,7 +58930,7 @@
     ],
     "updated":"2025-11-20T14:57:21.391685Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -58987,7 +58963,7 @@
     "sat_id":"XSYX-9066-9977-0340-5352",
     "norad_cat_id":98514.0,
     "norad_follow_id":null,
-    "name":"TRYAD",
+    "name":"TRYAD-1",
     "names":"",
     "image":"satellites\/TRYAD-patch.png",
     "status":"future",
@@ -59000,8 +58976,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-20T15:00:12.304744Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-11-26T08:31:59.486811Z",
+    "citation":"Fix name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59062,7 +59038,7 @@
     "name":"SNUGLITE-III HANA",
     "names":"SNUGLITE-III A",
     "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59072,8 +59048,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T12:05:42.611551Z",
-    "citation":"Change launch date",
+    "updated":"2025-11-26T15:21:17.949302Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59086,7 +59062,7 @@
     "name":"SNUGLITE-III DURI",
     "names":"SNUGLITE-III B",
     "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac_6HNiO4O.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59096,8 +59072,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T12:18:47.687217Z",
-    "citation":"https:\/\/gnss.snu.ac.kr\/snuglite\/",
+    "updated":"2025-11-26T15:21:17.862239Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59110,7 +59086,7 @@
     "name":"BEE-1000",
     "names":"",
     "image":"satellites\/BEE_Logo.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59120,8 +59096,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T08:33:31.566106Z",
-    "citation":"Add temporary NORAD ID and https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "updated":"2025-11-26T15:21:17.904922Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59134,7 +59110,7 @@
     "name":"COSMIC",
     "names":"",
     "image":"satellites\/KakaoTalk_20251125_151839057.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59144,8 +59120,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T08:26:54.779587Z",
-    "citation":"Add temporary NORAD ID and https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "updated":"2025-11-26T15:21:17.652032Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59182,7 +59158,7 @@
     "name":"SPIRONE",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59192,8 +59168,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T09:23:06.524558Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "updated":"2025-11-26T15:21:17.681773Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59206,7 +59182,7 @@
     "name":"PERSAT01",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59216,8 +59192,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T11:55:04.693761Z",
-    "citation":"Change status",
+    "updated":"2025-11-26T15:21:17.710926Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59230,7 +59206,7 @@
     "name":"INHA-RoSAT",
     "names":"ROSAT",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59240,8 +59216,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T10:54:56.519173Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "updated":"2025-11-26T15:21:17.820887Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59254,7 +59230,7 @@
     "name":"K-HERO",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59264,8 +59240,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T11:01:19.540337Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "updated":"2025-11-26T15:21:17.734490Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59278,7 +59254,7 @@
     "name":"JACK-003",
     "names":"JAC",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59288,8 +59264,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T11:54:57.429754Z",
-    "citation":"Change status",
+    "updated":"2025-11-26T15:21:17.756730Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59302,7 +59278,7 @@
     "name":"JACK-004",
     "names":"JAC",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59312,8 +59288,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T11:32:07.116301Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "updated":"2025-11-26T15:21:17.777592Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59326,7 +59302,7 @@
     "name":"E3_TESTER_KARI-1",
     "names":"E3 TESTER_KARI",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59336,8 +59312,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T11:32:07.112074Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "updated":"2025-11-26T15:21:17.842277Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59350,7 +59326,7 @@
     "name":"ETRISat",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59360,8 +59336,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T11:32:07.107449Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "updated":"2025-11-26T15:21:17.799226Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59374,7 +59350,7 @@
     "name":"SJSAT-4",
     "names":"SEJONG-4",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59384,8 +59360,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T11:32:07.103172Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63607.0",
+    "updated":"2025-11-26T15:21:17.925752Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59398,7 +59374,7 @@
     "name":"CAS500-3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
     "deployed":null,
@@ -59408,8 +59384,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-25T12:03:22.881992Z",
-    "citation":"Fix country of origin",
+    "updated":"2025-11-26T15:21:17.883511Z",
+    "citation":"https:\/\/x.com\/kari2030",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59436,7 +59412,7 @@
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "HHCI-2151-9440-7989-1358"
     ]
   },
   {
@@ -59578,6 +59554,150 @@
     ],
     "updated":"2025-11-25T20:04:23.600332Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QPBG-1123-0916-8657-5641",
+    "norad_cat_id":98475.0,
+    "norad_follow_id":null,
+    "name":"PIAST-M",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T08:11:34.792569Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UTSO-4544-0680-0406-4840",
+    "norad_cat_id":98474.0,
+    "norad_follow_id":null,
+    "name":"PIAST-S1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T08:11:34.787919Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LDTD-7134-5031-7504-0965",
+    "norad_cat_id":98473.0,
+    "norad_follow_id":null,
+    "name":"PIAST-S2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T08:11:34.781341Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WXLE-1814-4207-0890-0965",
+    "norad_cat_id":98472.0,
+    "norad_follow_id":null,
+    "name":"TRYAD-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"https:\/\/space.auburn.edu\/tryad\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T08:33:13.240282Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DSNA-7326-7717-9075-2330",
+    "norad_cat_id":98471.0,
+    "norad_follow_id":null,
+    "name":"SPIN-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T08:57:39.867802Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=60274.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"INDR-0800-7707-7365-1468",
+    "norad_cat_id":98470.0,
+    "norad_follow_id":null,
+    "name":"HCT-SAT2",
+    "names":"MBRSC-2",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-26T15:20:53.020900Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
