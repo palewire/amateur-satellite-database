@@ -1860,16 +1860,6 @@
     "satnogs_id":"UKBO-2090-2618-8439-9299"
   },
   {
-    "name":"Ruzaevka-390",
-    "norad_id":"61766",
-    "uplink":null,
-    "downlink":"437.050",
-    "beacon":null,
-    "mode":"1143bps AFSK SSTV",
-    "callsign":"RS44S",
-    "satnogs_id":"FYAH-9859-4626-0049-4502"
-  },
-  {
     "name":"Saturn",
     "norad_id":"57174",
     "uplink":null,
