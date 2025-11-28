@@ -2321,6 +2321,17 @@
     "satnogs_id":null
   },
   {
+    "name":"BEE-1000",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500\/2403.500",
+    "beacon":null,
+    "mode":"4800bps MSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"BELIEFSAT-1",
     "norad_id":null,
     "uplink":"435.825",
@@ -3405,6 +3416,17 @@
     "downlink":null,
     "beacon":null,
     "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS500-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2236.689\/8210.000",
+    "beacon":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -6479,6 +6501,17 @@
     "satnogs_id":"GTMF-2365-6960-5386-3224"
   },
   {
+    "name":"E3_TESTER_KARI-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2256.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Eagle-1",
     "norad_id":"39437",
     "uplink":null,
@@ -7027,6 +7060,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"LBQI-9987-6865-3928-8294"
+  },
+  {
+    "name":"ETRISat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"916.000\/2207.733",
+    "beacon":null,
+    "mode":"LoRa FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"ExAlta-1",
@@ -10241,6 +10285,17 @@
     "satnogs_id":"SGQP-9600-2585-3107-8587"
   },
   {
+    "name":"INHA-RoSAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.665\/2417.000",
+    "beacon":null,
+    "mode":"9600bps GFSK QPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"INNOCUBE",
     "norad_id":"62616",
     "uplink":null,
@@ -11132,6 +11187,28 @@
     "satnogs_id":null
   },
   {
+    "name":"JACK-003",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.300",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"JACK-004",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.300",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Jackal-3",
     "norad_id":"62378",
     "uplink":null,
@@ -11944,6 +12021,17 @@
     "callsign":"KK4AJJ",
     "status":"re-entered",
     "satnogs_id":"KMOS-8479-8668-2060-1108"
+  },
+  {
+    "name":"K-HERO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.180",
+    "beacon":null,
+    "mode":"4800bps MSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"LabSat",
@@ -15422,6 +15510,17 @@
     "satnogs_id":null
   },
   {
+    "name":"PERSAT-01",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.125",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Perseus-M1",
     "norad_id":"40039",
     "uplink":null,
@@ -17057,7 +17156,7 @@
     "beacon":null,
     "mode":"1200bps AFSK\/GMSK*",
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -19393,6 +19492,28 @@
     "satnogs_id":"YFNZ-9504-4902-9033-1722"
   },
   {
+    "name":"SNUGLITE-III-DURI",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.788\/2405.000",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"DS0DH",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"SNUGLITE-III-HANA",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.460\/2405.000",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"DS0DH",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"SNUSAT-1",
     "norad_id":"42733",
     "uplink":null,
@@ -19897,6 +20018,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"QFRO-8807-8086-2793-1420"
+  },
+  {
+    "name":"SPIRONE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.650\/2425.100",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"SPOC",

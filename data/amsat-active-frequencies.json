@@ -1810,16 +1810,6 @@
     "satnogs_id":"ZNYX-2468-9597-3161-5205"
   },
   {
-    "name":"RIDUSat-1",
-    "norad_id":"64531",
-    "uplink":null,
-    "downlink":"145.825\/145.925*",
-    "beacon":null,
-    "mode":"1200bps AFSK\/GMSK*",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"ROBUSTA-3A",
     "norad_id":"60243",
     "uplink":null,
@@ -2338,6 +2328,26 @@
     "mode":"4800bps MSK_AX.100_Mode 5",
     "callsign":null,
     "satnogs_id":"EOVQ-9559-0511-0103-2591"
+  },
+  {
+    "name":"SNUGLITE-III-DURI",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.788\/2405.000",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"DS0DH",
+    "satnogs_id":null
+  },
+  {
+    "name":"SNUGLITE-III-HANA",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.460\/2405.000",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"DS0DH",
+    "satnogs_id":null
   },
   {
     "name":"SOMP",
