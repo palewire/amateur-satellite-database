@@ -3008,9 +3008,9 @@
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":"4800bps FSK",
+    "mode":"9600bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"XFVV-4114-4685-9543-2674"
   },
   {
@@ -3063,7 +3063,7 @@
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":"4800bps FSK",
+    "mode":"9600bps FSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":"ZTUR-8052-1950-5911-7314"
@@ -3074,7 +3074,7 @@
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":"4800bps FSK",
+    "mode":"9600bps FSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":"PUFM-6212-8243-7442-9645"
@@ -3085,7 +3085,7 @@
     "uplink":null,
     "downlink":"401.735\/2260.500",
     "beacon":null,
-    "mode":"4k8*\/9k6 FSK",
+    "mode":"4k8\/9k6* FSK",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"GXHN-5969-4300-2868-0422"
@@ -3107,7 +3107,7 @@
     "uplink":null,
     "downlink":"401.735\/2260.500",
     "beacon":null,
-    "mode":"4k8*\/9k6 FSK",
+    "mode":"4k8\/9k6* FSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":"ENLC-4952-6681-1812-8294"
