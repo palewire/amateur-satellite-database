@@ -32154,8 +32154,8 @@
     "name":"ArcCube-01",
     "names":"RS25S",
     "image":"satellites\/large_ARCCUBE_01_11138b4ff1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-27T00:00:00Z",
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/spacepi.space\/wiki\/article\/arccube-01\/",
@@ -32164,8 +32164,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-07T00:28:49.741719Z",
-    "citation":"ikhnos identificated",
+    "updated":"2025-11-28T12:35:46.120884Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=57205",
     "is_frequency_violator":true,
     "associated_satellites":[
       "NIJZ-5008-6655-1155-3785"
@@ -42804,8 +42804,8 @@
     "name":"ICEYE-X13",
     "names":"2021-059AP",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-24T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":"2021-06-30T00:00:00Z",
     "website":"",
@@ -42814,8 +42814,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T23:09:56.779012Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1PjYOxidE4QHmttlig0bCQFP83i0HNVNlX9RGs0huT64\/edit?usp=sharing",
+    "updated":"2025-11-28T23:33:23.969040Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48916",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57688,7 +57688,7 @@
     "name":"HUNITY",
     "names":"NMHH-1, HG1NMHH",
     "image":"satellites\/HUNITY.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -57698,7 +57698,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.454609Z",
+    "updated":"2025-11-28T18:47:33.239224Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58000,7 +58000,7 @@
     "name":"PHASMA-LAMARR",
     "names":"",
     "image":"satellites\/PHASMA-1.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58012,7 +58012,7 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2025-11-27T10:14:18.464042Z",
+    "updated":"2025-11-28T18:44:38.023499Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58026,7 +58026,7 @@
     "name":"PHASMA-DIRAC",
     "names":"",
     "image":"satellites\/PHASMA-1_B9RaTzC.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58038,7 +58038,7 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2025-11-27T10:14:18.503982Z",
+    "updated":"2025-11-28T18:44:38.050025Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58052,7 +58052,7 @@
     "name":"Black Kite-1",
     "names":"8U RIoT-1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58062,7 +58062,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.526454Z",
+    "updated":"2025-11-28T18:47:33.522864Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58510,7 +58510,7 @@
     "name":"MICE-1",
     "names":"",
     "image":"satellites\/mice-1_patch-480e274e.webp",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58520,7 +58520,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.433288Z",
+    "updated":"2025-11-28T18:47:33.127418Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58534,7 +58534,7 @@
     "name":"3UCUBED-A",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58544,7 +58544,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.490930Z",
+    "updated":"2025-11-28T18:47:33.376572Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58630,7 +58630,7 @@
     "name":"T.MicroSat-1",
     "names":"",
     "image":"satellites\/T_MicroSat_1.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58640,7 +58640,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.450019Z",
+    "updated":"2025-11-28T18:47:33.217348Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58654,7 +58654,7 @@
     "name":"6GSTARLAB",
     "names":"",
     "image":"satellites\/15-I2CAT-6GStarLab-768x432.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58664,7 +58664,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.472948Z",
+    "updated":"2025-11-28T18:47:33.300736Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -58678,7 +58678,7 @@
     "name":"AC1-001",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58688,7 +58688,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.468506Z",
+    "updated":"2025-11-28T18:47:33.281074Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58702,7 +58702,7 @@
     "name":"AC1-002",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58712,7 +58712,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.424733Z",
+    "updated":"2025-11-28T18:47:33.081125Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58726,7 +58726,7 @@
     "name":"AC1-003",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58736,7 +58736,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.530850Z",
+    "updated":"2025-11-28T18:47:33.546486Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58750,7 +58750,7 @@
     "name":"HYDROGNSS-1",
     "names":"",
     "image":"satellites\/cropped-HydroGNSS-Sat-251x300_7occGCx.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58760,7 +58760,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.368511Z",
+    "updated":"2025-11-28T18:47:32.776034Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58774,7 +58774,7 @@
     "name":"HYDROGNSS-2",
     "names":"",
     "image":"satellites\/cropped-HydroGNSS-Sat-251x300.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58784,7 +58784,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.403420Z",
+    "updated":"2025-11-28T18:47:32.967587Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58798,7 +58798,7 @@
     "name":"ION SCV-021",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58808,7 +58808,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.399254Z",
+    "updated":"2025-11-28T18:47:32.942938Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58822,7 +58822,7 @@
     "name":"ION SCV-022",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58832,7 +58832,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.412179Z",
+    "updated":"2025-11-28T18:47:33.010398Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58846,7 +58846,7 @@
     "name":"LUNA-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58856,7 +58856,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.508634Z",
+    "updated":"2025-11-28T18:47:33.438094Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58870,7 +58870,7 @@
     "name":"MERCURY ONE (M1)",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58880,7 +58880,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.378209Z",
+    "updated":"2025-11-28T18:47:32.838195Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58894,7 +58894,7 @@
     "name":"NAHLA",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58904,7 +58904,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.517409Z",
+    "updated":"2025-11-28T18:47:33.479104Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58918,7 +58918,7 @@
     "name":"PHI-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58928,7 +58928,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.429032Z",
+    "updated":"2025-11-28T18:47:33.103315Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -58942,7 +58942,7 @@
     "name":"PW-6U",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58952,7 +58952,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.486562Z",
+    "updated":"2025-11-28T18:47:33.358354Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58966,7 +58966,7 @@
     "name":"TRYAD-1",
     "names":"",
     "image":"satellites\/TRYAD-patch.png",
-    "status":"re-entered",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -58976,7 +58976,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.382390Z",
+    "updated":"2025-11-28T18:47:32.863451Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -58990,7 +58990,7 @@
     "name":"BRO-17",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59000,7 +59000,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.482249Z",
+    "updated":"2025-11-28T18:47:33.339341Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59014,7 +59014,7 @@
     "name":"BRO-20",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59024,7 +59024,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.437748Z",
+    "updated":"2025-11-28T18:47:33.150534Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59134,7 +59134,7 @@
     "name":"TORO-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59144,7 +59144,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.416281Z",
+    "updated":"2025-11-28T18:47:33.035516Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59398,7 +59398,7 @@
     "name":"CTC-1A",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59408,7 +59408,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.445712Z",
+    "updated":"2025-11-28T18:47:33.194532Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59422,7 +59422,7 @@
     "name":"CTC-1B",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59432,7 +59432,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.522016Z",
+    "updated":"2025-11-28T18:47:33.499249Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59446,7 +59446,7 @@
     "name":"CTC-1C",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59456,7 +59456,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.499726Z",
+    "updated":"2025-11-28T18:47:33.413914Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59470,7 +59470,7 @@
     "name":"IHI-SAT 2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59480,7 +59480,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.395081Z",
+    "updated":"2025-11-28T18:47:32.913087Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59494,7 +59494,7 @@
     "name":"LILIUM-2",
     "names":"NCKU-LILIUM-2",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59504,7 +59504,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.420391Z",
+    "updated":"2025-11-28T18:47:33.056217Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59518,7 +59518,7 @@
     "name":"LILIUM-3",
     "names":"NCKU-LILIUM-3",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59528,7 +59528,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.374085Z",
+    "updated":"2025-11-28T18:47:32.808363Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59542,7 +59542,7 @@
     "name":"OBSERVER-1B",
     "names":"GYEONGGISAT-1, MX\u00c1O-1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59552,7 +59552,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.477484Z",
+    "updated":"2025-11-28T18:47:33.320350Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59566,7 +59566,7 @@
     "name":"PIAST-M",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59576,7 +59576,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.441853Z",
+    "updated":"2025-11-28T18:47:33.173114Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59590,7 +59590,7 @@
     "name":"PIAST-S1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59600,7 +59600,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.407796Z",
+    "updated":"2025-11-28T18:47:32.989865Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59614,7 +59614,7 @@
     "name":"PIAST-S2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59624,7 +59624,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.459530Z",
+    "updated":"2025-11-28T18:47:33.260274Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59638,7 +59638,7 @@
     "name":"TRYAD-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59648,7 +59648,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.390784Z",
+    "updated":"2025-11-28T18:47:32.893111Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59662,7 +59662,7 @@
     "name":"SPIN-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59672,7 +59672,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.513019Z",
+    "updated":"2025-11-28T18:47:33.459060Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -59686,7 +59686,7 @@
     "name":"HCT-SAT2",
     "names":"MBRSC-2",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59696,9 +59696,9 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T10:14:18.495238Z",
+    "updated":"2025-11-28T18:47:33.394310Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -59746,6 +59746,54 @@
     ],
     "updated":"2025-11-27T09:45:21.156376Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VVCO-9182-2144-7766-7316",
+    "norad_cat_id":98467.0,
+    "norad_follow_id":null,
+    "name":"Foresail-1p",
+    "names":"OH2F1S, FS1p",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-11-28T18:18:00Z",
+    "deployed":null,
+    "website":"https:\/\/foresail.github.io\/",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-28T13:20:49.102603Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XEOD-9474-3581-0595-2203",
+    "norad_cat_id":98466.0,
+    "norad_follow_id":null,
+    "name":"OTTER",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-11-26T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-11-28T23:25:25.624767Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/53",
     "is_frequency_violator":false,
     "associated_satellites":[
 

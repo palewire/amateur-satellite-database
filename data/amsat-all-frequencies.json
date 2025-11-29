@@ -10291,8 +10291,8 @@
     "downlink":"437.665\/2417.000",
     "beacon":null,
     "mode":"9600bps GFSK QPSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"ROSAT1",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -11192,9 +11192,9 @@
     "uplink":null,
     "downlink":"436.300",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -11203,9 +11203,9 @@
     "uplink":null,
     "downlink":"436.300",
     "beacon":null,
-    "mode":"9600bps FSK",
+    "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -12030,7 +12030,7 @@
     "beacon":null,
     "mode":"4800bps MSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -20026,8 +20026,8 @@
     "downlink":"436.650\/2425.100",
     "beacon":null,
     "mode":"9600bps GMSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"GK0FX",
+    "status":"active",
     "satnogs_id":null
   },
   {

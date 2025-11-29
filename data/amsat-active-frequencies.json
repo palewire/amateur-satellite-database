@@ -1160,6 +1160,16 @@
     "satnogs_id":"DQTX-7069-3845-7154-3428"
   },
   {
+    "name":"INHA-RoSAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.665\/2417.000",
+    "beacon":null,
+    "mode":"9600bps GFSK QPSK",
+    "callsign":"ROSAT1",
+    "satnogs_id":null
+  },
+  {
     "name":"INNOCUBE",
     "norad_id":"62616",
     "uplink":null,
@@ -1350,6 +1360,26 @@
     "satnogs_id":"FMZT-1887-7286-8009-2095"
   },
   {
+    "name":"JACK-003",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.300",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"JACK-004",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.300",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"JAS-2",
     "norad_id":"24278",
     "uplink":"145.900-146.000",
@@ -1438,6 +1468,16 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "satnogs_id":"LQIA-1498-8400-4918-0119"
+  },
+  {
+    "name":"K-HERO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.180",
+    "beacon":null,
+    "mode":"4800bps MSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"LAPAN-A2",
@@ -2428,6 +2468,16 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "satnogs_id":"QFRO-8807-8086-2793-1420"
+  },
+  {
+    "name":"SPIRONE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.650\/2425.100",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":"GK0FX",
+    "satnogs_id":null
   },
   {
     "name":"STARS-mother",
