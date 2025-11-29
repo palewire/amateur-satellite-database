@@ -59156,8 +59156,8 @@
     "norad_cat_id":98492.0,
     "norad_follow_id":null,
     "name":"SPIRONE",
-    "names":"",
-    "image":"",
+    "names":"Sejong university's Promising Eyes on envIRONment",
+    "image":"satellites\/SPIRONE.png",
     "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
@@ -59168,8 +59168,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.681773Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-11-29T11:28:35.739461Z",
+    "citation":"Citation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
