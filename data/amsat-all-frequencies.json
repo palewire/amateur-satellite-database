@@ -124,9 +124,9 @@
     "name":"6GSTARLAB",
     "norad_id":null,
     "uplink":null,
-    "downlink":"433.895\/2256.750",
+    "downlink":"433.895\/2275.000",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps BPSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -3107,9 +3107,9 @@
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3140,9 +3140,9 @@
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -15196,7 +15196,7 @@
     "uplink":null,
     "downlink":"401.025",
     "beacon":null,
-    "mode":null,
+    "mode":"4k8_GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -20023,9 +20023,9 @@
     "name":"SPIN-2",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.025",
+    "downlink":"401.025\/2230.000",
     "beacon":null,
-    "mode":"9k6_GMSK",
+    "mode":"4k8_GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -22687,9 +22687,9 @@
     "uplink":null,
     "downlink":"401.025",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9k6_GFSK",
+    "callsign":"TRON1",
+    "status":"active",
     "satnogs_id":null
   },
   {

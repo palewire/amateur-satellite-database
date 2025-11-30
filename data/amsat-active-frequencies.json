@@ -290,6 +290,16 @@
     "satnogs_id":"PUFM-6212-8243-7442-9645"
   },
   {
+    "name":"BRO-17",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BRO-18",
     "norad_id":"64550",
     "uplink":null,
@@ -298,6 +308,16 @@
     "mode":"4k8\/9k6* FSK",
     "callsign":null,
     "satnogs_id":"ENLC-4952-6681-1812-8294"
+  },
+  {
+    "name":"BRO-20",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"BSUSat-2",
@@ -2718,6 +2738,16 @@
     "mode":"9600bps GFSK CW",
     "callsign":"RS78S",
     "satnogs_id":"RUKR-0716-8781-6957-0828"
+  },
+  {
+    "name":"T_MicroSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.025",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":"TRON1",
+    "satnogs_id":null
   },
   {
     "name":"UmKA-1",
