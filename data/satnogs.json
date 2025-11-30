@@ -58666,7 +58666,7 @@
     ],
     "updated":"2025-11-28T18:47:33.300736Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -59034,7 +59034,7 @@
   {
     "sat_id":"CWDV-0028-2331-0716-8618",
     "norad_cat_id":98496.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66661.0,
     "name":"SNUGLITE-III HANA",
     "names":"SNUGLITE-III A",
     "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac.jpg",
@@ -59048,8 +59048,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.949302Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-11-29T17:40:29.251722Z",
+    "citation":"Space-Track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59058,7 +59058,7 @@
   {
     "sat_id":"JAUW-7193-3193-5642-8786",
     "norad_cat_id":98497.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66661.0,
     "name":"SNUGLITE-III DURI",
     "names":"SNUGLITE-III B",
     "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac_6HNiO4O.jpg",
@@ -59072,8 +59072,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.862239Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-11-29T17:40:37.306828Z",
+    "citation":"Space-Track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59154,7 +59154,7 @@
   {
     "sat_id":"WNIW-3579-8441-1864-2418",
     "norad_cat_id":98492.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66657.0,
     "name":"SPIRONE",
     "names":"Sejong university's Promising Eyes on envIRONment",
     "image":"satellites\/SPIRONE.png",
@@ -59168,8 +59168,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-29T11:28:35.739461Z",
-    "citation":"Citation",
+    "updated":"2025-11-29T15:13:31.795928Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59226,7 +59226,7 @@
   {
     "sat_id":"VFAW-1957-0148-9612-7991",
     "norad_cat_id":98489.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66660.0,
     "name":"K-HERO",
     "names":"",
     "image":"satellites\/k-hero.jpg",
@@ -59240,8 +59240,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-27T09:38:42.640658Z",
-    "citation":"Citation",
+    "updated":"2025-11-29T15:13:31.700630Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/37",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59250,7 +59250,7 @@
   {
     "sat_id":"TLQC-3012-7514-0280-5350",
     "norad_cat_id":98488.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66659.0,
     "name":"JACK-003",
     "names":"JAC",
     "image":"",
@@ -59264,8 +59264,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.756730Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-11-29T15:13:31.772250Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59274,7 +59274,7 @@
   {
     "sat_id":"QYWU-8968-1222-0258-9408",
     "norad_cat_id":98487.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66655.0,
     "name":"JACK-004",
     "names":"JAC",
     "image":"",
@@ -59288,8 +59288,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.777592Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-11-29T15:13:31.746557Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":true,
     "associated_satellites":[
 

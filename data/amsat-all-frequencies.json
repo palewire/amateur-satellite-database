@@ -8957,7 +8957,7 @@
     "name":"HCT-Sat2",
     "norad_id":null,
     "uplink":null,
-    "downlink":"436.200",
+    "downlink":"436.300",
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
@@ -9498,7 +9498,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":"GMSK LoRa",
+    "mode":"12k5_GMSK LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -14129,7 +14129,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":"GMSK LoRa",
+    "mode":"12k5_GMSK LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -15692,8 +15692,8 @@
     "downlink":"436.850\/2230.000",
     "beacon":null,
     "mode":"9k6_GMSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"PHI1",
+    "status":"active",
     "satnogs_id":null
   },
   {

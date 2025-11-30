@@ -1780,6 +1780,16 @@
     "satnogs_id":"GLVU-3778-3036-0537-1969"
   },
   {
+    "name":"PHI-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.850\/2230.000",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":"PHI1",
+    "satnogs_id":null
+  },
+  {
     "name":"PicSat",
     "norad_id":"43132",
     "uplink":"145.910",
