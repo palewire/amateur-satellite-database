@@ -1110,6 +1110,16 @@
     "satnogs_id":"YFPC-1248-4077-8296-8715"
   },
   {
+    "name":"HCT-Sat2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.300",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Hirogari",
     "norad_id":"47930",
     "uplink":"436.500",
@@ -1181,7 +1191,7 @@
   },
   {
     "name":"INHA-RoSAT",
-    "norad_id":null,
+    "norad_id":"66658",
     "uplink":null,
     "downlink":"437.665\/2417.000",
     "beacon":null,
@@ -1381,7 +1391,7 @@
   },
   {
     "name":"JACK-003",
-    "norad_id":null,
+    "norad_id":"66654",
     "uplink":null,
     "downlink":"436.300",
     "beacon":null,
@@ -1391,7 +1401,7 @@
   },
   {
     "name":"JACK-004",
-    "norad_id":null,
+    "norad_id":"66659",
     "uplink":null,
     "downlink":"436.300",
     "beacon":null,
@@ -1491,7 +1501,7 @@
   },
   {
     "name":"K-HERO",
-    "norad_id":null,
+    "norad_id":"66660",
     "uplink":null,
     "downlink":"437.180",
     "beacon":null,
@@ -2401,7 +2411,7 @@
   },
   {
     "name":"SNUGLITE-III-DURI",
-    "norad_id":null,
+    "norad_id":"66661",
     "uplink":null,
     "downlink":"436.788\/2405.000",
     "beacon":null,
@@ -2411,7 +2421,7 @@
   },
   {
     "name":"SNUGLITE-III-HANA",
-    "norad_id":null,
+    "norad_id":"66662",
     "uplink":null,
     "downlink":"436.460\/2405.000",
     "beacon":null,
@@ -2501,7 +2511,7 @@
   },
   {
     "name":"SPIRONE",
-    "norad_id":null,
+    "norad_id":"66657",
     "uplink":null,
     "downlink":"436.650\/2425.100",
     "beacon":null,

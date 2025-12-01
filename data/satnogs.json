@@ -13516,8 +13516,8 @@
     "name":"VZLUSAT-2",
     "names":"",
     "image":"satellites\/vzlusat-2.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-30T00:00:00Z",
     "launched":"2022-01-13T15:25:00Z",
     "deployed":"2022-01-26T15:02:00Z",
     "website":"https:\/\/www.vzlusat2.cz\/en\/",
@@ -13528,8 +13528,8 @@
         "decoder":"vzlusat2"
       }
     ],
-    "updated":"2023-06-22T00:16:03.507216Z",
-    "citation":"https:\/\/www.vzlusat2.cz\/2022\/01\/27\/first-contact-with-vzlusat-2-reported\/",
+    "updated":"2025-12-01T04:50:22.895606Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=51085",
     "is_frequency_violator":false,
     "associated_satellites":[
       "FAVV-7073-3465-3710-9287"
@@ -19193,10 +19193,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -21740,8 +21740,8 @@
     "name":"FLOCK 1C-4",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-25T00:00:00Z",
     "launched":"2014-06-19T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -21750,8 +21750,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T18:08:43.124398Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2025-12-01T04:49:06.325844Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=40031",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25523,8 +25523,8 @@
     "name":"OBJECT B",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-28T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -25533,8 +25533,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-12-06T09:42:32.189842Z",
-    "citation":"https:\/\/skyriddles.wordpress.com\/2022\/07\/26\/mysterious-pips-from-the-chinese-jilin-constellation\/",
+    "updated":"2025-12-01T04:49:00.626895Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=49004",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35592,8 +35592,8 @@
     "name":"Astrocast-0104",
     "names":"2021-006DK",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-28T00:00:00Z",
     "launched":"2021-01-24T00:00:00Z",
     "deployed":"2021-01-24T00:00:00Z",
     "website":"",
@@ -35602,8 +35602,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-11T17:51:18.289582Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1d05WWtqfBiba7PcxWihp7cIRwsz3H9u101YHbecCunc\/edit?usp=sharing",
+    "updated":"2025-12-01T04:48:54.875228Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=47519",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58318,8 +58318,8 @@
     "name":"UNICORN-2Q",
     "names":"2025-052BM",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-26T00:00:00Z",
     "launched":"2025-03-15T00:00:00Z",
     "deployed":"2025-03-15T00:00:00Z",
     "website":"",
@@ -58328,8 +58328,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-02T14:40:45.956080Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/179L-l6_5HNMFeRb7riomz0bCHLKdStJ6GuE2__PnmXQ\/edit?usp=sharing",
+    "updated":"2025-12-01T04:48:47.327383Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=63491",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58795,8 +58795,8 @@
     "sat_id":"WGJF-9753-0185-8964-7735",
     "norad_cat_id":98507.0,
     "norad_follow_id":null,
-    "name":"ION SCV-021",
-    "names":"",
+    "name":"ION SCV Stellar Stephanus",
+    "names":"ION SCV-021",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -58808,8 +58808,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-28T18:47:32.942938Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-01T10:59:00.541728Z",
+    "citation":"https:\/\/www.dorbit.space\/mission-updates",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58819,8 +58819,8 @@
     "sat_id":"UQKX-0360-6571-5279-5297",
     "norad_cat_id":98508.0,
     "norad_follow_id":null,
-    "name":"ION SCV-022",
-    "names":"",
+    "name":"ION SCV Galactic Georgius",
+    "names":"ION SCV-022",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -58832,8 +58832,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-28T18:47:33.010398Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-01T10:59:00.515200Z",
+    "citation":"https:\/\/www.dorbit.space\/mission-updates",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59082,7 +59082,7 @@
   {
     "sat_id":"FUNJ-2834-4382-2735-5337",
     "norad_cat_id":98493.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66658.0,
     "name":"BEE-1000",
     "names":"",
     "image":"satellites\/BEE_Logo.png",
@@ -59096,8 +59096,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.904922Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-12-01T04:43:55.387999Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/52",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59181,7 +59181,7 @@
     "norad_follow_id":null,
     "name":"PERSAT01",
     "names":"",
-    "image":"",
+    "image":"satellites\/Cubesat01_ixz2bmB.png",
     "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
@@ -59192,8 +59192,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.710926Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-12-01T11:41:24.935003Z",
+    "citation":"PERSAT01",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59794,6 +59794,30 @@
     ],
     "updated":"2025-11-28T23:25:25.624767Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/53",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ILJU-3352-7058-1614-3713",
+    "norad_cat_id":98465.0,
+    "norad_follow_id":null,
+    "name":"Foras Promineo",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":"2025-12-02T00:00:00Z",
+    "website":"https:\/\/phs.perkinsschools.org\/perkins-robotics-club",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-01T07:44:15.819244Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
