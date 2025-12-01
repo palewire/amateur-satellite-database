@@ -59034,7 +59034,7 @@
   {
     "sat_id":"CWDV-0028-2331-0716-8618",
     "norad_cat_id":98496.0,
-    "norad_follow_id":66661.0,
+    "norad_follow_id":66662.0,
     "name":"SNUGLITE-III HANA",
     "names":"SNUGLITE-III A",
     "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac.jpg",
@@ -59048,8 +59048,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-29T17:40:29.251722Z",
-    "citation":"Space-Track.org",
+    "updated":"2025-11-30T12:10:58.365770Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/42",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59250,7 +59250,7 @@
   {
     "sat_id":"TLQC-3012-7514-0280-5350",
     "norad_cat_id":98488.0,
-    "norad_follow_id":66659.0,
+    "norad_follow_id":66654.0,
     "name":"JACK-003",
     "names":"JAC",
     "image":"",
@@ -59264,8 +59264,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-29T15:13:31.772250Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2025-11-30T15:47:36.630909Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/46",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59274,7 +59274,7 @@
   {
     "sat_id":"QYWU-8968-1222-0258-9408",
     "norad_cat_id":98487.0,
-    "norad_follow_id":66655.0,
+    "norad_follow_id":66659.0,
     "name":"JACK-004",
     "names":"JAC",
     "image":"",
@@ -59288,8 +59288,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-29T15:13:31.746557Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2025-11-30T12:10:58.391758Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/42",
     "is_frequency_violator":true,
     "associated_satellites":[
 
