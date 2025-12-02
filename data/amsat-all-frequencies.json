@@ -10308,7 +10308,7 @@
   },
   {
     "name":"INHA-RoSAT",
-    "norad_id":"66658",
+    "norad_id":null,
     "uplink":null,
     "downlink":"437.665\/2417.000",
     "beacon":null,

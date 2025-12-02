@@ -19193,10 +19193,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -59034,7 +59034,7 @@
   {
     "sat_id":"CWDV-0028-2331-0716-8618",
     "norad_cat_id":98496.0,
-    "norad_follow_id":66662.0,
+    "norad_follow_id":66661.0,
     "name":"SNUGLITE-III HANA",
     "names":"SNUGLITE-III A",
     "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac.jpg",
@@ -59048,8 +59048,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-30T12:10:58.365770Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/42",
+    "updated":"2025-12-01T16:31:35.551228Z",
+    "citation":"SNUGLITE-III HANA and DURI now attached, both use same TLE 66661U 25274M. When we checked GPS data. Until seperation, the link margin is very limited, so only Cross-Yagi with LNA\/BPF can be received the beacon signal. It will be seperated in 2 months",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59072,8 +59072,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-29T17:40:37.306828Z",
-    "citation":"Space-Track.org",
+    "updated":"2025-12-01T16:31:10.766005Z",
+    "citation":"correction kmm -> km",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59784,7 +59784,7 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2025-11-26T18:18:00Z",
+    "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -59792,8 +59792,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-28T23:25:25.624767Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/53",
+    "updated":"2025-12-01T16:33:33.900080Z",
+    "citation":"Change Launch date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59817,6 +59817,54 @@
 
     ],
     "updated":"2025-12-01T07:44:15.819244Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TUSR-8011-4446-8744-0509",
+    "norad_cat_id":98464.0,
+    "norad_follow_id":null,
+    "name":"FORMOSAT-8A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-11-28T18:44:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.tasa.org.tw\/en-US\/missions\/detail\/FORMOSAT-8",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-01T20:23:27.118128Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UYJQ-4751-9718-1378-8291",
+    "norad_cat_id":98463.0,
+    "norad_follow_id":null,
+    "name":"DUPLEX",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-09-14T00:00:00Z",
+    "deployed":"2025-12-02T00:00:00Z",
+    "website":"https:\/\/www.cuaerospace.com\/news\/press-release-awards-events\/details\/cu-aerospace-duplex-satellite-headed-to-the-iss-on-spacex-ng-23-mission",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-01T20:23:53.658898Z",
     "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
