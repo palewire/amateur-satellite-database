@@ -59870,5 +59870,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"NLSP-2262-9359-6303-6169",
+    "norad_cat_id":98462.0,
+    "norad_follow_id":null,
+    "name":"CU-ALPHA",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-02T20:46:07.172381Z",
+    "citation":"https:\/\/community.libre.space\/t\/nrcsd29-iss-satellites-deployment-2025-12-02-08-28-utc\/14045\/16",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
