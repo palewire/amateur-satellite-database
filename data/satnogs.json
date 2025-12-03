@@ -31922,8 +31922,8 @@
         "decoder":"rhoksat"
       }
     ],
-    "updated":"2025-12-02T07:10:06.498802Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=lIFdCA7Ow3w",
+    "updated":"2025-12-02T20:08:40.235058Z",
+    "citation":"Adding dashboard",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59048,8 +59048,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-01T16:31:35.551228Z",
-    "citation":"SNUGLITE-III HANA and DURI now attached, both use same TLE 66661U 25274M. When we checked GPS data. Until seperation, the link margin is very limited, so only Cross-Yagi with LNA\/BPF can be received the beacon signal. It will be seperated in 2 months",
+    "updated":"2025-12-02T16:06:27.147017Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59072,8 +59072,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-01T16:31:10.766005Z",
-    "citation":"correction kmm -> km",
+    "updated":"2025-12-02T16:06:27.124774Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59096,8 +59096,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-01T04:43:55.387999Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/52",
+    "updated":"2025-12-02T16:06:27.243420Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59106,7 +59106,7 @@
   {
     "sat_id":"XFCX-7274-9992-0205-7857",
     "norad_cat_id":98494.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66653.0,
     "name":"COSMIC",
     "names":"",
     "image":"satellites\/KakaoTalk_20251125_151839057.png",
@@ -59120,8 +59120,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.652032Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-12-02T16:06:27.168033Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59168,8 +59168,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-29T15:13:31.795928Z",
-    "citation":"PE0SAT strf observations",
+    "updated":"2025-12-02T16:06:27.083551Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59178,7 +59178,7 @@
   {
     "sat_id":"VITR-2667-4745-6003-3786",
     "norad_cat_id":98491.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66656.0,
     "name":"PERSAT01",
     "names":"",
     "image":"satellites\/Cubesat01_ixz2bmB.png",
@@ -59192,8 +59192,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-01T11:41:24.935003Z",
-    "citation":"PERSAT01",
+    "updated":"2025-12-02T16:06:27.289831Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59202,7 +59202,7 @@
   {
     "sat_id":"QLDP-3783-5419-7098-2257",
     "norad_cat_id":98490.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66651.0,
     "name":"INHA-RoSAT",
     "names":"ROSAT",
     "image":"",
@@ -59216,8 +59216,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.820887Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-12-02T16:06:27.064530Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59240,8 +59240,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-29T15:13:31.700630Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/37",
+    "updated":"2025-12-02T16:06:27.103067Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59264,8 +59264,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-30T15:47:36.630909Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/46",
+    "updated":"2025-12-02T16:06:27.024026Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59288,8 +59288,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-30T12:10:58.391758Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/42",
+    "updated":"2025-12-02T16:06:27.044488Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59298,7 +59298,7 @@
   {
     "sat_id":"LXMJ-8963-3008-5567-5816",
     "norad_cat_id":98486.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66655.0,
     "name":"E3_TESTER_KARI-1",
     "names":"E3 TESTER_KARI",
     "image":"",
@@ -59312,8 +59312,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.842277Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-12-02T16:06:27.219787Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59322,7 +59322,7 @@
   {
     "sat_id":"QNUG-5690-5888-9770-0276",
     "norad_cat_id":98485.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66662.0,
     "name":"ETRISat",
     "names":"",
     "image":"",
@@ -59336,8 +59336,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.799226Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-12-02T16:06:27.193523Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59346,7 +59346,7 @@
   {
     "sat_id":"EQML-6882-0922-9942-3929",
     "norad_cat_id":98484.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66650.0,
     "name":"SJSAT-4",
     "names":"SEJONG-4",
     "image":"",
@@ -59360,8 +59360,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.925752Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-12-02T16:06:27.269921Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59370,7 +59370,7 @@
   {
     "sat_id":"IGUM-2152-0197-4071-8038",
     "norad_cat_id":98483.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66652.0,
     "name":"CAS500-3",
     "names":"",
     "image":"",
@@ -59384,8 +59384,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-26T15:21:17.883511Z",
-    "citation":"https:\/\/x.com\/kari2030",
+    "updated":"2025-12-02T16:06:27.000203Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":false,
     "associated_satellites":[
 
