@@ -59082,7 +59082,7 @@
   {
     "sat_id":"FUNJ-2834-4382-2735-5337",
     "norad_cat_id":98493.0,
-    "norad_follow_id":66658.0,
+    "norad_follow_id":66651.0,
     "name":"BEE-1000",
     "names":"",
     "image":"satellites\/BEE_Logo.png",
@@ -59096,7 +59096,7 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T16:06:27.243420Z",
+    "updated":"2025-12-04T05:38:51.207306Z",
     "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
     "is_frequency_violator":true,
     "associated_satellites":[
@@ -59106,7 +59106,7 @@
   {
     "sat_id":"XFCX-7274-9992-0205-7857",
     "norad_cat_id":98494.0,
-    "norad_follow_id":66653.0,
+    "norad_follow_id":66658.0,
     "name":"COSMIC",
     "names":"",
     "image":"satellites\/KakaoTalk_20251125_151839057.png",
@@ -59120,8 +59120,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T16:06:27.168033Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
+    "updated":"2025-12-04T05:38:51.237439Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/57",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59202,7 +59202,7 @@
   {
     "sat_id":"QLDP-3783-5419-7098-2257",
     "norad_cat_id":98490.0,
-    "norad_follow_id":66651.0,
+    "norad_follow_id":66652.0,
     "name":"INHA-RoSAT",
     "names":"ROSAT",
     "image":"",
@@ -59216,8 +59216,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T16:06:27.064530Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
+    "updated":"2025-12-04T10:54:05.687649Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/59",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59890,6 +59890,78 @@
     ],
     "updated":"2025-12-02T20:46:07.172381Z",
     "citation":"https:\/\/community.libre.space\/t\/nrcsd29-iss-satellites-deployment-2025-12-02-08-28-utc\/14045\/16",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MTQN-4306-1335-0732-3486",
+    "norad_cat_id":47933.0,
+    "norad_follow_id":null,
+    "name":"GRUS-1C",
+    "names":"2021-022B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-03-22T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-04T10:13:46.732723Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1v2GTxTtQLAieODA2wRve4Y3hEV-UKZXaSPC19axcUhg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GYKY-6285-6087-6375-1626",
+    "norad_cat_id":47935.0,
+    "norad_follow_id":null,
+    "name":"GRUS-1D",
+    "names":"2021-022E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-03-22T00:00:00Z",
+    "deployed":"2021-03-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-04T10:13:50.129798Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1v2GTxTtQLAieODA2wRve4Y3hEV-UKZXaSPC19axcUhg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KBBW-3636-4098-3714-2035",
+    "norad_cat_id":47936.0,
+    "norad_follow_id":null,
+    "name":"GRUS-1D",
+    "names":"2021-022E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-03-22T00:00:00Z",
+    "deployed":"2021-03-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-04T10:13:53.999682Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1v2GTxTtQLAieODA2wRve4Y3hEV-UKZXaSPC19axcUhg\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
