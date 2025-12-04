@@ -58088,8 +58088,8 @@
         "decoder":"cevrosat"
       }
     ],
-    "updated":"2025-11-07T09:46:18.138714Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/bandwagon-4",
+    "updated":"2025-12-03T17:02:59.118217Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/cevrosat-1\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59756,8 +59756,8 @@
     "norad_cat_id":98467.0,
     "norad_follow_id":null,
     "name":"Foresail-1p",
-    "names":"OH2F1S, FS1p",
-    "image":"",
+    "names":"OH2F1S, FS1p, Foresail-1 Prime",
+    "image":"satellites\/fm-ready.jpg",
     "status":"future",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
@@ -59768,8 +59768,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-28T13:20:49.102603Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-12-03T13:53:29.366708Z",
+    "citation":"Satellite team at Aalto University",
     "is_frequency_violator":false,
     "associated_satellites":[
 
