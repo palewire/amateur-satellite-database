@@ -1116,7 +1116,7 @@
     "downlink":"436.300",
     "beacon":null,
     "mode":"9600bps GMSK",
-    "callsign":null,
+    "callsign":"HCTST2",
     "satnogs_id":null
   },
   {
@@ -1396,7 +1396,7 @@
     "downlink":"436.300",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
+    "callsign":"DS35",
     "satnogs_id":null
   },
   {
@@ -1406,7 +1406,7 @@
     "downlink":"436.300",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
+    "callsign":"DS35",
     "satnogs_id":null
   },
   {
@@ -1578,6 +1578,16 @@
     "mode":"9600bps BPSK FM",
     "callsign":"ON02CN",
     "satnogs_id":"PEAF-6165-8245-0396-3965"
+  },
+  {
+    "name":"LUNA-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.775",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":"LUNA02-1",
+    "satnogs_id":null
   },
   {
     "name":"MCubed-2",

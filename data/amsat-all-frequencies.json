@@ -8960,7 +8960,7 @@
     "downlink":"436.300",
     "beacon":null,
     "mode":"9600bps GMSK",
-    "callsign":null,
+    "callsign":"HCTST2",
     "status":"active",
     "satnogs_id":null
   },
@@ -11215,7 +11215,7 @@
     "downlink":"436.300",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
+    "callsign":"DS35",
     "status":"active",
     "satnogs_id":null
   },
@@ -11226,7 +11226,7 @@
     "downlink":"436.300",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
+    "callsign":"DS35",
     "status":"active",
     "satnogs_id":null
   },
@@ -12699,9 +12699,9 @@
     "uplink":null,
     "downlink":"401.775",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9k6_GMSK",
+    "callsign":"LUNA02-1",
+    "status":"active",
     "satnogs_id":null
   },
   {

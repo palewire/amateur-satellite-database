@@ -59298,7 +59298,7 @@
   {
     "sat_id":"LXMJ-8963-3008-5567-5816",
     "norad_cat_id":98486.0,
-    "norad_follow_id":66655.0,
+    "norad_follow_id":66662.0,
     "name":"E3_TESTER_KARI-1",
     "names":"E3 TESTER_KARI",
     "image":"",
@@ -59312,8 +59312,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T16:06:27.219787Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
+    "updated":"2025-12-05T08:19:22.363171Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/62",
     "is_frequency_violator":false,
     "associated_satellites":[
 
