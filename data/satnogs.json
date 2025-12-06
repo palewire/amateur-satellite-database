@@ -31906,7 +31906,7 @@
   {
     "sat_id":"GDGL-8515-2553-1728-8249",
     "norad_cat_id":99932.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66907.0,
     "name":"RHOK-SAT",
     "names":"",
     "image":"",
@@ -31922,8 +31922,8 @@
         "decoder":"rhoksat"
       }
     ],
-    "updated":"2025-12-02T20:08:40.235058Z",
-    "citation":"Adding dashboard",
+    "updated":"2025-12-06T11:16:59.246171Z",
+    "citation":"Random choice from the deployment",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43523,7 +43523,7 @@
   {
     "sat_id":"NTJV-2293-0787-8038-8343",
     "norad_cat_id":98912.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66910.0,
     "name":"EagleSat-2",
     "names":"",
     "image":"",
@@ -43537,8 +43537,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.465092Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=lIFdCA7Ow3w",
+    "updated":"2025-12-06T11:16:59.355551Z",
+    "citation":"Random choice from the deployment",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57636,7 +57636,7 @@
   {
     "sat_id":"JMIF-0517-5295-9753-0215",
     "norad_cat_id":98538.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66909.0,
     "name":"SilverSat",
     "names":"",
     "image":"satellites\/Launch-Config.jpg",
@@ -57650,8 +57650,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.513414Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=lIFdCA7Ow3w",
+    "updated":"2025-12-06T11:16:59.300830Z",
+    "citation":"Networks observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59706,7 +59706,7 @@
   {
     "sat_id":"OTRZ-8981-5796-9802-9606",
     "norad_cat_id":98468.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66912.0,
     "name":"ContentCube",
     "names":"",
     "image":"satellites\/ContentCube.jpg",
@@ -59720,8 +59720,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.483527Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=lIFdCA7Ow3w",
+    "updated":"2025-12-06T11:16:59.274380Z",
+    "citation":"Random choice from the deployment",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59802,7 +59802,7 @@
   {
     "sat_id":"ILJU-3352-7058-1614-3713",
     "norad_cat_id":98465.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66911.0,
     "name":"Foras Promineo",
     "names":"",
     "image":"",
@@ -59816,8 +59816,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.447501Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=lIFdCA7Ow3w",
+    "updated":"2025-12-06T11:16:59.326208Z",
+    "citation":"Random choice from the deployment",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59850,7 +59850,7 @@
   {
     "sat_id":"UYJQ-4751-9718-1378-8291",
     "norad_cat_id":98463.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66906.0,
     "name":"DUPLEX",
     "names":"",
     "image":"",
@@ -59864,8 +59864,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.528772Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=lIFdCA7Ow3w",
+    "updated":"2025-12-06T11:16:59.381384Z",
+    "citation":"Random choice from the deployment",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59874,22 +59874,22 @@
   {
     "sat_id":"NLSP-2262-9359-6303-6169",
     "norad_cat_id":98462.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66908.0,
     "name":"CU-ALPHA",
     "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2025-09-14T22:11:00Z",
+    "deployed":"2025-12-02T08:20:00Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T20:46:07.172381Z",
-    "citation":"https:\/\/community.libre.space\/t\/nrcsd29-iss-satellites-deployment-2025-12-02-08-28-utc\/14045\/16",
+    "updated":"2025-12-06T11:23:40.613567Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=lIFdCA7Ow3w",
     "is_frequency_violator":false,
     "associated_satellites":[
 
