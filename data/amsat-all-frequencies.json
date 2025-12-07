@@ -4785,6 +4785,17 @@
     "satnogs_id":"LOCF-3327-7028-4700-0103"
   },
   {
+    "name":"ContentCube",
+    "norad_id":"66912",
+    "uplink":null,
+    "downlink":"437.020",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"COPPER",
     "norad_id":"39395",
     "uplink":null,
@@ -5742,6 +5753,17 @@
     "satnogs_id":"SRMQ-6676-8759-6509-8693"
   },
   {
+    "name":"CU-Alpha",
+    "norad_id":"66908",
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"CXBN",
     "norad_id":"38762",
     "uplink":null,
@@ -6554,6 +6576,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"GPCS-5280-8824-7420-8704"
+  },
+  {
+    "name":"EagleSat-2",
+    "norad_id":"66910",
+    "uplink":null,
+    "downlink":"437.165",
+    "beacon":null,
+    "mode":"19k2_GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Eaglet-1",
@@ -7390,6 +7423,17 @@
     "callsign":"BUAABJ",
     "status":"re-entered",
     "satnogs_id":"VSAI-0421-6115-4256-1234"
+  },
+  {
+    "name":"Foras-Promineo",
+    "norad_id":"66911",
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"ForgeStar-1",
@@ -17182,6 +17226,17 @@
     "satnogs_id":"SEMQ-5896-1667-7154-6568"
   },
   {
+    "name":"RHOK-SAT",
+    "norad_id":"66907",
+    "uplink":null,
+    "downlink":"435.425",
+    "beacon":null,
+    "mode":"1k2\/9k6_BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"RIDUSat-1",
     "norad_id":"64531",
     "uplink":null,
@@ -18646,13 +18701,13 @@
   },
   {
     "name":"SilverSat",
-    "norad_id":null,
+    "norad_id":"66909",
     "uplink":null,
     "downlink":"437.175",
     "beacon":"437.175",
-    "mode":"9k6_SSDV CW",
+    "mode":"9k6_GMSK CW*",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

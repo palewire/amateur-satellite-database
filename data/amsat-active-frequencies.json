@@ -1980,6 +1980,16 @@
     "satnogs_id":"DELH-6722-1461-1897-7938"
   },
   {
+    "name":"SilverSat",
+    "norad_id":"66909",
+    "uplink":null,
+    "downlink":"437.175",
+    "beacon":"437.175",
+    "mode":"9k6_GMSK CW*",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"SITRO-AIS-5",
     "norad_id":"57176",
     "uplink":null,
