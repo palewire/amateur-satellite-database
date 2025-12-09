@@ -57650,8 +57650,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-06T11:16:59.300830Z",
-    "citation":"Networks observations",
+    "updated":"2025-12-09T08:35:11.470281Z",
+    "citation":"https:\/\/apps.fcc.gov\/els\/GetAtt.html?id=363693&x=",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59086,7 +59086,7 @@
   {
     "sat_id":"FUNJ-2834-4382-2735-5337",
     "norad_cat_id":98493.0,
-    "norad_follow_id":66651.0,
+    "norad_follow_id":66650.0,
     "name":"BEE-1000",
     "names":"",
     "image":"satellites\/BEE_Logo.png",
@@ -59100,8 +59100,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-04T05:38:51.207306Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
+    "updated":"2025-12-09T07:52:18.256551Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/78",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59762,7 +59762,7 @@
     "name":"Foresail-1p",
     "names":"OH2F1S, FS1p, Foresail-1 Prime",
     "image":"satellites\/fm-ready.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
     "deployed":null,
@@ -59772,8 +59772,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-03T13:53:29.366708Z",
-    "citation":"Satellite team at Aalto University",
+    "updated":"2025-12-09T06:26:07.238048Z",
+    "citation":"Satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 

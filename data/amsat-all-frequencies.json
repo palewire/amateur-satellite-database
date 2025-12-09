@@ -7447,7 +7447,7 @@
     "satnogs_id":null
   },
   {
-    "name":"FORESAIL-1",
+    "name":"Foresail-1",
     "norad_id":"52766",
     "uplink":null,
     "downlink":"437.125",
@@ -7455,6 +7455,17 @@
     "mode":"1k2\/4k8*\/9k6 MSK CW",
     "callsign":"OH2FIS",
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"Foresail-1p",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.125",
+    "beacon":null,
+    "mode":"9k6_MSK",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
