@@ -59046,7 +59046,9 @@
     "operator":"None",
     "countries":"KR",
     "telemetries":[
-
+      {
+        "decoder":"snuglite3"
+      }
     ],
     "updated":"2025-12-02T16:06:27.147017Z",
     "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
@@ -59070,7 +59072,9 @@
     "operator":"None",
     "countries":"KR",
     "telemetries":[
-
+      {
+        "decoder":"snuglite3"
+      }
     ],
     "updated":"2025-12-02T16:06:27.124774Z",
     "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
