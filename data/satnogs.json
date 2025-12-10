@@ -39102,8 +39102,8 @@
     "name":"PEARL-1C",
     "names":"Foxconn PEARL-1C",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-09T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:45:58Z",
     "website":"",
@@ -39112,8 +39112,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T02:03:55.290558Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58342\/2023-12-04T10%3A16%3A16_8646307_58342_23174CQ_0-OBJECT-CQ_0.10834076703702067_A_r29.0_f-1.0.png",
+    "updated":"2025-12-09T15:01:13.512940Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
       "JJET-4414-9657-1652-9112"
@@ -58072,7 +58072,7 @@
   {
     "sat_id":"OKGA-8851-7796-3537-9901",
     "norad_cat_id":98526.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66309.0,
     "name":"CEVROSAT-1",
     "names":"OK0CVR",
     "image":"satellites\/Cevrosat1.jpg",
@@ -58088,8 +58088,8 @@
         "decoder":"cevrosat"
       }
     ],
-    "updated":"2025-12-03T17:02:59.118217Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/cevrosat-1\/",
+    "updated":"2025-12-09T15:26:54.546476Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126\/68",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59765,15 +59765,15 @@
     "status":"alive",
     "decayed":null,
     "launched":"2025-11-28T18:18:00Z",
-    "deployed":null,
+    "deployed":"2025-12-09T09:18:59Z",
     "website":"https:\/\/foresail.github.io\/",
     "operator":"None",
     "countries":"FI",
     "telemetries":[
 
     ],
-    "updated":"2025-12-09T06:26:07.238048Z",
-    "citation":"Satellite team",
+    "updated":"2025-12-09T21:05:49.063131Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/152",
     "is_frequency_violator":false,
     "associated_satellites":[
 
