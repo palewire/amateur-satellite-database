@@ -790,6 +790,16 @@
     "satnogs_id":"QTXY-8933-7836-7484-6250"
   },
   {
+    "name":"Foresail-1p",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.125",
+    "beacon":null,
+    "mode":"9k6_MSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"FossaSat-2E1",
     "norad_id":"50985",
     "uplink":null,
@@ -2758,6 +2768,16 @@
     "mode":"9600bps FSK",
     "callsign":"HNATIG",
     "satnogs_id":"XCTT-8747-8578-2256-0351"
+  },
+  {
+    "name":"TUBIN",
+    "norad_id":"48900",
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"4k8\/9k6 FSK",
+    "callsign":"DP0TBN",
+    "satnogs_id":"QDKJ-9029-5923-5577-6213"
   },
   {
     "name":"TUSUR-GO",

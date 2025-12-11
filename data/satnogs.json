@@ -59209,7 +59209,7 @@
     "norad_follow_id":66652.0,
     "name":"INHA-RoSAT",
     "names":"ROSAT",
-    "image":"",
+    "image":"satellites\/news-p.v1.20251123.3fdcc0857f79442d8beeaa12fa72cb78_P1.png",
     "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
@@ -59220,8 +59220,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-04T10:54:05.687649Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/59",
+    "updated":"2025-12-10T14:54:58.918011Z",
+    "citation":"https:\/\/www.mk.co.kr\/en\/it\/11478080",
     "is_frequency_violator":true,
     "associated_satellites":[
 
