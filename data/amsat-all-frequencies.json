@@ -22599,7 +22599,7 @@
     "uplink":null,
     "downlink":"435.950",
     "beacon":null,
-    "mode":"4k8\/9k6 FSK",
+    "mode":"4k8*\/9k6 GMSK_mobitex",
     "callsign":"DP0TBN",
     "status":"active",
     "satnogs_id":"QDKJ-9029-5923-5577-6213"
