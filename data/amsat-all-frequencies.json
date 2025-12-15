@@ -2322,7 +2322,7 @@
   },
   {
     "name":"BEE-1000",
-    "norad_id":"66658",
+    "norad_id":"66650",
     "uplink":null,
     "downlink":"436.500\/2403.500",
     "beacon":null,
@@ -2693,6 +2693,50 @@
     "callsign":"N7SKC",
     "status":"active",
     "satnogs_id":"IGGV-1318-5974-9239-7350"
+  },
+  {
+    "name":"Blackjack-1",
+    "norad_id":"56956",
+    "uplink":null,
+    "downlink":"2264.800",
+    "beacon":null,
+    "mode":"300k FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"DNAM-3806-4860-5276-1787"
+  },
+  {
+    "name":"Blackjack-2",
+    "norad_id":"56955",
+    "uplink":null,
+    "downlink":"2264.800",
+    "beacon":null,
+    "mode":"300k BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"JLAB-5308-5939-4466-7880"
+  },
+  {
+    "name":"Blackjack-3",
+    "norad_id":"56950",
+    "uplink":null,
+    "downlink":"2264.800",
+    "beacon":null,
+    "mode":"300k BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"AXLY-3159-3217-5353-3614"
+  },
+  {
+    "name":"Blackjack-4",
+    "norad_id":"56952",
+    "uplink":null,
+    "downlink":"2264.800",
+    "beacon":null,
+    "mode":"300k BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"PAEW-9566-4058-4517-2208"
   },
   {
     "name":"Black Kite-1",
@@ -4379,13 +4423,13 @@
   },
   {
     "name":"CEVROSAT-1",
-    "norad_id":null,
+    "norad_id":"66309",
     "uplink":null,
     "downlink":"436.025",
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":"OK0CVR",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -10363,13 +10407,13 @@
   },
   {
     "name":"INHA-RoSAT",
-    "norad_id":null,
+    "norad_id":"66652",
     "uplink":null,
     "downlink":"437.665\/2417.000",
     "beacon":null,
     "mode":"9600bps GFSK QPSK",
     "callsign":"ROSAT1",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -13295,7 +13339,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -15599,13 +15643,13 @@
   },
   {
     "name":"PERSAT-01",
-    "norad_id":null,
+    "norad_id":"66656",
     "uplink":null,
     "downlink":"437.125",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -19598,7 +19642,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"DS0DH",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -19609,7 +19653,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"DS0DH",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -22298,14 +22342,14 @@
   },
   {
     "name":"Tomorrow-R2",
-    "norad_id":"56959",
+    "norad_id":"56962",
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
     "mode":"38k4 GFSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":"UZDF-3412-1216-9465-1714"
+    "satnogs_id":"TYHN-1504-1942-6350-8970"
   },
   {
     "name":"Tomsk-TPU-120",

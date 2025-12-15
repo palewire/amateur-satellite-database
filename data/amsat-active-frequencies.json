@@ -380,16 +380,6 @@
     "satnogs_id":"WRLU-1723-6543-5361-0506"
   },
   {
-    "name":"CEVROSAT-1",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"436.025",
-    "beacon":null,
-    "mode":"9600bps GFSK",
-    "callsign":"OK0CVR",
-    "satnogs_id":null
-  },
-  {
     "name":"Colibri-S",
     "norad_id":"61746",
     "uplink":null,
@@ -1200,16 +1190,6 @@
     "satnogs_id":"DQTX-7069-3845-7154-3428"
   },
   {
-    "name":"INHA-RoSAT",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"437.665\/2417.000",
-    "beacon":null,
-    "mode":"9600bps GFSK QPSK",
-    "callsign":"ROSAT1",
-    "satnogs_id":null
-  },
-  {
     "name":"INNOCUBE",
     "norad_id":"62616",
     "uplink":null,
@@ -1618,6 +1598,16 @@
     "mode":"1200bps BPSK SSB",
     "callsign":null,
     "satnogs_id":"ANJN-0857-0652-4935-2307"
+  },
+  {
+    "name":"Mice-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"MIMAN",
@@ -2438,26 +2428,6 @@
     "mode":"4800bps MSK_AX.100_Mode 5",
     "callsign":null,
     "satnogs_id":"EOVQ-9559-0511-0103-2591"
-  },
-  {
-    "name":"SNUGLITE-III-DURI",
-    "norad_id":"66661",
-    "uplink":null,
-    "downlink":"436.788\/2405.000",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"DS0DH",
-    "satnogs_id":null
-  },
-  {
-    "name":"SNUGLITE-III-HANA",
-    "norad_id":"66662",
-    "uplink":null,
-    "downlink":"436.460\/2405.000",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"DS0DH",
-    "satnogs_id":null
   },
   {
     "name":"SOMP",
