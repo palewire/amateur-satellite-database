@@ -3404,9 +3404,9 @@
     "uplink":null,
     "downlink":"436.330",
     "beacon":null,
-    "mode":"4800bps GMSK",
+    "mode":"4800bps MSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
@@ -3415,9 +3415,9 @@
     "uplink":null,
     "downlink":"437.500",
     "beacon":null,
-    "mode":"4800bps GMSK",
+    "mode":"4800bps MSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"re-entered",
     "satnogs_id":null
   },
   {
