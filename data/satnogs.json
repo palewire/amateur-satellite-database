@@ -12359,8 +12359,8 @@
     "name":"TUBIN",
     "names":"2BIN, TWOBIN",
     "image":"satellites\/TUBIN_Logo.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-16T04:20:00Z",
     "launched":"2021-06-30T19:31:00Z",
     "deployed":null,
     "website":"https:\/\/www.tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/tubin",
@@ -12371,8 +12371,8 @@
         "decoder":"tubin"
       }
     ],
-    "updated":"2025-01-12T12:52:37.619210Z",
-    "citation":"https:\/\/www.tu.berlin\/en\/raumfahrttechnik\/research\/current-projects\/tubin",
+    "updated":"2025-12-16T11:34:10.894723Z",
+    "citation":"https:\/\/community.libre.space\/t\/tubin-tubsat-27-re-entry\/13998\/94",
     "is_frequency_violator":false,
     "associated_satellites":[
 

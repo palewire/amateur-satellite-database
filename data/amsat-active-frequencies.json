@@ -210,6 +210,16 @@
     "satnogs_id":"ANGB-2912-5973-0732-4675"
   },
   {
+    "name":"BEE-1000",
+    "norad_id":"66650",
+    "uplink":null,
+    "downlink":"436.500\/2403.500",
+    "beacon":null,
+    "mode":"4800bps MSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BIRDS-X",
     "norad_id":"65729",
     "uplink":"145.825\/435.375",

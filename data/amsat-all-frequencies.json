@@ -2328,7 +2328,7 @@
     "beacon":null,
     "mode":"4800bps MSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
