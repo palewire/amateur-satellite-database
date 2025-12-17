@@ -9345,7 +9345,7 @@
     "downlink":"435.650",
     "beacon":null,
     "mode":"38400bps FSK",
-    "callsign":null,
+    "callsign":"RS81S",
     "status":"unknown",
     "satnogs_id":"YPXG-5912-9779-4324-1114"
   },
@@ -9356,7 +9356,7 @@
     "downlink":"435.700",
     "beacon":null,
     "mode":"38400bps FSK",
-    "callsign":null,
+    "callsign":"RS82S",
     "status":"unknown",
     "satnogs_id":"WNQV-7170-2922-7065-7055"
   },
@@ -11732,7 +11732,7 @@
     "downlink":"435.650",
     "beacon":null,
     "mode":"38400bps FSK",
-    "callsign":null,
+    "callsign":"RS81S",
     "status":"unknown",
     "satnogs_id":"YPXG-5912-9779-4324-1114"
   },
@@ -11743,7 +11743,7 @@
     "downlink":"435.700",
     "beacon":null,
     "mode":"38400bps FSK",
-    "callsign":null,
+    "callsign":"RS82S",
     "status":"unknown",
     "satnogs_id":"WNQV-7170-2922-7065-7055"
   },
