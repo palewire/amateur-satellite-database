@@ -432,6 +432,10 @@ ConnectaIoT-9,64534,,401.510,,4800bps GMSK,CNT009,active,VQRH-1619-5526-5288-061
 ConnectaIoT-10,64555,,401.520,,4800bps GMSK,CNT010,active,OPSM-5371-6840-8894-7677
 ConnectaIoT-11,64557,,401.530,,4800bps GMSK,CNT011,active,QPJF-4748-4397-6565-6149
 ConnectaIoT-12,64553,,401.540,,4800bps GMSK,CNT012,active,XXEA-0494-6151-7239-4386
+ConnectaIoT-13,,,,,,,to be launched,
+ConnectaIoT-14,,,,,,,to be launched,
+ConnectaIoT-15,,,,,,,to be launched,
+ConnectaIoT-16,,,,,,,to be launched,
 Connecta-T1_1,52739,,401.525,,9600bps GMSK,CONT11,active,RLGA-3050-8635-4193-2562
 Connecta-T1_2,55012,,401.525,,4800bps GFSK,CONT12,active,TVZK-1463-5590-8994-0377
 Connecta-T2.1,56210,,401.525,,9600bps GMSK,CONT21,re-entered,RYJB-2072-5322-3255-6402

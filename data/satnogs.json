@@ -59036,7 +59036,7 @@
     "norad_cat_id":98496.0,
     "norad_follow_id":66661.0,
     "name":"SNUGLITE-III HANA",
-    "names":"SNUGLITE-III A",
+    "names":"DS0DH",
     "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac.jpg",
     "status":"alive",
     "decayed":null,
@@ -59050,8 +59050,8 @@
         "decoder":"snuglite3"
       }
     ],
-    "updated":"2025-12-02T16:06:27.147017Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
+    "updated":"2025-12-17T11:27:04.698930Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/snuglite-iii",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59062,7 +59062,7 @@
     "norad_cat_id":98497.0,
     "norad_follow_id":66661.0,
     "name":"SNUGLITE-III DURI",
-    "names":"SNUGLITE-III B",
+    "names":"DS0DH",
     "image":"satellites\/FM\uc870\ub9bd\ucd5c\uc885\uc0ac\uc9c4_\ubd84\ub9ac_6HNiO4O.jpg",
     "status":"alive",
     "decayed":null,
@@ -59076,8 +59076,8 @@
         "decoder":"snuglite3"
       }
     ],
-    "updated":"2025-12-02T16:06:27.124774Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
+    "updated":"2025-12-17T11:27:13.759093Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/snuglite-iii",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59966,6 +59966,198 @@
     ],
     "updated":"2025-12-04T10:13:53.999682Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1v2GTxTtQLAieODA2wRve4Y3hEV-UKZXaSPC19axcUhg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JIQW-8204-2200-9395-8524",
+    "norad_cat_id":62082.0,
+    "norad_follow_id":null,
+    "name":"KINEIS-5D",
+    "names":"2024-219B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-11-25T00:00:00Z",
+    "deployed":"2024-11-25T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-17T11:25:45.513796Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1pMfcqJJL51hu1NcTUR95me9Pewws0j6oU_7gW5BpruE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WOGY-0503-2099-7380-6490",
+    "norad_cat_id":98461.0,
+    "norad_follow_id":null,
+    "name":"SOLARAS S2",
+    "names":"",
+    "image":"satellites\/SOLARAS_S2_Grahaa_space.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-12-19T18:45:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.grahaa.space\/",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-17T10:52:18.090763Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63319.msg2743966#msg2743966",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CACA-5365-2238-5606-7993",
+    "norad_cat_id":98457.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-13",
+    "names":"",
+    "image":"satellites\/Connecta_13_14_15_16.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-11T13:18:59Z",
+    "deployed":"2026-01-11T13:18:59Z",
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-17T10:16:53.902288Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PMIG-0045-7037-4888-4255",
+    "norad_cat_id":98458.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-14",
+    "names":"",
+    "image":"satellites\/Connecta_13_14_15_16_ZzAZ1MG.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-11T13:18:59Z",
+    "deployed":"2026-01-11T13:18:59Z",
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-17T10:16:49.664157Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JWOD-9905-9321-9779-5407",
+    "norad_cat_id":98459.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-15",
+    "names":"",
+    "image":"satellites\/Connecta_13_14_15_16_KJhEYxe.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-11T13:18:59Z",
+    "deployed":"2026-01-11T13:18:59Z",
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-17T10:16:45.206569Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XRIE-0236-5996-7855-8536",
+    "norad_cat_id":98460.0,
+    "norad_follow_id":null,
+    "name":"ConnectaIoT-16",
+    "names":"",
+    "image":"satellites\/Connecta_13_14_15_16_kImZdI8.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-11T13:18:59Z",
+    "deployed":"2026-01-11T13:18:59Z",
+    "website":"https:\/\/www.plan.space\/",
+    "operator":"None",
+    "countries":"TR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-17T10:16:40.358114Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RRBS-6005-6558-9214-2568",
+    "norad_cat_id":98456.0,
+    "norad_follow_id":null,
+    "name":"FloripaSat-2A",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-12-19T18:45:00Z",
+    "deployed":null,
+    "website":"https:\/\/spacelab.ufsc.br\/en\/floripasat2\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-17T11:25:10.781639Z",
+    "citation":"https:\/\/spacelab.ufsc.br\/en\/floripasat2\/ and https:\/\/forum.nasaspaceflight.com\/index.php?topic=63319.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UGGX-2002-0832-1642-8430",
+    "norad_cat_id":98455.0,
+    "norad_follow_id":null,
+    "name":"FloripaSat-2B",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-12-19T18:45:00Z",
+    "deployed":null,
+    "website":"https:\/\/spacelab.ufsc.br\/en\/floripasat2\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-17T11:25:10.775224Z",
+    "citation":"https:\/\/spacelab.ufsc.br\/en\/floripasat2\/ and https:\/\/forum.nasaspaceflight.com\/index.php?topic=63319.0;all",
     "is_frequency_violator":false,
     "associated_satellites":[
 
