@@ -1633,7 +1633,7 @@
     "uplink":"145.850*\/145.875",
     "downlink":"435.400*\/436.210\/10460.000",
     "beacon":null,
-    "mode":"9k6BPSK NBFM QSPK FM",
+    "mode":"9k6BPSK* NBFM QSPK FM*",
     "callsign":"RS64S BJ2CR",
     "status":"active",
     "satnogs_id":"REOO-2119-3738-4964-1579"
@@ -7500,6 +7500,28 @@
     "callsign":"PY0EFS",
     "status":"inactive",
     "satnogs_id":"ZAOV-7296-2730-4478-2104"
+  },
+  {
+    "name":"FloripaSat-2A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"468.200",
+    "beacon":null,
+    "mode":"1200bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"FloripaSat-2B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"468.200",
+    "beacon":null,
+    "mode":"1200bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"FMN-1",
@@ -22689,7 +22711,7 @@
     "beacon":null,
     "mode":"4k8*\/9k6 GMSK_mobitex",
     "callsign":"DP0TBN",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"QDKJ-9029-5923-5577-6213"
   },
   {
