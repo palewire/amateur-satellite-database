@@ -49936,10 +49936,10 @@
   },
   {
     "sat_id":"LNSX-3317-6241-3552-3606",
-    "norad_cat_id":98737.0,
+    "norad_cat_id":63236.0,
     "norad_follow_id":63236.0,
-    "name":"NILA",
-    "names":"",
+    "name":"Orbastro-TR5",
+    "names":"2025-052AC",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -49947,12 +49947,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"GB",
     "telemetries":[
 
     ],
-    "updated":"2025-04-18T19:20:43.850057Z",
-    "citation":"Random choice",
+    "updated":"2025-12-18T10:44:10.203650Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -60158,6 +60158,30 @@
     ],
     "updated":"2025-12-17T11:25:10.775224Z",
     "citation":"https:\/\/spacelab.ufsc.br\/en\/floripasat2\/ and https:\/\/forum.nasaspaceflight.com\/index.php?topic=63319.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DYDI-6582-6283-3387-4196",
+    "norad_cat_id":66992.0,
+    "norad_follow_id":null,
+    "name":"USA 570",
+    "names":"2025-291A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-09T00:00:00Z",
+    "deployed":"2025-12-09T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-18T10:44:18.590023Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1MRKnNwRh-p4yt_6jUNKTFjPRAPdQjMLkMj9xJHArses\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
