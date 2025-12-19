@@ -57684,7 +57684,7 @@
   {
     "sat_id":"LLEW-4775-7241-6889-7282",
     "norad_cat_id":98537.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66670.0,
     "name":"HUNITY",
     "names":"NMHH-1, HG1NMHH",
     "image":"satellites\/HUNITY.jpg",
@@ -57698,8 +57698,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:07.145354Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-19T11:07:40.894791Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57996,7 +57996,7 @@
   {
     "sat_id":"KVUS-0486-2614-8565-9913",
     "norad_cat_id":98530.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66673.0,
     "name":"PHASMA-LAMARR",
     "names":"",
     "image":"satellites\/PHASMA-1.png",
@@ -58012,8 +58012,8 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2025-12-02T07:10:06.770605Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-19T10:07:26.467298Z",
+    "citation":"https:\/\/community.libre.space\/t\/phasma-mission-phasma-lamarr-phasma-dirac\/13976\/127",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58022,7 +58022,7 @@
   {
     "sat_id":"GPEA-4779-0511-8218-9913",
     "norad_cat_id":98529.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66681.0,
     "name":"PHASMA-DIRAC",
     "names":"",
     "image":"satellites\/PHASMA-1_B9RaTzC.png",
@@ -58038,8 +58038,8 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2025-12-02T07:10:06.790993Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-19T10:07:26.489561Z",
+    "citation":"https:\/\/community.libre.space\/t\/phasma-mission-phasma-lamarr-phasma-dirac\/13976\/127",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58048,7 +58048,7 @@
   {
     "sat_id":"BMYD-8328-6159-7072-4807",
     "norad_cat_id":98527.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66682.0,
     "name":"Black Kite-1",
     "names":"8U RIoT-1",
     "image":"",
@@ -58062,8 +58062,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:07.321747Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-19T10:59:00.891044Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58626,7 +58626,7 @@
   {
     "sat_id":"OCRT-7423-2175-5905-4646",
     "norad_cat_id":98515.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66766.0,
     "name":"T.MicroSat-1",
     "names":"",
     "image":"satellites\/T_MicroSat_1.png",
@@ -58640,8 +58640,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.605761Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-19T10:46:17.770872Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58914,7 +58914,7 @@
   {
     "sat_id":"RYNA-2795-1118-6092-9017",
     "norad_cat_id":98512.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66775.0,
     "name":"PHI-1",
     "names":"",
     "image":"",
@@ -58928,8 +58928,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.749726Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-19T10:07:26.443102Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/198",
     "is_frequency_violator":true,
     "associated_satellites":[
 
