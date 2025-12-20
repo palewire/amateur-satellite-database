@@ -60186,5 +60186,77 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"OKHJ-9481-9343-7130-9914",
+    "norad_cat_id":98454.0,
+    "norad_follow_id":null,
+    "name":"Jussara-K",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-12-19T18:45:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-19T13:23:22.033477Z",
+    "citation":"https:\/\/community.libre.space\/t\/spaceward-hanbit-nano-2025-12-19-18-45-utc\/14151\/4",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SLRT-5422-9948-2287-5389",
+    "norad_cat_id":98453.0,
+    "norad_follow_id":null,
+    "name":"Pion-BR2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-12-19T18:45:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-19T13:24:20.288991Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63319.0;all",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IBAY-7894-8985-6772-8920",
+    "norad_cat_id":64543.0,
+    "norad_follow_id":null,
+    "name":"W-SERIES 4",
+    "names":"2025-135R",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":"2025-06-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-19T17:35:36.511401Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1AdaP-46mxgQH9LetLuVNCVJk_X3CzH7Jy-sDTr7n1_c\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
