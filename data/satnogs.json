@@ -58746,7 +58746,7 @@
   {
     "sat_id":"ZOKF-1808-2919-3310-9428",
     "norad_cat_id":98506.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66762.0,
     "name":"HYDROGNSS-1",
     "names":"",
     "image":"satellites\/cropped-HydroGNSS-Sat-251x300_7occGCx.png",
@@ -58760,8 +58760,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:07.115212Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-20T12:06:52.891499Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58770,7 +58770,7 @@
   {
     "sat_id":"UUME-2328-9296-9738-9467",
     "norad_cat_id":98505.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66763.0,
     "name":"HYDROGNSS-2",
     "names":"",
     "image":"satellites\/cropped-HydroGNSS-Sat-251x300.png",
@@ -58784,8 +58784,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:07.091545Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-20T12:06:52.865860Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59830,7 +59830,7 @@
   {
     "sat_id":"TUSR-8011-4446-8744-0509",
     "norad_cat_id":98464.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66666.0,
     "name":"FORMOSAT-8A",
     "names":"",
     "image":"",
@@ -59844,8 +59844,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-01T20:23:27.118128Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2025-12-20T11:03:41.648469Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60193,19 +60193,19 @@
     "norad_follow_id":null,
     "name":"Jussara-K",
     "names":"",
-    "image":"",
+    "image":"satellites\/JUSSARA-K.jpg",
     "status":"future",
     "decayed":null,
     "launched":"2025-12-19T18:45:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"BR",
     "telemetries":[
 
     ],
-    "updated":"2025-12-19T13:23:22.033477Z",
-    "citation":"https:\/\/community.libre.space\/t\/spaceward-hanbit-nano-2025-12-19-18-45-utc\/14151\/4",
+    "updated":"2025-12-20T10:38:57.660778Z",
+    "citation":"PU4ELT",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60254,6 +60254,30 @@
     ],
     "updated":"2025-12-19T17:35:36.511401Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1AdaP-46mxgQH9LetLuVNCVJk_X3CzH7Jy-sDTr7n1_c\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MJHK-8142-6331-2302-6358",
+    "norad_cat_id":66993.0,
+    "norad_follow_id":null,
+    "name":"25292A",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-20T10:40:00.692895Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
