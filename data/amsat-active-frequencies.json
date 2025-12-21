@@ -85,7 +85,7 @@
     "uplink":"145.875",
     "downlink":"435.400\/436.210\/10460.000",
     "beacon":null,
-    "mode":"9k6BPSK NBFM QSPK FM",
+    "mode":"9k6BPSK* QSPK FM SSDV*",
     "callsign":"RS64S BJ2CR",
     "satnogs_id":"REOO-2119-3738-4964-1579"
   },
@@ -105,7 +105,7 @@
     "uplink":"145.850*\/145.875",
     "downlink":"435.400*\/436.210\/10460.000",
     "beacon":null,
-    "mode":"9k6BPSK* NBFM QSPK FM*",
+    "mode":"9k6BPSK* QSPK FM SSDV*",
     "callsign":"RS64S BJ2CR",
     "satnogs_id":"REOO-2119-3738-4964-1579"
   },

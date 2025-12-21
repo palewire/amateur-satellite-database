@@ -59580,8 +59580,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.728207Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-20T19:55:28.922454Z",
+    "citation":"Wrong satellite, that was intented for PIAST-S1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59590,7 +59590,7 @@
   {
     "sat_id":"UTSO-4544-0680-0406-4840",
     "norad_cat_id":98474.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66749.0,
     "name":"PIAST-S1",
     "names":"",
     "image":"",
@@ -59604,8 +59604,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.704901Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-20T19:55:48.838675Z",
+    "citation":"Network observations analysis but not fully confirmed",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60004,7 +60004,7 @@
     "image":"satellites\/SOLARAS_S2_Grahaa_space.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-12-19T18:45:00Z",
+    "launched":"2025-12-22T18:45:00Z",
     "deployed":null,
     "website":"https:\/\/www.grahaa.space\/",
     "operator":"None",
@@ -60012,8 +60012,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-17T10:52:18.090763Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63319.msg2743966#msg2743966",
+    "updated":"2025-12-20T17:59:55.187055Z",
+    "citation":"https:\/\/www.electronicsforyou.biz\/industry-buzz\/grahaa-space-prepares-for-its-first-orbital-launch-in-brazil\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60278,6 +60278,30 @@
     ],
     "updated":"2025-12-20T10:40:00.692895Z",
     "citation":"PE0SAT strf observations",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EOTU-1700-7352-3870-7016",
+    "norad_cat_id":62903.0,
+    "norad_follow_id":null,
+    "name":"COSMOS 2582",
+    "names":"2025-026B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-02-05T00:00:00Z",
+    "deployed":"2025-02-05T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-20T20:19:19.590006Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1m4Oeqghza9CmAIp5H0me5fq4NpnYPTmEBkiuMUuyTOA\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
