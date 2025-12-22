@@ -7516,9 +7516,9 @@
     "name":"FloripaSat-2B",
     "norad_id":null,
     "uplink":null,
-    "downlink":"468.200",
+    "downlink":null,
     "beacon":null,
-    "mode":"1200bps GMSK",
+    "mode":"LoRa",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -11614,6 +11614,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"OXEU-3062-3001-4128-0233"
+  },
+  {
+    "name":"Jussara-K",
+    "norad_id":null,
+    "uplink":"401.500",
+    "downlink":"468.500",
+    "beacon":null,
+    "mode":"LoRa::to be launched",
+    "callsign":null,
+    "status":null,
+    "satnogs_id":null
   },
   {
     "name":"Juvenile-1F",
@@ -16159,7 +16170,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PION-BR1",
+    "name":"Pion-BR1",
     "norad_id":"50984",
     "uplink":null,
     "downlink":"437.300",
@@ -16167,6 +16178,17 @@
     "mode":"1200bps GFSK",
     "callsign":null,
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"Pion-BR2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -19819,6 +19841,17 @@
     "mode":"1200bps AFSK CW",
     "callsign":"JL3YUS",
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"Solaras-S2",
+    "norad_id":null,
+    "uplink":"436.450",
+    "downlink":"145.925\/437.450",
+    "beacon":null,
+    "mode":"9600bps FSK",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {

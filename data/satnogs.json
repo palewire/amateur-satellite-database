@@ -18596,13 +18596,13 @@
   },
   {
     "sat_id":"GGVD-7649-7099-4367-5342",
-    "norad_cat_id":99466.0,
-    "norad_follow_id":50993.0,
+    "norad_cat_id":51089.0,
+    "norad_follow_id":null,
     "name":"SW1FT",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2024-05-02T00:00:00Z",
     "launched":"2022-01-13T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.satrev.space\/",
@@ -18611,8 +18611,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T14:19:43.015243Z",
-    "citation":"https:\/\/www.satrev.space\/",
+    "updated":"2025-12-22T11:05:32.035946Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 

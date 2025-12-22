@@ -764,7 +764,7 @@ EAHI-9090-2555-3685-8378,50993.0,,ION SCV-004,,,alive,,2022-01-13T15:25:00Z,,,No
 COSV-3964-7121-2346-7482,99469.0,51088.0,STORK-2,,,re-entered,2024-05-04T00:00:00Z,2022-01-13T15:25:00Z,,,None,PL,[],2024-05-06T08:37:22.992277Z,space-track.org,False,[]
 EHLR-6639-8186-9652-9277,99468.0,51087.0,STORK-1,ThingSat,,re-entered,2024-04-28T00:00:00Z,2022-01-13T00:00:00Z,,https://www.satrev.space,None,PL,[],2024-05-06T08:36:41.187206Z,space-track.org,False,[]
 AUDT-7147-3082-3789-4063,99467.0,51086.0,LabSat,,,re-entered,2024-09-11T00:00:00Z,2022-01-13T00:00:00Z,,https://space24.pl/przemysl/satrevolution-z-grantem-na-bio-nanosatelite,None,PL,[],2024-09-11T05:36:48.550543Z,space-track.org,False,[]
-GGVD-7649-7099-4367-5342,99466.0,50993.0,SW1FT,,,alive,,2022-01-13T00:00:00Z,,https://www.satrev.space/,None,PL,[],2023-05-17T14:19:43.015243Z,https://www.satrev.space/,False,[]
+GGVD-7649-7099-4367-5342,51089.0,,SW1FT,,,re-entered,2024-05-02T00:00:00Z,2022-01-13T00:00:00Z,,https://www.satrev.space/,None,PL,[],2025-12-22T11:05:32.035946Z,space-track.org,False,[]
 DNMS-7281-4476-5826-4348,51038.0,,MDASat-1C,,,re-entered,2025-05-06T00:00:00Z,2022-01-13T15:21:36Z,2022-01-13T16:36:00Z,https://www.cput.ac.za/world-space-week,None,ZA,[],2025-08-30T11:19:42.460563Z,space-track.org,False,[]
 RDYM-6468-8383-2209-5747,51050.0,,MDASat-1B,,,re-entered,2025-02-28T00:00:00Z,2022-01-13T15:21:36Z,2022-01-13T16:36:00Z,,None,,[],2025-08-30T11:20:33.412144Z,space-track.org,False,[]
 YLOY-9344-2352-3872-3003,50995.0,,MDASat-1A,,,re-entered,2025-05-13T00:00:00Z,2022-01-13T15:21:36Z,2022-01-13T16:36:00Z,,None,,[],2025-08-30T11:22:09.135998Z,space-track.org,True,[]
