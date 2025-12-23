@@ -60002,9 +60002,9 @@
     "name":"SOLARAS S2",
     "names":"",
     "image":"satellites\/SOLARAS_S2_Grahaa_space.jpeg",
-    "status":"future",
-    "decayed":null,
-    "launched":"2025-12-22T18:45:00Z",
+    "status":"re-entered",
+    "decayed":"2025-12-23T01:14:00Z",
+    "launched":"2025-12-23T01:13:00Z",
     "deployed":null,
     "website":"https:\/\/www.grahaa.space\/",
     "operator":"None",
@@ -60012,8 +60012,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-20T17:59:55.187055Z",
-    "citation":"https:\/\/www.electronicsforyou.biz\/industry-buzz\/grahaa-space-prepares-for-its-first-orbital-launch-in-brazil\/",
+    "updated":"2025-12-23T01:29:51.957434Z",
+    "citation":"https:\/\/community.libre.space\/t\/spaceward-hanbit-nano-2025-12-23-01-00-utc\/14151\/49",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60122,9 +60122,9 @@
     "name":"FloripaSat-2A",
     "names":"",
     "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2025-12-19T18:45:00Z",
+    "status":"re-entered",
+    "decayed":"2025-12-23T01:14:00Z",
+    "launched":"2025-12-23T01:13:00Z",
     "deployed":null,
     "website":"https:\/\/spacelab.ufsc.br\/en\/floripasat2\/",
     "operator":"None",
@@ -60132,8 +60132,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-17T11:25:10.781639Z",
-    "citation":"https:\/\/spacelab.ufsc.br\/en\/floripasat2\/ and https:\/\/forum.nasaspaceflight.com\/index.php?topic=63319.0;all",
+    "updated":"2025-12-23T01:29:51.933705Z",
+    "citation":"https:\/\/community.libre.space\/t\/spaceward-hanbit-nano-2025-12-23-01-00-utc\/14151\/49",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60146,9 +60146,9 @@
     "name":"FloripaSat-2B",
     "names":"",
     "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2025-12-19T18:45:00Z",
+    "status":"re-entered",
+    "decayed":"2025-12-23T01:14:00Z",
+    "launched":"2025-12-23T01:13:00Z",
     "deployed":null,
     "website":"https:\/\/spacelab.ufsc.br\/en\/floripasat2\/",
     "operator":"None",
@@ -60156,8 +60156,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-17T11:25:10.775224Z",
-    "citation":"https:\/\/spacelab.ufsc.br\/en\/floripasat2\/ and https:\/\/forum.nasaspaceflight.com\/index.php?topic=63319.0;all",
+    "updated":"2025-12-23T01:29:51.949154Z",
+    "citation":"https:\/\/community.libre.space\/t\/spaceward-hanbit-nano-2025-12-23-01-00-utc\/14151\/49",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60193,19 +60193,19 @@
     "norad_follow_id":null,
     "name":"Jussara-K",
     "names":"",
-    "image":"satellites\/JUSSARA-K.jpg",
-    "status":"future",
-    "decayed":null,
-    "launched":"2025-12-19T18:45:00Z",
+    "image":"",
+    "status":"re-entered",
+    "decayed":"2025-12-23T01:14:00Z",
+    "launched":"2025-12-23T01:13:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"BR",
+    "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-12-20T10:38:57.660778Z",
-    "citation":"PU4ELT",
+    "updated":"2025-12-23T01:29:51.923699Z",
+    "citation":"https:\/\/community.libre.space\/t\/spaceward-hanbit-nano-2025-12-23-01-00-utc\/14151\/49",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60218,9 +60218,9 @@
     "name":"Pion-BR2",
     "names":"",
     "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2025-12-19T18:45:00Z",
+    "status":"re-entered",
+    "decayed":"2025-12-23T01:14:00Z",
+    "launched":"2025-12-23T01:13:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -60228,8 +60228,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-19T13:24:20.288991Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63319.0;all",
+    "updated":"2025-12-23T01:29:51.941578Z",
+    "citation":"https:\/\/community.libre.space\/t\/spaceward-hanbit-nano-2025-12-23-01-00-utc\/14151\/49",
     "is_frequency_violator":false,
     "associated_satellites":[
 
