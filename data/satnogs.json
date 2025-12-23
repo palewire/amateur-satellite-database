@@ -59686,7 +59686,7 @@
   {
     "sat_id":"INDR-0800-7707-7365-1468",
     "norad_cat_id":98470.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66671.0,
     "name":"HCT-SAT2",
     "names":"MBRSC-2",
     "image":"",
@@ -59700,8 +59700,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:07.172271Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-22T14:30:33.555016Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/202",
     "is_frequency_violator":true,
     "associated_satellites":[
 
