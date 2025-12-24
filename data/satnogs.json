@@ -58866,7 +58866,7 @@
   {
     "sat_id":"YXPN-6198-5145-0440-6603",
     "norad_cat_id":98510.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66742.0,
     "name":"MERCURY ONE (M1)",
     "names":"",
     "image":"",
@@ -58880,8 +58880,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.910146Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-24T09:46:56.763462Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/204?u=eelkevisser",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60364,7 +60364,7 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2025-12-24T02:50:00Z",
+    "launched":"2025-12-24T03:24:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -60372,9 +60372,33 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-23T13:14:17.192222Z",
-    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/FM1\/125545285",
+    "updated":"2025-12-24T02:13:33.554257Z",
+    "citation":"https:\/\/community.libre.space\/t\/lvm3-m6-bluebird-block-2-2025-12-24-03-24-utc\/14194\/5",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MRQZ-5354-4580-8245-6631",
+    "norad_cat_id":66994.0,
+    "norad_follow_id":null,
+    "name":"Object B",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-10T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-24T02:47:19.784985Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/125?u=eelkevisser",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]

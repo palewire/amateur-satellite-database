@@ -1121,7 +1121,7 @@
   },
   {
     "name":"HCT-Sat2",
-    "norad_id":null,
+    "norad_id":"66671",
     "uplink":null,
     "downlink":"436.300",
     "beacon":null,
@@ -1831,7 +1831,7 @@
   },
   {
     "name":"PHI-1",
-    "norad_id":null,
+    "norad_id":"66775",
     "uplink":null,
     "downlink":"436.850\/2230.000",
     "beacon":null,
@@ -2761,7 +2761,7 @@
   },
   {
     "name":"T_MicroSat-1",
-    "norad_id":null,
+    "norad_id":"66766",
     "uplink":null,
     "downlink":"401.025",
     "beacon":null,

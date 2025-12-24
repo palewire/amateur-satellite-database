@@ -2827,6 +2827,17 @@
     "satnogs_id":"SXNP-3240-4340-9235-8383"
   },
   {
+    "name":"BlueBird-06",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.000",
+    "beacon":null,
+    "mode":"19k2 GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"BlueBon",
     "norad_id":"62688",
     "uplink":null,
@@ -4766,9 +4777,9 @@
     "name":"ConnectaIoT-13",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.510",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps GMSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -4777,9 +4788,9 @@
     "name":"ConnectaIoT-14",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.520",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps GMSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -4788,9 +4799,9 @@
     "name":"ConnectaIoT-15",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.530",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps GMSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -4799,9 +4810,9 @@
     "name":"ConnectaIoT-16",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.540",
     "beacon":null,
-    "mode":null,
+    "mode":"4800bps GMSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -7509,7 +7520,7 @@
     "beacon":null,
     "mode":"1200bps GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -7520,7 +7531,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"to be launched",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -9120,7 +9131,7 @@
   },
   {
     "name":"HCT-Sat2",
-    "norad_id":null,
+    "norad_id":"66671",
     "uplink":null,
     "downlink":"436.300",
     "beacon":null,
@@ -11621,7 +11632,7 @@
     "uplink":"401.500",
     "downlink":"468.500",
     "beacon":null,
-    "mode":"LoRa::to be launched",
+    "mode":"LoRa::failure",
     "callsign":null,
     "status":null,
     "satnogs_id":null
@@ -15863,7 +15874,7 @@
   },
   {
     "name":"PHI-1",
-    "norad_id":null,
+    "norad_id":"66775",
     "uplink":null,
     "downlink":"436.850\/2230.000",
     "beacon":null,
@@ -16188,7 +16199,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -19851,7 +19862,7 @@
     "beacon":null,
     "mode":"9600bps FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -22892,7 +22903,7 @@
   },
   {
     "name":"T_MicroSat-1",
-    "norad_id":null,
+    "norad_id":"66766",
     "uplink":null,
     "downlink":"401.025",
     "beacon":null,
