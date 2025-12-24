@@ -31909,21 +31909,21 @@
     "norad_follow_id":66907.0,
     "name":"RHOK-SAT",
     "names":"",
-    "image":"",
+    "image":"satellites\/RHOK-SAT_6.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-09-14T22:11:00Z",
     "deployed":"2025-12-02T08:20:00Z",
-    "website":"",
+    "website":"https:\/\/news.rhodes.edu\/stories\/cube-satellite-built-rhodes-college-team-set-launch-sept-14-part-nasa-mission",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
       {
         "decoder":"rhoksat"
       }
     ],
-    "updated":"2025-12-06T11:16:59.246171Z",
-    "citation":"Random choice from the deployment",
+    "updated":"2025-12-23T12:57:58.843648Z",
+    "citation":"https:\/\/www.nanosats.eu\/sat\/rhok-sat",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -51301,8 +51301,8 @@
         "decoder":"hadesr"
       }
     ],
-    "updated":"2025-02-24T11:21:49.101560Z",
-    "citation":"https:\/\/www.amsat-ea.org\/",
+    "updated":"2025-12-23T12:57:06.660543Z",
+    "citation":"https:\/\/www.nanosats.eu\/sat\/hades-r",
     "is_frequency_violator":false,
     "associated_satellites":[
       "VGLN-5415-2707-6177-5396"
@@ -60303,6 +60303,78 @@
     "updated":"2025-12-20T20:19:19.590006Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1m4Oeqghza9CmAIp5H0me5fq4NpnYPTmEBkiuMUuyTOA\/edit?usp=sharing",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NQDO-7389-4292-9152-0710",
+    "norad_cat_id":98452.0,
+    "norad_follow_id":null,
+    "name":"Slippers2Sat",
+    "names":"S2S",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-10T00:00:00Z",
+    "deployed":"2025-12-10T00:00:00Z",
+    "website":"https:\/\/www.s2s.antarikchya.org.np\/",
+    "operator":"None",
+    "countries":"NP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-23T12:56:31.376522Z",
+    "citation":"Adding temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HZQJ-6982-4172-2050-5121",
+    "norad_cat_id":39766.0,
+    "norad_follow_id":null,
+    "name":"Alos 2",
+    "names":"Daichi-2",
+    "image":"satellites\/alos2_main_001.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2014-05-24T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.jaxa.jp\/projects\/sat\/alos2\/index_j.html",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-23T12:51:55.560046Z",
+    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/124?u=eelkevisser",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CKNU-3750-3657-8602-8162",
+    "norad_cat_id":98451.0,
+    "norad_follow_id":null,
+    "name":"Bluebird 06",
+    "names":"FM1",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-24T02:50:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-23T13:14:17.192222Z",
+    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/FM1\/125545285",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
