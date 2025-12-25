@@ -3670,7 +3670,7 @@
     "beacon":null,
     "mode":"SSB*",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {
@@ -3681,7 +3681,7 @@
     "beacon":"145.855",
     "mode":"4800bps GMSK CW",
     "callsign":"BJ1SK",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {
@@ -3692,7 +3692,7 @@
     "beacon":null,
     "mode":"SSB*",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"NGHO-5109-0535-2414-7008"
   },
   {
@@ -3703,7 +3703,7 @@
     "beacon":"145.910",
     "mode":"4800bps GMSK CW",
     "callsign":"BJ1SL",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"NGHO-5109-0535-2414-7008"
   },
   {
@@ -24933,7 +24933,7 @@
     "beacon":null,
     "mode":"SSB*",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {
@@ -24944,7 +24944,7 @@
     "beacon":"145.855",
     "mode":"4800bps GMSK CW",
     "callsign":"BJ1SK",
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"UKHX-2090-2661-0534-2014"
   },
   {
@@ -24955,7 +24955,7 @@
     "beacon":null,
     "mode":"SSB*",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"NGHO-5109-0535-2414-7008"
   },
   {
@@ -24966,7 +24966,7 @@
     "beacon":"145.910",
     "mode":"4800bps GMSK CW",
     "callsign":"BJ1SL",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"NGHO-5109-0535-2414-7008"
   },
   {

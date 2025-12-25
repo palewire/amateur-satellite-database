@@ -2950,26 +2950,6 @@
     "satnogs_id":"GRVM-9505-5712-0753-7014"
   },
   {
-    "name":"ZHUHAI-1 02",
-    "norad_id":"42759",
-    "uplink":"435.270-435.290",
-    "downlink":"145.935-145.915",
-    "beacon":null,
-    "mode":"SSB*",
-    "callsign":null,
-    "satnogs_id":"NGHO-5109-0535-2414-7008"
-  },
-  {
-    "name":"ZHUHAI-1 02",
-    "norad_id":"42759",
-    "uplink":null,
-    "downlink":"145.890",
-    "beacon":"145.910",
-    "mode":"4800bps GMSK CW",
-    "callsign":"BJ1SL",
-    "satnogs_id":"NGHO-5109-0535-2414-7008"
-  },
-  {
     "name":"Zorkiy-2M",
     "norad_id":"57177",
     "uplink":null,

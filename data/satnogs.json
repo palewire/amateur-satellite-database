@@ -60263,8 +60263,8 @@
     "sat_id":"MJHK-8142-6331-2302-6358",
     "norad_cat_id":66993.0,
     "norad_follow_id":null,
-    "name":"25292A",
-    "names":"",
+    "name":"SPNeX",
+    "names":"EGSACUBE_SPNEX",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -60276,9 +60276,9 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-20T10:40:00.692895Z",
-    "citation":"PE0SAT strf observations",
-    "is_frequency_violator":false,
+    "updated":"2025-12-24T12:33:45.449699Z",
+    "citation":"ITU entry and decoded CW frames from Network observations",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -60310,7 +60310,7 @@
   {
     "sat_id":"NQDO-7389-4292-9152-0710",
     "norad_cat_id":98452.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66996.0,
     "name":"Slippers2Sat",
     "names":"S2S",
     "image":"",
@@ -60324,8 +60324,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-23T12:56:31.376522Z",
-    "citation":"Adding temporary NORAD ID",
+    "updated":"2025-12-24T13:44:55.425889Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
