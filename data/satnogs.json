@@ -58072,7 +58072,7 @@
   {
     "sat_id":"OKGA-8851-7796-3537-9901",
     "norad_cat_id":98526.0,
-    "norad_follow_id":66309.0,
+    "norad_follow_id":66308.0,
     "name":"CEVROSAT-1",
     "names":"OK0CVR",
     "image":"satellites\/Cevrosat1.jpg",
@@ -58088,8 +58088,8 @@
         "decoder":"cevrosat"
       }
     ],
-    "updated":"2025-12-09T15:26:54.546476Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-bandwagon-4-rideshare-2025-11-02-05-09-utc\/13126\/68",
+    "updated":"2025-12-26T10:49:38.285095Z",
+    "citation":"https:\/\/mailman.amsat.org\/hyperkitty\/list\/keps@amsat.org\/thread\/NBK7MWK35MTKC5S7YP7GYKAKRZRPPBHC\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

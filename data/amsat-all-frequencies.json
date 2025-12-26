@@ -3219,7 +3219,7 @@
     "beacon":null,
     "mode":"4800bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -3252,7 +3252,7 @@
     "beacon":null,
     "mode":"4800bps FSK",
     "callsign":null,
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8965,6 +8965,50 @@
     "satnogs_id":"LKOZ-5067-6870-4427-8883"
   },
   {
+    "name":"Grifon-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Grifon-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Grifon-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Grifon-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Grizu-263A",
     "norad_id":"51025",
     "uplink":null,
@@ -9780,7 +9824,7 @@
   },
   {
     "name":"HUNITY",
-    "norad_id":null,
+    "norad_id":"66670",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -13739,6 +13783,17 @@
     "satnogs_id":"IBAY-7894-8985-6772-8920"
   },
   {
+    "name":"MOHA-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Monitor-1",
     "norad_id":"53374",
     "uplink":null,
@@ -14521,7 +14576,7 @@
   },
   {
     "name":"NMHH-1",
-    "norad_id":null,
+    "norad_id":"66670",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -16072,7 +16127,7 @@
   },
   {
     "name":"PHASMA-DIRAC",
-    "norad_id":null,
+    "norad_id":"66681",
     "uplink":null,
     "downlink":"400.550\/2208.000",
     "beacon":null,
@@ -16083,7 +16138,7 @@
   },
   {
     "name":"PHASMA-LAMARR",
-    "norad_id":null,
+    "norad_id":"66673",
     "uplink":null,
     "downlink":"400.550\/2208.000",
     "beacon":null,
@@ -23001,15 +23056,48 @@
     "satnogs_id":"IDXT-3826-9067-2235-0516"
   },
   {
-    "name":"Triton",
-    "norad_id":"58017",
+    "name":"TriSat",
+    "norad_id":"46280",
+    "uplink":"145.900",
+    "downlink":"436.500",
+    "beacon":"435.6125",
+    "mode":"9600bps GMSK CCSDS",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":"CWOU-6477-1088-4545-3931"
+  },
+  {
+    "name":"TriSat-R",
+    "norad_id":"53108",
     "uplink":null,
-    "downlink":null,
-    "beacon":"400.900",
-    "mode":"CW",
+    "downlink":"435.613",
+    "beacon":null,
+    "mode":"1000bps GFSK",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":"WUYF-8239-9189-0421-5797"
+    "satnogs_id":"FWIK-4601-2533-0527-1613"
+  },
+  {
+    "name":"TriSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"TriSat-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Triton-1",
@@ -23023,26 +23111,15 @@
     "satnogs_id":"APZD-5343-3708-9744-3445"
   },
   {
-    "name":"TRISAT",
-    "norad_id":"46280",
-    "uplink":"145.900",
-    "downlink":"436.500",
-    "beacon":"435.6125",
-    "mode":"9600bps GMSK CCSDS",
-    "callsign":null,
-    "status":"re-entered",
-    "satnogs_id":"CWOU-6477-1088-4545-3931"
-  },
-  {
-    "name":"TRISAT-R",
-    "norad_id":"53108",
+    "name":"Triton",
+    "norad_id":"58017",
     "uplink":null,
-    "downlink":"435.613",
-    "beacon":null,
-    "mode":"1000bps GFSK",
+    "downlink":null,
+    "beacon":"400.900",
+    "mode":"CW",
     "callsign":null,
     "status":"inactive",
-    "satnogs_id":"FWIK-4601-2533-0527-1613"
+    "satnogs_id":"WUYF-8239-9189-0421-5797"
   },
   {
     "name":"TRSI-1",
@@ -24406,6 +24483,28 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Vladivostok-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"VM-3.1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
