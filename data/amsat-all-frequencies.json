@@ -12985,7 +12985,7 @@
     "uplink":null,
     "downlink":"437.180",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4\/19k2_GMSK",
     "callsign":"RS90S",
     "status":"to be launched",
     "satnogs_id":null
@@ -17121,7 +17121,7 @@
     "uplink":null,
     "downlink":"436.950",
     "beacon":null,
-    "mode":null,
+    "mode":"4k8_GMSK",
     "callsign":"RS95S",
     "status":"to be launched",
     "satnogs_id":null
@@ -18408,7 +18408,7 @@
     "uplink":null,
     "downlink":"437.350",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4\/19k2_GMSK SSDV",
     "callsign":"RS18S",
     "status":"to be launched",
     "satnogs_id":null
@@ -19794,7 +19794,7 @@
     "uplink":null,
     "downlink":"401.002",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4 GMSK_USP",
     "callsign":"SC2371",
     "status":"to be launched",
     "satnogs_id":null
@@ -19805,7 +19805,7 @@
     "uplink":null,
     "downlink":"401.033",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4 GMSK_USP",
     "callsign":"SC2359",
     "status":"to be launched",
     "satnogs_id":null
@@ -19816,7 +19816,7 @@
     "uplink":null,
     "downlink":"401.048",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4 GMSK_USP",
     "callsign":"SC2356",
     "status":"to be launched",
     "satnogs_id":null
@@ -19827,7 +19827,7 @@
     "uplink":null,
     "downlink":"401.062",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4 GMSK_USP",
     "callsign":"SC2348",
     "status":"to be launched",
     "satnogs_id":null
@@ -19838,7 +19838,7 @@
     "uplink":null,
     "downlink":"401.077",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4 GMSK_USP",
     "callsign":"SC2349",
     "status":"to be launched",
     "satnogs_id":null
@@ -19849,7 +19849,7 @@
     "uplink":null,
     "downlink":"401.092",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4 GMSK_USP",
     "callsign":"SC2372",
     "status":"to be launched",
     "satnogs_id":null
@@ -19860,7 +19860,7 @@
     "uplink":null,
     "downlink":"401.108",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4 GMSK_USP",
     "callsign":"SC2351",
     "status":"to be launched",
     "satnogs_id":null
@@ -19871,7 +19871,7 @@
     "uplink":null,
     "downlink":"401.123",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4 GMSK_USP",
     "callsign":"SC2352",
     "status":"to be launched",
     "satnogs_id":null
@@ -19882,7 +19882,7 @@
     "uplink":null,
     "downlink":"401.137",
     "beacon":null,
-    "mode":null,
+    "mode":"2k4 GMSK_USP",
     "callsign":"SC2353",
     "status":"to be launched",
     "satnogs_id":null
