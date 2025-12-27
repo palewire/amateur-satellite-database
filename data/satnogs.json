@@ -58506,7 +58506,7 @@
   {
     "sat_id":"RGHP-8697-5632-9467-2081",
     "norad_cat_id":98518.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66684.0,
     "name":"MICE-1",
     "names":"",
     "image":"satellites\/mice-1_patch-480e274e.webp",
@@ -58520,8 +58520,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.886012Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2025-12-27T11:01:31.423486Z",
+    "citation":"Added followed NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60398,6 +60398,30 @@
     ],
     "updated":"2025-12-24T02:47:19.784985Z",
     "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/125?u=eelkevisser",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LKTK-5000-8209-9990-7948",
+    "norad_cat_id":64903.0,
+    "norad_follow_id":null,
+    "name":"CO3D1",
+    "names":"2025-156E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":"2025-06-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-27T11:02:02.339670Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/197S1HsUIVwvIUzhLPeHmjrQbBHmKAABySLWJwzP5UvI\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
