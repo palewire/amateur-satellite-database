@@ -59205,8 +59205,8 @@
   },
   {
     "sat_id":"QLDP-3783-5419-7098-2257",
-    "norad_cat_id":98490.0,
-    "norad_follow_id":66652.0,
+    "norad_cat_id":66653.0,
+    "norad_follow_id":null,
     "name":"INHA-RoSAT",
     "names":"ROSAT",
     "image":"satellites\/news-p.v1.20251123.3fdcc0857f79442d8beeaa12fa72cb78_P1.png",
@@ -59220,8 +59220,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-10T14:54:58.918011Z",
-    "citation":"https:\/\/www.mk.co.kr\/en\/it\/11478080",
+    "updated":"2025-12-27T12:24:05.163639Z",
+    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/91",
     "is_frequency_violator":true,
     "associated_satellites":[
 
