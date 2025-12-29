@@ -27619,8 +27619,8 @@
     "name":"M3MSat",
     "names":"exactView 7",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-19T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -27629,8 +27629,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T20:25:10.759643Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2025-12-29T12:01:03.394505Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=41605",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30097,8 +30097,8 @@
     "name":"JILIN-01 GAOFEN 4A",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-17T00:00:00Z",
     "launched":"2022-04-30T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -30107,8 +30107,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-18T13:08:48.201067Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/44",
+    "updated":"2025-12-29T12:00:57.124278Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=52388",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39654,8 +39654,8 @@
     "name":"UMBRA 08",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-22T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T20:05:30Z",
     "website":"",
@@ -39664,8 +39664,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-05T03:13:21.490545Z",
-    "citation":"space-track.org",
+    "updated":"2025-12-29T12:00:50.040438Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=58292",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42948,8 +42948,8 @@
     "name":"ONDOSAT-OWL-2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-24T00:00:00Z",
     "launched":"2024-03-04T22:05:00Z",
     "deployed":"2024-03-04T23:00:11Z",
     "website":"https:\/\/amateur.ondospace.com\/",
@@ -42958,8 +42958,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T02:22:08.804131Z",
-    "citation":"https:\/\/tinygs.com\/satellite\/ONDOSAT-OWL-2",
+    "updated":"2025-12-29T12:00:44.753723Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=59113",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -54022,7 +54022,7 @@
     ],
     "updated":"2025-04-03T02:44:51.531362Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63240\/2025-04-02T22%3A47%3A28_11339110_63240_25052AG_0-OBJECT-AG_1.0089515196296333_B_r24.0_f0.0.png",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
       "UNQO-4453-5207-3473-9466"
     ]
@@ -57996,7 +57996,7 @@
   {
     "sat_id":"KVUS-0486-2614-8565-9913",
     "norad_cat_id":98530.0,
-    "norad_follow_id":66669.0,
+    "norad_follow_id":66683.0,
     "name":"PHASMA-LAMARR",
     "names":"",
     "image":"satellites\/PHASMA-1.png",
@@ -58012,8 +58012,8 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2025-12-28T18:45:06.636327Z",
-    "citation":"https:\/\/community.libre.space\/t\/phasma-mission-phasma-lamarr-phasma-dirac\/13976\/128",
+    "updated":"2025-12-29T10:19:08.768247Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/13083531\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60937,6 +60937,126 @@
     "norad_follow_id":null,
     "name":"GALAPAGOS-UTE-SWSU",
     "names":"HC1PX",
+    "image":"satellites\/galapagos_sat.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"EC",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-29T11:04:39.649479Z",
+    "citation":"PU4ELT",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PDBX-0731-2301-4011-4620",
+    "norad_cat_id":98402.0,
+    "norad_follow_id":null,
+    "name":"Grifon-1",
+    "names":"Grifon1",
+    "image":"satellites\/\u0420\u0438\u0441\u0443\u043d\u043e\u043a1.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":"2025-12-28T13:18:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-29T11:05:03.067646Z",
+    "citation":"Citation need",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ASUZ-6048-5094-2800-4237",
+    "norad_cat_id":98401.0,
+    "norad_follow_id":null,
+    "name":"Grifon-2",
+    "names":"Grifon2",
+    "image":"satellites\/\u0420\u0438\u0441\u0443\u043d\u043e\u043a1_h0cts1C.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":"2025-12-28T13:18:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-29T11:05:01.593646Z",
+    "citation":"Citation need",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RTQY-5459-1602-5776-1173",
+    "norad_cat_id":98400.0,
+    "norad_follow_id":null,
+    "name":"Grifon-3",
+    "names":"Grifon3",
+    "image":"satellites\/\u0420\u0438\u0441\u0443\u043d\u043e\u043a1_hqdbMkF.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":"2025-12-28T13:18:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-29T11:05:00.716692Z",
+    "citation":"Citation need",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NQEJ-2007-5921-3397-2395",
+    "norad_cat_id":98399.0,
+    "norad_follow_id":null,
+    "name":"Grifon-4",
+    "names":"Grifon4",
+    "image":"satellites\/\u0420\u0438\u0441\u0443\u043d\u043e\u043a1_YCGanzO.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":"2025-12-28T13:18:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-29T11:04:59.932749Z",
+    "citation":"Citation need",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OTDY-2434-1908-3059-5807",
+    "norad_cat_id":98427.0,
+    "norad_follow_id":null,
+    "name":"SCORPION",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -60948,9 +61068,57 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T20:44:15.662135Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/27",
+    "updated":"2025-12-29T10:57:23.188339Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/39",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PCQD-3497-2272-5793-3533",
+    "norad_cat_id":98426.0,
+    "norad_follow_id":null,
+    "name":"KOSAR-1.5",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-29T11:29:30.220077Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/50",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WVCI-2338-9266-5261-4671",
+    "norad_cat_id":98425.0,
+    "norad_follow_id":null,
+    "name":"Mule 4T",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-29T11:50:23.343409Z",
+    "citation":"tinygs.com",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
