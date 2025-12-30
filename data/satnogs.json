@@ -19193,10 +19193,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -42924,8 +42924,8 @@
     "name":"ONDOSAT-OWL-1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-11-28T00:00:00Z",
     "launched":"2024-03-04T22:05:00Z",
     "deployed":"2024-03-04T23:00:11Z",
     "website":"https:\/\/amateur.ondospace.com\/",
@@ -42934,8 +42934,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T02:24:20.704844Z",
-    "citation":"https:\/\/tinygs.com\/satellite\/ONDOSAT-OWL-1",
+    "updated":"2025-12-29T12:14:08.038976Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=59111",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -59758,7 +59758,7 @@
   {
     "sat_id":"VVCO-9182-2144-7766-7316",
     "norad_cat_id":98467.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66778.0,
     "name":"Foresail-1p",
     "names":"OH2F1S, FS1p, Foresail-1 Prime",
     "image":"satellites\/fm-ready.jpg",
@@ -59772,8 +59772,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-09T21:05:49.063131Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/152",
+    "updated":"2025-12-29T14:22:54.987273Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
