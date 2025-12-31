@@ -19193,10 +19193,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -60942,14 +60942,14 @@
     "decayed":null,
     "launched":"2025-12-28T13:18:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/ute.edu.ec\/nanosatelite-galapagos-ute\/",
     "operator":"None",
     "countries":"EC",
     "telemetries":[
 
     ],
-    "updated":"2025-12-29T11:04:39.649479Z",
-    "citation":"PU4ELT",
+    "updated":"2025-12-30T22:11:42.492764Z",
+    "citation":"https:\/\/ute.edu.ec\/nanosatelite-galapagos-ute\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -61118,6 +61118,54 @@
     ],
     "updated":"2025-12-29T11:50:23.343409Z",
     "citation":"tinygs.com",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ATHN-6625-5600-2788-0227",
+    "norad_cat_id":64572.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X52",
+    "names":"2025-135AW",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":"2025-06-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-30T16:38:20.226098Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1r1eRvV3nEQqVY0wzmoL2uq6Ao48nEMskFbA_XVUmsrM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GZMV-5415-0539-9818-3095",
+    "norad_cat_id":43223.0,
+    "norad_follow_id":null,
+    "name":"IGS OPT 6",
+    "names":"2018-021A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2018-02-27T00:00:00Z",
+    "deployed":"2018-02-27T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-30T22:11:49.353034Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1xor1j4SN7QaMKFdKKBdQMSwSHjg62mxxlEtTzXiQlD0\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
