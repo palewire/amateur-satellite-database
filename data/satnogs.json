@@ -61170,5 +61170,77 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GSGJ-8694-0187-1316-8537",
+    "norad_cat_id":98424.0,
+    "norad_follow_id":null,
+    "name":"Unknown Satellite",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-31T12:39:09.480256Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/87",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SAVA-8568-3251-4025-7878",
+    "norad_cat_id":98420.0,
+    "norad_follow_id":null,
+    "name":"AIST-ST",
+    "names":"RS86S",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-31T12:54:26.181012Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/77",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TMKE-8338-9192-2574-1884",
+    "norad_cat_id":98421.0,
+    "norad_follow_id":null,
+    "name":"Polytech Universe 6",
+    "names":"RS10S",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T13:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2025-12-31T12:57:27.736138Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/77",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
   }
 ]
