@@ -19193,10 +19193,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -57996,7 +57996,7 @@
   {
     "sat_id":"KVUS-0486-2614-8565-9913",
     "norad_cat_id":98530.0,
-    "norad_follow_id":66683.0,
+    "norad_follow_id":66673.0,
     "name":"PHASMA-LAMARR",
     "names":"",
     "image":"satellites\/PHASMA-1.png",
@@ -58012,8 +58012,8 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2025-12-29T10:19:08.768247Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/13083531\/",
+    "updated":"2026-01-02T15:23:53.103543Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
