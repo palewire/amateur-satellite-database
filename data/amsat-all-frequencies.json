@@ -11786,9 +11786,9 @@
     "uplink":"401.500",
     "downlink":"468.500",
     "beacon":null,
-    "mode":"LoRa::failure",
+    "mode":"LoRa",
     "callsign":null,
-    "status":null,
+    "status":"failure",
     "satnogs_id":null
   },
   {
