@@ -710,6 +710,16 @@
     "satnogs_id":"SRMQ-6676-8759-6509-8693"
   },
   {
+    "name":"DCS-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.150",
+    "beacon":"2k4 GMSK_USP",
+    "mode":null,
+    "callsign":"SCA0KR",
+    "satnogs_id":null
+  },
+  {
     "name":"DELFI-C3",
     "norad_id":"32789",
     "uplink":null,
@@ -958,6 +968,16 @@
     "mode":"1200bps BPSK",
     "callsign":null,
     "satnogs_id":"SEXU-2964-9908-3979-4793"
+  },
+  {
+    "name":"Galapagos-UTE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.050",
+    "beacon":null,
+    "mode":"1143*_AFSK 9k6_GMSK SSTV",
+    "callsign":"HC1PX",
+    "satnogs_id":null
   },
   {
     "name":"Gardens-04",
@@ -1560,6 +1580,16 @@
     "satnogs_id":"PEAF-6165-8245-0396-3965"
   },
   {
+    "name":"Luca-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.180",
+    "beacon":null,
+    "mode":"2k4*\/4k8 GMSK_USP",
+    "callsign":"RS90S",
+    "satnogs_id":null
+  },
+  {
     "name":"LUNA-1",
     "norad_id":null,
     "uplink":null,
@@ -1591,11 +1621,11 @@
   },
   {
     "name":"Mice-1",
-    "norad_id":null,
+    "norad_id":"66684",
     "uplink":null,
-    "downlink":"401.500",
+    "downlink":"401.500\/2243.000",
     "beacon":null,
-    "mode":null,
+    "mode":"4k8_GMSK FM",
     "callsign":null,
     "satnogs_id":null
   },
@@ -1708,6 +1738,26 @@
     "mode":"2k4\/4k8\/9k6* GMSK_USP",
     "callsign":"RS49S",
     "satnogs_id":"VMNV-8729-6815-0607-7666"
+  },
+  {
+    "name":"NasbSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500*\/401.600",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"S3809A\/9B",
+    "satnogs_id":null
+  },
+  {
+    "name":"NasbSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700*\/401.800",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"A2S5A\/5B",
+    "satnogs_id":null
   },
   {
     "name":"NETSAT-2",
@@ -1860,6 +1910,16 @@
     "satnogs_id":"HIEK-3729-5596-2727-4744"
   },
   {
+    "name":"QMR-KWT-2",
+    "norad_id":null,
+    "uplink":"145.920",
+    "downlink":"436.950",
+    "beacon":null,
+    "mode":"2k4*GMSK_USP SSTV FM",
+    "callsign":"RS95S",
+    "satnogs_id":null
+  },
+  {
     "name":"QUBE",
     "norad_id":"60476",
     "uplink":null,
@@ -1920,6 +1980,16 @@
     "satnogs_id":"UKBO-2090-2618-8439-9299"
   },
   {
+    "name":"SAKHACUBE-CHOLBON",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.350",
+    "beacon":null,
+    "mode":"k4\/9k6 GMSK_USP SSDV",
+    "callsign":"RS18S",
+    "satnogs_id":null
+  },
+  {
     "name":"Saturn",
     "norad_id":"57174",
     "uplink":null,
@@ -1938,6 +2008,16 @@
     "mode":"FM* tone 67.0Hz",
     "callsign":null,
     "satnogs_id":"IRES-5964-9687-1982-0089"
+  },
+  {
+    "name":"Scorpion",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.240*\/435.340\/436.650\/2410.000",
+    "beacon":null,
+    "mode":"1k2_AFSK",
+    "callsign":"RS89S",
+    "satnogs_id":null
   },
   {
     "name":"SEEDS-II",
@@ -2388,6 +2468,46 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2344",
     "satnogs_id":"RBPP-4436-6355-8978-8861"
+  },
+  {
+    "name":"SITRO-AIS-57",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.002",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2371",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-AIS-61",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.077",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2349",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-TD-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.173",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2345",
+    "satnogs_id":null
+  },
+  {
+    "name":"SITRO-TD-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.197",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"SC2354",
+    "satnogs_id":null
   },
   {
     "name":"SMOG-P",
@@ -2948,5 +3068,35 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"S3806A",
     "satnogs_id":"YKBC-6296-0803-1334-4704"
+  },
+  {
+    "name":"Zorkiy-2M-5",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.165\/401.230*",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"A0X9A\/9B",
+    "satnogs_id":null
+  },
+  {
+    "name":"Zorkiy-2M-7",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.017\/401.245*",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"A0XAA\/AB",
+    "satnogs_id":null
+  },
+  {
+    "name":"Zorkiy-2M-VPE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.180\/401.212*",
+    "beacon":null,
+    "mode":"2k4 GMSK_USP",
+    "callsign":"A0X8A\/8B",
+    "satnogs_id":null
   }
 ]

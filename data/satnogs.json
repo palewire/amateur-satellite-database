@@ -18970,10 +18970,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19193,10 +19193,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -61262,6 +61262,54 @@
     ],
     "updated":"2026-01-01T19:51:33.390397Z",
     "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/96",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XNES-3255-1093-4669-6305",
+    "norad_cat_id":66674.0,
+    "norad_follow_id":null,
+    "name":"OBJECT J",
+    "names":"2025-276J",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-11-28T00:00:00Z",
+    "deployed":"2025-11-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-03T19:01:33.276495Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1uj6Rb34S4UsVv1tZf409yHbNFzAMZ-5FXUY0DJBmmKY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GBBQ-0405-2879-6889-6023",
+    "norad_cat_id":66756.0,
+    "norad_follow_id":null,
+    "name":"OBJECT CU",
+    "names":"2025-276CU",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-11-28T00:00:00Z",
+    "deployed":"2025-11-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-03T19:43:06.640002Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1NLxw6K73LyGiOf2ihXH6QgMM5qRb5gftMvXavb1QyTE\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
