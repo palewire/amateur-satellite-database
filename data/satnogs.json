@@ -58048,7 +58048,7 @@
   {
     "sat_id":"BMYD-8328-6159-7072-4807",
     "norad_cat_id":98527.0,
-    "norad_follow_id":66686.0,
+    "norad_follow_id":66682.0,
     "name":"Black Kite-1",
     "names":"8U RIoT-1",
     "image":"",
@@ -58062,8 +58062,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-05T14:47:06.189021Z",
-    "citation":"Last good Network observations",
+    "updated":"2026-01-06T11:22:00.294679Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/218",
     "is_frequency_violator":false,
     "associated_satellites":[
 
