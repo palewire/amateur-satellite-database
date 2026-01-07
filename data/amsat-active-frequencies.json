@@ -1985,7 +1985,7 @@
     "uplink":null,
     "downlink":"437.350",
     "beacon":null,
-    "mode":"k4\/9k6 GMSK_USP SSDV",
+    "mode":"2k4*\/9k6 GMSK_USP SSDV",
     "callsign":"RS18S",
     "satnogs_id":null
   },

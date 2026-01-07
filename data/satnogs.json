@@ -19193,10 +19193,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -58048,7 +58048,7 @@
   {
     "sat_id":"BMYD-8328-6159-7072-4807",
     "norad_cat_id":98527.0,
-    "norad_follow_id":66682.0,
+    "norad_follow_id":66670.0,
     "name":"Black Kite-1",
     "names":"8U RIoT-1",
     "image":"",
@@ -58062,8 +58062,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-06T11:22:00.294679Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/218",
+    "updated":"2026-01-07T07:18:54.170113Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/220",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59170,7 +59170,9 @@
     "operator":"None",
     "countries":"KR",
     "telemetries":[
-
+      {
+        "decoder":"spirone"
+      }
     ],
     "updated":"2025-12-02T16:06:27.083551Z",
     "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
