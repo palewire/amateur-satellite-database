@@ -58048,7 +58048,7 @@
   {
     "sat_id":"BMYD-8328-6159-7072-4807",
     "norad_cat_id":98527.0,
-    "norad_follow_id":66670.0,
+    "norad_follow_id":null,
     "name":"Black Kite-1",
     "names":"8U RIoT-1",
     "image":"",
@@ -58062,8 +58062,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-07T07:18:54.170113Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/220",
+    "updated":"2026-01-08T14:15:23.771220Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/231",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59471,7 +59471,7 @@
   },
   {
     "sat_id":"WVDG-4965-1801-4190-1789",
-    "norad_cat_id":98479.0,
+    "norad_cat_id":66772.0,
     "norad_follow_id":null,
     "name":"IHI-SAT 2",
     "names":"",
@@ -59486,11 +59486,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:07.070008Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-01-08T13:57:35.237483Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "AWOU-7028-5189-9810-1648"
     ]
   },
   {
@@ -60912,7 +60912,7 @@
   {
     "sat_id":"JXLH-6916-5606-6524-3299",
     "norad_cat_id":98429.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67284.0,
     "name":"Lobachevsky",
     "names":"",
     "image":"",
@@ -60926,8 +60926,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T13:34:38.568896Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/19",
+    "updated":"2026-01-08T14:53:31.850641Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/107",
     "is_frequency_violator":false,
     "associated_satellites":[
 
