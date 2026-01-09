@@ -4946,7 +4946,7 @@
     "beacon":null,
     "mode":"9k6_GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -8383,7 +8383,7 @@
   },
   {
     "name":"Galapagos-UTE",
-    "norad_id":null,
+    "norad_id":"67279",
     "uplink":null,
     "downlink":"437.050",
     "beacon":null,
@@ -12882,7 +12882,7 @@
   },
   {
     "name":"LOBACHEVSKY",
-    "norad_id":null,
+    "norad_id":"67282",
     "uplink":null,
     "downlink":"145.910\/435.500\/436.320*",
     "beacon":null,
@@ -13024,8 +13024,8 @@
     "satnogs_id":"MGQA-3984-9891-9370-1393"
   },
   {
-    "name":"Luca-1",
-    "norad_id":null,
+    "name":"Luca",
+    "norad_id":"67287",
     "uplink":null,
     "downlink":"437.180",
     "beacon":null,
@@ -17172,7 +17172,7 @@
   },
   {
     "name":"QMR-KWT-2",
-    "norad_id":null,
+    "norad_id":"67293",
     "uplink":"145.920",
     "downlink":"436.950",
     "beacon":null,
@@ -18459,7 +18459,7 @@
   },
   {
     "name":"SAKHACUBE-CHOLBON",
-    "norad_id":null,
+    "norad_id":"67290",
     "uplink":null,
     "downlink":"437.350",
     "beacon":null,
@@ -18855,7 +18855,7 @@
   },
   {
     "name":"Scorpion",
-    "norad_id":null,
+    "norad_id":"67291",
     "uplink":null,
     "downlink":"435.240*\/435.340\/436.650\/2410.000",
     "beacon":null,

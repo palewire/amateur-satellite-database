@@ -59174,8 +59174,8 @@
         "decoder":"spirone"
       }
     ],
-    "updated":"2025-12-02T16:06:27.083551Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
+    "updated":"2026-01-09T00:36:51.817425Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/spirone",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60312,7 +60312,7 @@
   {
     "sat_id":"CPWN-2484-4785-1722-0154",
     "norad_cat_id":98450.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67290.0,
     "name":"SAKHACUBE-CHOLBON",
     "names":"RS18S, \u0427\u043e\u043b\u0431\u043e\u043d",
     "image":"satellites\/cholbon.jpg",
@@ -60326,8 +60326,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.818423Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-09T00:36:24.370435Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BUCI-8407-3717-3202-7429"
@@ -60336,7 +60336,7 @@
   {
     "sat_id":"KGYQ-5715-2443-6319-9345",
     "norad_cat_id":98449.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67287.0,
     "name":"Luca",
     "names":"Lu\u010da, RS90S",
     "image":"",
@@ -60350,8 +60350,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.704943Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-09T00:36:24.410745Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -60360,7 +60360,7 @@
   {
     "sat_id":"KXQQ-3629-0199-1434-6296",
     "norad_cat_id":98448.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67293.0,
     "name":"QMR-KWT 2",
     "names":"RS95S",
     "image":"satellites\/QMR-KWT_2.jpg",
@@ -60374,8 +60374,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.687084Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-09T00:36:24.430464Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60912,7 +60912,7 @@
   {
     "sat_id":"JXLH-6916-5606-6524-3299",
     "norad_cat_id":98429.0,
-    "norad_follow_id":67284.0,
+    "norad_follow_id":67282.0,
     "name":"Lobachevsky",
     "names":"",
     "image":"",
@@ -60926,8 +60926,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-08T14:53:31.850641Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/107",
+    "updated":"2026-01-09T00:36:24.451054Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60936,7 +60936,7 @@
   {
     "sat_id":"XHOE-9718-5112-5196-7058",
     "norad_cat_id":98428.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67279.0,
     "name":"GALAPAGOS-UTE-SWSU",
     "names":"HC1PX",
     "image":"satellites\/galapagos_sat.jpg",
@@ -60950,8 +60950,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-30T22:11:42.492764Z",
-    "citation":"https:\/\/ute.edu.ec\/nanosatelite-galapagos-ute\/",
+    "updated":"2026-01-09T00:36:24.390840Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -61056,7 +61056,7 @@
   {
     "sat_id":"OTDY-2434-1908-3059-5807",
     "norad_cat_id":98427.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67291.0,
     "name":"SCORPION",
     "names":"",
     "image":"",
@@ -61070,8 +61070,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-29T10:57:23.188339Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/39",
+    "updated":"2026-01-09T00:36:24.469744Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
     "is_frequency_violator":true,
     "associated_satellites":[
 
