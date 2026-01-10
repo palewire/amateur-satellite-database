@@ -58842,7 +58842,7 @@
   {
     "sat_id":"EGDO-0528-2484-4224-1235",
     "norad_cat_id":98509.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66777.0,
     "name":"LUNA-1",
     "names":"",
     "image":"",
@@ -58856,8 +58856,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.935710Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-01-09T13:44:35.869043Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/234",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61078,30 +61078,6 @@
     ]
   },
   {
-    "sat_id":"PCQD-3497-2272-5793-3533",
-    "norad_cat_id":98426.0,
-    "norad_follow_id":null,
-    "name":"KOSAR-1.5",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2025-12-28T13:18:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2025-12-29T11:29:30.220077Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/50",
-    "is_frequency_violator":true,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"WVCI-2338-9266-5261-4671",
     "norad_cat_id":98425.0,
     "norad_follow_id":null,
@@ -61339,6 +61315,30 @@
     "is_frequency_violator":false,
     "associated_satellites":[
 
+    ]
+  },
+  {
+    "sat_id":"YHPF-2223-3310-4034-1636",
+    "norad_cat_id":98426.0,
+    "norad_follow_id":67255.0,
+    "name":"Kosar 1.5",
+    "names":"Kowsar 1.5",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/spaceomid.com\/",
+    "operator":"None",
+    "countries":"IR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-09T22:17:21.907541Z",
+    "citation":"Random Choice from the launch objects",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+      "PCQD-3497-2272-5793-3533"
     ]
   }
 ]
