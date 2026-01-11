@@ -18970,10 +18970,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -60504,7 +60504,7 @@
   {
     "sat_id":"XDBT-0752-3881-2494-2004",
     "norad_cat_id":98446.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67256.0,
     "name":"Sitro-AIS-57",
     "names":"SC2371",
     "image":"",
@@ -60518,8 +60518,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.559998Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-10T16:20:32.178889Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60528,7 +60528,7 @@
   {
     "sat_id":"DMRY-7394-2313-6941-2874",
     "norad_cat_id":98445.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67258.0,
     "name":"Sitro-AIS-58",
     "names":"SC2359",
     "image":"",
@@ -60542,8 +60542,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.798342Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-10T16:20:32.160429Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60552,7 +60552,7 @@
   {
     "sat_id":"LOCL-1140-8658-9838-2019",
     "norad_cat_id":98444.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67257.0,
     "name":"Sitro-AIS-59",
     "names":"SC2356",
     "image":"",
@@ -60566,8 +60566,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.651686Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-10T16:20:32.141359Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60576,7 +60576,7 @@
   {
     "sat_id":"MSEV-0781-3437-8674-1257",
     "norad_cat_id":98443.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67260.0,
     "name":"Sitro-AIS-60",
     "names":"SC2348",
     "image":"",
@@ -60590,8 +60590,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.633388Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-10T16:20:32.121443Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60624,7 +60624,7 @@
   {
     "sat_id":"EKFF-1806-2762-3857-5377",
     "norad_cat_id":98441.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67296.0,
     "name":"Sitro-AIS-62",
     "names":"SC2372",
     "image":"",
@@ -60638,8 +60638,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.740828Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-10T16:20:32.084220Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60648,7 +60648,7 @@
   {
     "sat_id":"PILJ-2186-2656-2086-5536",
     "norad_cat_id":98440.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67294.0,
     "name":"Sitro-AIS-63",
     "names":"SC2351",
     "image":"",
@@ -60662,8 +60662,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.597092Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-10T16:20:32.053526Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60792,7 +60792,7 @@
   {
     "sat_id":"IGYJ-8963-1038-8735-2733",
     "norad_cat_id":98433.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67268.0,
     "name":"Zorkiy-2M 7",
     "names":"A0XAA, A0XAB",
     "image":"",
@@ -60806,8 +60806,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.478795Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-10T16:20:32.103492Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61339,6 +61339,30 @@
     "is_frequency_violator":true,
     "associated_satellites":[
       "PCQD-3497-2272-5793-3533"
+    ]
+  },
+  {
+    "sat_id":"KZSJ-8912-3139-5313-9256",
+    "norad_cat_id":67271.0,
+    "norad_follow_id":null,
+    "name":"OBJECT Z",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-10T19:19:40.456910Z",
+    "citation":"Found in a STRF run",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
     ]
   }
 ]
