@@ -517,6 +517,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Aldebaran-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"468.500",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"ALEXANDER",
     "norad_id":"39144",
     "uplink":null,
@@ -4499,6 +4510,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CGUSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.175",
+    "beacon":"435.360",
+    "mode":"9k6_FSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Challenger",
     "norad_id":"42721",
     "uplink":null,
@@ -6523,6 +6545,17 @@
     "satnogs_id":null
   },
   {
+    "name":"DSUSAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"DTUsat-1",
     "norad_id":"27842",
     "uplink":null,
@@ -6839,6 +6872,17 @@
     "mode":"1k2AFSK 9k6GMSK CW",
     "callsign":"JG6YJR",
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"EduSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"468.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -8413,6 +8457,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"BYRQ-8084-9850-7997-7193"
+  },
+  {
+    "name":"Galaxy-Explorer",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"468.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Gardens-01",
@@ -12419,6 +12474,17 @@
     "satnogs_id":null
   },
   {
+    "name":"LACHIT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.175",
+    "beacon":"435.360",
+    "mode":"9k6_FSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"LAICE-1",
     "norad_id":null,
     "uplink":null,
@@ -15530,6 +15596,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"LICR-0509-3868-4896-9571"
+  },
+  {
+    "name":"Orbital-Temple",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"468.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"ORCASAT",
@@ -22550,6 +22627,17 @@
     "satnogs_id":"YEOH-3929-6205-1615-7126"
   },
   {
+    "name":"Theos-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2244.230",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Thybolt-1",
     "norad_id":"54363",
     "uplink":null,
@@ -22570,6 +22658,17 @@
     "callsign":"THY02",
     "status":"re-entered",
     "satnogs_id":"FBWZ-9594-5872-5644-3969"
+  },
+  {
+    "name":"Thybolt-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"468.500",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"TIANHE",
@@ -23416,6 +23515,17 @@
     "mode":"9k6_GFSK",
     "callsign":"TRON1",
     "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"UaiSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {

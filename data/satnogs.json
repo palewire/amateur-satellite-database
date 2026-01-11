@@ -60031,15 +60031,15 @@
     "status":"future",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
-    "deployed":"2026-01-11T13:18:59Z",
+    "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2025-12-17T10:16:53.902288Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-01-11T09:23:07.154822Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60055,15 +60055,15 @@
     "status":"future",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
-    "deployed":"2026-01-11T13:18:59Z",
+    "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2025-12-17T10:16:49.664157Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-01-11T09:23:07.149783Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60079,15 +60079,15 @@
     "status":"future",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
-    "deployed":"2026-01-11T13:18:59Z",
+    "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2025-12-17T10:16:45.206569Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-01-11T09:23:07.143886Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60103,15 +60103,15 @@
     "status":"future",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
-    "deployed":"2026-01-11T13:18:59Z",
+    "deployed":null,
     "website":"https:\/\/www.plan.space\/",
     "operator":"None",
     "countries":"TR",
     "telemetries":[
 
     ],
-    "updated":"2025-12-17T10:16:40.358114Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-01-11T09:23:07.137182Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61360,6 +61360,126 @@
     ],
     "updated":"2026-01-10T19:19:40.456910Z",
     "citation":"Found in a STRF run",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PMJD-1622-8986-3330-7039",
+    "norad_cat_id":98419.0,
+    "norad_follow_id":null,
+    "name":"Flamingo-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-11T13:18:59Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T09:23:07.175168Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZTJQ-4274-9707-7340-0955",
+    "norad_cat_id":98418.0,
+    "norad_follow_id":null,
+    "name":"SPARCS",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-11T13:18:59Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T09:23:07.169781Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FLVW-0048-9376-7913-0535",
+    "norad_cat_id":98417.0,
+    "norad_follow_id":null,
+    "name":"CARBSAR",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-11T13:18:59Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T09:23:07.164952Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LMSA-9796-0885-5747-7775",
+    "norad_cat_id":98416.0,
+    "norad_follow_id":null,
+    "name":"DCUBED-1",
+    "names":"Araqys-D1",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-11T13:18:59Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T09:23:07.160073Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WNBO-7941-4526-5543-5786",
+    "norad_cat_id":98415.0,
+    "norad_follow_id":null,
+    "name":"PANDORA",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-11T13:18:59Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T09:47:47.724416Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
     "is_frequency_violator":false,
     "associated_satellites":[
 
