@@ -61420,7 +61420,7 @@
     "name":"CGUSAT-1",
     "names":"CGUSAT",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
@@ -61430,8 +61430,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T18:25:37.492256Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-01-12T04:40:47.953018Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61444,7 +61444,7 @@
     "name":"DSAT-1",
     "names":"DSAT, DSUSAT-1, DSUSAT",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
@@ -61454,8 +61454,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T18:26:13.640752Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-01-12T04:40:47.916389Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61468,7 +61468,7 @@
     "name":"LACHIT-1",
     "names":"LACHIT",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
@@ -61478,8 +61478,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T18:24:33.740083Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-01-12T04:40:47.886101Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61624,6 +61624,54 @@
     ],
     "updated":"2026-01-11T14:07:46.201767Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LQGW-6345-0844-3005-9339",
+    "norad_cat_id":98410.0,
+    "norad_follow_id":null,
+    "name":"THEOS 2A",
+    "names":"THEOS 2 SMALLSAT",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-01-12T04:48:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TH",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-12T04:40:47.975126Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HFLA-7646-1868-4835-1668",
+    "norad_cat_id":98409.0,
+    "norad_follow_id":null,
+    "name":"MUNAL",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-01-12T04:48:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-12T03:52:03.164009Z",
+    "citation":"https:\/\/www.isro.gov.in\/media_isro\/pdf\/PSLVC62\/PSLV_C62_Brochure080126.pdf",
     "is_frequency_violator":false,
     "associated_satellites":[
 

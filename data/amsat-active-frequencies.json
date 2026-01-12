@@ -500,6 +500,46 @@
     "satnogs_id":"XXEA-0494-6151-7239-4386"
   },
   {
+    "name":"ConnectaIoT-13",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.510",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT013",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-14",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.520",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT014",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-15",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.530\/2240.000",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT015",
+    "satnogs_id":null
+  },
+  {
+    "name":"ConnectaIoT-16",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.540\/2240.000",
+    "beacon":null,
+    "mode":"4800bps GMSK",
+    "callsign":"CNT016",
+    "satnogs_id":null
+  },
+  {
     "name":"Connecta-T1_1",
     "norad_id":"52739",
     "uplink":null,
@@ -778,6 +818,16 @@
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"DP1GOS",
     "satnogs_id":"QTXY-8933-7836-7484-6250"
+  },
+  {
+    "name":"Flamingo-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.050\/2240.000",
+    "beacon":null,
+    "mode":"9k6*GMSK FM",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"Foresail-1p",

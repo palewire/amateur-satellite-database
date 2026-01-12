@@ -524,7 +524,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -3553,6 +3553,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CARBSAR",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2243.333",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"CAS500-3",
     "norad_id":null,
     "uplink":null,
@@ -4517,7 +4528,7 @@
     "beacon":"435.360",
     "mode":"9k6_FSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -4857,8 +4868,8 @@
     "downlink":"401.510",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT013",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -4868,30 +4879,30 @@
     "downlink":"401.520",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT014",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"ConnectaIoT-15",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.530",
+    "downlink":"401.530\/2240.000",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT015",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"ConnectaIoT-16",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.540",
+    "downlink":"401.540\/2240.000",
     "beacon":null,
     "mode":"4800bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"CNT016",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -6094,6 +6105,17 @@
     "satnogs_id":null
   },
   {
+    "name":"DCUBED-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.225",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Deimos",
     "norad_id":"60526",
     "uplink":null,
@@ -6552,7 +6574,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -6882,7 +6904,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7632,6 +7654,17 @@
     "callsign":"JG6YEW",
     "status":"re-entered",
     "satnogs_id":"ZPLU-7926-5127-3528-0122"
+  },
+  {
+    "name":"Flamingo-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.050\/2240.000",
+    "beacon":null,
+    "mode":"9k6*GMSK FM",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"FloripaSat-1",
@@ -8466,7 +8499,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -9920,6 +9953,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"KDPU-1823-6370-5846-1492"
+  },
+  {
+    "name":"HYDRA-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.320",
+    "beacon":null,
+    "mode":"9k6_GMSK FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"HYDRA-T",
@@ -12481,7 +12525,7 @@
     "beacon":"435.360",
     "mode":"9k6_FSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -15605,7 +15649,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -15881,6 +15925,17 @@
     "mode":"9600bps GMSK",
     "callsign":null,
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"PANDORA",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2211.900",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -20735,6 +20790,17 @@
     "satnogs_id":"UBOY-6066-4647-0497-6247"
   },
   {
+    "name":"SPARCS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2225.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Sparrow",
     "norad_id":"43881",
     "uplink":"437.325",
@@ -22634,7 +22700,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -22667,7 +22733,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -23525,7 +23591,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
