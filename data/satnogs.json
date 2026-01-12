@@ -19890,7 +19890,7 @@
     "names":"SharedSat_2141",
     "image":"satellites\/platform-1_FV4MP08.png",
     "status":"re-entered",
-    "decayed":"2025-09-25T00:00:00Z",
+    "decayed":"2025-09-26T00:00:00Z",
     "launched":"2022-05-25T18:35:00Z",
     "deployed":null,
     "website":"",
@@ -19899,8 +19899,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-18T15:10:26.281922Z",
-    "citation":"space-track.org",
+    "updated":"2026-01-11T17:28:56.372032Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/12445906\/ -> last star wars imperial march song hear",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -26387,8 +26387,8 @@
     "name":"RROCI",
     "names":"Electro Optical\/Infrared Weather System Rapid Revisit Optical Cloud Imager (EWS RROCI)",
     "image":"satellites\/RROCI.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-29T00:00:00Z",
     "launched":"2023-01-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.orionspace.com\/",
@@ -26397,8 +26397,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-07-01T03:08:51.398809Z",
-    "citation":"Random choice from unidentified objects of this launch",
+    "updated":"2026-01-11T18:30:06.654028Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=55081",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -41554,8 +41554,8 @@
     "name":"Arthur-1",
     "names":"2021-059CC",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-31T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":"2021-06-30T00:00:00Z",
     "website":"",
@@ -41564,8 +41564,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-01-04T00:30:52.733945Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/14Ll9upHAZJdISKpdcFOnVjn8hPF7Zz5LejYBF4f8XwA\/edit?usp=sharing",
+    "updated":"2026-01-11T18:30:00.628034Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48953",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -42300,8 +42300,8 @@
     "name":"ZORKIY-2M 2",
     "names":"S3806A, S3806B",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-02T00:00:00Z",
     "launched":"2024-02-29T05:43:26Z",
     "deployed":null,
     "website":"",
@@ -42310,8 +42310,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-03-03T18:05:42.701416Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-59064\/2024-03-03T12%3A40%3A26_9130511_59064_24039P_0-OBJECT-P_0.3362597037037034_B_r24.0_f0.0.png",
+    "updated":"2026-01-11T18:29:53.438803Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=59064",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47383,8 +47383,8 @@
     "name":"PICO-1B-1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-29T00:00:00Z",
     "launched":"2024-08-16T18:56:00Z",
     "deployed":"2024-08-16T21:28:29Z",
     "website":"",
@@ -47393,8 +47393,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-10-24T04:51:18.308038Z",
-    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A021",
+    "updated":"2026-01-11T18:29:36.751684Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=60572",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -47407,8 +47407,8 @@
     "name":"PICO-1B-5",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-29T00:00:00Z",
     "launched":"2024-08-16T18:56:00Z",
     "deployed":null,
     "website":"",
@@ -47417,8 +47417,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-10-24T04:51:19.546855Z",
-    "citation":"https:\/\/tinygs.com\/satellite\/PICO-02A025",
+    "updated":"2026-01-11T18:29:42.870636Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=60572",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48736,13 +48736,13 @@
   },
   {
     "sat_id":"ZSXX-2274-2663-0092-3099",
-    "norad_cat_id":98782.0,
-    "norad_follow_id":61767.0,
+    "norad_cat_id":61767.0,
+    "norad_follow_id":null,
     "name":"Nokhcho",
     "names":"\u041d\u043e\u0445\u0447\u043e, RS79S",
     "image":"satellites\/large_IMG_7917_500672b775.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-29T00:00:00Z",
     "launched":"2024-11-04T23:18:40Z",
     "deployed":null,
     "website":"https:\/\/spacepi.space\/satellites\/nohcho\/",
@@ -48751,8 +48751,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-11T22:49:39.692977Z",
-    "citation":"Satellite Team",
+    "updated":"2026-01-11T18:34:03.930143Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -60028,7 +60028,7 @@
     "name":"ConnectaIoT-13",
     "names":"",
     "image":"satellites\/Connecta_13_14_15_16.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
     "deployed":null,
@@ -60038,8 +60038,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T09:23:07.154822Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "updated":"2026-01-11T13:44:42.475998Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60052,7 +60052,7 @@
     "name":"ConnectaIoT-14",
     "names":"",
     "image":"satellites\/Connecta_13_14_15_16_ZzAZ1MG.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
     "deployed":null,
@@ -60062,8 +60062,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T09:23:07.149783Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "updated":"2026-01-11T13:44:42.454851Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60076,7 +60076,7 @@
     "name":"ConnectaIoT-15",
     "names":"",
     "image":"satellites\/Connecta_13_14_15_16_KJhEYxe.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
     "deployed":null,
@@ -60086,8 +60086,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T09:23:07.143886Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "updated":"2026-01-11T13:44:42.431336Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60100,7 +60100,7 @@
     "name":"ConnectaIoT-16",
     "names":"",
     "image":"satellites\/Connecta_13_14_15_16_kImZdI8.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
     "deployed":null,
@@ -60110,8 +60110,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T09:23:07.137182Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "updated":"2026-01-11T13:44:42.393521Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61366,13 +61366,133 @@
     ]
   },
   {
+    "sat_id":"NPKF-9122-8267-7027-6136",
+    "norad_cat_id":31698.0,
+    "norad_follow_id":null,
+    "name":"TERRA SAR X",
+    "names":"2007-026A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2007-06-15T00:00:00Z",
+    "deployed":"2007-06-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T18:27:00.289562Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1aBa3PQE32I7nFmv41TiQrdeg4uAzhkLWsKJnzByGe0E\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UEIK-6040-4010-9140-3653",
+    "norad_cat_id":36605.0,
+    "norad_follow_id":null,
+    "name":"Tandem X",
+    "names":"2010-030A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2010-06-21T00:00:00Z",
+    "deployed":"2010-06-21T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T18:26:26.097828Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1aBa3PQE32I7nFmv41TiQrdeg4uAzhkLWsKJnzByGe0E\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EJBC-9742-8456-1020-3221",
+    "norad_cat_id":98411.0,
+    "norad_follow_id":null,
+    "name":"CGUSAT-1",
+    "names":"CGUSAT",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-12T04:48:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T18:25:37.492256Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CNFY-3786-2682-5858-3610",
+    "norad_cat_id":98412.0,
+    "norad_follow_id":null,
+    "name":"DSAT-1",
+    "names":"DSAT, DSUSAT-1, DSUSAT",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-12T04:48:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T18:26:13.640752Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GBYR-1710-0191-0994-4839",
+    "norad_cat_id":98413.0,
+    "norad_follow_id":null,
+    "name":"LACHIT-1",
+    "names":"LACHIT",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-01-12T04:48:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T18:24:33.740083Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"PMJD-1622-8986-3330-7039",
     "norad_cat_id":98419.0,
     "norad_follow_id":null,
     "name":"Flamingo-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
     "deployed":null,
@@ -61382,8 +61502,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T09:23:07.175168Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "updated":"2026-01-11T13:44:42.618098Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61396,7 +61516,7 @@
     "name":"SPARCS",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
     "deployed":null,
@@ -61406,8 +61526,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T09:23:07.169781Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "updated":"2026-01-11T13:44:42.585120Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61420,7 +61540,7 @@
     "name":"CARBSAR",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
     "deployed":null,
@@ -61430,8 +61550,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T09:23:07.164952Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "updated":"2026-01-11T13:44:42.550274Z",
+    "citation":"Change Status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61444,7 +61564,7 @@
     "name":"DCUBED-1",
     "names":"Araqys-D1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
     "deployed":null,
@@ -61454,8 +61574,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T09:23:07.160073Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "updated":"2026-01-11T13:44:42.512405Z",
+    "citation":"Change Status",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -61468,7 +61588,7 @@
     "name":"PANDORA",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
     "deployed":null,
@@ -61478,8 +61598,32 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T09:47:47.724416Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/twilight",
+    "updated":"2026-01-11T13:44:42.354223Z",
+    "citation":"Change Status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YPOA-8680-4939-3977-9022",
+    "norad_cat_id":98414.0,
+    "norad_follow_id":null,
+    "name":"HYDRA-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-01-11T00:00:00Z",
+    "deployed":"2026-01-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-11T14:07:46.201767Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
