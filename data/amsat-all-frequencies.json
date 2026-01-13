@@ -524,7 +524,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -2894,14 +2894,14 @@
   },
   {
     "name":"BlueBird-06",
-    "norad_id":null,
+    "norad_id":"67232",
     "uplink":null,
     "downlink":"435.000",
     "beacon":null,
     "mode":"19k2 GFSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"CKNU-3750-3657-8602-8162"
   },
   {
     "name":"BlueBon",
@@ -4528,7 +4528,7 @@
     "beacon":"435.360",
     "mode":"9k6_FSK CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -6574,7 +6574,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -6904,7 +6904,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -8499,7 +8499,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -9054,7 +9054,7 @@
   },
   {
     "name":"Grifon-1",
-    "norad_id":null,
+    "norad_id":"67281",
     "uplink":null,
     "downlink":"401.315",
     "beacon":null,
@@ -9076,7 +9076,7 @@
   },
   {
     "name":"Grifon-3",
-    "norad_id":null,
+    "norad_id":"67280",
     "uplink":null,
     "downlink":"401.400",
     "beacon":null,
@@ -9960,9 +9960,9 @@
     "uplink":null,
     "downlink":"401.320",
     "beacon":null,
-    "mode":"9k6_GMSK FM",
+    "mode":"9k6_GMSK FM Music",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -12266,7 +12266,7 @@
   },
   {
     "name":"Kowsar-1.5",
-    "norad_id":null,
+    "norad_id":"67255",
     "uplink":null,
     "downlink":"436.100",
     "beacon":null,
@@ -12525,7 +12525,7 @@
     "beacon":"435.360",
     "mode":"9k6_FSK CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -14168,6 +14168,17 @@
     "satnogs_id":null
   },
   {
+    "name":"MUNAL",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.375",
+    "beacon":null,
+    "mode":"4k8_GMSK",
+    "callsign":null,
+    "status":"failure",
+    "satnogs_id":null
+  },
+  {
     "name":"MuSat-1",
     "norad_id":"56967",
     "uplink":null,
@@ -15649,7 +15660,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -18344,7 +18355,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"launch failed",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -19977,7 +19988,7 @@
   },
   {
     "name":"SITRO-AIS-57",
-    "norad_id":null,
+    "norad_id":"67256",
     "uplink":null,
     "downlink":"401.002",
     "beacon":null,
@@ -19988,7 +19999,7 @@
   },
   {
     "name":"SITRO-AIS-58",
-    "norad_id":null,
+    "norad_id":"67258",
     "uplink":null,
     "downlink":"401.033",
     "beacon":null,
@@ -19999,7 +20010,7 @@
   },
   {
     "name":"SITRO-AIS-59",
-    "norad_id":null,
+    "norad_id":"67257",
     "uplink":null,
     "downlink":"401.048",
     "beacon":null,
@@ -20010,7 +20021,7 @@
   },
   {
     "name":"SITRO-AIS-60",
-    "norad_id":null,
+    "norad_id":"67260",
     "uplink":null,
     "downlink":"401.062",
     "beacon":null,
@@ -20032,7 +20043,7 @@
   },
   {
     "name":"SITRO-AIS-62",
-    "norad_id":null,
+    "norad_id":"67296",
     "uplink":null,
     "downlink":"401.092",
     "beacon":null,
@@ -20043,7 +20054,7 @@
   },
   {
     "name":"SITRO-AIS-63",
-    "norad_id":null,
+    "norad_id":"67294",
     "uplink":null,
     "downlink":"401.108",
     "beacon":null,
@@ -22700,7 +22711,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -22733,7 +22744,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -23591,7 +23602,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"failure",
     "satnogs_id":null
   },
   {

@@ -32371,8 +32371,8 @@
     "name":"StratoSat TK-1",
     "names":"RS52S",
     "image":"satellites\/large_52753_d2ba51af57.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-10T00:00:00Z",
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/spacepi.space\/wiki\/article\/strato-sat-tk-1\/",
@@ -32383,8 +32383,8 @@
         "decoder":"stratosattk1"
       }
     ],
-    "updated":"2023-07-09T22:51:42.323005Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57167\/2023-07-09T19%3A13%3A12_7835512_57167_23091B_0-OBJECT-B_0.34130220333335615_B_r29.0_f0.0.png",
+    "updated":"2026-01-12T13:47:23.837224Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=57167",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60360,7 +60360,7 @@
   {
     "sat_id":"KXQQ-3629-0199-1434-6296",
     "norad_cat_id":98448.0,
-    "norad_follow_id":67293.0,
+    "norad_follow_id":67291.0,
     "name":"QMR-KWT 2",
     "names":"RS95S",
     "image":"satellites\/QMR-KWT_2.jpg",
@@ -60374,8 +60374,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-09T00:36:24.430464Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
+    "updated":"2026-01-12T17:59:14.824969Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/130",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60960,7 +60960,7 @@
   {
     "sat_id":"PDBX-0731-2301-4011-4620",
     "norad_cat_id":98402.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67281.0,
     "name":"Grifon-1",
     "names":"Grifon1",
     "image":"satellites\/\u0420\u0438\u0441\u0443\u043d\u043e\u043a1.png",
@@ -60974,8 +60974,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-29T11:05:03.067646Z",
-    "citation":"Citation need",
+    "updated":"2026-01-12T13:47:51.478123Z",
+    "citation":"need",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61008,7 +61008,7 @@
   {
     "sat_id":"RTQY-5459-1602-5776-1173",
     "norad_cat_id":98400.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67280.0,
     "name":"Grifon-3",
     "names":"Grifon3",
     "image":"satellites\/\u0420\u0438\u0441\u0443\u043d\u043e\u043a1_hqdbMkF.png",
@@ -61022,8 +61022,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-29T11:05:00.716692Z",
-    "citation":"Citation need",
+    "updated":"2026-01-12T13:47:43.285887Z",
+    "citation":"need",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61056,22 +61056,22 @@
   {
     "sat_id":"OTDY-2434-1908-3059-5807",
     "norad_cat_id":98427.0,
-    "norad_follow_id":67291.0,
+    "norad_follow_id":67293.0,
     "name":"SCORPION",
     "names":"",
-    "image":"",
+    "image":"satellites\/P1452377_corr_1_3b3d0806df.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-12-28T13:18:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/spacepi.space\/satellites\/skorpion\/",
     "operator":"None",
-    "countries":"",
+    "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2026-01-09T00:36:24.469744Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
+    "updated":"2026-01-12T17:59:14.857965Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/130",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -61420,7 +61420,7 @@
     "name":"CGUSAT-1",
     "names":"CGUSAT",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
@@ -61430,8 +61430,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T04:40:47.953018Z",
-    "citation":"Change Status",
+    "updated":"2026-01-12T12:56:31.669385Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61444,7 +61444,7 @@
     "name":"DSAT-1",
     "names":"DSAT, DSUSAT-1, DSUSAT",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
@@ -61454,8 +61454,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T04:40:47.916389Z",
-    "citation":"Change Status",
+    "updated":"2026-01-12T12:56:31.659666Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61468,7 +61468,7 @@
     "name":"LACHIT-1",
     "names":"LACHIT",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
@@ -61478,8 +61478,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T04:40:47.886101Z",
-    "citation":"Change Status",
+    "updated":"2026-01-12T12:56:31.648536Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61636,7 +61636,7 @@
     "name":"THEOS 2A",
     "names":"THEOS 2 SMALLSAT",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
@@ -61646,8 +61646,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T04:40:47.975126Z",
-    "citation":"Change Status",
+    "updated":"2026-01-12T12:56:31.635926Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61660,7 +61660,7 @@
     "name":"MUNAL",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
@@ -61670,8 +61670,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T03:52:03.164009Z",
-    "citation":"https:\/\/www.isro.gov.in\/media_isro\/pdf\/PSLVC62\/PSLV_C62_Brochure080126.pdf",
+    "updated":"2026-01-12T12:56:31.680239Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
 

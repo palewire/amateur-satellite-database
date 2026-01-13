@@ -1230,6 +1230,16 @@
     "satnogs_id":"ISTU-1593-3487-2251-7574"
   },
   {
+    "name":"HYDRA-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.320",
+    "beacon":null,
+    "mode":"9k6_GMSK FM Music",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"HYDRA-W",
     "norad_id":"63490",
     "uplink":null,
@@ -2521,7 +2531,7 @@
   },
   {
     "name":"SITRO-AIS-57",
-    "norad_id":null,
+    "norad_id":"67256",
     "uplink":null,
     "downlink":"401.002",
     "beacon":null,
