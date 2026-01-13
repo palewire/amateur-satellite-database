@@ -17315,7 +17315,7 @@
   },
   {
     "name":"QMR-KWT-2",
-    "norad_id":"67293",
+    "norad_id":"67291",
     "uplink":"145.920",
     "downlink":"436.950",
     "beacon":null,
@@ -18998,7 +18998,7 @@
   },
   {
     "name":"Scorpion",
-    "norad_id":"67291",
+    "norad_id":"67293",
     "uplink":null,
     "downlink":"435.240*\/435.340\/436.650\/2410.000",
     "beacon":null,
