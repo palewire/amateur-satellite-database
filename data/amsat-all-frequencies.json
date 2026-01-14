@@ -9060,7 +9060,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9078,18 +9078,18 @@
     "name":"Grifon-3",
     "norad_id":"67280",
     "uplink":null,
-    "downlink":"401.400",
+    "downlink":"401.440",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"Grifon-4",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.400",
+    "downlink":"401.440",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
@@ -14422,7 +14422,7 @@
   },
   {
     "name":"NasbSat-1",
-    "norad_id":null,
+    "norad_id":"67289",
     "uplink":null,
     "downlink":"401.500*\/401.600",
     "beacon":null,
@@ -14433,7 +14433,7 @@
   },
   {
     "name":"NasbSat-2",
-    "norad_id":null,
+    "norad_id":"67285",
     "uplink":null,
     "downlink":"401.700*\/401.800",
     "beacon":null,
@@ -20032,7 +20032,7 @@
   },
   {
     "name":"SITRO-AIS-61",
-    "norad_id":null,
+    "norad_id":"67297",
     "uplink":null,
     "downlink":"401.077",
     "beacon":null,
@@ -20065,7 +20065,7 @@
   },
   {
     "name":"SITRO-AIS-64",
-    "norad_id":null,
+    "norad_id":"67292",
     "uplink":null,
     "downlink":"401.123",
     "beacon":null,
@@ -20076,7 +20076,7 @@
   },
   {
     "name":"SITRO-AIS-65",
-    "norad_id":null,
+    "norad_id":"67266",
     "uplink":null,
     "downlink":"401.137",
     "beacon":null,
@@ -20087,7 +20087,7 @@
   },
   {
     "name":"SITRO-TD-3",
-    "norad_id":null,
+    "norad_id":"67270",
     "uplink":null,
     "downlink":"401.173",
     "beacon":null,
@@ -20098,7 +20098,7 @@
   },
   {
     "name":"SITRO-TD-4",
-    "norad_id":null,
+    "norad_id":"67265",
     "uplink":null,
     "downlink":"401.197",
     "beacon":null,
@@ -25752,7 +25752,7 @@
   },
   {
     "name":"Zorkiy-2M-5",
-    "norad_id":null,
+    "norad_id":"67295",
     "uplink":null,
     "downlink":"401.165\/401.230*",
     "beacon":null,
@@ -25774,7 +25774,7 @@
   },
   {
     "name":"Zorkiy-2M-7",
-    "norad_id":null,
+    "norad_id":"67268",
     "uplink":null,
     "downlink":"401.017\/401.245*",
     "beacon":null,
@@ -25785,7 +25785,7 @@
   },
   {
     "name":"Zorkiy-2M-VPE",
-    "norad_id":null,
+    "norad_id":"67252",
     "uplink":null,
     "downlink":"401.180\/401.212*",
     "beacon":null,

@@ -1140,6 +1140,26 @@
     "satnogs_id":"FVZM-4350-0869-7957-1010"
   },
   {
+    "name":"Grifon-1",
+    "norad_id":"67281",
+    "uplink":null,
+    "downlink":"401.315",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"Grifon-3",
+    "norad_id":"67280",
+    "uplink":null,
+    "downlink":"401.440",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"HADES-R",
     "norad_id":"62690",
     "uplink":"145.925",
@@ -1801,7 +1821,7 @@
   },
   {
     "name":"NasbSat-1",
-    "norad_id":null,
+    "norad_id":"67289",
     "uplink":null,
     "downlink":"401.500*\/401.600",
     "beacon":null,
@@ -1811,7 +1831,7 @@
   },
   {
     "name":"NasbSat-2",
-    "norad_id":null,
+    "norad_id":"67285",
     "uplink":null,
     "downlink":"401.700*\/401.800",
     "beacon":null,
@@ -2541,7 +2561,7 @@
   },
   {
     "name":"SITRO-AIS-61",
-    "norad_id":null,
+    "norad_id":"67297",
     "uplink":null,
     "downlink":"401.077",
     "beacon":null,
@@ -2551,7 +2571,7 @@
   },
   {
     "name":"SITRO-TD-3",
-    "norad_id":null,
+    "norad_id":"67270",
     "uplink":null,
     "downlink":"401.173",
     "beacon":null,
@@ -2561,7 +2581,7 @@
   },
   {
     "name":"SITRO-TD-4",
-    "norad_id":null,
+    "norad_id":"67265",
     "uplink":null,
     "downlink":"401.197",
     "beacon":null,
@@ -3131,7 +3151,7 @@
   },
   {
     "name":"Zorkiy-2M-5",
-    "norad_id":null,
+    "norad_id":"67295",
     "uplink":null,
     "downlink":"401.165\/401.230*",
     "beacon":null,
@@ -3141,7 +3161,7 @@
   },
   {
     "name":"Zorkiy-2M-7",
-    "norad_id":null,
+    "norad_id":"67268",
     "uplink":null,
     "downlink":"401.017\/401.245*",
     "beacon":null,
@@ -3151,7 +3171,7 @@
   },
   {
     "name":"Zorkiy-2M-VPE",
-    "norad_id":null,
+    "norad_id":"67252",
     "uplink":null,
     "downlink":"401.180\/401.212*",
     "beacon":null,
