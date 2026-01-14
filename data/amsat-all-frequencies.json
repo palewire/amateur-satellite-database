@@ -474,7 +474,7 @@
   },
   {
     "name":"AIST-2T-1",
-    "norad_id":null,
+    "norad_id":"67253",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -485,7 +485,7 @@
   },
   {
     "name":"AIST-2T-2",
-    "norad_id":null,
+    "norad_id":"67254",
     "uplink":null,
     "downlink":null,
     "beacon":null,

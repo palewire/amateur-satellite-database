@@ -8454,8 +8454,8 @@
     "name":"VESTA-1",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-09T00:00:00Z",
     "launched":"2018-12-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.eoportal.org\/satellite-missions\/vesta",
@@ -8464,8 +8464,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-06T18:52:06.671526Z",
-    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/vesta",
+    "updated":"2026-01-13T23:44:46.538233Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43781",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19789,8 +19789,8 @@
     "name":"Connecta T1.1",
     "names":"",
     "image":"satellites\/plans-t1.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-08T00:00:00Z",
     "launched":"2022-05-25T18:27:00Z",
     "deployed":null,
     "website":"https:\/\/www.plan.space\/technology\/connecta-t1-1",
@@ -19801,8 +19801,8 @@
         "decoder":"connectat11"
       }
     ],
-    "updated":"2022-07-25T13:02:33.401731Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/231",
+    "updated":"2026-01-13T23:44:54.032963Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=52739",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -32032,8 +32032,8 @@
     "name":"Astrocast-0205",
     "names":"2021-059CK",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-06T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":"2021-06-30T00:00:00Z",
     "website":"",
@@ -32042,8 +32042,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-12T21:22:07.575682Z",
-    "citation":"space-track.org",
+    "updated":"2026-01-13T23:45:23.785611Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48960",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -33816,8 +33816,8 @@
     "name":"AFRL-XVI",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-07T00:00:00Z",
     "launched":"2023-06-12T21:35:00Z",
     "deployed":"2023-06-12T22:38:39Z",
     "website":"",
@@ -33826,8 +33826,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-08-06T22:41:00.224699Z",
-    "citation":"space-track.org",
+    "updated":"2026-01-13T23:45:29.788324Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56942",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -39800,8 +39800,8 @@
     "name":"PEARL-1H",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-12T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-11T19:48:22Z",
     "website":"",
@@ -39810,8 +39810,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-16T01:25:27.326838Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58265\/2023-12-14T15%3A19%3A46_8699304_58265_23174K_0-OBJECT-K_0.5735337881481541_A_r29.0_f0.0.png",
+    "updated":"2026-01-13T23:44:41.064155Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=58265",
     "is_frequency_violator":true,
     "associated_satellites":[
       "GJBQ-2448-8352-9181-3996"
@@ -42132,8 +42132,8 @@
     "name":"ICEYE-X14",
     "names":"2022-002CQ",
     "image":"satellites\/iceye_sats.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-06T00:00:00Z",
     "launched":"2022-01-13T00:00:00Z",
     "deployed":"2022-01-13T00:00:00Z",
     "website":"",
@@ -42142,8 +42142,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-02-25T13:52:46.651597Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1vfRQn10RRbajc12SfB5YT-lJifEVeLmwg9AwZh9E1sY\/edit?usp=sharing",
+    "updated":"2026-01-13T23:45:34.644198Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=51070",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59376,7 +59376,7 @@
   {
     "sat_id":"IGUM-2152-0197-4071-8038",
     "norad_cat_id":98483.0,
-    "norad_follow_id":66652.0,
+    "norad_follow_id":66655.0,
     "name":"CAS500-3",
     "names":"",
     "image":"",
@@ -59390,8 +59390,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T16:06:27.000203Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/56",
+    "updated":"2026-01-13T22:36:24.479351Z",
+    "citation":"PE2BZ strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60600,7 +60600,7 @@
   {
     "sat_id":"XXPR-1027-0141-8746-6073",
     "norad_cat_id":98442.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67297.0,
     "name":"Sitro-AIS-61",
     "names":"SC2349",
     "image":"",
@@ -60614,8 +60614,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.535231Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-13T22:51:29.519048Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60672,7 +60672,7 @@
   {
     "sat_id":"EEXS-7894-5606-7237-7541",
     "norad_cat_id":98439.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67292.0,
     "name":"Sitro-AIS-64",
     "names":"SC2352",
     "image":"",
@@ -60686,8 +60686,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.760088Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-13T22:51:29.496838Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60696,7 +60696,7 @@
   {
     "sat_id":"CHSW-1660-5851-5135-1460",
     "norad_cat_id":98438.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67266.0,
     "name":"Sitro-AIS-65",
     "names":"SC2353",
     "image":"",
@@ -60710,8 +60710,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.838118Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-13T22:51:29.322789Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60720,7 +60720,7 @@
   {
     "sat_id":"LMVM-3866-8844-3494-6719",
     "norad_cat_id":98437.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67270.0,
     "name":"Sitro-TD-3",
     "names":"SC2345",
     "image":"",
@@ -60734,8 +60734,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.669068Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-13T22:51:29.472323Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60744,7 +60744,7 @@
   {
     "sat_id":"OXQR-5076-9059-4571-7711",
     "norad_cat_id":98435.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67252.0,
     "name":"Zorkiy-2M VPE",
     "names":"A0X8A, A0X8B",
     "image":"",
@@ -60758,8 +60758,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.615068Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-13T22:51:29.417636Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60768,7 +60768,7 @@
   {
     "sat_id":"DSWV-1932-9005-0897-7687",
     "norad_cat_id":98434.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67295.0,
     "name":"Zorkiy-2M 5",
     "names":"A0X9A, A0X9B",
     "image":"",
@@ -60782,8 +60782,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.779423Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-13T22:51:29.290866Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60840,7 +60840,7 @@
   {
     "sat_id":"SUUO-2809-0177-0542-2025",
     "norad_cat_id":98431.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67289.0,
     "name":"NasbSat-1",
     "names":"S3809A, S3809B",
     "image":"",
@@ -60854,8 +60854,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.580055Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-13T22:51:29.385068Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60864,7 +60864,7 @@
   {
     "sat_id":"ENMR-1106-8768-2633-2018",
     "norad_cat_id":98430.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67285.0,
     "name":"NasbSat-2",
     "names":"A2S5A, A2S5B",
     "image":"",
@@ -60878,8 +60878,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.722940Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-13T22:51:29.343818Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60888,7 +60888,7 @@
   {
     "sat_id":"VQCA-1825-2248-2253-6001",
     "norad_cat_id":98436.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67265.0,
     "name":"Sitro-TD-4",
     "names":"SC2354f",
     "image":"",
@@ -60902,8 +60902,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.442928Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-13T22:51:29.445741Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61240,7 +61240,7 @@
     ],
     "updated":"2026-01-01T19:51:33.390397Z",
     "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/96",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
