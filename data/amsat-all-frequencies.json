@@ -6095,7 +6095,7 @@
   },
   {
     "name":"DCS-1",
-    "norad_id":null,
+    "norad_id":"67263",
     "uplink":null,
     "downlink":"401.150",
     "beacon":"2k4 GMSK_USP",
@@ -7745,7 +7745,7 @@
   },
   {
     "name":"Foresail-1p",
-    "norad_id":null,
+    "norad_id":"66778",
     "uplink":null,
     "downlink":"437.125",
     "beacon":null,
@@ -13179,7 +13179,7 @@
   },
   {
     "name":"LUNA-1",
-    "norad_id":null,
+    "norad_id":"66777",
     "uplink":null,
     "downlink":"401.775",
     "beacon":null,

@@ -51553,7 +51553,7 @@
   {
     "sat_id":"HMRN-7466-8969-6530-1296",
     "norad_cat_id":98694.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62654.0,
     "name":"BRO-16",
     "names":"",
     "image":"",
@@ -51567,8 +51567,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.272458Z",
-    "citation":"Change Status",
+    "updated":"2026-01-14T14:50:29.070282Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57376,8 +57376,8 @@
     "name":"ORBASTRO-AF-1",
     "names":"2023-054B",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-13T00:00:00Z",
     "launched":"2023-04-15T00:00:00Z",
     "deployed":"2023-04-15T00:00:00Z",
     "website":"",
@@ -57386,8 +57386,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-09-07T06:25:10.196778Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1GG-FBzsNpvcd-V3uuPQfgUXvW-Ns1rDrZ5tXoZ29Fzo\/edit?usp=sharing",
+    "updated":"2026-01-14T16:17:51.976821Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56179",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58890,7 +58890,7 @@
   {
     "sat_id":"CSCG-0961-5128-2311-6817",
     "norad_cat_id":98511.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66764.0,
     "name":"NAHLA",
     "names":"",
     "image":"",
@@ -58904,8 +58904,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.854438Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-01-14T14:57:53.297203Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58986,7 +58986,7 @@
   {
     "sat_id":"JBBF-3425-4524-4262-2493",
     "norad_cat_id":98499.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66672.0,
     "name":"BRO-17",
     "names":"",
     "image":"",
@@ -59000,8 +59000,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:07.301126Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-01-14T14:57:53.415209Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59010,7 +59010,7 @@
   {
     "sat_id":"QTIE-7003-0773-7118-5213",
     "norad_cat_id":98498.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66674.0,
     "name":"BRO-20",
     "names":"",
     "image":"",
@@ -59024,8 +59024,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:07.279229Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-01-14T14:57:53.392604Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59496,7 +59496,7 @@
   {
     "sat_id":"TBRA-6788-0701-0482-9659",
     "norad_cat_id":98478.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66679.0,
     "name":"LILIUM-2",
     "names":"NCKU-LILIUM-2",
     "image":"",
@@ -59510,8 +59510,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.986440Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-01-14T14:57:53.368322Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59520,7 +59520,7 @@
   {
     "sat_id":"ZAQI-1863-4357-0208-7597",
     "norad_cat_id":98477.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66770.0,
     "name":"LILIUM-3",
     "names":"NCKU-LILIUM-3",
     "image":"",
@@ -59534,8 +59534,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.960273Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-01-14T14:57:53.269485Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59568,7 +59568,7 @@
   {
     "sat_id":"QPBG-1123-0916-8657-5641",
     "norad_cat_id":98475.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66758.0,
     "name":"PIAST-M",
     "names":"",
     "image":"",
@@ -59582,8 +59582,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-20T19:55:28.922454Z",
-    "citation":"Wrong satellite, that was intented for PIAST-S1",
+    "updated":"2026-01-14T14:57:53.322129Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59616,7 +59616,7 @@
   {
     "sat_id":"LDTD-7134-5031-7504-0965",
     "norad_cat_id":98473.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66757.0,
     "name":"PIAST-S2",
     "names":"",
     "image":"",
@@ -59630,8 +59630,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.677604Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-01-14T14:57:53.345099Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60816,7 +60816,7 @@
   {
     "sat_id":"IDHH-6420-5209-8395-0471",
     "norad_cat_id":98432.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67263.0,
     "name":"DCS-1",
     "names":"SCA0KR",
     "image":"",
@@ -60830,8 +60830,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-28T12:21:07.508758Z",
-    "citation":"Set status to alive",
+    "updated":"2026-01-14T12:53:00.173377Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/133",
     "is_frequency_violator":false,
     "associated_satellites":[
 
