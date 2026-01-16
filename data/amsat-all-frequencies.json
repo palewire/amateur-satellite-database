@@ -10737,14 +10737,14 @@
   },
   {
     "name":"INHA-RoSAT",
-    "norad_id":"66652",
+    "norad_id":"66653",
     "uplink":null,
     "downlink":"437.665\/2417.000",
     "beacon":null,
     "mode":"9600bps GFSK QPSK",
     "callsign":"ROSAT1",
-    "status":"inactive",
-    "satnogs_id":null
+    "status":"active",
+    "satnogs_id":"QLDP-3783-5419-7098-2257"
   },
   {
     "name":"INNOCUBE",
@@ -13625,7 +13625,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -19354,7 +19354,7 @@
     "uplink":null,
     "downlink":"437.175",
     "beacon":"437.175",
-    "mode":"9k6_GMSK CW*",
+    "mode":"9k6_GMSK SSDV CW",
     "callsign":"WP2XGW",
     "status":"active",
     "satnogs_id":null
@@ -20368,7 +20368,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"DS0DH",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":null
   },
   {
