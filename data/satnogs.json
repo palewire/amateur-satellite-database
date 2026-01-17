@@ -43765,20 +43765,20 @@
     "norad_cat_id":98901.0,
     "norad_follow_id":59560.0,
     "name":"Big Red Sat-1",
-    "names":"",
-    "image":"",
+    "names":"BRS-1",
+    "image":"satellites\/BRS-1.png",
     "status":"re-entered",
     "decayed":"2024-08-01T00:00:00Z",
     "launched":"2024-03-21T20:54:00Z",
     "deployed":"2024-04-18T18:05:00Z",
-    "website":"https:\/\/blogs.nasa.gov\/kennedy\/2024\/03\/18\/nasa-set-to-launch-four-cubesats-to-space-station\/",
+    "website":"https:\/\/bigredsat.org\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2024-08-08T10:03:45.056381Z",
-    "citation":"space-track.org",
+    "updated":"2026-01-16T22:11:11.998515Z",
+    "citation":"Arce, W.S., Orsi, V., Wayman, N., Murch-Shafer, J., Stelling, K., Schmidt, R., Schutt, K., Luther, J.M., Afshari, H. and Sellers, I., 2024. Big Red Sat-1: Mission overview and future opportunities for perovskites in low Earth orbit. Mater. Adv., 5, pp.2200-2217.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
