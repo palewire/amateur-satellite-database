@@ -60843,19 +60843,19 @@
     "norad_follow_id":67289.0,
     "name":"NasbSat-1",
     "names":"S3809A, S3809B",
-    "image":"",
+    "image":"satellites\/\u043d\u0430\u0441\u0431\u0441\u0430\u04422.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-12-28T13:18:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"RU",
+    "countries":"BY",
     "telemetries":[
 
     ],
-    "updated":"2026-01-13T22:51:29.385068Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
+    "updated":"2026-01-17T21:02:20.817692Z",
+    "citation":"https:\/\/www.gis.by\/en\/news\/113",
     "is_frequency_violator":false,
     "associated_satellites":[
 
