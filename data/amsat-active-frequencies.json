@@ -1930,26 +1930,6 @@
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
-    "name":"PEARL-1C",
-    "norad_id":"58342",
-    "uplink":null,
-    "downlink":"435.310",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"PEARLC",
-    "satnogs_id":"BSTS-8626-7603-3020-3063"
-  },
-  {
-    "name":"PEARL-1H",
-    "norad_id":"58265",
-    "uplink":null,
-    "downlink":"435.390",
-    "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":"PEARLH",
-    "satnogs_id":"GLVU-3778-3036-0537-1969"
-  },
-  {
     "name":"PHI-1",
     "norad_id":"66775",
     "uplink":null,

@@ -16100,7 +16100,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"PEARLC",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"BSTS-8626-7603-3020-3063"
   },
   {
@@ -16111,7 +16111,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":"PEARLH",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"GLVU-3778-3036-0537-1969"
   },
   {
