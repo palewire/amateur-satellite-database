@@ -57648,7 +57648,9 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"silversat"
+      }
     ],
     "updated":"2025-12-09T08:35:11.470281Z",
     "citation":"https:\/\/apps.fcc.gov\/els\/GetAtt.html?id=363693&x=",
@@ -60363,7 +60365,7 @@
     "norad_follow_id":67291.0,
     "name":"QMR-KWT 2",
     "names":"RS95S",
-    "image":"satellites\/QMR-KWT_2.jpg",
+    "image":"satellites\/QMR_KWT_2_Mission_Patch_3CS09hd.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-12-28T13:18:00Z",
@@ -60374,8 +60376,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T17:59:14.824969Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/130",
+    "updated":"2026-01-19T15:01:14.829193Z",
+    "citation":"https:\/\/www.orbital-space.com\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
