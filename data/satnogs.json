@@ -57700,8 +57700,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-19T11:07:40.894791Z",
-    "citation":"Network observations",
+    "updated":"2026-01-20T23:57:19.431016Z",
+    "citation":"https:\/\/gnd.bme.hu\/hunitystatus",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61059,8 +61059,8 @@
     "sat_id":"OTDY-2434-1908-3059-5807",
     "norad_cat_id":98427.0,
     "norad_follow_id":67293.0,
-    "name":"SCORPION",
-    "names":"",
+    "name":"SINP-MSU-80 (Scorpion)",
+    "names":"\u041d\u0418\u0418\u042f\u0424-\u041c\u0413\u0423-80 (\u0421\u043a\u043e\u0440\u043f\u0438\u043e\u043d), RS89S",
     "image":"satellites\/P1452377_corr_1_3b3d0806df.jpg",
     "status":"alive",
     "decayed":null,
@@ -61072,8 +61072,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T17:59:14.857965Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/130",
+    "updated":"2026-01-20T18:03:07.629616Z",
+    "citation":"Name edited by SINP MSU",
     "is_frequency_violator":true,
     "associated_satellites":[
 
