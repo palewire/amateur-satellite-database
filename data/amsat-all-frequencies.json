@@ -5754,7 +5754,7 @@
   },
   {
     "name":"CubeSail-1\/2",
-    "norad_id":"43851",
+    "norad_id":"43858",
     "uplink":null,
     "downlink":"437.305\/437.505",
     "beacon":null,
@@ -14708,7 +14708,7 @@
   },
   {
     "name":"NMTSat",
-    "norad_id":"43851",
+    "norad_id":"43862",
     "uplink":null,
     "downlink":"148.800",
     "beacon":null,
@@ -19303,6 +19303,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"GZWO-4435-4264-5456-3264"
+  },
+  {
+    "name":"SHILDS-1",
+    "norad_id":"43850",
+    "uplink":null,
+    "downlink":"400.250",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"SHIELD",
+    "status":"active",
+    "satnogs_id":"CWSD-1294-0245-2449-1685"
   },
   {
     "name":"ShindaiSat",

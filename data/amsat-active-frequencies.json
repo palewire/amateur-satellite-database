@@ -2120,6 +2120,16 @@
     "satnogs_id":"DELH-6722-1461-1897-7938"
   },
   {
+    "name":"SHILDS-1",
+    "norad_id":"43850",
+    "uplink":null,
+    "downlink":"400.250",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"SHIELD",
+    "satnogs_id":"CWSD-1294-0245-2449-1685"
+  },
+  {
     "name":"SilverSat",
     "norad_id":"66909",
     "uplink":null,
