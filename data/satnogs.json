@@ -18970,10 +18970,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -26027,8 +26027,8 @@
     "name":"Gama Alpha",
     "names":"",
     "image":"satellites\/GAMA-Alpha-mission-patch-GAMA-1024x901.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-15T00:00:00Z",
     "launched":"2022-12-18T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.gamaspace.com\/",
@@ -26037,8 +26037,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-12T09:34:58.901365Z",
-    "citation":"space-track.org",
+    "updated":"2026-01-22T05:17:00.198358Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=55084",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57685,8 +57685,8 @@
   },
   {
     "sat_id":"LLEW-4775-7241-6889-7282",
-    "norad_cat_id":98537.0,
-    "norad_follow_id":66670.0,
+    "norad_cat_id":66670.0,
+    "norad_follow_id":null,
     "name":"HUNITY",
     "names":"NMHH-1, HG1NMHH",
     "image":"satellites\/HUNITY.jpg",
@@ -57700,11 +57700,11 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-20T23:57:19.431016Z",
-    "citation":"https:\/\/gnd.bme.hu\/hunitystatus",
+    "updated":"2026-01-22T05:06:35.690395Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "IQKL-9865-0363-3886-8056"
     ]
   },
   {

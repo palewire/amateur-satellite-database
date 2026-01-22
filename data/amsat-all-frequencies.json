@@ -5991,7 +5991,7 @@
     "beacon":null,
     "mode":"1k2_GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -8334,7 +8334,7 @@
     "beacon":null,
     "mode":"9k6_FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -9941,7 +9941,7 @@
     "mode":"12k5_GMSK LoRa",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LLEW-4775-7241-6889-7282"
   },
   {
     "name":"HuskySat-1",
@@ -14726,7 +14726,7 @@
     "mode":"12k5_GMSK LoRa",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LLEW-4775-7241-6889-7282"
   },
   {
     "name":"NMTSat",
@@ -16738,7 +16738,7 @@
     "beacon":null,
     "mode":"4k8_GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -20790,6 +20790,17 @@
     "satnogs_id":null
   },
   {
+    "name":"SpaceTeamSat1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.395",
+    "beacon":null,
+    "mode":"1k2_GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"SpaceTuna-1",
     "norad_id":"54537",
     "uplink":null,
@@ -23327,7 +23338,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
