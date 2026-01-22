@@ -5984,6 +5984,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CyBEEsat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"137.500",
+    "beacon":null,
+    "mode":"1k2_GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"CYCLOPS",
     "norad_id":"53373",
     "uplink":null,
@@ -8314,6 +8325,17 @@
     "callsign":"CAS5A",
     "status":"active",
     "satnogs_id":"THLP-9709-3501-8618-5195"
+  },
+  {
+    "name":"FRAMSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.141",
+    "beacon":null,
+    "mode":"9k6_FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Fram2",
@@ -16709,6 +16731,17 @@
     "satnogs_id":"PRZP-7386-5227-9698-5175"
   },
   {
+    "name":"Platform-6",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.360",
+    "beacon":null,
+    "mode":"4k8_GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Pleiades-Orpheus",
     "norad_id":null,
     "uplink":null,
@@ -23284,6 +23317,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"TriSat-S",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2280.550",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
