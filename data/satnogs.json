@@ -61774,5 +61774,77 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"YFAM-5248-1896-0281-7911",
+    "norad_cat_id":67131.0,
+    "norad_follow_id":null,
+    "name":"ZY 3 04",
+    "names":"2025-300A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-16T00:00:00Z",
+    "deployed":"2025-12-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-22T17:41:18.366730Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1nKX6nt3mulxi5IbMtZOAzoQRfXtjn2L1NFYkhETR6rc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ROBQ-5487-8435-5291-6427",
+    "norad_cat_id":44874.0,
+    "norad_follow_id":null,
+    "name":"CHEOPS",
+    "names":"2019-092B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2019-12-18T00:00:00Z",
+    "deployed":"2019-12-18T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-22T17:41:12.954060Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1biaRzETMfDpKEp_0AwcDhtlu2UyS4Ke6LaXQRs9tiP4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KFNO-9016-2882-8955-6658",
+    "norad_cat_id":48272.0,
+    "norad_follow_id":null,
+    "name":"NORSAT 3",
+    "names":"2021-034E",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2021-04-29T00:00:00Z",
+    "deployed":"2021-04-29T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"NO",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-22T17:41:08.265303Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/15w2iKMdOqLy5BhdvS_im4uWukC4rQSNkRUCOgjCB6BA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
