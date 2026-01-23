@@ -15634,16 +15634,16 @@
     "image":"satellites\/260px-Geosat.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"1985-03-13T00:00:00Z",
+    "deployed":"1985-03-13T00:00:00Z",
     "website":"",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2021-10-09T14:50:52.703141Z",
-    "citation":"VK5Q1 and SV1QVE survey",
+    "updated":"2026-01-23T07:10:28.665305Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=15595&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48861,8 +48861,8 @@
     "name":"ZIMSAT-2",
     "names":"Z2AS",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-20T00:00:00Z",
     "launched":"2024-11-04T23:18:40Z",
     "deployed":null,
     "website":"",
@@ -48871,8 +48871,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-14T05:58:17.096707Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
+    "updated":"2026-01-23T07:10:20.563447Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=61783",
     "is_frequency_violator":true,
     "associated_satellites":[
       "DJSX-5624-1633-9421-2166"
