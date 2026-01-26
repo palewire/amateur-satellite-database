@@ -4994,14 +4994,14 @@
     "satnogs_id":"ZKYN-9221-2374-5641-3454"
   },
   {
-    "name":"CORAL",
+    "name":"CoRAL",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.140",
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -5991,7 +5991,7 @@
     "beacon":null,
     "mode":"1k2_GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -8334,7 +8334,7 @@
     "beacon":null,
     "mode":"9k6_FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -9170,7 +9170,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -9555,7 +9555,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -12217,7 +12217,7 @@
     "beacon":null,
     "mode":"9600bps GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -12741,11 +12741,11 @@
     "name":"LEOPARD",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"400.96\/2279.100",
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -16738,7 +16738,7 @@
     "beacon":null,
     "mode":"4k8_GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -20797,7 +20797,7 @@
     "beacon":null,
     "mode":"1k2_GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -23338,7 +23338,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -23767,7 +23767,7 @@
     "beacon":null,
     "mode":"4800bps GMSK CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {

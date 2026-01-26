@@ -4878,8 +4878,8 @@
     "name":"BIROS",
     "names":"",
     "image":"satellites\/BIROS.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-22T17:39:47Z",
     "launched":"2016-06-22T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.dlr.de\/en\/research-and-transfer\/projects-and-missions\/firebird\/biros",
@@ -4888,8 +4888,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-17T13:51:27.406633Z",
-    "citation":"https:\/\/www.eoportal.org\/satellite-missions\/biros",
+    "updated":"2026-01-26T10:02:21.468414Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=41604&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -35058,6 +35058,30 @@
     ]
   },
   {
+    "sat_id":"OXYZ-4468-3018-8712-6366",
+    "norad_cat_id":40964.0,
+    "norad_follow_id":null,
+    "name":"USA 264",
+    "names":"2015-058A and NOSS 3-7 (A)",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2015-10-08T00:00:00Z",
+    "deployed":"2015-10-08T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-26T10:18:48.804402Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/10GpMS5WVPyGsn0Qn991Imebb-hKt6mtdcHLB8FfyUfE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"WOMN-2694-9536-4474-2517",
     "norad_cat_id":43636.0,
     "norad_follow_id":null,
@@ -46589,8 +46613,8 @@
     "name":"GaindeSat-1A",
     "names":"Gaind\u00e9Sat-1A",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-21T04:56:43Z",
     "launched":"2024-08-16T18:56:00Z",
     "deployed":"2024-08-16T19:49:56Z",
     "website":"",
@@ -46599,8 +46623,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-10-24T04:39:28.109544Z",
-    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-transporter-11-rideshare-vsfb-slc-4e-2024-08-16-18-56-utc\/11973\/147",
+    "updated":"2026-01-26T10:02:59.120530Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=60529&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57252,8 +57276,8 @@
     "name":"GHS-01",
     "names":"Raich\u014d\uff08\u3089\u3044\u3061\u3087\u3046\uff09, JJ2YZA",
     "image":"satellites\/GHS-01_\u3089\u3044\u3061\u3087\u3046.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-20T22:10:12Z",
     "launched":"2025-08-24T00:00:00Z",
     "deployed":"2025-09-19T08:50:00Z",
     "website":"https:\/\/gifuhs2022.wordpress.com\/",
@@ -57264,8 +57288,8 @@
         "decoder":"ghs01"
       }
     ],
-    "updated":"2025-10-10T09:06:25.491381Z",
-    "citation":"Random choice of Object to follow",
+    "updated":"2026-01-26T10:15:52.609834Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?NAME=ghs-01",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61842,6 +61866,102 @@
     ],
     "updated":"2026-01-22T17:41:08.265303Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/15w2iKMdOqLy5BhdvS_im4uWukC4rQSNkRUCOgjCB6BA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OQKJ-5032-8594-7155-0485",
+    "norad_cat_id":66651.0,
+    "norad_follow_id":null,
+    "name":"Object B",
+    "names":"202-274B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-11-26T00:00:00Z",
+    "deployed":"2025-11-26T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-26T10:19:09.328648Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1XR3EO0NsNhw1zdrsX65NXNT2ajRjaX2hT1XAlHLhnxc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TDHN-0593-5600-5702-9803",
+    "norad_cat_id":32382.0,
+    "norad_follow_id":null,
+    "name":"RADARSAT 2",
+    "names":"2007-061A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2007-12-14T00:00:00Z",
+    "deployed":"2007-12-14T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CA",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-26T10:18:33.508733Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1I9xOeoWkN1InhZLJeEkQqfAqorENIahzPnbJt_nLpVI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CNPN-0018-2390-9909-9446",
+    "norad_cat_id":64869.0,
+    "norad_follow_id":null,
+    "name":"Lide",
+    "names":"2025-154A",
+    "image":"satellites\/Lide_satellite.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-07-23T00:00:00Z",
+    "deployed":"2025-07-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"IT",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-26T10:18:18.106173Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/15zlC-2BUKqiKY5wMKwG5m-1-wjcPh1iJQORfgy6TcmM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JDIR-9578-9095-6812-4322",
+    "norad_cat_id":98404.0,
+    "norad_follow_id":null,
+    "name":"FOSM-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-04-15T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.federation-openspacemakers.com\/fr\/participer\/projets\/phoenix-infrastructure-informatique-orbi\/fosm-1\/",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-26T10:20:25.953091Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
