@@ -60050,7 +60050,7 @@
   {
     "sat_id":"CACA-5365-2238-5606-7993",
     "norad_cat_id":98457.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67400.0,
     "name":"ConnectaIoT-13",
     "names":"",
     "image":"satellites\/Connecta_13_14_15_16.png",
@@ -60064,8 +60064,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T13:44:42.475998Z",
-    "citation":"Change Status",
+    "updated":"2026-01-27T09:16:11.283916Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-twilight-mission-2026-01-11-1300-utc\/14258\/30",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60074,7 +60074,7 @@
   {
     "sat_id":"PMIG-0045-7037-4888-4255",
     "norad_cat_id":98458.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67401.0,
     "name":"ConnectaIoT-14",
     "names":"",
     "image":"satellites\/Connecta_13_14_15_16_ZzAZ1MG.png",
@@ -60088,8 +60088,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T13:44:42.454851Z",
-    "citation":"Change Status",
+    "updated":"2026-01-27T09:16:11.257963Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-twilight-mission-2026-01-11-1300-utc\/14258\/30",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60098,7 +60098,7 @@
   {
     "sat_id":"JWOD-9905-9321-9779-5407",
     "norad_cat_id":98459.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67402.0,
     "name":"ConnectaIoT-15",
     "names":"",
     "image":"satellites\/Connecta_13_14_15_16_KJhEYxe.png",
@@ -60112,8 +60112,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T13:44:42.431336Z",
-    "citation":"Change Status",
+    "updated":"2026-01-27T09:16:11.231948Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-twilight-mission-2026-01-11-1300-utc\/14258\/30",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60122,7 +60122,7 @@
   {
     "sat_id":"XRIE-0236-5996-7855-8536",
     "norad_cat_id":98460.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67390.0,
     "name":"ConnectaIoT-16",
     "names":"",
     "image":"satellites\/Connecta_13_14_15_16_kImZdI8.png",
@@ -60136,8 +60136,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T13:44:42.393521Z",
-    "citation":"Change Status",
+    "updated":"2026-01-27T09:16:11.207184Z",
+    "citation":"https:\/\/community.libre.space\/t\/spacex-f9-twilight-mission-2026-01-11-1300-utc\/14258\/30",
     "is_frequency_violator":false,
     "associated_satellites":[
 
