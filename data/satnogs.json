@@ -61966,5 +61966,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"YFGZ-3637-8551-8443-7236",
+    "norad_cat_id":59120.0,
+    "norad_follow_id":null,
+    "name":"Tiger 8",
+    "names":"2024-043Y",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-03-04T00:00:00Z",
+    "deployed":"2024-03-04T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-27T19:46:12.638769Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1L0KlTcEVTBS6DpVShTW8BdVIOWBVZYJntrOs3ABW3MI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

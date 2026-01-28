@@ -12771,6 +12771,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Lide",
+    "norad_id":"64869",
+    "uplink":null,
+    "downlink":"2235.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"CNPN-0018-2390-9909-9446"
+  },
+  {
     "name":"LightCube",
     "norad_id":"56314",
     "uplink":null,
@@ -17598,6 +17609,17 @@
     "callsign":null,
     "status":"failure",
     "satnogs_id":null
+  },
+  {
+    "name":"RADARSAT-2",
+    "norad_id":"32382",
+    "uplink":null,
+    "downlink":"2230.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"TDHN-0593-5600-5702-9803"
   },
   {
     "name":"RadFxSat",
@@ -23054,6 +23076,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
+  },
+  {
+    "name":"Tiger-8",
+    "norad_id":"59120",
+    "uplink":null,
+    "downlink":"2240.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"YFGZ-3637-8551-8443-7236"
   },
   {
     "name":"TigriSat",
