@@ -18913,8 +18913,8 @@
     "name":"Micius",
     "names":"Mozi, \u58a8\u5b50",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-25T20:08:41Z",
     "launched":"2016-08-17T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -18923,8 +18923,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-01-18T20:29:18.544483Z",
-    "citation":"https:\/\/en.wikipedia.org\/wiki\/Quantum_Experiments_at_Space_Scale",
+    "updated":"2026-01-28T12:14:17.208506Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=41731&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -30073,8 +30073,8 @@
     "name":"JILIN-01 GAOFEN 3D 7",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-25T18:50:31Z",
     "launched":"2022-04-30T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -30083,8 +30083,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-02-18T13:08:48.234318Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/44",
+    "updated":"2026-01-28T12:14:08.373287Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=52392&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58021,8 +58021,8 @@
   },
   {
     "sat_id":"KVUS-0486-2614-8565-9913",
-    "norad_cat_id":98530.0,
-    "norad_follow_id":66673.0,
+    "norad_cat_id":66673.0,
+    "norad_follow_id":null,
     "name":"PHASMA-LAMARR",
     "names":"",
     "image":"satellites\/PHASMA-1.png",
@@ -58030,7 +58030,7 @@
     "decayed":null,
     "launched":"2025-11-28T18:44:30Z",
     "deployed":"2025-11-28T19:42:14Z",
-    "website":"https:\/\/gitlab.com\/librespacefoundation\/phasma",
+    "website":"https:\/\/libre.space\/projects\/phasma\/",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
@@ -58038,8 +58038,8 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2026-01-02T15:23:53.103543Z",
-    "citation":"Network observations",
+    "updated":"2026-01-28T16:04:50.796546Z",
+    "citation":"https:\/\/community.libre.space\/t\/phasma-mission-phasma-lamarr-phasma-dirac\/13976\/133",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58047,8 +58047,8 @@
   },
   {
     "sat_id":"GPEA-4779-0511-8218-9913",
-    "norad_cat_id":98529.0,
-    "norad_follow_id":66681.0,
+    "norad_cat_id":66681.0,
+    "norad_follow_id":null,
     "name":"PHASMA-DIRAC",
     "names":"",
     "image":"satellites\/PHASMA-1_B9RaTzC.png",
@@ -58064,8 +58064,8 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2025-12-19T10:07:26.489561Z",
-    "citation":"https:\/\/community.libre.space\/t\/phasma-mission-phasma-lamarr-phasma-dirac\/13976\/127",
+    "updated":"2026-01-28T16:04:50.754612Z",
+    "citation":"https:\/\/community.libre.space\/t\/phasma-mission-phasma-lamarr-phasma-dirac\/13976\/133",
     "is_frequency_violator":false,
     "associated_satellites":[
 
