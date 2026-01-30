@@ -20850,7 +20850,7 @@
     "uplink":null,
     "downlink":"437.395",
     "beacon":null,
-    "mode":"1k2_GMSK",
+    "mode":"1k2_GFSK CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -23852,7 +23852,7 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"45.825\/437.375",
-    "beacon":null,
+    "beacon":"437.375",
     "mode":"4800bps GMSK CW",
     "callsign":null,
     "status":"to be launched",
