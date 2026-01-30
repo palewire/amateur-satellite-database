@@ -32742,7 +32742,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"sputnixusp"
+      }
     ],
     "updated":"2023-07-09T23:09:05.299363Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57172\/2023-07-09T08%3A15%3A37_7829284_57172_23091G_0-OBJECT-G_0.11447406925924497_A_r24.0_f0.0.png",
@@ -52805,8 +52807,8 @@
     "name":"HYDRA-T",
     "names":"",
     "image":"satellites\/HYDRA-T.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-27T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/hydra-space.com\/",
@@ -52815,8 +52817,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-27T09:37:42.245418Z",
-    "citation":"Remove \"Followed Norad ID\" field",
+    "updated":"2026-01-29T15:08:01.103424Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=62692",
     "is_frequency_violator":true,
     "associated_satellites":[
       "JVCA-7248-9153-2946-4916"
@@ -60398,7 +60400,9 @@
     "operator":"None",
     "countries":"KW,RU",
     "telemetries":[
-
+      {
+        "decoder":"sputnixusp"
+      }
     ],
     "updated":"2026-01-19T15:01:14.829193Z",
     "citation":"https:\/\/www.orbital-space.com\/",
@@ -61986,6 +61990,30 @@
     ],
     "updated":"2026-01-27T19:46:12.638769Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1L0KlTcEVTBS6DpVShTW8BdVIOWBVZYJntrOs3ABW3MI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DTAU-6864-5857-0339-9040",
+    "norad_cat_id":63429.0,
+    "norad_follow_id":null,
+    "name":"HJS-6B",
+    "names":"2025-067B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-04-01T00:00:00Z",
+    "deployed":"2025-04-01T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-29T23:38:39.683591Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1s3_zW87s-HRwVerJ7CA49Jc9H35nXpguk6fGncDYQ-8\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

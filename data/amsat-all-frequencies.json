@@ -2002,6 +2002,17 @@
     "satnogs_id":null
   },
   {
+    "name":"ATENEA",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Athenoxat-1",
     "norad_id":"41168",
     "uplink":null,
@@ -9537,6 +9548,17 @@
     "satnogs_id":"ZVPZ-0777-4479-4472-0152"
   },
   {
+    "name":"HJS-6B",
+    "norad_id":"63429",
+    "uplink":null,
+    "downlink":"2244.100",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"DTAU-6864-5857-0339-9040"
+  },
+  {
     "name":"HITOMI",
     "norad_id":"33493",
     "uplink":null,
@@ -12529,6 +12551,17 @@
     "satnogs_id":null
   },
   {
+    "name":"K-Rad-Cube",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"LabSat",
     "norad_id":"51086",
     "uplink":null,
@@ -12741,7 +12774,7 @@
     "name":"LEOPARD",
     "norad_id":null,
     "uplink":null,
-    "downlink":"400.96\/2279.100",
+    "downlink":"400.960\/2279.100",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -20845,6 +20878,17 @@
     "satnogs_id":"KRWU-0654-8962-9038-6960"
   },
   {
+    "name":"Space-Weather-CubeSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"SPADEX-A",
     "norad_id":"62459",
     "uplink":null,
@@ -22097,6 +22141,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"CLOQ-0995-4096-9502-6975"
+  },
+  {
+    "name":"TACHELES",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Taifa-1",
