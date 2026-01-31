@@ -33202,7 +33202,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"sputnixusp"
+      }
     ],
     "updated":"2023-07-12T19:10:10.863599Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57176\/2023-07-12T09%3A05%3A46_7841254_57176_23091L_0-OBJECT-L_0.07843107037035679_A_r24.0_f0.0.png",
@@ -48655,7 +48657,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"sputnixusp"
+      }
     ],
     "updated":"2024-12-14T05:48:20.518424Z",
     "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
@@ -57934,16 +57938,16 @@
     "image":"satellites\/250912_GXIBA.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-10-20T02:00:00Z",
-    "deployed":null,
+    "launched":"2025-10-26T00:00:00Z",
+    "deployed":"2026-02-03T00:00:00Z",
     "website":"https:\/\/upaep.mx\/gxiba",
     "operator":"None",
     "countries":"MX",
     "telemetries":[
 
     ],
-    "updated":"2025-10-16T11:53:41.049673Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-01-31T07:21:29.467745Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/HTV-X1, https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/005242.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57954,20 +57958,20 @@
     "norad_cat_id":98532.0,
     "norad_follow_id":null,
     "name":"KNACKSAT-2",
-    "names":"",
+    "names":"HS0K",
     "image":"satellites\/Knacksat-2_5.jpg",
     "status":"future",
     "decayed":null,
-    "launched":"2025-10-21T00:01:59Z",
-    "deployed":null,
+    "launched":"2025-10-26T00:00:00Z",
+    "deployed":"2026-02-03T00:00:00Z",
     "website":"https:\/\/insted.kmutnb.ac.th\/KNACKSAT-2.html",
     "operator":"None",
     "countries":"TH",
     "telemetries":[
 
     ],
-    "updated":"2025-10-16T11:53:08.196305Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-01-31T11:16:53.842076Z",
+    "citation":"https:\/\/community.libre.space\/uploads\/short-url\/qSC41iyZEqv7Br7WKFsmdJ3bk5B.pdf",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61996,6 +62000,78 @@
     ]
   },
   {
+    "sat_id":"VHUA-6134-1551-1624-5953",
+    "norad_cat_id":98397.0,
+    "norad_follow_id":null,
+    "name":"LEOPARD",
+    "names":"",
+    "image":"satellites\/leopard_satellite.png",
+    "status":"future",
+    "decayed":"2027-03-02T00:00:00Z",
+    "launched":"2025-10-26T00:00:00Z",
+    "deployed":"2026-02-03T10:30:00Z",
+    "website":"https:\/\/kyutech-laseine.net\/",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-31T07:20:39.355183Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GTCB-7495-2132-2852-9491",
+    "norad_cat_id":98398.0,
+    "norad_follow_id":null,
+    "name":"UiTMSAT-2",
+    "names":"",
+    "image":"satellites\/UiTMSAT-2.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-10-26T00:00:00Z",
+    "deployed":"2026-02-03T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP,MY,PH,TH",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-31T07:20:04.649977Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UNBL-8646-7261-0218-2058",
+    "norad_cat_id":98403.0,
+    "norad_follow_id":null,
+    "name":"HMU-SAT2",
+    "names":"Teruteru",
+    "image":"satellites\/HMU-SAT2.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-10-26T00:00:00Z",
+    "deployed":"2026-02-03T00:00:00Z",
+    "website":"https:\/\/www.nagano-c.ed.jp\/komako\/teruteru.html",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-31T07:18:14.172314Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"DTAU-6864-5857-0339-9040",
     "norad_cat_id":63429.0,
     "norad_follow_id":null,
@@ -62014,6 +62090,30 @@
     ],
     "updated":"2026-01-29T23:38:39.683591Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1s3_zW87s-HRwVerJ7CA49Jc9H35nXpguk6fGncDYQ-8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PBKS-8836-3208-9942-5973",
+    "norad_cat_id":98396.0,
+    "norad_follow_id":null,
+    "name":"CoRAL",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":"2026-02-03T00:00:00Z",
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-01-31T07:25:04.759133Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/005242.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
