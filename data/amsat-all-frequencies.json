@@ -9548,17 +9548,6 @@
     "satnogs_id":"ZVPZ-0777-4479-4472-0152"
   },
   {
-    "name":"HJS-6B",
-    "norad_id":"63429",
-    "uplink":null,
-    "downlink":"2244.100",
-    "beacon":null,
-    "mode":"FM",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":"DTAU-6864-5857-0339-9040"
-  },
-  {
     "name":"HITOMI",
     "norad_id":"33493",
     "uplink":null,

@@ -57380,8 +57380,8 @@
     "name":"Dragonfly",
     "names":"JG6YOW",
     "image":"satellites\/Dragonfly.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-01-31T01:14:48Z",
     "launched":"2025-08-24T00:00:00Z",
     "deployed":"2025-09-19T08:50:00Z",
     "website":"https:\/\/birds-x.birds-project.com\/satellite-information\/",
@@ -57392,8 +57392,8 @@
         "decoder":"dragonfly"
       }
     ],
-    "updated":"2025-10-17T21:08:34.176111Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-32-2025-09-19\/13705\/129",
+    "updated":"2026-02-01T11:11:55.460211Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=65729",
     "is_frequency_violator":false,
     "associated_satellites":[
       "DKNK-8081-1202-2570-6966"
