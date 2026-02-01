@@ -5010,7 +5010,7 @@
     "uplink":null,
     "downlink":"401.140",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -23864,7 +23864,7 @@
     "uplink":null,
     "downlink":"45.825\/437.375",
     "beacon":"437.375",
-    "mode":"4800bps GMSK CW",
+    "mode":"1k2_AFSK 4k8_GMSK CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
