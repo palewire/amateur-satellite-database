@@ -501,7 +501,7 @@
   },
   {
     "name":"ConnectaIoT-13",
-    "norad_id":null,
+    "norad_id":"67400",
     "uplink":null,
     "downlink":"401.510",
     "beacon":null,
@@ -511,7 +511,7 @@
   },
   {
     "name":"ConnectaIoT-14",
-    "norad_id":null,
+    "norad_id":"67401",
     "uplink":null,
     "downlink":"401.520",
     "beacon":null,
@@ -521,7 +521,7 @@
   },
   {
     "name":"ConnectaIoT-15",
-    "norad_id":null,
+    "norad_id":"67402",
     "uplink":null,
     "downlink":"401.530\/2240.000",
     "beacon":null,
@@ -531,7 +531,7 @@
   },
   {
     "name":"ConnectaIoT-16",
-    "norad_id":null,
+    "norad_id":"67390",
     "uplink":null,
     "downlink":"401.540\/2240.000",
     "beacon":null,
@@ -2055,7 +2055,7 @@
     "uplink":null,
     "downlink":"437.350",
     "beacon":null,
-    "mode":"2k4*\/9k6 GMSK_USP SSDV",
+    "mode":"2k4*\/9k6 GMSK_USP SSTV",
     "callsign":"RS18S",
     "satnogs_id":null
   },
