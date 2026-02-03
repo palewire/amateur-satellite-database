@@ -1293,9 +1293,9 @@
     "name":"INNOCUBE",
     "norad_id":"62616",
     "uplink":null,
-    "downlink":"435.950*\/437.020",
-    "beacon":null,
-    "mode":"9600bps MSK",
+    "downlink":"435.950",
+    "beacon":"437.020",
+    "mode":"9600bps MSK CW",
     "callsign":"DP1NNO",
     "satnogs_id":"IMIN-5614-5566-5816-9152"
   },

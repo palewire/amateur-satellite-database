@@ -5010,9 +5010,9 @@
     "uplink":null,
     "downlink":"401.140",
     "beacon":null,
-    "mode":"FM",
-    "callsign":null,
-    "status":"to be launched",
+    "mode":"9k6_GMSK",
+    "callsign":"CORAL",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -9179,9 +9179,9 @@
     "uplink":null,
     "downlink":"437.300",
     "beacon":null,
-    "mode":"9600bps GFSK",
-    "callsign":null,
-    "status":"to be launched",
+    "mode":"4k8_GFSK",
+    "callsign":"XW1JMF",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -9577,7 +9577,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10794,9 +10794,9 @@
     "name":"INNOCUBE",
     "norad_id":"62616",
     "uplink":null,
-    "downlink":"435.950*\/437.020",
-    "beacon":null,
-    "mode":"9600bps MSK",
+    "downlink":"435.950",
+    "beacon":"437.020",
+    "mode":"9600bps MSK CW",
     "callsign":"DP1NNO",
     "status":"active",
     "satnogs_id":"IMIN-5614-5566-5816-9152"
@@ -12237,9 +12237,9 @@
     "uplink":null,
     "downlink":"145.825",
     "beacon":null,
-    "mode":"9600bps GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "mode":"9k6_FSK",
+    "callsign":"HS0K",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -12776,9 +12776,9 @@
     "uplink":null,
     "downlink":"400.960\/2279.100",
     "beacon":null,
-    "mode":null,
+    "mode":"4k8_GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -23855,7 +23855,7 @@
     "beacon":"437.375",
     "mode":"1k2_AFSK 4k8_GMSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
