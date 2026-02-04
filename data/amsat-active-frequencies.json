@@ -560,6 +560,16 @@
     "satnogs_id":"TVZK-1463-5590-8994-0377"
   },
   {
+    "name":"CoRAL",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.140",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":"CORAL",
+    "satnogs_id":null
+  },
+  {
     "name":"CO-55",
     "norad_id":"27844",
     "uplink":null,
@@ -1160,6 +1170,16 @@
     "satnogs_id":null
   },
   {
+    "name":"Gxiba-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.300",
+    "beacon":null,
+    "mode":"9k6_FSK",
+    "callsign":"XW1JMF",
+    "satnogs_id":null
+  },
+  {
     "name":"HADES-R",
     "norad_id":"62690",
     "uplink":"145.925",
@@ -1617,6 +1637,16 @@
     "beacon":"436.925",
     "mode":"9600bps GMSK CW",
     "callsign":"OK0LSR",
+    "satnogs_id":null
+  },
+  {
+    "name":"LEOPARD",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.960\/2279.100",
+    "beacon":"400.960",
+    "mode":"4k8_GMSK CW",
+    "callsign":"LEOPARD",
     "satnogs_id":null
   },
   {

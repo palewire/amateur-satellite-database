@@ -5012,7 +5012,7 @@
     "beacon":null,
     "mode":"9k6_GMSK",
     "callsign":"CORAL",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9179,9 +9179,9 @@
     "uplink":null,
     "downlink":"437.300",
     "beacon":null,
-    "mode":"4k8_GFSK",
+    "mode":"9k6_FSK",
     "callsign":"XW1JMF",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -12775,10 +12775,10 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"400.960\/2279.100",
-    "beacon":null,
-    "mode":"4k8_GMSK",
-    "callsign":null,
-    "status":"unknown",
+    "beacon":"400.960",
+    "mode":"4k8_GMSK CW",
+    "callsign":"LEOPARD",
+    "status":"active",
     "satnogs_id":null
   },
   {

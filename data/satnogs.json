@@ -57936,7 +57936,7 @@
     "name":"GXIBA-1",
     "names":"",
     "image":"satellites\/250912_GXIBA.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-10-26T00:00:00Z",
     "deployed":"2026-02-03T00:00:00Z",
@@ -57946,8 +57946,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-31T07:21:29.467745Z",
-    "citation":"https:\/\/en.wikipedia.org\/wiki\/HTV-X1, https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/005242.html",
+    "updated":"2026-02-03T13:25:08.316393Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57960,7 +57960,7 @@
     "name":"KNACKSAT-2",
     "names":"HS0K",
     "image":"satellites\/Knacksat-2_5.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-10-26T00:00:00Z",
     "deployed":"2026-02-03T00:00:00Z",
@@ -57970,8 +57970,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-31T11:16:53.842076Z",
-    "citation":"https:\/\/community.libre.space\/uploads\/short-url\/qSC41iyZEqv7Br7WKFsmdJ3bk5B.pdf",
+    "updated":"2026-02-03T13:25:08.272206Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62006,8 +62006,8 @@
     "name":"LEOPARD",
     "names":"",
     "image":"satellites\/leopard_satellite.png",
-    "status":"future",
-    "decayed":"2027-03-02T00:00:00Z",
+    "status":"alive",
+    "decayed":null,
     "launched":"2025-10-26T00:00:00Z",
     "deployed":"2026-02-03T10:30:00Z",
     "website":"https:\/\/kyutech-laseine.net\/",
@@ -62016,8 +62016,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-31T07:20:39.355183Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-02-03T13:44:41.982295Z",
+    "citation":"Fix dates",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62030,7 +62030,7 @@
     "name":"UiTMSAT-2",
     "names":"",
     "image":"satellites\/UiTMSAT-2.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-10-26T00:00:00Z",
     "deployed":"2026-02-03T00:00:00Z",
@@ -62040,8 +62040,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-31T07:20:04.649977Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-02-03T13:25:08.294788Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62054,7 +62054,7 @@
     "name":"HMU-SAT2",
     "names":"Teruteru",
     "image":"satellites\/HMU-SAT2.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-10-26T00:00:00Z",
     "deployed":"2026-02-03T00:00:00Z",
@@ -62064,8 +62064,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-31T07:18:14.172314Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-02-03T13:25:08.255686Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62102,18 +62102,18 @@
     "name":"CoRAL",
     "names":"",
     "image":"",
-    "status":"future",
-    "decayed":"2026-02-03T00:00:00Z",
+    "status":"alive",
+    "decayed":null,
     "launched":null,
-    "deployed":null,
+    "deployed":"2026-02-03T00:00:00Z",
     "website":"",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2026-01-31T07:25:04.759133Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/005242.html",
+    "updated":"2026-02-03T13:41:13.482129Z",
+    "citation":"Fix dates",
     "is_frequency_violator":false,
     "associated_satellites":[
 
