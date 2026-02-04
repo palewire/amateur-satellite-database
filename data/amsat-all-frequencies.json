@@ -5010,7 +5010,7 @@
     "uplink":null,
     "downlink":"401.140",
     "beacon":null,
-    "mode":"9k6_GMSK",
+    "mode":"9k6_FSK",
     "callsign":"CORAL",
     "status":"active",
     "satnogs_id":null
