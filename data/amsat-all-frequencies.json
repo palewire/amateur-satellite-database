@@ -9575,7 +9575,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"LED",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
