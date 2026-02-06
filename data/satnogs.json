@@ -18970,10 +18970,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -51319,8 +51319,8 @@
     "name":"HADES-R",
     "names":"SO-124",
     "image":"satellites\/HADES-R.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-02-03T00:00:00Z",
     "launched":"2025-01-14T18:49:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat-ea.org\/",
@@ -51331,8 +51331,8 @@
         "decoder":"hadesr"
       }
     ],
-    "updated":"2025-12-23T12:57:06.660543Z",
-    "citation":"https:\/\/www.nanosats.eu\/sat\/hades-r",
+    "updated":"2026-02-05T13:58:31.571013Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=62690",
     "is_frequency_violator":false,
     "associated_satellites":[
       "VGLN-5415-2707-6177-5396"
@@ -59804,7 +59804,9 @@
     "operator":"None",
     "countries":"FI",
     "telemetries":[
-
+      {
+        "decoder":"foresail1p"
+      }
     ],
     "updated":"2025-12-29T14:22:54.987273Z",
     "citation":"Network observations",
@@ -59816,7 +59818,7 @@
   {
     "sat_id":"XEOD-9474-3581-0595-2203",
     "norad_cat_id":98466.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66678.0,
     "name":"OTTER",
     "names":"",
     "image":"",
@@ -59830,8 +59832,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.811093Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-02-05T13:48:53.718419Z",
+    "citation":"Satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
