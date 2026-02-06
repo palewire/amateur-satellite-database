@@ -9560,14 +9560,14 @@
   },
   {
     "name":"HJS-6B",
-    "norad_id":"63249::2244.100",
+    "norad_id":"63249",
     "uplink":null,
-    "downlink":"FM",
+    "downlink":"2244.100",
     "beacon":null,
-    "mode":"unknown",
+    "mode":"FM",
     "callsign":null,
-    "status":null,
-    "satnogs_id":null
+    "status":"unknown",
+    "satnogs_id":"PDCU-2422-0291-6540-9954"
   },
   {
     "name":"HMU-SAT2",
@@ -10766,6 +10766,17 @@
     "mode":"0k2 MSK",
     "callsign":null,
     "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"INCA-2",
+    "norad_id":null,
+    "uplink":"145.900",
+    "downlink":"437.125",
+    "beacon":null,
+    "mode":"9k6_GMSK Digipeater",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -13915,6 +13926,17 @@
     "satnogs_id":"VIIQ-5994-5073-6455-6748"
   },
   {
+    "name":"MISR-C1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"MiTEE-1",
     "norad_id":"47314",
     "uplink":null,
@@ -13957,6 +13979,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"IBAY-7894-8985-6772-8920"
+  },
+  {
+    "name":"MOCI",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.350\/2410.500",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"MOHA-1",
@@ -17147,6 +17180,17 @@
     "callsign":"PSAT2",
     "status":"re-entered",
     "satnogs_id":"NSIX-5794-4320-6173-0330"
+  },
+  {
+    "name":"PSAT-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.235\/2420.000",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"PTD-4",
@@ -24506,6 +24550,17 @@
     "callsign":"USNAP1",
     "status":"inactive",
     "satnogs_id":"XWQN-8491-1910-3675-2960"
+  },
+  {
+    "name":"USNA-16",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.235\/2420.000",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"USS Langley",
