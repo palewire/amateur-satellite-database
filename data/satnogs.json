@@ -57932,7 +57932,7 @@
   {
     "sat_id":"CAOL-2416-3135-3240-8425",
     "norad_cat_id":98531.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67688.0,
     "name":"GXIBA-1",
     "names":"",
     "image":"satellites\/250912_GXIBA.jpg",
@@ -57946,8 +57946,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-03T13:25:08.316393Z",
-    "citation":"change status",
+    "updated":"2026-02-07T11:27:01.061761Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/47",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -57956,7 +57956,7 @@
   {
     "sat_id":"SCWJ-8858-4107-1493-6553",
     "norad_cat_id":98532.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67686.0,
     "name":"KNACKSAT-2",
     "names":"HS0K",
     "image":"satellites\/Knacksat-2_5.jpg",
@@ -57970,8 +57970,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-03T13:25:08.272206Z",
-    "citation":"change status",
+    "updated":"2026-02-07T11:27:00.994212Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/47",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62004,7 +62004,7 @@
   {
     "sat_id":"VHUA-6134-1551-1624-5953",
     "norad_cat_id":98397.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67685.0,
     "name":"LEOPARD",
     "names":"",
     "image":"satellites\/leopard_satellite.png",
@@ -62018,8 +62018,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-03T13:44:41.982295Z",
-    "citation":"Fix dates",
+    "updated":"2026-02-07T11:27:01.038773Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/47",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62028,7 +62028,7 @@
   {
     "sat_id":"GTCB-7495-2132-2852-9491",
     "norad_cat_id":98398.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67683.0,
     "name":"UiTMSAT-2",
     "names":"",
     "image":"satellites\/UiTMSAT-2.jpg",
@@ -62042,8 +62042,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-03T13:25:08.294788Z",
-    "citation":"change status",
+    "updated":"2026-02-07T11:27:01.017417Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/47",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62052,7 +62052,7 @@
   {
     "sat_id":"UNBL-8646-7261-0218-2058",
     "norad_cat_id":98403.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67684.0,
     "name":"HMU-SAT2",
     "names":"Teruteru",
     "image":"satellites\/HMU-SAT2.jpg",
@@ -62066,8 +62066,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-03T13:25:08.255686Z",
-    "citation":"change status",
+    "updated":"2026-02-07T11:27:01.085845Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/47",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62100,7 +62100,7 @@
   {
     "sat_id":"PBKS-8836-3208-9942-5973",
     "norad_cat_id":98396.0,
-    "norad_follow_id":null,
+    "norad_follow_id":67687.0,
     "name":"CoRAL",
     "names":"",
     "image":"",
@@ -62114,8 +62114,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-03T13:41:13.482129Z",
-    "citation":"Fix dates",
+    "updated":"2026-02-07T11:27:00.969781Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/47",
     "is_frequency_violator":false,
     "associated_satellites":[
 
