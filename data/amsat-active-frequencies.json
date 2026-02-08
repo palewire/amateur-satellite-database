@@ -561,7 +561,7 @@
   },
   {
     "name":"CoRAL",
-    "norad_id":null,
+    "norad_id":"67687",
     "uplink":null,
     "downlink":"401.140",
     "beacon":null,
@@ -1171,7 +1171,7 @@
   },
   {
     "name":"Gxiba-1",
-    "norad_id":null,
+    "norad_id":"67688",
     "uplink":null,
     "downlink":"437.300",
     "beacon":null,
@@ -1641,7 +1641,7 @@
   },
   {
     "name":"LEOPARD",
-    "norad_id":null,
+    "norad_id":"67685",
     "uplink":null,
     "downlink":"400.960\/2279.100",
     "beacon":"400.960",
