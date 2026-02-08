@@ -48699,8 +48699,8 @@
     "name":"MORDOVIA-IOT",
     "names":"RS50S",
     "image":"satellites\/large_IMG_7150_34d1edfc12.JPG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-02-05T00:00:00Z",
     "launched":"2024-11-04T23:18:40Z",
     "deployed":null,
     "website":"https:\/\/spacepi.space\/satellites\/mordoviya-io-t\/",
@@ -48709,8 +48709,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-14T05:53:03.472306Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
+    "updated":"2026-02-08T11:37:43.450456Z",
+    "citation":"https:\/\/r4uab.ru\/decay\/",
     "is_frequency_violator":true,
     "associated_satellites":[
       "SKIP-4127-9974-7455-0901"
@@ -57932,7 +57932,7 @@
   {
     "sat_id":"CAOL-2416-3135-3240-8425",
     "norad_cat_id":98531.0,
-    "norad_follow_id":67688.0,
+    "norad_follow_id":67684.0,
     "name":"GXIBA-1",
     "names":"",
     "image":"satellites\/250912_GXIBA.jpg",
@@ -57946,8 +57946,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-07T11:27:01.061761Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/47",
+    "updated":"2026-02-08T11:42:11.281177Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/49",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60950,20 +60950,20 @@
     "norad_cat_id":98429.0,
     "norad_follow_id":67282.0,
     "name":"Lobachevsky",
-    "names":"",
-    "image":"",
+    "names":"RS83S",
+    "image":"satellites\/RS83S_\u041b\u043e\u0431\u0430\u0447\u0435\u0432\u0441\u043a\u0438\u0439.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-12-28T13:18:00Z",
     "deployed":null,
-    "website":"",
+    "website":"http:\/\/eng.unn.ru\/news2\/unn-s-lobachevsky-satellite-launched-into-space-orbit",
     "operator":"None",
-    "countries":"",
+    "countries":"RU",
     "telemetries":[
 
     ],
-    "updated":"2026-01-09T00:36:24.451054Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
+    "updated":"2026-02-08T11:36:15.830133Z",
+    "citation":"http:\/\/eng.unn.ru\/news2\/unn-s-lobachevsky-satellite-launched-into-space-orbit, https:\/\/spacepi.space\/satellites\/lobachevskij\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
