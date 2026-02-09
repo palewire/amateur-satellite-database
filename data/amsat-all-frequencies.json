@@ -5006,7 +5006,7 @@
   },
   {
     "name":"CoRAL",
-    "norad_id":"67687",
+    "norad_id":"67685",
     "uplink":null,
     "downlink":"401.140",
     "beacon":null,
@@ -9175,7 +9175,7 @@
   },
   {
     "name":"Gxiba-1",
-    "norad_id":"67688",
+    "norad_id":"67684",
     "uplink":null,
     "downlink":"437.300",
     "beacon":null,
@@ -9571,7 +9571,7 @@
   },
   {
     "name":"HMU-SAT2",
-    "norad_id":"67684",
+    "norad_id":"67688",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -12244,7 +12244,7 @@
   },
   {
     "name":"KNACKSAT-2",
-    "norad_id":"67686",
+    "norad_id":"67683",
     "uplink":null,
     "downlink":"145.825",
     "beacon":null,
@@ -12783,7 +12783,7 @@
   },
   {
     "name":"LEOPARD",
-    "norad_id":"67685",
+    "norad_id":"67687",
     "uplink":null,
     "downlink":"400.960\/2279.100",
     "beacon":"400.960",
@@ -23893,7 +23893,7 @@
   },
   {
     "name":"UiTMSAT-2",
-    "norad_id":"67683",
+    "norad_id":"67686",
     "uplink":null,
     "downlink":"45.825\/437.375",
     "beacon":"437.375",
