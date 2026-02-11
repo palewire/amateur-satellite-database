@@ -20137,7 +20137,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2371",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -20148,7 +20148,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2359",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

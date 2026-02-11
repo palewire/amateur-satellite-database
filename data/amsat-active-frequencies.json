@@ -2580,13 +2580,13 @@
     "satnogs_id":"RBPP-4436-6355-8978-8861"
   },
   {
-    "name":"SITRO-AIS-57",
-    "norad_id":"67256",
+    "name":"SITRO-AIS-58",
+    "norad_id":"67258",
     "uplink":null,
-    "downlink":"401.002",
+    "downlink":"401.033",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":"SC2371",
+    "callsign":"SC2359",
     "satnogs_id":null
   },
   {
