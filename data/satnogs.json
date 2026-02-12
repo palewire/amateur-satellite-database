@@ -3696,16 +3696,16 @@
     "image":"satellites\/bricsat-p__2.jpg",
     "status":"re-entered",
     "decayed":"2019-11-16T16:31:18Z",
-    "launched":null,
+    "launched":"2015-05-20T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.213462Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-02-12T08:48:54.705056Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/BRICSat-P",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -9505,19 +9505,21 @@
     "norad_follow_id":null,
     "name":"BRICSat-2",
     "names":"USNA-P1, USNAP1, NO-103",
-    "image":"",
+    "image":"satellites\/BRICSat-2.jpg",
     "status":"re-entered",
-    "decayed":null,
-    "launched":null,
+    "decayed":"2022-04-20T00:00:00Z",
+    "launched":"2019-06-25T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.aprs.org\/bricsat2.html",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"ax25monitor"
+      }
     ],
-    "updated":"2022-04-21T14:14:52.829145Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-02-12T08:08:33.045920Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/BRICSat-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19193,10 +19195,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
