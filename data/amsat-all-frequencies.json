@@ -117,7 +117,7 @@
     "beacon":null,
     "mode":"9600bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -128,7 +128,7 @@
     "beacon":null,
     "mode":"9600bps BPSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -2823,7 +2823,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -2856,7 +2856,7 @@
     "beacon":null,
     "mode":"2400bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"XINJ-5605-6217-4155-4529"
   },
   {
@@ -2867,7 +2867,7 @@
     "beacon":null,
     "mode":"2400bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"GBZQ-8100-0439-9888-4769"
   },
   {
@@ -2878,7 +2878,7 @@
     "beacon":null,
     "mode":"2400bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"WFLL-5358-2469-8463-2991"
   },
   {
@@ -2889,7 +2889,7 @@
     "beacon":null,
     "mode":"2400bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"EXOH-8376-4648-5267-7738"
   },
   {
@@ -2900,7 +2900,7 @@
     "beacon":null,
     "mode":"2400bps GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"SXNP-3240-4340-9235-8383"
   },
   {
@@ -2911,7 +2911,7 @@
     "beacon":null,
     "mode":"19k2 GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":"CKNU-3750-3657-8602-8162"
   },
   {
@@ -15874,13 +15874,13 @@
   },
   {
     "name":"OTTER",
-    "norad_id":null,
+    "norad_id":"66678",
     "uplink":null,
     "downlink":"401.025",
     "beacon":null,
-    "mode":"4k8_GMSK",
+    "mode":"4k8_FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -16109,7 +16109,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":"VHF 9k6_GMSK APRS",
+    "mode":"9k6_GMSK APRS",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

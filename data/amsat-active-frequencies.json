@@ -1940,6 +1940,16 @@
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
   {
+    "name":"OTTER",
+    "norad_id":"66678",
+    "uplink":null,
+    "downlink":"401.025",
+    "beacon":null,
+    "mode":"4k8_FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"OTP-2",
     "norad_id":"63235",
     "uplink":null,
