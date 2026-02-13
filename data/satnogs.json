@@ -19195,10 +19195,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -59810,8 +59810,8 @@
         "decoder":"foresail1p"
       }
     ],
-    "updated":"2025-12-29T14:22:54.987273Z",
-    "citation":"Network observations",
+    "updated":"2026-02-12T17:40:17.110841Z",
+    "citation":"Add foresail-1p dashboard url.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
