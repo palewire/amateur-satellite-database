@@ -18972,10 +18972,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -60347,11 +60347,11 @@
   },
   {
     "sat_id":"CPWN-2484-4785-1722-0154",
-    "norad_cat_id":98450.0,
-    "norad_follow_id":67290.0,
+    "norad_cat_id":67290.0,
+    "norad_follow_id":null,
     "name":"SAKHACUBE-CHOLBON",
-    "names":"RS18S, \u0427\u043e\u043b\u0431\u043e\u043d",
-    "image":"satellites\/cholbon.jpg",
+    "names":"RS18S, \u0427\u043e\u043b\u0431\u043e\u043d, \u041c\u041a\u0410 \u00ab\u0427\u043e\u043b\u0431\u043e\u043d\u00bb",
+    "image":"satellites\/cholbon3.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2025-12-28T13:18:00Z",
@@ -60362,11 +60362,12 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-09T00:36:24.370435Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
+    "updated":"2026-02-13T10:24:08.960713Z",
+    "citation":"Operations team; see https:\/\/r4uab.ru\/2026\/02\/12\/13-16-fevralya-2026-goda-zaplanirovana-peredacha-izobrazhenij-sstv-s-mka-sakhacube-cholbon-rs18s\/",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "BUCI-8407-3717-3202-7429"
+      "BUCI-8407-3717-3202-7429",
+      "IFSE-5429-4646-7637-5000"
     ]
   },
   {
@@ -61358,7 +61359,7 @@
   {
     "sat_id":"YHPF-2223-3310-4034-1636",
     "norad_cat_id":98426.0,
-    "norad_follow_id":67255.0,
+    "norad_follow_id":67264.0,
     "name":"Kosar 1.5",
     "names":"Kowsar 1.5",
     "image":"",
@@ -61372,8 +61373,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-09T22:17:21.907541Z",
-    "citation":"Random Choice from the launch objects",
+    "updated":"2026-02-13T09:50:34.365341Z",
+    "citation":"tinygs.com",
     "is_frequency_violator":true,
     "associated_satellites":[
       "PCQD-3497-2272-5793-3533"
@@ -62118,6 +62119,126 @@
     ],
     "updated":"2026-02-08T12:57:43.567432Z",
     "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/51",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PCVZ-1444-3446-1456-5852",
+    "norad_cat_id":98395.0,
+    "norad_follow_id":null,
+    "name":"KOSTKA",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/www.vut.cz\/en\/yspace",
+    "operator":"None",
+    "countries":"CZ",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-13T09:44:07.073823Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SXGC-2824-2222-8971-3473",
+    "norad_cat_id":98392.0,
+    "norad_follow_id":null,
+    "name":"PARUS-6U1",
+    "names":"PARUS-T3",
+    "image":"satellites\/IMG_6952.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-29T00:00:00Z",
+    "deployed":"2026-03-29T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-13T10:41:07.485072Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "TZNH-3971-3016-4200-9227"
+    ]
+  },
+  {
+    "sat_id":"NHBV-2845-9515-4937-2345",
+    "norad_cat_id":62689.0,
+    "norad_follow_id":null,
+    "name":"LOGSATS-2",
+    "names":"LOGSATS-II",
+    "image":"satellites\/LOGSATS.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-14T19:09:00Z",
+    "deployed":"2025-01-22T06:43:00Z",
+    "website":"https:\/\/eosorbit.com\/",
+    "operator":"None",
+    "countries":"TH",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-13T09:58:32.918093Z",
+    "citation":"https:\/\/eosorbit.com\/logsats-2s-first-signal-successfully-received-2\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GEIR-0308-3932-3194-2885",
+    "norad_cat_id":98394.0,
+    "norad_follow_id":null,
+    "name":"NutSat-3",
+    "names":"",
+    "image":"satellites\/WW.png",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-13T10:26:02.346384Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RFEM-4718-9515-9857-5278",
+    "norad_cat_id":98392.0,
+    "norad_follow_id":null,
+    "name":"Lilium-4",
+    "names":"",
+    "image":"satellites\/dds.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-13T10:29:33.100444Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
