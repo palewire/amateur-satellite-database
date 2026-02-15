@@ -9490,10 +9490,12 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"ax25monitor"
+      }
     ],
-    "updated":"2023-02-18T13:07:30.589980Z",
-    "citation":"space-track.org",
+    "updated":"2026-02-14T17:12:56.646060Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/psat-2\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -9518,8 +9520,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2026-02-12T08:08:33.045920Z",
-    "citation":"https:\/\/en.wikipedia.org\/wiki\/BRICSat-2",
+    "updated":"2026-02-14T12:25:47.049379Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/bricsat-2\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18972,10 +18974,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -62222,7 +62224,7 @@
   },
   {
     "sat_id":"RFEM-4718-9515-9857-5278",
-    "norad_cat_id":98392.0,
+    "norad_cat_id":98391.0,
     "norad_follow_id":null,
     "name":"Lilium-4",
     "names":"",
