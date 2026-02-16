@@ -62202,7 +62202,7 @@
     "sat_id":"GEIR-0308-3932-3194-2885",
     "norad_cat_id":98394.0,
     "norad_follow_id":null,
-    "name":"NutSat-3",
+    "name":"NUTSat-3",
     "names":"",
     "image":"satellites\/WW.png",
     "status":"future",
@@ -62215,8 +62215,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-13T10:26:02.346384Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-02-15T13:35:55.309838Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1084",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62241,6 +62241,30 @@
     ],
     "updated":"2026-02-13T10:29:33.100444Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VNTG-7550-5151-2436-0152",
+    "norad_cat_id":66755.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X62",
+    "names":"2025-276CT",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-11-28T00:00:00Z",
+    "deployed":"2025-11-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-15T20:30:06.435215Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Jl1m7mkjeZMJg9wLfJH53Gp6MLpcTraJalMZkeKKPT8\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

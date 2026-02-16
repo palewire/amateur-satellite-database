@@ -2572,5 +2572,6 @@ PBKS-8836-3208-9942-5973,98396.0,67685.0,CoRAL,,,alive,,,2026-02-03T00:00:00Z,,N
 PCVZ-1444-3446-1456-5852,98395.0,,KOSTKA,,,future,,,,https://www.vut.cz/en/yspace,None,CZ,[],2026-02-13T09:44:07.073823Z,Add temporary NORAD ID,False,[]
 SXGC-2824-2222-8971-3473,98392.0,,PARUS-6U1,PARUS-T3,satellites/IMG_6952.jpg,future,,2026-03-29T00:00:00Z,2026-03-29T00:00:00Z,,None,TW,[],2026-02-13T10:41:07.485072Z,Add temporary NORAD ID,False,['TZNH-3971-3016-4200-9227']
 NHBV-2845-9515-4937-2345,62689.0,,LOGSATS-2,LOGSATS-II,satellites/LOGSATS.png,alive,,2025-01-14T19:09:00Z,2025-01-22T06:43:00Z,https://eosorbit.com/,None,TH,[],2026-02-13T09:58:32.918093Z,https://eosorbit.com/logsats-2s-first-signal-successfully-received-2/,False,[]
-GEIR-0308-3932-3194-2885,98394.0,,NutSat-3,,satellites/WW.png,future,,,,,None,TW,[],2026-02-13T10:26:02.346384Z,Add temporary NORAD ID,False,[]
+GEIR-0308-3932-3194-2885,98394.0,,NUTSat-3,,satellites/WW.png,future,,,,,None,TW,[],2026-02-15T13:35:55.309838Z,https://iaru.amsat-uk.org/finished_detail.php?serialnum=1084,False,[]
 RFEM-4718-9515-9857-5278,98391.0,,Lilium-4,,satellites/dds.jpg,future,,,,,None,TW,[],2026-02-13T10:29:33.100444Z,Add temporary NORAD ID,False,[]
+VNTG-7550-5151-2436-0152,66755.0,,ICEYE-X62,2025-276CT,,alive,,2025-11-28T00:00:00Z,2025-11-28T00:00:00Z,,None,FI,[],2026-02-15T20:30:06.435215Z,https://docs.google.com/document/d/1Jl1m7mkjeZMJg9wLfJH53Gp6MLpcTraJalMZkeKKPT8/edit?usp=sharing,False,[]
