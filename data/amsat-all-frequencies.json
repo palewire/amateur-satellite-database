@@ -12947,6 +12947,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Lilium-4",
+    "norad_id":null,
+    "uplink":"145.825\/145.980",
+    "downlink":"435.250\/437.850\/2405.000",
+    "beacon":null,
+    "mode":"1k2_AFSK 2Mbps_GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Lilo",
     "norad_id":"64562",
     "uplink":null,
@@ -15464,6 +15475,17 @@
     "callsign":"BN0UT",
     "status":"re-entered",
     "satnogs_id":"NAEW-9759-0504-8538-0109"
+  },
+  {
+    "name":"NUTSat-3",
+    "norad_id":null,
+    "uplink":"145.980",
+    "downlink":"435.250\/437.850",
+    "beacon":null,
+    "mode":"1k2_AFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"NuX-1",
