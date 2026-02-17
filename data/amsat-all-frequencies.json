@@ -20203,7 +20203,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2349",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
@@ -20214,7 +20214,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"SC2372",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

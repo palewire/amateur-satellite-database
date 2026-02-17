@@ -33016,8 +33016,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-12T21:08:22.864001Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57177\/2023-07-12T08%3A12%3A38_7841841_57177_23091M_0-OBJECT-M_0.11321899851850503_A_r24.0_f0.0.png",
+    "updated":"2026-02-16T19:19:37.082054Z",
+    "citation":"https:\/\/sputnix-group.ru\/en\/satellites",
     "is_frequency_violator":false,
     "associated_satellites":[
       "SBTR-9192-8869-0393-0787"
@@ -52839,8 +52839,8 @@
     "name":"RSP-03",
     "names":"JS1YOY",
     "image":"satellites\/rsp03.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-02-16T11:21:00Z",
     "launched":"2025-08-24T00:00:00Z",
     "deployed":"2025-09-19T10:40:00Z",
     "website":"https:\/\/rsp03.rymansat.com",
@@ -52851,8 +52851,8 @@
         "decoder":"rsp03"
       }
     ],
-    "updated":"2025-10-08T09:00:04.996322Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-32-2025-09-19\/13705\/111",
+    "updated":"2026-02-16T13:24:27.159650Z",
+    "citation":"https:\/\/community.libre.space\/t\/rsp-03-re-entry\/14407\/68",
     "is_frequency_violator":false,
     "associated_satellites":[
       "MHEI-3411-8847-6627-3823",

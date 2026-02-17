@@ -2600,13 +2600,13 @@
     "satnogs_id":null
   },
   {
-    "name":"SITRO-AIS-61",
-    "norad_id":"67297",
+    "name":"SITRO-AIS-62",
+    "norad_id":"67296",
     "uplink":null,
-    "downlink":"401.077",
+    "downlink":"401.092",
     "beacon":null,
     "mode":"2k4 GMSK_USP",
-    "callsign":"SC2349",
+    "callsign":"SC2372",
     "satnogs_id":null
   },
   {
