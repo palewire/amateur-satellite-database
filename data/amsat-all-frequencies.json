@@ -12914,7 +12914,7 @@
     "satnogs_id":"AHVS-7983-8710-8819-8034"
   },
   {
-    "name":"LILIUM-1",
+    "name":"Lilium-1",
     "norad_id":"58467",
     "uplink":null,
     "downlink":"400.455\/436.885",
@@ -12925,7 +12925,7 @@
     "satnogs_id":"BRBP-3780-8068-0622-0984"
   },
   {
-    "name":"LILIUM-2",
+    "name":"Lilium-2",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.915\/2202.000",
@@ -12936,7 +12936,7 @@
     "satnogs_id":null
   },
   {
-    "name":"LILIUM-3",
+    "name":"Lilium-3",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.915\/2202.000",

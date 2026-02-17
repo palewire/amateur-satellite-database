@@ -60867,12 +60867,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"RU",
+    "countries":"TN",
     "telemetries":[
 
     ],
-    "updated":"2026-01-14T12:53:00.173377Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/133",
+    "updated":"2026-02-17T10:23:04.060569Z",
+    "citation":"https:\/\/www.newspace.im\/constellations\/telnet",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61528,23 +61528,23 @@
   },
   {
     "sat_id":"PMJD-1622-8986-3330-7039",
-    "norad_cat_id":98419.0,
+    "norad_cat_id":67391.0,
     "norad_follow_id":null,
     "name":"Flamingo-1",
     "names":"",
-    "image":"",
+    "image":"satellites\/flamingo-1.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2026-01-11T13:18:59Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.vyoma.space\/news-items\/vyomas-first-space-domain-awareness-satellite-has-reached-orbit",
     "operator":"None",
-    "countries":"",
+    "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2026-01-11T13:44:42.618098Z",
-    "citation":"Change Status",
+    "updated":"2026-02-17T10:25:08.232199Z",
+    "citation":"https:\/\/www.vyoma.space\/news-items\/vyomas-first-space-domain-awareness-satellite-has-reached-orbit",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62265,6 +62265,30 @@
     ],
     "updated":"2026-02-15T20:30:06.435215Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1Jl1m7mkjeZMJg9wLfJH53Gp6MLpcTraJalMZkeKKPT8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TKUU-6248-2697-9437-4416",
+    "norad_cat_id":67370.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 GRAMESUE",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-01-11T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-17T10:23:33.289388Z",
+    "citation":"https:\/\/www.satcat.com\/sats\/67370",
     "is_frequency_violator":false,
     "associated_satellites":[
 
