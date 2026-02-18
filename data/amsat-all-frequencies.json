@@ -1094,7 +1094,7 @@
     "uplink":"145.920",
     "downlink":"435.300",
     "beacon":"435.150",
-    "mode":"FM tone 67.0Hz",
+    "mode":"FM",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":null
@@ -3327,7 +3327,7 @@
     "uplink":"145.920",
     "downlink":"436.200",
     "beacon":null,
-    "mode":"9600bps BPSK FM tone 67.0Hz",
+    "mode":"9600bps BPSK FM",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"ZNNV-2635-7584-6487-5519"
@@ -3613,7 +3613,7 @@
     "uplink":"145.825",
     "downlink":"435.675",
     "beacon":null,
-    "mode":"FM tone 67Hz",
+    "mode":"FM",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"JJGC-7637-4682-0934-3692"
@@ -6330,7 +6330,7 @@
     "uplink":"437.500",
     "downlink":"145.900",
     "beacon":"145.900",
-    "mode":"FM* tone 141.3Hz CW",
+    "mode":"FM* CW",
     "callsign":"D1W2PH",
     "status":"active",
     "satnogs_id":"HIEK-3729-5596-2727-4744"
@@ -9773,7 +9773,7 @@
     "uplink":"145.825",
     "downlink":"435.675",
     "beacon":null,
-    "mode":"FM tone 67Hz",
+    "mode":"FM",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"JJGC-7637-4682-0934-3692"
@@ -11222,10 +11222,10 @@
   {
     "name":"IO-86",
     "norad_id":"40931",
-    "uplink":"145.880\/145.825",
-    "downlink":"435.880\/145.825",
-    "beacon":"437.425",
-    "mode":"FM tone 88.5Hz\/APRS",
+    "uplink":"145.825\/145.880",
+    "downlink":"145.825\/435.880",
+    "beacon":"145.825",
+    "mode":"1k2AFSK FM CW",
     "callsign":"YBSAT\/YBOX",
     "status":"active",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
@@ -11544,7 +11544,7 @@
     "uplink":"145.990",
     "downlink":"437.800",
     "beacon":null,
-    "mode":"FM tone 67.0Hz 9k6 GFSK",
+    "mode":"FM 9k6_GFSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
@@ -11555,7 +11555,7 @@
     "uplink":"435.050",
     "downlink":"145.800",
     "beacon":null,
-    "mode":"FM tone 67.0Hz",
+    "mode":"FM",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
@@ -12619,11 +12619,11 @@
   {
     "name":"LAPAN-A2",
     "norad_id":"40931",
-    "uplink":"145.880\/145.825",
-    "downlink":"435.880\/145.825",
-    "beacon":"437.425",
-    "mode":"1k2*AFSK FM tone 88.5Hz",
-    "callsign":"YBSAT YBOX",
+    "uplink":"145.825\/145.880",
+    "downlink":"145.825\/435.880",
+    "beacon":"145.825",
+    "mode":"1k2AFSK FM CW",
+    "callsign":"YBSAT\/YBOX",
     "status":"active",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
@@ -12683,7 +12683,18 @@
     "satnogs_id":"JLZT-0277-4784-7719-1707"
   },
   {
-    "name":"Lemur-2-KRISH",
+    "name":"LEMUR-2-GRAMESUE",
+    "norad_id":"67370",
+    "uplink":null,
+    "downlink":"401.100",
+    "beacon":null,
+    "mode":"BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"TKUU-6248-2697-9437-4416"
+  },
+  {
+    "name":"LEMUR-2-KRISH",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -12694,7 +12705,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Lemur-2-SEJONG-2",
+    "name":"LEMUR-2-SEJONG-2",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -12705,7 +12716,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Lemur-2",
+    "name":"LEMUR-2-Spacegus",
     "norad_id":"56187",
     "uplink":null,
     "downlink":"402.790",
@@ -12716,7 +12727,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Lemur-2",
+    "name":"LEMUR-2-OnReflection",
     "norad_id":"56182",
     "uplink":null,
     "downlink":null,
@@ -12727,7 +12738,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Lemur-2",
+    "name":"LEMUR-2-Romeo-n-Leo",
     "norad_id":"56206",
     "uplink":null,
     "downlink":"402.788",
@@ -12738,7 +12749,7 @@
     "satnogs_id":"ANXM-6391-1491-9881-7191"
   },
   {
-    "name":"LEMUR-2",
+    "name":"LEMUR-2-MANGO-2A",
     "norad_id":"58336",
     "uplink":null,
     "downlink":"402.790\/2022.500\/2200.500\/2440.000",
@@ -12749,7 +12760,7 @@
     "satnogs_id":"PQDQ-5086-3402-1909-8173"
   },
   {
-    "name":"LEMUR-2",
+    "name":"LEMUR-2-MANGO-2B",
     "norad_id":"58337",
     "uplink":null,
     "downlink":"402.790\/2022.500\/2200.500\/2440.000",
@@ -13018,7 +13029,7 @@
     "uplink":"145.950",
     "downlink":"435.176",
     "beacon":null,
-    "mode":"FM tone 67.0Hz",
+    "mode":"FM",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":null
@@ -15732,10 +15743,10 @@
   {
     "name":"ORARI",
     "norad_id":"40931",
-    "uplink":"145.880\/145.825",
-    "downlink":"435.880\/145.825",
-    "beacon":"437.425",
-    "mode":"1k2*AFSK FM tone 88.5Hz",
+    "uplink":"145.825\/145.880",
+    "downlink":"145.825\/435.880",
+    "beacon":"145.825",
+    "mode":"1k2AFSK FM CW",
     "callsign":"YBSAT\/YBOX",
     "status":"active",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
@@ -17055,7 +17066,7 @@
     "uplink":"437.500",
     "downlink":"145.900",
     "beacon":"145.900",
-    "mode":"FM* tone 141.3Hz CW",
+    "mode":"FM* CW",
     "callsign":"D1W2PH",
     "status":"active",
     "satnogs_id":"HIEK-3729-5596-2727-4744"
@@ -19079,7 +19090,7 @@
     "uplink":"145.850",
     "downlink":"436.795",
     "beacon":null,
-    "mode":"FM* tone 67.0Hz",
+    "mode":"FM",
     "callsign":null,
     "status":"active",
     "satnogs_id":"IRES-5964-9687-1982-0089"
@@ -20784,7 +20795,7 @@
     "uplink":"145.850",
     "downlink":"436.795",
     "beacon":null,
-    "mode":"FM* tone 67.0Hz",
+    "mode":"FM",
     "callsign":null,
     "status":"active",
     "satnogs_id":"IRES-5964-9687-1982-0089"
@@ -20795,7 +20806,7 @@
     "uplink":"145.875",
     "downlink":"435.345",
     "beacon":"435.300",
-    "mode":"FM tone 233.6Hz",
+    "mode":"FM",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":null
@@ -21774,7 +21785,7 @@
     "uplink":"145.875",
     "downlink":"435.345",
     "beacon":"435.300",
-    "mode":"FM tone 233.6Hz",
+    "mode":"FM",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":null
@@ -25382,7 +25393,7 @@
     "uplink":"145.825",
     "downlink":"435.675",
     "beacon":null,
-    "mode":"FM tone 67Hz",
+    "mode":"FM",
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"JJGC-7637-4682-0934-3692"

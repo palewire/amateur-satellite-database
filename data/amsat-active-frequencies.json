@@ -785,7 +785,7 @@
     "uplink":"437.500",
     "downlink":"145.900",
     "beacon":"145.900",
-    "mode":"FM* tone 141.3Hz CW",
+    "mode":"FM* CW",
     "callsign":"D1W2PH",
     "satnogs_id":"HIEK-3729-5596-2727-4744"
   },
@@ -1422,10 +1422,10 @@
   {
     "name":"IO-86",
     "norad_id":"40931",
-    "uplink":"145.880\/145.825",
-    "downlink":"435.880\/145.825",
-    "beacon":"437.425",
-    "mode":"FM tone 88.5Hz\/APRS",
+    "uplink":"145.825\/145.880",
+    "downlink":"145.825\/435.880",
+    "beacon":"145.825",
+    "mode":"1k2AFSK FM CW",
     "callsign":"YBSAT\/YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
@@ -1485,7 +1485,7 @@
     "uplink":"145.990",
     "downlink":"437.800",
     "beacon":null,
-    "mode":"FM tone 67.0Hz 9k6 GFSK",
+    "mode":"FM 9k6_GFSK",
     "callsign":null,
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
   },
@@ -1622,11 +1622,11 @@
   {
     "name":"LAPAN-A2",
     "norad_id":"40931",
-    "uplink":"145.880\/145.825",
-    "downlink":"435.880\/145.825",
-    "beacon":"437.425",
-    "mode":"1k2*AFSK FM tone 88.5Hz",
-    "callsign":"YBSAT YBOX",
+    "uplink":"145.825\/145.880",
+    "downlink":"145.825\/435.880",
+    "beacon":"145.825",
+    "mode":"1k2AFSK FM CW",
+    "callsign":"YBSAT\/YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
   {
@@ -1932,10 +1932,10 @@
   {
     "name":"ORARI",
     "norad_id":"40931",
-    "uplink":"145.880\/145.825",
-    "downlink":"435.880\/145.825",
-    "beacon":"437.425",
-    "mode":"1k2*AFSK FM tone 88.5Hz",
+    "uplink":"145.825\/145.880",
+    "downlink":"145.825\/435.880",
+    "beacon":"145.825",
+    "mode":"1k2AFSK FM CW",
     "callsign":"YBSAT\/YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
@@ -2015,7 +2015,7 @@
     "uplink":"437.500",
     "downlink":"145.900",
     "beacon":"145.900",
-    "mode":"FM* tone 141.3Hz CW",
+    "mode":"FM* CW",
     "callsign":"D1W2PH",
     "satnogs_id":"HIEK-3729-5596-2727-4744"
   },
@@ -2115,7 +2115,7 @@
     "uplink":"145.850",
     "downlink":"436.795",
     "beacon":null,
-    "mode":"FM* tone 67.0Hz",
+    "mode":"FM",
     "callsign":null,
     "satnogs_id":"IRES-5964-9687-1982-0089"
   },
@@ -2705,7 +2705,7 @@
     "uplink":"145.850",
     "downlink":"436.795",
     "beacon":null,
-    "mode":"FM* tone 67.0Hz",
+    "mode":"FM",
     "callsign":null,
     "satnogs_id":"IRES-5964-9687-1982-0089"
   },
