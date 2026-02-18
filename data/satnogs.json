@@ -14314,8 +14314,8 @@
     "name":"IRVINE-02",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-02-16T00:00:00Z",
     "launched":"2018-12-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.irvinecubesat.org\/",
@@ -14326,8 +14326,8 @@
         "decoder":"irvine"
       }
     ],
-    "updated":"2022-08-01T16:17:40.059593Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-02-18T07:26:23.188976Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43789",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60953,7 +60953,7 @@
   {
     "sat_id":"JXLH-6916-5606-6524-3299",
     "norad_cat_id":98429.0,
-    "norad_follow_id":67282.0,
+    "norad_follow_id":67284.0,
     "name":"Lobachevsky",
     "names":"RS83S",
     "image":"satellites\/RS83S_\u041b\u043e\u0431\u0430\u0447\u0435\u0432\u0441\u043a\u0438\u0439.jpg",
@@ -60967,8 +60967,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-08T11:36:15.830133Z",
-    "citation":"http:\/\/eng.unn.ru\/news2\/unn-s-lobachevsky-satellite-launched-into-space-orbit, https:\/\/spacepi.space\/satellites\/lobachevskij\/",
+    "updated":"2026-02-18T07:43:17.419755Z",
+    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/135",
     "is_frequency_violator":false,
     "associated_satellites":[
 
