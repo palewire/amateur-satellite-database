@@ -567,7 +567,7 @@
     "beacon":null,
     "mode":"1k2*\/9k6_FSK",
     "callsign":"CORAL",
-    "satnogs_id":null
+    "satnogs_id":"PBKS-8836-3208-9942-5973"
   },
   {
     "name":"CO-55",
@@ -1177,7 +1177,7 @@
     "beacon":null,
     "mode":"9k6_FSK",
     "callsign":"XW1JMF",
-    "satnogs_id":null
+    "satnogs_id":"CAOL-2416-3135-3240-8425"
   },
   {
     "name":"HADES-R",
@@ -1647,7 +1647,7 @@
     "beacon":"400.960",
     "mode":"4k8_GMSK CW",
     "callsign":"LEOPARD",
-    "satnogs_id":null
+    "satnogs_id":"VHUA-6134-1551-1624-5953"
   },
   {
     "name":"LEV-1",

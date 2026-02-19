@@ -57935,8 +57935,8 @@
   },
   {
     "sat_id":"CAOL-2416-3135-3240-8425",
-    "norad_cat_id":98531.0,
-    "norad_follow_id":67684.0,
+    "norad_cat_id":67684.0,
+    "norad_follow_id":null,
     "name":"GXIBA-1",
     "names":"",
     "image":"satellites\/250912_GXIBA.jpg",
@@ -57950,8 +57950,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-08T11:42:11.281177Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/49",
+    "updated":"2026-02-19T08:44:28.797191Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67684\/2026-02-14T11%3A34%3A18_13398298_67684_98067YA_0-OBJECT-B_0.020167257777778502_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62008,8 +62008,8 @@
   },
   {
     "sat_id":"VHUA-6134-1551-1624-5953",
-    "norad_cat_id":98397.0,
-    "norad_follow_id":67687.0,
+    "norad_cat_id":67687.0,
+    "norad_follow_id":null,
     "name":"LEOPARD",
     "names":"",
     "image":"satellites\/leopard_satellite.png",
@@ -62023,11 +62023,11 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-08T12:57:43.607450Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/51",
+    "updated":"2026-02-19T07:39:22.993835Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67687\/2026-02-19T05%3A57%3A59_13429352_67687_98067YD_0-OBJECT-E_0.0777464270370345_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "NASS-0017-3245-0954-8423"
     ]
   },
   {
@@ -62104,8 +62104,8 @@
   },
   {
     "sat_id":"PBKS-8836-3208-9942-5973",
-    "norad_cat_id":98396.0,
-    "norad_follow_id":67685.0,
+    "norad_cat_id":67685.0,
+    "norad_follow_id":null,
     "name":"CoRAL",
     "names":"",
     "image":"",
@@ -62119,11 +62119,11 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-08T12:57:43.567432Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/51",
+    "updated":"2026-02-19T07:45:44.876857Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67685\/2026-02-19T02%3A44%3A14_13433720_67685_98067YB_0-OBJECT-C_0.5237815959259251_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "OLPQ-7519-0955-0156-3045"
     ]
   },
   {

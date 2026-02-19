@@ -5013,7 +5013,7 @@
     "mode":"1k2*\/9k6_FSK",
     "callsign":"CORAL",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"PBKS-8836-3208-9942-5973"
   },
   {
     "name":"CORVUS-BC2",
@@ -9182,7 +9182,7 @@
     "mode":"9k6_FSK",
     "callsign":"XW1JMF",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"CAOL-2416-3135-3240-8425"
   },
   {
     "name":"HADES",
@@ -12801,7 +12801,7 @@
     "mode":"4k8_GMSK CW",
     "callsign":"LEOPARD",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"VHUA-6134-1551-1624-5953"
   },
   {
     "name":"LEV-1",
@@ -17622,6 +17622,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Qubik-5",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"453.240",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"QUETZAL-1",
     "norad_id":"45598",
     "uplink":null,
@@ -19523,6 +19534,28 @@
     "callsign":"RS8S",
     "status":"re-entered",
     "satnogs_id":"EUTM-6475-4739-7036-7152"
+  },
+  {
+    "name":"SIDROC-PQ1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"SIDROC-PQ2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"SIGMA",
