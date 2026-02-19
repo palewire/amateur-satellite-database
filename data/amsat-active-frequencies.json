@@ -2100,6 +2100,16 @@
     "satnogs_id":"CPWN-2484-4785-1722-0154"
   },
   {
+    "name":"SARAL",
+    "norad_id":"39086",
+    "uplink":null,
+    "downlink":"465.988\/1703.000\/2203.200",
+    "beacon":null,
+    "mode":"800bps BPSK FM",
+    "callsign":null,
+    "satnogs_id":"CVJK-7644-2588-4230-2659"
+  },
+  {
     "name":"Saturn",
     "norad_id":"57174",
     "uplink":null,

@@ -18887,6 +18887,17 @@
     "satnogs_id":null
   },
   {
+    "name":"SARAL",
+    "norad_id":"39086",
+    "uplink":null,
+    "downlink":"465.988\/1703.000\/2203.200",
+    "beacon":null,
+    "mode":"800bps BPSK FM",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"CVJK-7644-2588-4230-2659"
+  },
+  {
     "name":"Sateliot-0",
     "norad_id":"56183",
     "uplink":null,
