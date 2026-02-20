@@ -58302,7 +58302,7 @@
   {
     "sat_id":"MEKC-1774-6115-5644-8771",
     "norad_cat_id":98520.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66303.0,
     "name":"STARCLOUD-1",
     "names":"LUMEN-1",
     "image":"satellites\/starcloud.png",
@@ -58316,8 +58316,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-13T14:48:33.613382Z",
-    "citation":"Description and Picture",
+    "updated":"2026-02-19T16:10:46.468640Z",
+    "citation":"NORAD 66303 - best STRF fit from 10 observations over 36 hour period",
     "is_frequency_violator":false,
     "associated_satellites":[
 
