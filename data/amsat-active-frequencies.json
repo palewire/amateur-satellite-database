@@ -1780,16 +1780,6 @@
     "satnogs_id":"PJTC-6029-0615-1270-1207"
   },
   {
-    "name":"Mordovia-IOT",
-    "norad_id":"61765",
-    "uplink":null,
-    "downlink":"437.100",
-    "beacon":null,
-    "mode":"1143bps AFSK SSTV",
-    "callsign":"RS50S",
-    "satnogs_id":"GAHV-9088-5977-7290-0624"
-  },
-  {
     "name":"MO-105",
     "norad_id":"44832",
     "uplink":null,
