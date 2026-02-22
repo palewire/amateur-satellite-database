@@ -62293,5 +62293,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"LKJK-2636-4520-7791-6414",
+    "norad_cat_id":66545.0,
+    "norad_follow_id":null,
+    "name":"SJ-30A",
+    "names":"2025-266A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-11-19T00:00:00Z",
+    "deployed":"2025-11-19T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-22T10:24:40.575666Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/17xiHlNZGGHCQiSkvOkc13IpOXd7526puBYwvwS8hrUw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
