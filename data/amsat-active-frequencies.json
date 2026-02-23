@@ -1550,6 +1550,16 @@
     "satnogs_id":"BFDT-9094-9258-2665-0692"
   },
   {
+    "name":"KNACKSAT-2",
+    "norad_id":"67683",
+    "uplink":null,
+    "downlink":"145.825",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":"HS0K",
+    "satnogs_id":null
+  },
+  {
     "name":"Kolibri-S",
     "norad_id":"61746",
     "uplink":null,

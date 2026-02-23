@@ -12248,9 +12248,9 @@
     "uplink":null,
     "downlink":"145.825",
     "beacon":null,
-    "mode":"9k6_FSK",
+    "mode":"9k6_GFSK",
     "callsign":"HS0K",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
