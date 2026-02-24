@@ -3998,18 +3998,7 @@
     "uplink":"145.900",
     "downlink":"435.690",
     "beacon":null,
-    "mode":"VHF\/UHF FM",
-    "callsign":null,
-    "status":"re-entered",
-    "satnogs_id":"LNZE-6831-5626-0234-4826"
-  },
-  {
-    "name":"CAS-7B",
-    "norad_id":"44443",
-    "uplink":null,
-    "downlink":null,
-    "beacon":"435.715",
-    "mode":"CW",
+    "mode":"VHF\/UHF FM CW",
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"LNZE-6831-5626-0234-4826"
@@ -4020,18 +4009,7 @@
     "uplink":"145.900",
     "downlink":"435.690",
     "beacon":"435.715",
-    "mode":"VHF\/UHF FM",
-    "callsign":null,
-    "status":"to be launched",
-    "satnogs_id":null
-  },
-  {
-    "name":"CAS-7C",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":null,
-    "beacon":"435.715",
-    "mode":"CW",
+    "mode":"VHF\/UHF FM CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -6876,14 +6854,14 @@
   },
   {
     "name":"Ecuador-UTE",
-    "norad_id":"44419",
+    "norad_id":"44397",
     "uplink":null,
     "downlink":"437.050",
     "beacon":"437.050",
-    "mode":"CW",
+    "mode":"9600bps GMSK CW",
     "callsign":null,
-    "status":"unknown",
-    "satnogs_id":"FLRT-9057-4077-2524-9105"
+    "status":"re-entered",
+    "satnogs_id":null
   },
   {
     "name":"EDGECUBE",
@@ -8495,9 +8473,9 @@
     "name":"GALAPAGOS-UTE-SWSU",
     "norad_id":"67279",
     "uplink":null,
-    "downlink":"437.050",
+    "downlink":"435.750\/437.050*",
     "beacon":null,
-    "mode":"1143*_AFSK 9k6_GMSK SSTV",
+    "mode":"1143*AFSK 2k4FSK SSTV",
     "callsign":"HC1PX",
     "status":"active",
     "satnogs_id":null

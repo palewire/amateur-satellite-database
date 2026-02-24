@@ -57744,7 +57744,7 @@
   {
     "sat_id":"NKES-5884-4663-7598-3201",
     "norad_cat_id":98534.0,
-    "norad_follow_id":65943.0,
+    "norad_follow_id":65942.0,
     "name":"e-kagaku-1",
     "names":"IWATO, JL3ZPN",
     "image":"satellites\/e-kagaku-1.jpg",
@@ -57758,8 +57758,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-15T13:17:23.027671Z",
-    "citation":"65942 fits BOTAN based on Network observations",
+    "updated":"2026-02-24T11:18:07.307928Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-33-2025-10-10-09-50-utc\/13840\/45",
     "is_frequency_violator":false,
     "associated_satellites":[
 
