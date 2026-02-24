@@ -57959,8 +57959,8 @@
   },
   {
     "sat_id":"SCWJ-8858-4107-1493-6553",
-    "norad_cat_id":98532.0,
-    "norad_follow_id":67683.0,
+    "norad_cat_id":67683.0,
+    "norad_follow_id":null,
     "name":"KNACKSAT-2",
     "names":"HS0K",
     "image":"satellites\/Knacksat-2_5.jpg",
@@ -57974,11 +57974,11 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-09T10:12:04.790942Z",
-    "citation":"KNACKSAT-2",
+    "updated":"2026-02-23T14:07:01.634791Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67683",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "KGLJ-5105-7669-0803-5760"
     ]
   },
   {
