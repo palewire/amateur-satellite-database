@@ -1960,6 +1960,16 @@
     "satnogs_id":"XBMS-1269-7435-8541-4310"
   },
   {
+    "name":"PADRE",
+    "norad_id":"64559",
+    "uplink":null,
+    "downlink":"401.360\/2277.500",
+    "beacon":null,
+    "mode":"4k8*\/9k6 GMSK",
+    "callsign":null,
+    "satnogs_id":"VNWS-4720-9290-9692-1890"
+  },
+  {
     "name":"PCSAT-1",
     "norad_id":"26931",
     "uplink":"145.827",
