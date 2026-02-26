@@ -57972,7 +57972,9 @@
     "operator":"None",
     "countries":"TH",
     "telemetries":[
-
+      {
+        "decoder":"knacksat2"
+      }
     ],
     "updated":"2026-02-23T14:07:01.634791Z",
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67683",
@@ -62227,11 +62229,11 @@
     "norad_cat_id":98391.0,
     "norad_follow_id":null,
     "name":"Lilium-4",
-    "names":"",
+    "names":"BN0YCA",
     "image":"satellites\/dds.jpg",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-03-29T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -62239,8 +62241,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-13T10:29:33.100444Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-02-25T18:43:11.666429Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1085",
     "is_frequency_violator":false,
     "associated_satellites":[
 
