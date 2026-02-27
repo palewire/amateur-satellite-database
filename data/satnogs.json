@@ -19197,10 +19197,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -49970,10 +49970,10 @@
   },
   {
     "sat_id":"LNSX-3317-6241-3552-3606",
-    "norad_cat_id":63236.0,
+    "norad_cat_id":98737.0,
     "norad_follow_id":63236.0,
-    "name":"Orbastro-TR5",
-    "names":"2025-052AC",
+    "name":"NILA",
+    "names":"",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -49981,12 +49981,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"GB",
+    "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2025-12-18T10:44:10.203650Z",
-    "citation":"space-track.org",
+    "updated":"2025-04-18T19:20:43.850057Z",
+    "citation":"Random choice",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -57234,8 +57234,8 @@
     "norad_cat_id":98542.0,
     "norad_follow_id":null,
     "name":"Ten-Koh 2",
-    "names":"\u3066\u3093\u3053\u3046\uff12",
-    "image":"",
+    "names":"\u3066\u3093\u3053\u3046\uff12, JS1YKI",
+    "image":"satellites\/\u3066\u3093\u3053\u3046\uff12_-_Mission_Logo.jpg",
     "status":"future",
     "decayed":null,
     "launched":"2025-10-21T00:00:00Z",
@@ -57246,8 +57246,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-08-31T13:24:24.812654Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-02-26T18:04:50.412857Z",
+    "citation":"https:\/\/aero.cst.nihon-u.ac.jp\/okuyama\/to-amateur-radio-operators\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59814,8 +59814,8 @@
         "decoder":"foresail1p"
       }
     ],
-    "updated":"2026-02-12T17:40:17.110841Z",
-    "citation":"Add foresail-1p dashboard url.",
+    "updated":"2026-02-26T14:18:29.119360Z",
+    "citation":"https:\/\/foresail.github.io\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62215,7 +62215,9 @@
     "operator":"None",
     "countries":"TW",
     "telemetries":[
-
+      {
+        "decoder":"ax25monitor"
+      }
     ],
     "updated":"2026-02-15T13:35:55.309838Z",
     "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1084",
@@ -62315,6 +62317,30 @@
     ],
     "updated":"2026-02-22T10:24:40.575666Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/17xiHlNZGGHCQiSkvOkc13IpOXd7526puBYwvwS8hrUw\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RNRC-0705-2439-6456-1589",
+    "norad_cat_id":63236.0,
+    "norad_follow_id":null,
+    "name":"Orbastro-TR5",
+    "names":"2025-052AC",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-03-15T06:43:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"GB",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-26T17:29:14.816395Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
