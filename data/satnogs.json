@@ -19197,10 +19197,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -62341,6 +62341,30 @@
     ],
     "updated":"2026-02-26T17:29:14.816395Z",
     "citation":"space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QNDB-7804-4994-2617-8349",
+    "norad_cat_id":66698.0,
+    "norad_follow_id":null,
+    "name":"IRIDE FM4",
+    "names":"2025-276AJ",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-11-28T00:00:00Z",
+    "deployed":"2025-11-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JM",
+    "telemetries":[
+
+    ],
+    "updated":"2026-02-27T04:53:41.004556Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1nQjHzKsczOk_y50V7LFm-jMVW_1QQPL019UR4WHbS60\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

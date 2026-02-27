@@ -1540,6 +1540,56 @@
     "satnogs_id":null
   },
   {
+    "name":"Kineis-1A",
+    "norad_id":"60084",
+    "uplink":null,
+    "downlink":"400.657",
+    "beacon":null,
+    "mode":"2k4_FSK",
+    "callsign":null,
+    "satnogs_id":"HPAR-8709-5177-4142-4273"
+  },
+  {
+    "name":"Kineis-1B",
+    "norad_id":"60079",
+    "uplink":null,
+    "downlink":"400.657",
+    "beacon":null,
+    "mode":"2k4_FSK",
+    "callsign":null,
+    "satnogs_id":"FGNF-7996-2438-8741-1021"
+  },
+  {
+    "name":"Kineis-1E",
+    "norad_id":"60083",
+    "uplink":null,
+    "downlink":"400.657",
+    "beacon":null,
+    "mode":"2k4_FSK",
+    "callsign":null,
+    "satnogs_id":"LCDF-7727-1999-3080-1795"
+  },
+  {
+    "name":"Kineis-3A",
+    "norad_id":"61223",
+    "uplink":null,
+    "downlink":"400.662",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "satnogs_id":"TJNC-9764-2485-7803-5657"
+  },
+  {
+    "name":"Kineis-3C",
+    "norad_id":"61220",
+    "uplink":null,
+    "downlink":"400.662",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "satnogs_id":"BMDG-6675-0607-0851-8712"
+  },
+  {
     "name":"KKS-1",
     "norad_id":"33499",
     "uplink":null,
