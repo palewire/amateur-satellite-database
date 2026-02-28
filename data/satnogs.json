@@ -2888,8 +2888,8 @@
     "name":"FIRST-MOVE",
     "names":"",
     "image":"satellites\/First-MOVE.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-02-26T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -2898,8 +2898,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.155979Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-02-27T15:59:59.422134Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=39439",
     "is_frequency_violator":false,
     "associated_satellites":[
 

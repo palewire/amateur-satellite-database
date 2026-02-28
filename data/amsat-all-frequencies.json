@@ -13202,11 +13202,11 @@
   {
     "name":"Lilium-4",
     "norad_id":null,
-    "uplink":"145.825\/145.980",
+    "uplink":"145.980",
     "downlink":"435.250\/437.850\/2405.000",
     "beacon":null,
     "mode":"1k2_AFSK 2Mbps_GFSK",
-    "callsign":null,
+    "callsign":"BN0YCA",
     "status":"to be launched",
     "satnogs_id":null
   },
@@ -15719,7 +15719,7 @@
     "satnogs_id":"AGMX-2508-1337-4945-9939"
   },
   {
-    "name":"NUTSAT",
+    "name":"NUTSat",
     "norad_id":"55124",
     "uplink":null,
     "downlink":"436.850",
@@ -15733,10 +15733,10 @@
     "name":"NUTSat-3",
     "norad_id":null,
     "uplink":"145.980",
-    "downlink":"435.250\/437.850",
+    "downlink":"145.825\/435.250\/437.850",
     "beacon":null,
     "mode":"1k2_AFSK",
-    "callsign":null,
+    "callsign":"BN0UTC",
     "status":"to be launched",
     "satnogs_id":null
   },
