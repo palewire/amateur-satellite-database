@@ -16335,7 +16335,7 @@
     "satnogs_id":"SUWO-0538-8117-4734-1584"
   },
   {
-    "name":"Parus-MGTU",
+    "name":"PARUS-MGTU",
     "norad_id":"58173",
     "uplink":null,
     "downlink":"437.200",
@@ -16346,7 +16346,7 @@
     "satnogs_id":"ZFWW-4105-8005-8470-1991"
   },
   {
-    "name":"Parus-T1",
+    "name":"PARUS-T1",
     "norad_id":"62621",
     "uplink":null,
     "downlink":"145.825\/436.850",
@@ -16357,7 +16357,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Parus-T1A",
+    "name":"PARUS-T1A",
     "norad_id":null,
     "uplink":"145.825\/145.980",
     "downlink":"145.825\/435.250\/437.850",
@@ -16368,7 +16368,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Parus-T2",
+    "name":"PARUS-T2",
     "norad_id":"64560",
     "uplink":"145.980",
     "downlink":"145.825\/435.250*\/437.850",
@@ -16379,14 +16379,25 @@
     "satnogs_id":null
   },
   {
-    "name":"Parus-T3",
+    "name":"PARUS-T3",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"145.825\/437.195\/2402.000",
     "beacon":null,
-    "mode":"9k6_GMSK APRS",
+    "mode":"1k2_AFSK,9k6_GMSK,FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"PARUS-6U1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825\/437.195\/2402.000",
+    "beacon":null,
+    "mode":"1k2_AFSK,9k6_GMSK,FM",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
