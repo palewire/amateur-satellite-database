@@ -57669,8 +57669,8 @@
   },
   {
     "sat_id":"JMIF-0517-5295-9753-0215",
-    "norad_cat_id":98538.0,
-    "norad_follow_id":66909.0,
+    "norad_cat_id":66909.0,
+    "norad_follow_id":null,
     "name":"SilverSat",
     "names":"",
     "image":"satellites\/Launch-Config.jpg",
@@ -57686,11 +57686,11 @@
         "decoder":"silversat"
       }
     ],
-    "updated":"2025-12-09T08:35:11.470281Z",
-    "citation":"https:\/\/apps.fcc.gov\/els\/GetAtt.html?id=363693&x=",
+    "updated":"2026-03-03T11:57:08.007031Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-66909\/2026-03-01T13%3A43%3A38_13491071_66909_98067XV_0-SILVERSAT_0.19814473259259557_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "TJCA-4098-8635-3765-2657"
     ]
   },
   {
