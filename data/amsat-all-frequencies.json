@@ -341,6 +341,17 @@
     "satnogs_id":null
   },
   {
+    "name":"AETS-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"922.000\/2228.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"AE2a",
     "norad_id":null,
     "uplink":null,
@@ -9482,6 +9493,17 @@
     "satnogs_id":"AXDZ-6917-8551-3502-7467"
   },
   {
+    "name":"HErO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"HERON-Mk-II",
     "norad_id":null,
     "uplink":null,
@@ -11471,6 +11493,17 @@
     "callsign":"DP2GOS",
     "status":"active",
     "satnogs_id":"VLTM-4130-8711-4931-9078"
+  },
+  {
+    "name":"ISHIKI",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"failure",
+    "satnogs_id":null
   },
   {
     "name":"ISOI",
@@ -19569,6 +19602,28 @@
     "satnogs_id":null
   },
   {
+    "name":"SC-Sat1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"SC-Sat1a",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2278.600",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"SDSAT",
     "norad_id":"47721",
     "uplink":null,
@@ -21511,7 +21566,7 @@
     "downlink":"436.650\/2425.100",
     "beacon":null,
     "mode":"9600bps GMSK",
-    "callsign":"GK0FX",
+    "callsign":"6K0FX",
     "status":"active",
     "satnogs_id":null
   },
@@ -22734,6 +22789,28 @@
     "mode":"9600bps FSK",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"TATARA-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"TATARA-1R",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2280.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {

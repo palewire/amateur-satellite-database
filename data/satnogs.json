@@ -51371,7 +51371,7 @@
   {
     "sat_id":"UCZO-3697-9016-2037-7134",
     "norad_cat_id":98707.0,
-    "norad_follow_id":null,
+    "norad_follow_id":62656.0,
     "name":"PARUS-T1",
     "names":"BN0TIT, \u5c71\u96c0-T1",
     "image":"satellites\/PARUS-T1.jpg",
@@ -51385,8 +51385,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-03-04T08:54:50.568176Z",
-    "citation":"Removing NORAD ID we follow to manually track the satellite",
+    "updated":"2026-03-04T02:08:13.840174Z",
+    "citation":"https:\/\/satellitemap.space\/sat\/62656 but it seems like a random choice from the launch objects",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62219,8 +62219,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2026-02-28T12:22:14.425514Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=64035.0",
+    "updated":"2026-03-04T02:02:41.989939Z",
+    "citation":"Status change",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62387,7 +62387,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-28T13:44:53.947575Z",
+    "updated":"2026-03-04T02:02:41.978611Z",
     "citation":"Status change",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -62411,7 +62411,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-28T13:44:53.954868Z",
+    "updated":"2026-03-04T02:02:41.982717Z",
     "citation":"Status change",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -62435,7 +62435,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-28T13:43:59.715459Z",
+    "updated":"2026-03-04T02:02:41.960582Z",
     "citation":"Status change",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -62459,7 +62459,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-28T13:44:53.960181Z",
+    "updated":"2026-03-04T02:02:41.986392Z",
     "citation":"Status change",
     "is_frequency_violator":false,
     "associated_satellites":[
