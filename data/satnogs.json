@@ -62207,9 +62207,9 @@
     "name":"NUTSat-3",
     "names":"BN0UTC",
     "image":"satellites\/WW.png",
-    "status":"future",
-    "decayed":null,
-    "launched":"2026-03-01T02:00:00Z",
+    "status":"re-entered",
+    "decayed":"2026-03-05T02:11:00Z",
+    "launched":"2026-03-05T02:10:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -62219,8 +62219,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2026-03-04T02:02:41.989939Z",
-    "citation":"Status change",
+    "updated":"2026-03-05T02:19:30.548427Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=ZGaimti4hCE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62377,9 +62377,9 @@
     "name":"TATARA-1R",
     "names":"",
     "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2026-03-01T02:00:00Z",
+    "status":"re-entered",
+    "decayed":"2026-03-05T02:11:00Z",
+    "launched":"2026-03-05T02:10:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -62387,8 +62387,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-04T02:02:41.978611Z",
-    "citation":"Status change",
+    "updated":"2026-03-05T02:19:30.463152Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=ZGaimti4hCE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62401,9 +62401,9 @@
     "name":"SC-Sat1a",
     "names":"",
     "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2026-03-01T02:00:00Z",
+    "status":"re-entered",
+    "decayed":"2026-03-05T02:11:00Z",
+    "launched":"2026-03-05T02:10:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -62411,8 +62411,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-04T02:02:41.982717Z",
-    "citation":"Status change",
+    "updated":"2026-03-05T02:19:30.490711Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=ZGaimti4hCE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62425,9 +62425,9 @@
     "name":"HErO",
     "names":"Hiroo Engineering for Orbit, \u901a\u79f0",
     "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2026-03-01T02:00:00Z",
+    "status":"re-entered",
+    "decayed":"2026-03-05T02:11:00Z",
+    "launched":"2026-03-05T02:10:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -62435,8 +62435,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-04T02:02:41.960582Z",
-    "citation":"Status change",
+    "updated":"2026-03-05T02:19:30.437739Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=ZGaimti4hCE",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62449,9 +62449,9 @@
     "name":"AETS-1",
     "names":"AE-SAT",
     "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2026-03-01T02:00:00Z",
+    "status":"re-entered",
+    "decayed":"2026-03-05T02:11:00Z",
+    "launched":"2026-03-05T02:10:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -62459,8 +62459,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-04T02:02:41.986392Z",
-    "citation":"Status change",
+    "updated":"2026-03-05T02:19:30.518055Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=ZGaimti4hCE",
     "is_frequency_violator":false,
     "associated_satellites":[
 

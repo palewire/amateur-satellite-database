@@ -348,7 +348,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -9500,7 +9500,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -15770,7 +15770,7 @@
     "beacon":null,
     "mode":"1k2_AFSK",
     "callsign":"BN0UTC",
-    "status":"to be launched",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -19620,7 +19620,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"failure                                    .                 .                 .                                               f",
     "satnogs_id":null
   },
   {
@@ -22810,7 +22810,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -23160,7 +23160,7 @@
     "uplink":"145.895-145.935",
     "downlink":"435.875-435.915",
     "beacon":"435.895",
-    "mode":"4k8-38k4_GMSK 38k4_4FSK Digitalker",
+    "mode":"4k8-38k4_GMSK\/4FSK Digitalker",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
