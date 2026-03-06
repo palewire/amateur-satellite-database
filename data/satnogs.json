@@ -57260,8 +57260,8 @@
     "name":"BOTAN",
     "names":"JS1YPT",
     "image":"satellites\/DSC_3451_M7LlLPt.JPG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-03-03T04:21:07Z",
     "launched":"2025-09-16T00:00:00Z",
     "deployed":"2025-10-10T09:50:00Z",
     "website":"https:\/\/sites.google.com\/p.chibakoudai.jp\/gardens-04\/satellite\/downlink-format",
@@ -57272,8 +57272,8 @@
         "decoder":"botan"
       }
     ],
-    "updated":"2025-10-17T20:34:27.082185Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-33-2025-10-10-09-50-utc\/13840\/55",
+    "updated":"2026-03-06T11:47:06.470803Z",
+    "citation":"https:\/\/community.libre.space\/t\/botan-arps-mission\/14003\/63?u=nishikazu0417",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TLDL-5520-5897-5856-7638"
@@ -62461,6 +62461,30 @@
     ],
     "updated":"2026-03-05T02:19:30.518055Z",
     "citation":"https:\/\/www.youtube.com\/watch?v=ZGaimti4hCE",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TOTH-8884-9961-6728-7092",
+    "norad_cat_id":64538.0,
+    "norad_follow_id":null,
+    "name":"IOD2_Startical",
+    "names":"2025-135L",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":"2025-06-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-06T11:51:36.319986Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Gov-M8hon75_ne4gbo8P3dv6lSaYKaR_CurdtQK5Lfk\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
