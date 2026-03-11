@@ -60967,7 +60967,9 @@
     "operator":"None",
     "countries":"RU",
     "telemetries":[
-
+      {
+        "decoder":"geoscan16u"
+      }
     ],
     "updated":"2026-02-18T07:43:17.419755Z",
     "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/135",

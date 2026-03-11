@@ -5038,6 +5038,17 @@
     "satnogs_id":"KPZZ-0499-2351-6546-5973"
   },
   {
+    "name":"COSMO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.200",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"CosmoGirl-Sat",
     "norad_id":"60953",
     "uplink":"145.825",
@@ -6367,6 +6378,17 @@
     "callsign":"DIDO3",
     "status":"re-entered",
     "satnogs_id":"UTVH-8269-9182-3451-8658"
+  },
+  {
+    "name":"DISCO-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.075\/2432.500",
+    "beacon":null,
+    "mode":"9k6_FSK\/GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Diwata-2",
@@ -9315,6 +9337,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"TPAP-4475-7915-0965-4305"
+  },
+  {
+    "name":"HADES-SA",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437,075",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Hamsat",
