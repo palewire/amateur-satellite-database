@@ -14872,14 +14872,25 @@
     "satnogs_id":"VMNV-8729-6815-0607-7666"
   },
   {
+    "name":"NAPA-1",
+    "norad_id":"46320",
+    "uplink":null,
+    "downlink":"401.125",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":"RTAF-1",
+    "status":"active",
+    "satnogs_id":"MPAB-6491-6577-2634-7004"
+  },
+  {
     "name":"NAPA-2",
     "norad_id":"48963",
     "uplink":null,
-    "downlink":"401.120*\/401.150",
+    "downlink":"401.124*\/401.150",
     "beacon":null,
     "mode":"1200bps BPSK",
-    "callsign":"NAPS2",
-    "status":"unknown",
+    "callsign":"NAPA2",
+    "status":"active",
     "satnogs_id":"GEJQ-5981-2710-6410-2156"
   },
   {
@@ -23261,18 +23272,18 @@
     "beacon":"435.895",
     "mode":"4k8-38k4_GMSK\/4FSK Digitalker",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
-    "name":"Ten-Koh2",
+    "name":"Ten-Koh3",
     "norad_id":null,
-    "uplink":"145.895-145.935",
-    "downlink":"435.875-435.915",
-    "beacon":"5839.000",
-    "mode":"CW",
+    "uplink":null,
+    "downlink":"436.740\/437.400",
+    "beacon":null,
+    "mode":"1k2AFS\/9k6MSK\/162bps_LoRa",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -24395,6 +24406,17 @@
     "mode":"9k6_GFSK",
     "callsign":"TRON1",
     "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"T_MicroSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {

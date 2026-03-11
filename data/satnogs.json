@@ -57236,18 +57236,18 @@
     "name":"Ten-Koh 2",
     "names":"\u3066\u3093\u3053\u3046\uff12, JS1YKI",
     "image":"satellites\/\u3066\u3093\u3053\u3046\uff12_-_Mission_Logo.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-10-21T00:00:00Z",
-    "deployed":null,
+    "deployed":"2026-03-11T09:35:00Z",
     "website":"https:\/\/aero.cst.nihon-u.ac.jp\/okuyama\/ten-koh-2\/",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2026-02-26T18:04:50.412857Z",
-    "citation":"https:\/\/aero.cst.nihon-u.ac.jp\/okuyama\/to-amateur-radio-operators\/",
+    "updated":"2026-03-11T10:26:58.824940Z",
+    "citation":"https:\/\/aero.cst.nihon-u.ac.jp\/okuyama\/2026\/03\/11\/%ef%bc%94%ef%bc%91%ef%bc%8e%e3%80%8c%e3%81%a6%e3%82%93%e3%81%93%e3%81%86%ef%bc%92%e3%80%8d%e3%81%8c%e6%94%be%e5%87%ba%e3%81%95%e3%82%8c%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%ef%bc%81\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

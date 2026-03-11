@@ -1910,6 +1910,26 @@
     "satnogs_id":"VMNV-8729-6815-0607-7666"
   },
   {
+    "name":"NAPA-1",
+    "norad_id":"46320",
+    "uplink":null,
+    "downlink":"401.125",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":"RTAF-1",
+    "satnogs_id":"MPAB-6491-6577-2634-7004"
+  },
+  {
+    "name":"NAPA-2",
+    "norad_id":"48963",
+    "uplink":null,
+    "downlink":"401.124*\/401.150",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":"NAPA2",
+    "satnogs_id":"GEJQ-5981-2710-6410-2156"
+  },
+  {
     "name":"NasbSat-1",
     "norad_id":"67289",
     "uplink":null,
