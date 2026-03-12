@@ -5811,9 +5811,9 @@
     "name":"CUBEL",
     "norad_id":"47448",
     "uplink":null,
-    "downlink":"400.575",
+    "downlink":"400.575\/2262.500",
     "beacon":null,
-    "mode":"9600bps MSK",
+    "mode":"9600bps MSK FM",
     "callsign":null,
     "status":"active",
     "satnogs_id":"HGYE-7318-8290-9065-4147"
@@ -9342,7 +9342,7 @@
     "name":"HADES-SA",
     "norad_id":null,
     "uplink":null,
-    "downlink":"437,075",
+    "downlink":"437.075",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -9612,6 +9612,50 @@
     "callsign":null,
     "status":"failure",
     "satnogs_id":null
+  },
+  {
+    "name":"HIBER-1",
+    "norad_id":"43744",
+    "uplink":null,
+    "downlink":"401.040",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":"HVOW-5878-6353-9441-4379"
+  },
+  {
+    "name":"HIBER-2",
+    "norad_id":"43774",
+    "uplink":null,
+    "downlink":"401.440",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"DIUK-4833-6704-3630-2340"
+  },
+  {
+    "name":"HIBER-3",
+    "norad_id":"47942",
+    "uplink":null,
+    "downlink":"401.300",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":"YRSX-0231-8133-3396-9379"
+  },
+  {
+    "name":"HIBER-4",
+    "norad_id":"47541",
+    "uplink":null,
+    "downlink":"401.150",
+    "beacon":null,
+    "mode":"1200bps BPSK",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":"OOVQ-5223-4749-1162-3679"
   },
   {
     "name":"HiNCube",
@@ -16516,7 +16560,7 @@
     "uplink":null,
     "downlink":"145.825\/437.195\/2402.000",
     "beacon":null,
-    "mode":"1k2_AFSK,9k6_GMSK,FM",
+    "mode":"1k2_AFSK 9k6_GMSK FM",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -16527,7 +16571,7 @@
     "uplink":null,
     "downlink":"145.825\/437.195\/2402.000",
     "beacon":null,
-    "mode":"1k2_AFSK,9k6_GMSK,FM",
+    "mode":"1k2_AFSK 9k6_GMSK FM",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -17240,9 +17284,9 @@
     "name":"PIXL-1",
     "norad_id":"47448",
     "uplink":null,
-    "downlink":"400.575",
+    "downlink":"400.575\/2262.500",
     "beacon":null,
-    "mode":"9600bps MSK",
+    "mode":"9600bps MSK FM",
     "callsign":null,
     "status":"active",
     "satnogs_id":"HGYE-7318-8290-9065-4147"
@@ -23270,7 +23314,7 @@
     "uplink":"145.895-145.935",
     "downlink":"435.875-435.915\/435.895",
     "beacon":"435.860",
-    "mode":"4k8-38k4_GMSK\/4FSK CW Digitalker",
+    "mode":"4k8-38k4_GMSK\/4FSK SSB CW",
     "callsign":"JS1YKI",
     "status":"unknown",
     "satnogs_id":null
