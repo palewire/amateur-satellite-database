@@ -23268,11 +23268,11 @@
     "name":"Ten-Koh2",
     "norad_id":null,
     "uplink":"145.895-145.935",
-    "downlink":"435.875-435.915",
-    "beacon":"435.895",
-    "mode":"4k8-38k4_GMSK\/4FSK Digitalker",
-    "callsign":null,
-    "status":"to be launched",
+    "downlink":"435.875-435.915\/435.895",
+    "beacon":"435.860",
+    "mode":"4k8-38k4_GMSK\/4FSK CW Digitalker",
+    "callsign":"JS1YKI",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
