@@ -18643,7 +18643,7 @@
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "AQIT-5740-2034-1300-1087"
     ]
   },
   {
@@ -62494,7 +62494,7 @@
   },
   {
     "sat_id":"EARJ-4650-0809-6617-4860",
-    "norad_cat_id":null,
+    "norad_cat_id":98385.0,
     "norad_follow_id":null,
     "name":"SanoSat-2.0",
     "names":"UTNH-SAJILO-SAT",
@@ -62509,8 +62509,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-13T17:06:33.975843Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1015",
+    "updated":"2026-03-13T17:06:58.130900Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
