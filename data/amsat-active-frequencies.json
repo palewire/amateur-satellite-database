@@ -20,6 +20,16 @@
     "satnogs_id":"RNAT-4607-0106-2995-6819"
   },
   {
+    "name":"AISat",
+    "norad_id":"40054",
+    "uplink":null,
+    "downlink":"2259.000",
+    "beacon":"437.505",
+    "mode":"FM CW*",
+    "callsign":"DP0AIS",
+    "satnogs_id":"ZRIM-9073-8711-5268-6171"
+  },
+  {
     "name":"AISTECHSAT-2",
     "norad_id":"43768",
     "uplink":null,

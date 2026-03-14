@@ -421,11 +421,11 @@
     "name":"AISat",
     "norad_id":"40054",
     "uplink":null,
-    "downlink":"437.250",
-    "beacon":"437.511",
-    "mode":"CW",
+    "downlink":"2259.000",
+    "beacon":"437.505",
+    "mode":"FM CW*",
     "callsign":"DP0AIS",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"ZRIM-9073-8711-5268-6171"
   },
   {
@@ -514,7 +514,7 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"YYJY-0635-5567-8703-7935"
   },
   {
     "name":"AIST-ST",
@@ -12735,7 +12735,7 @@
     "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"KMJP-6423-8535-9361-8180"
   },
   {
     "name":"KOYOH",

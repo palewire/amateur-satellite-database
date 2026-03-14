@@ -2816,8 +2816,8 @@
     "name":"HUMSAT-D",
     "names":"",
     "image":"satellites\/humsat-d__1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-03-10T00:00:00Z",
     "launched":"2013-11-20T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/humsat.org\/radio-amateurs\/",
@@ -2826,8 +2826,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-01T08:06:51.074679Z",
-    "citation":"https:\/\/humsat.org\/radio-amateurs\/",
+    "updated":"2026-03-13T15:02:47.836981Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=39433",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25714,23 +25714,23 @@
   },
   {
     "sat_id":"CMHP-8937-6862-1335-0712",
-    "norad_cat_id":99251.0,
+    "norad_cat_id":55019.0,
     "norad_follow_id":null,
     "name":"KSF3-B",
-    "names":"",
+    "names":"2023-001L",
     "image":"satellites\/KSF3-PATCH-1024x989_S6Rdown.png",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
-    "deployed":null,
+    "status":"re-entered",
+    "decayed":"2025-12-07T00:00:00Z",
+    "launched":"2023-01-03T14:52:48Z",
+    "deployed":"2023-01-03T15:58:50Z",
     "website":"https:\/\/kleos.space\/satellite-launch-observer\/",
     "operator":"None",
     "countries":"LU",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T14:57:29.039267Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-03-13T14:42:21.609800Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25738,23 +25738,23 @@
   },
   {
     "sat_id":"BPVV-5213-8604-9121-9268",
-    "norad_cat_id":99252.0,
+    "norad_cat_id":55018.0,
     "norad_follow_id":null,
     "name":"KSF3-C",
-    "names":"",
+    "names":"2023-001K",
     "image":"satellites\/KSF3-PATCH-1024x989_PlsWiAv.png",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
-    "deployed":null,
+    "status":"re-entered",
+    "decayed":"2025-02-01T00:00:00Z",
+    "launched":"2023-01-03T14:52:48Z",
+    "deployed":"2023-01-03T15:59:21Z",
     "website":"https:\/\/kleos.space\/satellite-launch-observer\/",
     "operator":"None",
     "countries":"LU",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T14:57:43.428152Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-03-13T15:02:11.539313Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -25762,26 +25762,26 @@
   },
   {
     "sat_id":"TSYL-7365-6805-9003-5931",
-    "norad_cat_id":99253.0,
+    "norad_cat_id":55085.0,
     "norad_follow_id":null,
     "name":"KSF3-D",
-    "names":"",
+    "names":"2023-001CE",
     "image":"satellites\/KSF3-PATCH-1024x989_ZDWsBJl.png",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2022-12-18T00:00:00Z",
-    "deployed":null,
+    "status":"re-entered",
+    "decayed":"2025-10-10T00:00:00Z",
+    "launched":"2023-01-03T14:52:48Z",
+    "deployed":"2023-01-03T16:00:58Z",
     "website":"https:\/\/kleos.space\/satellite-launch-observer\/",
     "operator":"None",
     "countries":"LU",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T15:11:40.513495Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-03-13T14:44:50.064525Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "RHNB-3111-7260-8353-7291"
     ]
   },
   {
@@ -30825,8 +30825,8 @@
     "name":"RUZAEVKA-390",
     "names":"RS44S, \u0420\u0443\u0437\u0430\u0435\u0432\u043a\u0430-390",
     "image":"satellites\/large_IMG_7149_cbaaa1292f.JPG",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-03-10T00:00:00Z",
     "launched":"2024-11-04T23:18:40Z",
     "deployed":null,
     "website":"https:\/\/ruzaevka-390.r4uab.ru\/",
@@ -30835,8 +30835,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-14T05:39:37.832895Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
+    "updated":"2026-03-13T14:37:01.759159Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=61766",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -41670,30 +41670,6 @@
     ],
     "updated":"2024-01-15T11:44:29.428801Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1bFaXgjATch_F_8iqNZbdyGyVV0iOZjMvIXn0X0tVY2Q\/edit?usp=sharing",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"RHNB-3111-7260-8353-7291",
-    "norad_cat_id":55085.0,
-    "norad_follow_id":null,
-    "name":"KSF3-D",
-    "names":"2023-001CE",
-    "image":"",
-    "status":"re-entered",
-    "decayed":"2025-10-10T00:00:00Z",
-    "launched":"2023-01-03T00:00:00Z",
-    "deployed":"2023-01-03T00:00:00Z",
-    "website":"",
-    "operator":"None",
-    "countries":"LU",
-    "telemetries":[
-
-    ],
-    "updated":"2025-10-18T15:06:04.386081Z",
-    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=55085",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56994,8 +56970,8 @@
     "name":"STARS-Me2",
     "names":"JJ2YXO, H\u014drai (\u84ec\u83b1)",
     "image":"satellites\/STARS-Me2_for_Dashboard.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-03-10T00:00:00Z",
     "launched":"2025-08-24T00:00:00Z",
     "deployed":"2025-09-19T10:40:00Z",
     "website":"https:\/\/wwp.shizuoka.ac.jp\/suarc\/stars-me2-overview-english\/",
@@ -57006,8 +56982,8 @@
         "decoder":"starsme2"
       }
     ],
-    "updated":"2025-10-10T09:06:25.519155Z",
-    "citation":"Random choice of Object to follow",
+    "updated":"2026-03-13T14:36:04.590789Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=65731",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62325,6 +62301,30 @@
     ]
   },
   {
+    "sat_id":"WCPQ-5521-7260-2374-6877",
+    "norad_cat_id":98386.0,
+    "norad_follow_id":null,
+    "name":"COSMO",
+    "names":"Compact Spaceborne Magnetic Observatory",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-29T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/culair.weebly.com\/cosmo.html",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-13T16:20:23.781691Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"RNRC-0705-2439-6456-1589",
     "norad_cat_id":63236.0,
     "norad_follow_id":null,
@@ -62487,6 +62487,78 @@
     ],
     "updated":"2026-03-06T11:51:36.319986Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1Gov-M8hon75_ne4gbo8P3dv6lSaYKaR_CurdtQK5Lfk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EARJ-4650-0809-6617-4860",
+    "norad_cat_id":null,
+    "norad_follow_id":null,
+    "name":"SanoSat-2.0",
+    "names":"UTNH-SAJILO-SAT",
+    "image":"satellites\/Sanosat2-satnogsdb.JPG",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-06-01T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"NP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-13T17:06:33.975843Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1015",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KMJP-6423-8535-9361-8180",
+    "norad_cat_id":67255.0,
+    "norad_follow_id":null,
+    "name":"unknown",
+    "names":"2025-313H",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T00:00:00Z",
+    "deployed":"2025-12-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-13T14:33:56.801533Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1cyK_7RNq3ws6szZLLDbrLnTmnXhLPtrwUdyRPBPpYJ4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YYJY-0635-5567-8703-7935",
+    "norad_cat_id":67254.0,
+    "norad_follow_id":null,
+    "name":"Object G",
+    "names":"2025-313G",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T00:00:00Z",
+    "deployed":"2025-12-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-13T14:33:30.109791Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1eQ8NOP1tuCfMyIAsuTCiDfbQttK0VReI_rqIijs32PA\/edit?usp=sharing this could be AIST-2T-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
