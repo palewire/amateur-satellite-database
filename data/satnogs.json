@@ -727,12 +727,12 @@
     "sat_id":"TCAK-2702-2188-8416-9781",
     "norad_cat_id":26410.0,
     "norad_follow_id":null,
-    "name":"Cluster II FM6",
-    "names":"SALSA",
+    "name":"Cluster II FM7",
+    "names":"SAMBA",
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2000-07-16T12:43:12Z",
     "deployed":null,
     "website":"https:\/\/sci.esa.int\/web\/cluster",
     "operator":"ESA",
@@ -740,8 +740,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.004868Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-03-16T12:19:09.841329Z",
+    "citation":"https:\/\/planet4589.org\/space\/gcat\/tsv\/satcat.tsv @ S26410",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -804,7 +804,7 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2000-08-09T11:16:48Z",
     "deployed":null,
     "website":"https:\/\/sci.esa.int\/web\/cluster",
     "operator":"ESA",
@@ -812,8 +812,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.009728Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-03-16T12:18:16.651285Z",
+    "citation":"https:\/\/planet4589.org\/space\/gcat\/tsv\/satcat.tsv @ S26464",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -11819,8 +11819,8 @@
     "name":"WildTrackCube-SIMBA",
     "names":"IKUNS 3",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-03-06T00:00:00Z",
     "launched":"2021-03-22T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -11829,8 +11829,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T18:47:54.951744Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/wildtrackcube-simba.htm",
+    "updated":"2026-03-16T11:20:05.887397Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=47941",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -26477,7 +26477,7 @@
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "QYCF-2723-6257-5507-0709"
     ]
   },
   {
@@ -39196,7 +39196,7 @@
     "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "ZBKV-5498-6250-0456-1492"
     ]
   },
   {
@@ -59773,8 +59773,8 @@
   },
   {
     "sat_id":"VVCO-9182-2144-7766-7316",
-    "norad_cat_id":98467.0,
-    "norad_follow_id":66778.0,
+    "norad_cat_id":66778.0,
+    "norad_follow_id":null,
     "name":"Foresail-1p",
     "names":"OH2F1S, FS1p, Foresail-1 Prime",
     "image":"satellites\/fm-ready.jpg",
@@ -59790,8 +59790,8 @@
         "decoder":"foresail1p"
       }
     ],
-    "updated":"2026-02-26T14:18:29.119360Z",
-    "citation":"https:\/\/foresail.github.io\/",
+    "updated":"2026-03-16T12:18:50.304461Z",
+    "citation":"my observations since 2016 and digipeats",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -60376,8 +60376,8 @@
   },
   {
     "sat_id":"KXQQ-3629-0199-1434-6296",
-    "norad_cat_id":98448.0,
-    "norad_follow_id":67291.0,
+    "norad_cat_id":67291.0,
+    "norad_follow_id":null,
     "name":"QMR-KWT 2",
     "names":"RS95S",
     "image":"satellites\/QMR_KWT_2_Mission_Patch_3CS09hd.jpg",
@@ -60393,11 +60393,11 @@
         "decoder":"sputnixusp"
       }
     ],
-    "updated":"2026-01-19T15:01:14.829193Z",
-    "citation":"https:\/\/www.orbital-space.com\/",
+    "updated":"2026-03-16T10:55:46.453876Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67291\/2026-02-16T11%3A17%3A23_13416557_67291_25313AV_0-OBJECT-AV_0.5456014225925898_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "LJWF-6214-5467-0220-8376"
     ]
   },
   {
@@ -60882,8 +60882,8 @@
   },
   {
     "sat_id":"ENMR-1106-8768-2633-2018",
-    "norad_cat_id":98430.0,
-    "norad_follow_id":67285.0,
+    "norad_cat_id":67285.0,
+    "norad_follow_id":null,
     "name":"NasbSat-2",
     "names":"A2S5A, A2S5B",
     "image":"",
@@ -60897,8 +60897,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-13T22:51:29.343818Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/131",
+    "updated":"2026-03-16T12:18:25.658132Z",
+    "citation":"per strf obs -- https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/141",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62559,6 +62559,30 @@
     ],
     "updated":"2026-03-13T14:33:30.109791Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1eQ8NOP1tuCfMyIAsuTCiDfbQttK0VReI_rqIijs32PA\/edit?usp=sharing this could be AIST-2T-2",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WTDS-0932-2523-0676-9670",
+    "norad_cat_id":66754.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X61",
+    "names":"2025-276CS",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-11-28T00:00:00Z",
+    "deployed":"2025-11-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-16T11:17:36.546736Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1h_1dOVunRdyxoic04pyj2K5YadbsF8x5bKrJt8Q6Us4\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -857,7 +857,7 @@
     "beacon":null,
     "mode":"9k6_MSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"VVCO-9182-2144-7766-7316"
   },
   {
     "name":"FossaSat-2E1",
@@ -1957,7 +1957,7 @@
     "beacon":null,
     "mode":"2k4 GMSK_USP",
     "callsign":"A2S5A\/5B",
-    "satnogs_id":null
+    "satnogs_id":"ENMR-1106-8768-2633-2018"
   },
   {
     "name":"NETSAT-2",
@@ -2117,7 +2117,7 @@
     "beacon":null,
     "mode":"2k4*GMSK_USP SSTV FM",
     "callsign":"RS95S",
-    "satnogs_id":null
+    "satnogs_id":"KXQQ-3629-0199-1434-6296"
   },
   {
     "name":"QUBE",

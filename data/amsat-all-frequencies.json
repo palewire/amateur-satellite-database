@@ -7840,7 +7840,7 @@
     "mode":"9k6_MSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"VVCO-9182-2144-7766-7316"
   },
   {
     "name":"FossaSat-1",
@@ -14979,7 +14979,7 @@
     "mode":"2k4 GMSK_USP",
     "callsign":"A2S5A\/5B",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ENMR-1106-8768-2633-2018"
   },
   {
     "name":"Nayif-1",
@@ -18004,7 +18004,7 @@
     "mode":"2k4*GMSK_USP SSTV FM",
     "callsign":"RS95S",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"KXQQ-3629-0199-1434-6296"
   },
   {
     "name":"QO-100",
