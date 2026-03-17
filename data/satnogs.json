@@ -18974,10 +18974,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -59799,8 +59799,8 @@
   },
   {
     "sat_id":"XEOD-9474-3581-0595-2203",
-    "norad_cat_id":98466.0,
-    "norad_follow_id":66678.0,
+    "norad_cat_id":66678.0,
+    "norad_follow_id":null,
     "name":"OTTER",
     "names":"",
     "image":"",
@@ -59808,14 +59808,14 @@
     "decayed":null,
     "launched":"2025-11-28T18:44:30Z",
     "deployed":"2025-11-28T19:40:51Z",
-    "website":"",
+    "website":"https:\/\/www.dlr.de\/en\/rs\/research-transfer\/mission-projects\/otter-1",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2026-02-05T13:48:53.718419Z",
-    "citation":"Satellite team",
+    "updated":"2026-03-17T12:13:38.329557Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-66678\/2026-02-24T10%3A09%3A53_13468582_66678_25276N_0-LEMUR-2-DEANANDMAEVE_0.1777676374074062_A_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61341,8 +61341,8 @@
   },
   {
     "sat_id":"YHPF-2223-3310-4034-1636",
-    "norad_cat_id":98426.0,
-    "norad_follow_id":67264.0,
+    "norad_cat_id":67264.0,
+    "norad_follow_id":null,
     "name":"Kosar 1.5",
     "names":"Kowsar 1.5",
     "image":"",
@@ -61356,8 +61356,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-13T09:50:34.365341Z",
-    "citation":"tinygs.com",
+    "updated":"2026-03-17T08:10:17.470872Z",
+    "citation":"tinygs.com observations and celestrak.org",
     "is_frequency_violator":true,
     "associated_satellites":[
       "PCQD-3497-2272-5793-3533"
@@ -61443,7 +61443,7 @@
     "names":"CGUSAT",
     "image":"",
     "status":"re-entered",
-    "decayed":null,
+    "decayed":"2026-01-12T04:48:00Z",
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
     "website":"",
@@ -61452,7 +61452,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T12:56:31.669385Z",
+    "updated":"2026-03-17T07:59:26.315724Z",
     "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -61467,7 +61467,7 @@
     "names":"DSAT, DSUSAT-1, DSUSAT",
     "image":"",
     "status":"re-entered",
-    "decayed":null,
+    "decayed":"2026-01-12T04:48:00Z",
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
     "website":"",
@@ -61476,7 +61476,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T12:56:31.659666Z",
+    "updated":"2026-03-17T07:59:26.302083Z",
     "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -61491,7 +61491,7 @@
     "names":"LACHIT",
     "image":"",
     "status":"re-entered",
-    "decayed":null,
+    "decayed":"2026-01-12T04:48:00Z",
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
     "website":"",
@@ -61500,7 +61500,31 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T12:56:31.648536Z",
+    "updated":"2026-03-17T07:59:26.287771Z",
+    "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QNCT-2703-0816-5804-6617",
+    "norad_cat_id":98383.0,
+    "norad_follow_id":null,
+    "name":"Thybolt-3",
+    "names":"Thybolt 3",
+    "image":"",
+    "status":"re-entered",
+    "decayed":"2026-01-12T04:48:00Z",
+    "launched":"2026-01-12T04:48:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.dhruvaspace.com\/polar-access-1#w-tabs-0-data-w-pane-6",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-17T07:59:26.240467Z",
     "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -61659,7 +61683,7 @@
     "names":"THEOS 2 SMALLSAT",
     "image":"",
     "status":"re-entered",
-    "decayed":null,
+    "decayed":"2026-01-12T04:48:00Z",
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
     "website":"",
@@ -61668,7 +61692,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T12:56:31.635926Z",
+    "updated":"2026-03-17T07:59:26.274535Z",
     "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -61683,7 +61707,7 @@
     "names":"",
     "image":"",
     "status":"re-entered",
-    "decayed":null,
+    "decayed":"2026-01-12T04:48:00Z",
     "launched":"2026-01-12T04:48:00Z",
     "deployed":null,
     "website":"",
@@ -61692,7 +61716,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-12T12:56:31.680239Z",
+    "updated":"2026-03-17T07:59:26.329175Z",
     "citation":"https:\/\/community.libre.space\/t\/isro-pslv-c62-eos-n1-mission-2026-01-12-04-48-utc\/14254\/22",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -62222,7 +62246,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-25T18:43:11.666429Z",
+    "updated":"2026-03-17T11:30:12.805768Z",
     "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1085",
     "is_frequency_violator":false,
     "associated_satellites":[

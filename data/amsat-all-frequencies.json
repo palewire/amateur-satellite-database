@@ -6462,9 +6462,9 @@
     "uplink":"145.935-145.995",
     "downlink":"435.670-435.610",
     "beacon":"435.605",
-    "mode":"SSB CW",
+    "mode":"SSB CW*",
     "callsign":"RS44",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"UFYD-5782-6372-2920-6054"
   },
   {
@@ -16332,7 +16332,7 @@
     "mode":"4k8_FSK",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"XEOD-9474-3581-0595-2203"
   },
   {
     "name":"OTP-2",
@@ -19178,9 +19178,9 @@
     "uplink":"145.935-145.995",
     "downlink":"435.670-435.610",
     "beacon":"435.605",
-    "mode":"SSB CW",
+    "mode":"SSB CW*",
     "callsign":"RS44",
-    "status":"non-operational",
+    "status":"operational",
     "satnogs_id":"UFYD-5782-6372-2920-6054"
   },
   {

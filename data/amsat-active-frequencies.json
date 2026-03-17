@@ -800,6 +800,16 @@
     "satnogs_id":"HIEK-3729-5596-2727-4744"
   },
   {
+    "name":"DOSAAF-85",
+    "norad_id":"44909",
+    "uplink":"145.935-145.995",
+    "downlink":"435.670-435.610",
+    "beacon":"435.605",
+    "mode":"SSB CW*",
+    "callsign":"RS44",
+    "satnogs_id":"UFYD-5782-6372-2920-6054"
+  },
+  {
     "name":"Dragonfly",
     "norad_id":"65729",
     "uplink":"145.825\/435.375",
@@ -2027,7 +2037,7 @@
     "beacon":null,
     "mode":"4k8_FSK",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"XEOD-9474-3581-0595-2203"
   },
   {
     "name":"OTP-2",
