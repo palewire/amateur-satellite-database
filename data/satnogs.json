@@ -740,8 +740,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-16T12:19:09.841329Z",
-    "citation":"https:\/\/planet4589.org\/space\/gcat\/tsv\/satcat.tsv @ S26410",
+    "updated":"2026-03-16T16:30:53.494616Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -812,8 +812,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-16T12:18:16.651285Z",
-    "citation":"https:\/\/planet4589.org\/space\/gcat\/tsv\/satcat.tsv @ S26464",
+    "updated":"2026-03-16T16:27:01.750599Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -2890,16 +2890,16 @@
     "image":"satellites\/First-MOVE.png",
     "status":"re-entered",
     "decayed":"2026-02-26T00:00:00Z",
-    "launched":null,
+    "launched":"2013-11-21T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/warr.de\/projects\/move\/first-move\/",
     "operator":"None",
-    "countries":"",
+    "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2026-02-27T15:59:59.422134Z",
-    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=39439",
+    "updated":"2026-03-16T16:25:10.428416Z",
+    "citation":"https:\/\/warr.de\/de\/projekte\/move\/first-move-mission-report\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59790,11 +59790,11 @@
         "decoder":"foresail1p"
       }
     ],
-    "updated":"2026-03-16T12:18:50.304461Z",
-    "citation":"my observations since 2016 and digipeats",
+    "updated":"2026-03-16T16:13:38.470839Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-66778\/2026-03-03T11%3A52%3A21_13513287_66778_25276DS_0-FORESAIL-1-PRIME_0.74525285_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "OZIZ-5738-9139-2850-0273"
     ]
   },
   {
@@ -60397,7 +60397,8 @@
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67291\/2026-02-16T11%3A17%3A23_13416557_67291_25313AV_0-OBJECT-AV_0.5456014225925898_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "LJWF-6214-5467-0220-8376"
+      "LJWF-6214-5467-0220-8376",
+      "AHJC-2507-2069-8932-3330"
     ]
   },
   {
@@ -60897,8 +60898,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-16T12:18:25.658132Z",
-    "citation":"per strf obs -- https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/141",
+    "updated":"2026-03-16T16:14:16.127859Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67291\/2026-03-10T20%3A38%3A43_13562682_67291_25313AV_0-OBJECT-AV_5.049908792592589_A_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
