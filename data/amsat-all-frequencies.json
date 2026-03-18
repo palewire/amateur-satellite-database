@@ -5043,7 +5043,7 @@
     "uplink":null,
     "downlink":"401.200",
     "beacon":null,
-    "mode":"9k6_GFSK",
+    "mode":"9k6\/19k2_GFSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -8566,7 +8566,7 @@
     "mode":"1143*AFSK 2k4FSK SSTV",
     "callsign":"HC1PX",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"XHOE-9718-5112-5196-7058"
   },
   {
     "name":"GALASSIA",
@@ -16643,6 +16643,17 @@
     "satnogs_id":null
   },
   {
+    "name":"PeakSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"50kbps_FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"PearlAfricaSat-1",
     "norad_id":"54535",
     "uplink":null,
@@ -24456,9 +24467,9 @@
     "name":"T_MicroSat-2",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.025",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GFSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null

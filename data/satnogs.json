@@ -18974,10 +18974,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19197,10 +19197,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -60957,8 +60957,8 @@
   },
   {
     "sat_id":"XHOE-9718-5112-5196-7058",
-    "norad_cat_id":98428.0,
-    "norad_follow_id":67279.0,
+    "norad_cat_id":67279.0,
+    "norad_follow_id":null,
     "name":"GALAPAGOS-UTE-SWSU",
     "names":"HC1PX",
     "image":"satellites\/galapagos_sat.jpg",
@@ -60972,11 +60972,11 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-09T00:36:24.390840Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
+    "updated":"2026-03-17T12:49:53.545707Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67279\/2026-01-15T22%3A00%3A56_13212465_67279_25313AH_0-OBJECT-AH_0.006902294814814525_B_r24.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
-
+      "MPIH-7811-5864-9568-8936"
     ]
   },
   {
@@ -62542,6 +62542,102 @@
     ]
   },
   {
+    "sat_id":"WKBS-6047-7369-7033-9398",
+    "norad_cat_id":98382.0,
+    "norad_follow_id":null,
+    "name":"SAL-E",
+    "names":"CP16",
+    "image":"satellites\/sal-e.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-29T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.polysat.org\/in-development",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-17T14:05:51.554733Z",
+    "citation":"Add temporary NORAD ID and launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HWUY-3165-6126-0472-2513",
+    "norad_cat_id":98381.0,
+    "norad_follow_id":null,
+    "name":"DISCO-2",
+    "names":"",
+    "image":"satellites\/disco-2.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-29T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/discosat.dk\/v2_disco-2\/",
+    "operator":"None",
+    "countries":"DK",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-17T14:06:50.117255Z",
+    "citation":"Add temporary NORAD ID and launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MIAF-5680-8845-1005-1215",
+    "norad_cat_id":98380.0,
+    "norad_follow_id":null,
+    "name":"HADES-SA",
+    "names":"SpinnyONE",
+    "image":"satellites\/HADES-SA.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-29T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.amsat-ea.org\/",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-17T14:08:17.493351Z",
+    "citation":"Add temporary NORAD ID and launch date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZVLY-3305-1364-3664-7659",
+    "norad_cat_id":98379.0,
+    "norad_follow_id":null,
+    "name":"T.MicroSat-2",
+    "names":"",
+    "image":"satellites\/t_microsat_2.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-29T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.tronfuture.com\/",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-17T14:09:53.157891Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"KMJP-6423-8535-9361-8180",
     "norad_cat_id":67255.0,
     "norad_follow_id":null,
@@ -62608,6 +62704,30 @@
     ],
     "updated":"2026-03-16T11:17:36.546736Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1h_1dOVunRdyxoic04pyj2K5YadbsF8x5bKrJt8Q6Us4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TMGB-9786-8299-4754-2850",
+    "norad_cat_id":98378.0,
+    "norad_follow_id":null,
+    "name":"PeakSat",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-29T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/peaksat.spacedot.gr\/",
+    "operator":"None",
+    "countries":"GR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-17T14:11:12.334111Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
