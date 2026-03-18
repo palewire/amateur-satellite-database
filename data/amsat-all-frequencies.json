@@ -498,9 +498,9 @@
     "name":"AIST-2T-1",
     "norad_id":"67253",
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.792",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -13367,7 +13367,7 @@
   {
     "name":"Lilium-4",
     "norad_id":null,
-    "uplink":"145.980",
+    "uplink":"145.825\/145.980",
     "downlink":"435.250\/437.850\/2405.000",
     "beacon":null,
     "mode":"1k2_AFSK 2Mbps_GFSK",
