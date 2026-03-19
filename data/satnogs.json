@@ -59794,7 +59794,8 @@
     "citation":"https:\/\/archive.org\/details\/ikhnos-identification-66778\/2026-03-03T11%3A52%3A21_13513287_66778_25276DS_0-FORESAIL-1-PRIME_0.74525285_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
-      "OZIZ-5738-9139-2850-0273"
+      "OZIZ-5738-9139-2850-0273",
+      "MUQB-0276-3104-9683-9812"
     ]
   },
   {
@@ -62704,30 +62705,6 @@
     ],
     "updated":"2026-03-16T11:17:36.546736Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1h_1dOVunRdyxoic04pyj2K5YadbsF8x5bKrJt8Q6Us4\/edit?usp=sharing",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"MUQB-0276-3104-9683-9812",
-    "norad_cat_id":98467.0,
-    "norad_follow_id":null,
-    "name":"New Satellite",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2026-03-18T12:15:48.820381Z",
-    "citation":"",
     "is_frequency_violator":false,
     "associated_satellites":[
 
