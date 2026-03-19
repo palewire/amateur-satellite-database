@@ -250,16 +250,6 @@
     "satnogs_id":"IGGV-1318-5974-9239-7350"
   },
   {
-    "name":"BOTAN",
-    "norad_id":"65942",
-    "uplink":null,
-    "downlink":"145.825\/437.375*",
-    "beacon":"437.375",
-    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
-    "callsign":"JS1YPT",
-    "satnogs_id":"PHOX-2063-1951-4466-3756"
-  },
-  {
     "name":"BOTSAT-1",
     "norad_id":"63216",
     "uplink":null,
@@ -657,7 +647,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"OLZU-0658-3961-7563-6347"
   },
   {
     "name":"CSTP-4.3",
@@ -677,7 +667,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"RWQU-2223-2219-7187-0160"
   },
   {
     "name":"CTC-0",
@@ -1058,16 +1048,6 @@
     "mode":"1143*AFSK 2k4FSK SSTV",
     "callsign":"HC1PX",
     "satnogs_id":"XHOE-9718-5112-5196-7058"
-  },
-  {
-    "name":"Gardens-04",
-    "norad_id":"65942",
-    "uplink":"145.825",
-    "downlink":"437.375",
-    "beacon":"437.375",
-    "mode":"1k2AFSK 4k8*GMSK APRS CW*",
-    "callsign":null,
-    "satnogs_id":"PHOX-2063-1951-4466-3756"
   },
   {
     "name":"Geoscan-1",
