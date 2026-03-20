@@ -518,7 +518,7 @@
   },
   {
     "name":"AIST-ST",
-    "norad_id":null,
+    "norad_id":"AIST-ST",
     "uplink":null,
     "downlink":"436.995",
     "beacon":null,
@@ -6190,6 +6190,17 @@
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"DecimalSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.600",
+    "beacon":"436.600",
+    "mode":"500\/1000GFSK SSDV",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
