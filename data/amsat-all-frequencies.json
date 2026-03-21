@@ -23332,14 +23332,14 @@
   },
   {
     "name":"Ten-Koh2",
-    "norad_id":null,
+    "norad_id":"68261",
     "uplink":"145.895-145.935",
     "downlink":"435.875-435.915\/435.895",
     "beacon":"435.860",
-    "mode":"4k8-38k4_GMSK\/4FSK SSB CW",
+    "mode":"4k8-38k4_GMSK\/4FSK SSB CW*",
     "callsign":"JS1YKI",
-    "status":"unknown",
-    "satnogs_id":null
+    "status":"active",
+    "satnogs_id":"BLJD-2583-9512-2426-1509"
   },
   {
     "name":"Ten-Koh3",

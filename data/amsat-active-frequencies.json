@@ -2940,6 +2940,16 @@
     "satnogs_id":"FCHF-0545-3706-3789-8061"
   },
   {
+    "name":"Ten-Koh2",
+    "norad_id":"68261",
+    "uplink":"145.895-145.935",
+    "downlink":"435.875-435.915\/435.895",
+    "beacon":"435.860",
+    "mode":"4k8-38k4_GMSK\/4FSK SSB CW*",
+    "callsign":"JS1YKI",
+    "satnogs_id":"BLJD-2583-9512-2426-1509"
+  },
+  {
     "name":"TEVEL2-1",
     "norad_id":"63217",
     "uplink":"145.970",
