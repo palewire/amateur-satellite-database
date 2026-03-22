@@ -12089,6 +12089,17 @@
     "satnogs_id":"OXEU-3062-3001-4128-0233"
   },
   {
+    "name":"Jumang",
+    "norad_id":"53346",
+    "uplink":null,
+    "downlink":"400.130\/2210.200",
+    "beacon":null,
+    "mode":"LoRa FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"WAWX-9857-7939-2112-6410"
+  },
+  {
     "name":"Jussara-K",
     "norad_id":null,
     "uplink":"401.500",
