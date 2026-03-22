@@ -19414,7 +19414,7 @@
     "image":"satellites\/STS1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2026-01-21T20:06:00Z",
+    "launched":"2026-03-23T08:00:00Z",
     "deployed":null,
     "website":"https:\/\/spaceteam.at\/cubesats\/spaceteamsat1\/?lang=en",
     "operator":"None",
@@ -19422,8 +19422,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-21T07:01:52.245937Z",
-    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-01-21-20-06-utc\/14312\/8",
+    "updated":"2026-03-22T12:07:49.284313Z",
+    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-23-08-00-utc\/14312\/17",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43316,21 +43316,21 @@
     "name":"FRAMSAT-1",
     "names":"FS-1",
     "image":"satellites\/image_X5VswbT.png",
-    "status":"re-entered",
+    "status":"future",
     "decayed":null,
-    "launched":"2025-03-30T10:30:00Z",
-    "deployed":"2025-03-30T10:30:00Z",
-    "website":"https:\/\/orbitntnu.com",
+    "launched":"2026-03-23T08:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/orbitntnu.com\/projects\/FramSat-1",
     "operator":"None",
     "countries":"NO",
     "telemetries":[
 
     ],
-    "updated":"2026-01-21T06:53:36.171476Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63983.0",
+    "updated":"2026-03-22T12:03:55.401854Z",
+    "citation":"https:\/\/orbitntnu.com\/projects\/FramSat-1",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "QRPT-4666-6433-3379-0804"
     ]
   },
   {
@@ -57990,21 +57990,21 @@
     "name":"CyBEEsat",
     "names":"TUBSAT-33",
     "image":"satellites\/CyBEEsat_FM.jpeg",
-    "status":"re-entered",
+    "status":"future",
     "decayed":null,
-    "launched":"2025-03-30T10:30:00Z",
-    "deployed":"2025-03-30T10:30:00Z",
+    "launched":"2026-03-23T08:00:00Z",
+    "deployed":null,
     "website":"",
     "operator":"TU Berlin",
     "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2026-01-21T06:53:55.895832Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=63983.0",
+    "updated":"2026-03-22T12:00:09.037278Z",
+    "citation":"Satellite wasn't part of the first launch of ISAR Spectrum rocket",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "LBWH-9140-8179-6766-8090"
     ]
   },
   {
@@ -61750,54 +61750,6 @@
     ]
   },
   {
-    "sat_id":"LBWH-9140-8179-6766-8090",
-    "norad_cat_id":98408.0,
-    "norad_follow_id":null,
-    "name":"CyBEEsat",
-    "names":"TUBSAT-33",
-    "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2026-01-21T20:06:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"DE",
-    "telemetries":[
-
-    ],
-    "updated":"2026-01-21T07:06:03.036134Z",
-    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-01-21-20-06-utc\/14312",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"QRPT-4666-6433-3379-0804",
-    "norad_cat_id":98407.0,
-    "norad_follow_id":null,
-    "name":"FRAMSAT-1",
-    "names":"FS-1",
-    "image":"",
-    "status":"future",
-    "decayed":null,
-    "launched":"2026-03-23T00:00:00Z",
-    "deployed":null,
-    "website":"https:\/\/orbitntnu.com\/projects\/FramSat-1",
-    "operator":"None",
-    "countries":"NO",
-    "telemetries":[
-
-    ],
-    "updated":"2026-03-19T07:52:58.263448Z",
-    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-01-21-20-06-utc\/14312\/17?u=dl7ndr",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"DJGE-8239-2521-3665-4366",
     "norad_cat_id":98406.0,
     "norad_follow_id":null,
@@ -61806,7 +61758,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2026-01-21T20:06:00Z",
+    "launched":"2026-03-23T08:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -61814,8 +61766,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-21T07:16:24.157836Z",
-    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-01-21-20-06-utc\/14312",
+    "updated":"2026-03-22T12:07:49.274684Z",
+    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-23-08-00-utc\/14312\/17",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61830,7 +61782,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2026-01-21T20:06:00Z",
+    "launched":"2026-03-23T08:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -61838,8 +61790,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-21T07:31:24.912870Z",
-    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-01-21-20-06-utc\/14312",
+    "updated":"2026-03-22T12:07:49.279906Z",
+    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-23-08-00-utc\/14312\/17",
     "is_frequency_violator":false,
     "associated_satellites":[
 
