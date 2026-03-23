@@ -1425,7 +1425,7 @@
     "uplink":"145.825\/145.880",
     "downlink":"145.825\/435.880",
     "beacon":"145.825",
-    "mode":"1k2AFSK FM CW",
+    "mode":"1k2AFSK FM SSDV CW",
     "callsign":"YBSAT\/YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
@@ -1685,7 +1685,7 @@
     "uplink":"145.825\/145.880",
     "downlink":"145.825\/435.880",
     "beacon":"145.825",
-    "mode":"1k2AFSK FM CW",
+    "mode":"1k2AFSK FM SSDV CW",
     "callsign":"YBSAT\/YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
@@ -2005,7 +2005,7 @@
     "uplink":"145.825\/145.880",
     "downlink":"145.825\/435.880",
     "beacon":"145.825",
-    "mode":"1k2AFSK FM CW",
+    "mode":"1k2AFSK FM SSDV CW",
     "callsign":"YBSAT\/YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },

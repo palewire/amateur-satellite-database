@@ -19414,7 +19414,7 @@
     "image":"satellites\/STS1.png",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-23T08:00:00Z",
+    "launched":"2026-03-25T20:00:00Z",
     "deployed":null,
     "website":"https:\/\/spaceteam.at\/cubesats\/spaceteamsat1\/?lang=en",
     "operator":"None",
@@ -19422,8 +19422,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-22T12:07:49.284313Z",
-    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-23-08-00-utc\/14312\/17",
+    "updated":"2026-03-23T10:30:50.258869Z",
+    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-25-20-00-utc\/14312\/21",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -43318,7 +43318,7 @@
     "image":"satellites\/image_X5VswbT.png",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-23T08:00:00Z",
+    "launched":"2026-03-25T20:00:00Z",
     "deployed":null,
     "website":"https:\/\/orbitntnu.com\/projects\/FramSat-1",
     "operator":"None",
@@ -43326,8 +43326,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-22T12:03:55.401854Z",
-    "citation":"https:\/\/orbitntnu.com\/projects\/FramSat-1",
+    "updated":"2026-03-23T10:30:50.262911Z",
+    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-25-20-00-utc\/14312\/21",
     "is_frequency_violator":false,
     "associated_satellites":[
       "QRPT-4666-6433-3379-0804"
@@ -57992,7 +57992,7 @@
     "image":"satellites\/CyBEEsat_FM.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-23T08:00:00Z",
+    "launched":"2026-03-25T20:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"TU Berlin",
@@ -58000,8 +58000,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-22T12:00:09.037278Z",
-    "citation":"Satellite wasn't part of the first launch of ISAR Spectrum rocket",
+    "updated":"2026-03-23T10:30:50.270890Z",
+    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-25-20-00-utc\/14312\/21",
     "is_frequency_violator":false,
     "associated_satellites":[
       "LBWH-9140-8179-6766-8090"
@@ -61758,7 +61758,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-23T08:00:00Z",
+    "launched":"2026-03-25T20:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -61766,8 +61766,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-22T12:07:49.274684Z",
-    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-23-08-00-utc\/14312\/17",
+    "updated":"2026-03-23T10:30:50.252927Z",
+    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-25-20-00-utc\/14312\/21",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -61782,7 +61782,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-23T08:00:00Z",
+    "launched":"2026-03-25T20:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -61790,8 +61790,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-22T12:07:49.279906Z",
-    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-23-08-00-utc\/14312\/17",
+    "updated":"2026-03-23T10:30:50.266917Z",
+    "citation":"https:\/\/community.libre.space\/t\/isar-spectrum-andoya-2026-03-25-20-00-utc\/14312\/21",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62946,6 +62946,30 @@
     ],
     "updated":"2026-03-19T12:22:14.481651Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DKAP-4218-9730-2522-6587",
+    "norad_cat_id":67748.0,
+    "norad_follow_id":null,
+    "name":"Object C",
+    "names":"2027-027C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-02-12T00:00:00Z",
+    "deployed":"2026-02-12T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-23T10:32:55.159901Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1dxTg8F2tYF1wpLL4rKh5D8xpFBWad7pHBqGAPoN74vg\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

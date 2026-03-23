@@ -491,7 +491,7 @@
     "beacon":"435.315",
     "mode":"4800bps PSK CW",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"IDEJ-3292-6865-3492-6224"
   },
   {
@@ -11368,7 +11368,7 @@
     "uplink":"145.825\/145.880",
     "downlink":"145.825\/435.880",
     "beacon":"145.825",
-    "mode":"1k2AFSK FM CW",
+    "mode":"1k2AFSK FM SSDV CW",
     "callsign":"YBSAT\/YBOX",
     "status":"active",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
@@ -13051,7 +13051,7 @@
     "uplink":"145.825\/145.880",
     "downlink":"145.825\/435.880",
     "beacon":"145.825",
-    "mode":"1k2AFSK FM CW",
+    "mode":"1k2AFSK FM SSDV CW",
     "callsign":"YBSAT\/YBOX",
     "status":"active",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
@@ -16186,7 +16186,7 @@
     "uplink":"145.825\/145.880",
     "downlink":"145.825\/435.880",
     "beacon":"145.825",
-    "mode":"1k2AFSK FM CW",
+    "mode":"1k2AFSK FM SSDV CW",
     "callsign":"YBSAT\/YBOX",
     "status":"active",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
@@ -19257,7 +19257,7 @@
     "beacon":"435.315",
     "mode":"CW",
     "callsign":null,
-    "status":"non-operational",
+    "status":"re-entered",
     "satnogs_id":"IDEJ-3292-6865-3492-6224"
   },
   {
