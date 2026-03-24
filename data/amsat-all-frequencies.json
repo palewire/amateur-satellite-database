@@ -15983,6 +15983,17 @@
     "satnogs_id":null
   },
   {
+    "name":"OBZP1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.615*\/435.715",
+    "beacon":null,
+    "mode":"1k2_AFSK DOKA",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"Oculus-ASR",
     "norad_id":"44346",
     "uplink":null,
@@ -24028,6 +24039,17 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"401.580",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"TORO-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,

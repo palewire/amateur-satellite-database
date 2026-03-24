@@ -57724,8 +57724,8 @@
     "name":"e-kagaku-1",
     "names":"IWATO, JL3ZPN",
     "image":"satellites\/e-kagaku-1.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-03-04T00:00:00Z",
     "launched":null,
     "deployed":"2025-10-10T09:50:00Z",
     "website":"https:\/\/ekagaku-sat.net",
@@ -57734,8 +57734,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-24T11:18:07.307928Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-33-2025-10-10-09-50-utc\/13840\/45",
+    "updated":"2026-03-24T07:54:24.310136Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62970,6 +62970,54 @@
     ],
     "updated":"2026-03-23T10:32:55.159901Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1dxTg8F2tYF1wpLL4rKh5D8xpFBWad7pHBqGAPoN74vg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BMVG-9246-3923-3953-0918",
+    "norad_cat_id":98374.0,
+    "norad_follow_id":null,
+    "name":"TORO-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-29T00:00:00Z",
+    "deployed":"2026-03-29T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-24T07:52:44.387807Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UUMY-1111-7079-2544-4340",
+    "norad_cat_id":98373.0,
+    "norad_follow_id":null,
+    "name":"OBZP1",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-24T08:03:17.447637Z",
+    "citation":"https:\/\/r4uab.ru\/satdb\/obzp1\/ - https:\/\/r4uab.ru\/2026\/03\/23\/zapushhennyj-segodnya-23-marta-2026-goda-s-kosmodroma-pleseczk-mka-obzp1-vyshel-na-svyaz\/ - https:\/\/satobs.org\/seesat\/Mar-2026\/0069.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 

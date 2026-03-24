@@ -2000,6 +2000,16 @@
     "satnogs_id":"AGMX-2508-1337-4945-9939"
   },
   {
+    "name":"OBZP1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.615*\/435.715",
+    "beacon":null,
+    "mode":"1k2_AFSK DOKA",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"ORARI",
     "norad_id":"40931",
     "uplink":"145.825\/145.880",
