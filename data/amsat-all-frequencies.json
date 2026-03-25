@@ -15986,7 +15986,7 @@
     "name":"OBZP1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"435.615*\/435.715",
+    "downlink":"435.615\/435.715",
     "beacon":null,
     "mode":"1k2_AFSK DOKA",
     "callsign":null,
