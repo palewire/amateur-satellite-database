@@ -1452,7 +1452,7 @@ NuX-1,51073,,437.650,,1200bps FSK,,re-entered,
 Nyx-Mission-Possible,,,,,,,unknown,
 OBSERVER-1A,,,2246.000,,,,unknown,
 OBSERVER-1B,,,2219.000/2246.000,,,,unknown,
-OBZP1,,,435.615/435.715,,1k2_AFSK DOKA,,active,
+OBZP1,,,435.615/435.715,,1k2_AFSK DOKA,OBZP1,active,
 Oculus-ASR,44346,,437.200,,9600bps GMSK,,unknown,
 OF-2,45113,,435.040/2426.000,,9k6 GMSK/3-5Mbps QPSK,KG5UAK,re-entered,DTPB-3536-2645-5620-7820
 OMNI-LER1,,,2245.000,,FM,,inactive,

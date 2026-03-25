@@ -63018,6 +63018,30 @@
     ],
     "updated":"2026-03-24T08:03:17.447637Z",
     "citation":"https:\/\/r4uab.ru\/satdb\/obzp1\/ - https:\/\/r4uab.ru\/2026\/03\/23\/zapushhennyj-segodnya-23-marta-2026-goda-s-kosmodroma-pleseczk-mka-obzp1-vyshel-na-svyaz\/ - https:\/\/satobs.org\/seesat\/Mar-2026\/0069.html",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VIOO-5580-9038-4016-1832",
+    "norad_cat_id":98372.0,
+    "norad_follow_id":null,
+    "name":"KENSAT",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"MY",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-25T08:14:45.796825Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
