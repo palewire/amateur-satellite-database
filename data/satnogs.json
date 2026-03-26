@@ -63030,7 +63030,7 @@
     "name":"KENSAT",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -63040,8 +63040,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-25T08:14:45.796825Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-25T20:58:50.692436Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
