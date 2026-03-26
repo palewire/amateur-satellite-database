@@ -2607,3 +2607,5 @@ DKAP-4218-9730-2522-6587,67748.0,,Object C,2027-027C,,alive,,2026-02-12T00:00:00
 BMVG-9246-3923-3953-0918,98374.0,,TORO-3,,,future,,2026-03-29T00:00:00Z,2026-03-29T00:00:00Z,,None,TW,[],2026-03-24T07:52:44.387807Z,Add temporary NORAD ID,False,[]
 UUMY-1111-7079-2544-4340,98373.0,,OBZP1,,,alive,,2026-03-23T00:00:00Z,,,None,,[],2026-03-24T08:03:17.447637Z,https://r4uab.ru/satdb/obzp1/ - https://r4uab.ru/2026/03/23/zapushhennyj-segodnya-23-marta-2026-goda-s-kosmodroma-pleseczk-mka-obzp1-vyshel-na-svyaz/ - https://satobs.org/seesat/Mar-2026/0069.html,True,[]
 VIOO-5580-9038-4016-1832,98372.0,,KENSAT,,,future,,,,,None,MY,[],2026-03-25T20:58:50.692436Z,change status,False,[]
+YHPI-1061-5917-3399-0612,67277.0,,Object AF,2025-313AF,,alive,,2025-12-28T00:00:00Z,2025-12-28T00:00:00Z,,None,RU,[],2026-03-26T11:03:46.645294Z,https://docs.google.com/document/d/1gTxfhsYgpN_jzUrxbySskFbnlthNZ1wecJ0LmzYMhYI/edit?usp=sharing,False,[]
+PKWP-7958-4818-1008-2291,98371.0,,Black Kite-2,8U RIoT-2,,future,,2026-03-30T10:19:59Z,2026-03-30T12:40:28Z,https://rapidtek.net/en/satellite,None,TW,[],2026-03-26T11:03:15.625134Z,Add temporary NORAD ID,False,[]

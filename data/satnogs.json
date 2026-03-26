@@ -63046,5 +63046,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"YHPI-1061-5917-3399-0612",
+    "norad_cat_id":67277.0,
+    "norad_follow_id":null,
+    "name":"Object AF",
+    "names":"2025-313AF",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-12-28T00:00:00Z",
+    "deployed":"2025-12-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-26T11:03:46.645294Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1gTxfhsYgpN_jzUrxbySskFbnlthNZ1wecJ0LmzYMhYI\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PKWP-7958-4818-1008-2291",
+    "norad_cat_id":98371.0,
+    "norad_follow_id":null,
+    "name":"Black Kite-2",
+    "names":"8U RIoT-2",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-30T10:19:59Z",
+    "deployed":"2026-03-30T12:40:28Z",
+    "website":"https:\/\/rapidtek.net\/en\/satellite",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-26T11:03:15.625134Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
