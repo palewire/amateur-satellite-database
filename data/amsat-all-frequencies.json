@@ -7161,6 +7161,17 @@
     "satnogs_id":null
   },
   {
+    "name":"EMISAR",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"EMMA",
     "norad_id":"60953",
     "uplink":"145 825",
@@ -7343,6 +7354,28 @@
     "downlink":"145.960",
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"ERMIS-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"ERMIS-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -7895,6 +7928,17 @@
     "mode":"125k LoRa 9k6GMSK CW",
     "callsign":null,
     "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"FossaSat-2E",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -8613,6 +8657,17 @@
     "satnogs_id":null
   },
   {
+    "name":"GARAI-B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Gardens-01",
     "norad_id":"62298",
     "uplink":"145.825",
@@ -9105,6 +9160,17 @@
     "mode":"1200bps AFSK",
     "callsign":"KJ6KRW",
     "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"GRAVITAS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -25848,6 +25914,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"JHGM-7853-8293-9677-2181"
+  },
+  {
+    "name":"WINNEBAGO-06",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"WISeSat-5\/6\/7",

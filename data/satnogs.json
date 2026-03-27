@@ -19197,10 +19197,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -62864,7 +62864,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2025-03-30T13:20:00Z",
     "deployed":null,
     "website":"https:\/\/peaksat.spacedot.gr\/",
     "operator":"None",
@@ -62872,8 +62872,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-17T14:11:12.334111Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-27T07:11:57.181507Z",
+    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/PEAKSAT\/124545278",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63089,6 +63089,102 @@
 
     ],
     "updated":"2026-03-26T11:03:15.625134Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DJQS-0588-0767-3427-2831",
+    "norad_cat_id":98369.0,
+    "norad_follow_id":null,
+    "name":"ERMIS-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-30T13:20:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"GR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-27T07:23:01.009562Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EDMF-5886-6201-4785-7103",
+    "norad_cat_id":98370.0,
+    "norad_follow_id":null,
+    "name":"OPTISAT",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-30T13:20:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.planetek.gr\/news_events\/news_archive\/2025\/10\/tesat_delivers_to_planetek_hellas_the_first_scot20_optical_communication_terminal_for_greeces_national_satellite_space_program",
+    "operator":"None",
+    "countries":"GR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-27T07:20:15.537476Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EALZ-0780-6325-0069-2307",
+    "norad_cat_id":98368.0,
+    "norad_follow_id":null,
+    "name":"ERMIS-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-30T13:20:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"GR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-27T07:23:01.801655Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZRPV-6317-0836-0013-3209",
+    "norad_cat_id":98367.0,
+    "norad_follow_id":null,
+    "name":"ERMIS-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2025-03-30T13:20:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"GR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-27T07:23:02.627683Z",
     "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
