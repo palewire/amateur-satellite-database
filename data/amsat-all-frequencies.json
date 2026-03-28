@@ -7164,9 +7164,9 @@
     "name":"EMISAR",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.334",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GFSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -11913,7 +11913,18 @@
     "satnogs_id":null
   },
   {
-    "name":"JACK-003",
+    "name":"Jack-002",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Jack-003",
     "norad_id":"66654",
     "uplink":null,
     "downlink":"436.300",
@@ -11924,7 +11935,7 @@
     "satnogs_id":null
   },
   {
-    "name":"JACK-004",
+    "name":"Jack-004",
     "norad_id":"66659",
     "uplink":null,
     "downlink":"436.300",
@@ -23424,7 +23435,7 @@
     "uplink":"145.895-145.935",
     "downlink":"435.875-435.915\/435.895",
     "beacon":"435.860",
-    "mode":"4k8-38k4_GMSK\/4FSK SSB CW*",
+    "mode":"4k8-38k4_GMSK SSB CW*",
     "callsign":"JS1YKI",
     "status":"active",
     "satnogs_id":"BLJD-2583-9512-2426-1509"
