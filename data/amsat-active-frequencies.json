@@ -950,6 +950,26 @@
     "satnogs_id":"RBAW-0155-7922-9410-2702"
   },
   {
+    "name":"FossaSat-2E22",
+    "norad_id":"66779",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"FossaSat-2E24",
+    "norad_id":"66780",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Fox-1B",
     "norad_id":"43017",
     "uplink":"435.250",

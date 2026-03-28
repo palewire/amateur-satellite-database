@@ -6391,6 +6391,17 @@
     "satnogs_id":"UTVH-8269-9182-3451-8658"
   },
   {
+    "name":"DISCO-1",
+    "norad_id":"56222",
+    "uplink":null,
+    "downlink":"437.075",
+    "beacon":null,
+    "mode":"4k8_FSK",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":"ZOFI-4343-0704-2759-9150"
+  },
+  {
     "name":"DISCO-2",
     "norad_id":null,
     "uplink":null,
@@ -8173,6 +8184,39 @@
     "satnogs_id":"RBAW-0155-7922-9410-2702"
   },
   {
+    "name":"FossaSat-2E22",
+    "norad_id":"66779",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"FossaSat-2E23",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"FossaSat-2E24",
+    "norad_id":"66780",
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"FossaSat-FEROX 14~17",
     "norad_id":null,
     "uplink":null,
@@ -8655,6 +8699,17 @@
     "callsign":null,
     "status":"failure",
     "satnogs_id":null
+  },
+  {
+    "name":"GARAI-A",
+    "norad_id":"62635",
+    "uplink":null,
+    "downlink":"2241.000",
+    "beacon":null,
+    "mode":"400k BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"CDTY-5641-8926-6173-5010"
   },
   {
     "name":"GARAI-B",
@@ -9923,7 +9978,7 @@
   },
   {
     "name":"Hors-5",
-    "norad_id":null,
+    "norad_id":"67283",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -12827,14 +12882,14 @@
   },
   {
     "name":"Kowsar-1.5",
-    "norad_id":"67255",
+    "norad_id":"67264",
     "uplink":null,
     "downlink":"436.100",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":"KMJP-6423-8535-9361-8180"
+    "satnogs_id":"YHPF-2223-3310-4034-1636"
   },
   {
     "name":"KOYOH",
