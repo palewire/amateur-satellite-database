@@ -62870,10 +62870,12 @@
     "operator":"None",
     "countries":"GR",
     "telemetries":[
-
+      {
+        "decoder":"yamcs"
+      }
     ],
-    "updated":"2026-03-27T07:11:57.181507Z",
-    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/PEAKSAT\/124545278",
+    "updated":"2026-03-28T20:02:50.554552Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
