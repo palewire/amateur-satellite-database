@@ -46356,7 +46356,7 @@
     "image":"satellites\/AEPEX.png",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/lasp.colorado.edu\/missions\/aepex\/",
     "operator":"None",
@@ -46366,8 +46366,8 @@
         "decoder":"aepex"
       }
     ],
-    "updated":"2024-08-12T23:44:30.225498Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/314",
+    "updated":"2026-03-30T06:09:33.277838Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58572,9 +58572,9 @@
     "name":"VEGAFLY-1",
     "names":"XV5T",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-02-13T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/vsgacademy.com\/vegafly-1-radio-nghiep-du-va-ve-tinh-giao-duc.html",
     "operator":"None",
@@ -58582,8 +58582,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-04T16:17:33.973718Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:19.193859Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
       "IHPZ-6510-7381-6780-6404"
@@ -62140,18 +62140,18 @@
     "name":"PARUS-6U1",
     "names":"PARUS-T3",
     "image":"satellites\/IMG_6952.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
-    "deployed":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2026-02-13T10:41:07.485072Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:19.563706Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TZNH-3971-3016-4200-9227"
@@ -62214,9 +62214,9 @@
     "name":"Lilium-4",
     "names":"BN0YCA",
     "image":"satellites\/dds.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -62224,8 +62224,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-17T11:30:12.805768Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1085",
+    "updated":"2026-03-30T11:01:19.644438Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62357,10 +62357,10 @@
     "norad_follow_id":null,
     "name":"COSMO",
     "names":"Compact Spaceborne Magnetic Observatory",
-    "image":"",
-    "status":"future",
+    "image":"satellites\/COSMO.png",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/culair.weebly.com\/cosmo.html",
     "operator":"None",
@@ -62368,8 +62368,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-13T16:20:23.781691Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:20.029979Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62646,9 +62646,9 @@
     "name":"SAL-E",
     "names":"CP16",
     "image":"satellites\/sal-e.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/www.polysat.org\/in-development",
     "operator":"None",
@@ -62656,8 +62656,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-17T14:05:51.554733Z",
-    "citation":"Add temporary NORAD ID and launch date",
+    "updated":"2026-03-30T11:01:19.338370Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62670,9 +62670,9 @@
     "name":"DISCO-2",
     "names":"",
     "image":"satellites\/disco-2.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/discosat.dk\/v2_disco-2\/",
     "operator":"None",
@@ -62680,8 +62680,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-17T14:06:50.117255Z",
-    "citation":"Add temporary NORAD ID and launch date",
+    "updated":"2026-03-30T11:01:19.988102Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62694,9 +62694,9 @@
     "name":"HADES-SA",
     "names":"SpinnyONE",
     "image":"satellites\/HADES-SA.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat-ea.org\/",
     "operator":"None",
@@ -62704,8 +62704,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-19T05:46:40.915024Z",
-    "citation":"see launch date",
+    "updated":"2026-03-30T11:01:19.742570Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62742,9 +62742,9 @@
     "name":"T.MicroSat-2",
     "names":"",
     "image":"satellites\/t_microsat_2.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/www.tronfuture.com\/",
     "operator":"None",
@@ -62752,8 +62752,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-17T14:09:53.157891Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:19.274393Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62862,9 +62862,9 @@
     "name":"PeakSat",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-30T13:20:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/peaksat.spacedot.gr\/",
     "operator":"None",
@@ -62874,7 +62874,7 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2026-03-28T20:02:50.554552Z",
+    "updated":"2026-03-30T11:01:19.540564Z",
     "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -62936,9 +62936,9 @@
     "name":"DecimalSat-1",
     "names":"",
     "image":"satellites\/image_of_the_satellite.jpeg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/www.decimal-sat.org",
     "operator":"None",
@@ -62946,8 +62946,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-19T12:22:14.481651Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:20.009293Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62984,18 +62984,18 @@
     "name":"TORO-3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-03-29T00:00:00Z",
-    "deployed":"2026-03-29T00:00:00Z",
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2026-03-24T07:52:44.387807Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:19.253912Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63080,18 +63080,18 @@
     "name":"Black Kite-2",
     "names":"8U RIoT-2",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-03-30T10:19:59Z",
-    "deployed":"2026-03-30T12:40:28Z",
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
     "website":"https:\/\/rapidtek.net\/en\/satellite",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2026-03-26T11:03:15.625134Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:20.073354Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63104,18 +63104,18 @@
     "name":"ERMIS-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-30T13:20:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.planetek.gr\/news_events\/news_archive\/2025\/10\/tesat_delivers_to_planetek_hellas_the_first_scot20_optical_communication_terminal_for_greeces_national_satellite_space_program",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
 
     ],
-    "updated":"2026-03-27T07:23:01.009562Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:19.939130Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63128,9 +63128,9 @@
     "name":"OPTISAT",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-30T13:20:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
     "website":"https:\/\/www.planetek.gr\/news_events\/news_archive\/2025\/10\/tesat_delivers_to_planetek_hellas_the_first_scot20_optical_communication_terminal_for_greeces_national_satellite_space_program",
     "operator":"None",
@@ -63138,8 +63138,80 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-27T07:20:15.537476Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:19.586802Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FCKH-9614-3580-9388-7168",
+    "norad_cat_id":98363.0,
+    "norad_follow_id":null,
+    "name":"SHARJAH-SAT-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.317256Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DOFN-8999-9141-5844-0576",
+    "norad_cat_id":98362.0,
+    "norad_follow_id":null,
+    "name":"EMISAR",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"https:\/\/roinspace.com\/emisar\/",
+    "operator":"None",
+    "countries":"RO",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.965358Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HVML-0889-7663-7617-6830",
+    "norad_cat_id":98361.0,
+    "norad_follow_id":null,
+    "name":"GARAI-B",
+    "names":"Innosat Unamuno",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"SE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.806654Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63152,18 +63224,18 @@
     "name":"ERMIS-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-30T13:20:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.planetek.gr\/news_events\/news_archive\/2025\/10\/tesat_delivers_to_planetek_hellas_the_first_scot20_optical_communication_terminal_for_greeces_national_satellite_space_program",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
 
     ],
-    "updated":"2026-03-27T07:23:01.801655Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:19.912367Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63176,18 +63248,426 @@
     "name":"ERMIS-3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2025-03-30T13:20:00Z",
+    "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.planetek.gr\/news_events\/news_archive\/2025\/10\/tesat_delivers_to_planetek_hellas_the_first_scot20_optical_communication_terminal_for_greeces_national_satellite_space_program",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
 
     ],
-    "updated":"2026-03-27T07:23:02.627683Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-03-30T11:01:19.885883Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CMDY-9853-6744-5495-8300",
+    "norad_cat_id":98357.0,
+    "norad_follow_id":null,
+    "name":"W-Series 6",
+    "names":"WINNEBAGO-06",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.110031Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KPDC-5817-0095-1934-1619",
+    "norad_cat_id":98355.0,
+    "norad_follow_id":null,
+    "name":"GRAVITAS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.764665Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OXYP-6047-8317-6002-4754",
+    "norad_cat_id":98351.0,
+    "norad_follow_id":null,
+    "name":"FOSSASAT-2E25",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.832908Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KXEN-6599-9366-4098-3918",
+    "norad_cat_id":98365.0,
+    "norad_follow_id":null,
+    "name":"JACK-002",
+    "names":"",
+    "image":"satellites\/JACK-002.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.669960Z",
+    "citation":"change status",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IMHH-4032-1798-6391-5710",
+    "norad_cat_id":98366.0,
+    "norad_follow_id":null,
+    "name":"LUNA-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.621157Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZLVU-1189-2777-4843-4951",
+    "norad_cat_id":98364.0,
+    "norad_follow_id":null,
+    "name":"BRO-19",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:20.051323Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KBIW-3825-6217-3587-9630",
+    "norad_cat_id":98360.0,
+    "norad_follow_id":null,
+    "name":"FGN 100 D3",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.859125Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VTRE-1340-2626-3018-1989",
+    "norad_cat_id":98359.0,
+    "norad_follow_id":null,
+    "name":"VIGORIDE 7",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.173279Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ULCN-5659-0953-1472-3090",
+    "norad_cat_id":98358.0,
+    "norad_follow_id":null,
+    "name":"Spacevan-002",
+    "names":"SPACEVAN 2",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.295837Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IVCW-8630-3606-0296-9103",
+    "norad_cat_id":98356.0,
+    "norad_follow_id":null,
+    "name":"ION SCV Astounding Alexandra",
+    "names":"ION SCV-019",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.695583Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TYNO-4500-4859-9126-7748",
+    "norad_cat_id":98354.0,
+    "norad_follow_id":null,
+    "name":"GEMS2-Amethyst",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.785211Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IQBQ-2020-5200-0150-7482",
+    "norad_cat_id":98353.0,
+    "norad_follow_id":null,
+    "name":"UNICORN-2R",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.235379Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UFAL-5513-3416-2916-4283",
+    "norad_cat_id":98352.0,
+    "norad_follow_id":null,
+    "name":"UNICORN-2S",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.214167Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AOCK-4566-1105-2287-8628",
+    "norad_cat_id":98350.0,
+    "norad_follow_id":null,
+    "name":"VIREON-1",
+    "names":"CYCLOPS-1, ACC-CYCLOPS",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.154539Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PJLN-6800-6837-9138-4594",
+    "norad_cat_id":98349.0,
+    "norad_follow_id":null,
+    "name":"VIREON-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.134924Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CINC-4312-3577-0802-5588",
+    "norad_cat_id":98348.0,
+    "norad_follow_id":null,
+    "name":"Io-1",
+    "names":"ACC-IO1",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.719843Z",
+    "citation":"change status",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZLXB-4278-8724-7314-0874",
+    "norad_cat_id":98347.0,
+    "norad_follow_id":null,
+    "name":"PHOBOS",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T11:02:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-03-30T11:01:19.513120Z",
+    "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
