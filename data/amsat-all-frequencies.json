@@ -25575,6 +25575,17 @@
     "satnogs_id":"LOUD-2988-1279-3422-4649"
   },
   {
+    "name":"VegaFly-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.655",
+    "beacon":"436.655",
+    "mode":"5k_GFSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"VELOX-I",
     "norad_id":"40057",
     "uplink":null,
