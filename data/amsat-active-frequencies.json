@@ -1793,7 +1793,7 @@
     "name":"LUNA-1",
     "norad_id":"66777",
     "uplink":null,
-    "downlink":"401.775",
+    "downlink":"401.725",
     "beacon":null,
     "mode":"9k6_GMSK",
     "callsign":"LUNA02-1",
