@@ -5111,7 +5111,7 @@
     "beacon":null,
     "mode":"9k6\/19k2_GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -5419,7 +5419,7 @@
     "beacon":null,
     "mode":"9k6_GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7267,7 +7267,7 @@
     "beacon":"401.334",
     "mode":"9k6_GFSK CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7465,7 +7465,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7476,7 +7476,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7487,7 +7487,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9639,11 +9639,11 @@
     "name":"HADES-SA",
     "norad_id":null,
     "uplink":null,
-    "downlink":"437.075",
+    "downlink":"436.875",
     "beacon":null,
-    "mode":"200-1200_FSK",
+    "mode":"200\/800*\/1600_FSK SSDV",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -12342,7 +12342,7 @@
     "satnogs_id":null
   },
   {
-    "name":"JACK-001",
+    "name":"Jack-001",
     "norad_id":"64530",
     "uplink":null,
     "downlink":"436.300",
@@ -12360,7 +12360,7 @@
     "beacon":null,
     "mode":"9k6_FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -14351,7 +14351,7 @@
     "beacon":null,
     "mode":"9k6_GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -17299,7 +17299,7 @@
     "beacon":null,
     "mode":"1k2_AFSK 9k6_GMSK FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -17310,7 +17310,7 @@
     "beacon":null,
     "mode":"1k2_AFSK 9k6_GMSK FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -20104,7 +20104,7 @@
     "beacon":null,
     "mode":"9k6_GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -24845,7 +24845,7 @@
     "beacon":null,
     "mode":"4k8_GFSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -26275,7 +26275,7 @@
     "beacon":"436.655",
     "mode":"5k_GFSK CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

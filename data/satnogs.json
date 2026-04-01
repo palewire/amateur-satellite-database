@@ -51826,7 +51826,7 @@
   },
   {
     "sat_id":"KRMS-8197-7538-8237-8188",
-    "norad_cat_id":98683.0,
+    "norad_cat_id":62686.0,
     "norad_follow_id":null,
     "name":"FOSSASAT-2E18",
     "names":"",
@@ -51841,11 +51841,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-01-14T18:49:15.047561Z",
-    "citation":"Change Status",
+    "updated":"2026-04-01T06:48:44.269774Z",
+    "citation":"https:\/\/tinygs.com\/satellite\/FossaSat-2E18",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "PMZA-0277-9405-5961-5895"
     ]
   },
   {
@@ -62984,7 +62984,7 @@
     "norad_cat_id":98374.0,
     "norad_follow_id":null,
     "name":"TORO-3",
-    "names":"",
+    "names":"PYRAS3",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -62996,8 +62996,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.253912Z",
-    "citation":"change status",
+    "updated":"2026-04-01T10:26:37.205205Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 

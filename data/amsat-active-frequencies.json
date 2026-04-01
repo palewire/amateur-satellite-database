@@ -570,6 +570,16 @@
     "satnogs_id":"PBKS-8836-3208-9942-5973"
   },
   {
+    "name":"COSMO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.200\/2220.000",
+    "beacon":null,
+    "mode":"9k6\/19k2_GFSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"CO-55",
     "norad_id":"27844",
     "uplink":null,
@@ -618,6 +628,16 @@
     "mode":"1k2AFSK CW* DigiTalker",
     "callsign":"JQ1YGU",
     "satnogs_id":"WLHF-1710-4037-0881-2319"
+  },
+  {
+    "name":"CP-16",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.965",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"CSTP-1.1",
@@ -838,6 +858,46 @@
     "mode":"4k8*\/9k6 GMSK",
     "callsign":"DP1GOS",
     "satnogs_id":"QTXY-8933-7836-7484-6250"
+  },
+  {
+    "name":"EMISAR",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.334",
+    "beacon":"401.334",
+    "mode":"9k6_GFSK CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"ERMIS-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.238\/2218.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"ERMIS-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.238\/2218.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"ERMIS-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.312\/2218.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"Flamingo-1",
@@ -1220,6 +1280,16 @@
     "satnogs_id":"TPAP-4475-7915-0965-4305"
   },
   {
+    "name":"HADES-SA",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.875",
+    "beacon":null,
+    "mode":"200\/800*\/1600_FSK SSDV",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"HA-1",
     "norad_id":"43156",
     "uplink":"145.930",
@@ -1520,6 +1590,16 @@
     "satnogs_id":"FMZT-1887-7286-8009-2095"
   },
   {
+    "name":"Jack-002",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.300",
+    "beacon":null,
+    "mode":"9k6_FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Jack-003",
     "norad_id":"66654",
     "uplink":null,
@@ -1800,6 +1880,16 @@
     "satnogs_id":null
   },
   {
+    "name":"LUNA-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.725",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"MCubed-2",
     "norad_id":"39472",
     "uplink":null,
@@ -2070,6 +2160,26 @@
     "satnogs_id":"VNWS-4720-9290-9692-1890"
   },
   {
+    "name":"PARUS-T3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825\/437.195\/2402.000",
+    "beacon":null,
+    "mode":"1k2_AFSK 9k6_GMSK FM",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"PARUS-6U1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825\/437.195\/2402.000",
+    "beacon":null,
+    "mode":"1k2_AFSK 9k6_GMSK FM",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"PCSAT-1",
     "norad_id":"26931",
     "uplink":"145.827",
@@ -2198,6 +2308,16 @@
     "mode":"2k4\/9k6*GMSK_USP SSTV",
     "callsign":"RS18S",
     "satnogs_id":"CPWN-2484-4785-1722-0154"
+  },
+  {
+    "name":"SAL-E",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.965",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"SARAL",
@@ -3100,6 +3220,16 @@
     "satnogs_id":"XCTT-8747-8578-2256-0351"
   },
   {
+    "name":"TORO-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.580",
+    "beacon":null,
+    "mode":"4k8_GFSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"TUSUR-GO",
     "norad_id":"61782",
     "uplink":null,
@@ -3188,6 +3318,16 @@
     "mode":"9600bps FSK Digipeater",
     "callsign":"DP0UWH",
     "satnogs_id":"WDIT-2736-3800-1720-7555"
+  },
+  {
+    "name":"VegaFly-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.655",
+    "beacon":"436.655",
+    "mode":"5k_GFSK CW",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"VELOX-III",
