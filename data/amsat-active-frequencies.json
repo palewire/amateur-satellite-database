@@ -310,6 +310,16 @@
     "satnogs_id":"ENLC-4952-6681-1812-8294"
   },
   {
+    "name":"BRO-19",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4k8_FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-2",
     "norad_id":"57175",
     "uplink":"436.200",
@@ -873,9 +883,9 @@
     "name":"ERMIS-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.238\/2218.000",
+    "downlink":"401.550\/2218.000",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps FSK",
     "callsign":null,
     "satnogs_id":null
   },
@@ -883,9 +893,9 @@
     "name":"ERMIS-2",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.238\/2218.000",
+    "downlink":"401.250\/2218.000",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps FSK",
     "callsign":null,
     "satnogs_id":null
   },
@@ -893,9 +903,9 @@
     "name":"ERMIS-3",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.312\/2218.000",
+    "downlink":"401.313\/2218.000",
     "beacon":null,
-    "mode":null,
+    "mode":"9600bps FSK",
     "callsign":null,
     "satnogs_id":null
   },
@@ -2120,6 +2130,16 @@
     "satnogs_id":null
   },
   {
+    "name":"OptiSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.360\/2275.000",
+    "beacon":null,
+    "mode":"4k8_GMSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"ORARI",
     "norad_id":"40931",
     "uplink":"145.825\/145.880",
@@ -2163,9 +2183,9 @@
     "name":"PARUS-T3",
     "norad_id":null,
     "uplink":null,
-    "downlink":"145.825\/437.195\/2402.000",
+    "downlink":"145.825\/437.195*\/2402.000",
     "beacon":null,
-    "mode":"1k2_AFSK 9k6_GMSK FM",
+    "mode":"1k2_AFSK 9k6*GMSK FM",
     "callsign":null,
     "satnogs_id":null
   },
@@ -2173,9 +2193,9 @@
     "name":"PARUS-6U1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"145.825\/437.195\/2402.000",
+    "downlink":"145.825\/437.195*\/2402.000",
     "beacon":null,
-    "mode":"1k2_AFSK 9k6_GMSK FM",
+    "mode":"1k2_AFSK 9k6*GMSK FM",
     "callsign":null,
     "satnogs_id":null
   },
