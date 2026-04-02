@@ -18947,12 +18947,12 @@
     "deployed":null,
     "website":"https:\/\/www.nanosats.eu\/sat\/unicorn-2",
     "operator":"None",
-    "countries":"GB",
+    "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2023-06-01T15:00:01.494758Z",
-    "citation":"https:\/\/www.nanosats.eu\/sat\/unicorn-2",
+    "updated":"2026-04-01T12:35:15.077950Z",
+    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/UNICORN-2\/120545065",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63799,7 +63799,7 @@
     "sat_id":"JHSD-4460-0775-9291-8015",
     "norad_cat_id":98339.0,
     "norad_follow_id":null,
-    "name":"Unknown 8- T16",
+    "name":"Unknown 8 - T16",
     "names":"",
     "image":"",
     "status":"alive",
@@ -63812,8 +63812,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T15:15:25.266079Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
+    "updated":"2026-04-01T13:48:54.241754Z",
+    "citation":"Fix name",
     "is_frequency_violator":false,
     "associated_satellites":[
 
