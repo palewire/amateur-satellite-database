@@ -60394,7 +60394,7 @@
     ],
     "updated":"2026-01-09T00:36:24.410745Z",
     "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2025-12-28-1305-utc\/14152\/109",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -62138,7 +62138,7 @@
     "norad_cat_id":98392.0,
     "norad_follow_id":null,
     "name":"PARUS-6U1",
-    "names":"PARUS-T3, PARUS-TX",
+    "names":"PARUS-T3, PARUS-TX,BN0TIT",
     "image":"satellites\/IMG_6952.jpg",
     "status":"alive",
     "decayed":null,
@@ -62150,8 +62150,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-31T15:18:43.588979Z",
-    "citation":"celestrak.org",
+    "updated":"2026-04-02T13:14:58.484425Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/formal_detail.php?serialnum=1053",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TZNH-3971-3016-4200-9227"
@@ -62370,8 +62370,8 @@
         "decoder":"cosmo"
       }
     ],
-    "updated":"2026-03-30T11:01:20.029979Z",
-    "citation":"change status",
+    "updated":"2026-04-02T15:44:50.476533Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/bfhvxrnomp91ca",
     "is_frequency_violator":false,
     "associated_satellites":[
 
