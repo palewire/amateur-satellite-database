@@ -63144,7 +63144,7 @@
     "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "JURX-2848-0958-8835-6382"
     ]
   },
   {
@@ -63504,7 +63504,7 @@
     "citation":"change status",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "QFKT-2095-2709-8661-8916"
     ]
   },
   {
@@ -63724,30 +63724,6 @@
     ]
   },
   {
-    "sat_id":"JURX-2848-0958-8835-6382",
-    "norad_cat_id":98343.0,
-    "norad_follow_id":null,
-    "name":"Unknown 4 - T16",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2026-03-30T11:02:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2026-03-30T15:15:25.325859Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"PQIC-5350-5330-2154-4837",
     "norad_cat_id":98342.0,
     "norad_follow_id":null,
@@ -63765,30 +63741,6 @@
 
     ],
     "updated":"2026-03-30T15:15:25.311454Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"QFKT-2095-2709-8661-8916",
-    "norad_cat_id":98341.0,
-    "norad_follow_id":null,
-    "name":"Unknown 6 - T16",
-    "names":"",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2026-03-30T11:02:00Z",
-    "deployed":null,
-    "website":"",
-    "operator":"None",
-    "countries":"",
-    "telemetries":[
-
-    ],
-    "updated":"2026-03-30T15:15:25.297377Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
     "is_frequency_violator":false,
     "associated_satellites":[
