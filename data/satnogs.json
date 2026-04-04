@@ -63751,8 +63751,8 @@
     "sat_id":"JHSD-4460-0775-9291-8015",
     "norad_cat_id":98339.0,
     "norad_follow_id":null,
-    "name":"Unknown 8 - T16",
-    "names":"",
+    "name":"Out of the Box",
+    "names":"SPCLKR",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -63764,8 +63764,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-01T13:48:54.241754Z",
-    "citation":"Fix name",
+    "updated":"2026-04-03T15:12:13.982503Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/109",
     "is_frequency_violator":false,
     "associated_satellites":[
 

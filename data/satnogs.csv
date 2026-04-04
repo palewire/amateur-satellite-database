@@ -2636,4 +2636,4 @@ ZLXB-4278-8724-7314-0874,98347.0,,PHOBOS,,,alive,,2026-03-30T11:02:00Z,,,None,,[
 JIKH-1381-0513-1618-0623,98346.0,,Unknown 1 - T16,,,alive,,2026-03-30T11:02:00Z,,,None,,[],2026-03-30T13:00:32.975507Z,"Network observation, signal at 401.350 MHz https://network.satnogs.org/observations/13695254/",False,[]
 YVKK-2488-2529-6572-3278,98345.0,,Unknown 2 - T16,,,alive,,2026-03-30T11:02:00Z,,,None,,[],2026-03-30T13:01:20.440672Z,strf observation of PE0SAT - https://community.libre.space/t/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc/14456/25,False,[]
 PQIC-5350-5330-2154-4837,98342.0,,Unknown 5 - T16,,,alive,,2026-03-30T11:02:00Z,,,None,,[],2026-03-30T15:15:25.311454Z,https://www.spacex.com/launches/transporter-16,False,[]
-JHSD-4460-0775-9291-8015,98339.0,,Unknown 8 - T16,,,alive,,2026-03-30T11:02:00Z,,,None,,[],2026-04-01T13:48:54.241754Z,Fix name,False,[]
+JHSD-4460-0775-9291-8015,98339.0,,Out of the Box,SPCLKR,,alive,,2026-03-30T11:02:00Z,,,None,,[],2026-04-03T15:12:13.982503Z,https://community.libre.space/t/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc/14456/109,False,[]

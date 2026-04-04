@@ -5110,7 +5110,7 @@
     "downlink":"401.200\/2220.000",
     "beacon":null,
     "mode":"9k6\/19k2_GFSK",
-    "callsign":null,
+    "callsign":"COSMO",
     "status":"active",
     "satnogs_id":null
   },
@@ -7431,7 +7431,7 @@
     "downlink":"435.900",
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
-    "callsign":null,
+    "callsign":"DP0PQA",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -7442,7 +7442,7 @@
     "downlink":"145.920",
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
-    "callsign":null,
+    "callsign":"DP0PQB",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -7453,7 +7453,7 @@
     "downlink":"145.960",
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
-    "callsign":null,
+    "callsign":"DP0PQC",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -24844,7 +24844,7 @@
     "downlink":"401.580",
     "beacon":null,
     "mode":"4k8_GFSK",
-    "callsign":null,
+    "callsign":"PYRAC3",
     "status":"active",
     "satnogs_id":null
   },
@@ -26273,9 +26273,9 @@
     "uplink":null,
     "downlink":"436.655",
     "beacon":"436.655",
-    "mode":"5k_GFSK CW",
+    "mode":"500bps_GFSK CW",
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":null
   },
   {

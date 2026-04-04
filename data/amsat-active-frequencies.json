@@ -586,7 +586,7 @@
     "downlink":"401.200\/2220.000",
     "beacon":null,
     "mode":"9k6\/19k2_GFSK",
-    "callsign":null,
+    "callsign":"COSMO",
     "satnogs_id":null
   },
   {
@@ -3246,7 +3246,7 @@
     "downlink":"401.580",
     "beacon":null,
     "mode":"4k8_GFSK",
-    "callsign":null,
+    "callsign":"PYRAC3",
     "satnogs_id":null
   },
   {
@@ -3338,16 +3338,6 @@
     "mode":"9600bps FSK Digipeater",
     "callsign":"DP0UWH",
     "satnogs_id":"WDIT-2736-3800-1720-7555"
-  },
-  {
-    "name":"VegaFly-1",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"436.655",
-    "beacon":"436.655",
-    "mode":"5k_GFSK CW",
-    "callsign":null,
-    "satnogs_id":null
   },
   {
     "name":"VELOX-III",
