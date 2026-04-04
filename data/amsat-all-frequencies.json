@@ -25306,7 +25306,7 @@
     "downlink":"401.025",
     "beacon":null,
     "mode":"9k6_GFSK",
-    "callsign":"TRON1",
+    "callsign":"TRON 1",
     "status":"active",
     "satnogs_id":null
   },
@@ -25317,8 +25317,8 @@
     "downlink":"401.025\/2220.000",
     "beacon":null,
     "mode":"9k6_GFSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"TRON 2",
+    "status":"active",
     "satnogs_id":null
   },
   {

@@ -3266,7 +3266,17 @@
     "downlink":"401.025",
     "beacon":null,
     "mode":"9k6_GFSK",
-    "callsign":"TRON1",
+    "callsign":"TRON 1",
+    "satnogs_id":null
+  },
+  {
+    "name":"T_MicroSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.025\/2220.000",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":"TRON 2",
     "satnogs_id":null
   },
   {
