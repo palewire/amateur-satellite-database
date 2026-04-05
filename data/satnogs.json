@@ -63770,5 +63770,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GLFY-8231-7125-4883-6529",
+    "norad_cat_id":98338.0,
+    "norad_follow_id":null,
+    "name":"CANVAS",
+    "names":"",
+    "image":"satellites\/CANVAS_logo.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-04-07T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/culair.weebly.com\/canvas.html",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-05T07:28:58.967820Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

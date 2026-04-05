@@ -1605,8 +1605,8 @@
     "uplink":null,
     "downlink":"436.300",
     "beacon":null,
-    "mode":"9k6_FSK",
-    "callsign":null,
+    "mode":"9600bps GFSK",
+    "callsign":"DS35",
     "satnogs_id":null
   },
   {
@@ -1896,7 +1896,7 @@
     "downlink":"401.725",
     "beacon":null,
     "mode":"9k6_GMSK",
-    "callsign":null,
+    "callsign":"LUNA01-1",
     "satnogs_id":null
   },
   {

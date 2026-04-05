@@ -3556,9 +3556,9 @@
     "name":"CANVAS",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"437.250\/2405.300",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GMSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -12358,8 +12358,8 @@
     "uplink":null,
     "downlink":"436.300",
     "beacon":null,
-    "mode":"9k6_FSK",
-    "callsign":null,
+    "mode":"9600bps GFSK",
+    "callsign":"DS35",
     "status":"active",
     "satnogs_id":null
   },
@@ -14350,7 +14350,7 @@
     "downlink":"401.725",
     "beacon":null,
     "mode":"9k6_GMSK",
-    "callsign":null,
+    "callsign":"LUNA01-1",
     "status":"active",
     "satnogs_id":null
   },
@@ -15321,6 +15321,28 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"PDTE-7914-8172-6131-7029"
+  },
+  {
+    "name":"MR-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"MR-2",
+    "norad_id":"67556",
+    "uplink":null,
+    "downlink":"2249.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"MTCube-1",
