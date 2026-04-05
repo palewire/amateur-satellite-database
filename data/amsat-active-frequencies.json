@@ -646,7 +646,7 @@
     "downlink":"436.965",
     "beacon":null,
     "mode":"9k6_GFSK",
-    "callsign":null,
+    "callsign":"KK6HIT-6",
     "satnogs_id":null
   },
   {
@@ -2170,6 +2170,16 @@
     "satnogs_id":"XBMS-1269-7435-8541-4310"
   },
   {
+    "name":"Out of the Box",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"402.360",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":"SPCLKR",
+    "satnogs_id":null
+  },
+  {
     "name":"PADRE",
     "norad_id":"64559",
     "uplink":null,
@@ -2336,7 +2346,7 @@
     "downlink":"436.965",
     "beacon":null,
     "mode":"9k6_GFSK",
-    "callsign":null,
+    "callsign":"KK6HIT-6",
     "satnogs_id":null
   },
   {
