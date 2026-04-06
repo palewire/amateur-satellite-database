@@ -62651,15 +62651,15 @@
     "status":"alive",
     "decayed":null,
     "launched":"2026-03-30T11:02:00Z",
-    "deployed":null,
-    "website":"https:\/\/www.polysat.org\/in-development",
+    "deployed":"2026-03-30T11:57:51Z",
+    "website":"https:\/\/www.polysat.org\/launched",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.338370Z",
-    "citation":"change status",
+    "updated":"2026-04-06T09:19:58.648146Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter16, https:\/\/www.polysat.org\/launched",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63790,6 +63790,30 @@
     ],
     "updated":"2026-04-05T07:28:58.967820Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HXZR-8098-5750-3828-2210",
+    "norad_cat_id":65320.0,
+    "norad_follow_id":null,
+    "name":"FFLU-1",
+    "names":"2025-188F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-08-26T00:00:00Z",
+    "deployed":"2025-08-26T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-06T09:12:18.205442Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Tdrp8Qz5J_MCBHu4ngBeGpMSFXC0eKUq5sP7Fa_h47g\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

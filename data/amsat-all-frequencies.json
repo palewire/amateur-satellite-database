@@ -1716,6 +1716,17 @@
     "satnogs_id":"RHUX-5355-9162-3098-2723"
   },
   {
+    "name":"ARQSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"ARTSAT1-INVADER",
     "norad_id":"39577",
     "uplink":null,
@@ -7813,7 +7824,7 @@
     "name":"FEMTO-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"400.500",
     "beacon":null,
     "mode":null,
     "callsign":null,
