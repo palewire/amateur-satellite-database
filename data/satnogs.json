@@ -10358,7 +10358,7 @@
     ],
     "updated":"2022-08-01T17:59:00.602856Z",
     "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
       "NFQU-3521-4316-6654-7962"
     ]
