@@ -63778,9 +63778,9 @@
     "name":"CANVAS",
     "names":"",
     "image":"satellites\/CANVAS_logo.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-04-07T00:00:00Z",
+    "launched":"2026-04-07T11:30:00Z",
     "deployed":null,
     "website":"https:\/\/culair.weebly.com\/canvas.html",
     "operator":"None",
@@ -63788,8 +63788,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-05T07:28:58.967820Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-04-07T11:27:21.678285Z",
+    "citation":"Status change",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63814,6 +63814,150 @@
     ],
     "updated":"2026-04-06T09:12:18.205442Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1Tdrp8Qz5J_MCBHu4ngBeGpMSFXC0eKUq5sP7Fa_h47g\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KLUM-1517-7093-9462-6781",
+    "norad_cat_id":67756.0,
+    "norad_follow_id":null,
+    "name":"Elektro-L 5",
+    "names":"Elektro-L n\u00b05, Elektro-L N5, Elektro-L No.5",
+    "image":"satellites\/elektro5.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-02-12T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/electro.ntsomz.ru\/en",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-07T05:08:27.050466Z",
+    "citation":"https:\/\/nextspaceflight.com\/launches\/details\/5119\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QJKE-6892-9140-6393-8425",
+    "norad_cat_id":98337.0,
+    "norad_follow_id":null,
+    "name":"MAMBO",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-04-07T11:30:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-07T11:27:21.772699Z",
+    "citation":"Status change",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IFNK-1856-9308-4782-8970",
+    "norad_cat_id":98336.0,
+    "norad_follow_id":null,
+    "name":"ASTRA-HyRAX",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-04-07T11:30:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-07T11:27:21.806814Z",
+    "citation":"Status change",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BTYR-1308-4553-0413-3105",
+    "norad_cat_id":98335.0,
+    "norad_follow_id":null,
+    "name":"MOCI",
+    "names":"Mapping Ocean Color Imager",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-04-07T11:30:00Z",
+    "deployed":null,
+    "website":"https:\/\/smallsat.uga.edu\/missions",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-07T11:27:21.634523Z",
+    "citation":"Status change",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RKPZ-9323-1181-1071-3446",
+    "norad_cat_id":98334.0,
+    "norad_follow_id":null,
+    "name":"USNA-16",
+    "names":"PSAT3, PSAT-3",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-04-07T11:30:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-07T11:27:21.707674Z",
+    "citation":"Status change",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FIMD-7515-9793-3665-0791",
+    "norad_cat_id":98333.0,
+    "norad_follow_id":null,
+    "name":"INCA-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-04-07T11:30:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-07T11:27:21.736325Z",
+    "citation":"Status change",
     "is_frequency_violator":false,
     "associated_satellites":[
 

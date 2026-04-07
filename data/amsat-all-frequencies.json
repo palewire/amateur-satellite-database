@@ -7179,7 +7179,7 @@
     "beacon":null,
     "mode":"FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"weather sat",
     "satnogs_id":"TFCO-6065-7327-3798-1948"
   },
   {
@@ -7190,7 +7190,7 @@
     "beacon":null,
     "mode":"FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"weather sat",
     "satnogs_id":"KKUD-0899-6953-1494-1490"
   },
   {
@@ -7201,7 +7201,7 @@
     "beacon":null,
     "mode":"BPSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"weather sat",
     "satnogs_id":"BTEP-5467-6423-3488-4155"
   },
   {
@@ -7212,19 +7212,19 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unknown",
+    "status":"weather sat",
     "satnogs_id":null
   },
   {
     "name":"Elektro-L5",
-    "norad_id":null,
+    "norad_id":"67756",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
-    "satnogs_id":null
+    "status":"weather sat",
+    "satnogs_id":"KLUM-1517-7093-9462-6781"
   },
   {
     "name":"Elevation-1",
