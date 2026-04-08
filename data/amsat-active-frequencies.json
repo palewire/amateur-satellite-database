@@ -330,6 +330,16 @@
     "satnogs_id":"PIHV-8715-3112-5892-6258"
   },
   {
+    "name":"CANVAS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.250\/2405.300",
+    "beacon":null,
+    "mode":"1k2AFSK 9k6*GMSK",
+    "callsign":"LASP",
+    "satnogs_id":null
+  },
+  {
     "name":"CAS-1",
     "norad_id":"36122",
     "uplink":null,
@@ -1518,6 +1528,16 @@
     "mode":"1200bps FSK",
     "callsign":null,
     "satnogs_id":"EZAU-8235-2008-4656-9477"
+  },
+  {
+    "name":"ION-SCV-019",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.414\/2247.500",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"IO-86",

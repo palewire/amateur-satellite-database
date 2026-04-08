@@ -1794,7 +1794,7 @@
   },
   {
     "name":"ASTRA-HyRAX",
-    "norad_id":null,
+    "norad_id":"68631",
     "uplink":null,
     "downlink":"401.475",
     "beacon":null,
@@ -3492,9 +3492,9 @@
     "uplink":null,
     "downlink":"437.250\/2405.300",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"9k6_gmsk",
+    "mode":"1k2AFSK 9k6*GMSK",
+    "callsign":"LASP",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -3573,17 +3573,6 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"NNNU-2927-1621-5351-4273"
-  },
-  {
-    "name":"CANVAS",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"437.250\/2405.300",
-    "beacon":null,
-    "mode":"9k6_GMSK",
-    "callsign":null,
-    "status":"to be launched",
-    "satnogs_id":null
   },
   {
     "name":"Canyval-X 1\/2",
@@ -11539,17 +11528,6 @@
     "satnogs_id":null
   },
   {
-    "name":"ION-SCV-Astounding-Alexandra",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"2247.000",
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
-  },
-  {
     "name":"ION-MK01",
     "norad_id":"46274",
     "uplink":null,
@@ -11746,6 +11724,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"MJWC-6105-7146-5103-2066"
+  },
+  {
+    "name":"ION-SCV-019",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.414\/2247.500",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"ION-SCV-020",

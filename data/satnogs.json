@@ -58062,7 +58062,7 @@
   {
     "sat_id":"BMYD-8328-6159-7072-4807",
     "norad_cat_id":98527.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66741.0,
     "name":"Black Kite-1",
     "names":"8U RIoT-1",
     "image":"",
@@ -58076,8 +58076,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-01-08T14:15:23.771220Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/231",
+    "updated":"2026-04-08T07:05:48.240515Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63774,7 +63774,7 @@
   {
     "sat_id":"GLFY-8231-7125-4883-6529",
     "norad_cat_id":98338.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68630.0,
     "name":"CANVAS",
     "names":"",
     "image":"satellites\/CANVAS_logo.png",
@@ -63790,8 +63790,8 @@
         "decoder":"canvas"
       }
     ],
-    "updated":"2026-04-07T16:37:45.331280Z",
-    "citation":"Add CANVAS dashboard URL",
+    "updated":"2026-04-08T08:31:19.710326Z",
+    "citation":"https:\/\/community.libre.space\/t\/minotaur-iv-stp-s29a-2026-04-07-11-30-utc\/14583\/28",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63848,7 +63848,7 @@
   {
     "sat_id":"QJKE-6892-9140-6393-8425",
     "norad_cat_id":98337.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68629.0,
     "name":"Unknown 1 - MinoTaur IV",
     "names":"",
     "image":"",
@@ -63862,8 +63862,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-07T21:55:59.101016Z",
-    "citation":"Mambo not in this launch - https:\/\/www.ssc.spaceforce.mil\/Newsroom\/Article-Display\/Article\/4453711\/us-space-force-launches-dow-stp-s29a-mission-delivers-experimental-and-research, change entry to unknown satellite",
+    "updated":"2026-04-08T08:31:19.736033Z",
+    "citation":"https:\/\/community.libre.space\/t\/minotaur-iv-stp-s29a-2026-04-07-11-30-utc\/14583\/29",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63872,7 +63872,7 @@
   {
     "sat_id":"IFNK-1856-9308-4782-8970",
     "norad_cat_id":98336.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68631.0,
     "name":"ASTRA-HyRAX",
     "names":"",
     "image":"",
@@ -63886,8 +63886,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-07T11:27:21.806814Z",
-    "citation":"Status change",
+    "updated":"2026-04-08T08:31:19.689267Z",
+    "citation":"https:\/\/community.libre.space\/t\/minotaur-iv-stp-s29a-2026-04-07-11-30-utc\/14583\/29",
     "is_frequency_violator":false,
     "associated_satellites":[
 
