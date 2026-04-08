@@ -1793,6 +1793,17 @@
     "satnogs_id":"REOO-2119-3738-4964-1579"
   },
   {
+    "name":"ASTRA-HyRAX",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.475",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"AstroBio",
     "norad_id":"53107",
     "uplink":"435.600",
@@ -3479,11 +3490,11 @@
     "name":"CANVAS",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"437.250\/2405.300",
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"9k6_gmsk",
     "satnogs_id":null
   },
   {
@@ -11315,7 +11326,7 @@
     "beacon":null,
     "mode":"9k6_GMSK Digipeater",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -14465,6 +14476,17 @@
     "satnogs_id":"VKWC-1448-9260-6742-1799"
   },
   {
+    "name":"MAMBO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500\/2245.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"MANGO-2A",
     "norad_id":"58336",
     "uplink":null,
@@ -15044,7 +15066,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -15099,7 +15121,7 @@
     "beacon":null,
     "mode":"9k6_GMSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -18542,7 +18564,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -26143,7 +26165,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {

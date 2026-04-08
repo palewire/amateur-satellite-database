@@ -63786,10 +63786,12 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"canvas"
+      }
     ],
-    "updated":"2026-04-07T11:27:21.678285Z",
-    "citation":"Status change",
+    "updated":"2026-04-07T16:37:45.331280Z",
+    "citation":"Add CANVAS dashboard URL",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63799,7 +63801,7 @@
     "sat_id":"HXZR-8098-5750-3828-2210",
     "norad_cat_id":65320.0,
     "norad_follow_id":null,
-    "name":"FFLU-1",
+    "name":"FFLY-1",
     "names":"2025-188F",
     "image":"",
     "status":"alive",
@@ -63812,8 +63814,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-06T09:12:18.205442Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1Tdrp8Qz5J_MCBHu4ngBeGpMSFXC0eKUq5sP7Fa_h47g\/edit?usp=sharing",
+    "updated":"2026-04-07T16:15:04.996342Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Tdrp8Qz5J_MCBHu4ngBeGpMSFXC0eKUq5sP7Fa_h47g\/edit?usp=sharing typo in name, FFLU instead of FFLY",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63847,7 +63849,7 @@
     "sat_id":"QJKE-6892-9140-6393-8425",
     "norad_cat_id":98337.0,
     "norad_follow_id":null,
-    "name":"MAMBO",
+    "name":"Unknown 1 - MinoTaur IV",
     "names":"",
     "image":"",
     "status":"alive",
@@ -63860,8 +63862,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-07T11:27:21.772699Z",
-    "citation":"Status change",
+    "updated":"2026-04-07T21:55:59.101016Z",
+    "citation":"Mambo not in this launch - https:\/\/www.ssc.spaceforce.mil\/Newsroom\/Article-Display\/Article\/4453711\/us-space-force-launches-dow-stp-s29a-mission-delivers-experimental-and-research, change entry to unknown satellite",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63897,19 +63899,19 @@
     "norad_follow_id":null,
     "name":"MOCI",
     "names":"Mapping Ocean Color Imager",
-    "image":"",
-    "status":"alive",
+    "image":"satellites\/MOCI_Patchv3.png",
+    "status":"future",
     "decayed":null,
-    "launched":"2026-04-07T11:30:00Z",
+    "launched":null,
     "deployed":null,
     "website":"https:\/\/smallsat.uga.edu\/missions",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2026-04-07T11:27:21.634523Z",
-    "citation":"Status change",
+    "updated":"2026-04-07T21:54:46.983746Z",
+    "citation":"Not in the launch - https:\/\/www.ssc.spaceforce.mil\/Newsroom\/Article-Display\/Article\/4453711\/us-space-force-launches-dow-stp-s29a-mission-delivers-experimental-and-research",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63922,9 +63924,9 @@
     "name":"USNA-16",
     "names":"PSAT3, PSAT-3",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
-    "launched":"2026-04-07T11:30:00Z",
+    "launched":null,
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -63932,8 +63934,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-07T11:27:21.707674Z",
-    "citation":"Status change",
+    "updated":"2026-04-07T21:54:24.787878Z",
+    "citation":"Not in the launch - https:\/\/www.ssc.spaceforce.mil\/Newsroom\/Article-Display\/Article\/4453711\/us-space-force-launches-dow-stp-s29a-mission-delivers-experimental-and-research",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63948,7 +63950,7 @@
     "image":"",
     "status":"alive",
     "decayed":null,
-    "launched":"2026-04-07T11:30:00Z",
+    "launched":null,
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -63956,8 +63958,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-07T11:27:21.736325Z",
-    "citation":"Status change",
+    "updated":"2026-04-07T21:54:00.360187Z",
+    "citation":"Not in the launch - https:\/\/www.ssc.spaceforce.mil\/Newsroom\/Article-Display\/Article\/4453711\/us-space-force-launches-dow-stp-s29a-mission-delivers-experimental-and-research",
     "is_frequency_violator":false,
     "associated_satellites":[
 
