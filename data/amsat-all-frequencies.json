@@ -429,6 +429,17 @@
     "satnogs_id":"YHMC-8015-3517-5780-3458"
   },
   {
+    "name":"AggieSat-6",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"AHMAT-1",
     "norad_id":"57206",
     "uplink":null,
@@ -19283,6 +19294,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Rawhide",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Reaktor Hello World",
     "norad_id":"43743",
     "uplink":null,
@@ -23043,6 +23065,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"HZZT-8310-6183-6672-9088"
+  },
+  {
+    "name":"STPSat-7",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"STRaND-1",
