@@ -63679,21 +63679,21 @@
     "sat_id":"JIKH-1381-0513-1618-0623",
     "norad_cat_id":98346.0,
     "norad_follow_id":null,
-    "name":"Unknown 1 - T16",
-    "names":"",
+    "name":"ARQSAT-1",
+    "names":"FEMTO-1",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2026-03-30T11:02:00Z",
-    "deployed":null,
+    "deployed":"2026-03-30T11:02:00Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"ES",
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T13:00:32.975507Z",
-    "citation":"Network observation, signal at 401.350 MHz https:\/\/network.satnogs.org\/observations\/13695254\/",
+    "updated":"2026-04-08T17:12:05.973007Z",
+    "citation":"Operator",
     "is_frequency_violator":false,
     "associated_satellites":[
 

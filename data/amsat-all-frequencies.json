@@ -14432,7 +14432,18 @@
     "satnogs_id":null
   },
   {
-    "name":"MAGNARO-II",
+    "name":"MAGNARO-II-Piscis",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.850\/436.325",
+    "beacon":"436.325",
+    "mode":"1k2AFSK 9k6GMSK 19k2GMSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"MAGNARO-II-Tigris",
     "norad_id":null,
     "uplink":null,
     "downlink":"145.850\/436.325",
