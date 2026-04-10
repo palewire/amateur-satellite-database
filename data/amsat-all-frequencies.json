@@ -14300,6 +14300,17 @@
     "satnogs_id":null
   },
   {
+    "name":"LPNTSAT-002",
+    "norad_id":"68409",
+    "uplink":null,
+    "downlink":"2221.950",
+    "beacon":null,
+    "mode":"64k_BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"INAD-2846-8489-6500-9311"
+  },
+  {
     "name":"LQSat",
     "norad_id":"40958",
     "uplink":null,

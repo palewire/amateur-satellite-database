@@ -63964,5 +63964,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"INAD-2846-8489-6500-9311",
+    "norad_cat_id":68409.0,
+    "norad_follow_id":null,
+    "name":"LPNTSAT-002",
+    "names":"Celeste IOD-2",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-28T00:00:00Z",
+    "deployed":"2026-03-28T00:00:00Z",
+    "website":"https:\/\/www.esa.int\/Applications\/Satellite_navigation\/Celeste",
+    "operator":"ESA",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-09T13:19:41.464523Z",
+    "citation":"Fix NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
