@@ -63129,7 +63129,7 @@
     "norad_follow_id":null,
     "name":"OPTISAT",
     "names":"",
-    "image":"",
+    "image":"satellites\/Optisat_2-1024x768.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":"2026-03-30T11:02:00Z",
@@ -63140,8 +63140,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.586802Z",
-    "citation":"change status",
+    "updated":"2026-04-10T08:09:00.500846Z",
+    "citation":"https:\/\/connectivity.esa.int\/archives\/news\/greeces-advanced-laser-satellite-communications-test-campaign-to-launch-with-esa-support",
     "is_frequency_violator":false,
     "associated_satellites":[
       "JURX-2848-0958-8835-6382"
