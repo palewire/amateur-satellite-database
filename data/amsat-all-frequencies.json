@@ -1732,7 +1732,7 @@
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -7837,7 +7837,7 @@
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -9410,7 +9410,7 @@
     "uplink":null,
     "downlink":"400.575",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
