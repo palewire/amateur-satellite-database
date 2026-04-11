@@ -20225,7 +20225,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":"RS75S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"WEXS-3459-9433-8558-2912"
   },
   {
@@ -20236,7 +20236,7 @@
     "beacon":null,
     "mode":"1200bps FSK",
     "callsign":"RS75S",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":"WEXS-3459-9433-8558-2912"
   },
   {

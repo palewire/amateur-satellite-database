@@ -2370,6 +2370,26 @@
     "satnogs_id":null
   },
   {
+    "name":"SamSat-ION2",
+    "norad_id":"61784",
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":"RS75S",
+    "satnogs_id":"WEXS-3459-9433-8558-2912"
+  },
+  {
+    "name":"SamSat-Ionosphere",
+    "norad_id":"61784",
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"1200bps FSK",
+    "callsign":"RS75S",
+    "satnogs_id":"WEXS-3459-9433-8558-2912"
+  },
+  {
     "name":"SARAL",
     "norad_id":"39086",
     "uplink":null,
