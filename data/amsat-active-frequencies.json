@@ -110,6 +110,16 @@
     "satnogs_id":"XZIQ-7009-4472-3546-4651"
   },
   {
+    "name":"ARQSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"ASRTU-1",
     "norad_id":"61781",
     "uplink":"145.850*\/145.875",
@@ -315,7 +325,7 @@
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":"4k8_FSK",
+    "mode":"4k8\/9k6*FSK",
     "callsign":null,
     "satnogs_id":null
   },
@@ -916,6 +926,16 @@
     "downlink":"401.313\/2218.000",
     "beacon":null,
     "mode":"9600bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"FEMTO-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"9k6_GMSK",
     "callsign":null,
     "satnogs_id":null
   },
