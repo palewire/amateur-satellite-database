@@ -18974,10 +18974,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -63984,6 +63984,126 @@
     ],
     "updated":"2026-04-09T13:19:41.464523Z",
     "citation":"Fix NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WDZW-7041-0693-0538-0996",
+    "norad_cat_id":98332.0,
+    "norad_follow_id":null,
+    "name":"PEARL-1A",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-13T08:12:34.198895Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XDRS-6956-1994-9361-5703",
+    "norad_cat_id":67646.0,
+    "norad_follow_id":null,
+    "name":"Object A",
+    "names":"2026-021A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-01-31T00:00:00Z",
+    "deployed":"2026-01-31T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-13T08:10:10.912756Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1oxhTalllpmdtbpLagzDVewStJFsNFkRASyzSDjlc_oY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YSAU-4873-0519-1551-5088",
+    "norad_cat_id":65573.0,
+    "norad_follow_id":null,
+    "name":"PRAETORIAN SDA_610",
+    "names":"2025-203J",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-09-10T00:00:00Z",
+    "deployed":"2025-09-10T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-13T08:10:05.989658Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1x5y5Xtl_UFaVl4QJztriZtjMoo0WiuurEgi2_knqEGY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RNBB-0280-4239-1006-5432",
+    "norad_cat_id":67557.0,
+    "norad_follow_id":null,
+    "name":"MR-1",
+    "names":"2026-015B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-01-22T00:00:00Z",
+    "deployed":"2026-01-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-13T08:09:59.473413Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1k7ydCLvumCcLpnzJA-3nbQBbZ5-xt8xxEy86o76lOlA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EJEJ-1218-7576-5892-2989",
+    "norad_cat_id":68357.0,
+    "norad_follow_id":null,
+    "name":"Object H",
+    "names":"2026-060H",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-22T00:00:00Z",
+    "deployed":"2026-03-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-13T08:09:50.950500Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1SUQAYpRSzu81xtWcMFO3LX3tCs4F8j_VgMiLg7tUsQ0\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

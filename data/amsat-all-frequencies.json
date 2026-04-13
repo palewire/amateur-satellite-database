@@ -13585,6 +13585,17 @@
     "satnogs_id":null
   },
   {
+    "name":"LAPAN-A1",
+    "norad_id":"29709",
+    "uplink":null,
+    "downlink":"436.075\/437.325",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"EFTT-0211-2244-5217-1489"
+  },
+  {
     "name":"LAPAN-A2",
     "norad_id":"40931",
     "uplink":"145.825\/145.880",
@@ -15379,14 +15390,14 @@
   },
   {
     "name":"MR-1",
-    "norad_id":null,
+    "norad_id":"67557",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2245.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"RNBB-0280-4239-1006-5432"
   },
   {
     "name":"MR-2",
@@ -18434,6 +18445,17 @@
     "callsign":"D1W2PH",
     "status":"active",
     "satnogs_id":"HIEK-3729-5596-2727-4744"
+  },
+  {
+    "name":"PRAETORIAN-SDA_610",
+    "norad_id":"65573",
+    "uplink":null,
+    "downlink":"2225.671",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"YSAU-4873-0519-1551-5088"
   },
   {
     "name":"Pratham",
