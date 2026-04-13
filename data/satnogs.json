@@ -8162,9 +8162,9 @@
     "image":"satellites\/Eshail_2.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2018-11-15T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.eshailsat.qa\/satellites\/",
     "operator":"None",
     "countries":"QA",
     "telemetries":[
@@ -8172,8 +8172,8 @@
         "decoder":"eshail2"
       }
     ],
-    "updated":"2021-07-21T10:11:42.614696Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-04-12T19:32:20.134687Z",
+    "citation":"https:\/\/www.eshailsat.qa\/satellites\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63774,7 +63774,7 @@
   {
     "sat_id":"GLFY-8231-7125-4883-6529",
     "norad_cat_id":98338.0,
-    "norad_follow_id":68630.0,
+    "norad_follow_id":68635.0,
     "name":"CANVAS",
     "names":"",
     "image":"satellites\/CANVAS_logo.png",
@@ -63790,8 +63790,8 @@
         "decoder":"canvas"
       }
     ],
-    "updated":"2026-04-08T08:31:19.710326Z",
-    "citation":"https:\/\/community.libre.space\/t\/minotaur-iv-stp-s29a-2026-04-07-11-30-utc\/14583\/28",
+    "updated":"2026-04-12T19:31:48.901434Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -23991,6 +23991,17 @@
     "satnogs_id":"PHAW-0441-2366-3085-1098"
   },
   {
+    "name":"TCU-01",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.325\/437.750",
+    "beacon":null,
+    "mode":"1k2_AFSK 9k6_GMSK SSTV CW",
+    "callsign":null,
+    "status":null,
+    "satnogs_id":null
+  },
+  {
     "name":"TechEdSat-1",
     "norad_id":"38854",
     "uplink":null,
