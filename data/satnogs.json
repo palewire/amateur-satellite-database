@@ -18974,10 +18974,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -63772,6 +63772,30 @@
     ]
   },
   {
+    "sat_id":"ZADI-4461-1712-8089-8336",
+    "norad_cat_id":67556.0,
+    "norad_follow_id":null,
+    "name":"MR-2",
+    "names":"2026-015A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-01-22T00:00:00Z",
+    "deployed":"2026-01-22T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-14T10:10:35.270222Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1xyPf3lPzSvoa9riYsW3EitNmzLjG3VpmsQ6ZBjSRfxY\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"GLFY-8231-7125-4883-6529",
     "norad_cat_id":98338.0,
     "norad_follow_id":68635.0,
@@ -64104,6 +64128,30 @@
     ],
     "updated":"2026-04-13T08:09:50.950500Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1SUQAYpRSzu81xtWcMFO3LX3tCs4F8j_VgMiLg7tUsQ0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NSEX-0085-3092-1233-5752",
+    "norad_cat_id":98331.0,
+    "norad_follow_id":68632.0,
+    "name":"Unknown 2 - MinoTaur IV",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-14T09:45:58.929456Z",
+    "citation":"Network observations at 401.500 MHz from the same launch",
     "is_frequency_violator":false,
     "associated_satellites":[
 
