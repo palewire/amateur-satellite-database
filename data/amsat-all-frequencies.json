@@ -3499,7 +3499,7 @@
   },
   {
     "name":"CANVAS",
-    "norad_id":null,
+    "norad_id":"68635",
     "uplink":null,
     "downlink":"437.250\/2405.300",
     "beacon":null,
@@ -15043,6 +15043,17 @@
     "downlink":null,
     "beacon":null,
     "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"MinoTaur-IV(Unknown-1)",
+    "norad_id":"68629",
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"2k4_FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
