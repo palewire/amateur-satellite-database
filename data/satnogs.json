@@ -62656,7 +62656,9 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"cp16"
+      }
     ],
     "updated":"2026-04-06T09:19:58.648146Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter16, https:\/\/www.polysat.org\/launched",
@@ -62859,7 +62861,7 @@
   },
   {
     "sat_id":"TMGB-9786-8299-4754-2850",
-    "norad_cat_id":98378.0,
+    "norad_cat_id":68416.0,
     "norad_follow_id":null,
     "name":"PeakSat",
     "names":"",
@@ -62876,8 +62878,8 @@
         "decoder":"yamcs"
       }
     ],
-    "updated":"2026-03-31T12:43:32.014092Z",
-    "citation":"Add dashboard",
+    "updated":"2026-04-16T10:06:06.526479Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68416",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64152,6 +64154,30 @@
     ],
     "updated":"2026-04-14T09:45:58.929456Z",
     "citation":"Network observations at 401.500 MHz from the same launch",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AAIX-6998-1399-5683-1369",
+    "norad_cat_id":68418.0,
+    "norad_follow_id":null,
+    "name":"Object C",
+    "names":"2026-067C",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-16T11:45:37.020760Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/160mywZyCuWpW8d9Tvpz6R4O_yStQ7zi22FGNFQzqWP4\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
