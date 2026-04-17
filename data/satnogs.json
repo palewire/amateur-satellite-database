@@ -62135,7 +62135,7 @@
   },
   {
     "sat_id":"SXGC-2824-2222-8971-3473",
-    "norad_cat_id":98392.0,
+    "norad_cat_id":68456.0,
     "norad_follow_id":null,
     "name":"PARUS-6U1",
     "names":"PARUS-T3, PARUS-TX,BN0TIT",
@@ -62150,8 +62150,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-02T13:14:58.484425Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/formal_detail.php?serialnum=1053",
+    "updated":"2026-04-16T16:56:43.062889Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68456\/2026-04-16T12%3A37%3A49_13834278_68456_26067AS_0-OBJECT-AS_0.4003711940740686_B_r29.0_f1.5.png",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TZNH-3971-3016-4200-9227"
@@ -62353,7 +62353,7 @@
   },
   {
     "sat_id":"WCPQ-5521-7260-2374-6877",
-    "norad_cat_id":98386.0,
+    "norad_cat_id":68460.0,
     "norad_follow_id":null,
     "name":"COSMO",
     "names":"Compact Spaceborne Magnetic Observatory",
@@ -62370,8 +62370,8 @@
         "decoder":"cosmo"
       }
     ],
-    "updated":"2026-04-02T15:44:50.476533Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/bfhvxrnomp91ca",
+    "updated":"2026-04-16T14:53:55.470339Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68460\/2026-04-16T13%3A09%3A55_13831872_68460_26067AW_0-OBJECT-AW_2.4009781407407473_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62643,7 +62643,7 @@
   },
   {
     "sat_id":"WKBS-6047-7369-7033-9398",
-    "norad_cat_id":98382.0,
+    "norad_cat_id":68458.0,
     "norad_follow_id":null,
     "name":"SAL-E",
     "names":"CP16",
@@ -62660,8 +62660,8 @@
         "decoder":"cp16"
       }
     ],
-    "updated":"2026-04-06T09:19:58.648146Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter16, https:\/\/www.polysat.org\/launched",
+    "updated":"2026-04-16T17:41:03.671169Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68458\/2026-04-16T14%3A15%3A08_13833068_68458_26067AU_0-OBJECT-AU_0.46763929259259385_B_r29.0_f4.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62693,7 +62693,7 @@
   },
   {
     "sat_id":"MIAF-5680-8845-1005-1215",
-    "norad_cat_id":98380.0,
+    "norad_cat_id":68446.0,
     "norad_follow_id":null,
     "name":"HADES-SA",
     "names":"SpinnyONE",
@@ -62708,8 +62708,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.742570Z",
-    "citation":"change status",
+    "updated":"2026-04-16T17:13:59.134362Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68446\/2026-04-16T09%3A21%3A40_13822913_68446_26067AG_0-OBJECT-AG_2.242501536296288_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62741,7 +62741,7 @@
   },
   {
     "sat_id":"ZVLY-3305-1364-3664-7659",
-    "norad_cat_id":98379.0,
+    "norad_cat_id":68433.0,
     "norad_follow_id":null,
     "name":"T.MicroSat-2",
     "names":"",
@@ -62756,8 +62756,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.274393Z",
-    "citation":"change status",
+    "updated":"2026-04-16T17:39:34.451272Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68433\/2026-04-16T08%3A20%3A08_13817675_68433_26067T_0-OBJECT-T_0.09729166481480434_B_r29.0_f1.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62983,7 +62983,7 @@
   },
   {
     "sat_id":"BMVG-9246-3923-3953-0918",
-    "norad_cat_id":98374.0,
+    "norad_cat_id":68481.0,
     "norad_follow_id":null,
     "name":"TORO-3",
     "names":"PYRAS3",
@@ -62998,8 +62998,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-01T10:26:37.205205Z",
-    "citation":"Network observations",
+    "updated":"2026-04-16T15:39:56.137153Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68481\/2026-04-16T04%3A55%3A59_13817865_68481_26067BT_0-OBJECT-BT_2.28540407148148_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63103,7 +63103,7 @@
   },
   {
     "sat_id":"DJQS-0588-0767-3427-2831",
-    "norad_cat_id":98369.0,
+    "norad_cat_id":68468.0,
     "norad_follow_id":null,
     "name":"ERMIS-1",
     "names":"",
@@ -63118,8 +63118,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-09T09:53:08.725072Z",
-    "citation":"Update the satellite website",
+    "updated":"2026-04-16T15:15:35.232625Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68468\/2026-04-16T12%3A43%3A59_13831964_68468_26067BE_0-OBJECT-BE_2.3816410514814805_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
       "CXFP-6094-2541-5493-8019"
@@ -63128,7 +63128,7 @@
   {
     "sat_id":"EDMF-5886-6201-4785-7103",
     "norad_cat_id":98370.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68418.0,
     "name":"OPTISAT",
     "names":"",
     "image":"satellites\/Optisat_2-1024x768.jpeg",
@@ -63142,8 +63142,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-10T08:09:00.500846Z",
-    "citation":"https:\/\/connectivity.esa.int\/archives\/news\/greeces-advanced-laser-satellite-communications-test-campaign-to-launch-with-esa-support",
+    "updated":"2026-04-16T15:48:45.313163Z",
+    "citation":"Network observations and ikhnos analysis",
     "is_frequency_violator":false,
     "associated_satellites":[
       "JURX-2848-0958-8835-6382"
@@ -63223,7 +63223,7 @@
   },
   {
     "sat_id":"EALZ-0780-6325-0069-2307",
-    "norad_cat_id":98368.0,
+    "norad_cat_id":68420.0,
     "norad_follow_id":null,
     "name":"ERMIS-2",
     "names":"",
@@ -63238,8 +63238,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-09T09:53:08.700571Z",
-    "citation":"Update the satellite website",
+    "updated":"2026-04-16T15:30:36.587618Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68420\/2026-04-16T12%3A10%3A07_13832009_68420_26067E_0-OBJECT-E_2.3764149629629543_B_r29.0_f2.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
       "JAQE-9134-7423-6980-0737"
@@ -63248,7 +63248,7 @@
   {
     "sat_id":"ZRPV-6317-0836-0013-3209",
     "norad_cat_id":98367.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68425.0,
     "name":"ERMIS-3",
     "names":"",
     "image":"",
@@ -63262,8 +63262,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-09T09:53:08.676570Z",
-    "citation":"Update the satellite website",
+    "updated":"2026-04-16T15:12:32.378182Z",
+    "citation":"Network observations and ikhnos analysis",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63343,7 +63343,7 @@
   },
   {
     "sat_id":"KXEN-6599-9366-4098-3918",
-    "norad_cat_id":98365.0,
+    "norad_cat_id":68417.0,
     "norad_follow_id":null,
     "name":"JACK-002",
     "names":"",
@@ -63358,8 +63358,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.669960Z",
-    "citation":"change status",
+    "updated":"2026-04-16T17:10:12.063776Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68417\/2026-04-16T14%3A29%3A48_13830918_68417_26067B_0-OBJECT-B_2.473837847777773_B_r29.0_f0.0.png",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -63367,7 +63367,7 @@
   },
   {
     "sat_id":"IMHH-4032-1798-6391-5710",
-    "norad_cat_id":98366.0,
+    "norad_cat_id":68470.0,
     "norad_follow_id":null,
     "name":"LUNA-2",
     "names":"",
@@ -63382,8 +63382,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.621157Z",
-    "citation":"change status",
+    "updated":"2026-04-16T16:20:31.515890Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68470\/2026-04-16T14%3A19%3A34_13832554_68470_26067BG_0-OBJECT-BG_2.447656216296295_B_r29.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63487,7 +63487,7 @@
   },
   {
     "sat_id":"IVCW-8630-3606-0296-9103",
-    "norad_cat_id":98356.0,
+    "norad_cat_id":68435.0,
     "norad_follow_id":null,
     "name":"ION SCV Astounding Alexandra",
     "names":"ION SCV-019",
@@ -63502,8 +63502,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.695583Z",
-    "citation":"change status",
+    "updated":"2026-04-16T17:49:59.882355Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68435\/2026-04-16T04%3A34%3A35_13817855_68435_26067V_0-OBJECT-V_0.07350153037036478_B_r24.0_f0.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
       "QFKT-2095-2709-8661-8916"
@@ -63679,7 +63679,7 @@
   },
   {
     "sat_id":"JIKH-1381-0513-1618-0623",
-    "norad_cat_id":98346.0,
+    "norad_cat_id":68419.0,
     "norad_follow_id":null,
     "name":"ARQSAT-1",
     "names":"FEMTO-1",
@@ -63694,8 +63694,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-08T17:12:05.973007Z",
-    "citation":"Operator",
+    "updated":"2026-04-16T18:09:17.151269Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68419\/2026-04-16T07%3A12%3A04_13816332_68419_26067D_0-OBJECT-D_2.169352416296306_B_r29.0_f3.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63751,7 +63751,7 @@
   },
   {
     "sat_id":"JHSD-4460-0775-9291-8015",
-    "norad_cat_id":98339.0,
+    "norad_cat_id":68428.0,
     "norad_follow_id":null,
     "name":"Out of the Box",
     "names":"SPCLKR",
@@ -63766,8 +63766,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-03T15:12:13.982503Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/109",
+    "updated":"2026-04-16T18:16:04.177653Z",
+    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68428\/2026-04-15T05%3A54%3A28_13816760_68428_26067N_0-OBJECT-N_1.1108860674074066_B_r29.0_f-2.0.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63974,7 +63974,7 @@
     "name":"INCA-2",
     "names":"",
     "image":"",
-    "status":"alive",
+    "status":"future",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -63984,8 +63984,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-07T21:54:00.360187Z",
-    "citation":"Not in the launch - https:\/\/www.ssc.spaceforce.mil\/Newsroom\/Article-Display\/Article\/4453711\/us-space-force-launches-dow-stp-s29a-mission-delivers-experimental-and-research",
+    "updated":"2026-04-16T18:25:16.167393Z",
+    "citation":"https:\/\/community.libre.space\/t\/minotaur-iv-stp-s29a-2026-04-07-11-30-utc\/14583\/26",
     "is_frequency_violator":false,
     "associated_satellites":[
 
