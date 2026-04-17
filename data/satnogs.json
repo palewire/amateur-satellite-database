@@ -62670,7 +62670,7 @@
   {
     "sat_id":"HWUY-3165-6126-0472-2513",
     "norad_cat_id":98381.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68431.0,
     "name":"DISCO-2",
     "names":"",
     "image":"satellites\/disco-2.png",
@@ -62684,8 +62684,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.988102Z",
-    "citation":"change status",
+    "updated":"2026-04-17T10:13:38.785283Z",
+    "citation":"PE0SAT strf observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63080,7 +63080,7 @@
   {
     "sat_id":"PKWP-7958-4818-1008-2291",
     "norad_cat_id":98371.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68474.0,
     "name":"Black Kite-2",
     "names":"8U RIoT-2",
     "image":"",
@@ -63094,8 +63094,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:20.073354Z",
-    "citation":"change status",
+    "updated":"2026-04-17T07:52:43.349341Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/145",
     "is_frequency_violator":false,
     "associated_satellites":[
 
