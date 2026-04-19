@@ -19197,10 +19197,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -62936,7 +62936,7 @@
   {
     "sat_id":"DMZB-3276-8444-3538-4773",
     "norad_cat_id":98376.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68419.0,
     "name":"DecimalSat-1",
     "names":"",
     "image":"satellites\/image_of_the_satellite.jpeg",
@@ -62950,8 +62950,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:20.009293Z",
-    "citation":"change status",
+    "updated":"2026-04-19T06:15:29.610290Z",
+    "citation":"By satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
