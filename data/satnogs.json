@@ -19197,10 +19197,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -64178,6 +64178,30 @@
     ],
     "updated":"2026-04-16T11:45:37.020760Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/160mywZyCuWpW8d9Tvpz6R4O_yStQ7zi22FGNFQzqWP4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UOPM-9818-0116-8045-5386",
+    "norad_cat_id":98330.0,
+    "norad_follow_id":null,
+    "name":"PEARL-1B",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-20T07:01:04.867137Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
