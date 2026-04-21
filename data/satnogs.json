@@ -64206,5 +64206,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"TDJE-7079-9465-1938-8881",
+    "norad_cat_id":66752.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X59",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-11-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"GR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-21T08:12:10.850348Z",
+    "citation":"https:\/\/www.esa.int\/Applications\/Observing_the_Earth\/High-resolution_radar_satellites_launched_for_Greece",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GASQ-1080-8348-1652-2247",
+    "norad_cat_id":66753.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X60",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"GR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-21T08:12:06.028407Z",
+    "citation":"https:\/\/www.esa.int\/Applications\/Observing_the_Earth\/High-resolution_radar_satellites_launched_for_Greece",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

@@ -2655,3 +2655,5 @@ EJEJ-1218-7576-5892-2989,68357.0,,Object H,2026-060H,,alive,,2026-03-22T00:00:00
 NSEX-0085-3092-1233-5752,98331.0,68632.0,Unknown 2 - MinoTaur IV,,,alive,,,,,None,,[],2026-04-14T09:45:58.929456Z,Network observations at 401.500 MHz from the same launch,False,[]
 AAIX-6998-1399-5683-1369,68418.0,,Object C,2026-067C,,alive,,,,,None,,[],2026-04-16T11:45:37.020760Z,https://docs.google.com/document/d/160mywZyCuWpW8d9Tvpz6R4O_yStQ7zi22FGNFQzqWP4/edit?usp=sharing,False,[]
 UOPM-9818-0116-8045-5386,98330.0,,PEARL-1B,,,future,,,,,None,TW,[],2026-04-20T07:01:04.867137Z,Add temporary NORAD ID,False,[]
+TDJE-7079-9465-1938-8881,66752.0,,ICEYE-X59,,,alive,,2025-11-28T00:00:00Z,,,None,GR,[],2026-04-21T08:12:10.850348Z,https://www.esa.int/Applications/Observing_the_Earth/High-resolution_radar_satellites_launched_for_Greece,False,[]
+GASQ-1080-8348-1652-2247,66753.0,,ICEYE-X60,,,alive,,,,,None,GR,[],2026-04-21T08:12:06.028407Z,https://www.esa.int/Applications/Observing_the_Earth/High-resolution_radar_satellites_launched_for_Greece,False,[]
