@@ -32569,8 +32569,8 @@
     "name":"Nanozond-1",
     "names":"RS49S",
     "image":"satellites\/large_Tyum_GU_2023_44396d46c6.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-04-20T00:00:00Z",
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/spacepi.space\/wiki\/article\/nanozond-1\/",
@@ -32579,8 +32579,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-07-10T00:23:46.957476Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-57190\/2023-07-08T01%3A19%3A18_7821123_57190_23091AA_0-OBJECT-AA_1.459837655555532_A_r24.0_f0.0.png",
+    "updated":"2026-04-22T20:38:44.272205Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=57190",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -64250,6 +64250,174 @@
     ],
     "updated":"2026-04-21T08:12:06.028407Z",
     "citation":"https:\/\/www.esa.int\/Applications\/Observing_the_Earth\/High-resolution_radar_satellites_launched_for_Greece",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IFKU-9201-2588-0809-6295",
+    "norad_cat_id":98329.0,
+    "norad_follow_id":null,
+    "name":"ARICA-2",
+    "names":"JS1YSD",
+    "image":"satellites\/ARICA-2.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-04-23T03:09:00Z",
+    "deployed":"2026-04-23T04:02:00Z",
+    "website":"https:\/\/sakamotolab.phys.aoyama.ac.jp\/research\/future_space\/ARICA-2_en",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-22T20:06:21.274630Z",
+    "citation":"https:\/\/mailman.amsat.org\/hyperkitty\/list\/amsat-bb@amsat.org\/thread\/2J6I3HLLE7UFRCGCYCQ5C4CVJSY6NB4V\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BTSI-3823-5594-6119-2611",
+    "norad_cat_id":98328.0,
+    "norad_follow_id":null,
+    "name":"KOSEN-2R",
+    "names":"",
+    "image":"satellites\/kosen2.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-04-23T03:09:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-22T14:40:42.332029Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FDQL-7890-4040-6919-7625",
+    "norad_cat_id":98325.0,
+    "norad_follow_id":null,
+    "name":"OrigamiSat-2",
+    "names":"JS1YRU",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-04-23T03:09:00Z",
+    "deployed":null,
+    "website":"http:\/\/www.origami.titech.ac.jp\/archives\/1958",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-22T20:05:20.995374Z",
+    "citation":"https:\/\/rocketlabcorp.com\/missions\/launches\/kakushin-rising\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YZDO-1863-9002-1980-6647",
+    "norad_cat_id":98326.0,
+    "norad_follow_id":null,
+    "name":"FSI-SAT2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-04-23T03:09:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-22T20:04:57.884476Z",
+    "citation":"https:\/\/rocketlabcorp.com\/missions\/launches\/kakushin-rising\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HFCT-6543-1597-0098-9086",
+    "norad_cat_id":98327.0,
+    "norad_follow_id":null,
+    "name":"WASEDA-SAT-ZERO-II",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-04-23T03:09:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.miyashita.mmech.waseda.ac.jp\/Waseda-Sat-Zero\/reception_eng.html",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-22T20:04:38.125242Z",
+    "citation":"https:\/\/rocketlabcorp.com\/missions\/launches\/kakushin-rising\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UBGG-0313-1046-0311-8192",
+    "norad_cat_id":98324.0,
+    "norad_follow_id":null,
+    "name":"MAGNARO-II - Tigris",
+    "names":"JJ2YXF",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-04-23T03:09:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-22T20:29:48.943282Z",
+    "citation":"https:\/\/nanosat.nuae.nagoya-u.ac.jp\/MAGNARO_web\/html_MAGNARO\/OPERATION_MAGNARO.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CFXV-4372-6054-0301-8168",
+    "norad_cat_id":98323.0,
+    "norad_follow_id":null,
+    "name":"MAGNARO-II - Piscis",
+    "names":"JJ2YXG",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-04-23T03:09:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-22T20:29:43.198828Z",
+    "citation":"https:\/\/nanosat.nuae.nagoya-u.ac.jp\/MAGNARO_web\/html_MAGNARO\/OPERATION_MAGNARO.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
