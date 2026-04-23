@@ -64262,7 +64262,7 @@
     "name":"ARICA-2",
     "names":"JS1YSD",
     "image":"satellites\/ARICA-2.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":"2026-04-23T04:02:00Z",
@@ -64272,8 +64272,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-22T20:06:21.274630Z",
-    "citation":"https:\/\/mailman.amsat.org\/hyperkitty\/list\/amsat-bb@amsat.org\/thread\/2J6I3HLLE7UFRCGCYCQ5C4CVJSY6NB4V\/",
+    "updated":"2026-04-23T02:58:16.187763Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64286,7 +64286,7 @@
     "name":"KOSEN-2R",
     "names":"",
     "image":"satellites\/kosen2.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
@@ -64296,8 +64296,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-22T14:40:42.332029Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-04-23T02:58:16.142840Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64310,7 +64310,7 @@
     "name":"OrigamiSat-2",
     "names":"JS1YRU",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
@@ -64320,8 +64320,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-22T20:05:20.995374Z",
-    "citation":"https:\/\/rocketlabcorp.com\/missions\/launches\/kakushin-rising\/",
+    "updated":"2026-04-23T02:58:16.009813Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64334,7 +64334,7 @@
     "name":"FSI-SAT2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
@@ -64344,8 +64344,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-22T20:04:57.884476Z",
-    "citation":"https:\/\/rocketlabcorp.com\/missions\/launches\/kakushin-rising\/",
+    "updated":"2026-04-23T02:58:16.053366Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64358,7 +64358,7 @@
     "name":"WASEDA-SAT-ZERO-II",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
@@ -64368,8 +64368,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-22T20:04:38.125242Z",
-    "citation":"https:\/\/rocketlabcorp.com\/missions\/launches\/kakushin-rising\/",
+    "updated":"2026-04-23T02:58:16.095384Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64382,7 +64382,7 @@
     "name":"MAGNARO-II - Tigris",
     "names":"JJ2YXF",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
@@ -64392,8 +64392,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-22T20:29:48.943282Z",
-    "citation":"https:\/\/nanosat.nuae.nagoya-u.ac.jp\/MAGNARO_web\/html_MAGNARO\/OPERATION_MAGNARO.html",
+    "updated":"2026-04-23T02:58:15.965395Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64406,7 +64406,7 @@
     "name":"MAGNARO-II - Piscis",
     "names":"JJ2YXG",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
@@ -64416,8 +64416,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-22T20:29:43.198828Z",
-    "citation":"https:\/\/nanosat.nuae.nagoya-u.ac.jp\/MAGNARO_web\/html_MAGNARO\/OPERATION_MAGNARO.html",
+    "updated":"2026-04-23T02:58:15.912659Z",
+    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
     "is_frequency_violator":false,
     "associated_satellites":[
 

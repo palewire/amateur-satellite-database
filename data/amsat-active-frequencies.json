@@ -110,6 +110,16 @@
     "satnogs_id":"XZIQ-7009-4472-3546-4651"
   },
   {
+    "name":"ARICA-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.830",
+    "beacon":"436.830",
+    "mode":"4k8_GMSK CW*",
+    "callsign":"JS1YSD",
+    "satnogs_id":null
+  },
+  {
     "name":"ARQSAT-1",
     "norad_id":"68419",
     "uplink":null,
@@ -1140,6 +1150,16 @@
     "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
+    "name":"FSI-SAT2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.175",
+    "beacon":"437.175",
+    "mode":"1k2AFSK 9k6GMSK SSTV CW*",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"FUNcube-1",
     "norad_id":"39444",
     "uplink":"435.130-435.150",
@@ -1940,6 +1960,26 @@
     "satnogs_id":"IMHH-4032-1798-6391-5710"
   },
   {
+    "name":"MAGNARO-II-Piscis",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.850\/436.325",
+    "beacon":"436.325",
+    "mode":"1k2AFSK 9k6GMSK 19k2GMSK CW*",
+    "callsign":"JJ2YXG",
+    "satnogs_id":null
+  },
+  {
+    "name":"MAGNARO-II-Tigris",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.850\/436.325",
+    "beacon":"436.325",
+    "mode":"1k2AFSK 9k6GMSK 19k2GMSK CW*",
+    "callsign":"JJ2YXF",
+    "satnogs_id":null
+  },
+  {
     "name":"MCubed-2",
     "norad_id":"39472",
     "uplink":null,
@@ -2188,6 +2228,16 @@
     "mode":"1k2AFSK FM SSDV CW",
     "callsign":"YBSAT\/YBOX",
     "satnogs_id":"EEIT-0315-8565-1765-1994"
+  },
+  {
+    "name":"OrigamiSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.505\/5840.000",
+    "beacon":"437.505",
+    "mode":"1k2_AFSK BPSK QPSK CW*",
+    "callsign":"JS1YRU",
+    "satnogs_id":null
   },
   {
     "name":"OTTER",
@@ -3458,6 +3508,16 @@
     "mode":"1k2\/4k8*\/9k6 MSK",
     "callsign":null,
     "satnogs_id":"DJWH-7860-9983-7310-6047"
+  },
+  {
+    "name":"WASEDA-SAT-ZERO-II",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.200",
+    "beacon":"437.200",
+    "mode":"1k2FSK CW*",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"WildTrackCube-SIMBA",

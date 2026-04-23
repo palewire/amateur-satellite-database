@@ -1655,9 +1655,9 @@
     "uplink":null,
     "downlink":"436.830",
     "beacon":"436.830",
-    "mode":"4k8_GMSK CW",
-    "callsign":null,
-    "status":"to be launched",
+    "mode":"4k8_GMSK CW*",
+    "callsign":"JS1YSD",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -8937,9 +8937,9 @@
     "uplink":null,
     "downlink":"437.175",
     "beacon":"437.175",
-    "mode":"1k2AFSK 9k6GMSK SSTV CW",
+    "mode":"1k2AFSK 9k6GMSK SSTV CW*",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -13856,7 +13856,7 @@
     "beacon":"436.750",
     "mode":"1k2AFSK 9k6GMSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -15042,9 +15042,9 @@
     "uplink":null,
     "downlink":"145.850\/436.325",
     "beacon":"436.325",
-    "mode":"1k2AFSK 9k6GMSK 19k2GMSK CW",
-    "callsign":null,
-    "status":"to be launched",
+    "mode":"1k2AFSK 9k6GMSK 19k2GMSK CW*",
+    "callsign":"JJ2YXG",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -15053,9 +15053,9 @@
     "uplink":null,
     "downlink":"145.850\/436.325",
     "beacon":"436.325",
-    "mode":"1k2AFSK 9k6GMSK 19k2GMSK CW",
-    "callsign":null,
-    "status":"to be launched",
+    "mode":"1k2AFSK 9k6GMSK 19k2GMSK CW*",
+    "callsign":"JJ2YXF",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -15814,7 +15814,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -17682,9 +17682,9 @@
     "uplink":null,
     "downlink":"437.505\/5840.000",
     "beacon":"437.505",
-    "mode":"1k2_AFSK BPSK QPSK CW",
-    "callsign":null,
-    "status":"to be launched",
+    "mode":"1k2_AFSK BPSK QPSK CW*",
+    "callsign":"JS1YRU",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -19070,7 +19070,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -27417,9 +27417,9 @@
     "uplink":null,
     "downlink":"437.200",
     "beacon":"437.200",
-    "mode":"1k2FSK CW",
+    "mode":"1k2FSK CW*",
     "callsign":null,
-    "status":"to be launched",
+    "status":"active",
     "satnogs_id":null
   },
   {
