@@ -62660,8 +62660,8 @@
         "decoder":"cp16"
       }
     ],
-    "updated":"2026-04-16T17:41:03.671169Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68458\/2026-04-16T14%3A15%3A08_13833068_68458_26067AU_0-OBJECT-AU_0.46763929259259385_B_r29.0_f4.0.png",
+    "updated":"2026-04-23T15:42:09.472183Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/afjyxg3eck64gc",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64258,7 +64258,7 @@
   {
     "sat_id":"IFKU-9201-2588-0809-6295",
     "norad_cat_id":98329.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68796.0,
     "name":"ARICA-2",
     "names":"JS1YSD",
     "image":"satellites\/ARICA-2.png",
@@ -64272,8 +64272,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T02:58:16.187763Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
+    "updated":"2026-04-23T19:48:29.141783Z",
+    "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/28",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64306,10 +64306,10 @@
   {
     "sat_id":"FDQL-7890-4040-6919-7625",
     "norad_cat_id":98325.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68795.0,
     "name":"OrigamiSat-2",
     "names":"JS1YRU",
-    "image":"",
+    "image":"satellites\/04_origamisat2.png",
     "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
@@ -64320,8 +64320,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T02:58:16.009813Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
+    "updated":"2026-04-23T20:21:59.996425Z",
+    "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/32",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64330,23 +64330,23 @@
   {
     "sat_id":"YZDO-1863-9002-1980-6647",
     "norad_cat_id":98326.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68792.0,
     "name":"FSI-SAT2",
-    "names":"",
-    "image":"",
+    "names":"JS1YQU",
+    "image":"satellites\/04_fsisat2_20ssJgQ.png",
     "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/trifne.futuresci.org\/fsi-sat2\/",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T02:58:16.053366Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
-    "is_frequency_violator":false,
+    "updated":"2026-04-23T19:59:12.041571Z",
+    "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/29",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -64357,7 +64357,7 @@
     "norad_follow_id":null,
     "name":"WASEDA-SAT-ZERO-II",
     "names":"",
-    "image":"",
+    "image":"satellites\/04_wasedasatzero2.png",
     "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
@@ -64368,8 +64368,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T02:58:16.095384Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
+    "updated":"2026-04-23T15:05:39.555421Z",
+    "citation":"https:\/\/www.kenkai.jaxa.jp\/kakushin\/kakushin04.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64378,22 +64378,22 @@
   {
     "sat_id":"UBGG-0313-1046-0311-8192",
     "norad_cat_id":98324.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68798.0,
     "name":"MAGNARO-II - Tigris",
     "names":"JJ2YXF",
-    "image":"",
+    "image":"satellites\/04_magnaro2_vTe7dt0.png",
     "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T02:58:15.965395Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
+    "updated":"2026-04-23T19:47:31.233739Z",
+    "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/27",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64402,22 +64402,22 @@
   {
     "sat_id":"CFXV-4372-6054-0301-8168",
     "norad_cat_id":98323.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68798.0,
     "name":"MAGNARO-II - Piscis",
     "names":"JJ2YXG",
-    "image":"",
+    "image":"satellites\/04_magnaro2_SbYAbWw.png",
     "status":"alive",
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T02:58:15.912659Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
+    "updated":"2026-04-23T19:47:23.889990Z",
+    "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/27",
     "is_frequency_violator":false,
     "associated_satellites":[
 
