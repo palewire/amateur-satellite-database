@@ -18974,10 +18974,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -64418,6 +64418,54 @@
     ],
     "updated":"2026-04-23T19:47:23.889990Z",
     "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/27",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YEEE-7340-7726-4018-8919",
+    "norad_cat_id":98322.0,
+    "norad_follow_id":null,
+    "name":"NuLink-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-24T11:51:28.525875Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"REYA-7757-1619-4009-9971",
+    "norad_cat_id":98321.0,
+    "norad_follow_id":null,
+    "name":"NuLink-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-24T11:51:37.456548Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
