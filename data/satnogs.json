@@ -18974,10 +18974,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -57650,8 +57650,8 @@
     "name":"SilverSat",
     "names":"",
     "image":"satellites\/Launch-Config.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-04-24T00:00:00Z",
     "launched":"2025-09-14T22:11:00Z",
     "deployed":"2025-12-02T08:20:00Z",
     "website":"https:\/\/silversat.org\/",
@@ -57662,8 +57662,8 @@
         "decoder":"silversat"
       }
     ],
-    "updated":"2026-03-03T11:57:08.007031Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-66909\/2026-03-01T13%3A43%3A38_13491071_66909_98067XV_0-SILVERSAT_0.19814473259259557_B_r24.0_f0.0.png",
+    "updated":"2026-04-24T15:25:39.298693Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=66909",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TJCA-4098-8635-3765-2657"
@@ -62150,8 +62150,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-16T16:56:43.062889Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68456\/2026-04-16T12%3A37%3A49_13834278_68456_26067AS_0-OBJECT-AS_0.4003711940740686_B_r29.0_f1.5.png",
+    "updated":"2026-04-24T14:07:19.658201Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/formal_detail.php?serialnum=1053",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TZNH-3971-3016-4200-9227"
@@ -64386,14 +64386,14 @@
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/nanosat.nuae.nagoya-u.ac.jp\/MAGNARO_web\/MAGNARO_index.html",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T19:47:31.233739Z",
-    "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/27",
+    "updated":"2026-04-24T19:58:23.023521Z",
+    "citation":"https:\/\/nanosat.nuae.nagoya-u.ac.jp\/MAGNARO_web\/MAGNARO_index.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64410,14 +64410,14 @@
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/nanosat.nuae.nagoya-u.ac.jp\/MAGNARO_web\/MAGNARO_index.html",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T19:47:23.889990Z",
-    "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/27",
+    "updated":"2026-04-24T19:58:27.898051Z",
+    "citation":"https:\/\/nanosat.nuae.nagoya-u.ac.jp\/MAGNARO_web\/MAGNARO_index.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 

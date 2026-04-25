@@ -111,7 +111,7 @@
   },
   {
     "name":"ARICA-2",
-    "norad_id":null,
+    "norad_id":"68796",
     "uplink":null,
     "downlink":"436.830",
     "beacon":"436.830",
@@ -1151,7 +1151,7 @@
   },
   {
     "name":"FSI-SAT2",
-    "norad_id":null,
+    "norad_id":"68792",
     "uplink":null,
     "downlink":"437.175",
     "beacon":"437.175",
@@ -1961,7 +1961,7 @@
   },
   {
     "name":"MAGNARO-II-Piscis",
-    "norad_id":null,
+    "norad_id":"68798",
     "uplink":null,
     "downlink":"145.850\/436.325",
     "beacon":"436.325",
@@ -1971,7 +1971,7 @@
   },
   {
     "name":"MAGNARO-II-Tigris",
-    "norad_id":null,
+    "norad_id":"68798",
     "uplink":null,
     "downlink":"145.850\/436.325",
     "beacon":"436.325",
@@ -2231,7 +2231,7 @@
   },
   {
     "name":"OrigamiSat-2",
-    "norad_id":null,
+    "norad_id":"68795",
     "uplink":null,
     "downlink":"437.505\/5840.000",
     "beacon":"437.505",
@@ -2538,16 +2538,6 @@
     "mode":"9600bps GFSK",
     "callsign":"SHIELD",
     "satnogs_id":"CWSD-1294-0245-2449-1685"
-  },
-  {
-    "name":"SilverSat",
-    "norad_id":"66909",
-    "uplink":null,
-    "downlink":"437.175",
-    "beacon":"437.175",
-    "mode":"9k6_GMSK SSDV CW",
-    "callsign":"WP2XGW",
-    "satnogs_id":"JMIF-0517-5295-9753-0215"
   },
   {
     "name":"SITRO-AIS-5",
