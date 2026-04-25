@@ -27401,28 +27401,6 @@
     "satnogs_id":"WRXH-6503-9863-1357-5159"
   },
   {
-    "name":"WASEDA-SAT-ZERO",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"437.200",
-    "beacon":"437.200",
-    "mode":"1k2FSK CW",
-    "callsign":null,
-    "status":"failure",
-    "satnogs_id":null
-  },
-  {
-    "name":"WASEDA-SAT-ZERO-II",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"437.200",
-    "beacon":"437.200",
-    "mode":"1k2FSK CW*",
-    "callsign":null,
-    "status":"active",
-    "satnogs_id":null
-  },
-  {
     "name":"WASEDA-SAT2",
     "norad_id":"36574",
     "uplink":null,
@@ -27443,6 +27421,28 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"DAPE-7947-8127-1321-0742"
+  },
+  {
+    "name":"WASEDA-SAT-ZERO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.200",
+    "beacon":"437.200",
+    "mode":"1k2FSK CW",
+    "callsign":null,
+    "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"WASEDA-SAT-ZERO-II",
+    "norad_id":"68797",
+    "uplink":null,
+    "downlink":"437.200",
+    "beacon":"437.200",
+    "mode":"1k2FSK CW*",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":null
   },
   {
     "name":"WENTIAN",
