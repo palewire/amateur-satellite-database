@@ -17682,7 +17682,7 @@
     "uplink":null,
     "downlink":"437.505\/5840.000",
     "beacon":"437.505",
-    "mode":"1k2_AFSK BPSK QPSK CW*",
+    "mode":"1k2_AFSK* BPSK QPSK CW*",
     "callsign":"JS1YRU",
     "status":"active",
     "satnogs_id":null
