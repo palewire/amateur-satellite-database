@@ -27441,7 +27441,7 @@
     "beacon":"437.200",
     "mode":"1k2FSK CW*",
     "callsign":null,
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":null
   },
   {

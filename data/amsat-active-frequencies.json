@@ -3500,16 +3500,6 @@
     "satnogs_id":"DJWH-7860-9983-7310-6047"
   },
   {
-    "name":"WASEDA-SAT-ZERO-II",
-    "norad_id":"68797",
-    "uplink":null,
-    "downlink":"437.200",
-    "beacon":"437.200",
-    "mode":"1k2FSK CW*",
-    "callsign":null,
-    "satnogs_id":null
-  },
-  {
     "name":"WildTrackCube-SIMBA",
     "norad_id":"47941",
     "uplink":null,
