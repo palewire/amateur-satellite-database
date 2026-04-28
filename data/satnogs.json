@@ -64024,7 +64024,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -64032,8 +64032,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-13T08:12:34.198895Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-04-28T06:30:29.744977Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64192,7 +64192,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -64200,8 +64200,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-20T07:01:04.867137Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-04-28T06:30:33.121920Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64432,7 +64432,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -64440,8 +64440,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-24T11:51:28.525875Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-04-28T06:19:25.887240Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64456,7 +64456,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -64464,11 +64464,83 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-24T11:51:37.456548Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-04-28T06:19:29.106079Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
+    ]
+  },
+  {
+    "sat_id":"ZXKF-7497-4419-0567-7683",
+    "norad_cat_id":98320.0,
+    "norad_follow_id":null,
+    "name":"Gemini-Pollux",
+    "names":"",
+    "image":"satellites\/PXL_20251126_100049129_1.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":"2026-05-03T09:20:34Z",
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-28T06:19:21.887507Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LCDN-9644-7629-9850-7659",
+    "norad_cat_id":68408.0,
+    "norad_follow_id":null,
+    "name":"Celeste IOD-1",
+    "names":"LPTNSAT-001",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"ESA",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-28T06:07:10.565512Z",
+    "citation":"Remove web site as this is not the official site of the project",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GGCH-4346-1583-9419-5634",
+    "norad_cat_id":98318.0,
+    "norad_follow_id":null,
+    "name":"FrontierSat",
+    "names":"CTS-SAT-1, CTS SAT1",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.calgarytospace.ca\/",
+    "operator":"None",
+    "countries":"CA",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-28T07:09:41.123204Z",
+    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/CTS%20SAT1\/122545249",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+      "OKRS-0223-6789-8199-6406"
     ]
   }
 ]
