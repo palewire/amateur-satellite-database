@@ -5819,6 +5819,17 @@
     "satnogs_id":"CSGC-5605-1718-3109-5402"
   },
   {
+    "name":"CTS-SAT1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.150",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"CUAVA-1",
     "norad_id":"49275",
     "uplink":"145.875\/2404.000",
@@ -8921,6 +8932,17 @@
     "satnogs_id":"CXJW-8959-9671-2060-9440"
   },
   {
+    "name":"FrontierSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.150",
+    "beacon":null,
+    "mode":"9600bps GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"FSI-SAT",
     "norad_id":null,
     "uplink":null,
@@ -9193,6 +9215,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Gemini-Pollux",
+    "norad_id":null,
+    "uplink":"145.900",
+    "downlink":"437.200",
+    "beacon":null,
+    "mode":"9k6_BPSK FM",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
