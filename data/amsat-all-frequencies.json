@@ -17248,6 +17248,28 @@
     "satnogs_id":"IUKT-5566-7027-2323-0619"
   },
   {
+    "name":"NuLink-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.000\/2218.000",
+    "beacon":null,
+    "mode":"38k4_FSK FM",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"NuLink-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.000\/2220.000",
+    "beacon":null,
+    "mode":"38k4_FSK FM",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"NuLIoN",
     "norad_id":"57487",
     "uplink":null,
