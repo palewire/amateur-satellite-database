@@ -3443,6 +3443,17 @@
     "satnogs_id":"GPLA-1467-3987-8284-6460"
   },
   {
+    "name":"BusanSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2261.950",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BY70-1",
     "norad_id":"41909",
     "uplink":"145.920",
@@ -7708,6 +7719,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Eycore-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.050\/2277.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -15730,6 +15752,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Mission-Drishti",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.200\/2240.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"MiTEE-1",
     "norad_id":"47314",
     "uplink":null,
@@ -19578,6 +19611,17 @@
     "callsign":"DP2QU",
     "status":"active",
     "satnogs_id":"ZYDE-4447-8719-9309-2022"
+  },
+  {
+    "name":"QUBE-II",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.600\/437.900\/2282.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Qubesat",
