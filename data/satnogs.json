@@ -19197,10 +19197,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -48287,7 +48287,7 @@
     "image":"satellites\/Proiteres.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2012-09-09T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.oit.ac.jp\/elc\/~satellite\/index-e.html",
     "operator":"None",
@@ -48295,8 +48295,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-09-27T13:43:07.624068Z",
-    "citation":"Found a possible signal in a STRF obs",
+    "updated":"2026-04-30T19:54:05.275430Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/PROITERES",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64541,6 +64541,30 @@
     "is_frequency_violator":false,
     "associated_satellites":[
       "OKRS-0223-6789-8199-6406"
+    ]
+  },
+  {
+    "sat_id":"ZJAA-2480-3107-6868-7733",
+    "norad_cat_id":67369.0,
+    "norad_follow_id":null,
+    "name":"BlackCAT",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-01-11T00:00:00Z",
+    "deployed":"2026-01-11T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-04-30T21:15:16.585170Z",
+    "citation":"space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
     ]
   }
 ]
