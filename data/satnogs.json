@@ -64566,5 +64566,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GGQT-4724-9610-5966-0366",
+    "norad_cat_id":98316.0,
+    "norad_follow_id":null,
+    "name":"SELENE",
+    "names":"HSD-SELENE",
+    "image":"satellites\/IMG_6281.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-05T09:59:00Z",
+    "deployed":"2026-03-05T11:15:00Z",
+    "website":"https:\/\/emtech.space\/",
+    "operator":"None",
+    "countries":"GR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-01T19:26:56.273299Z",
+    "citation":"Add temporary  NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"UHFO-5095-4127-1051-0125",
+    "norad_cat_id":98317.0,
+    "norad_follow_id":null,
+    "name":"HELIOS",
+    "names":"HSD-HELIOS",
+    "image":"satellites\/IMG_6281_uFcsz8v.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-03-05T09:59:00Z",
+    "deployed":"2026-03-05T11:15:00Z",
+    "website":"https:\/\/emtech.space\/",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-01T19:27:03.394445Z",
+    "citation":"Add temporary  NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
