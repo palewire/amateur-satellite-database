@@ -10131,6 +10131,17 @@
     "satnogs_id":null
   },
   {
+    "name":"HELIOS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2255.000",
+    "beacon":null,
+    "mode":"FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"HELLOWORLD-1",
     "norad_id":null,
     "uplink":null,
@@ -21483,17 +21494,6 @@
     "satnogs_id":null
   },
   {
-    "name":"SelfieSat",
-    "norad_id":"53951",
-    "uplink":null,
-    "downlink":"437.500",
-    "beacon":null,
-    "mode":"9600bps 2FSK",
-    "callsign":"WJ2XOX",
-    "status":"re-entered",
-    "satnogs_id":"OSBB-5160-7827-1540-1828"
-  },
-  {
     "name":"Sedna-2",
     "norad_id":"63153",
     "uplink":null,
@@ -21503,6 +21503,28 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":null
+  },
+  {
+    "name":"SELENE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2255.000",
+    "beacon":null,
+    "mode":"FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"SelfieSat",
+    "norad_id":"53951",
+    "uplink":null,
+    "downlink":"437.500",
+    "beacon":null,
+    "mode":"9600bps 2FSK",
+    "callsign":"WJ2XOX",
+    "status":"re-entered",
+    "satnogs_id":"OSBB-5160-7827-1540-1828"
   },
   {
     "name":"Sentry",
