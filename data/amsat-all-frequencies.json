@@ -3448,7 +3448,7 @@
     "uplink":null,
     "downlink":"2261.950",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -6776,6 +6776,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Drishti",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.200\/2240.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Druzhba-ATURK",
     "norad_id":null,
     "uplink":null,
@@ -7727,7 +7738,7 @@
     "uplink":null,
     "downlink":"401.050\/2277.500",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -7874,6 +7885,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"JIKH-1381-0513-1618-0623"
+  },
+  {
+    "name":"FFLY-2",
+    "norad_id":"65332",
+    "uplink":null,
+    "downlink":"2243.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"FGN-100-D3",
@@ -15763,17 +15785,6 @@
     "satnogs_id":null
   },
   {
-    "name":"Mission-Drishti",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"400.200\/2240.000",
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"to be launched",
-    "satnogs_id":null
-  },
-  {
     "name":"MiTEE-1",
     "norad_id":"47314",
     "uplink":null,
@@ -22679,6 +22690,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SNAPPY",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2229.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {

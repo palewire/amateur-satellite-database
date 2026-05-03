@@ -17681,8 +17681,8 @@
     "name":"INSPIRESat-1",
     "names":"IS1",
     "image":"satellites\/Screen_Shot_2022-02-14_at_4.46.30_PM.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-05-02T00:00:00Z",
     "launched":"2022-02-13T00:00:00Z",
     "deployed":"2022-02-13T00:00:00Z",
     "website":"https:\/\/lasp.colorado.edu\/home\/inspire\/",
@@ -17693,8 +17693,8 @@
         "decoder":"inspiresat1"
       }
     ],
-    "updated":"2022-02-25T02:27:13.479467Z",
-    "citation":"https:\/\/gitlab.com\/librespacefoundation\/satnogs-ops\/-\/issues\/211 and https:\/\/community.libre.space\/t\/pslv-c52-february-14-2022-at-12-29-am-utc\/8972\/2",
+    "updated":"2026-05-02T20:39:32.496298Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=51657",
     "is_frequency_violator":true,
     "associated_satellites":[
       "XVPO-1701-2592-7851-1083"
@@ -64025,15 +64025,15 @@
     "status":"future",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
-    "deployed":null,
+    "deployed":"2026-05-03T09:22:59.593000Z",
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2026-04-28T06:30:29.744977Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
+    "updated":"2026-05-02T15:16:28.286389Z",
+    "citation":"no",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64193,15 +64193,15 @@
     "status":"future",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
-    "deployed":null,
+    "deployed":"2026-05-03T09:22:12.893000Z",
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2026-04-28T06:30:33.121920Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
+    "updated":"2026-05-02T15:16:42.175450Z",
+    "citation":"no",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64576,16 +64576,16 @@
     "image":"satellites\/IMG_6281.png",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-05T09:59:00Z",
-    "deployed":"2026-03-05T11:15:00Z",
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":null,
     "website":"https:\/\/emtech.space\/",
     "operator":"None",
     "countries":"GR",
     "telemetries":[
 
     ],
-    "updated":"2026-05-01T19:26:56.273299Z",
-    "citation":"Add temporary  NORAD ID",
+    "updated":"2026-05-02T21:22:02.247208Z",
+    "citation":"Fix dates",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64600,16 +64600,208 @@
     "image":"satellites\/IMG_6281_uFcsz8v.png",
     "status":"future",
     "decayed":null,
-    "launched":"2026-03-05T09:59:00Z",
-    "deployed":"2026-03-05T11:15:00Z",
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":null,
     "website":"https:\/\/emtech.space\/",
     "operator":"None",
     "countries":"",
     "telemetries":[
 
     ],
-    "updated":"2026-05-01T19:27:03.394445Z",
-    "citation":"Add temporary  NORAD ID",
+    "updated":"2026-05-02T21:22:02.236076Z",
+    "citation":"Fix dates",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LNUL-1388-5832-9565-2421",
+    "norad_cat_id":65322.0,
+    "norad_follow_id":null,
+    "name":"FFLY-2",
+    "names":"2025-188H",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-08-26T00:00:00Z",
+    "deployed":"2025-08-26T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-02T15:16:56.771734Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1873Oq-oBKXi_w3cf_koX1MGJ-durZP69CO1f_QBTdoE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RVAV-6832-2301-5177-9757",
+    "norad_cat_id":98315.0,
+    "norad_follow_id":null,
+    "name":"Eycore-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-02T21:22:02.256952Z",
+    "citation":"Fix dates",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BDPD-5497-7257-7254-8616",
+    "norad_cat_id":98314.0,
+    "norad_follow_id":null,
+    "name":"QUBE2",
+    "names":"QUBE-II",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-02T21:22:02.267028Z",
+    "citation":"Fix dates",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CPTB-9738-1667-2594-4472",
+    "norad_cat_id":98313.0,
+    "norad_follow_id":null,
+    "name":"Drishti",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-02T21:22:02.275904Z",
+    "citation":"Fix dates",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QLWK-5874-1051-9588-0615",
+    "norad_cat_id":98312.0,
+    "norad_follow_id":null,
+    "name":"BusanSat",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-02T21:22:02.284520Z",
+    "citation":"Fix dates",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EPSO-2740-8746-3078-9656",
+    "norad_cat_id":98311.0,
+    "norad_follow_id":null,
+    "name":"BRO-21",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-02T21:22:02.295708Z",
+    "citation":"Fix dates",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JXYC-3121-4237-0231-2415",
+    "norad_cat_id":98310.0,
+    "norad_follow_id":null,
+    "name":"Balkan-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-02T21:22:02.306460Z",
+    "citation":"Fix dates",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XOCW-5387-5331-6631-2855",
+    "norad_cat_id":98309.0,
+    "norad_follow_id":null,
+    "name":"SNAPPY",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-05-03T06:59:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-02T21:22:02.317172Z",
+    "citation":"Fix dates",
     "is_frequency_violator":false,
     "associated_satellites":[
 
