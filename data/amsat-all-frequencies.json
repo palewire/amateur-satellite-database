@@ -2277,6 +2277,17 @@
     "satnogs_id":"ANGB-2912-5973-0732-4675"
   },
   {
+    "name":"BALKAN-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.360",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BARRY-1",
     "norad_id":"58338",
     "uplink":null,
@@ -3397,6 +3408,17 @@
     "callsign":null,
     "status":"inactive",
     "satnogs_id":"XNES-3255-1093-4669-6305"
+  },
+  {
+    "name":"BRO-21",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"BSUSat-1",
@@ -10158,7 +10180,7 @@
     "uplink":null,
     "downlink":"2255.000",
     "beacon":null,
-    "mode":"FSK",
+    "mode":"50k_FSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -18194,6 +18216,28 @@
     "satnogs_id":null
   },
   {
+    "name":"PEARL-1A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.540",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"PEARL-1B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.620",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"PEARL-1C",
     "norad_id":"58342",
     "uplink":null,
@@ -21521,7 +21565,7 @@
     "uplink":null,
     "downlink":"2255.000",
     "beacon":null,
-    "mode":"FSK",
+    "mode":"50k_FSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null

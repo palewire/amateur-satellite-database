@@ -64022,18 +64022,18 @@
     "name":"PEARL-1A",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
-    "deployed":"2026-05-03T09:22:59.593000Z",
+    "deployed":"2026-05-03T09:22:59Z",
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T15:16:28.286389Z",
-    "citation":"no",
+    "updated":"2026-05-03T06:50:01.611584Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64190,18 +64190,18 @@
     "name":"PEARL-1B",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
-    "deployed":"2026-05-03T09:22:12.893000Z",
+    "deployed":"2026-05-03T09:22:12Z",
     "website":"",
     "operator":"None",
     "countries":"TW",
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T15:16:42.175450Z",
-    "citation":"no",
+    "updated":"2026-05-03T06:50:02.066407Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64430,7 +64430,7 @@
     "name":"NuLink-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64440,7 +64440,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-28T06:19:25.887240Z",
+    "updated":"2026-05-03T06:50:02.033207Z",
     "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -64454,7 +64454,7 @@
     "name":"NuLink-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64464,7 +64464,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-28T06:19:29.106079Z",
+    "updated":"2026-05-03T06:50:02.000837Z",
     "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -64478,7 +64478,7 @@
     "name":"Gemini-Pollux",
     "names":"",
     "image":"satellites\/PXL_20251126_100049129_1.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":"2026-05-03T09:20:34Z",
@@ -64488,9 +64488,9 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-28T06:19:21.887507Z",
+    "updated":"2026-05-03T06:50:01.968144Z",
     "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -64526,7 +64526,7 @@
     "name":"FrontierSat",
     "names":"CTS-SAT-1, CTS SAT1",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64536,8 +64536,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-28T07:09:41.123204Z",
-    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/CTS%20SAT1\/122545249",
+    "updated":"2026-05-03T06:50:01.935041Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
       "OKRS-0223-6789-8199-6406"
@@ -64574,7 +64574,7 @@
     "name":"SELENE",
     "names":"HSD-SELENE",
     "image":"satellites\/IMG_6281.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64584,8 +64584,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T21:22:02.247208Z",
-    "citation":"Fix dates",
+    "updated":"2026-05-03T06:50:01.871392Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64598,7 +64598,7 @@
     "name":"HELIOS",
     "names":"HSD-HELIOS",
     "image":"satellites\/IMG_6281_uFcsz8v.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64608,8 +64608,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T21:22:02.236076Z",
-    "citation":"Fix dates",
+    "updated":"2026-05-03T06:50:01.903491Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64646,7 +64646,7 @@
     "name":"Eycore-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64656,8 +64656,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T21:22:02.256952Z",
-    "citation":"Fix dates",
+    "updated":"2026-05-03T06:50:01.839410Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64670,7 +64670,7 @@
     "name":"QUBE2",
     "names":"QUBE-II",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64680,8 +64680,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T21:22:02.267028Z",
-    "citation":"Fix dates",
+    "updated":"2026-05-03T06:50:01.561996Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64694,7 +64694,7 @@
     "name":"Drishti",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64704,8 +64704,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T21:22:02.275904Z",
-    "citation":"Fix dates",
+    "updated":"2026-05-03T06:50:01.806850Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64718,7 +64718,7 @@
     "name":"BusanSat",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64728,8 +64728,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T21:22:02.284520Z",
-    "citation":"Fix dates",
+    "updated":"2026-05-03T06:50:01.773740Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64742,7 +64742,7 @@
     "name":"BRO-21",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64752,8 +64752,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T21:22:02.295708Z",
-    "citation":"Fix dates",
+    "updated":"2026-05-03T06:50:01.734280Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64766,7 +64766,7 @@
     "name":"Balkan-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64776,8 +64776,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T21:22:02.306460Z",
-    "citation":"Fix dates",
+    "updated":"2026-05-03T06:50:01.699397Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64790,7 +64790,7 @@
     "name":"SNAPPY",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
@@ -64800,8 +64800,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-02T21:22:02.317172Z",
-    "citation":"Fix dates",
+    "updated":"2026-05-03T06:50:01.657343Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
