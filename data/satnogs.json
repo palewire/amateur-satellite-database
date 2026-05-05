@@ -58568,7 +58568,7 @@
   {
     "sat_id":"LPUU-9270-2724-3685-4470",
     "norad_cat_id":98519.0,
-    "norad_follow_id":68420.0,
+    "norad_follow_id":68434.0,
     "name":"VEGAFLY-1",
     "names":"XV5T",
     "image":"",
@@ -58582,8 +58582,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-18T08:58:42.782647Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/152",
+    "updated":"2026-05-04T16:31:19.763191Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/180",
     "is_frequency_violator":false,
     "associated_satellites":[
       "IHPZ-6510-7381-6780-6404"
@@ -63176,7 +63176,7 @@
   {
     "sat_id":"DOFN-8999-9141-5844-0576",
     "norad_cat_id":98362.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68427.0,
     "name":"EMISAR",
     "names":"",
     "image":"",
@@ -63190,8 +63190,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.965358Z",
-    "citation":"change status",
+    "updated":"2026-05-04T17:58:57.525181Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/183",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64492,7 +64492,7 @@
     ],
     "updated":"2026-05-03T06:50:01.968144Z",
     "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ]
@@ -64676,14 +64676,14 @@
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.telematik-zentrum.de\/projects\/qube2\/",
     "operator":"None",
-    "countries":"",
+    "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2026-05-03T06:50:01.561996Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
+    "updated":"2026-05-04T20:03:00.250200Z",
+    "citation":"https:\/\/www.telematik-zentrum.de\/projects\/qube2\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
