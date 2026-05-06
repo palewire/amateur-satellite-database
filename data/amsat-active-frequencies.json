@@ -340,6 +340,16 @@
     "satnogs_id":null
   },
   {
+    "name":"BRO-21",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4800bps FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-2",
     "norad_id":"57175",
     "uplink":"436.200",
@@ -738,6 +748,16 @@
     "mode":"9600bps GFSK",
     "callsign":"WX9XKR",
     "satnogs_id":"VWXG-4101-0824-5480-8078"
+  },
+  {
+    "name":"CTS-SAT1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.150",
+    "beacon":null,
+    "mode":"9k6_GMSK FSK*",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"CubeBel-2",
@@ -1150,6 +1170,16 @@
     "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
+    "name":"FrontierSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.150",
+    "beacon":null,
+    "mode":"9k6_GMSK FSK*",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"FSI-SAT2",
     "norad_id":"68792",
     "uplink":null,
@@ -1188,6 +1218,16 @@
     "mode":"1143*AFSK 2k4FSK SSTV",
     "callsign":"HC1PX",
     "satnogs_id":"XHOE-9718-5112-5196-7058"
+  },
+  {
+    "name":"Gemini-Pollux",
+    "norad_id":null,
+    "uplink":"145.900",
+    "downlink":"437.200",
+    "beacon":null,
+    "mode":"1k2\/9k6*BPSK FM",
+    "callsign":"BN0HMA-1",
+    "satnogs_id":null
   },
   {
     "name":"Geoscan-1",
@@ -1420,7 +1460,7 @@
     "satnogs_id":"ISTU-1593-3487-2251-7574"
   },
   {
-    "name":"HYDRA-2",
+    "name":"Hydra-2",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.320",

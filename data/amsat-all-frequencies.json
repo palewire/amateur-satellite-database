@@ -3417,7 +3417,7 @@
     "beacon":null,
     "mode":"4800bps FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -5857,9 +5857,9 @@
     "uplink":null,
     "downlink":"436.150",
     "beacon":null,
-    "mode":"9600bps GMSK",
+    "mode":"9k6_GMSK FSK*",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9003,9 +9003,9 @@
     "uplink":null,
     "downlink":"436.150",
     "beacon":null,
-    "mode":"9600bps GMSK",
+    "mode":"9k6_GMSK FSK*",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9289,9 +9289,9 @@
     "uplink":"145.900",
     "downlink":"437.200",
     "beacon":null,
-    "mode":"9k6_BPSK FM",
-    "callsign":null,
-    "status":"unknown",
+    "mode":"1k2\/9k6*BPSK FM",
+    "callsign":"BN0HMA-1",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -10835,7 +10835,7 @@
     "satnogs_id":"RPKQ-8508-2351-2344-0188"
   },
   {
-    "name":"HYDRA-1",
+    "name":"Hydra-1",
     "norad_id":"58567",
     "uplink":"145.875",
     "downlink":"436.666",
@@ -10846,7 +10846,7 @@
     "satnogs_id":"KDPU-1823-6370-5846-1492"
   },
   {
-    "name":"HYDRA-2",
+    "name":"Hydra-2",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.320",
@@ -10854,6 +10854,17 @@
     "mode":"9k6_GMSK FM Music",
     "callsign":null,
     "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"Hydra-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.320",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
