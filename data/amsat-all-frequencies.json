@@ -2283,8 +2283,8 @@
     "downlink":"401.360",
     "beacon":null,
     "mode":"9k6_GMSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"BALKAN",
+    "status":"active",
     "satnogs_id":null
   },
   {
