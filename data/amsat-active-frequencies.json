@@ -2350,6 +2350,26 @@
     "satnogs_id":"MIOI-0494-0446-3367-1916"
   },
   {
+    "name":"PEARL-1A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.540",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"PEARLA",
+    "satnogs_id":null
+  },
+  {
+    "name":"PEARL-1B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.620",
+    "beacon":null,
+    "mode":"9600bps GFSK",
+    "callsign":"PEARLB",
+    "satnogs_id":null
+  },
+  {
     "name":"PHI-1",
     "norad_id":"66775",
     "uplink":null,

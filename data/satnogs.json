@@ -41264,7 +41264,7 @@
     "citation":"https:\/\/docs.google.com\/document\/d\/1i7lPF2f3Vp6ha-zbO-RJ_Cf_1sYaoay-gKrNNJ98w9Q\/edit?usp=sharing  and Martin HErren s chat",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "RITI-6696-6752-0842-9784"
     ]
   },
   {
@@ -64270,10 +64270,12 @@
     "operator":"None",
     "countries":"JP",
     "telemetries":[
-
+      {
+        "decoder":"arica2"
+      }
     ],
-    "updated":"2026-04-23T19:48:29.141783Z",
-    "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/28",
+    "updated":"2026-05-06T18:43:59.994426Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/arica-2",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64828,6 +64830,54 @@
     ],
     "updated":"2026-05-03T16:21:42.153469Z",
     "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EIXV-4159-6100-2985-2126",
+    "norad_cat_id":36508.0,
+    "norad_follow_id":null,
+    "name":"CryoSat-2",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2010-04-10T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"ESA",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-06T12:52:15.395650Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/CryoSat-2",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LUPN-0159-2865-6931-5926",
+    "norad_cat_id":64874.0,
+    "norad_follow_id":null,
+    "name":"PEXT",
+    "names":"2025-154F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-07-23T00:00:00Z",
+    "deployed":"2025-07-23T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-06T17:06:33.249455Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1mu6wUdk_6LSditt-oEUzATWmQRG8tCFYZnozTXuXQ0M\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

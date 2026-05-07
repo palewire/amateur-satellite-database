@@ -18233,8 +18233,8 @@
     "downlink":"401.540",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"PEARLA",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -18244,8 +18244,8 @@
     "downlink":"401.620",
     "beacon":null,
     "mode":"9600bps GFSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"PEARLB",
+    "status":"active",
     "satnogs_id":null
   },
   {
