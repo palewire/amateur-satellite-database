@@ -3016,7 +3016,9 @@
     "operator":"None",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"uwe3"
+      }
     ],
     "updated":"2023-05-06T18:53:49.210030Z",
     "citation":"https:\/\/www.pe0sat.vgnet.nl\/satellite\/cube-nano-picosats\/uwe-3\/",
