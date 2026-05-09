@@ -8726,8 +8726,8 @@
     "name":"al-Farabi-2",
     "names":"UN1GWA",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-05-07T00:00:00Z",
     "launched":"2018-12-03T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.kaznu.kz\/en\/4135\/news\/one\/5708\/",
@@ -8736,8 +8736,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-07-31T23:39:42.136059Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-05-09T09:38:33.420427Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43805",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -48605,8 +48605,8 @@
     "name":"TUSUR GO",
     "names":"RS78S",
     "image":"satellites\/image1.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-05-07T00:00:00Z",
     "launched":"2024-11-04T23:18:40Z",
     "deployed":null,
     "website":"https:\/\/spacepi.space\/satellites\/tusur-go\/",
@@ -48617,8 +48617,8 @@
         "decoder":"geoscan"
       }
     ],
-    "updated":"2024-12-19T11:15:33.642347Z",
-    "citation":"https:\/\/celestrak.org\/NORAD\/elements\/gp.php?INTDES=2024-199",
+    "updated":"2026-05-09T09:38:40.315632Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=61782",
     "is_frequency_violator":true,
     "associated_satellites":[
       "AFDB-4625-2609-6297-2514"
@@ -63818,8 +63818,8 @@
         "decoder":"canvas"
       }
     ],
-    "updated":"2026-04-12T19:31:48.901434Z",
-    "citation":"celestrak.org",
+    "updated":"2026-05-09T08:12:48.558372Z",
+    "citation":"update of the dashboard link",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64880,6 +64880,30 @@
     ],
     "updated":"2026-05-06T17:06:33.249455Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1mu6wUdk_6LSditt-oEUzATWmQRG8tCFYZnozTXuXQ0M\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IUUR-4361-7087-5771-2518",
+    "norad_cat_id":62580.0,
+    "norad_follow_id":null,
+    "name":"Centispace-1 S11",
+    "names":"2025-007F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-01-13T00:00:00Z",
+    "deployed":"2025-01-13T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-09T09:32:30.904604Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1GEA8m_zW2i-BsPokAxTJXWgiaHUKWwUhlmtAD6i34t8\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
