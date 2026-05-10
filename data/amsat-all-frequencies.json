@@ -6803,7 +6803,7 @@
     "uplink":null,
     "downlink":"400.200\/2240.000",
     "beacon":null,
-    "mode":"FM",
+    "mode":"9k6_FSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

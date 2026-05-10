@@ -10666,8 +10666,8 @@
     "name":"ION-MK01",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-04-19T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -10676,8 +10676,8 @@
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.822396Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-05-10T09:51:30.762375Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=46274",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -57750,8 +57750,8 @@
     "name":"YOTSUBA-KULOVER",
     "names":"",
     "image":"satellites\/YOTSUBA-KULOVER.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-04-16T17:29:47Z",
     "launched":null,
     "deployed":"2025-10-10T09:40:00Z",
     "website":"",
@@ -57760,8 +57760,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-10-12T07:25:52.621958Z",
-    "citation":"space-track.org",
+    "updated":"2026-05-10T09:51:18.209568Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?NAME=yotsuba",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64478,7 +64478,7 @@
   {
     "sat_id":"ZXKF-7497-4419-0567-7683",
     "norad_cat_id":98320.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68998.0,
     "name":"Gemini-Pollux",
     "names":"",
     "image":"satellites\/PXL_20251126_100049129_1.jpg",
@@ -64494,8 +64494,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2026-05-03T06:50:01.968144Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
+    "updated":"2026-05-10T11:12:48.859508Z",
+    "citation":"https:\/\/community.libre.space\/t\/cas500-2-rideshare-vsfb-slc-4e-2026-05-03-6-59-utc\/14688\/147",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64640,6 +64640,54 @@
     ],
     "updated":"2026-05-02T15:16:56.771734Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1873Oq-oBKXi_w3cf_koX1MGJ-durZP69CO1f_QBTdoE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GEQA-0069-3077-6874-5730",
+    "norad_cat_id":98305.0,
+    "norad_follow_id":null,
+    "name":"RCOST LX1",
+    "names":"SynergySAT",
+    "image":"satellites\/RCOST_LX1_PIC.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-15T00:00:00Z",
+    "deployed":"2026-07-15T00:00:00Z",
+    "website":"https:\/\/www.harpyaerospace.in",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-10T09:50:51.012569Z",
+    "citation":"Remove re-entry date",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XWNB-7034-8535-1183-0188",
+    "norad_cat_id":98306.0,
+    "norad_follow_id":null,
+    "name":"JNANAM",
+    "names":"JNANAMSAT-1",
+    "image":"satellites\/JNANAM_SAT1.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-15T00:00:00Z",
+    "deployed":"2026-07-15T00:00:00Z",
+    "website":"https:\/\/www.jssuni.edu.in\/JSSWeb\/WebHome.aspx",
+    "operator":"None",
+    "countries":"IN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-10T09:50:57.320964Z",
+    "citation":"Remove re-entry date",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64904,6 +64952,30 @@
     ],
     "updated":"2026-05-09T09:32:30.904604Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1GEA8m_zW2i-BsPokAxTJXWgiaHUKWwUhlmtAD6i34t8\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XRXA-3201-1984-4941-3236",
+    "norad_cat_id":65977.0,
+    "norad_follow_id":null,
+    "name":"SDA_1667",
+    "names":"2025-230D",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-10-15T00:00:00Z",
+    "deployed":"2025-10-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-10T09:46:47.271620Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1SR309In73Kbh336y6HfohH6Ucz0wBM1JDi99_fQw7tc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
