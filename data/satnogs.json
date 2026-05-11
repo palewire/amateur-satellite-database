@@ -31916,8 +31916,8 @@
     "name":"RHOK-SAT",
     "names":"",
     "image":"satellites\/RHOK-SAT_6.jpeg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-05-08T00:00:00Z",
     "launched":"2025-09-14T22:11:00Z",
     "deployed":"2025-12-02T08:20:00Z",
     "website":"https:\/\/news.rhodes.edu\/stories\/cube-satellite-built-rhodes-college-team-set-launch-sept-14-part-nasa-mission",
@@ -31928,8 +31928,8 @@
         "decoder":"rhoksat"
       }
     ],
-    "updated":"2025-12-23T12:57:58.843648Z",
-    "citation":"https:\/\/www.nanosats.eu\/sat\/rhok-sat",
+    "updated":"2026-05-11T12:40:51.483786Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=66907",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -63562,7 +63562,7 @@
   {
     "sat_id":"UFAL-5513-3416-2916-4283",
     "norad_cat_id":98352.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68477.0,
     "name":"UNICORN-2S",
     "names":"",
     "image":"",
@@ -63576,8 +63576,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-30T11:01:19.214167Z",
-    "citation":"change status",
+    "updated":"2026-05-11T12:40:14.496784Z",
+    "citation":"Most likely candidate based on observations. No beacon. Can only transmit\/ receive over Germany.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64978,6 +64978,30 @@
     ],
     "updated":"2026-05-10T09:46:47.271620Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1SR309In73Kbh336y6HfohH6Ucz0wBM1JDi99_fQw7tc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"CBVE-3441-0222-0887-7897",
+    "norad_cat_id":39197.0,
+    "norad_follow_id":null,
+    "name":"IRIS",
+    "names":"2013-033A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2013-06-28T00:00:00Z",
+    "deployed":"2013-06-28T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-11T12:40:44.058172Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ag1DkO3Qdr-B18P5lad_AUdo5rFEhdRt4nwuDvvGZLc\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 

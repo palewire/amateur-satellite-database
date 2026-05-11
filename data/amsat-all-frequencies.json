@@ -3411,7 +3411,7 @@
   },
   {
     "name":"BRO-21",
-    "norad_id":null,
+    "norad_id":"69002",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -5853,14 +5853,14 @@
   },
   {
     "name":"CTS-SAT1",
-    "norad_id":null,
+    "norad_id":"69015",
     "uplink":null,
     "downlink":"436.150",
     "beacon":null,
     "mode":"9k6_GMSK FSK*",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"GGCH-4346-1583-9419-5634"
   },
   {
     "name":"CUAVA-1",
@@ -6799,7 +6799,7 @@
   },
   {
     "name":"Drishti",
-    "norad_id":null,
+    "norad_id":"69010",
     "uplink":null,
     "downlink":"400.200\/2240.000",
     "beacon":null,
@@ -8999,14 +8999,14 @@
   },
   {
     "name":"FrontierSat",
-    "norad_id":null,
+    "norad_id":"69015",
     "uplink":null,
     "downlink":"436.150",
     "beacon":null,
     "mode":"9k6_GMSK FSK*",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"GGCH-4346-1583-9419-5634"
   },
   {
     "name":"FSI-SAT",
@@ -9285,7 +9285,7 @@
   },
   {
     "name":"Gemini-Pollux",
-    "norad_id":null,
+    "norad_id":"68998",
     "uplink":"145.900",
     "downlink":"437.200",
     "beacon":null,
@@ -10176,14 +10176,14 @@
   },
   {
     "name":"HELIOS",
-    "norad_id":null,
+    "norad_id":"69021",
     "uplink":null,
     "downlink":"2255.000",
     "beacon":null,
     "mode":"50k_FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"UHFO-5095-4127-1051-0125"
   },
   {
     "name":"HELLOWORLD-1",
@@ -17337,7 +17337,7 @@
   },
   {
     "name":"NuLink-1",
-    "norad_id":null,
+    "norad_id":"69002",
     "uplink":null,
     "downlink":"401.000\/2218.000",
     "beacon":null,
@@ -17348,7 +17348,7 @@
   },
   {
     "name":"NuLink-2",
-    "norad_id":null,
+    "norad_id":"68994",
     "uplink":null,
     "downlink":"401.000\/2220.000",
     "beacon":null,
@@ -18228,7 +18228,7 @@
   },
   {
     "name":"PEARL-1A",
-    "norad_id":null,
+    "norad_id":"68990",
     "uplink":null,
     "downlink":"401.540",
     "beacon":null,
@@ -18239,7 +18239,7 @@
   },
   {
     "name":"PEARL-1B",
-    "norad_id":null,
+    "norad_id":"68980",
     "uplink":null,
     "downlink":"401.620",
     "beacon":null,
@@ -19690,8 +19690,8 @@
     "satnogs_id":"ZYDE-4447-8719-9309-2022"
   },
   {
-    "name":"QUBE-II",
-    "norad_id":null,
+    "name":"QUBE2",
+    "norad_id":"69024",
     "uplink":null,
     "downlink":"435.600*\/437.900\/2282.500",
     "beacon":null,
@@ -21572,14 +21572,14 @@
   },
   {
     "name":"SELENE",
-    "norad_id":null,
+    "norad_id":"69020",
     "uplink":null,
     "downlink":"2255.000",
     "beacon":null,
     "mode":"50k_FSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"GGQT-4724-9610-5966-0366"
   },
   {
     "name":"SelfieSat",

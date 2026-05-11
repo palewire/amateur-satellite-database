@@ -351,7 +351,7 @@
   },
   {
     "name":"BRO-21",
-    "norad_id":null,
+    "norad_id":"69002",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -761,13 +761,13 @@
   },
   {
     "name":"CTS-SAT1",
-    "norad_id":null,
+    "norad_id":"69015",
     "uplink":null,
     "downlink":"436.150",
     "beacon":null,
     "mode":"9k6_GMSK FSK*",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"GGCH-4346-1583-9419-5634"
   },
   {
     "name":"CubeBel-2",
@@ -1181,13 +1181,13 @@
   },
   {
     "name":"FrontierSat",
-    "norad_id":null,
+    "norad_id":"69015",
     "uplink":null,
     "downlink":"436.150",
     "beacon":null,
     "mode":"9k6_GMSK FSK*",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"GGCH-4346-1583-9419-5634"
   },
   {
     "name":"FSI-SAT2",
@@ -1231,7 +1231,7 @@
   },
   {
     "name":"Gemini-Pollux",
-    "norad_id":null,
+    "norad_id":"68998",
     "uplink":"145.900",
     "downlink":"437.200",
     "beacon":null,
@@ -2361,7 +2361,7 @@
   },
   {
     "name":"PEARL-1A",
-    "norad_id":null,
+    "norad_id":"68990",
     "uplink":null,
     "downlink":"401.540",
     "beacon":null,
@@ -2371,7 +2371,7 @@
   },
   {
     "name":"PEARL-1B",
-    "norad_id":null,
+    "norad_id":"68980",
     "uplink":null,
     "downlink":"401.620",
     "beacon":null,
