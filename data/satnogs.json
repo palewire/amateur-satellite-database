@@ -46368,8 +46368,8 @@
         "decoder":"aepex"
       }
     ],
-    "updated":"2026-03-30T06:09:33.277838Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-16",
+    "updated":"2026-05-12T12:19:21.240766Z",
+    "citation":"Add dashboard URL",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -59927,8 +59927,8 @@
     "name":"CU-ALPHA",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-05-08T00:00:00Z",
     "launched":"2025-09-14T22:11:00Z",
     "deployed":"2025-12-02T08:20:00Z",
     "website":"",
@@ -59937,8 +59937,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-06T11:23:40.613567Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=lIFdCA7Ow3w",
+    "updated":"2026-05-12T12:37:26.986092Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=66908",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64478,7 +64478,7 @@
   {
     "sat_id":"ZXKF-7497-4419-0567-7683",
     "norad_cat_id":98320.0,
-    "norad_follow_id":68998.0,
+    "norad_follow_id":null,
     "name":"Gemini-Pollux",
     "names":"",
     "image":"satellites\/PXL_20251126_100049129_1.jpg",
@@ -64494,8 +64494,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2026-05-10T11:12:48.859508Z",
-    "citation":"https:\/\/community.libre.space\/t\/cas500-2-rideshare-vsfb-slc-4e-2026-05-03-6-59-utc\/14688\/147",
+    "updated":"2026-05-12T11:39:22.846708Z",
+    "citation":"Satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65002,6 +65002,102 @@
     ],
     "updated":"2026-05-11T12:40:44.058172Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1ag1DkO3Qdr-B18P5lad_AUdo5rFEhdRt4nwuDvvGZLc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WYAT-0983-8395-9520-0677",
+    "norad_cat_id":65994.0,
+    "norad_follow_id":null,
+    "name":"SDA_1684",
+    "names":"2025-230W",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-10-15T00:00:00Z",
+    "deployed":"2025-10-15T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-12T12:37:46.094043Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1KRQ-7i5E_3zM3rw5up7wbcBtpMl_LiLjfqFDEP_3rcA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GSCY-2558-7646-1659-6327",
+    "norad_cat_id":68430.0,
+    "norad_follow_id":null,
+    "name":"Object Q",
+    "names":"2026-067Q",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T00:00:00Z",
+    "deployed":"2026-03-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-12T12:37:41.454865Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1Wh6tZ8hNEFAjx725J2I8RoHzTit2VT_XvmPW571Tjlg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MWMO-4762-0761-4094-9683",
+    "norad_cat_id":68497.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X75",
+    "names":"2026-067CK",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T00:00:00Z",
+    "deployed":"2026-03-30T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"PL",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-12T12:37:36.328947Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1IONv91ucmYNGG-FASqhIkymcF8UCZj5dhnQXkT1Zz1k\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KKTB-3799-7177-0689-2786",
+    "norad_cat_id":64570.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X54",
+    "names":"2025-135AU",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-12T12:37:32.302558Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1K7RR1sX-XOE6s3tDrSEhogSWs1Lu4qD5S4UaHZd9dys\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
