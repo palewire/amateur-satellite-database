@@ -1655,7 +1655,7 @@
     "uplink":null,
     "downlink":"436.830",
     "beacon":"436.830",
-    "mode":"4k8_GMSK CW*",
+    "mode":"4k8_GMSK CW",
     "callsign":"JS1YSD",
     "status":"active",
     "satnogs_id":null
@@ -2284,7 +2284,7 @@
     "beacon":null,
     "mode":"9k6_GMSK",
     "callsign":"BALKAN",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7338,7 +7338,7 @@
   },
   {
     "name":"EMISAR",
-    "norad_id":null,
+    "norad_id":"68427",
     "uplink":null,
     "downlink":"401.334",
     "beacon":"401.334",
@@ -9285,7 +9285,7 @@
   },
   {
     "name":"Gemini-Pollux",
-    "norad_id":"68998",
+    "norad_id":null,
     "uplink":"145.900",
     "downlink":"437.200",
     "beacon":null,
@@ -17491,7 +17491,7 @@
   },
   {
     "name":"OBZP1",
-    "norad_id":null,
+    "norad_id":"68373",
     "uplink":null,
     "downlink":"435.615\/435.715",
     "beacon":null,

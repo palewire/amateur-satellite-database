@@ -46356,7 +46356,7 @@
     "name":"AEPEX",
     "names":"",
     "image":"satellites\/AEPEX.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-03-30T11:02:00Z",
     "deployed":null,
@@ -46368,8 +46368,8 @@
         "decoder":"aepex"
       }
     ],
-    "updated":"2026-05-12T12:19:21.240766Z",
-    "citation":"Add dashboard URL",
+    "updated":"2026-05-12T17:55:46.858668Z",
+    "citation":"ExoTrail SPACEVAN-002 confirmed AEPEX deployment 2026-05-12 15:09 UTC",
     "is_frequency_violator":false,
     "associated_satellites":[
 
