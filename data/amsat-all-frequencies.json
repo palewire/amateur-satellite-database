@@ -17337,7 +17337,7 @@
   },
   {
     "name":"NuLink-1",
-    "norad_id":"69002",
+    "norad_id":null,
     "uplink":null,
     "downlink":"401.000\/2218.000",
     "beacon":null,

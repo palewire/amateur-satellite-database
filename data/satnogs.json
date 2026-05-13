@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -64430,7 +64430,7 @@
   {
     "sat_id":"YEEE-7340-7726-4018-8919",
     "norad_cat_id":98322.0,
-    "norad_follow_id":69002.0,
+    "norad_follow_id":null,
     "name":"NuLink-1",
     "names":"",
     "image":"",
@@ -64444,8 +64444,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-10T13:14:36.116857Z",
-    "citation":"https:\/\/community.libre.space\/t\/cas500-2-rideshare-vsfb-slc-4e-2026-05-03-6-59-utc\/14688\/150",
+    "updated":"2026-05-13T09:58:41.761558Z",
+    "citation":"https:\/\/community.libre.space\/t\/cas500-2-rideshare-vsfb-slc-4e-2026-05-03-6-59-utc\/14688\/153",
     "is_frequency_violator":false,
     "associated_satellites":[
 
