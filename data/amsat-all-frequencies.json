@@ -324,9 +324,9 @@
     "uplink":null,
     "downlink":"437.325\/2405.000",
     "beacon":null,
-    "mode":"9k6\/19k2GFSK 10MbpsOQPSK",
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9k6*\/19k2GFSK 10MbpsOQPSK",
+    "callsign":"APX",
+    "status":"active",
     "satnogs_id":null
   },
   {

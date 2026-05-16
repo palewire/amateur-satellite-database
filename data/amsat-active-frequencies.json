@@ -20,6 +20,16 @@
     "satnogs_id":"RNAT-4607-0106-2995-6819"
   },
   {
+    "name":"AEPEX",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.325\/2405.000",
+    "beacon":null,
+    "mode":"9k6*\/19k2GFSK 10MbpsOQPSK",
+    "callsign":"APX",
+    "satnogs_id":null
+  },
+  {
     "name":"AISat",
     "norad_id":"40054",
     "uplink":null,
