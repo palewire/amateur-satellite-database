@@ -7509,7 +7509,7 @@
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
     "callsign":"DP0PQA",
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -7520,7 +7520,7 @@
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
     "callsign":"DP0PQB",
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -7531,7 +7531,7 @@
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
     "callsign":"DP0PQC",
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {

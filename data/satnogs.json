@@ -55534,19 +55534,19 @@
     "norad_follow_id":null,
     "name":"UND ROADS 1",
     "names":"",
-    "image":"",
+    "image":"satellites\/roads-patch.png",
     "status":"alive",
     "decayed":null,
     "launched":"2025-06-23T21:25:00Z",
     "deployed":"2025-06-23T22:20:07Z",
-    "website":"",
+    "website":"https:\/\/aero.und.edu\/space\/operations-group\/roads-mission.html",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2025-08-24T22:28:30.768401Z",
-    "citation":"space-track.org and network observations",
+    "updated":"2026-05-15T13:30:33.307671Z",
+    "citation":"https:\/\/aero.und.edu\/space\/operations-group\/_files\/images\/roads-patch.png",
     "is_frequency_violator":false,
     "associated_satellites":[
       "OBLV-3173-5346-9120-5299"
@@ -64531,7 +64531,7 @@
     "norad_follow_id":null,
     "name":"FrontierSat",
     "names":"CTS-SAT-1, CTS SAT1",
-    "image":"",
+    "image":"satellites\/IMG_5812.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2026-05-03T06:59:00Z",
@@ -64544,7 +64544,7 @@
         "decoder":"frontiersat"
       }
     ],
-    "updated":"2026-05-14T13:24:08.566375Z",
+    "updated":"2026-05-15T13:30:25.954736Z",
     "citation":"https:\/\/github.com\/CalgaryToSpace\/CTS-SAT-1-Wiki\/wiki",
     "is_frequency_violator":false,
     "associated_satellites":[
