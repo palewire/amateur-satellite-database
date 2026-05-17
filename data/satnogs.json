@@ -32427,8 +32427,8 @@
     "name":"StratoSat TK-1-E",
     "names":"RS52SE",
     "image":"satellites\/d.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-05-13T00:00:00Z",
     "launched":"2023-06-27T11:34:00Z",
     "deployed":"2023-07-11T08:00:00Z",
     "website":"https:\/\/stratonautica.ru\/",
@@ -32437,8 +32437,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-29T00:56:14.869709Z",
-    "citation":"Satellite Team",
+    "updated":"2026-05-16T13:38:13.180768Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=57323",
     "is_frequency_violator":true,
     "associated_satellites":[
       "WALR-9075-3889-1687-8814"
@@ -64770,7 +64770,7 @@
   {
     "sat_id":"QLWK-5874-1051-9588-0615",
     "norad_cat_id":98312.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68986.0,
     "name":"BusanSat",
     "names":"",
     "image":"",
@@ -64784,8 +64784,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-03T06:50:01.773740Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
+    "updated":"2026-05-16T13:34:55.658093Z",
+    "citation":"https:\/\/community.libre.space\/t\/cas500-2-rideshare-vsfb-slc-4e-2026-05-03-6-59-utc\/14688\/166",
     "is_frequency_violator":false,
     "associated_satellites":[
 
