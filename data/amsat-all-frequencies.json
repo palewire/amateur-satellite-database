@@ -3466,14 +3466,14 @@
   },
   {
     "name":"BusanSat",
-    "norad_id":null,
+    "norad_id":"68989",
     "uplink":null,
     "downlink":"2261.950",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LEZN-2755-1794-3292-6222"
   },
   {
     "name":"BY70-1",

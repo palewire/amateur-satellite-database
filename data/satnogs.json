@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -48433,8 +48433,8 @@
     "name":"Horizon",
     "names":"\u0413\u043e\u0440\u0438\u0437\u043e\u043d\u0442, Gorizont, RS59S",
     "image":"satellites\/ddd.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-05-16T00:00:00Z",
     "launched":"2024-11-04T00:00:00Z",
     "deployed":"2024-11-05T00:00:00Z",
     "website":"https:\/\/spacepi.space\/satellites\/gorizont\/",
@@ -48445,8 +48445,8 @@
         "decoder":"geoscan"
       }
     ],
-    "updated":"2024-12-19T11:13:52.849234Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/307",
+    "updated":"2026-05-18T12:44:30.158671Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=61757",
     "is_frequency_violator":false,
     "associated_satellites":[
       "HKSY-0176-2511-9274-2502"
