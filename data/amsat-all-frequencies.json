@@ -15543,6 +15543,17 @@
     "satnogs_id":null
   },
   {
+    "name":"MENUT",
+    "norad_id":"55010",
+    "uplink":null,
+    "downlink":"2245.300",
+    "beacon":null,
+    "mode":"5000k QPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"TVVV-4886-3655-8892-8000"
+  },
+  {
     "name":"Mercury-1",
     "norad_id":"66742",
     "uplink":null,
@@ -17721,6 +17732,17 @@
     "satnogs_id":"EEIT-0315-8565-1765-1994"
   },
   {
+    "name":"Orbastro-JEN-1",
+    "norad_id":"69006",
+    "uplink":null,
+    "downlink":"2259.985",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"RJFX-8319-5567-5053-5588"
+  },
+  {
     "name":"OrbAstro-PC1\/TR1",
     "norad_id":null,
     "uplink":null,
@@ -18921,14 +18943,14 @@
   },
   {
     "name":"PLATERO",
-    "norad_id":null,
+    "norad_id":"58262",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2217.900",
     "beacon":null,
-    "mode":null,
+    "mode":"5000k QPSK",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"LTAY-8341-3905-4014-6315"
   },
   {
     "name":"Platform-1",
