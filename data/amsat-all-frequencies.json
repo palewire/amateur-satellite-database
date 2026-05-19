@@ -6337,14 +6337,14 @@
   },
   {
     "name":"DecimalSat-1",
-    "norad_id":null,
+    "norad_id":"68419",
     "uplink":null,
     "downlink":"436.600",
     "beacon":"436.600",
     "mode":"500\/1000GFSK SSDV",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JIKH-1381-0513-1618-0623"
   },
   {
     "name":"Deimos",
@@ -6546,7 +6546,7 @@
   },
   {
     "name":"DISCO-2",
-    "norad_id":null,
+    "norad_id":"68431",
     "uplink":null,
     "downlink":"437.075\/2432.500",
     "beacon":null,
@@ -9289,7 +9289,7 @@
     "uplink":"145.900",
     "downlink":"437.200",
     "beacon":null,
-    "mode":"1k2\/9k6*BPSK FM",
+    "mode":"1k2\/9k6_BPSK FM",
     "callsign":"BN0HMA-1",
     "status":"active",
     "satnogs_id":null
