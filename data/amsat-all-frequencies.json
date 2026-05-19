@@ -6550,7 +6550,7 @@
     "uplink":null,
     "downlink":"437.075\/2432.500",
     "beacon":null,
-    "mode":"9k6_FSK\/GMSK",
+    "mode":"4k8_GMSK 9k6_FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

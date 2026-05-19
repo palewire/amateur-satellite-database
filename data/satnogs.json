@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -63042,14 +63042,14 @@
     "decayed":null,
     "launched":null,
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/kensat.com\/",
     "operator":"None",
     "countries":"MY",
     "telemetries":[
 
     ],
-    "updated":"2026-03-25T20:58:50.692436Z",
-    "citation":"change status",
+    "updated":"2026-05-18T23:22:34.858274Z",
+    "citation":"https:\/\/kensat.com\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
