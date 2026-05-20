@@ -8976,6 +8976,17 @@
     "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
+    "name":"FO-126",
+    "norad_id":"68795",
+    "uplink":null,
+    "downlink":"437.505\/5840.000",
+    "beacon":"437.505",
+    "mode":"1k2_AFSK* BPSK QPSK CW*",
+    "callsign":"JS1YRU",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"FRAMSAT-1",
     "norad_id":null,
     "uplink":null,

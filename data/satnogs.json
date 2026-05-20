@@ -59129,7 +59129,7 @@
     "norad_follow_id":66658.0,
     "name":"COSMIC",
     "names":"",
-    "image":"satellites\/KakaoTalk_20251125_151839057.png",
+    "image":"satellites\/COSMIC_mission_patch.png",
     "status":"alive",
     "decayed":null,
     "launched":"2025-11-26T15:54:00Z",
@@ -59140,8 +59140,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-04T05:38:51.237439Z",
-    "citation":"https:\/\/community.libre.space\/t\/kslv-2-cas500-3-mission-2025-11-26-16-13-utc\/14043\/57",
+    "updated":"2026-05-20T11:12:40.753566Z",
+    "citation":"COSMIC",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64312,7 +64312,7 @@
     "norad_cat_id":98325.0,
     "norad_follow_id":68795.0,
     "name":"OrigamiSat-2",
-    "names":"JS1YRU",
+    "names":"JS1YRU, FO-126",
     "image":"satellites\/04_origamisat2.png",
     "status":"alive",
     "decayed":null,
@@ -64324,8 +64324,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T20:21:59.996425Z",
-    "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/32",
+    "updated":"2026-05-20T11:12:27.967014Z",
+    "citation":"https:\/\/www.amsat.org\/ans-140-amsat-news-service-special-bulletin\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65194,6 +65194,30 @@
     ],
     "updated":"2026-05-17T15:05:19.117396Z",
     "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/platero.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IVRM-2552-1047-1201-8250",
+    "norad_cat_id":35491.0,
+    "norad_follow_id":null,
+    "name":"GOES 14",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2009-06-27T00:00:00Z",
+    "deployed":"2009-06-27T00:00:00Z",
+    "website":"https:\/\/www.nesdis.noaa.gov\/our-satellites\/currently-flying",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-20T11:09:00.944106Z",
+    "citation":"https:\/\/www.nesdis.noaa.gov\/our-satellites\/currently-flying",
     "is_frequency_violator":false,
     "associated_satellites":[
 

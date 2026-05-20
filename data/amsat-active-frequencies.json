@@ -1190,6 +1190,16 @@
     "satnogs_id":"THLP-9709-3501-8618-5195"
   },
   {
+    "name":"FO-126",
+    "norad_id":"68795",
+    "uplink":null,
+    "downlink":"437.505\/5840.000",
+    "beacon":"437.505",
+    "mode":"1k2_AFSK* BPSK QPSK CW*",
+    "callsign":"JS1YRU",
+    "satnogs_id":null
+  },
+  {
     "name":"FrontierSat",
     "norad_id":"69015",
     "uplink":null,
