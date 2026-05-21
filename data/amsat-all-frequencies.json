@@ -2284,7 +2284,7 @@
     "beacon":null,
     "mode":"9k6_GMSK",
     "callsign":"BALKAN",
-    "status":"active",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
