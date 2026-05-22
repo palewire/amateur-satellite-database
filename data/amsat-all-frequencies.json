@@ -320,11 +320,11 @@
   },
   {
     "name":"AEPEX",
-    "norad_id":null,
+    "norad_id":"68506",
     "uplink":null,
     "downlink":"437.325\/2405.000",
     "beacon":null,
-    "mode":"9k6*\/19k2GFSK 10MbpsOQPSK",
+    "mode":"9k6*\/19k2GFSK",
     "callsign":"APX",
     "status":"active",
     "satnogs_id":null
