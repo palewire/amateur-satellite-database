@@ -9995,7 +9995,7 @@
     "beacon":"436.666",
     "mode":"200*-2k4_USB FM CW",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"TPAP-4475-7915-0965-4305"
   },
   {
@@ -16871,7 +16871,7 @@
     "mode":null,
     "callsign":null,
     "status":"weather sat",
-    "satnogs_id":null
+    "satnogs_id":"FWED-8162-6651-9503-1227"
   },
   {
     "name":"NOAA-7",
@@ -23206,7 +23206,7 @@
     "beacon":"436.666",
     "mode":"200*-2k4_USB FM CW",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"TPAP-4475-7915-0965-4305"
   },
   {

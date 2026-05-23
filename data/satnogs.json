@@ -43537,8 +43537,8 @@
     "name":"EagleSat-2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-05-17T00:00:00Z",
     "launched":"2025-09-14T22:11:00Z",
     "deployed":"2025-12-02T09:50:00Z",
     "website":"https:\/\/prescott.erau.edu\/about\/labs\/axfab-eaglesat",
@@ -43547,8 +43547,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-06T11:16:59.355551Z",
-    "citation":"Random choice from the deployment",
+    "updated":"2026-05-23T01:04:35.594593Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=66910",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53516,8 +53516,8 @@
     "name":"HADES-ICM",
     "names":"SO-125",
     "image":"satellites\/cache_19342873.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2025-05-21T21:35:00Z",
     "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
     "website":"https:\/\/www.amsat-ea.org\/",
@@ -53528,8 +53528,8 @@
         "decoder":"hadesicm"
       }
     ],
-    "updated":"2025-06-24T08:08:03.223315Z",
-    "citation":"https:\/\/iaru.amsat-uk.org\/formal_detail.php?serialnum=1001",
+    "updated":"2026-05-23T01:09:52.767363Z",
+    "citation":"https:\/\/community.libre.space\/t\/observation-14090111-hades-icm-63492-re-entry\/14786\/8",
     "is_frequency_violator":false,
     "associated_satellites":[
       "PJLO-8862-7918-1336-0908"
@@ -58573,7 +58573,7 @@
     "norad_follow_id":68437.0,
     "name":"VEGAFLY-1",
     "names":"XV5T",
-    "image":"",
+    "image":"satellites\/vegafly.jpeg",
     "status":"alive",
     "decayed":null,
     "launched":"2026-03-30T11:02:00Z",
@@ -58584,8 +58584,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-22T13:04:28.700295Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/202",
+    "updated":"2026-05-23T11:40:36.556244Z",
+    "citation":"community post: https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/209",
     "is_frequency_violator":false,
     "associated_satellites":[
       "IHPZ-6510-7381-6780-6404"
@@ -65242,6 +65242,54 @@
     ],
     "updated":"2026-05-20T11:09:00.944106Z",
     "citation":"https:\/\/www.nesdis.noaa.gov\/our-satellites\/currently-flying",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KVIJ-9416-6024-1883-2597",
+    "norad_cat_id":35681.0,
+    "norad_follow_id":null,
+    "name":"DEIMOS 1",
+    "names":"2009-041A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2009-07-29T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-23T01:10:25.253806Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/14g-cw2bBI3FAM9KhXvxL7BF50KxmbA9Y5uA9FWCOT3Y\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FWED-8162-6651-9503-1227",
+    "norad_cat_id":11416.0,
+    "norad_follow_id":null,
+    "name":"NOAA 6",
+    "names":"1979-057A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"1979-06-27T15:51:59Z",
+    "deployed":"1979-06-27T16:15:00Z",
+    "website":"https:\/\/noaa.gov",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-23T01:17:48.381587Z",
+    "citation":"https:\/\/orbitalfocus.uk",
     "is_frequency_violator":false,
     "associated_satellites":[
 
