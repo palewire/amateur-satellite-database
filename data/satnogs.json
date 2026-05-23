@@ -46352,7 +46352,7 @@
   {
     "sat_id":"ROGL-5396-9562-5275-1160",
     "norad_cat_id":98864.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68506.0,
     "name":"AEPEX",
     "names":"",
     "image":"satellites\/AEPEX.png",
@@ -46368,8 +46368,8 @@
         "decoder":"aepex"
       }
     ],
-    "updated":"2026-05-12T17:55:46.858668Z",
-    "citation":"ExoTrail SPACEVAN-002 confirmed AEPEX deployment 2026-05-12 15:09 UTC",
+    "updated":"2026-05-22T13:03:38.101794Z",
+    "citation":"Team update and STRF confirmation",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -58570,7 +58570,7 @@
   {
     "sat_id":"LPUU-9270-2724-3685-4470",
     "norad_cat_id":98519.0,
-    "norad_follow_id":68434.0,
+    "norad_follow_id":68437.0,
     "name":"VEGAFLY-1",
     "names":"XV5T",
     "image":"",
@@ -58584,8 +58584,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-04T16:31:19.763191Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/180",
+    "updated":"2026-05-22T13:04:28.700295Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/202",
     "is_frequency_violator":false,
     "associated_satellites":[
       "IHPZ-6510-7381-6780-6404"
@@ -63368,6 +63368,30 @@
     ]
   },
   {
+    "sat_id":"NJFS-8348-6841-8671-3055",
+    "norad_cat_id":42072.0,
+    "norad_follow_id":null,
+    "name":"IGS RADAR 5",
+    "names":"2017-015A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2017-03-17T00:00:00Z",
+    "deployed":"2017-03-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-05-22T13:21:54.097560Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1oPZB8oe4DEiTi3YebwxU5HwaStSYFRILXX0P7t7NLPE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"IMHH-4032-1798-6391-5710",
     "norad_cat_id":68470.0,
     "norad_follow_id":null,
@@ -64478,7 +64502,7 @@
   {
     "sat_id":"ZXKF-7497-4419-0567-7683",
     "norad_cat_id":98320.0,
-    "norad_follow_id":69000.0,
+    "norad_follow_id":null,
     "name":"Gemini-Pollux",
     "names":"",
     "image":"satellites\/PXL_20251126_100049129_1.jpg",
@@ -64494,8 +64518,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2026-05-14T18:11:54.443261Z",
-    "citation":"https:\/\/community.libre.space\/t\/cas500-2-rideshare-vsfb-slc-4e-2026-05-03-6-59-utc\/14688\/157",
+    "updated":"2026-05-22T13:55:43.570177Z",
+    "citation":"Remove following 69000 per satellite team request",
     "is_frequency_violator":false,
     "associated_satellites":[
 
