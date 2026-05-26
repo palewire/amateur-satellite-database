@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -63586,7 +63586,7 @@
   {
     "sat_id":"UFAL-5513-3416-2916-4283",
     "norad_cat_id":98352.0,
-    "norad_follow_id":68477.0,
+    "norad_follow_id":68475.0,
     "name":"UNICORN-2S",
     "names":"",
     "image":"",
@@ -63600,8 +63600,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-11T12:40:14.496784Z",
-    "citation":"Most likely candidate based on observations. No beacon. Can only transmit\/ receive over Germany.",
+    "updated":"2026-05-25T18:04:18.710070Z",
+    "citation":"https:\/\/i.postimg.cc\/HkHPdSn3\/qidata-uhf-21sps-2026-05-23-12-34-27-dop-FFT-waterfall-no-Tx.png https:\/\/i.postimg.cc\/YS0RCT7c\/qidata-uhf-21sps-2026-05-25-12-52-49-dop-FFT-waterfall-no-Tx.png",
     "is_frequency_violator":false,
     "associated_satellites":[
 
