@@ -39568,8 +39568,8 @@
     "name":"Intuition-1",
     "names":"",
     "image":"satellites\/c8095440-15c5-404b-8c3a-b7909744af73.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-03-23T00:00:00Z",
     "launched":"2023-11-11T18:49:00Z",
     "deployed":"2023-11-23T10:22:00Z",
     "website":"https:\/\/kplabs.space",
@@ -39578,8 +39578,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-16T00:55:43.119254Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-58565\/2023-12-15T20%3A43%3A32_8717783_58565_23174CW_0-OBJECT-CW_0.335733394814838_B_r29.0_f0.0.png",
+    "updated":"2026-05-27T04:04:46.266721Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=58565",
     "is_frequency_violator":false,
     "associated_satellites":[
 
