@@ -1197,7 +1197,7 @@
     "beacon":"437.505",
     "mode":"1k2_AFSK* BPSK QPSK CW*",
     "callsign":"JS1YRU",
-    "satnogs_id":null
+    "satnogs_id":"FDQL-7890-4040-6919-7625"
   },
   {
     "name":"FrontierSat",
@@ -2297,7 +2297,7 @@
     "beacon":"437.505",
     "mode":"1k2_AFSK* BPSK QPSK CW*",
     "callsign":"JS1YRU",
-    "satnogs_id":null
+    "satnogs_id":"FDQL-7890-4040-6919-7625"
   },
   {
     "name":"OTTER",

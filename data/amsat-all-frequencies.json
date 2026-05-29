@@ -8995,7 +8995,7 @@
     "mode":"1k2_AFSK* BPSK QPSK CW*",
     "callsign":"JS1YRU",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"FDQL-7890-4040-6919-7625"
   },
   {
     "name":"FRAMSAT-1",
@@ -17883,7 +17883,7 @@
     "mode":"1k2_AFSK* BPSK QPSK CW*",
     "callsign":"JS1YRU",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"FDQL-7890-4040-6919-7625"
   },
   {
     "name":"ORS-Squared",

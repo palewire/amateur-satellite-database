@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -64333,8 +64333,8 @@
   },
   {
     "sat_id":"FDQL-7890-4040-6919-7625",
-    "norad_cat_id":98325.0,
-    "norad_follow_id":68795.0,
+    "norad_cat_id":68795.0,
+    "norad_follow_id":null,
     "name":"OrigamiSat-2",
     "names":"JS1YRU, FO-126",
     "image":"satellites\/04_origamisat2.png",
@@ -64348,11 +64348,11 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-20T11:12:27.967014Z",
-    "citation":"https:\/\/www.amsat.org\/ans-140-amsat-news-service-special-bulletin\/",
+    "updated":"2026-05-29T10:36:40.306435Z",
+    "citation":"space-track.org and SatNOGS Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "KNLJ-9470-3971-8755-8188"
     ]
   },
   {
