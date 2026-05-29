@@ -370,6 +370,16 @@
     "satnogs_id":"PIHV-8715-3112-5892-6258"
   },
   {
+    "name":"BusanSat",
+    "norad_id":"68989",
+    "uplink":null,
+    "downlink":"2261.950",
+    "beacon":null,
+    "mode":"38k4_FSK FM",
+    "callsign":null,
+    "satnogs_id":"LEZN-2755-1794-3292-6222"
+  },
+  {
     "name":"CANVAS",
     "norad_id":"68635",
     "uplink":null,
