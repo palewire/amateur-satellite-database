@@ -6348,14 +6348,14 @@
   },
   {
     "name":"DecimalSat-1",
-    "norad_id":"68419",
+    "norad_id":null,
     "uplink":null,
     "downlink":"436.600",
     "beacon":"436.600",
     "mode":"500\/1000GFSK SSDV",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":"JIKH-1381-0513-1618-0623"
+    "satnogs_id":null
   },
   {
     "name":"Deimos",
