@@ -3432,6 +3432,17 @@
     "satnogs_id":null
   },
   {
+    "name":"BRO-22",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-1",
     "norad_id":"43666",
     "uplink":"436.200",
@@ -10536,6 +10547,17 @@
     "callsign":"RS59S",
     "status":"active",
     "satnogs_id":"YDID-3447-4202-8525-9942"
+  },
+  {
+    "name":"HORN-L\/R",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Hors-1",
@@ -18403,6 +18425,17 @@
     "satnogs_id":null
   },
   {
+    "name":"PETREL",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"PharmaSat-1",
     "norad_id":"35002",
     "uplink":null,
@@ -23826,6 +23859,17 @@
     "satnogs_id":null
   },
   {
+    "name":"STARS-X",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Startical-IOD-2",
     "norad_id":null,
     "uplink":null,
@@ -27366,6 +27410,17 @@
     "callsign":"OM9VER",
     "status":"re-entered",
     "satnogs_id":"EXYP-7555-6232-5402-1667"
+  },
+  {
+    "name":"VERTECS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Vigoride-6",
