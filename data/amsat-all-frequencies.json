@@ -11091,7 +11091,7 @@
     "name":"ICEYE-4",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"2238.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -11925,14 +11925,14 @@
   },
   {
     "name":"ICEYE-X75",
-    "norad_id":null,
+    "norad_id":"68497",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2263.500",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"MWMO-4762-0761-4094-9683"
   },
   {
     "name":"ICEYE-X76",
@@ -27490,7 +27490,7 @@
   },
   {
     "name":"VIREON-1",
-    "norad_id":null,
+    "norad_id":"68434",
     "uplink":null,
     "downlink":"2265.000",
     "beacon":null,
@@ -27501,7 +27501,7 @@
   },
   {
     "name":"VIREON-2",
-    "norad_id":null,
+    "norad_id":"68421",
     "uplink":null,
     "downlink":"2265.000",
     "beacon":null,
