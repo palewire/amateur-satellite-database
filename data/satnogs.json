@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -64310,7 +64310,7 @@
   {
     "sat_id":"BTSI-3823-5594-6119-2611",
     "norad_cat_id":98328.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68793.0,
     "name":"KOSEN-2R",
     "names":"",
     "image":"satellites\/kosen2.png",
@@ -64324,8 +64324,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T02:58:16.142840Z",
-    "citation":"https:\/\/www.youtube.com\/watch?v=R933NMzP1T0",
+    "updated":"2026-06-03T05:59:19.753312Z",
+    "citation":"https:\/\/community.libre.space\/t\/kakushin-rising-mission-jaxa-rideshare-electron-2026-04-23-03-09-utc\/14593\/78?u=nishikazu0417",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64722,7 +64722,7 @@
   {
     "sat_id":"RVAV-6832-2301-5177-9757",
     "norad_cat_id":98315.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69011.0,
     "name":"Eycore-1",
     "names":"",
     "image":"",
@@ -64736,8 +64736,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-03T06:50:01.839410Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
+    "updated":"2026-06-03T11:16:02.941478Z",
+    "citation":"https:\/\/www.space-track.org\/#catalog",
     "is_frequency_violator":false,
     "associated_satellites":[
 
