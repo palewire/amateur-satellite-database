@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -63825,8 +63825,8 @@
   },
   {
     "sat_id":"GLFY-8231-7125-4883-6529",
-    "norad_cat_id":98338.0,
-    "norad_follow_id":68635.0,
+    "norad_cat_id":68635.0,
+    "norad_follow_id":null,
     "name":"CANVAS",
     "names":"",
     "image":"satellites\/CANVAS_logo.png",
@@ -63842,11 +63842,11 @@
         "decoder":"canvas"
       }
     ],
-    "updated":"2026-05-09T08:12:48.558372Z",
-    "citation":"update of the dashboard link",
+    "updated":"2026-06-03T00:15:37.389119Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/216",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "SVYW-5036-7763-1267-7864"
     ]
   },
   {
