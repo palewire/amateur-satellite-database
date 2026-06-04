@@ -14015,7 +14015,7 @@
   },
   {
     "name":"KOSEN-2R",
-    "norad_id":null,
+    "norad_id":"68793",
     "uplink":null,
     "downlink":"436.750\/436.830",
     "beacon":"465.360",

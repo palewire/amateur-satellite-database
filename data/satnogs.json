@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -40964,8 +40964,8 @@
     "name":"Lilium-1",
     "names":"IRIS-E",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-06-01T00:00:00Z",
     "launched":"2023-12-01T18:19:00Z",
     "deployed":null,
     "website":"https:\/\/140.116.215.243\/iris_e.html",
@@ -40974,8 +40974,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-08-08T08:49:03.589532Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/lilium-1.htm",
+    "updated":"2026-06-04T00:25:53.196865Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=58467",
     "is_frequency_violator":false,
     "associated_satellites":[
 
