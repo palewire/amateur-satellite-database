@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -46351,8 +46351,8 @@
   },
   {
     "sat_id":"ROGL-5396-9562-5275-1160",
-    "norad_cat_id":98864.0,
-    "norad_follow_id":68506.0,
+    "norad_cat_id":68506.0,
+    "norad_follow_id":null,
     "name":"AEPEX",
     "names":"",
     "image":"satellites\/AEPEX.png",
@@ -46368,11 +46368,11 @@
         "decoder":"aepex"
       }
     ],
-    "updated":"2026-05-22T13:03:38.101794Z",
-    "citation":"Team update and STRF confirmation",
+    "updated":"2026-06-05T03:55:13.618367Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-16-rideshare-vsfb-slc-4e-2026-03-30-11-02-utc\/14456\/218",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "RFCC-7272-3583-0134-2315"
     ]
   },
   {

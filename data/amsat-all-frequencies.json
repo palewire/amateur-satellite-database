@@ -327,7 +327,7 @@
     "mode":"9k6*\/19k2GFSK",
     "callsign":"APX",
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"ROGL-5396-9562-5275-1160"
   },
   {
     "name":"AeroCube-1",
@@ -10832,6 +10832,17 @@
     "mode":"4k8 GMSK FM",
     "callsign":"HUBBLE7",
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"HUILIANWANG-DIGUI-81",
+    "norad_id":"65313",
+    "uplink":null,
+    "downlink":"2244.575",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -27494,7 +27505,7 @@
     "uplink":null,
     "downlink":"2265.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unkown",
     "satnogs_id":null
@@ -27505,7 +27516,7 @@
     "uplink":null,
     "downlink":"2265.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unkown",
     "satnogs_id":null
