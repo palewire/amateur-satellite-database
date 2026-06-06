@@ -12067,8 +12067,8 @@
     "name":"KMSL",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-06-04T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"",
@@ -12077,8 +12077,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T18:07:13.643964Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-06-06T05:55:29.304968Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=47958",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TAFG-3022-7161-8730-3011"
@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -65290,6 +65290,30 @@
     ],
     "updated":"2026-05-23T01:17:48.381587Z",
     "citation":"https:\/\/orbitalfocus.uk",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FXMP-5297-8147-4361-9972",
+    "norad_cat_id":68995.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X78",
+    "names":"2026-100R",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-05-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"PL",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-06T05:55:36.755451Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ZAJezsM8lX1Q0sFQM_B9_mPyAkEhcm6G0sYdnx_b0l0\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
