@@ -10023,7 +10023,7 @@
   {
     "name":"HADES-SA",
     "norad_id":"68446",
-    "uplink":null,
+    "uplink":"145.875",
     "downlink":"436.875",
     "beacon":null,
     "mode":"200\/800*\/1600_FSK SSDV",
