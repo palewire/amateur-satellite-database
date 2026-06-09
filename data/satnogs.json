@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -32499,8 +32499,8 @@
     "name":"StratoSat TK-1-D",
     "names":"RS52SD",
     "image":"satellites\/e.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-06-07T00:00:00Z",
     "launched":"2023-06-27T11:34:00Z",
     "deployed":"2023-07-11T08:00:00Z",
     "website":"",
@@ -32509,8 +32509,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-29T00:41:48.945264Z",
-    "citation":"Satellite Team",
+    "updated":"2026-06-09T05:17:10.191510Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=57326",
     "is_frequency_violator":true,
     "associated_satellites":[
       "ZYSG-8800-5259-5585-6318"
