@@ -40963,7 +40963,7 @@
     "norad_follow_id":null,
     "name":"Lilium-1",
     "names":"IRIS-E",
-    "image":"",
+    "image":"satellites\/20230713-0554.jpg",
     "status":"re-entered",
     "decayed":"2026-06-01T00:00:00Z",
     "launched":"2023-12-01T18:19:00Z",
@@ -40974,8 +40974,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-06-04T00:25:53.196865Z",
-    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=58467",
+    "updated":"2026-06-13T11:30:43.453702Z",
+    "citation":"NCKU Space Lab",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65314,6 +65314,54 @@
     ],
     "updated":"2026-06-06T05:55:36.755451Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1ZAJezsM8lX1Q0sFQM_B9_mPyAkEhcm6G0sYdnx_b0l0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QPJC-5078-6407-7913-6066",
+    "norad_cat_id":98304.0,
+    "norad_follow_id":null,
+    "name":"BRO-22",
+    "names":"",
+    "image":"satellites\/bro22sat.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-06-12T00:00:00Z",
+    "deployed":"2026-06-12T00:00:00Z",
+    "website":"https:\/\/unseenlabs.com\/en\/news\/unseenlabs-announces-the-upcoming-launch-of-bro-22-aboard-japan-s-h3-launch-vehicule\/",
+    "operator":"None",
+    "countries":"FR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-13T07:27:29.405805Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/bro-12.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"NRVA-1614-8798-1207-1709",
+    "norad_cat_id":68760.0,
+    "norad_follow_id":null,
+    "name":"DAQI-2",
+    "names":"2026-084A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-04-17T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-13T11:30:06.860833Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1xv06yueis3U45FTuDLeSplR3TOG0vlGyDYfccWmS-GM\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
