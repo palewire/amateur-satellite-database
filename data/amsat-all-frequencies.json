@@ -3435,11 +3435,11 @@
     "name":"BRO-22",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.735",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6 FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -10554,7 +10554,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -18507,7 +18507,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -23939,7 +23939,7 @@
     "name":"STARS-X",
     "norad_id":null,
     "uplink":null,
-    "downlink":"436.325\/437.750",
+    "downlink":"436.325\/437.750*",
     "beacon":null,
     "mode":"1k2AFSK 9k6FSK SSTV CW",
     "callsign":null,
@@ -27494,7 +27494,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

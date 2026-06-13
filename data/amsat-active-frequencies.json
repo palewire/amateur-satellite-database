@@ -360,6 +360,16 @@
     "satnogs_id":null
   },
   {
+    "name":"BRO-22",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"9k6 FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BSUSat-2",
     "norad_id":"57175",
     "uplink":"436.200",
