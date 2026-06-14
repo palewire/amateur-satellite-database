@@ -56727,8 +56727,8 @@
   },
   {
     "sat_id":"GHHQ-7851-2351-6199-5019",
-    "norad_cat_id":98548.0,
-    "norad_follow_id":64883.0,
+    "norad_cat_id":64883.0,
+    "norad_follow_id":null,
     "name":"CSTP-4.2",
     "names":"",
     "image":"",
@@ -56742,21 +56742,21 @@
     "telemetries":[
 
     ],
-    "updated":"2025-08-26T16:04:24.391893Z",
-    "citation":"tinygs.com",
+    "updated":"2026-06-14T02:47:51.439669Z",
+    "citation":"https:\/\/app.tinygs.com\/satellite\/CSTP-4.2",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "OLZU-0658-3961-7563-6347"
     ]
   },
   {
     "sat_id":"EVPS-3932-6760-8444-4986",
-    "norad_cat_id":98547.0,
-    "norad_follow_id":64882.0,
+    "norad_cat_id":64882.0,
+    "norad_follow_id":null,
     "name":"CSTP-4.3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-07-25T05:54:00Z",
     "deployed":null,
@@ -56766,21 +56766,21 @@
     "telemetries":[
 
     ],
-    "updated":"2025-08-26T16:04:49.654785Z",
-    "citation":"tinygs.com",
+    "updated":"2026-06-14T02:46:06.837713Z",
+    "citation":"https:\/\/app.tinygs.com\/satellite\/CSTP-4.3",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "FIGF-3101-3740-1265-9255"
     ]
   },
   {
     "sat_id":"WANH-5681-5223-3411-5792",
-    "norad_cat_id":98546.0,
-    "norad_follow_id":64895.0,
+    "norad_cat_id":64884.0,
+    "norad_follow_id":null,
     "name":"CSTP-4.4",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2025-07-25T05:54:00Z",
     "deployed":null,
@@ -56790,8 +56790,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-08-26T16:05:27.513072Z",
-    "citation":"tinygs.com",
+    "updated":"2026-06-14T02:45:27.889112Z",
+    "citation":"https:\/\/app.tinygs.com\/satellite\/CSTP-4.4",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -56799,8 +56799,8 @@
   },
   {
     "sat_id":"WGSR-4301-7876-3301-8338",
-    "norad_cat_id":98549.0,
-    "norad_follow_id":64882.0,
+    "norad_cat_id":64895.0,
+    "norad_follow_id":null,
     "name":"CSTP-4.1",
     "names":"",
     "image":"",
@@ -56814,11 +56814,11 @@
     "telemetries":[
 
     ],
-    "updated":"2025-08-26T16:03:25.615206Z",
-    "citation":"tinygs.com",
+    "updated":"2026-06-14T02:47:22.453619Z",
+    "citation":"https:\/\/app.tinygs.com\/satellite\/CSTP-4.1",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "RWQU-2223-2219-7187-0160"
     ]
   },
   {
@@ -59768,30 +59768,6 @@
     ],
     "updated":"2025-11-27T09:45:21.156376Z",
     "citation":"Add temporary NORAD ID",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
-    "sat_id":"OLZU-0658-3961-7563-6347",
-    "norad_cat_id":64883.0,
-    "norad_follow_id":null,
-    "name":"Object H",
-    "names":"2025-155H",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2025-07-25T00:00:00Z",
-    "deployed":"2025-07-25T00:00:00Z",
-    "website":"",
-    "operator":"None",
-    "countries":"RU",
-    "telemetries":[
-
-    ],
-    "updated":"2026-03-19T05:44:50.241789Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1MvjGc-_GuH1iwklCZoXUvn98qWF3iAtVRFre1rklTCM\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62912,30 +62888,6 @@
     ]
   },
   {
-    "sat_id":"RWQU-2223-2219-7187-0160",
-    "norad_cat_id":64895.0,
-    "norad_follow_id":null,
-    "name":"Object V",
-    "names":"2025-155V",
-    "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":"2025-07-25T00:00:00Z",
-    "deployed":"2025-07-25T00:00:00Z",
-    "website":"",
-    "operator":"None",
-    "countries":"RU",
-    "telemetries":[
-
-    ],
-    "updated":"2026-03-19T05:45:27.592739Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1ijtPARbVNg0tGW9JqWFwueG-oTYYMRZXPidsEQVVwNY\/edit?usp=sharing",
-    "is_frequency_violator":false,
-    "associated_satellites":[
-
-    ]
-  },
-  {
     "sat_id":"DMZB-3276-8444-3538-4773",
     "norad_cat_id":98376.0,
     "norad_follow_id":68419.0,
@@ -65322,7 +65274,7 @@
   {
     "sat_id":"QPJC-5078-6407-7913-6066",
     "norad_cat_id":98304.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69504.0,
     "name":"BRO-22",
     "names":"",
     "image":"satellites\/bro22sat.png",
@@ -65336,8 +65288,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-06-13T07:27:29.405805Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/bro-12.htm",
+    "updated":"2026-06-14T02:33:09.415362Z",
+    "citation":"https:\/\/community.libre.space\/t\/jaxa-h3-6-launch-2026-06-12\/14858\/30",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -361,11 +361,11 @@
   },
   {
     "name":"BRO-22",
-    "norad_id":null,
+    "norad_id":"69504",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":"9k6 FSK",
+    "mode":"4k8*\/9k6 FSK",
     "callsign":null,
     "satnogs_id":null
   },
@@ -747,7 +747,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "satnogs_id":"OLZU-0658-3961-7563-6347"
+    "satnogs_id":"GHHQ-7851-2351-6199-5019"
   },
   {
     "name":"CSTP-4.3",
@@ -757,7 +757,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"EVPS-3932-6760-8444-4986"
   },
   {
     "name":"CSTP-4.4",
@@ -767,7 +767,7 @@
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
-    "satnogs_id":null
+    "satnogs_id":"WANH-5681-5223-3411-5792"
   },
   {
     "name":"CTC-0",
@@ -1692,16 +1692,6 @@
   {
     "name":"ISS",
     "norad_id":"25544",
-    "uplink":null,
-    "downlink":"437.550",
-    "beacon":null,
-    "mode":"1k2 AFSK SSTV",
-    "callsign":"RS0ISS NA1SS",
-    "satnogs_id":"XSKZ-5603-1870-9019-3066"
-  },
-  {
-    "name":"ISS",
-    "norad_id":"25544",
     "uplink":"145.825",
     "downlink":"145.825",
     "beacon":null,
@@ -1712,10 +1702,20 @@
   {
     "name":"ISS",
     "norad_id":"25544",
+    "uplink":"437.825",
+    "downlink":"437.825",
+    "beacon":null,
+    "mode":"1k2 AFSK APRS",
+    "callsign":"RS0ISS NA1SS",
+    "satnogs_id":"XSKZ-5603-1870-9019-3066"
+  },
+  {
+    "name":"ISS",
+    "norad_id":"25544",
     "uplink":"145.990",
     "downlink":"437.800",
     "beacon":null,
-    "mode":"FM 9k6_GFSK",
+    "mode":"9k6 GFSK FM",
     "callsign":null,
     "satnogs_id":"XSKZ-5603-1870-9019-3066"
   },
@@ -3228,36 +3228,6 @@
     "mode":"9k6 GMSK",
     "callsign":null,
     "satnogs_id":"IFDT-2351-8184-5400-1710"
-  },
-  {
-    "name":"StratoSat-TK1",
-    "norad_id":"57167",
-    "uplink":null,
-    "downlink":"435.870",
-    "beacon":null,
-    "mode":"9k6 GFSK",
-    "callsign":"RS52S",
-    "satnogs_id":"BQFG-5755-4293-7808-3570"
-  },
-  {
-    "name":"StratoSat-TK1-B",
-    "norad_id":"57324",
-    "uplink":null,
-    "downlink":"435.260",
-    "beacon":null,
-    "mode":"9k6 FSK LoRa",
-    "callsign":"RS52SB",
-    "satnogs_id":"IIPF-8054-8479-1405-9998"
-  },
-  {
-    "name":"StratoSat-TK1-E",
-    "norad_id":"57323",
-    "uplink":null,
-    "downlink":"435.260",
-    "beacon":null,
-    "mode":"9k6 FSK LoRa",
-    "callsign":"RS52SE",
-    "satnogs_id":"KANX-6033-2616-0861-1048"
   },
   {
     "name":"Suomi-100",
