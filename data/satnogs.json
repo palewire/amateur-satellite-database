@@ -65366,5 +65366,53 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"HNRR-7008-7143-5842-4859",
+    "norad_cat_id":65576.0,
+    "norad_follow_id":null,
+    "name":"Praetorian SDA_613",
+    "names":"2025-203M",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-09-10T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-13T13:51:44.934768Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1UetqdGxxRyj5KUGqX4TkRI3J4oq9MrnAetWmmmhRkno\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"RADY-4082-3202-9495-0273",
+    "norad_cat_id":65974.0,
+    "norad_follow_id":null,
+    "name":"SDA_1664",
+    "names":"2025-230A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-10-15T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-13T13:51:17.648742Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1p_swYEsdX-wv0nyqIA7v9x79Iq4Q_3VHmVXIUXmwsps\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
