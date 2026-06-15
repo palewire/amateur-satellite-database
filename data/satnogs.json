@@ -48631,8 +48631,8 @@
     "name":"ArcticSat-1",
     "names":"RS74S",
     "image":"satellites\/image2.png",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-06-14T10:30:00Z",
     "launched":"2024-11-04T23:18:40Z",
     "deployed":null,
     "website":"https:\/\/spacepi.space\/satellites\/arctic-sat-1\/",
@@ -48643,8 +48643,8 @@
         "decoder":"sputnixusp"
       }
     ],
-    "updated":"2024-12-14T05:48:20.518424Z",
-    "citation":"https:\/\/community.libre.space\/t\/soyuz-2-1b-fregat-vostochny-launch-2024-11-04-23-18-utc\/11468\/305",
+    "updated":"2026-06-14T17:07:51.699738Z",
+    "citation":"Network observations - https:\/\/community.libre.space\/t\/arcticsat-1-rs74s-re-entry\/14857\/",
     "is_frequency_violator":false,
     "associated_satellites":[
       "SOXH-3411-5285-1929-4684"
