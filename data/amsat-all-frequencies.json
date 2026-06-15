@@ -9322,8 +9322,8 @@
     "uplink":"145.900",
     "downlink":"437.200",
     "beacon":null,
-    "mode":"1k2\/9k6_BPSK FM",
-    "callsign":"BN0HMA-1",
+    "mode":"1k2*\/9k6_BPSK FM",
+    "callsign":null,
     "status":"active",
     "satnogs_id":null
   },
