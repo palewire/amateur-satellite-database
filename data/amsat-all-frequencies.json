@@ -3740,8 +3740,30 @@
     "satnogs_id":null
   },
   {
-    "name":"CAS500-3",
+    "name":"CAS500-1",
+    "norad_id":"47932",
+    "uplink":null,
+    "downlink":"2265.500",
+    "beacon":null,
+    "mode":"100k BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"JBRU-8606-2586-9658-4984"
+  },
+  {
+    "name":"CAS500-2",
     "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"CAS500-3",
+    "norad_id":"66655",
     "uplink":null,
     "downlink":"2236.689\/8210.000",
     "beacon":null,
@@ -12232,6 +12254,28 @@
     "satnogs_id":"KAEG-9794-2542-4829-8548"
   },
   {
+    "name":"INSPIRESat-2",
+    "norad_id":"47458",
+    "uplink":null,
+    "downlink":"437.345\/2420.000",
+    "beacon":"BN0IDA",
+    "mode":"9k6 GMSK",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":"FIOW-8506-8934-6705-7282"
+  },
+  {
+    "name":"INSPIRESat-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"INSPIRESat-4",
     "norad_id":"57485",
     "uplink":null,
@@ -12240,6 +12284,28 @@
     "mode":"9k6 GFSK",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"INSPIRESat-5",
+    "norad_id":"47438",
+    "uplink":"145.905",
+    "downlink":"437.020",
+    "beacon":null,
+    "mode":"1k2\/9k6* BPSK FM*",
+    "callsign":"LATMOS",
+    "status":"re-entered",
+    "satnogs_id":"VFOS-7446-8140-1963-2095"
+  },
+  {
+    "name":"INSPIRESat-6",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -18117,6 +18183,17 @@
     "satnogs_id":"JHSD-4460-0775-9291-8015"
   },
   {
+    "name":"OWLS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Owlsat",
     "norad_id":null,
     "uplink":null,
@@ -21516,6 +21593,17 @@
     "satnogs_id":null
   },
   {
+    "name":"SCION-X",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Scooby",
     "norad_id":"64584",
     "uplink":null,
@@ -23351,6 +23439,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"TPAP-4475-7915-0965-4305"
+  },
+  {
+    "name":"SO-127",
+    "norad_id":"68446",
+    "uplink":"145.875",
+    "downlink":"436.875",
+    "beacon":null,
+    "mode":"200\/800*\/1600_FSK SSDV",
+    "callsign":null,
+    "status":"active",
+    "satnogs_id":"MIAF-5680-8845-1005-1215"
   },
   {
     "name":"SPACEANT-D",

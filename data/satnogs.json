@@ -39712,18 +39712,18 @@
     "name":"MDQUBESAT-2",
     "names":"",
     "image":"",
-    "status":"alive",
-    "decayed":null,
-    "launched":null,
+    "status":"re-entered",
+    "decayed":"2026-06-04T00:00:00Z",
+    "launched":"2023-12-01T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"AR",
     "telemetries":[
 
     ],
-    "updated":"2024-07-14T17:46:39.383025Z",
-    "citation":"tiny.gs and space-track.org",
+    "updated":"2026-06-16T08:39:09.244408Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=58665",
     "is_frequency_violator":true,
     "associated_satellites":[
 

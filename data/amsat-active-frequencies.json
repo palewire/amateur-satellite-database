@@ -3160,6 +3160,16 @@
     "satnogs_id":"EIPI-1482-6978-9759-4787"
   },
   {
+    "name":"SO-127",
+    "norad_id":"68446",
+    "uplink":"145.875",
+    "downlink":"436.875",
+    "beacon":null,
+    "mode":"200\/800*\/1600_FSK SSDV",
+    "callsign":null,
+    "satnogs_id":"MIAF-5680-8845-1005-1215"
+  },
+  {
     "name":"Sparrow",
     "norad_id":"43881",
     "uplink":"437.325",
