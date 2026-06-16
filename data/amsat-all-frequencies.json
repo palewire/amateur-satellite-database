@@ -1547,7 +1547,7 @@
     "beacon":null,
     "mode":"2k4\/9k6*GMSK_USP SSTV",
     "callsign":"RS74S",
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"XZIQ-7009-4472-3546-4651"
   },
   {
@@ -5743,14 +5743,14 @@
   },
   {
     "name":"CSTP-2.11",
-    "norad_id":"61774",
+    "norad_id":"61744",
     "uplink":null,
     "downlink":"437.985",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":"ZBVE-3642-7824-0324-5322"
+    "satnogs_id":null
   },
   {
     "name":"CSTP-3.1",
@@ -5765,14 +5765,14 @@
   },
   {
     "name":"CSTP-4.1",
-    "norad_id":"64885",
+    "norad_id":"64895",
     "uplink":null,
     "downlink":"437.320",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
     "status":"active",
-    "satnogs_id":null
+    "satnogs_id":"WGSR-4301-7876-3301-8338"
   },
   {
     "name":"CSTP-4.2",
@@ -16105,7 +16105,7 @@
   },
   {
     "name":"MorSat-1",
-    "norad_id":null,
+    "norad_id":"67274",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -16303,7 +16303,7 @@
   },
   {
     "name":"Mule-4T",
-    "norad_id":null,
+    "norad_id":"67286",
     "uplink":null,
     "downlink":"436.700",
     "beacon":null,
@@ -17193,12 +17193,12 @@
     "satnogs_id":null
   },
   {
-    "name":"Norbi",
+    "name":"Norby",
     "norad_id":"46494",
     "uplink":null,
     "downlink":"436.700",
     "beacon":null,
-    "mode":"9k6 FSK\/250k LoRa",
+    "mode":"9k6 FSK LoRa",
     "callsign":"CUBSAT",
     "status":"inactive",
     "satnogs_id":"DNNN-7162-2135-4056-8903"
@@ -22914,7 +22914,7 @@
   },
   {
     "name":"SM-3.1",
-    "norad_id":null,
+    "norad_id":"67275",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -26071,22 +26071,44 @@
   },
   {
     "name":"TriSat-1",
-    "norad_id":null,
+    "norad_id":"67755",
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"TriSat-2",
+    "norad_id":"67298",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"TriSat-3",
+    "norad_id":"67298",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
   },
   {
     "name":"TriSat-4",
-    "norad_id":null,
+    "norad_id":"67482",
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
