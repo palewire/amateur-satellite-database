@@ -3422,7 +3422,7 @@
   },
   {
     "name":"BRO-21",
-    "norad_id":"69002",
+    "norad_id":"69007",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -9955,7 +9955,7 @@
     "satnogs_id":"CAOL-2416-3135-3240-8425"
   },
   {
-    "name":"HADES",
+    "name":"HADES-A",
     "norad_id":"51080",
     "uplink":"145.925",
     "downlink":"436.888",
@@ -17557,14 +17557,14 @@
   },
   {
     "name":"NuLink-1",
-    "norad_id":null,
+    "norad_id":"69002",
     "uplink":null,
     "downlink":"401.000\/2218.000",
     "beacon":null,
     "mode":"38k4_FSK FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"BEGI-7054-4748-0481-3930"
   },
   {
     "name":"NuLink-2",

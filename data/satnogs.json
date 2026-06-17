@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -64770,7 +64770,7 @@
   {
     "sat_id":"EPSO-2740-8746-3078-9656",
     "norad_cat_id":98311.0,
-    "norad_follow_id":69002.0,
+    "norad_follow_id":69007.0,
     "name":"BRO-21",
     "names":"",
     "image":"",
@@ -64784,8 +64784,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-10T13:00:58.247675Z",
-    "citation":"https:\/\/community.libre.space\/t\/cas500-2-rideshare-vsfb-slc-4e-2026-05-03-6-59-utc\/14688\/149",
+    "updated":"2026-06-16T15:55:52.611073Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65362,6 +65362,30 @@
     ],
     "updated":"2026-06-13T13:51:17.648742Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1p_swYEsdX-wv0nyqIA7v9x79Iq4Q_3VHmVXIUXmwsps\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"BEGI-7054-4748-0481-3930",
+    "norad_cat_id":69002.0,
+    "norad_follow_id":null,
+    "name":"NULINK-1",
+    "names":"2026-100Y",
+    "image":"satellites\/nulink-1__1.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-05-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"SG",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-16T19:19:05.370294Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1eo0eJKIRGt0sTni1uWn0gD3YSKDW9Xhyd5WlTlaH_s4\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
