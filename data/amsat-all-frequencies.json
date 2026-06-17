@@ -17559,9 +17559,9 @@
     "name":"NuLink-1",
     "norad_id":"69002",
     "uplink":null,
-    "downlink":"401.000\/2218.000",
+    "downlink":"401.000\/2218.000*",
     "beacon":null,
-    "mode":"38k4_FSK FM",
+    "mode":"38k4*\/250k_FSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"BEGI-7054-4748-0481-3930"
@@ -17570,9 +17570,9 @@
     "name":"NuLink-2",
     "norad_id":"68994",
     "uplink":null,
-    "downlink":"401.000\/2220.000",
+    "downlink":"401.000\/2220.000*",
     "beacon":null,
-    "mode":"38k4_FSK FM",
+    "mode":"38k4*\/250k_FSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
