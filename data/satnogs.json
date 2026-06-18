@@ -65390,5 +65390,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"WTTI-1401-2311-7017-8218",
+    "norad_cat_id":98303.0,
+    "norad_follow_id":null,
+    "name":"Bluebird 08",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-06-17T00:00:00Z",
+    "deployed":"2026-06-17T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-17T17:17:50.998034Z",
+    "citation":"community post",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
