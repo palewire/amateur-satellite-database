@@ -61299,7 +61299,7 @@
     "sat_id":"GBBQ-0405-2879-6889-6023",
     "norad_cat_id":66756.0,
     "norad_follow_id":null,
-    "name":"OBJECT CU",
+    "name":"Mauve",
     "names":"2025-276CU",
     "image":"",
     "status":"alive",
@@ -61308,12 +61308,12 @@
     "deployed":"2025-11-28T00:00:00Z",
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"HU",
     "telemetries":[
 
     ],
-    "updated":"2026-01-03T19:43:06.640002Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1NLxw6K73LyGiOf2ihXH6QgMM5qRb5gftMvXavb1QyTE\/edit?usp=sharing",
+    "updated":"2026-06-18T08:02:33.678555Z",
+    "citation":"from n2yo.com and https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=66756&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65394,22 +65394,46 @@
   {
     "sat_id":"WTTI-1401-2311-7017-8218",
     "norad_cat_id":98303.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69589.0,
     "name":"Bluebird 08",
     "names":"",
-    "image":"",
+    "image":"satellites\/bb_P3P8LWD.png",
     "status":"alive",
     "decayed":null,
     "launched":"2026-06-17T00:00:00Z",
     "deployed":"2026-06-17T00:00:00Z",
-    "website":"",
+    "website":"https:\/\/ast-science.com\/next-gen-bluebird\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2026-06-17T17:17:50.998034Z",
-    "citation":"community post",
+    "updated":"2026-06-18T07:51:56.785007Z",
+    "citation":"https:\/\/community.libre.space\/t\/asts-bluebird-8-10\/14898\/16",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OCIS-1942-3329-8695-1163",
+    "norad_cat_id":67246.0,
+    "norad_follow_id":null,
+    "name":"FengYun 4C",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-18T07:59:33.922373Z",
+    "citation":"https:\/\/www.satdump.org\/Satellite-List\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
