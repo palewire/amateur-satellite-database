@@ -2992,7 +2992,7 @@
     "satnogs_id":"CNKC-2118-9597-8621-1044"
   },
   {
-    "name":"BlueBird-01",
+    "name":"Bluebird-01",
     "norad_id":"61047",
     "uplink":null,
     "downlink":"439.500",
@@ -3003,7 +3003,7 @@
     "satnogs_id":"XINJ-5605-6217-4155-4529"
   },
   {
-    "name":"BlueBird-02",
+    "name":"Bluebird-02",
     "norad_id":"61048",
     "uplink":null,
     "downlink":"435.900",
@@ -3014,7 +3014,7 @@
     "satnogs_id":"GBZQ-8100-0439-9888-4769"
   },
   {
-    "name":"BlueBird-03",
+    "name":"Bluebird-03",
     "norad_id":"61045",
     "uplink":null,
     "downlink":"434.100",
@@ -3025,7 +3025,7 @@
     "satnogs_id":"WFLL-5358-2469-8463-2991"
   },
   {
-    "name":"BlueBird-04",
+    "name":"Bluebird-04",
     "norad_id":"61049",
     "uplink":null,
     "downlink":"432.300",
@@ -3036,7 +3036,7 @@
     "satnogs_id":"EXOH-8376-4648-5267-7738"
   },
   {
-    "name":"BlueBird-05",
+    "name":"Bluebird-05",
     "norad_id":"61046",
     "uplink":null,
     "downlink":"430.500",
@@ -3047,7 +3047,7 @@
     "satnogs_id":"SXNP-3240-4340-9235-8383"
   },
   {
-    "name":"BlueBird-06",
+    "name":"Bluebird-06",
     "norad_id":"67232",
     "uplink":null,
     "downlink":"435.000",
@@ -3058,7 +3058,7 @@
     "satnogs_id":"CKNU-3750-3657-8602-8162"
   },
   {
-    "name":"BlueBird-07",
+    "name":"Bluebird-07",
     "norad_id":"68765",
     "uplink":null,
     "downlink":"435.000",
@@ -3069,7 +3069,7 @@
     "satnogs_id":null
   },
   {
-    "name":"BlueBird-08",
+    "name":"Bluebird-08",
     "norad_id":"69589",
     "uplink":null,
     "downlink":"439.500",
@@ -3080,7 +3080,7 @@
     "satnogs_id":"WTTI-1401-2311-7017-8218"
   },
   {
-    "name":"BlueBird-09",
+    "name":"Bluebird-09",
     "norad_id":"69590",
     "uplink":null,
     "downlink":"434.100",
@@ -3091,7 +3091,7 @@
     "satnogs_id":"WFJJ-3958-9545-1086-4408"
   },
   {
-    "name":"BlueBird-10",
+    "name":"Bluebird-10",
     "norad_id":"69591",
     "uplink":null,
     "downlink":"439.500",

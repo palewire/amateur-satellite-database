@@ -64334,7 +64334,7 @@
   {
     "sat_id":"HFCT-6543-1597-0098-9086",
     "norad_cat_id":98327.0,
-    "norad_follow_id":null,
+    "norad_follow_id":68797.0,
     "name":"WASEDA-SAT-ZERO-II",
     "names":"",
     "image":"satellites\/04_wasedasatzero2.png",
@@ -64348,8 +64348,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-04-23T15:05:39.555421Z",
-    "citation":"https:\/\/www.kenkai.jaxa.jp\/kakushin\/kakushin04.html",
+    "updated":"2026-06-19T06:01:00.054784Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?NAME=WASEDA-SAT-ZERO-II&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65482,6 +65482,30 @@
     ],
     "updated":"2026-06-18T14:49:14.073307Z",
     "citation":"https:\/\/www.sast.net\/news_detail\/23.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WWBE-4069-1597-9999-1967",
+    "norad_cat_id":68203.0,
+    "norad_follow_id":null,
+    "name":"OBJECT F",
+    "names":"2026-052F",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-16T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-19T09:22:28.944244Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_chr\/lau2026.htm (and I see it in rstrf on 401.250MHz)",
     "is_frequency_violator":false,
     "associated_satellites":[
 
