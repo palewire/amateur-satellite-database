@@ -65393,8 +65393,8 @@
   },
   {
     "sat_id":"WTTI-1401-2311-7017-8218",
-    "norad_cat_id":98303.0,
-    "norad_follow_id":69589.0,
+    "norad_cat_id":69589.0,
+    "norad_follow_id":null,
     "name":"Bluebird 08",
     "names":"",
     "image":"satellites\/bb_P3P8LWD.png",
@@ -65408,8 +65408,56 @@
     "telemetries":[
 
     ],
-    "updated":"2026-06-18T07:51:56.785007Z",
-    "citation":"https:\/\/community.libre.space\/t\/asts-bluebird-8-10\/14898\/16",
+    "updated":"2026-06-18T21:52:36.394252Z",
+    "citation":"space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WFJJ-3958-9545-1086-4408",
+    "norad_cat_id":69590.0,
+    "norad_follow_id":null,
+    "name":"Bluebird 09",
+    "names":"",
+    "image":"satellites\/bb_zjUeMBL.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-06-17T00:00:00Z",
+    "deployed":"2026-06-17T00:00:00Z",
+    "website":"https:\/\/ast-science.com\/next-gen-bluebird\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-18T21:52:41.104244Z",
+    "citation":"space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LDPM-8730-8720-5707-6861",
+    "norad_cat_id":69591.0,
+    "norad_follow_id":null,
+    "name":"Bluebird 10",
+    "names":"",
+    "image":"satellites\/bb.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-06-17T00:00:00Z",
+    "deployed":"2026-06-17T00:00:00Z",
+    "website":"https:\/\/ast-science.com\/next-gen-bluebird\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-18T21:52:45.642711Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65421,19 +65469,19 @@
     "norad_follow_id":null,
     "name":"FengYun 4C",
     "names":"",
-    "image":"",
+    "image":"satellites\/fy4c.png",
     "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
+    "launched":"2025-12-27T00:00:00Z",
+    "deployed":"2025-12-27T00:00:00Z",
     "website":"",
     "operator":"None",
     "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2026-06-18T07:59:33.922373Z",
-    "citation":"https:\/\/www.satdump.org\/Satellite-List\/",
+    "updated":"2026-06-18T14:49:14.073307Z",
+    "citation":"https:\/\/www.sast.net\/news_detail\/23.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 

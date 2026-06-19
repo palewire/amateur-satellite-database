@@ -3058,6 +3058,50 @@
     "satnogs_id":"CKNU-3750-3657-8602-8162"
   },
   {
+    "name":"BlueBird-07",
+    "norad_id":"68765",
+    "uplink":null,
+    "downlink":"435.000",
+    "beacon":null,
+    "mode":"19k2 GFSK",
+    "callsign":null,
+    "status":"re-entered",
+    "satnogs_id":null
+  },
+  {
+    "name":"BlueBird-08",
+    "norad_id":"69589",
+    "uplink":null,
+    "downlink":"439.500",
+    "beacon":null,
+    "mode":"2k4 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"WTTI-1401-2311-7017-8218"
+  },
+  {
+    "name":"BlueBird-09",
+    "norad_id":"69590",
+    "uplink":null,
+    "downlink":"434.100",
+    "beacon":null,
+    "mode":"2k4 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"WFJJ-3958-9545-1086-4408"
+  },
+  {
+    "name":"BlueBird-10",
+    "norad_id":"69591",
+    "uplink":null,
+    "downlink":"439.500",
+    "beacon":null,
+    "mode":"2k4 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"LDPM-8730-8720-5707-6861"
+  },
+  {
     "name":"BlueBon",
     "norad_id":"62688",
     "uplink":null,
