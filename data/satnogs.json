@@ -65510,5 +65510,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"JPEO-6335-5153-2378-8336",
+    "norad_cat_id":98300.0,
+    "norad_follow_id":null,
+    "name":"HOKUSHIN-1",
+    "names":"",
+    "image":"satellites\/hokuhin.png",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-06-19T00:00:00Z",
+    "deployed":"2026-06-19T00:00:00Z",
+    "website":"https:\/\/www.tohoku.ac.jp\/japanese\/2026\/02\/press20260226-03-HOKUSHIN.html",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-20T08:37:21.231279Z",
+    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/005757.html",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
