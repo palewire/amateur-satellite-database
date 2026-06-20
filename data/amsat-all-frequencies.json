@@ -10571,6 +10571,17 @@
     "satnogs_id":"XCTG-7337-9615-0882-4390"
   },
   {
+    "name":"HOKUSHIN-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"HONEYBEE-00",
     "norad_id":null,
     "uplink":null,
