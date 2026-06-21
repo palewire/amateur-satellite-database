@@ -960,7 +960,7 @@ Hoopoe,42718,,437.740,,9k6 BPSK,ON01IL,re-entered,EUEM-5177-4568-9915-2869
 Ho'oponopono-2,39403,,427.220,,9k6 FSK GMSK,,inactive,
 HOD-HOD-1A,61768,,436.250,,LoRa,,unknown,
 Hodoyoshi-1,40299,,467.674,,1000,,non-amateur,XCTG-7337-9615-0882-4390
-HOKUSHIN-1,,,,,,,unknown,
+HOKUSHIN-1,,,2287.500,,,,unknown,
 HONEYBEE-00,,,400.575,,,,unknown,
 HORIS-1,,,,,,,unknown,
 HORIS-2,,,,,,,unknown,
@@ -1092,7 +1092,7 @@ ICEYE-X72,,,,,,,to be launched,
 ICEYE-X73,,,,,,,unknown,
 ICEYE-X74,,,,,,,unknown,
 ICEYE-X75,68497,,2263.500,,FM,,unknown,MWMO-4762-0761-4094-9683
-ICEYE-X76,68502,,,,,,unknown,
+ICEYE-X76,68502,,2269.750,,,,unknown,
 ICEYE-X77,,,,,,,to be launched,
 ICEYE-X78,68995,,2269.700,,400k,,unknown,FXMP-5297-8147-4361-9972
 ICEYE-X79,,,,,,,to be launched,
@@ -2162,7 +2162,7 @@ SPIRONE,66657,,436.650/2425.100,,9k6 GMSK,6K0FX,active,
 SPOC,46921,,437.350/2401.300,,9k6 GMSK/2M QPSK,MOCI,re-entered,KROC-3175-5052-8413-5802
 SpooQy-1,44332,,435.300/436.200*/437.500,,4k8/9k6* GMSK,,re-entered,CTBA-1366-4412-2214-9843
 SporeSat,39681,,2401.200-2431.200,437.100,1k2 AFSK,,unknown,
-SPOQC,,,,,,,unknown,
+SPOQC,68836,,,,,,unknown,
 SPORT,55129,,400.860,,1k2/9k6* BPSK,SPORT,re-entered,VUIJ-4442-3257-2619-1322
 SPRITE,,,437.325/2402.000,,19k2_GMSK 4M_BPSK,,unknown,
 Sprites,,,437.240/437.325,,125 MSK,,unknown,
