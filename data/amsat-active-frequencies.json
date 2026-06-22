@@ -2040,16 +2040,6 @@
     "satnogs_id":null
   },
   {
-    "name":"MCubed-2",
-    "norad_id":"39472",
-    "uplink":null,
-    "downlink":"437.479",
-    "beacon":null,
-    "mode":"9k6 GMSK",
-    "callsign":"NOCALL",
-    "satnogs_id":"SSBD-3811-5706-8042-1219"
-  },
-  {
     "name":"MESAT-1",
     "norad_id":"60209",
     "uplink":"145.910-145.940",
