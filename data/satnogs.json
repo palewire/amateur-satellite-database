@@ -3082,8 +3082,8 @@
     "name":"MCUBED-2",
     "names":"",
     "image":"satellites\/MCUBED-2.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-06-20T00:00:00Z",
     "launched":"2013-12-05T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -3094,8 +3094,8 @@
         "decoder":"mxl"
       }
     ],
-    "updated":"2024-06-17T19:11:17.044251Z",
-    "citation":"https:\/\/community.libre.space\/t\/mcubed-2-and-bisonsat-tle-swaps\/11871",
+    "updated":"2026-06-22T20:41:13.609334Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=39472",
     "is_frequency_violator":false,
     "associated_satellites":[
       "MRXI-9555-2470-2277-9807"
