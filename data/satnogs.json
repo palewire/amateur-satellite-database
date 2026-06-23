@@ -59560,9 +59560,9 @@
   {
     "sat_id":"JFKN-0559-0700-3409-5701",
     "norad_cat_id":98476.0,
-    "norad_follow_id":null,
-    "name":"OBSERVER-1B",
-    "names":"GYEONGGISAT-1, MX\u00c1O-1",
+    "norad_follow_id":66771.0,
+    "name":"GYEONGGISAT-1",
+    "names":"OBSERVER-1B",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -59574,8 +59574,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.831526Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-06-23T10:40:51.154071Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
