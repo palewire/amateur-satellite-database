@@ -65513,7 +65513,7 @@
   },
   {
     "sat_id":"JPEO-6335-5153-2378-8336",
-    "norad_cat_id":98300.0,
+    "norad_cat_id":69648.0,
     "norad_follow_id":null,
     "name":"HOKUSHIN-1",
     "names":"",
@@ -65528,8 +65528,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-06-20T08:37:21.231279Z",
-    "citation":"https:\/\/humans-in-space.jaxa.jp\/en\/biz-lab\/news\/detail\/005757.html",
+    "updated":"2026-06-24T06:03:26.631422Z",
+    "citation":"https:\/\/x.com\/planet4589\/status\/2069412325530972299 and space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
