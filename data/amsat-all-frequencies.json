@@ -13739,6 +13739,17 @@
     "satnogs_id":"NHQA-6504-1011-2518-4894"
   },
   {
+    "name":"KENSAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.080",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Khayyam",
     "norad_id":"53370",
     "uplink":null,
