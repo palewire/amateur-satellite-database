@@ -10072,7 +10072,7 @@
     "beacon":"436.888",
     "mode":"200*-2k4 USB FM CW",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"EIPI-1482-6978-9759-4787"
   },
   {
@@ -16837,7 +16837,7 @@
     "beacon":null,
     "mode":"9k6 GFSK",
     "callsign":"DP2NSA",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"OZSW-9908-0796-8166-3293"
   },
   {
@@ -16859,7 +16859,7 @@
     "beacon":null,
     "mode":"9k6 GFSK",
     "callsign":"DP2NSC",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"PDZV-7495-4443-2585-1990"
   },
   {
@@ -16870,7 +16870,7 @@
     "beacon":null,
     "mode":"9k6 GFSK",
     "callsign":"DP2NSD",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"KPFF-6607-7806-3530-0376"
   },
   {
@@ -23490,9 +23490,9 @@
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"200*-2k4 FSK FM CW*",
+    "mode":"200*-2k4 FSK FM CW",
     "callsign":null,
-    "status":"active",
+    "status":"re-entered",
     "satnogs_id":"EIPI-1482-6978-9759-4787"
   },
   {
@@ -25659,7 +25659,7 @@
     "beacon":null,
     "mode":"9k6 BPSK FM",
     "callsign":"TVL2-9-1",
-    "status":"active",
+    "status":"inactive",
     "satnogs_id":"YEOH-3929-6205-1615-7126"
   },
   {

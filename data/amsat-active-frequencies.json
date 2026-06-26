@@ -1390,16 +1390,6 @@
     "satnogs_id":"CAOL-2416-3135-3240-8425"
   },
   {
-    "name":"HADES-R",
-    "norad_id":"62690",
-    "uplink":"145.925",
-    "downlink":"436.888",
-    "beacon":"436.888",
-    "mode":"200*-2k4 USB FM CW",
-    "callsign":null,
-    "satnogs_id":"EIPI-1482-6978-9759-4787"
-  },
-  {
     "name":"HADES-SA",
     "norad_id":"68446",
     "uplink":"145.875",
@@ -2200,6 +2190,16 @@
     "satnogs_id":"ENMR-1106-8768-2633-2018"
   },
   {
+    "name":"NETSAT-1",
+    "norad_id":"46506",
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"9k6 GFSK",
+    "callsign":"DP2NSA",
+    "satnogs_id":"OZSW-9908-0796-8166-3293"
+  },
+  {
     "name":"NETSAT-2",
     "norad_id":"46507",
     "uplink":null,
@@ -2208,6 +2208,26 @@
     "mode":"9k6 GFSK",
     "callsign":"DP2NSB",
     "satnogs_id":"DBTP-4321-2218-3495-4829"
+  },
+  {
+    "name":"NETSAT-3",
+    "norad_id":"46505",
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"9k6 GFSK",
+    "callsign":"DP2NSC",
+    "satnogs_id":"PDZV-7495-4443-2585-1990"
+  },
+  {
+    "name":"NETSAT-4",
+    "norad_id":"46504",
+    "uplink":null,
+    "downlink":"435.600",
+    "beacon":null,
+    "mode":"9k6 GFSK",
+    "callsign":"DP2NSD",
+    "satnogs_id":"KPFF-6607-7806-3530-0376"
   },
   {
     "name":"Nightjar",
@@ -3140,16 +3160,6 @@
     "satnogs_id":"IRES-5964-9687-1982-0089"
   },
   {
-    "name":"SO-124",
-    "norad_id":"62690",
-    "uplink":"145.925",
-    "downlink":"436.888",
-    "beacon":"436.888",
-    "mode":"200*-2k4 FSK FM CW*",
-    "callsign":null,
-    "satnogs_id":"EIPI-1482-6978-9759-4787"
-  },
-  {
     "name":"SO-127",
     "norad_id":"68446",
     "uplink":"145.875",
@@ -3348,16 +3358,6 @@
     "mode":"9k6 BPSK FM",
     "callsign":"TVL2-8-1",
     "satnogs_id":"XCLO-3560-6764-5044-2622"
-  },
-  {
-    "name":"TEVEL2-9",
-    "norad_id":"63237",
-    "uplink":"145.970",
-    "downlink":"436.400",
-    "beacon":null,
-    "mode":"9k6 BPSK FM",
-    "callsign":"TVL2-9-1",
-    "satnogs_id":"YEOH-3929-6205-1615-7126"
   },
   {
     "name":"Tianyi-2",

@@ -6738,22 +6738,22 @@
     "norad_cat_id":43017.0,
     "norad_follow_id":null,
     "name":"FOX-1B",
-    "names":"AO-91\r RADFXSAT",
+    "names":"AO-91, RADFXSAT",
     "image":"satellites\/RadFxSat_Flight-300x300.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2017-11-18T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.amsat.org\/two-way-satellites\/ao-91\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
       {
         "decoder":"fox"
       }
     ],
-    "updated":"2021-07-21T10:11:42.473350Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-06-26T07:30:13.128226Z",
+    "citation":"https:\/\/www.amsat.org\/two-way-satellites\/ao-91\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -53395,19 +53395,19 @@
     "norad_follow_id":null,
     "name":"TEVEL2-5",
     "names":"",
-    "image":"",
+    "image":"satellites\/\u05ea\u05d1\u05dc_2.webp",
     "status":"alive",
     "decayed":null,
     "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/space.tau.ac.il\/Tevel2",
     "operator":"None",
-    "countries":"",
+    "countries":"IL",
     "telemetries":[
 
     ],
-    "updated":"2025-04-26T18:45:15.805593Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63214\/2025-04-26T04%3A34%3A03_11480802_63214_25052E_0-OBJECT-E_0.04404341999999417_A_r38.5_f0.0.png",
+    "updated":"2026-06-26T10:15:55.698475Z",
+    "citation":"https:\/\/space.tau.ac.il\/Tevel2",
     "is_frequency_violator":false,
     "associated_satellites":[
       "LAKE-4359-2992-2668-5387"
@@ -53419,19 +53419,19 @@
     "norad_follow_id":null,
     "name":"TEVEL2-6",
     "names":"",
-    "image":"",
+    "image":"satellites\/\u05ea\u05d1\u05dc_2_omUStQ8.webp",
     "status":"alive",
     "decayed":null,
     "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/space.tau.ac.il\/Tevel2",
     "operator":"None",
-    "countries":"",
+    "countries":"IL",
     "telemetries":[
 
     ],
-    "updated":"2025-04-26T18:40:55.857583Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63215\/2025-04-26T08%3A57%3A05_11480833_63215_25052F_0-OBJECT-F_0.1258028629629564_A_r38.5_f0.0.png",
+    "updated":"2026-06-26T12:19:26.145907Z",
+    "citation":"https:\/\/space.tau.ac.il\/Tevel2",
     "is_frequency_violator":false,
     "associated_satellites":[
       "IQBS-4867-9993-9068-2682"
@@ -53467,19 +53467,19 @@
     "norad_follow_id":null,
     "name":"TEVEL2-8",
     "names":"",
-    "image":"",
+    "image":"satellites\/\u05ea\u05d1\u05dc_2_rs5xhgL.webp",
     "status":"alive",
     "decayed":null,
     "launched":"2025-03-15T06:43:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/space.tau.ac.il\/Tevel2",
     "operator":"None",
-    "countries":"",
+    "countries":"IL",
     "telemetries":[
 
     ],
-    "updated":"2025-04-26T16:41:30.266391Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-63239\/2025-04-23T22%3A04%3A22_11461895_63239_25052AF_0-OBJECT-AF_2.0240284059259324_A_r38.5_f0.0.png",
+    "updated":"2026-06-26T10:16:03.926707Z",
+    "citation":"https:\/\/space.tau.ac.il\/Tevel2",
     "is_frequency_violator":false,
     "associated_satellites":[
       "TDJO-3816-5133-7463-5259"
