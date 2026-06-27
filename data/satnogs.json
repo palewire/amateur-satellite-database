@@ -5023,22 +5023,22 @@
     "sat_id":"WMGA-3000-1529-8035-2634",
     "norad_cat_id":41847.0,
     "norad_follow_id":null,
-    "name":"CAS-2T & KS-1Q",
-    "names":"OBJECT E",
+    "name":"CAS-2T",
+    "names":"",
     "image":"satellites\/cas-2t-145-435-mhz-fm-transponder-cubesat.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2016-11-09T00:00:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"CN",
     "telemetries":[
 
     ],
-    "updated":"2021-11-16T19:06:13.603882Z",
-    "citation":"https:\/\/community.libre.space\/t\/cz-11-41847-at-435-710mhz\/8642",
-    "is_frequency_violator":false,
+    "updated":"2026-06-27T10:12:43.550764Z",
+    "citation":"https:\/\/amsat-uk.org\/2016\/11\/10\/student-fm-transponder-cubesat\/",
+    "is_frequency_violator":true,
     "associated_satellites":[
       "TXHE-0454-6930-2261-2648"
     ]
