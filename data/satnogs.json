@@ -65582,5 +65582,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"ZHVQ-8614-1991-3719-8026",
+    "norad_cat_id":69101.0,
+    "norad_follow_id":null,
+    "name":"OBJECT E",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-05-15T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-26T13:22:17.484140Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_chr\/lau2026.htm (and I see it in rstrf on 401.5MHz)",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
