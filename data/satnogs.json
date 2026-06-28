@@ -2964,14 +2964,14 @@
     "decayed":null,
     "launched":"2013-11-21T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/funcube.org.uk\/",
     "operator":"None",
-    "countries":"",
+    "countries":"GB,NL",
     "telemetries":[
 
     ],
-    "updated":"2023-01-03T04:24:21.296047Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/funcube-1.htm",
+    "updated":"2026-06-27T19:31:47.296053Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/FUNcube-1",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65242,6 +65242,30 @@
     ],
     "updated":"2026-05-23T01:17:48.381587Z",
     "citation":"https:\/\/orbitalfocus.uk",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XJZB-8484-4108-1845-4033",
+    "norad_cat_id":25994.0,
+    "norad_follow_id":null,
+    "name":"TERRA",
+    "names":"EOS AM-1",
+    "image":"satellites\/PostPropLeakW_small.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"1999-12-18T18:57:39Z",
+    "deployed":"1999-12-18T19:12:00Z",
+    "website":"https:\/\/terra.nasa.gov\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-27T13:26:02.639903Z",
+    "citation":"minor update",
     "is_frequency_violator":false,
     "associated_satellites":[
 
