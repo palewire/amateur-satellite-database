@@ -3536,7 +3536,7 @@
     ],
     "updated":"2023-05-17T14:02:30.956786Z",
     "citation":"https:\/\/amsat-uk.org\/tag\/dx-1\/",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -62093,7 +62093,7 @@
     "norad_follow_id":null,
     "name":"KOSTKA",
     "names":"",
-    "image":"",
+    "image":"satellites\/2026_-_YSpace_-_Kostka_JR-501.jpg",
     "status":"future",
     "decayed":null,
     "launched":null,
@@ -62104,8 +62104,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-13T09:44:07.073823Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-06-28T12:56:48.570357Z",
+    "citation":"https:\/\/www.vut.cz\/yspace",
     "is_frequency_violator":false,
     "associated_satellites":[
 
