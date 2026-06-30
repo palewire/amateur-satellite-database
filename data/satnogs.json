@@ -65630,5 +65630,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"FZQD-0263-2257-6241-5637",
+    "norad_cat_id":98293.0,
+    "norad_follow_id":null,
+    "name":"Marina",
+    "names":"",
+    "image":"satellites\/marina.jpeg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-31T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"SK",
+    "telemetries":[
+
+    ],
+    "updated":"2026-06-30T11:27:49.084955Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
