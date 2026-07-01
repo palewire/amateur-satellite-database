@@ -1883,6 +1883,7 @@ RSP-01,47925,,145.810,145.810,1k2AFSK/9k6*GMSK/19k2FSK CW,8N1RSP,re-entered,YBRZ
 RSP-02,,,145.910,145.910,9k6_GMSK CW,,to be launched,
 RSP-03,65732,,437.050,437.050,1k2_AFSK 2k4_4FSK OQPSK 9k6*_GMSK CW*,JS1YOY,re-entered,SRYX-5008-9935-5872-7958
 RSP-04,,,,,128k,,to be launched,
+RSP-P00,,,,,APRS SSDV,,to be launched,
 RS-1,11085,,,,,,non-operational,
 RS-2,11086,,,,,,non-operational,
 RS-3,12997,,,,,,non-operational,
