@@ -15545,11 +15545,22 @@
   {
     "name":"MARIA-G",
     "norad_id":null,
-    "uplink":null,
-    "downlink":"145.925",
+    "uplink":"145.925",
+    "downlink":"436.666",
     "beacon":"436.666",
-    "mode":"436.666",
-    "callsign":"1k2_FSK FM CW",
+    "mode":"200-2k4 USB FM CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"Marina",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.925\/436.680",
+    "beacon":"145.925",
+    "mode":"9k6_GFSK SSDV CW",
+    "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
   },
@@ -15563,6 +15574,17 @@
     "callsign":"WL2XYF",
     "status":"re-entered",
     "satnogs_id":"AQMD-7020-9181-7420-6447"
+  },
+  {
+    "name":"MARMOTSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.875\/436.125",
+    "beacon":"145.875",
+    "mode":"DVB-S2 CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"MaSat-1",
@@ -15584,6 +15606,17 @@
     "mode":"FHSS",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"MAVERIC",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.575",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -27260,11 +27293,11 @@
   {
     "name":"UNNE-1",
     "norad_id":null,
-    "uplink":null,
-    "downlink":"145.925",
+    "uplink":"145.925",
+    "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"436.888",
-    "callsign":"1k2_FSK FM CW",
+    "mode":"200-2k4 USB FM CW",
+    "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
   },

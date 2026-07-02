@@ -62102,7 +62102,9 @@
     "operator":"None",
     "countries":"CZ",
     "telemetries":[
-
+      {
+        "decoder":"kostka"
+      }
     ],
     "updated":"2026-06-28T12:56:48.570357Z",
     "citation":"https:\/\/www.vut.cz\/yspace",
