@@ -4906,6 +4906,17 @@
     "satnogs_id":"WQDE-2540-1175-6859-2485"
   },
   {
+    "name":"Coconut",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400",
+    "beacon":null,
+    "mode":"21k9 LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Colibri-S",
     "norad_id":"61746",
     "uplink":null,
@@ -11617,11 +11628,11 @@
   },
   {
     "name":"ICEYE-X39",
-    "norad_id":null,
+    "norad_id":"60546",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2263.600",
     "beacon":null,
-    "mode":null,
+    "mode":"1000000",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
