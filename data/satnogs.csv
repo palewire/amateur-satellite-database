@@ -2715,3 +2715,4 @@ OFQO-5161-4566-9328-1494,68202.0,,OBJECT E,,,alive,,2026-03-16T00:00:00Z,,,None,
 LQXK-5207-6398-7887-5881,69100.0,,OBJECT D,,,alive,,2026-05-15T00:00:00Z,,,None,CN,[],2026-06-25T20:05:30.007646Z,https://space.skyrocket.de/doc_chr/lau2026.htm (and I see it in rstrf on 401.15MHz),False,[]
 ZHVQ-8614-1991-3719-8026,69101.0,,OBJECT E,,,alive,,2026-05-15T00:00:00Z,,,None,CN,[],2026-06-26T13:22:17.484140Z,https://space.skyrocket.de/doc_chr/lau2026.htm (and I see it in rstrf on 401.5MHz),False,[]
 FZQD-0263-2257-6241-5637,98293.0,,Marina,,satellites/marina.jpeg,future,,2026-07-31T00:00:00Z,,,None,SK,[],2026-06-30T11:27:49.084955Z,Add temporary NORAD ID,False,[]
+KHLC-7600-9830-3399-2236,98292.0,,Coconut,,satellites/coconut_flight_ready.jpeg,alive,,2026-04-11T11:41:00Z,2026-07-02T10:30:00Z,https://asu-sdsl.github.io/coconut_ham.html,None,US,[],2026-07-02T15:03:29.653689Z,https://raw.githubusercontent.com/ASU-SDSL/coconut-fsw/refs/heads/orbit/orbit.txt,False,[]

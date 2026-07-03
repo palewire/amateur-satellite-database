@@ -65656,5 +65656,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"KHLC-7600-9830-3399-2236",
+    "norad_cat_id":98292.0,
+    "norad_follow_id":null,
+    "name":"Coconut",
+    "names":"",
+    "image":"satellites\/coconut_flight_ready.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-04-11T11:41:00Z",
+    "deployed":"2026-07-02T10:30:00Z",
+    "website":"https:\/\/asu-sdsl.github.io\/coconut_ham.html",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-02T15:03:29.653689Z",
+    "citation":"https:\/\/raw.githubusercontent.com\/ASU-SDSL\/coconut-fsw\/refs\/heads\/orbit\/orbit.txt",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

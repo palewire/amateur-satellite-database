@@ -4911,7 +4911,7 @@
     "uplink":null,
     "downlink":"437.400",
     "beacon":null,
-    "mode":"21k9 LoRa",
+    "mode":"488 LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -10587,7 +10587,7 @@
     "uplink":null,
     "downlink":"2287.500",
     "beacon":null,
-    "mode":"2000000",
+    "mode":"2000k",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"JPEO-6335-5153-2378-8336"
@@ -11632,7 +11632,7 @@
     "uplink":null,
     "downlink":"2263.600",
     "beacon":null,
-    "mode":"1000000",
+    "mode":"1000k",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -11907,7 +11907,7 @@
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"1000k",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -11980,11 +11980,11 @@
   },
   {
     "name":"ICEYE-X71",
-    "norad_id":null,
+    "norad_id":"68494",
     "uplink":null,
     "downlink":null,
     "beacon":null,
-    "mode":null,
+    "mode":"1000k",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -13381,7 +13381,7 @@
     "uplink":null,
     "downlink":"2283.000",
     "beacon":null,
-    "mode":"110000_QPSK",
+    "mode":"110k_QPSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -13392,7 +13392,7 @@
     "uplink":null,
     "downlink":"2283.000",
     "beacon":null,
-    "mode":"110000_QPSK",
+    "mode":"110k_QPSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -17990,7 +17990,7 @@
     "uplink":null,
     "downlink":"2260.000",
     "beacon":null,
-    "mode":"2000000_QPSK",
+    "mode":"2000k_QPSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
