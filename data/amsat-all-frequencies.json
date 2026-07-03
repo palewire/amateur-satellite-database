@@ -14256,6 +14256,17 @@
     "satnogs_id":null
   },
   {
+    "name":"KOSTKA",
+    "norad_id":null,
+    "uplink":"436.870",
+    "downlink":"436.870",
+    "beacon":"436.870",
+    "mode":"9k6_GFSK SSDV CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Kowsar-1.5",
     "norad_id":"67264",
     "uplink":null,
