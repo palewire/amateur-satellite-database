@@ -65680,5 +65680,101 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"RIXQ-1376-3394-8953-1631",
+    "norad_cat_id":98291.0,
+    "norad_follow_id":null,
+    "name":"HUCsat",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-04T09:29:47.395139Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-maybe-nrcsd30-2026-06-02\/14957",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IBOX-6518-0668-0404-1283",
+    "norad_cat_id":98290.0,
+    "norad_follow_id":null,
+    "name":"PROVES - Electra",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-04T09:29:47.353459Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-maybe-nrcsd30-2026-06-02\/14957",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XKXN-1240-2266-1207-5797",
+    "norad_cat_id":98289.0,
+    "norad_follow_id":null,
+    "name":"PROVES - Alcyone",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-04T09:29:47.313839Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-maybe-nrcsd30-2026-06-02\/14957",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HKFB-5973-3539-2411-7097",
+    "norad_cat_id":98288.0,
+    "norad_follow_id":null,
+    "name":"PROVES - Atlas",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-04T09:35:07.327212Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-maybe-nrcsd30-2026-06-02\/14957",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]
