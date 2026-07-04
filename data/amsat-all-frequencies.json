@@ -11793,14 +11793,14 @@
   },
   {
     "name":"ICEYE-X54",
-    "norad_id":null,
+    "norad_id":"64570",
     "uplink":null,
     "downlink":"2269.725",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"KKTB-3799-7177-0689-2786"
   },
   {
     "name":"ICEYE-X55",
@@ -11872,9 +11872,9 @@
     "name":"ICEYE-X61",
     "norad_id":"66754",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2240.000",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"WTDS-0932-2523-0676-9670"
@@ -11894,9 +11894,9 @@
     "name":"ICEYE-X63",
     "norad_id":"67372",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2263.600",
     "beacon":null,
-    "mode":null,
+    "mode":"1000k",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -11905,7 +11905,7 @@
     "name":"ICEYE-X64",
     "norad_id":"67373",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2263.500",
     "beacon":null,
     "mode":"1000k",
     "callsign":null,
@@ -11982,7 +11982,7 @@
     "name":"ICEYE-X71",
     "norad_id":"68494",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2263.600",
     "beacon":null,
     "mode":"1000k",
     "callsign":null,
