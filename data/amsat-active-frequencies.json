@@ -3220,6 +3220,16 @@
     "satnogs_id":"RCSI-2248-9538-7513-4618"
   },
   {
+    "name":"STARS-AO",
+    "norad_id":"43679",
+    "uplink":null,
+    "downlink":"437.400*\/437.200",
+    "beacon":"437.350",
+    "mode":"1k2*AFSK 115kGMSK CW",
+    "callsign":"JJ2YSY",
+    "satnogs_id":"VBFH-2959-0036-6917-5389"
+  },
+  {
     "name":"STRaND-1",
     "norad_id":"39090",
     "uplink":null,

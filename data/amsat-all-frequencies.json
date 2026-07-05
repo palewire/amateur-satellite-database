@@ -4911,7 +4911,7 @@
     "uplink":null,
     "downlink":"437.400",
     "beacon":null,
-    "mode":"488 LoRa",
+    "mode":"62k5 LoRa",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -10920,6 +10920,17 @@
     "mode":"4k8 GMSK FM",
     "callsign":"HUBBLE7",
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"HUCSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400\/2438.500",
+    "beacon":null,
+    "mode":"125k_LoRa",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -19701,6 +19712,61 @@
     "satnogs_id":null
   },
   {
+    "name":"PROVES-Alcyone",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400\/2422.000",
+    "beacon":null,
+    "mode":"2Mbps_FSK,125k_LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"PROVES-Atlas",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400\/2422.000",
+    "beacon":null,
+    "mode":"2Mbps_FSK,125k_LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"PROVES-Electra",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400\/2422.000",
+    "beacon":null,
+    "mode":"2Mbps_FSK,125k_LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Proves-Maia",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400\/2422.000",
+    "beacon":null,
+    "mode":"2Mbps_FSK,125k_LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Proves-Taygeta",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.400\/2422.000",
+    "beacon":null,
+    "mode":"2Mbps_FSK,125k_LoRa",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Prox-1",
     "norad_id":"44339",
     "uplink":"437.345",
@@ -24064,7 +24130,7 @@
     "beacon":"437.350",
     "mode":"1k2*AFSK 115kGMSK CW",
     "callsign":"JJ2YSY",
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"VBFH-2959-0036-6917-5389"
   },
   {
