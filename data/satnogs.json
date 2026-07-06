@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -65734,7 +65734,7 @@
     "norad_cat_id":98266.0,
     "norad_follow_id":null,
     "name":"SCION-X",
-    "names":"INSPIREsat 6",
+    "names":"INSPIREsat 6, BV0SCX",
     "image":"satellites\/57216c1a-5fcb-442d-9173-f7bf833248d4-removebg-preview.png",
     "status":"future",
     "decayed":null,
@@ -65746,8 +65746,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T02:40:28.196559Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-06T08:04:27.601384Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/15",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65820,7 +65820,7 @@
     ],
     "updated":"2026-07-06T03:01:13.108784Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -65844,7 +65844,7 @@
     ],
     "updated":"2026-07-06T03:01:18.923019Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -65868,7 +65868,7 @@
     ],
     "updated":"2026-07-06T03:01:25.492133Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -66022,20 +66022,20 @@
     "norad_cat_id":98291.0,
     "norad_follow_id":null,
     "name":"HUCsat",
-    "names":"",
-    "image":"",
+    "names":"WP2XZJ",
+    "image":"satellites\/hucsat.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"",
+    "launched":"2026-04-11T11:41:00Z",
+    "deployed":"2026-07-02T09:00:00Z",
+    "website":"https:\/\/christopherprainito.com\/projects\/hucsat\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2026-07-04T09:29:47.395139Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-maybe-nrcsd30-2026-06-02\/14957",
+    "updated":"2026-07-06T09:02:21.622060Z",
+    "citation":"https:\/\/en.wikipedia.org\/wiki\/HUCSat, Callsign in telemetry beacon",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66122,7 +66122,7 @@
     "image":"",
     "status":"future",
     "decayed":null,
-    "launched":"2026-07-07T00:00:00Z",
+    "launched":"2026-07-07T07:10:00Z",
     "deployed":null,
     "website":"http:\/\/spel.ing.uchile.cl\/",
     "operator":"None",
@@ -66130,7 +66130,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T02:52:34.431029Z",
+    "updated":"2026-07-06T16:30:06.579385Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -66165,8 +66165,8 @@
     "sat_id":"QYDP-8943-6593-0386-9661",
     "norad_cat_id":98287.0,
     "norad_follow_id":null,
-    "name":"Apolink IPoS",
-    "names":"",
+    "name":"IPoS-TDsM",
+    "names":"IPoS",
     "image":"satellites\/apolink.jpg",
     "status":"future",
     "decayed":null,
@@ -66178,11 +66178,11 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T22:17:39.090567Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/",
+    "updated":"2026-07-06T16:13:10.920824Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "BSGD-3747-2908-3877-8053"
     ]
   },
   {
@@ -66563,6 +66563,30 @@
 
     ],
     "updated":"2026-07-06T02:31:20.445527Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TEAW-1621-8543-0676-6317",
+    "norad_cat_id":98261.0,
+    "norad_follow_id":null,
+    "name":"SENTINEL-1",
+    "names":"OSIRIS-A",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"https:\/\/etherealspace.com\/",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T16:05:14.557611Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
     "is_frequency_violator":false,
     "associated_satellites":[
