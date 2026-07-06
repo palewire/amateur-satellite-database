@@ -11646,7 +11646,7 @@
     "mode":"1000k",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"TKIH-7165-4279-5491-0810"
   },
   {
     "name":"ICEYE-X40",
@@ -11910,7 +11910,7 @@
     "mode":"1000k",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"FRPZ-5087-2399-8068-4647"
   },
   {
     "name":"ICEYE-X64",
@@ -11921,7 +11921,7 @@
     "mode":"1000k",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"XMCP-2248-1203-7172-9454"
   },
   {
     "name":"ICEYE-X65",
@@ -11998,7 +11998,7 @@
     "mode":"1000k",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"VYBN-2048-7094-6447-7530"
   },
   {
     "name":"ICEYE-X72",
@@ -20138,7 +20138,7 @@
     "mode":"2k4_FSK FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"JXYC-3121-4237-0231-2415"
   },
   {
     "name":"Qubesat",

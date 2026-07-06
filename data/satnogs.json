@@ -8038,20 +8038,20 @@
     "norad_cat_id":43679.0,
     "norad_follow_id":null,
     "name":"Stars-AO",
-    "names":"JJ2YSY",
-    "image":"",
+    "names":"JJ2YSY, \u3042\u304a\u3044",
+    "image":"satellites\/AOstarsCG.jpg",
     "status":"alive",
     "decayed":null,
-    "launched":null,
+    "launched":"2018-10-29T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/stars-ao.info\/",
     "operator":"None",
-    "countries":"",
+    "countries":"JP",
     "telemetries":[
 
     ],
-    "updated":"2021-07-21T10:11:42.604443Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-07-05T17:22:54.928666Z",
+    "citation":"http:\/\/stars.eng.shizuoka.ac.jp\/starsao.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -58834,7 +58834,7 @@
   {
     "sat_id":"UQKX-0360-6571-5279-5297",
     "norad_cat_id":98508.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66682.0,
     "name":"ION SCV Galactic Georgius",
     "names":"ION SCV-022",
     "image":"",
@@ -58848,8 +58848,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:07.043228Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-07-06T00:10:45.872770Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62092,13 +62092,13 @@
     "norad_cat_id":98395.0,
     "norad_follow_id":null,
     "name":"KOSTKA",
-    "names":"",
+    "names":"OK0KST",
     "image":"satellites\/2026_-_YSpace_-_Kostka_JR-501.jpg",
     "status":"future",
     "decayed":null,
-    "launched":null,
-    "deployed":null,
-    "website":"https:\/\/www.vut.cz\/en\/yspace",
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":"2026-07-07T08:04:00Z",
+    "website":"https:\/\/cubesat.cz\/",
     "operator":"None",
     "countries":"CZ",
     "telemetries":[
@@ -62106,8 +62106,8 @@
         "decoder":"kostka"
       }
     ],
-    "updated":"2026-06-28T12:56:48.570357Z",
-    "citation":"https:\/\/www.vut.cz\/yspace",
+    "updated":"2026-07-05T22:20:21.889979Z",
+    "citation":"Revert previous change of website",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -64795,7 +64795,7 @@
   },
   {
     "sat_id":"JXYC-3121-4237-0231-2415",
-    "norad_cat_id":98310.0,
+    "norad_cat_id":69024.0,
     "norad_follow_id":null,
     "name":"Balkan-2",
     "names":"",
@@ -64806,12 +64806,12 @@
     "deployed":null,
     "website":"",
     "operator":"None",
-    "countries":"",
+    "countries":"BG",
     "telemetries":[
 
     ],
-    "updated":"2026-05-03T06:50:01.699397Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/cas500-2",
+    "updated":"2026-07-05T22:43:49.074133Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65562,6 +65562,30 @@
     ]
   },
   {
+    "sat_id":"HPYK-4830-8894-4849-3491",
+    "norad_cat_id":98272.0,
+    "norad_follow_id":null,
+    "name":"MARMOTSat",
+    "names":"VA7UVS",
+    "image":"satellites\/flying-marmot-47.webp",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.marmotsat.ca\/",
+    "operator":"None",
+    "countries":"CA",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T01:09:35.260286Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17 and https:\/\/www.propagationlab.ca\/satellite\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
     "sat_id":"OFQO-5161-4566-9328-1494",
     "norad_cat_id":68202.0,
     "norad_follow_id":null,
@@ -65642,7 +65666,7 @@
     "image":"satellites\/marina.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":"2026-07-31T00:00:00Z",
+    "launched":"2026-07-07T07:10:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -65650,8 +65674,104 @@
     "telemetries":[
 
     ],
-    "updated":"2026-06-30T11:27:49.084955Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-07-06T01:41:30.919402Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ENDS-1922-1985-0153-3099",
+    "norad_cat_id":69588.0,
+    "norad_follow_id":null,
+    "name":"Object G",
+    "names":"2026-138G",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-06-17T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:38:22.540334Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/18_DTu9BNJetuH1an3Un4Oa_veOGGkJBe_xyckW_YuEA\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WQDI-2906-4008-8452-0718",
+    "norad_cat_id":69583.0,
+    "norad_follow_id":null,
+    "name":"Object B",
+    "names":"2026-138B",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-06-17T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:38:33.716080Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1h-T0F-ceghU_HwpFvqoWRLATjU-vBhmtWOza4uitYBs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PRGL-6119-5697-2117-3482",
+    "norad_cat_id":98266.0,
+    "norad_follow_id":null,
+    "name":"SCION-X",
+    "names":"INSPIREsat 6",
+    "image":"satellites\/57216c1a-5fcb-442d-9173-f7bf833248d4-removebg-preview.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T02:40:28.196559Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PCCO-9403-6164-4867-7658",
+    "norad_cat_id":58340.0,
+    "norad_follow_id":null,
+    "name":"LEMUR 2 MJR092620",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2023-11-11T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:35:41.977001Z",
+    "citation":"https:\/\/www.n2yo.com\/satellites\/?c=49",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65676,6 +65796,222 @@
     ],
     "updated":"2026-07-02T15:03:29.653689Z",
     "citation":"https:\/\/raw.githubusercontent.com\/ASU-SDSL\/coconut-fsw\/refs\/heads\/orbit\/orbit.txt",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DJIM-7578-9695-9423-8641",
+    "norad_cat_id":98264.0,
+    "norad_follow_id":null,
+    "name":"TOM-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T03:01:13.108784Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"SKCR-7506-5885-9369-1623",
+    "norad_cat_id":98263.0,
+    "norad_follow_id":null,
+    "name":"TOM-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T03:01:18.923019Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"HWNI-0814-4699-2907-4799",
+    "norad_cat_id":98262.0,
+    "norad_follow_id":null,
+    "name":"TOM-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T03:01:25.492133Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"TKIH-7165-4279-5491-0810",
+    "norad_cat_id":60546.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X39",
+    "names":"2024-149CG",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2024-08-16T00:00:00Z",
+    "deployed":"2024-08-16T00:00:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:37:37.607460Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/15SwL2TLElM6f8uyjR-lj2evip8Xp09_EauotpWhDfjo\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VYBN-2048-7094-6447-7530",
+    "norad_cat_id":68494.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X71",
+    "names":"2026-067CG",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-03-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:37:16.583038Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1z74KeaO8ooCqRQ07hX1H6mPvlYUppSDN6w8ZKsqcDqg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XMCP-2248-1203-7172-9454",
+    "norad_cat_id":67373.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X64",
+    "names":"2026-004L",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-01-11T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:37:21.756191Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1bNNUjuGGcykT3aLHAUzaRhS7BMYPl8_rLTgiI9N0G4w\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VCDK-6912-2495-5415-3885",
+    "norad_cat_id":98267.0,
+    "norad_follow_id":null,
+    "name":"Replicator-2",
+    "names":"Replicator 2",
+    "image":"satellites\/Sollar_array.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.orbitalmatter.com\/",
+    "operator":"None",
+    "countries":"PL",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T02:36:52.151754Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YZNT-7399-1272-5956-2962",
+    "norad_cat_id":98273.0,
+    "norad_follow_id":null,
+    "name":"Koyo",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"TW",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:33:49.052791Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FRPZ-5087-2399-8068-4647",
+    "norad_cat_id":67372.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X63",
+    "names":"2026-004K",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-01-11T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:37:25.281740Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/17ASWFSqYPDwtryffHNn4XtezD2h6Q_B3vGXDiO2Tozw\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65772,6 +66108,462 @@
     ],
     "updated":"2026-07-04T09:35:07.327212Z",
     "citation":"https:\/\/community.libre.space\/t\/iss-deployment-maybe-nrcsd30-2026-06-02\/14957",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"LCYV-6577-0051-3956-3172",
+    "norad_cat_id":98265.0,
+    "norad_follow_id":null,
+    "name":"SUCHAI-4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T00:00:00Z",
+    "deployed":null,
+    "website":"http:\/\/spel.ing.uchile.cl\/",
+    "operator":"None",
+    "countries":"CL",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T02:52:34.431029Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AHJK-2521-3526-2646-5537",
+    "norad_cat_id":98277.0,
+    "norad_follow_id":null,
+    "name":"CyberCUBE",
+    "names":"",
+    "image":"satellites\/cybercube.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.linkedin.com\/posts\/alenspace_cybercube-spacecybersecurity-activity-7477616998152290304-AbXk",
+    "operator":"None",
+    "countries":"ES,FR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T23:46:16.771560Z",
+    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/CYBERCUBE\/126545045",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QYDP-8943-6593-0386-9661",
+    "norad_cat_id":98287.0,
+    "norad_follow_id":null,
+    "name":"Apolink IPoS",
+    "names":"",
+    "image":"satellites\/apolink.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"https:\/\/apolink.space\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T22:17:39.090567Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"VKFC-5087-0436-8864-8055",
+    "norad_cat_id":98286.0,
+    "norad_follow_id":null,
+    "name":"BRO-31",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T22:36:55.941089Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XLDB-7538-3591-1202-4298",
+    "norad_cat_id":98285.0,
+    "norad_follow_id":null,
+    "name":"FOSSASAT-2E26",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T22:45:33.915244Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"WWCV-1913-9789-8574-9814",
+    "norad_cat_id":98283.0,
+    "norad_follow_id":null,
+    "name":"CUBY-2",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T23:16:59.916394Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FHJG-9089-0997-9355-3963",
+    "norad_cat_id":98282.0,
+    "norad_follow_id":null,
+    "name":"CUBY-3",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T23:16:59.904817Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KSSZ-8157-4899-1955-7335",
+    "norad_cat_id":98281.0,
+    "norad_follow_id":null,
+    "name":"CUBY-4",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T23:16:59.893773Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"MFKP-5311-8815-3525-1172",
+    "norad_cat_id":98280.0,
+    "norad_follow_id":null,
+    "name":"CUBY-5",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T23:16:59.882749Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ARJV-4140-3790-5842-4949",
+    "norad_cat_id":98284.0,
+    "norad_follow_id":null,
+    "name":"CUBY-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T23:16:59.867080Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"XKIE-9046-7891-3526-0246",
+    "norad_cat_id":98279.0,
+    "norad_follow_id":null,
+    "name":"Centauri-9",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T23:31:27.026383Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"IDCF-6787-0480-8773-9835",
+    "norad_cat_id":98278.0,
+    "norad_follow_id":null,
+    "name":"CloudCT-Precursor",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-05T23:37:24.986497Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QGYT-6411-9788-7098-8379",
+    "norad_cat_id":98276.0,
+    "norad_follow_id":null,
+    "name":"ION SCV Joyful Julia",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:12:03.609711Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"QEQN-2303-2903-1759-3791",
+    "norad_cat_id":98275.0,
+    "norad_follow_id":null,
+    "name":"Kita-36",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:23:49.794037Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EHRM-8889-6769-1419-3931",
+    "norad_cat_id":98274.0,
+    "norad_follow_id":null,
+    "name":"Kita-35",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T00:23:49.781838Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"AJQX-1966-2916-6116-6970",
+    "norad_cat_id":98271.0,
+    "norad_follow_id":null,
+    "name":"Maveric",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T01:36:31.265986Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZVLF-8846-3773-9437-1387",
+    "norad_cat_id":98270.0,
+    "norad_follow_id":null,
+    "name":"Navigator",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T02:10:01.442431Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"DJQF-3933-8140-4498-1525",
+    "norad_cat_id":98269.0,
+    "norad_follow_id":null,
+    "name":"Oasis Alpha",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T02:19:05.870713Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YRUO-7213-5748-2959-8337",
+    "norad_cat_id":98268.0,
+    "norad_follow_id":null,
+    "name":"RAFS",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-07-07T07:10:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-06T02:31:20.445527Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
     "is_frequency_violator":false,
     "associated_satellites":[
 
