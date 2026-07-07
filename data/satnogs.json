@@ -62094,9 +62094,9 @@
     "name":"KOSTKA",
     "names":"OK0KST",
     "image":"satellites\/2026_-_YSpace_-_Kostka_JR-501.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":"2026-07-07T08:04:00Z",
     "website":"https:\/\/cubesat.cz\/",
     "operator":"None",
@@ -62106,8 +62106,8 @@
         "decoder":"kostka"
       }
     ],
-    "updated":"2026-07-05T22:20:21.889979Z",
-    "citation":"Revert previous change of website",
+    "updated":"2026-07-07T11:22:18.674283Z",
+    "citation":"Add the url to the KOSTKA dashboard",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65568,9 +65568,9 @@
     "name":"MARMOTSat",
     "names":"VA7UVS",
     "image":"satellites\/flying-marmot-47.webp",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"https:\/\/www.marmotsat.ca\/",
     "operator":"None",
@@ -65578,8 +65578,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T01:09:35.260286Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17 and https:\/\/www.propagationlab.ca\/satellite\/",
+    "updated":"2026-07-07T08:17:54.641928Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65662,11 +65662,11 @@
     "norad_cat_id":98293.0,
     "norad_follow_id":null,
     "name":"Marina",
-    "names":"",
+    "names":"OM9MAR",
     "image":"satellites\/marina.jpeg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -65674,8 +65674,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T01:41:30.919402Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T10:14:53.300496Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/14458222\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65736,9 +65736,9 @@
     "name":"SCION-X",
     "names":"INSPIREsat 6, BV0SCX",
     "image":"satellites\/57216c1a-5fcb-442d-9173-f7bf833248d4-removebg-preview.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -65746,9 +65746,9 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T08:04:27.601384Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/15",
-    "is_frequency_violator":false,
+    "updated":"2026-07-07T10:05:00.055311Z",
+    "citation":"IARU amateur satellite frequency coordination is currently under application.",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -65808,9 +65808,9 @@
     "name":"TOM-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -65818,8 +65818,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T03:01:13.108784Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.889385Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -65832,9 +65832,9 @@
     "name":"TOM-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -65842,8 +65842,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T03:01:18.923019Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.141115Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -65856,9 +65856,9 @@
     "name":"TOM-3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -65866,8 +65866,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T03:01:25.492133Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.590620Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -65952,9 +65952,9 @@
     "name":"Replicator-2",
     "names":"Replicator 2",
     "image":"satellites\/Sollar_array.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"https:\/\/www.orbitalmatter.com\/",
     "operator":"None",
@@ -65962,8 +65962,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T02:36:52.151754Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.048459Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65976,9 +65976,9 @@
     "name":"Koyo",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -65986,9 +65986,9 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T00:33:49.052791Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
-    "is_frequency_violator":false,
+    "updated":"2026-07-07T08:17:53.775344Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -66120,9 +66120,9 @@
     "name":"SUCHAI-4",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"http:\/\/spel.ing.uchile.cl\/",
     "operator":"None",
@@ -66130,9 +66130,9 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T16:30:06.579385Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
-    "is_frequency_violator":false,
+    "updated":"2026-07-07T08:17:54.444515Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
@@ -66144,9 +66144,9 @@
     "name":"CyberCUBE",
     "names":"",
     "image":"satellites\/cybercube.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"https:\/\/www.linkedin.com\/posts\/alenspace_cybercube-spacecybersecurity-activity-7477616998152290304-AbXk",
     "operator":"None",
@@ -66154,8 +66154,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T23:46:16.771560Z",
-    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/CYBERCUBE\/126545045",
+    "updated":"2026-07-07T08:17:55.023069Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66166,11 +66166,11 @@
     "norad_cat_id":98287.0,
     "norad_follow_id":null,
     "name":"IPoS-TDsM",
-    "names":"IPoS",
+    "names":"WQ2XKO",
     "image":"satellites\/apolink.jpg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"https:\/\/apolink.space\/",
     "operator":"None",
@@ -66178,8 +66178,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T16:13:10.920824Z",
-    "citation":"Satellite Team",
+    "updated":"2026-07-07T09:35:51.788908Z",
+    "citation":"https:\/\/network.satnogs.org\/observations\/14456133\/",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BSGD-3747-2908-3877-8053"
@@ -66192,9 +66192,9 @@
     "name":"BRO-31",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66202,8 +66202,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T22:36:55.941089Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:53.998337Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66216,9 +66216,9 @@
     "name":"FOSSASAT-2E26",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66226,8 +66226,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T22:45:33.915244Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:53.871042Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66240,9 +66240,9 @@
     "name":"CUBY-2",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66250,8 +66250,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T23:16:59.916394Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:53.954408Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66264,9 +66264,9 @@
     "name":"CUBY-3",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66274,8 +66274,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T23:16:59.904817Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.738581Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66288,9 +66288,9 @@
     "name":"CUBY-4",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66298,8 +66298,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T23:16:59.893773Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.492745Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66312,9 +66312,9 @@
     "name":"CUBY-5",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66322,8 +66322,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T23:16:59.882749Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.403488Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66336,9 +66336,9 @@
     "name":"CUBY-1",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66346,8 +66346,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T23:16:59.867080Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.929451Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66360,9 +66360,9 @@
     "name":"Centauri-9",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66370,8 +66370,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T23:31:27.026383Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:53.913020Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66384,9 +66384,9 @@
     "name":"CloudCT-Precursor",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66394,8 +66394,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-05T23:37:24.986497Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.540105Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66406,11 +66406,11 @@
     "norad_cat_id":98276.0,
     "norad_follow_id":null,
     "name":"ION SCV Joyful Julia",
-    "names":"",
+    "names":"ION SCV-023",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66418,8 +66418,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T00:12:03.609711Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.239557Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66432,9 +66432,9 @@
     "name":"Kita-36",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66442,8 +66442,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T00:23:49.794037Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.284206Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66453,12 +66453,12 @@
     "sat_id":"EHRM-8889-6769-1419-3931",
     "norad_cat_id":98274.0,
     "norad_follow_id":null,
-    "name":"Kita-35",
+    "name":"Kita-53",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66466,8 +66466,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T00:23:49.781838Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.792262Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66480,9 +66480,9 @@
     "name":"Maveric",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66490,8 +66490,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T01:36:31.265986Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.978825Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66504,9 +66504,9 @@
     "name":"Navigator",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66514,8 +66514,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T02:10:01.442431Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:53.725945Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66528,9 +66528,9 @@
     "name":"Oasis Alpha",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66538,8 +66538,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T02:19:05.870713Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:54.846314Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66552,9 +66552,9 @@
     "name":"RAFS",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -66562,8 +66562,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T02:31:20.445527Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-07T08:17:53.821200Z",
+    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66576,9 +66576,9 @@
     "name":"SENTINEL-1",
     "names":"OSIRIS-A",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-07T07:10:00Z",
+    "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
     "website":"https:\/\/etherealspace.com\/",
     "operator":"None",
@@ -66586,8 +66586,56 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T16:05:14.557611Z",
+    "updated":"2026-07-07T14:43:12.969561Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"YNMN-8792-4131-5517-8737",
+    "norad_cat_id":98259.0,
+    "norad_follow_id":null,
+    "name":"Unknown 1 T17",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-07-07T07:12:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-07T13:08:12.721220Z",
+    "citation":"PE0SAT strf observations",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"GKMG-1095-3456-3181-6519",
+    "norad_cat_id":98258.0,
+    "norad_follow_id":null,
+    "name":"ANDURIL-216",
+    "names":"LA3",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-07-07T07:12:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-07T14:15:34.362212Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/61",
     "is_frequency_violator":false,
     "associated_satellites":[
 

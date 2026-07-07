@@ -1320,17 +1320,6 @@
     "satnogs_id":"NYZJ-8632-3700-9779-7966"
   },
   {
-    "name":"Apolink-IPoS",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"401.500",
-    "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"to be launched",
-    "satnogs_id":null
-  },
-  {
     "name":"AprizeSat-1",
     "norad_id":"28372",
     "uplink":null,
@@ -2310,6 +2299,17 @@
     "satnogs_id":null
   },
   {
+    "name":"BALKAN-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"Ku Ka-band",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BARRY-1",
     "norad_id":"58338",
     "uplink":null,
@@ -3146,6 +3146,17 @@
     "satnogs_id":"RNBQ-9045-6623-3650-8949"
   },
   {
+    "name":"BOHR",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"1618.725-1626.500",
+    "beacon":null,
+    "mode":"iridium",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BOTAN",
     "norad_id":"65942",
     "uplink":null,
@@ -3503,7 +3514,7 @@
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":null,
+    "mode":"4k8_FSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -4757,7 +4768,7 @@
     "uplink":null,
     "downlink":"400.220",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_FSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -6336,6 +6347,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CyberCUBE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2206.500\/2285.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"CyBEEsat",
     "norad_id":null,
     "uplink":null,
@@ -7829,6 +7851,17 @@
     "mode":"LoRa FM",
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"ET-01",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"1618.725-1626.500",
+    "beacon":null,
+    "mode":"iridium",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -10041,6 +10074,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"EEEK-5201-8668-7459-3807"
+  },
+  {
+    "name":"GRUS3A~3G",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"467.720\/22782.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"GT-1",
@@ -12809,7 +12853,7 @@
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
-    "mode":null,
+    "mode":"1k2_FSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -12879,6 +12923,17 @@
     "callsign":"KJ6KSL",
     "status":"inactive",
     "satnogs_id":"IMUE-5672-2044-2610-5888"
+  },
+  {
+    "name":"IPoS-TDsM",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500\/2222.000",
+    "beacon":null,
+    "mode":"9k6_FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Irazu",
@@ -14217,7 +14272,7 @@
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
-    "mode":null,
+    "mode":"30k_GFSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -14228,7 +14283,7 @@
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
-    "mode":null,
+    "mode":"30k_GFSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -14393,7 +14448,7 @@
     "uplink":null,
     "downlink":"435.400",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_FSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -15723,7 +15778,7 @@
     "norad_id":null,
     "uplink":null,
     "downlink":"145.875\/436.125",
-    "beacon":"145.875",
+    "beacon":"145.875 1k2_AFSK",
     "mode":"DVB-S2 CW",
     "callsign":null,
     "status":"to be launched",
@@ -16717,6 +16772,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"N2-P-BODY",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"1618.725-1626.500",
+    "beacon":null,
+    "mode":"iridium",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -20529,7 +20595,7 @@
     "name":"RAFS-Cubesat",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.700\/401.850\/401.950",
+    "downlink":"401.700\/401.850\/401.950\/2267.000\/2285.500",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -20740,7 +20806,7 @@
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GFSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -21950,7 +22016,7 @@
     "uplink":null,
     "downlink":"145.825",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GFSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -22207,6 +22273,17 @@
     "callsign":"WJ2XOX",
     "status":"re-entered",
     "satnogs_id":"OSBB-5160-7827-1540-1828"
+  },
+  {
+    "name":"SENTINEL-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2254.100",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Sentry",
@@ -23969,6 +24046,17 @@
     "satnogs_id":null
   },
   {
+    "name":"SPEAR-1A~1C",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"1618.725-1626.500",
+    "beacon":null,
+    "mode":"iridium",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"SpeiSat",
     "norad_id":"56991",
     "uplink":null,
@@ -24711,7 +24799,7 @@
     "uplink":null,
     "downlink":"437.230",
     "beacon":null,
-    "mode":null,
+    "mode":"4k8_FSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -26442,6 +26530,17 @@
     "callsign":"PYRAC3",
     "status":"active",
     "satnogs_id":"BMVG-9246-3923-3953-0918"
+  },
+  {
+    "name":"TOM-123",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.600\/437.800\/2275.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"TO-31",
