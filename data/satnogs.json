@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -66119,19 +66119,19 @@
     "norad_follow_id":null,
     "name":"SUCHAI-4",
     "names":"",
-    "image":"",
+    "image":"satellites\/Suchai-4.11-1.webp",
     "status":"alive",
     "decayed":null,
     "launched":"2026-07-07T07:12:00Z",
     "deployed":null,
-    "website":"http:\/\/spel.ing.uchile.cl\/",
+    "website":"https:\/\/spel.cl\/",
     "operator":"None",
     "countries":"CL",
     "telemetries":[
 
     ],
-    "updated":"2026-07-07T08:17:54.444515Z",
-    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
+    "updated":"2026-07-07T15:20:24.234065Z",
+    "citation":"https:\/\/uchile.cl\/noticias\/241049\/universidad-de-chile-lidera-el-desarrollo-del-nanosatelite-suchai-4",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66382,7 +66382,7 @@
     "norad_cat_id":98278.0,
     "norad_follow_id":null,
     "name":"CloudCT-Precursor",
-    "names":"",
+    "names":"DP2CTP",
     "image":"",
     "status":"alive",
     "decayed":null,
@@ -66394,8 +66394,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-07T08:17:54.540105Z",
-    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
+    "updated":"2026-07-07T16:40:50.990984Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/76",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66479,19 +66479,19 @@
     "norad_follow_id":null,
     "name":"Maveric",
     "names":"",
-    "image":"",
+    "image":"satellites\/MAVERIC_Rendered.png",
     "status":"alive",
     "decayed":null,
     "launched":"2026-07-07T07:12:00Z",
-    "deployed":null,
-    "website":"",
+    "deployed":"2026-07-07T01:00:13Z",
+    "website":"https:\/\/www.isi.edu\/centers-serc\/research\/nanosatellites\/maveric\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2026-07-07T08:17:54.978825Z",
-    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
+    "updated":"2026-07-07T15:23:02.700562Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
     "is_frequency_violator":false,
     "associated_satellites":[
 
