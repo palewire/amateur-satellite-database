@@ -440,6 +440,16 @@
     "satnogs_id":"WRLU-1723-6543-5361-0506"
   },
   {
+    "name":"CloudCT-Precursor",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.600*\/437.800",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":"DP2TOA B C",
+    "satnogs_id":null
+  },
+  {
     "name":"Colibri-S",
     "norad_id":"61746",
     "uplink":null,
@@ -1850,6 +1860,26 @@
     "satnogs_id":"NJBJ-3838-9654-0508-8247"
   },
   {
+    "name":"KOSTKA",
+    "norad_id":null,
+    "uplink":"436.870",
+    "downlink":"436.870",
+    "beacon":"436.870",
+    "mode":"9k6*GFSK SSDV CW",
+    "callsign":"OK0KST",
+    "satnogs_id":null
+  },
+  {
+    "name":"KOYO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.825\/435.400*",
+    "beacon":null,
+    "mode":"1k2_AFSK 9k6*GFSK",
+    "callsign":"KOYOSC",
+    "satnogs_id":null
+  },
+  {
     "name":"KSM1-A",
     "norad_id":"46912",
     "uplink":null,
@@ -2027,6 +2057,16 @@
     "beacon":"436.325",
     "mode":"1k2AFSK 9k6GMSK 19k2GMSK CW*",
     "callsign":"JJ2YXF",
+    "satnogs_id":null
+  },
+  {
+    "name":"Marina",
+    "norad_id":null,
+    "uplink":"436.680",
+    "downlink":"145.925*\/436.680",
+    "beacon":"436.680",
+    "mode":"9k6*GFSK SSDV CW",
+    "callsign":"OM9MAR",
     "satnogs_id":null
   },
   {
