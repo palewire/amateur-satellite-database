@@ -2530,6 +2530,16 @@
     "satnogs_id":"ZNYX-2468-9597-3161-5205"
   },
   {
+    "name":"Replicator-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":"SP5QNA",
+    "satnogs_id":null
+  },
+  {
     "name":"ROBUSTA-3A",
     "norad_id":"60243",
     "uplink":null,

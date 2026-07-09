@@ -18648,9 +18648,9 @@
     "name":"OSIRIS-A",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.025\/402.000\/2254.100",
     "beacon":null,
-    "mode":null,
+    "mode":"50k_GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -21104,8 +21104,8 @@
     "downlink":"400.500",
     "beacon":null,
     "mode":"9k6_GFSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"SP5QNA",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -22311,9 +22311,9 @@
     "name":"SCION-X",
     "norad_id":null,
     "uplink":null,
-    "downlink":"145.825",
+    "downlink":"145.825\/437.500",
     "beacon":null,
-    "mode":"9k6_GFSK",
+    "mode":"1k2_AFSK 9k6_GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -22575,9 +22575,9 @@
     "name":"SENTINEL-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.025\/2254.100",
+    "downlink":"401.025\/402.000\/2254.100",
     "beacon":null,
-    "mode":"9k6_GMSK",
+    "mode":"50k_GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

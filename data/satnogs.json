@@ -65672,7 +65672,9 @@
     "operator":"None",
     "countries":"SK",
     "telemetries":[
-
+      {
+        "decoder":"marina"
+      }
     ],
     "updated":"2026-07-08T08:40:49.009585Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
@@ -66150,12 +66152,12 @@
     "deployed":"2026-07-07T08:07:02Z",
     "website":"https:\/\/www.linkedin.com\/posts\/alenspace_cybercube-spacecybersecurity-activity-7477616998152290304-AbXk",
     "operator":"None",
-    "countries":"ES,FR",
+    "countries":"ES,FR,RO",
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:10.975461Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-08T17:44:28.112693Z",
+    "citation":"Satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66636,6 +66638,54 @@
     ],
     "updated":"2026-07-08T08:41:52.922068Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"OKWN-4699-4865-3295-5059",
+    "norad_cat_id":66683.0,
+    "norad_follow_id":null,
+    "name":"6GSTARLAB",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2025-04-15T19:16:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-08T15:32:31.363834Z",
+    "citation":"https:\/\/app.tinygs.com\/satellite\/Surveillance-EU868",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZZIZ-0997-0892-7670-0983",
+    "norad_cat_id":98257.0,
+    "norad_follow_id":null,
+    "name":"Unknown 2 T17",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-07-07T07:12:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-08T22:30:00.118717Z",
+    "citation":"Network observations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
