@@ -1630,14 +1630,34 @@
     "satnogs_id":"EZAU-8235-2008-4656-9477"
   },
   {
+    "name":"ION-SCV-018",
+    "norad_id":"64575",
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1k2 FSK",
+    "callsign":null,
+    "satnogs_id":"MJWC-6105-7146-5103-2066"
+  },
+  {
     "name":"ION-SCV-019",
     "norad_id":"68435",
     "uplink":null,
-    "downlink":"401.414\/2247.500",
+    "downlink":"401.415\/2247.500",
     "beacon":null,
     "mode":"1k2 FSK",
     "callsign":null,
     "satnogs_id":"IVCW-8630-3606-0296-9103"
+  },
+  {
+    "name":"ION-SCV-023",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.415",
+    "beacon":null,
+    "mode":"1k2_FSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"IO-86",
@@ -3458,6 +3478,36 @@
     "mode":"4k8_GFSK",
     "callsign":"PYRAC3",
     "satnogs_id":"BMVG-9246-3923-3953-0918"
+  },
+  {
+    "name":"TOM-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.600*\/437.800\/2275.500",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":"DP2CTP",
+    "satnogs_id":null
+  },
+  {
+    "name":"TOM-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.600*\/437.800\/2275.500",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":"DP2CTP",
+    "satnogs_id":null
+  },
+  {
+    "name":"TOM-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.600*\/437.800\/2275.500",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":"DP2CTP",
+    "satnogs_id":null
   },
   {
     "name":"TUSUR-GO",

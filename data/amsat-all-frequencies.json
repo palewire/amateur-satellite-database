@@ -12716,10 +12716,21 @@
     "satnogs_id":"GTBY-0816-3198-7674-7320"
   },
   {
+    "name":"ION-SCV-001",
+    "norad_id":"46274",
+    "uplink":null,
+    "downlink":"437.515",
+    "beacon":null,
+    "mode":"1k2 FSK",
+    "callsign":null,
+    "status":"inactive",
+    "satnogs_id":"GTBY-0816-3198-7674-7320"
+  },
+  {
     "name":"ION-SCV-002",
     "norad_id":"47504",
     "uplink":null,
-    "downlink":null,
+    "downlink":"437.515",
     "beacon":null,
     "mode":"1k2 FSK",
     "callsign":null,
@@ -12899,14 +12910,14 @@
     "beacon":null,
     "mode":"1k2 FSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"active",
     "satnogs_id":"MJWC-6105-7146-5103-2066"
   },
   {
     "name":"ION-SCV-019",
     "norad_id":"68435",
     "uplink":null,
-    "downlink":"401.414\/2247.500",
+    "downlink":"401.415\/2247.500",
     "beacon":null,
     "mode":"1k2 FSK",
     "callsign":null,
@@ -12926,25 +12937,25 @@
   },
   {
     "name":"ION-SCV-021",
-    "norad_id":null,
+    "norad_id":"67483",
     "uplink":null,
     "downlink":"2251.500",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"inactive",
     "satnogs_id":null
   },
   {
     "name":"ION-SCV-022",
-    "norad_id":null,
+    "norad_id":"66682",
     "uplink":null,
     "downlink":"2251.500",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
+    "status":"inactive",
+    "satnogs_id":"MGLA-5261-8948-0167-0526"
   },
   {
     "name":"ION-SCV-023",
@@ -12954,7 +12965,7 @@
     "beacon":null,
     "mode":"1k2_FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -16010,7 +16021,7 @@
     "uplink":null,
     "downlink":"145.875\/436.125",
     "beacon":"145.875",
-    "mode":"1k2_AFSK DVB-S2 CW",
+    "mode":"1k2_AFSK,10k17_2FSK,DVB-S2,CW",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -26832,33 +26843,33 @@
     "name":"TOM-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"435.600\/437.800\/2275.500",
+    "downlink":"435.600*\/437.800\/2275.500",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9k6_GFSK",
+    "callsign":"DP2CTP",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"TOM-2",
     "norad_id":null,
     "uplink":null,
-    "downlink":"435.600\/437.800\/2275.500",
+    "downlink":"435.600*\/437.800\/2275.500",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9k6_GFSK",
+    "callsign":"DP2CTP",
+    "status":"active",
     "satnogs_id":null
   },
   {
     "name":"TOM-3",
     "norad_id":null,
     "uplink":null,
-    "downlink":"435.600\/437.800\/2275.500",
+    "downlink":"435.600*\/437.800\/2275.500",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9k6_GFSK",
+    "callsign":"DP2CTP",
+    "status":"active",
     "satnogs_id":null
   },
   {

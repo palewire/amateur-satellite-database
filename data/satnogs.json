@@ -65736,7 +65736,7 @@
     "norad_cat_id":98266.0,
     "norad_follow_id":null,
     "name":"SCION-X",
-    "names":"INSPIREsat 6, BV0SCX",
+    "names":"INSPIREsat 6, BN0SCX",
     "image":"satellites\/57216c1a-5fcb-442d-9173-f7bf833248d4-removebg-preview.png",
     "status":"alive",
     "decayed":null,
@@ -65748,8 +65748,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-07T10:05:00.055311Z",
-    "citation":"IARU amateur satellite frequency coordination is currently under application.",
+    "updated":"2026-07-09T09:50:27.388954Z",
+    "citation":"IARU frequency coordination and launch regulatory filings are currently in progress.",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66577,7 +66577,7 @@
     "norad_follow_id":null,
     "name":"SENTINEL-1",
     "names":"OSIRIS-A",
-    "image":"",
+    "image":"satellites\/signal-2026-07-08-21-14-55-864_002.jpg",
     "status":"alive",
     "decayed":null,
     "launched":"2026-07-07T07:12:00Z",
@@ -66588,8 +66588,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:10:15.049990Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-09T06:22:40.804185Z",
+    "citation":"SENTINEL-1 flight unit",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66686,7 +66686,7 @@
     ],
     "updated":"2026-07-08T22:30:00.118717Z",
     "citation":"Network observations",
-    "is_frequency_violator":false,
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
