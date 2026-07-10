@@ -2758,3 +2758,4 @@ YNMN-8792-4131-5517-8737,98259.0,,Unknown 1 T17,,,alive,,2026-07-07T07:12:00Z,,,
 GKMG-1095-3456-3181-6519,98258.0,,ANDURIL-216,LA3,,alive,,2026-07-07T07:12:00Z,2026-07-07T08:16:14Z,,None,,[],2026-07-08T08:41:52.922068Z,https://www.spacex.com/launches/transporter17,False,[]
 OKWN-4699-4865-3295-5059,66683.0,,6GSTARLAB,,,alive,,2025-04-15T19:16:00Z,,,None,,[],2026-07-08T15:32:31.363834Z,https://app.tinygs.com/satellite/Surveillance-EU868,False,[]
 ZZIZ-0997-0892-7670-0983,98257.0,,Unknown 2 T17,,,alive,,2026-07-07T07:12:00Z,,,None,,[],2026-07-08T22:30:00.118717Z,Network observations,True,[]
+GDCT-2407-4915-3668-7342,98257.0,,LEOPARDSat-1,LEOPARDSat,satellites/pic1.jpeg,alive,,2026-04-11T11:41:00Z,2026-07-02T10:30:00Z,https://uccubecats.github.io/LEOPARDSat-1.html,None,US,[],2026-07-09T21:29:11.979542Z,Add temporary NORAD ID,False,[]

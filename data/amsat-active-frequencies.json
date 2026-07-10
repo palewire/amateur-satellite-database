@@ -1680,6 +1680,16 @@
     "satnogs_id":"KGEF-8685-2681-9687-2264"
   },
   {
+    "name":"IPoS-TDsM",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500\/2222.000",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":"WQ2XKO",
+    "satnogs_id":null
+  },
+  {
     "name":"iSat",
     "norad_id":"43879",
     "uplink":"437.325",

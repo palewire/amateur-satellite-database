@@ -66690,5 +66690,29 @@
     "associated_satellites":[
 
     ]
+  },
+  {
+    "sat_id":"GDCT-2407-4915-3668-7342",
+    "norad_cat_id":98257.0,
+    "norad_follow_id":null,
+    "name":"LEOPARDSat-1",
+    "names":"LEOPARDSat",
+    "image":"satellites\/pic1.jpeg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-04-11T11:41:00Z",
+    "deployed":"2026-07-02T10:30:00Z",
+    "website":"https:\/\/uccubecats.github.io\/LEOPARDSat-1.html",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-09T21:29:11.979542Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
   }
 ]

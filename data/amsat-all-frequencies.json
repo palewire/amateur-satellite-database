@@ -13040,9 +13040,9 @@
     "uplink":null,
     "downlink":"401.500\/2222.000",
     "beacon":null,
-    "mode":"9k6_FSK",
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9k6_GFSK",
+    "callsign":"WQ2XKO",
+    "status":"active",
     "satnogs_id":null
   },
   {
