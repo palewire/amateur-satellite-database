@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -66022,8 +66022,8 @@
   {
     "sat_id":"RIXQ-1376-3394-8953-1631",
     "norad_cat_id":98291.0,
-    "norad_follow_id":null,
-    "name":"HUCsat",
+    "norad_follow_id":69794.0,
+    "name":"HUCSat",
     "names":"WP2XZJ",
     "image":"satellites\/hucsat.jpg",
     "status":"alive",
@@ -66036,8 +66036,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-06T09:02:21.622060Z",
-    "citation":"https:\/\/en.wikipedia.org\/wiki\/HUCSat, Callsign in telemetry beacon",
+    "updated":"2026-07-11T07:14:22.396752Z",
+    "citation":"I am the Chief Engineer of the HUCSat",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66693,7 +66693,7 @@
   },
   {
     "sat_id":"GDCT-2407-4915-3668-7342",
-    "norad_cat_id":98257.0,
+    "norad_cat_id":98256.0,
     "norad_follow_id":null,
     "name":"LEOPARDSat-1",
     "names":"LEOPARDSat",
