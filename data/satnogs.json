@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -66708,8 +66708,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-09T21:29:11.979542Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-07-10T21:29:57.881433Z",
+    "citation":"CubeCats2026",
     "is_frequency_violator":false,
     "associated_satellites":[
 
