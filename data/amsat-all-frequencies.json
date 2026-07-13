@@ -12222,11 +12222,11 @@
   },
   {
     "name":"ICEYE-X73",
-    "norad_id":null,
+    "norad_id":"68496",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2269.700",
     "beacon":null,
-    "mode":null,
+    "mode":"1500k",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -14377,7 +14377,7 @@
     "satnogs_id":"DJTQ-0143-2398-3239-9294"
   },
   {
-    "name":"KITA-35",
+    "name":"KITA-36",
     "norad_id":null,
     "uplink":null,
     "downlink":"400.500",
@@ -14388,7 +14388,7 @@
     "satnogs_id":null
   },
   {
-    "name":"KITA-36",
+    "name":"KITA-53",
     "norad_id":null,
     "uplink":null,
     "downlink":"400.500",
@@ -20905,7 +20905,7 @@
     "uplink":null,
     "downlink":"401.700\/401.850\/401.950\/2267.000\/2285.500",
     "beacon":null,
-    "mode":null,
+    "mode":"4k8_GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -25109,7 +25109,7 @@
     "beacon":null,
     "mode":"4k8_FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

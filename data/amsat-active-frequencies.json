@@ -3320,6 +3320,16 @@
     "satnogs_id":"IFDT-2351-8184-5400-1710"
   },
   {
+    "name":"SUCHAI-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.250",
+    "beacon":null,
+    "mode":"4k8_FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Suomi-100",
     "norad_id":"43804",
     "uplink":null,
