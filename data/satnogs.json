@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -66694,7 +66694,7 @@
   {
     "sat_id":"GDCT-2407-4915-3668-7342",
     "norad_cat_id":98256.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69798.0,
     "name":"LEOPARDSat-1",
     "names":"LEOPARDSat",
     "image":"satellites\/pic1.jpeg",
@@ -66708,8 +66708,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-10T21:29:57.881433Z",
-    "citation":"CubeCats2026",
+    "updated":"2026-07-13T21:58:04.533816Z",
+    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-maybe-nrcsd30-2026-07-02\/14957\/20",
     "is_frequency_violator":false,
     "associated_satellites":[
 
