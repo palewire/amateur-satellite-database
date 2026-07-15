@@ -8706,14 +8706,14 @@
     "decayed":null,
     "launched":"2018-12-03T00:00:00Z",
     "deployed":null,
-    "website":"https:\/\/suomi100satelliitti.fi\/eng",
+    "website":"https:\/\/suomi100satelliitti.fi\/index_eng.html",
     "operator":"None",
     "countries":"FI",
     "telemetries":[
 
     ],
-    "updated":"2022-04-25T16:31:48.067517Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-07-14T20:56:02.099515Z",
+    "citation":"Website URL updated.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65676,8 +65676,8 @@
         "decoder":"marina"
       }
     ],
-    "updated":"2026-07-08T08:40:49.009585Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-14T20:09:45.310446Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/marina\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66710,6 +66710,30 @@
     ],
     "updated":"2026-07-13T21:58:04.533816Z",
     "citation":"https:\/\/community.libre.space\/t\/iss-deployment-maybe-nrcsd30-2026-07-02\/14957\/20",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"JZZW-8859-6205-4754-8040",
+    "norad_cat_id":98255.0,
+    "norad_follow_id":null,
+    "name":"Unknown 3 T17",
+    "names":"",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-14T19:53:55.886792Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/197",
     "is_frequency_violator":false,
     "associated_satellites":[
 

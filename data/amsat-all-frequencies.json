@@ -17229,7 +17229,7 @@
     "name":"Navigator",
     "norad_id":null,
     "uplink":null,
-    "downlink":"2250.000",
+    "downlink":"401.250\/2250.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
