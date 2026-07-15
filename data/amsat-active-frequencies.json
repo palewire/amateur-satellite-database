@@ -2550,6 +2550,16 @@
     "satnogs_id":"PMAW-9203-2442-8666-3249"
   },
   {
+    "name":"RAFS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700*\/401.850\/401.950\/2267.000\/2285.500",
+    "beacon":null,
+    "mode":"4k8_FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"REAL",
     "norad_id":"64875",
     "uplink":null,
