@@ -15247,7 +15247,7 @@
     "name":"CUTE",
     "names":"",
     "image":"satellites\/cute.png",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":null,
     "deployed":null,
@@ -15259,8 +15259,8 @@
         "decoder":"cute"
       }
     ],
-    "updated":"2022-08-08T19:27:46.958608Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-49263\/2021-09-29T16%3A38%3A13_4792784_49263_21088D_0-OBJECT-D_0.08907179851854607_B_r29.0_f0.0.png",
+    "updated":"2026-07-17T06:32:24.015381Z",
+    "citation":"Network Observations",
     "is_frequency_violator":false,
     "associated_satellites":[
       "KYZL-4081-0667-9237-3055",
