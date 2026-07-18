@@ -3525,9 +3525,9 @@
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
-    "mode":"4k8\/9k6_FSK",
+    "mode":"4k8*\/9k6_FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -16019,7 +16019,7 @@
     "name":"MARMOTSat",
     "norad_id":null,
     "uplink":null,
-    "downlink":"145.875\/436.125",
+    "downlink":"145.875\/436.125*",
     "beacon":"145.875",
     "mode":"1k2_AFSK 10k17_2FSK DVB-S2 CW",
     "callsign":null,
@@ -22322,9 +22322,9 @@
     "name":"SCION-X",
     "norad_id":null,
     "uplink":null,
-    "downlink":"145.825\/437.500",
+    "downlink":"145.825\/437.500*",
     "beacon":null,
-    "mode":"1k2_AFSK 9k6_GFSK",
+    "mode":"1k2_AFSK 9k6*GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
