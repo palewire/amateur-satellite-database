@@ -66746,9 +66746,9 @@
     "name":"SOLARAS",
     "names":"",
     "image":"satellites\/Solaras_1.jpeg",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
-    "launched":"2026-07-18T11:00:00Z",
+    "launched":"2026-07-18T06:35:00Z",
     "deployed":null,
     "website":"https:\/\/www.grahaa.space\/",
     "operator":"None",
@@ -66756,8 +66756,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-16T08:52:35.841238Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-07-18T12:40:56.966841Z",
+    "citation":"https:\/\/community.libre.space\/t\/vikram-1-launch-sat-deployment-successful\/15056\/11",
     "is_frequency_violator":false,
     "associated_satellites":[
 
