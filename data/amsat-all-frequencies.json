@@ -6523,6 +6523,17 @@
     "satnogs_id":null
   },
   {
+    "name":"DCUBED",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.225",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"DCUBED-1",
     "norad_id":null,
     "uplink":null,
@@ -22352,6 +22363,17 @@
     "satnogs_id":"ARJF-4282-1922-6487-5841"
   },
   {
+    "name":"SCOPE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2250.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Scorpion",
     "norad_id":"67293",
     "uplink":null,
@@ -23958,7 +23980,7 @@
     "satnogs_id":null
   },
   {
-    "name":"Solaras-S2",
+    "name":"SOLARAS-S2",
     "norad_id":null,
     "uplink":"436.450",
     "downlink":"145.925\/437.450",
@@ -23966,6 +23988,17 @@
     "mode":"9k6 FSK",
     "callsign":null,
     "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"SOLARAS-S3",
+    "norad_id":null,
+    "uplink":"436.450",
+    "downlink":"145.925\/437.450",
+    "beacon":null,
+    "mode":"9k6 FSK",
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
