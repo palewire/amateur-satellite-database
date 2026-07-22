@@ -62090,7 +62090,7 @@
   {
     "sat_id":"PCVZ-1444-3446-1456-5852",
     "norad_cat_id":98395.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69935.0,
     "name":"KOSTKA",
     "names":"OK0KST",
     "image":"satellites\/2026_-_YSpace_-_Kostka_JR-501.jpg",
@@ -62106,8 +62106,8 @@
         "decoder":"kostka"
       }
     ],
-    "updated":"2026-07-07T11:22:18.674283Z",
-    "citation":"Add the url to the KOSTKA dashboard",
+    "updated":"2026-07-21T21:00:41.801864Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/222",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65660,7 +65660,7 @@
   {
     "sat_id":"FZQD-0263-2257-6241-5637",
     "norad_cat_id":98293.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69920.0,
     "name":"Marina",
     "names":"OM9MAR",
     "image":"satellites\/marina.jpeg",
@@ -65676,8 +65676,8 @@
         "decoder":"marina"
       }
     ],
-    "updated":"2026-07-14T20:09:45.310446Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/marina\/",
+    "updated":"2026-07-21T21:00:41.838313Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/221",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65974,7 +65974,7 @@
   {
     "sat_id":"YZNT-7399-1272-5956-2962",
     "norad_cat_id":98273.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69916.0,
     "name":"KOYO",
     "names":"",
     "image":"satellites\/Side_stright_1_Solar_panel_dark.png",
@@ -65988,8 +65988,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:47:16.230890Z",
-    "citation":"IARU amateur satellite frequency coordination is currently under application.",
+    "updated":"2026-07-21T21:00:41.876816Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/220",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66670,7 +66670,7 @@
   {
     "sat_id":"ZZIZ-0997-0892-7670-0983",
     "norad_cat_id":98257.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69907.0,
     "name":"Unknown 2 T17",
     "names":"",
     "image":"",
@@ -66684,8 +66684,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T22:30:00.118717Z",
-    "citation":"Network observations",
+    "updated":"2026-07-21T21:00:41.762208Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/224",
     "is_frequency_violator":true,
     "associated_satellites":[
 
