@@ -588,7 +588,7 @@ HIHZ-2146-5294-1802-1615,43728.0,,3CAT-1,³Cat-1,,re-entered,2023-04-04T00:00:00
 MKYL-1174-0802-7826-9086,99913.0,43761.0,K2SAT,2018-099D,satellites/k2sat__1.jpg,alive,,,,http://ascl.kaist.ac.kr,None,KR,[],2024-12-13T08:48:25.004533Z,Satellite Team,False,[]
 FNPJ-5961-0820-4470-5491,99914.0,43775.0,ExseedSat 1,VO-96,,alive,,2018-12-03T00:00:00Z,,,None,IN,[],2022-08-01T15:59:34.016529Z,CITATION NEEDED - https://xkcd.com/285/,False,['WCZP-3098-6956-3307-3655']
 XYDQ-2300-0346-5951-6904,99915.0,43789.0,IRVINE-02,,,re-entered,2026-02-16T00:00:00Z,2018-12-03T00:00:00Z,,https://www.irvinecubesat.org/,None,US,[{'decoder': 'irvine'}],2026-02-18T07:26:23.188976Z,https://celestrak.org/satcat/table-satcat.php?CATNR=43789,False,[]
-MJQT-5503-8337-5235-2815,99921.0,43761.0,KNACKSAT,HS0K,,alive,,2018-12-03T00:00:00Z,,http://www.knacksat.space/,None,TH,[],2022-08-01T16:15:48.938780Z,CITATION NEEDED - https://xkcd.com/285/,False,[]
+MJQT-5503-8337-5235-2815,99921.0,43761.0,KNACKSAT,HS0K,,re-entered,,2018-12-03T00:00:00Z,,http://www.knacksat.space/,None,TH,[],2026-07-22T10:37:59.849698Z,KNACKSAT TEAM,False,[]
 RDSI-0759-2678-4735-0067,99926.0,43771.0,SeeMe,,,alive,,,,,None,,[],2025-08-01T05:17:57.578942Z,43761 alredy k2sat,False,[]
 MADO-9521-7061-1658-0034,99930.0,43822.0,VisionCube,,,alive,,2018-12-03T00:00:00Z,,http://control.kau.ac.kr/visioncube/visioncube-2/,None,KR,[],2024-05-29T03:11:47.692267Z,https://www.nanosats.eu/sat/visioncube,False,[]
 JXJF-3985-6519-9178-6311,99939.0,43134.0,KAUSAT-5,Korea Aviation University Satellite,satellites/KAUSAT-5.jpg,re-entered,2023-11-25T00:00:00Z,2018-01-12T00:00:00Z,,https://www.kari.re.kr/eng/sub03_03.do,None,KR,[],2024-01-20T23:01:18.770087Z,space-track.org,False,[]

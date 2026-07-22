@@ -14342,7 +14342,7 @@
     "name":"KNACKSAT",
     "names":"HS0K",
     "image":"",
-    "status":"alive",
+    "status":"re-entered",
     "decayed":null,
     "launched":"2018-12-03T00:00:00Z",
     "deployed":null,
@@ -14352,8 +14352,8 @@
     "telemetries":[
 
     ],
-    "updated":"2022-08-01T16:15:48.938780Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-07-22T10:37:59.849698Z",
+    "citation":"KNACKSAT TEAM",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -1901,7 +1901,7 @@
   },
   {
     "name":"KOSTKA",
-    "norad_id":null,
+    "norad_id":"69935",
     "uplink":"436.870",
     "downlink":"436.870",
     "beacon":"436.870",
@@ -1911,7 +1911,7 @@
   },
   {
     "name":"KOYO",
-    "norad_id":null,
+    "norad_id":"69916",
     "uplink":null,
     "downlink":"145.825\/435.400*",
     "beacon":null,
@@ -2101,7 +2101,7 @@
   },
   {
     "name":"Marina",
-    "norad_id":null,
+    "norad_id":"69920",
     "uplink":"436.680",
     "downlink":"145.925*\/436.680",
     "beacon":"436.680",
