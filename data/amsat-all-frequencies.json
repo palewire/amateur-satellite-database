@@ -16032,7 +16032,7 @@
     "uplink":null,
     "downlink":"145.875\/436.125*",
     "beacon":"145.875",
-    "mode":"1k2_AFSK 10k17_2FSK DVB-S2 CW",
+    "mode":"1k2_AFSK 10k17_2FSK* DVB-S2 CW",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -18274,7 +18274,7 @@
     "name":"Oasis-Alpha",
     "norad_id":null,
     "uplink":null,
-    "downlink":"400.575",
+    "downlink":"400.850",
     "beacon":null,
     "mode":null,
     "callsign":null,
