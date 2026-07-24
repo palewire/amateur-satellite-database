@@ -1691,7 +1691,7 @@
   },
   {
     "name":"IPoS-TDsM",
-    "norad_id":null,
+    "norad_id":"69877",
     "uplink":null,
     "downlink":"401.500\/2222.000",
     "beacon":null,

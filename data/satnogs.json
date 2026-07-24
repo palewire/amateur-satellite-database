@@ -66166,7 +66166,7 @@
   {
     "sat_id":"QYDP-8943-6593-0386-9661",
     "norad_cat_id":98287.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69877.0,
     "name":"IPoS-TDsM",
     "names":"WQ2XKO",
     "image":"satellites\/apolink.jpg",
@@ -66180,8 +66180,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-07T09:35:51.788908Z",
-    "citation":"https:\/\/network.satnogs.org\/observations\/14456133\/",
+    "updated":"2026-07-24T08:28:30.625712Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/226",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BSGD-3747-2908-3877-8053"
@@ -66574,7 +66574,7 @@
   {
     "sat_id":"TEAW-1621-8543-0676-6317",
     "norad_cat_id":98261.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69874.0,
     "name":"SENTINEL-1",
     "names":"OSIRIS-A",
     "image":"satellites\/signal-2026-07-08-21-14-55-864_002.jpg",
@@ -66588,8 +66588,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-09T06:22:40.804185Z",
-    "citation":"SENTINEL-1 flight unit",
+    "updated":"2026-07-24T08:31:08.337252Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/230",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66758,6 +66758,30 @@
     ],
     "updated":"2026-07-18T12:40:56.966841Z",
     "citation":"https:\/\/community.libre.space\/t\/vikram-1-launch-sat-deployment-successful\/15056\/11",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"PUPA-8470-0736-1880-5657",
+    "norad_cat_id":98253.0,
+    "norad_follow_id":69502.0,
+    "name":"STARS-X",
+    "names":"2026-132A",
+    "image":"",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-06-12T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"JP",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-24T08:35:08.256432Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1BW-6TfnObky7pFo5zJ7pGzfXbP1JyOlJ0nNHPFclGMg\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
