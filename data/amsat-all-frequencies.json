@@ -14817,6 +14817,17 @@
     "satnogs_id":null
   },
   {
+    "name":"LA3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"LabSat",
     "norad_id":"51086",
     "uplink":null,
@@ -18668,9 +18679,9 @@
   },
   {
     "name":"OSIRIS-A",
-    "norad_id":null,
+    "norad_id":"69874",
     "uplink":null,
-    "downlink":"401.025\/402.000\/2254.100",
+    "downlink":"401.025\/402.000*\/2254.100",
     "beacon":null,
     "mode":"50k_GMSK",
     "callsign":null,
@@ -22606,9 +22617,9 @@
   },
   {
     "name":"SENTINEL-1",
-    "norad_id":null,
+    "norad_id":"69874",
     "uplink":null,
-    "downlink":"401.025\/402.000\/436.500\/2254.100",
+    "downlink":"401.025\/402.000*\/436.500\/2254.100",
     "beacon":null,
     "mode":"50k_GMSK",
     "callsign":null,
