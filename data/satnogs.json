@@ -66214,7 +66214,7 @@
   {
     "sat_id":"XLDB-7538-3591-1202-4298",
     "norad_cat_id":98285.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69899.0,
     "name":"FOSSASAT-2E26",
     "names":"",
     "image":"",
@@ -66228,8 +66228,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:06.972790Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-25T08:48:39.354693Z",
+    "citation":"K4KDR",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66550,7 +66550,7 @@
   {
     "sat_id":"YRUO-7213-5748-2959-8337",
     "norad_cat_id":98268.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69923.0,
     "name":"RAFS",
     "names":"",
     "image":"",
@@ -66564,8 +66564,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:40:30.412241Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-25T08:40:29.830884Z",
+    "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
 
