@@ -66118,7 +66118,7 @@
   {
     "sat_id":"LCYV-6577-0051-3956-3172",
     "norad_cat_id":98265.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69911.0,
     "name":"SUCHAI-4",
     "names":"",
     "image":"satellites\/Suchai-4.11-1.webp",
@@ -66132,8 +66132,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:40:20.893607Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-26T08:51:08.288432Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/245?u=eu1sat",
     "is_frequency_violator":true,
     "associated_satellites":[
 

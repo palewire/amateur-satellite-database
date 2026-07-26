@@ -2561,7 +2561,7 @@
   },
   {
     "name":"RAFS",
-    "norad_id":null,
+    "norad_id":"69923",
     "uplink":null,
     "downlink":"401.700*\/401.850\/401.950\/2267.000\/2285.500",
     "beacon":null,
@@ -3341,7 +3341,7 @@
   },
   {
     "name":"SUCHAI-4",
-    "norad_id":null,
+    "norad_id":"69911",
     "uplink":null,
     "downlink":"437.250",
     "beacon":null,
