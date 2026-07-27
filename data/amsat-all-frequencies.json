@@ -10175,10 +10175,10 @@
     "satnogs_id":"EEEK-5201-8668-7459-3807"
   },
   {
-    "name":"GRUS3A~3G",
+    "name":"GRUS-3A~3G",
     "norad_id":null,
     "uplink":null,
-    "downlink":"467.720\/22782.500",
+    "downlink":"467.720\/2278.250",
     "beacon":null,
     "mode":null,
     "callsign":null,

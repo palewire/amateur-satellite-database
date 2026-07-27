@@ -65806,7 +65806,7 @@
   {
     "sat_id":"DJIM-7578-9695-9423-8641",
     "norad_cat_id":98264.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69872.0,
     "name":"TOM-1",
     "names":"",
     "image":"",
@@ -65820,8 +65820,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:40:16.619552Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-27T08:18:57.100450Z",
+    "citation":"CelesTrak",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -65830,7 +65830,7 @@
   {
     "sat_id":"SKCR-7506-5885-9369-1623",
     "norad_cat_id":98263.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69914.0,
     "name":"TOM-2",
     "names":"",
     "image":"",
@@ -65844,8 +65844,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:40:11.884976Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-27T08:19:10.560479Z",
+    "citation":"CelesTrak",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -65854,7 +65854,7 @@
   {
     "sat_id":"HWNI-0814-4699-2907-4799",
     "norad_cat_id":98262.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69906.0,
     "name":"TOM-3",
     "names":"",
     "image":"",
@@ -65868,8 +65868,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:40:07.638989Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-27T08:19:29.806205Z",
+    "citation":"CelesTrak",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66382,7 +66382,7 @@
   {
     "sat_id":"IDCF-6787-0480-8773-9835",
     "norad_cat_id":98278.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69939.0,
     "name":"CloudCT-Precursor",
     "names":"DP2CTP",
     "image":"",
@@ -66396,8 +66396,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:40.274888Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-07-27T08:20:03.242374Z",
+    "citation":"CelesTrak",
     "is_frequency_violator":true,
     "associated_satellites":[
 
