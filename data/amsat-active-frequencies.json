@@ -3216,7 +3216,17 @@
     "downlink":"436.788\/2405.000",
     "beacon":null,
     "mode":"9k6 GMSK",
-    "callsign":"DS0DH",
+    "callsign":"DS0DH0",
+    "satnogs_id":null
+  },
+  {
+    "name":"SNUGLITE-III-HANA",
+    "norad_id":"66662",
+    "uplink":null,
+    "downlink":"436.460\/2405.000",
+    "beacon":null,
+    "mode":"9k6 GMSK",
+    "callsign":"DS0DH0",
     "satnogs_id":null
   },
   {

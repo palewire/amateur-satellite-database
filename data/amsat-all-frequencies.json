@@ -23876,7 +23876,7 @@
     "downlink":"436.788\/2405.000",
     "beacon":null,
     "mode":"9k6 GMSK",
-    "callsign":"DS0DH",
+    "callsign":"DS0DH0",
     "status":"active",
     "satnogs_id":null
   },
@@ -23887,8 +23887,8 @@
     "downlink":"436.460\/2405.000",
     "beacon":null,
     "mode":"9k6 GMSK",
-    "callsign":"DS0DH",
-    "status":"inactive",
+    "callsign":"DS0DH0",
+    "status":"active",
     "satnogs_id":null
   },
   {
