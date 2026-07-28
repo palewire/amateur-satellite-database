@@ -66166,7 +66166,7 @@
   {
     "sat_id":"QYDP-8943-6593-0386-9661",
     "norad_cat_id":98287.0,
-    "norad_follow_id":69916.0,
+    "norad_follow_id":69913.0,
     "name":"IPoS-TDsM",
     "names":"WQ2XKO",
     "image":"satellites\/apolink.jpg",
@@ -66180,8 +66180,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-24T21:43:47.756151Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/240",
+    "updated":"2026-07-28T00:16:48.113170Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/247",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BSGD-3747-2908-3877-8053"
