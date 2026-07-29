@@ -10274,6 +10274,17 @@
     "satnogs_id":null
   },
   {
+    "name":"HADES-E2",
+    "norad_id":null,
+    "uplink":"145.925",
+    "downlink":"436.888",
+    "beacon":"436.888",
+    "mode":"200-2k4 USB FM CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"HADES-F",
     "norad_id":null,
     "uplink":"145.925",
@@ -28040,6 +28051,17 @@
   },
   {
     "name":"UNNE-1",
+    "norad_id":null,
+    "uplink":"145.925",
+    "downlink":"436.888",
+    "beacon":"436.888",
+    "mode":"200-2k4 USB FM CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"UNNE-1B",
     "norad_id":null,
     "uplink":"145.925",
     "downlink":"436.888",
