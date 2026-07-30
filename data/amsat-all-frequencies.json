@@ -4962,7 +4962,7 @@
   },
   {
     "name":"CloudCT-Precursor",
-    "norad_id":null,
+    "norad_id":"69939",
     "uplink":null,
     "downlink":"435.600*\/437.800",
     "beacon":null,
@@ -13058,7 +13058,7 @@
   },
   {
     "name":"IPoS-TDsM",
-    "norad_id":"69877",
+    "norad_id":"69913",
     "uplink":null,
     "downlink":"401.500\/2222.000",
     "beacon":null,
@@ -17264,7 +17264,7 @@
     "uplink":null,
     "downlink":"2250.000",
     "beacon":null,
-    "mode":null,
+    "mode":"150k",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -26896,7 +26896,7 @@
   },
   {
     "name":"TOM-1",
-    "norad_id":null,
+    "norad_id":"69872",
     "uplink":null,
     "downlink":"435.600*\/437.800\/2275.500",
     "beacon":null,
@@ -26907,7 +26907,7 @@
   },
   {
     "name":"TOM-2",
-    "norad_id":null,
+    "norad_id":"69914",
     "uplink":null,
     "downlink":"435.600*\/437.800\/2275.500",
     "beacon":null,
@@ -26918,7 +26918,7 @@
   },
   {
     "name":"TOM-3",
-    "norad_id":null,
+    "norad_id":"69906",
     "uplink":null,
     "downlink":"435.600*\/437.800\/2275.500",
     "beacon":null,
