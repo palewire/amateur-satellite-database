@@ -66574,7 +66574,7 @@
   {
     "sat_id":"TEAW-1621-8543-0676-6317",
     "norad_cat_id":98261.0,
-    "norad_follow_id":69874.0,
+    "norad_follow_id":69897.0,
     "name":"SENTINEL-1",
     "names":"OSIRIS-A",
     "image":"satellites\/signal-2026-07-08-21-14-55-864_002.jpg",
@@ -66588,8 +66588,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-24T08:31:08.337252Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/230",
+    "updated":"2026-07-30T14:24:29.970389Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/257",
     "is_frequency_violator":false,
     "associated_satellites":[
 
