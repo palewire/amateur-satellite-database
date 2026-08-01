@@ -11144,7 +11144,7 @@
   },
   {
     "name":"HUCSat",
-    "norad_id":null,
+    "norad_id":"69794",
     "uplink":null,
     "downlink":"437.400\/2438.500",
     "beacon":null,
