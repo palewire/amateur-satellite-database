@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -66782,6 +66782,30 @@
     ],
     "updated":"2026-07-24T08:35:08.256432Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1BW-6TfnObky7pFo5zJ7pGzfXbP1JyOlJ0nNHPFclGMg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"KKAK-7393-3054-1717-4347",
+    "norad_cat_id":98252.0,
+    "norad_follow_id":null,
+    "name":"LILACSAT-3",
+    "names":"Zidingxiang 3, Kaiyun 2",
+    "image":"satellites\/lilacsat-3.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":"2026-07-22T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-07-31T17:21:44.991346Z",
+    "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
 
