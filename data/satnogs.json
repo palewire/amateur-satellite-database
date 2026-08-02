@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -66588,8 +66588,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-30T14:24:29.970389Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/257",
+    "updated":"2026-08-01T16:57:48.884245Z",
+    "citation":"Satellite team",
     "is_frequency_violator":false,
     "associated_satellites":[
 

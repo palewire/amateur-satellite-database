@@ -776,7 +776,7 @@
     "downlink":"436.250",
     "beacon":null,
     "mode":"4k8 mobitex",
-    "callsign":null,
+    "callsign":"RS18S",
     "status":"re-entered",
     "satnogs_id":"WPER-8728-6476-4000-7514"
   },
@@ -798,7 +798,7 @@
     "downlink":"436.250",
     "beacon":null,
     "mode":"4k8 mobitex",
-    "callsign":null,
+    "callsign":"RS18S",
     "status":"re-entered",
     "satnogs_id":"WPER-8728-6476-4000-7514"
   },
@@ -10874,7 +10874,7 @@
     "downlink":"435.300",
     "beacon":null,
     "mode":"9k6 FSK",
-    "callsign":null,
+    "callsign":"RS55S",
     "status":"unknown",
     "satnogs_id":"EDLR-2585-4091-5222-0195"
   },
@@ -10885,7 +10885,7 @@
     "downlink":"435.500",
     "beacon":null,
     "mode":"9k6 FSK",
-    "callsign":null,
+    "callsign":"RS56S",
     "status":"unknown",
     "satnogs_id":"QRAQ-3104-7805-7099-5968"
   },
@@ -14051,7 +14051,7 @@
     "norad_id":"57188",
     "uplink":null,
     "downlink":"435.300",
-    "beacon":null,
+    "beacon":"RS55S",
     "mode":"9k6 FSK",
     "callsign":null,
     "status":"unknown",
@@ -14062,7 +14062,7 @@
     "norad_id":"57196",
     "uplink":null,
     "downlink":"435.500",
-    "beacon":null,
+    "beacon":"RS56S",
     "mode":"9k6 FSK",
     "callsign":null,
     "status":"unknown",
@@ -16759,7 +16759,7 @@
     "downlink":null,
     "beacon":null,
     "mode":null,
-    "callsign":null,
+    "callsign":"RS96S",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -29322,7 +29322,7 @@
     "beacon":null,
     "mode":"9k6 FSK",
     "callsign":null,
-    "status":"inactive",
+    "status":"re-entered",
     "satnogs_id":"NOPA-4112-5533-4054-3584"
   },
   {
@@ -29332,8 +29332,8 @@
     "downlink":"435.550",
     "beacon":null,
     "mode":"9k6 FSK",
-    "callsign":null,
-    "status":"inactive",
+    "callsign":"RS22S",
+    "status":"re-entered",
     "satnogs_id":"IWFP-4808-8766-5041-0735"
   },
   {
@@ -29343,7 +29343,7 @@
     "downlink":"435.450",
     "beacon":null,
     "mode":"9k6 FSK",
-    "callsign":null,
+    "callsign":"RS16S",
     "status":"re-entered",
     "satnogs_id":"BCCC-4892-7994-6676-5561"
   },
