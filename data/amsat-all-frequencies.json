@@ -5467,6 +5467,17 @@
     "satnogs_id":null
   },
   {
+    "name":"CO-128",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.875\/436.125*",
+    "beacon":"145.875",
+    "mode":"1k2_AFSK 10k17_2FSK* DVB-S2 CW",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"CPOD-FLT1",
     "norad_id":"52772",
     "uplink":null,
