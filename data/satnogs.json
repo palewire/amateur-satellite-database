@@ -57918,8 +57918,8 @@
     "name":"GXIBA-1",
     "names":"",
     "image":"satellites\/250912_GXIBA.jpg",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-08-01T00:00:00Z",
     "launched":"2025-10-26T00:00:00Z",
     "deployed":"2026-02-03T00:00:00Z",
     "website":"https:\/\/upaep.mx\/gxiba",
@@ -57928,8 +57928,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-19T08:44:28.797191Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67684\/2026-02-14T11%3A34%3A18_13398298_67684_98067YA_0-OBJECT-B_0.020167257777778502_B_r29.0_f0.0.png",
+    "updated":"2026-08-03T09:04:50.358047Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=67684",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -65566,7 +65566,7 @@
     "norad_cat_id":98272.0,
     "norad_follow_id":null,
     "name":"MARMOTSat",
-    "names":"VA7UVS",
+    "names":"VA7UVS, CO-128",
     "image":"satellites\/flying-marmot-47.webp",
     "status":"alive",
     "decayed":null,
@@ -65578,8 +65578,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:40:44.580575Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-03T09:00:08.463904Z",
+    "citation":"https:\/\/www.amsat.org\/ans-214-amsat-news-service-weekly-bulletins\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

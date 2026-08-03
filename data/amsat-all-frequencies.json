@@ -22639,7 +22639,7 @@
   },
   {
     "name":"SENTINEL-1",
-    "norad_id":"69874",
+    "norad_id":"69897",
     "uplink":null,
     "downlink":"401.025\/402.000*\/436.500\/2254.100",
     "beacon":null,
