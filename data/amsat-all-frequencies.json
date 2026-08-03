@@ -5470,11 +5470,11 @@
     "name":"CO-128",
     "norad_id":null,
     "uplink":null,
-    "downlink":"145.875\/436.125*",
-    "beacon":"145.875",
-    "mode":"1k2_AFSK 10k17_2FSK* DVB-S2 CW",
-    "callsign":null,
-    "status":"unknown",
+    "downlink":"145.875\/436.125",
+    "beacon":"145.875*",
+    "mode":"1k2_AFSK 10k17_FSK CW*",
+    "callsign":"VA7UVS",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -16063,11 +16063,11 @@
     "name":"MARMOTSat",
     "norad_id":null,
     "uplink":null,
-    "downlink":"145.875\/436.125*",
-    "beacon":"145.875",
-    "mode":"1k2_AFSK 10k17_2FSK* DVB-S2 CW",
-    "callsign":null,
-    "status":"unknown",
+    "downlink":"145.875\/436.125",
+    "beacon":"145.875*",
+    "mode":"1k2_AFSK 10k17_FSK CW*",
+    "callsign":"VA7UVS",
+    "status":"active",
     "satnogs_id":null
   },
   {

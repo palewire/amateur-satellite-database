@@ -720,6 +720,16 @@
     "satnogs_id":"WLHF-1710-4037-0881-2319"
   },
   {
+    "name":"CO-128",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.875\/436.125",
+    "beacon":"145.875*",
+    "mode":"1k2_AFSK 10k17_FSK CW*",
+    "callsign":"VA7UVS",
+    "satnogs_id":null
+  },
+  {
     "name":"CP-16",
     "norad_id":"68458",
     "uplink":null,
@@ -2107,6 +2117,16 @@
     "beacon":"436.680",
     "mode":"9k6*GFSK SSDV CW",
     "callsign":"OM9MAR",
+    "satnogs_id":null
+  },
+  {
+    "name":"MARMOTSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"145.875\/436.125",
+    "beacon":"145.875*",
+    "mode":"1k2_AFSK 10k17_FSK CW*",
+    "callsign":"VA7UVS",
     "satnogs_id":null
   },
   {
