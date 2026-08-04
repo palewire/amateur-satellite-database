@@ -65564,7 +65564,7 @@
   {
     "sat_id":"HPYK-4830-8894-4849-3491",
     "norad_cat_id":98272.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69912.0,
     "name":"MARMOTSat",
     "names":"VA7UVS, CO-128",
     "image":"satellites\/flying-marmot-47.webp",
@@ -65578,8 +65578,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-08-03T09:00:08.463904Z",
-    "citation":"https:\/\/www.amsat.org\/ans-214-amsat-news-service-weekly-bulletins\/",
+    "updated":"2026-08-03T16:29:14.732499Z",
+    "citation":"Network Observations and Ikhnos analysis",
     "is_frequency_violator":false,
     "associated_satellites":[
 

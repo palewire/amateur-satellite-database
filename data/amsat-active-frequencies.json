@@ -721,7 +721,7 @@
   },
   {
     "name":"CO-128",
-    "norad_id":null,
+    "norad_id":"69912",
     "uplink":null,
     "downlink":"145.875\/436.125",
     "beacon":"145.875*",
@@ -2121,7 +2121,7 @@
   },
   {
     "name":"MARMOTSat",
-    "norad_id":null,
+    "norad_id":"69912",
     "uplink":null,
     "downlink":"145.875\/436.125",
     "beacon":"145.875*",
