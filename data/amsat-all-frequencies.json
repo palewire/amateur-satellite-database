@@ -397,7 +397,7 @@
   },
   {
     "name":"AE2a",
-    "norad_id":null,
+    "norad_id":"64591",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -408,7 +408,7 @@
   },
   {
     "name":"AE3Va",
-    "norad_id":null,
+    "norad_id":"64563",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -1783,7 +1783,7 @@
   },
   {
     "name":"ARVAKER-2",
-    "norad_id":null,
+    "norad_id":"64567",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -1794,7 +1794,7 @@
   },
   {
     "name":"ARVAKER-3",
-    "norad_id":null,
+    "norad_id":"64566",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -3763,7 +3763,7 @@
   },
   {
     "name":"Capella-17",
-    "norad_id":null,
+    "norad_id":"64583",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -7140,7 +7140,7 @@
   },
   {
     "name":"DUTHSat-2",
-    "norad_id":"64530",
+    "norad_id":"64547",
     "uplink":null,
     "downlink":"2280.000",
     "beacon":null,
@@ -7448,7 +7448,7 @@
   },
   {
     "name":"ElaraSat-MMS1",
-    "norad_id":null,
+    "norad_id":"64539",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -9846,7 +9846,7 @@
   },
   {
     "name":"GHGSat-C12",
-    "norad_id":null,
+    "norad_id":"64548",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -9857,7 +9857,7 @@
   },
   {
     "name":"GHGSat-C13",
-    "norad_id":null,
+    "norad_id":"64529",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -10175,7 +10175,7 @@
     "satnogs_id":"TZQT-5140-2201-6886-0585"
   },
   {
-    "name":"GRUS-3 ALPHA",
+    "name":"GRUS-3-ALPHA",
     "norad_id":"64579",
     "uplink":null,
     "downlink":"2275.900",
@@ -11111,25 +11111,25 @@
   },
   {
     "name":"Hubble-4",
-    "norad_id":"64566",
+    "norad_id":"64565",
     "uplink":null,
     "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
     "mode":"4k8 GMSK FM",
     "callsign":"HUBBLE4",
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"LDUU-5490-5289-6437-8584"
   },
   {
     "name":"Hubble-5",
-    "norad_id":"64584",
+    "norad_id":"64840",
     "uplink":null,
     "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
     "mode":"4k8 GMSK FM",
     "callsign":"HUBBLE5",
     "status":"inactive",
-    "satnogs_id":"ITLP-5275-8881-5783-3163"
+    "satnogs_id":"TGGE-0655-3824-5329-0738"
   },
   {
     "name":"Hubble-6",
@@ -11144,14 +11144,14 @@
   },
   {
     "name":"Hubble-7",
-    "norad_id":"64590",
+    "norad_id":"64592",
     "uplink":null,
     "downlink":"401.100\/402.790\/2200.500",
     "beacon":null,
     "mode":"4k8 GMSK FM",
     "callsign":"HUBBLE7",
     "status":"inactive",
-    "satnogs_id":null
+    "satnogs_id":"WIGX-0851-6692-4320-5851"
   },
   {
     "name":"HUCSat",
@@ -15147,8 +15147,19 @@
     "satnogs_id":null
   },
   {
+    "name":"LEMUR-2-KARENDARRELL",
+    "norad_id":"64841",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"LEMUR-2-KRISH",
-    "norad_id":null,
+    "norad_id":"64561",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -15863,14 +15874,14 @@
   },
   {
     "name":"Lyra-Block-1-3",
-    "norad_id":null,
+    "norad_id":"64577",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"FARU-2408-4871-2360-6066"
   },
   {
     "name":"M6P",
@@ -16655,14 +16666,14 @@
   },
   {
     "name":"MOBIUS-1",
-    "norad_id":"64543",
+    "norad_id":"64554",
     "uplink":null,
     "downlink":"2222.200",
     "beacon":null,
     "mode":"FM",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":"IBAY-7894-8985-6772-8920"
+    "satnogs_id":null
   },
   {
     "name":"MOCI",
@@ -16996,7 +17007,7 @@
   },
   {
     "name":"MuSat-3",
-    "norad_id":null,
+    "norad_id":"64573",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -20395,7 +20406,7 @@
   },
   {
     "name":"PULSAR-IOV",
-    "norad_id":null,
+    "norad_id":"64541",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -28994,6 +29005,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"KAAJ-8960-3762-9584-4637"
+  },
+  {
+    "name":"W-Series-4",
+    "norad_id":"64543",
+    "uplink":null,
+    "downlink":"2272.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"IBAY-7894-8985-6772-8920"
   },
   {
     "name":"Xatcobeo",
