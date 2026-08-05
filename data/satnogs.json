@@ -18976,10 +18976,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -66805,6 +66805,78 @@
 
     ],
     "updated":"2026-07-31T17:21:44.991346Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ZMWT-7929-7061-0077-9721",
+    "norad_cat_id":98251.0,
+    "norad_follow_id":null,
+    "name":"BLUEBIRD-11",
+    "names":"SPACEMOBILE-11",
+    "image":"satellites\/spacemobile.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-08-05T12:43:12.226722Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ICJB-6341-1416-9581-8262",
+    "norad_cat_id":98250.0,
+    "norad_follow_id":null,
+    "name":"BLUEBIRD-12",
+    "names":"SPACEMOBILE-12",
+    "image":"satellites\/spacemobile_0m7Zhiv.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-08-05T12:43:10.369446Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"ODVC-2356-1211-1399-6610",
+    "norad_cat_id":98249.0,
+    "norad_follow_id":null,
+    "name":"BLUEBIRD-13",
+    "names":"SPACEMOBILE-13",
+    "image":"satellites\/spacemobile_nf0hQBT.jpg",
+    "status":"alive",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-08-05T12:43:11.203243Z",
     "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[

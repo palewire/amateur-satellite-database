@@ -3124,6 +3124,39 @@
     "satnogs_id":"LDPM-8730-8720-5707-6861"
   },
   {
+    "name":"Bluebird-11",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"434.100\/439.500",
+    "beacon":null,
+    "mode":"2k4 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Bluebird-12",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"434.100\/439.500",
+    "beacon":null,
+    "mode":"2k4 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Bluebird-13",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"434.100\/439.500",
+    "beacon":null,
+    "mode":"2k4 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"BlueBon",
     "norad_id":"62688",
     "uplink":null,
