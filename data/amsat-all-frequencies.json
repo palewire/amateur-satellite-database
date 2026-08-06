@@ -837,7 +837,7 @@
   },
   {
     "name":"ANDURIL-216",
-    "norad_id":null,
+    "norad_id":"69879",
     "uplink":null,
     "downlink":"400.250",
     "beacon":null,
@@ -2311,7 +2311,7 @@
   },
   {
     "name":"BALKAN-3",
-    "norad_id":null,
+    "norad_id":"69903",
     "uplink":null,
     "downlink":"Ku Ka-band",
     "beacon":null,
@@ -3554,7 +3554,7 @@
   },
   {
     "name":"BRO-31",
-    "norad_id":null,
+    "norad_id":"69896",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -3895,7 +3895,7 @@
   },
   {
     "name":"CAS500-4",
-    "norad_id":null,
+    "norad_id":"69869",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -4819,7 +4819,7 @@
   },
   {
     "name":"Centauri-9",
-    "norad_id":null,
+    "norad_id":"69924",
     "uplink":null,
     "downlink":"400.220",
     "beacon":null,
@@ -6226,8 +6226,52 @@
     "satnogs_id":"MNRU-6903-8394-5454-9425"
   },
   {
-    "name":"CUBY-1~5",
-    "norad_id":null,
+    "name":"CUBY-1",
+    "norad_id":"69902",
+    "uplink":null,
+    "downlink":"435.600\/437.800",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"CUBY-2",
+    "norad_id":"69881",
+    "uplink":null,
+    "downlink":"435.600\/437.800",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"CUBY-3",
+    "norad_id":"69875",
+    "uplink":null,
+    "downlink":"435.600\/437.800",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"CUBY-4",
+    "norad_id":"69874",
+    "uplink":null,
+    "downlink":"435.600\/437.800",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"CUBY-5",
+    "norad_id":"69907",
     "uplink":null,
     "downlink":"435.600\/437.800",
     "beacon":null,
@@ -6414,7 +6458,7 @@
   },
   {
     "name":"CyberCUBE",
-    "norad_id":null,
+    "norad_id":"69938",
     "uplink":null,
     "downlink":"2206.500\/2285.500",
     "beacon":null,
@@ -9010,7 +9054,7 @@
   },
   {
     "name":"FossaSat-2E26",
-    "norad_id":null,
+    "norad_id":"69899",
     "uplink":null,
     "downlink":"401.700",
     "beacon":null,
@@ -10187,7 +10231,7 @@
   },
   {
     "name":"GRITSS",
-    "norad_id":null,
+    "norad_id":"69931",
     "uplink":null,
     "downlink":"S X-band",
     "beacon":null,
@@ -10219,8 +10263,74 @@
     "satnogs_id":"EEEK-5201-8668-7459-3807"
   },
   {
-    "name":"GRUS-3A~3G",
-    "norad_id":null,
+    "name":"GRUS-3A",
+    "norad_id":"69885",
+    "uplink":null,
+    "downlink":"467.720\/2278.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"GRUS-3B",
+    "norad_id":"69918",
+    "uplink":null,
+    "downlink":"467.720\/2278.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"GRUS-3C",
+    "norad_id":"69891",
+    "uplink":null,
+    "downlink":"467.720\/2278.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"GRUS-3D",
+    "norad_id":"69919",
+    "uplink":null,
+    "downlink":"467.720\/2278.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"GRUS-3E",
+    "norad_id":"69898",
+    "uplink":null,
+    "downlink":"467.720\/2278.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"GRUS-3F",
+    "norad_id":"69894",
+    "uplink":null,
+    "downlink":"467.720\/2278.250",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"GRUS-3G",
+    "norad_id":"69878",
     "uplink":null,
     "downlink":"467.720\/2278.250",
     "beacon":null,
@@ -12332,13 +12442,13 @@
   },
   {
     "name":"ICEYE-X77",
-    "norad_id":null,
+    "norad_id":"69892",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -12354,35 +12464,35 @@
   },
   {
     "name":"ICEYE-X79",
-    "norad_id":null,
+    "norad_id":"69870",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
     "name":"ICEYE-X80",
-    "norad_id":null,
+    "norad_id":"69893",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
     "name":"ICEYE-X81",
-    "norad_id":null,
+    "norad_id":"69889",
     "uplink":null,
     "downlink":null,
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13025,7 +13135,7 @@
   },
   {
     "name":"ION-SCV-023",
-    "norad_id":null,
+    "norad_id":"69876",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
@@ -19229,7 +19339,7 @@
   },
   {
     "name":"Pelican-11",
-    "norad_id":null,
+    "norad_id":"69871",
     "uplink":null,
     "downlink":null,
     "beacon":null,
@@ -21198,7 +21308,7 @@
   },
   {
     "name":"Replicator-2",
-    "norad_id":null,
+    "norad_id":"69927",
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
@@ -24062,7 +24172,7 @@
     "uplink":"436.450",
     "downlink":"145.925\/437.450",
     "beacon":null,
-    "mode":"9k6 FSK",
+    "mode":"9k6 FSK FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -24073,7 +24183,7 @@
     "uplink":"436.450",
     "downlink":"145.925\/437.450",
     "beacon":null,
-    "mode":"9k6 FSK",
+    "mode":"9k6 FSK FM",
     "callsign":null,
     "status":"failure",
     "satnogs_id":null

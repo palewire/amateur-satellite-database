@@ -361,7 +361,7 @@
   },
   {
     "name":"BRO-31",
-    "norad_id":null,
+    "norad_id":"69896",
     "uplink":null,
     "downlink":"401.735",
     "beacon":null,
@@ -1671,7 +1671,7 @@
   },
   {
     "name":"ION-SCV-023",
-    "norad_id":null,
+    "norad_id":"69876",
     "uplink":null,
     "downlink":"401.415",
     "beacon":null,
@@ -2601,7 +2601,7 @@
   },
   {
     "name":"Replicator-2",
-    "norad_id":null,
+    "norad_id":"69927",
     "uplink":null,
     "downlink":"400.500",
     "beacon":null,
