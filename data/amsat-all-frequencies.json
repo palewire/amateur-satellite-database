@@ -3125,7 +3125,7 @@
   },
   {
     "name":"Bluebird-11",
-    "norad_id":null,
+    "norad_id":"A0241",
     "uplink":null,
     "downlink":"434.100\/439.500",
     "beacon":null,
@@ -3136,7 +3136,7 @@
   },
   {
     "name":"Bluebird-12",
-    "norad_id":null,
+    "norad_id":"A0242",
     "uplink":null,
     "downlink":"434.100\/439.500",
     "beacon":null,
@@ -3147,7 +3147,7 @@
   },
   {
     "name":"Bluebird-13",
-    "norad_id":null,
+    "norad_id":"A0243",
     "uplink":null,
     "downlink":"434.100\/439.500",
     "beacon":null,
@@ -24179,7 +24179,7 @@
   },
   {
     "name":"SOLARAS",
-    "norad_id":null,
+    "norad_id":"A0081",
     "uplink":"436.450",
     "downlink":"145.925\/437.450",
     "beacon":null,
