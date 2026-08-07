@@ -1785,9 +1785,9 @@
     "name":"ARVAKER-2",
     "norad_id":"64567",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2228.500",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -1796,9 +1796,9 @@
     "name":"ARVAKER-3",
     "norad_id":"64566",
     "uplink":null,
-    "downlink":null,
+    "downlink":"2228.500",
     "beacon":null,
-    "mode":null,
+    "mode":"FM",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -12868,6 +12868,17 @@
     "callsign":"JQ1ZKK",
     "status":"re-entered",
     "satnogs_id":null
+  },
+  {
+    "name":"IOD2-Startical",
+    "norad_id":"64538",
+    "uplink":null,
+    "downlink":"2272.500",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"TOTH-8884-9961-6728-7092"
   },
   {
     "name":"ION",
