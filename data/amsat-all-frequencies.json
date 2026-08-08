@@ -3127,11 +3127,11 @@
     "name":"Bluebird-11",
     "norad_id":"A0241",
     "uplink":null,
-    "downlink":"434.100\/439.500",
+    "downlink":"434.100*\/439.500",
     "beacon":null,
     "mode":"2k4 FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

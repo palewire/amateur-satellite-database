@@ -270,6 +270,16 @@
     "satnogs_id":"IGGV-1318-5974-9239-7350"
   },
   {
+    "name":"Bluebird-11",
+    "norad_id":"A0241",
+    "uplink":null,
+    "downlink":"434.100*\/439.500",
+    "beacon":null,
+    "mode":"2k4 FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"BOTSAT-1",
     "norad_id":"63216",
     "uplink":null,
