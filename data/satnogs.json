@@ -1156,8 +1156,8 @@
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2025-07-22T08:58:05.813759Z",
-    "citation":"moved deploy date to re-entry date;  see McDowell GCAT, satcat table entry for S30776",
+    "updated":"2026-08-09T19:38:19.317158Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/fCDJfIWHz\/falconsat-3?orgId=1&from=2017-09-28T13:36:31.000Z&to=2023-01-21T04:10:41.000Z&timezone=utc&kiosk",
     "is_frequency_violator":false,
     "associated_satellites":[
 
