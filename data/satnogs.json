@@ -8924,8 +8924,8 @@
     "name":"D-Star ONE Sparrow",
     "names":"DP1GOS",
     "image":"",
-    "status":"alive",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-08-17T00:00:00Z",
     "launched":"2018-12-27T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/web.archive.org\/web\/20190807184852\/http:\/\/www.d-star.one\/",
@@ -8934,8 +8934,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:43.862922Z",
-    "citation":"http:\/\/web.archive.org\/web\/20190807184852\/http:\/\/www.d-star.one\/",
+    "updated":"2026-08-17T17:31:06.806791Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43881",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66877,6 +66877,30 @@
 
     ],
     "updated":"2026-08-05T12:43:11.203243Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"FHBV-2936-6768-6010-3809",
+    "norad_cat_id":98248.0,
+    "norad_follow_id":null,
+    "name":"JAMX01",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-08-25T03:30:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-08-17T17:32:39.234860Z",
     "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
