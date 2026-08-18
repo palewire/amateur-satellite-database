@@ -66166,7 +66166,7 @@
   {
     "sat_id":"QYDP-8943-6593-0386-9661",
     "norad_cat_id":98287.0,
-    "norad_follow_id":69936.0,
+    "norad_follow_id":69913.0,
     "name":"IPoS-TDsM",
     "names":"WQ2XKO",
     "image":"satellites\/apolink.jpg",
@@ -66180,8 +66180,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-08-10T21:16:08.956107Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/264",
+    "updated":"2026-08-18T07:43:06.075223Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/285",
     "is_frequency_violator":false,
     "associated_satellites":[
       "BSGD-3747-2908-3877-8053"
@@ -66901,6 +66901,30 @@
 
     ],
     "updated":"2026-08-17T17:32:39.234860Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ]
+  },
+  {
+    "sat_id":"EMBU-7314-7883-5821-1365",
+    "norad_cat_id":98247.0,
+    "norad_follow_id":null,
+    "name":"Harbin MicroSat",
+    "names":"8104\u3001BY-04\u3001BY70-4\u3001\u516b\u4e0004\u661f\u30018104 Harbin MicroSat\u3001\u54c8\u5c14\u6ee8\u53f7",
+    "image":"satellites\/8104Sat_by_BG7ZDQ.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-08-25T11:30:00Z",
+    "deployed":"2026-08-25T11:35:00Z",
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-08-18T09:13:55.436490Z",
     "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
