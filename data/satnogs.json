@@ -66526,7 +66526,7 @@
   {
     "sat_id":"DJQF-3933-8140-4498-1525",
     "norad_cat_id":98269.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69917.0,
     "name":"Oasis Alpha",
     "names":"",
     "image":"",
@@ -66540,8 +66540,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:40:36.101945Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-19T11:39:13.602034Z",
+    "citation":"Random choice",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66911,8 +66911,8 @@
     "sat_id":"EMBU-7314-7883-5821-1365",
     "norad_cat_id":98247.0,
     "norad_follow_id":null,
-    "name":"Harbin MicroSat",
-    "names":"8104\u3001BY-04\u3001BY70-4\u3001\u516b\u4e0004\u661f\u30018104 Harbin MicroSat\u3001\u54c8\u5c14\u6ee8\u53f7",
+    "name":"BY70-4",
+    "names":"8104, BY-04, \u516b\u4e0004\u661f, 8104 Harbin MicroSat, \u54c8\u5c14\u6ee8\u53f7",
     "image":"satellites\/8104Sat_by_BG7ZDQ.png",
     "status":"future",
     "decayed":null,
@@ -66924,8 +66924,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-08-18T09:13:55.436490Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-08-19T07:03:05.692140Z",
+    "citation":"to better fit to the already registered predecessors: https:\/\/db.satnogs.org\/search\/?q=by70",
     "is_frequency_violator":false,
     "associated_satellites":[
 
