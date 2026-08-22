@@ -65808,20 +65808,20 @@
     "norad_cat_id":98264.0,
     "norad_follow_id":69872.0,
     "name":"TOM-1",
-    "names":"",
+    "names":"DP2TOA",
     "image":"",
     "status":"alive",
     "decayed":null,
     "launched":"2026-07-07T07:12:00Z",
     "deployed":"2026-07-07T08:11:59Z",
-    "website":"",
+    "website":"https:\/\/www.telematik-zentrum.de\/projects\/tim-tom\/",
     "operator":"None",
     "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2026-07-27T08:18:57.100450Z",
-    "citation":"CelesTrak",
+    "updated":"2026-08-22T07:27:29.677117Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -65950,7 +65950,7 @@
   {
     "sat_id":"VCDK-6912-2495-5415-3885",
     "norad_cat_id":98267.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69927.0,
     "name":"Replicator-2",
     "names":"Replicator 2",
     "image":"satellites\/Sollar_array.jpg",
@@ -65964,8 +65964,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:40:25.946632Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-22T07:35:16.362576Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66142,7 +66142,7 @@
   {
     "sat_id":"AHJK-2521-3526-2646-5537",
     "norad_cat_id":98277.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69938.0,
     "name":"CyberCUBE",
     "names":"",
     "image":"satellites\/cybercube.png",
@@ -66156,8 +66156,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T17:44:28.112693Z",
-    "citation":"Satellite team",
+    "updated":"2026-08-22T07:35:16.320059Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66190,7 +66190,7 @@
   {
     "sat_id":"VKFC-5087-0436-8864-8055",
     "norad_cat_id":98286.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69896.0,
     "name":"BRO-31",
     "names":"",
     "image":"",
@@ -66204,8 +66204,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:48.701940Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-22T07:35:16.499047Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66238,7 +66238,7 @@
   {
     "sat_id":"WWCV-1913-9789-8574-9814",
     "norad_cat_id":98283.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69881.0,
     "name":"CUBY-2",
     "names":"",
     "image":"",
@@ -66252,8 +66252,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:30.006156Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-22T07:35:16.533620Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66262,7 +66262,7 @@
   {
     "sat_id":"FHJG-9089-0997-9355-3963",
     "norad_cat_id":98282.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69875.0,
     "name":"CUBY-3",
     "names":"",
     "image":"",
@@ -66276,8 +66276,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:25.169243Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-22T07:35:16.650031Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66286,7 +66286,7 @@
   {
     "sat_id":"KSSZ-8157-4899-1955-7335",
     "norad_cat_id":98281.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69874.0,
     "name":"CUBY-4",
     "names":"",
     "image":"",
@@ -66300,8 +66300,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:20.186439Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-22T07:35:16.686313Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66310,7 +66310,7 @@
   {
     "sat_id":"MFKP-5311-8815-3525-1172",
     "norad_cat_id":98280.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69907.0,
     "name":"CUBY-5",
     "names":"",
     "image":"",
@@ -66324,8 +66324,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:14.576389Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-22T07:35:16.458309Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66334,7 +66334,7 @@
   {
     "sat_id":"ARJV-4140-3790-5842-4949",
     "norad_cat_id":98284.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69902.0,
     "name":"CUBY-1",
     "names":"",
     "image":"",
@@ -66348,8 +66348,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:35.141582Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-22T07:37:20.975996Z",
+    "citation":"space-track.org",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -66358,7 +66358,7 @@
   {
     "sat_id":"XKIE-9046-7891-3526-0246",
     "norad_cat_id":98279.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69924.0,
     "name":"Centauri-9",
     "names":"",
     "image":"",
@@ -66372,8 +66372,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:44.246977Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-22T07:35:16.411820Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66406,7 +66406,7 @@
   {
     "sat_id":"QGYT-6411-9788-7098-8379",
     "norad_cat_id":98276.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69876.0,
     "name":"ION SCV Joyful Julia",
     "names":"ION SCV-023",
     "image":"",
@@ -66420,8 +66420,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:02.377792Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-22T07:35:16.610700Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66622,7 +66622,7 @@
   {
     "sat_id":"GKMG-1095-3456-3181-6519",
     "norad_cat_id":98258.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69879.0,
     "name":"ANDURIL-216",
     "names":"LA3",
     "image":"",
@@ -66636,8 +66636,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:41:52.922068Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-08-22T07:35:16.570848Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
