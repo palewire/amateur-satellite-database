@@ -3668,22 +3668,22 @@
     "norad_cat_id":40654.0,
     "norad_follow_id":null,
     "name":"NO-84",
-    "names":"PSATParkinsonSAT",
+    "names":"PSAT, ParkinsonSAT",
     "image":"satellites\/psat__2.jpg",
     "status":"re-entered",
     "decayed":"2021-12-22T14:40:00Z",
-    "launched":null,
+    "launched":"2015-05-20T00:00:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/www.aprs.org\/psat.html",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
       {
         "decoder":"ax25monitor"
       }
     ],
-    "updated":"2022-03-13T07:36:22.377556Z",
-    "citation":"https:\/\/community.libre.space\/t\/no-84-no-really\/9063",
+    "updated":"2026-08-22T18:20:11.174642Z",
+    "citation":"https:\/\/www.aprs.org\/psat.html",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -55302,7 +55302,9 @@
     "operator":"None",
     "countries":"ID",
     "telemetries":[
-
+      {
+        "decoder":"ax25monitor"
+      }
     ],
     "updated":"2025-10-08T10:36:05.452660Z",
     "citation":"https:\/\/community.libre.space\/t\/observations-analysis\/13888\/7",
@@ -62991,7 +62993,7 @@
     "norad_follow_id":null,
     "name":"KENSAT",
     "names":"",
-    "image":"",
+    "image":"satellites\/IMG_1734.JPG",
     "status":"future",
     "decayed":null,
     "launched":null,
@@ -63002,8 +63004,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-05-18T23:22:34.858274Z",
-    "citation":"https:\/\/kensat.com\/",
+    "updated":"2026-08-22T23:52:15.113050Z",
+    "citation":"https:\/\/github.com\/kenchangh\/kensat#radio-link-for-receiving-stations",
     "is_frequency_violator":false,
     "associated_satellites":[
 
