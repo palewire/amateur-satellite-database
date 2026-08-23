@@ -13860,6 +13860,17 @@
     "satnogs_id":"FLRT-9057-4077-2524-9105"
   },
   {
+    "name":"JAMX01",
+    "norad_id":null,
+    "uplink":"145.950",
+    "downlink":"435.075\/435.175\/435.500\/437.443",
+    "beacon":null,
+    "mode":"9k6BPSK SSTV FM",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"JAS-1",
     "norad_id":"16909",
     "uplink":"145.900-146.000",
