@@ -19199,10 +19199,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -66892,7 +66892,7 @@
     "name":"JAMX01",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-08-25T03:30:00Z",
     "deployed":null,
@@ -66902,8 +66902,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-08-17T17:32:39.234860Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-08-24T22:37:28.925781Z",
+    "citation":"Change satellite status",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -66916,7 +66916,7 @@
     "name":"BY70-4",
     "names":"8104, BY-04, \u516b\u4e0004\u661f, 8104 Harbin MicroSat, \u54c8\u5c14\u6ee8\u53f7",
     "image":"satellites\/8104Sat_by_BG7ZDQ.png",
-    "status":"future",
+    "status":"alive",
     "decayed":null,
     "launched":"2026-08-25T11:30:00Z",
     "deployed":"2026-08-25T11:35:00Z",
@@ -66926,9 +66926,9 @@
     "telemetries":[
 
     ],
-    "updated":"2026-08-19T07:03:05.692140Z",
-    "citation":"to better fit to the already registered predecessors: https:\/\/db.satnogs.org\/search\/?q=by70",
-    "is_frequency_violator":false,
+    "updated":"2026-08-24T22:37:28.975533Z",
+    "citation":"Change satellite status",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ]
