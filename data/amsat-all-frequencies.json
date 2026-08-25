@@ -3652,6 +3652,17 @@
     "satnogs_id":"SSPH-6065-9070-7605-2882"
   },
   {
+    "name":"BY70-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.443",
+    "beacon":null,
+    "mode":"9k6 BPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"CADRE",
     "norad_id":"41475",
     "uplink":null,
@@ -13863,11 +13874,11 @@
     "name":"JAMX01",
     "norad_id":null,
     "uplink":"145.950",
-    "downlink":"435.075\/435.175\/435.500\/437.443",
+    "downlink":"435.075\/435.175\/435.500",
     "beacon":null,
-    "mode":"9k6BPSK SSTV FM",
+    "mode":"9k6_BPSK SSTV FM",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
