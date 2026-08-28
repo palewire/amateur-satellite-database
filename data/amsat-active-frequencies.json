@@ -400,6 +400,16 @@
     "satnogs_id":"LEZN-2755-1794-3292-6222"
   },
   {
+    "name":"BY70-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.443",
+    "beacon":null,
+    "mode":"9k6 BPSK SSDV",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"CANVAS",
     "norad_id":"68635",
     "uplink":null,

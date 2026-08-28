@@ -3657,9 +3657,9 @@
     "uplink":null,
     "downlink":"437.443",
     "beacon":null,
-    "mode":"9k6 BPSK",
+    "mode":"9k6 BPSK SSDV",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -22551,7 +22551,7 @@
   },
   {
     "name":"SCION-X",
-    "norad_id":null,
+    "norad_id":"69910",
     "uplink":null,
     "downlink":"145.825\/437.500*",
     "beacon":null,
