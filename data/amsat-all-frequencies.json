@@ -3657,7 +3657,7 @@
     "uplink":null,
     "downlink":"437.443",
     "beacon":null,
-    "mode":"9k6 BPSK SSDV",
+    "mode":"9k6 BPSK SSDV*",
     "callsign":null,
     "status":"active",
     "satnogs_id":null
@@ -13874,11 +13874,11 @@
     "name":"JAMX01",
     "norad_id":null,
     "uplink":"145.950",
-    "downlink":"435.075\/435.175\/435.500",
+    "downlink":"435.075\/435.175*\/435.500",
     "beacon":null,
-    "mode":"9k6_BPSK SSTV FM",
+    "mode":"9k6_BPSK SSTV* FM",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
