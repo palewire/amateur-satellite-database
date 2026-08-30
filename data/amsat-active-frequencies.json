@@ -401,7 +401,7 @@
   },
   {
     "name":"BY70-4",
-    "norad_id":null,
+    "norad_id":"A0471",
     "uplink":null,
     "downlink":"437.443",
     "beacon":null,
@@ -1821,7 +1821,7 @@
   },
   {
     "name":"JAMX01",
-    "norad_id":null,
+    "norad_id":"A0470",
     "uplink":"145.950",
     "downlink":"435.075\/435.175*\/435.500",
     "beacon":null,
