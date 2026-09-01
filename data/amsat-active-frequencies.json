@@ -1823,9 +1823,9 @@
     "name":"JAMX01",
     "norad_id":"A0470",
     "uplink":"145.950",
-    "downlink":"435.075\/435.175*\/435.500",
+    "downlink":"435.075\/435.175\/435.500*",
     "beacon":null,
-    "mode":"9k6_BPSK SSTV* FM",
+    "mode":"9k6_BPSK SSTV SSDV* FM",
     "callsign":null,
     "satnogs_id":null
   },
