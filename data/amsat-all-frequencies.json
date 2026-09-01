@@ -2093,7 +2093,7 @@
     "name":"AstroLine-1",
     "norad_id":"64887",
     "uplink":null,
-    "downlink":null,
+    "downlink":"436.865",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
@@ -2104,7 +2104,7 @@
     "name":"AstroLine-2",
     "norad_id":"64888",
     "uplink":null,
-    "downlink":null,
+    "downlink":"436.725",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
@@ -2115,7 +2115,7 @@
     "name":"AstroLine-3",
     "norad_id":"64886",
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.865",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
@@ -2126,7 +2126,7 @@
     "name":"AstroLine-4",
     "norad_id":"64889",
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.365",
     "beacon":null,
     "mode":"LoRa",
     "callsign":null,
@@ -8640,9 +8640,9 @@
     "uplink":null,
     "downlink":null,
     "beacon":"400.900",
-    "mode":"CW::unknown",
+    "mode":"CW",
     "callsign":null,
-    "status":null,
+    "status":"unknown",
     "satnogs_id":"RPDQ-1197-8043-4841-1250"
   },
   {
@@ -8651,9 +8651,9 @@
     "uplink":null,
     "downlink":null,
     "beacon":"400.900",
-    "mode":"CW::unknown",
+    "mode":"CW",
     "callsign":null,
-    "status":null,
+    "status":"unknown",
     "satnogs_id":"IGQU-0723-5760-5778-6376"
   },
   {
@@ -8662,9 +8662,9 @@
     "uplink":null,
     "downlink":null,
     "beacon":"400.900",
-    "mode":"CW::unknown",
+    "mode":"CW",
     "callsign":null,
-    "status":null,
+    "status":"unknown",
     "satnogs_id":"MLXO-9148-9336-0001-6454"
   },
   {
@@ -8684,9 +8684,9 @@
     "uplink":null,
     "downlink":null,
     "beacon":"400.900",
-    "mode":"CW::unknown",
+    "mode":"CW",
     "callsign":null,
-    "status":null,
+    "status":"unknown",
     "satnogs_id":"BQVP-8383-3071-1992-4107"
   },
   {
@@ -8695,9 +8695,9 @@
     "uplink":null,
     "downlink":null,
     "beacon":"400.900",
-    "mode":"CW::unknown",
+    "mode":"CW",
     "callsign":null,
-    "status":null,
+    "status":"unknown",
     "satnogs_id":"UMBF-6004-4615-9338-8690"
   },
   {
