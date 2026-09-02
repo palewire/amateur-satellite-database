@@ -2842,7 +2842,7 @@
     "norad_id":"47929",
     "uplink":"145.825",
     "downlink":"145.825\/437.375",
-    "beacon":"37.375",
+    "beacon":"437.375",
     "mode":"4k8FSK APRS CW",
     "callsign":"JG6YMY",
     "status":"re-entered",
@@ -22645,7 +22645,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"failure                                    .                 .                 .                                               f",
+    "status":"failure",
     "satnogs_id":null
   },
   {
@@ -26121,7 +26121,7 @@
     "beacon":null,
     "mode":"1k2_AFSK 9k6_GMSK SSTV CW",
     "callsign":null,
-    "status":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -28717,7 +28717,7 @@
     "beacon":null,
     "mode":"38k4 FSK",
     "callsign":null,
-    "status":"unkown",
+    "status":"unknown",
     "satnogs_id":"WIWD-2303-6727-6651-0854"
   },
   {
@@ -28728,7 +28728,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unkown",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -28739,7 +28739,7 @@
     "beacon":null,
     "mode":"9k6 GMSK",
     "callsign":null,
-    "status":"unkown",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -28750,7 +28750,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unkown",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -28761,7 +28761,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unkown",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -28772,7 +28772,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"unkown",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -28783,7 +28783,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unkown",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -28794,7 +28794,7 @@
     "beacon":null,
     "mode":"FM",
     "callsign":null,
-    "status":"unkown",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
