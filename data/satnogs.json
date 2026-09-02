@@ -27294,7 +27294,7 @@
     "image":"satellites\/greencube__1.jpg",
     "status":"in orbit",
     "decayed":null,
-    "launched":null,
+    "launched":"2022-07-13T00:00:00Z",
     "deployed":null,
     "website":"https:\/\/www.s5lab.space\/",
     "operator":"ESA",
@@ -27304,8 +27304,8 @@
         "decoder":"greencube"
       }
     ],
-    "updated":"2025-08-04T07:08:23.206469Z",
-    "citation":"https:\/\/amsat-uk.org\/2024\/09\/15\/greencube-io-117-update\/",
+    "updated":"2026-09-01T21:19:30.882738Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=53106#results",
     "is_frequency_violator":false,
     "associated_satellites":[
       "LZVY-1779-1171-9871-9167"
@@ -83595,6 +83595,36 @@
 
     ],
     "updated":"2026-08-28T11:05:39.457060Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"MNRC-9829-4319-5529-8975",
+    "norad_cat_id":98244.0,
+    "norad_follow_id":null,
+    "name":"SunCET",
+    "names":"Sun Coronal Ejection Tracker",
+    "image":"satellites\/suncet_spacecraft.jpg",
+    "status":"future",
+    "decayed":null,
+    "launched":"2027-03-15T00:00:00Z",
+    "deployed":null,
+    "website":"https:\/\/suncet.jhuapl.edu\/",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-01T21:20:46.622327Z",
     "citation":"Add temporary NORAD ID",
     "is_frequency_violator":false,
     "associated_satellites":[
