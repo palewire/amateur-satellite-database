@@ -588,7 +588,7 @@ CU-Alpha,66908,,437.400,,LoRa,,unknown,
 CXBN,38762,,437.525,,9k6 GFSK,,inactive,
 CXBN-2,42704,,437.075,,9k6 FSK,,re-entered,
 CyberCUBE,69938,,2206.500/2285.500,,,,unknown,
-CyBEEsat,,,137.500,,1k2_GMSK,,to be launched,
+CyBEEsat,,,137.500,,1k2_GMSK,,unknown,
 CYCLOPS,53373,,436.050,,2k4 GMSK_USP,RS29S,re-entered,YYOS-0902-7582-8175-2841
 CYCLOPS-1,,,,,,,unknown,
 CySat-1,61501,,436.375,,9k6 FSK,,inactive,PFNX-8665-0995-8682-5956
@@ -851,7 +851,7 @@ FO-118,54684,145.925,435.600,,VHF/UHF FM,,active,THLP-9709-3501-8618-5195
 FO-118,54684,,,435.570,UHF_CW,BJ1SO,active,THLP-9709-3501-8618-5195
 FO-118,54684,,435.650,,4k8 GMSK image data,CAS5A,active,THLP-9709-3501-8618-5195
 FO-126,68795,,437.505/5840.000,437.505,1k2_AFSK* BPSK QPSK CW*,JS1YRU,active,FDQL-7890-4040-6919-7625
-FRAMSAT-1,,,435.141,,9k6_FSK,,to be launched,
+FRAMSAT-1,,,435.141,,9k6_FSK,,unknown,
 Fram2,63427,,437.550,,FM SSTV,,re-entered,CXJW-8959-9671-2060-9440
 FrontierSat,69015,,436.150,,9k6_GMSK FSK*,,active,GGCH-4346-1583-9419-5634
 FSI-SAT,,,437.175,437.175,1k2AFSK 9k6GMSK SSTV CW,,failure,
@@ -1824,7 +1824,7 @@ Platform-1,52770,,400.360,,2k4/4k8*/9k6 GFSK,SS2141,re-entered,UIXV-7191-6999-40
 Platform-2,55067,,401.360,,4k8 GFSK,,re-entered,ZVIO-0893-8720-4254-3996
 Platform-3,56183,,401.360,,4k8 GMSK,,re-entered,AOWV-3972-1112-6379-5554
 Platform-5,58339,,401.360/2277.500,,4k8 GMSK,PL0005,re-entered,PRZP-7386-5227-9698-5175
-Platform-6,,,401.360,,4k8_GMSK,,to be launched,
+Platform-6,,,401.360,,4k8_GMSK,,unknown,
 Pleiades-Orpheus,,,437.400,,LoRa,,unknown,
 Pocket-PUCP,,,437.200,437.200,1k2 AFSK CW,,inactive,
 POEM-4,62461,145.825,145.870,,1k2AFSK FM APRS SSTV,,re-entered,UCVR-0643-6863-2318-5100
@@ -2225,7 +2225,7 @@ SPACEANT-D,58290,,437.425,,1k2 GFSK,,inactive,
 SpaceCube,42717,145.860,436.880,,1k2 AFSK FM,ON05FR,re-entered,HJRR-9275-8249-4532-6532
 Spacegus,56187,,402.790,,,,unknown,
 SPACEHAUC-1,49277,,437.500,,9k6 FSK,,re-entered,
-SpaceTeamSat1,,,437.395,,1k2_GFSK CW,,to be launched,
+SpaceTeamSat1,,,437.395,,1k2_GFSK CW,,unknown,
 SpaceTuna-1,54537,,,,Blue LED,,unknown,
 Spacevan,58295,,2271.750/2288.500,,FM,,inactive,KRWU-0654-8962-9038-6960
 Spacevan-002,,,2271.750/2288.500,,,,unknown,
@@ -2478,7 +2478,7 @@ TriSat-1,67755,,,,LoRa,,unknown,
 TriSat-2,67298,,,,LoRa,,unknown,
 TriSat-3,67298,,,,LoRa,,unknown,
 TriSat-4,67482,,,,LoRa,,unknown,
-TriSat-S,,,2280.550,,FM,,to be launched,
+TriSat-S,,,2280.550,,FM,,unknown,
 Triton-1,39427,435.xxx,145.818/145.823*,2408.000,1k2 RC-BPSK CW*,TRIV0 TRIV1,inactive,APZD-5343-3708-9744-3445
 Triton,58017,,,400.900,CW,,inactive,WUYF-8239-9189-0421-5797
 TROOP-F3,,,,,,,unknown,
