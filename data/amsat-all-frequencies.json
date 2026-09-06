@@ -9379,7 +9379,7 @@
     "beacon":null,
     "mode":"9k6_FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -20080,8 +20080,8 @@
     "uplink":null,
     "downlink":"401.360",
     "beacon":null,
-    "mode":"4k8_GMSK",
-    "callsign":null,
+    "mode":"9k6_GMSK",
+    "callsign":"ESPLT6",
     "status":"unknown",
     "satnogs_id":null
   },
@@ -24491,7 +24491,7 @@
     "uplink":null,
     "downlink":"437.395",
     "beacon":null,
-    "mode":"1k2_GFSK CW",
+    "mode":"9k6_GFSK CW",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

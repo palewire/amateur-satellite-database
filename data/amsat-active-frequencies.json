@@ -1250,6 +1250,16 @@
     "satnogs_id":"FDQL-7890-4040-6919-7625"
   },
   {
+    "name":"FRAMSAT-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.141",
+    "beacon":null,
+    "mode":"9k6_FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"FrontierSat",
     "norad_id":"69015",
     "uplink":null,
