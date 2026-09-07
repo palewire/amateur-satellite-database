@@ -6486,7 +6486,7 @@
     "beacon":null,
     "mode":"1k2_GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

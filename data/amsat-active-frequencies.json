@@ -910,6 +910,16 @@
     "satnogs_id":"SRMQ-6676-8759-6509-8693"
   },
   {
+    "name":"CyBEEsat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"137.500",
+    "beacon":null,
+    "mode":"1k2_GMSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"DCS-1",
     "norad_id":"67263",
     "uplink":null,

@@ -83666,5 +83666,35 @@
 
       ]
     }
+  },
+  {
+    "sat_id":"KVVU-6815-6754-5275-7205",
+    "norad_cat_id":98242.0,
+    "norad_follow_id":null,
+    "name":"MIST",
+    "names":"Miniature Student Satellite",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"https:\/\/mistsatellite.space\/",
+    "operator":"None",
+    "countries":"SE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-07T11:56:17.144396Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
   }
 ]
