@@ -83696,5 +83696,35 @@
 
       ]
     }
+  },
+  {
+    "sat_id":"PVWL-7693-2745-9750-5410",
+    "norad_cat_id":98241.0,
+    "norad_follow_id":null,
+    "name":"SLEDGE",
+    "names":"",
+    "image":"satellites\/SLEDGE_1.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-07T00:00:00Z",
+    "deployed":"2026-10-07T00:00:00Z",
+    "website":"https:\/\/onbspace.com",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-09T10:55:58.704123Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
   }
 ]
