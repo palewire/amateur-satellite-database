@@ -83716,7 +83716,7 @@
     ],
     "updated":"2026-09-09T10:55:58.704123Z",
     "citation":"Add temporary NORAD ID",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ],
