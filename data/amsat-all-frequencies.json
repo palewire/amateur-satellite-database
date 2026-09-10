@@ -23925,6 +23925,17 @@
     "satnogs_id":null
   },
   {
+    "name":"SLEDGE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.775",
+    "beacon":null,
+    "mode":"19k2_GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"SLIM",
     "norad_id":"57800",
     "uplink":null,

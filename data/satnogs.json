@@ -83710,12 +83710,12 @@
     "deployed":"2026-10-07T00:00:00Z",
     "website":"https:\/\/onbspace.com",
     "operator":"None",
-    "countries":"",
+    "countries":"KR",
     "telemetries":[
 
     ],
-    "updated":"2026-09-09T10:55:58.704123Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-09-10T11:00:50.259010Z",
+    "citation":"I am the operator of this satellite",
     "is_frequency_violator":false,
     "associated_satellites":[
 
