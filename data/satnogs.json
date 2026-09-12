@@ -72324,7 +72324,7 @@
     "decayed":null,
     "launched":"2025-10-26T00:00:00Z",
     "deployed":"2026-02-03T00:00:00Z",
-    "website":"https:\/\/insted.kmutnb.ac.th\/KNACKSAT-2.html",
+    "website":"https:\/\/insted.kmutnb.ac.th\/knacksat-2\/",
     "operator":"None",
     "countries":"TH",
     "telemetries":[
@@ -72332,8 +72332,8 @@
         "decoder":"knacksat2"
       }
     ],
-    "updated":"2026-02-23T14:07:01.634791Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-67683",
+    "updated":"2026-09-12T08:43:41.359278Z",
+    "citation":"https:\/\/insted.kmutnb.ac.th\/knacksat-2\/",
     "is_frequency_violator":false,
     "associated_satellites":[
       "KGLJ-5105-7669-0803-5760"
