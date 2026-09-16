@@ -47514,14 +47514,14 @@
     "decayed":null,
     "launched":"2023-06-12T00:00:00Z",
     "deployed":null,
-    "website":"https:\/\/space.skyrocket.de\/doc_sdat\/runner-1.htm",
+    "website":"https:\/\/terranorbital.com\/missions\/runner-1\/",
     "operator":"None",
-    "countries":"CL,IL,US",
+    "countries":"CL,IL",
     "telemetries":[
 
     ],
-    "updated":"2023-10-04T10:31:33.166847Z",
-    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/runner-1.htm",
+    "updated":"2026-09-16T13:04:11.363049Z",
+    "citation":"https:\/\/terranorbital.com\/missions\/runner-1\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -83712,7 +83712,9 @@
     "operator":"None",
     "countries":"KR",
     "telemetries":[
-
+      {
+        "decoder":"sledge"
+      }
     ],
     "updated":"2026-09-10T11:00:50.259010Z",
     "citation":"I am the operator of this satellite",
@@ -83724,6 +83726,126 @@
     "reception_evidence":{
       "urls":[
 
+      ]
+    }
+  },
+  {
+    "sat_id":"ASVA-0654-4357-1757-7990",
+    "norad_cat_id":68992.0,
+    "norad_follow_id":null,
+    "name":"YAM-16",
+    "names":"2026-156R",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-05-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-16T13:20:02.814849Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1HCxKpU7w5v1n6ZWKyQIgtoYT3lVcE2NdbinXcmTGvtM\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Verified",
+    "reception_evidence":{
+      "urls":[
+        "https:\/\/docs.google.com\/document\/d\/1HCxKpU7w5v1n6ZWKyQIgtoYT3lVcE2NdbinXcmTGvtM\/edit?usp=sharing"
+      ]
+    }
+  },
+  {
+    "sat_id":"WLWM-9409-8534-7314-2068",
+    "norad_cat_id":69008.0,
+    "norad_follow_id":null,
+    "name":"YAM-14",
+    "names":"2026-100AE",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-05-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-16T13:20:02.125041Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ee2gxP54Xg19-L0BmIr6tiNx3nIHeG-mf9V14y85EzE\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+        "https:\/\/docs.google.com\/document\/d\/1ee2gxP54Xg19-L0BmIr6tiNx3nIHeG-mf9V14y85EzE\/edit?usp=sharing"
+      ]
+    }
+  },
+  {
+    "sat_id":"ORET-5932-4026-6982-2381",
+    "norad_cat_id":69003.0,
+    "norad_follow_id":null,
+    "name":"YAM-12",
+    "names":"2026-100Z",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-05-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-16T13:20:01.427465Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1ckk5-541pt0JeRLWuZS0j2f3w3j8ytJXEj5TnIMUbzk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Verified",
+    "reception_evidence":{
+      "urls":[
+        "https:\/\/docs.google.com\/document\/d\/1ckk5-541pt0JeRLWuZS0j2f3w3j8ytJXEj5TnIMUbzk\/edit?usp=sharing"
+      ]
+    }
+  },
+  {
+    "sat_id":"KNXV-4286-0844-7655-4467",
+    "norad_cat_id":69884.0,
+    "norad_follow_id":null,
+    "name":"YAM-17",
+    "names":"2026-156R",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-07-07T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"US",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-16T13:20:00.917147Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/195Q1rlHslfHei26F-2I89HPvvJSsvk44o7wJNt_3Zfc\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Verified",
+    "reception_evidence":{
+      "urls":[
+        "https:\/\/docs.google.com\/document\/d\/195Q1rlHslfHei26F-2I89HPvvJSsvk44o7wJNt_3Zfc\/edit?usp=sharing"
       ]
     }
   }
