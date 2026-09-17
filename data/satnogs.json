@@ -73828,7 +73828,7 @@
   {
     "sat_id":"TFCT-6554-7216-6555-9189",
     "norad_cat_id":98495.0,
-    "norad_follow_id":null,
+    "norad_follow_id":66765.0,
     "name":"TORO-2",
     "names":"",
     "image":"",
@@ -73842,8 +73842,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-12-02T07:10:06.582677Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter-15",
+    "updated":"2026-09-17T04:55:15.174845Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-15-rideshare-vsfb-slc-4e-28-november-2025-1830-utc\/13951\/251",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -83040,7 +83040,7 @@
   {
     "sat_id":"DJQF-3933-8140-4498-1525",
     "norad_cat_id":98269.0,
-    "norad_follow_id":69917.0,
+    "norad_follow_id":69936.0,
     "name":"Oasis Alpha",
     "names":"",
     "image":"",
@@ -83054,8 +83054,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-08-19T11:39:13.602034Z",
-    "citation":"Random choice",
+    "updated":"2026-09-17T12:30:51.272960Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/319",
     "is_frequency_violator":false,
     "associated_satellites":[
 
