@@ -5533,6 +5533,17 @@
     "satnogs_id":"QWMK-0823-5373-1250-4835"
   },
   {
+    "name":"CPSAT",
+    "norad_id":null,
+    "uplink":"145.835",
+    "downlink":"437.265",
+    "beacon":null,
+    "mode":"1k2\/2k4\/4k8_BPSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"CP-1",
     "norad_id":null,
     "uplink":null,
