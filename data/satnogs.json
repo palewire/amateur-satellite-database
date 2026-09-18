@@ -51806,8 +51806,8 @@
     "name":"SHIELDS 1",
     "names":"",
     "image":"",
-    "status":"in orbit",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-02-12T19:23:19Z",
     "launched":"2018-12-16T00:00:00Z",
     "deployed":null,
     "website":"",
@@ -51816,8 +51816,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-12-26T06:20:14.000703Z",
-    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=43850#results",
+    "updated":"2026-09-17T22:27:51.805501Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43850&PAYLOAD=1&MAX=500",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -77820,8 +77820,8 @@
         "decoder":"cosmo"
       }
     ],
-    "updated":"2026-04-16T14:53:55.470339Z",
-    "citation":"https:\/\/archive.org\/details\/ikhnos-identification-68460\/2026-04-16T13%3A09%3A55_13831872_68460_26067AW_0-OBJECT-AW_2.4009781407407473_B_r29.0_f0.0.png",
+    "updated":"2026-09-17T22:21:51.279519Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/ffykg3i5j8e0wd",
     "is_frequency_violator":false,
     "associated_satellites":[
 
