@@ -1576,7 +1576,7 @@
     "norad_cat_id":32785.0,
     "norad_follow_id":null,
     "name":"CUTE-1.7+APD II",
-    "names":"CO-65",
+    "names":"CO-65, JQ1YTC",
     "image":"satellites\/CO-65-300x197.jpg",
     "status":"in orbit",
     "decayed":null,
@@ -1590,16 +1590,16 @@
         "decoder":"co65"
       }
     ],
-    "updated":"2024-08-20T16:52:55.989251Z",
-    "citation":"dl7ndr",
+    "updated":"2026-09-20T14:11:00.387962Z",
+    "citation":"https:\/\/www.ne.jp\/asahi\/hamradio\/je9pel\/ct17gmsk.htm",
     "is_frequency_violator":false,
     "associated_satellites":[
 
     ],
-    "reception_status":"Unknown",
+    "reception_status":"Verified",
     "reception_evidence":{
       "urls":[
-
+        "https:\/\/network.satnogs.org\/observations\/15020397\/"
       ]
     }
   },
@@ -23933,10 +23933,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
