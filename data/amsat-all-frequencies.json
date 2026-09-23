@@ -10472,6 +10472,17 @@
     "satnogs_id":null
   },
   {
+    "name":"HADES-L",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.665",
+    "beacon":null,
+    "mode":"800 FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"HADES-R",
     "norad_id":"62690",
     "uplink":"145.925",
@@ -14228,7 +14239,7 @@
     "uplink":null,
     "downlink":"437.080",
     "beacon":null,
-    "mode":"9k6_GFSK",
+    "mode":"9k6 GFSK",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -22275,6 +22286,17 @@
     "satnogs_id":"BZWR-6172-2785-3507-5423"
   },
   {
+    "name":"SanoSat-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.600",
+    "beacon":null,
+    "mode":"500 1k GFSK SSDV",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Sapling-1",
     "norad_id":null,
     "uplink":null,
@@ -28488,6 +28510,17 @@
     "callsign":"RS27S",
     "status":"active",
     "satnogs_id":"ESPB-1611-5692-0685-8383"
+  },
+  {
+    "name":"UTNH-SAJILO-SAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.600",
+    "beacon":null,
+    "mode":"500 1k GFSK SSDV",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Ut-ProSat-1",
