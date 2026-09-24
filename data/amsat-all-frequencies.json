@@ -22187,6 +22187,17 @@
     "satnogs_id":null
   },
   {
+    "name":"SAJILO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.600",
+    "beacon":null,
+    "mode":"500 1k GFSK SSDV",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"SAKHACUBE-CHOLBON",
     "norad_id":"67290",
     "uplink":null,
@@ -28523,12 +28534,12 @@
     "satnogs_id":"ESPB-1611-5692-0685-8383"
   },
   {
-    "name":"UTNH-SAJILO-SAT",
+    "name":"UTNH",
     "norad_id":null,
     "uplink":null,
-    "downlink":"436.600",
+    "downlink":null,
     "beacon":null,
-    "mode":"500 1k GFSK SSDV",
+    "mode":null,
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
