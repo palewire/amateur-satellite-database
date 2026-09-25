@@ -44026,8 +44026,8 @@
     "name":"PACE-1",
     "names":"2021-059AG",
     "image":"",
-    "status":"in orbit",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-09-23T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":"2021-06-30T00:00:00Z",
     "website":"",
@@ -44036,8 +44036,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-06-29T18:56:09.627673Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1Hh_MzX6kTLjgnjO02XUCqZXZ4Qz3bn93TlKXTbf79fs\/edit?usp=sharing",
+    "updated":"2026-09-25T06:46:04.773146Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=48909",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -62882,7 +62882,7 @@
     "sat_id":"KVEB-1740-5392-8849-3383",
     "norad_cat_id":58555.0,
     "norad_follow_id":null,
-    "name":"23193C",
+    "name":"HONGHU 2",
     "names":"",
     "image":"",
     "status":"in orbit",
@@ -62895,8 +62895,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-12-17T11:46:52.265457Z",
-    "citation":"https:\/\/community.libre.space\/t\/strf-bandscan-results\/9827\/110",
+    "updated":"2026-09-25T06:05:32.364455Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
