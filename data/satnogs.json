@@ -23656,10 +23656,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -83846,6 +83846,36 @@
     "reception_evidence":{
       "urls":[
         "https:\/\/docs.google.com\/document\/d\/195Q1rlHslfHei26F-2I89HPvvJSsvk44o7wJNt_3Zfc\/edit?usp=sharing"
+      ]
+    }
+  },
+  {
+    "sat_id":"ZZGH-0737-1648-8495-9534",
+    "norad_cat_id":68504.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X72",
+    "names":"2026-067CS",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-03-30T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-24T21:26:32.121413Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1rSI3PITiIegfhO34Kw5RjBn0Bee1wL1yEdHHWdfobOg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
       ]
     }
   }
