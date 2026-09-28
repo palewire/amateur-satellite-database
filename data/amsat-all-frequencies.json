@@ -10395,6 +10395,17 @@
     "satnogs_id":"XGOP-6666-1396-1633-1810"
   },
   {
+    "name":"GuaraniSat-2",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.375",
+    "beacon":"437.375",
+    "mode":"4k8 GMSK CW",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Gxiba-1",
     "norad_id":"67684",
     "uplink":null,

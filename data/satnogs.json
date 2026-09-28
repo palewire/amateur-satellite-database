@@ -23933,10 +23933,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -83868,6 +83868,36 @@
     ],
     "updated":"2026-09-24T21:26:32.121413Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1rSI3PITiIegfhO34Kw5RjBn0Bee1wL1yEdHHWdfobOg\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"VNBI-4541-3485-4447-7232",
+    "norad_cat_id":66751.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X58",
+    "names":"2025-276CP",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2025-11-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"FI",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-28T09:52:23.829752Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1hMJcmaD7qftqzT9rmgS6qOPlFGmutBKdr21HrQS9GZs\/edit?usp=sharing",
     "is_frequency_violator":false,
     "associated_satellites":[
 
