@@ -82920,7 +82920,7 @@
   {
     "sat_id":"QEQN-2303-2903-1759-3791",
     "norad_cat_id":98275.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69909.0,
     "name":"Kita-36",
     "names":"",
     "image":"",
@@ -82934,8 +82934,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-08T08:40:57.209620Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-09-29T15:36:52.246772Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -82950,7 +82950,7 @@
   {
     "sat_id":"EHRM-8889-6769-1419-3931",
     "norad_cat_id":98274.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69904.0,
     "name":"Kita-53",
     "names":"",
     "image":"",
@@ -82964,8 +82964,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-07T08:17:54.792262Z",
-    "citation":"https:\/\/x.com\/SpaceX\/status\/2071668897669919075",
+    "updated":"2026-09-29T15:37:21.657912Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
