@@ -3553,6 +3553,17 @@
     "satnogs_id":null
   },
   {
+    "name":"BRO-23",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4k8\/9k6 FSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"BRO-31",
     "norad_id":"69896",
     "uplink":null,
@@ -3561,6 +3572,17 @@
     "mode":"4k8*\/9k6_FSK",
     "callsign":null,
     "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"BRO-32",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.735",
+    "beacon":null,
+    "mode":"4k8\/9k6 FSK",
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -24854,9 +24876,9 @@
     "uplink":null,
     "downlink":"437.325\/2402.000",
     "beacon":null,
-    "mode":"19k2_GMSK 4M_BPSK",
+    "mode":"19k2GMSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -26196,7 +26218,7 @@
     "uplink":null,
     "downlink":"436.325\/437.750",
     "beacon":null,
-    "mode":"1k2_AFSK 9k6_GMSK SSTV CW",
+    "mode":"1k2AFSK 9k6GMSK SSTV CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null
@@ -26449,7 +26471,7 @@
     "uplink":null,
     "downlink":"437.390",
     "beacon":"437.390",
-    "mode":"1k2AFSK 9k6* GMSK CW WSJT",
+    "mode":"1k2AFSK\/9k6*GMSK CW WSJT",
     "callsign":"JG6YKY",
     "status":"inactive",
     "satnogs_id":"ILWB-0355-7294-3027-0757"
@@ -26471,7 +26493,7 @@
     "uplink":null,
     "downlink":"436.740\/437.400",
     "beacon":null,
-    "mode":"1k2AFS\/9k6MSK\/162_LoRa",
+    "mode":"1k2AFSK\/9k6MSK LoRa CW",
     "callsign":null,
     "status":"to be launched",
     "satnogs_id":null

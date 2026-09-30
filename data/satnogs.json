@@ -23656,10 +23656,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -84186,7 +84186,7 @@
     "norad_cat_id":98231.0,
     "norad_follow_id":null,
     "name":"HERMES",
-    "names":"HERMES-01",
+    "names":"HERMES-01, HRM-01",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -84198,8 +84198,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-09-29T23:12:02.768585Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "updated":"2026-09-30T08:29:04.906217Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -84259,6 +84259,96 @@
 
     ],
     "updated":"2026-09-29T23:29:31.374119Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"FAKD-5925-7434-7145-5136",
+    "norad_cat_id":98228.0,
+    "norad_follow_id":null,
+    "name":"ION SCV Absolute Andreas",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-30T07:57:05.686311Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"CHSF-1418-0410-3455-5579",
+    "norad_cat_id":98227.0,
+    "norad_follow_id":null,
+    "name":"ION SCV Empowering Ekaterina",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-30T07:57:05.680606Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"JHPV-9734-6745-9231-5236",
+    "norad_cat_id":98226.0,
+    "norad_follow_id":null,
+    "name":"ION SCV Alluring Alexander",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-30T07:57:05.667527Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
     "is_frequency_violator":false,
     "associated_satellites":[
