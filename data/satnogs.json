@@ -30454,16 +30454,18 @@
     "image":"satellites\/LASP-SPRITE.jpg",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-10-01T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/lasp.colorado.edu\/home\/missions\/sprite\/",
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"sprite"
+      }
     ],
-    "updated":"2022-10-27T06:31:11.355082Z",
-    "citation":"CITATION NEEDED - https:\/\/xkcd.com\/285\/",
+    "updated":"2026-09-29T19:41:16.605685Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -78626,7 +78628,7 @@
     "image":"satellites\/IMG_1734.JPG",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-10-01T18:18:00Z",
     "deployed":null,
     "website":"https:\/\/kensat.com\/",
     "operator":"None",
@@ -78634,8 +78636,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-08-22T23:52:15.113050Z",
-    "citation":"https:\/\/github.com\/kenchangh\/kensat#radio-link-for-receiving-stations",
+    "updated":"2026-09-29T20:02:59.086691Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -83880,6 +83882,36 @@
     }
   },
   {
+    "sat_id":"UANL-4434-0745-6703-1145",
+    "norad_cat_id":98236.0,
+    "norad_follow_id":null,
+    "name":"GUARANISAT-2",
+    "names":"ZP5XSN",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"https:\/\/aep.gov.py\/guaranisat-2-2\/",
+    "operator":"None",
+    "countries":"PY",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T21:50:13.010557Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
     "sat_id":"VNBI-4541-3485-4447-7232",
     "norad_cat_id":66751.0,
     "norad_follow_id":null,
@@ -83898,6 +83930,336 @@
     ],
     "updated":"2026-09-28T09:52:23.829752Z",
     "citation":"https:\/\/docs.google.com\/document\/d\/1hMJcmaD7qftqzT9rmgS6qOPlFGmutBKdr21HrQS9GZs\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"HCFD-9366-7957-7165-5507",
+    "norad_cat_id":98238.0,
+    "norad_follow_id":null,
+    "name":"CRIMSON-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"SG",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T19:56:25.634704Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"SNWC-2750-0877-5251-7810",
+    "norad_cat_id":98240.0,
+    "norad_follow_id":null,
+    "name":"UASAT-NANO",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T19:41:44.825886Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"DXHZ-5553-8226-4051-6080",
+    "norad_cat_id":98239.0,
+    "norad_follow_id":null,
+    "name":"GOMX-5",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T19:48:27.362800Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"XSTK-8490-0150-7078-4146",
+    "norad_cat_id":98237.0,
+    "norad_follow_id":null,
+    "name":"GPDM",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T21:41:10.646381Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"NJOR-6891-1990-0170-0892",
+    "norad_cat_id":98235.0,
+    "norad_follow_id":null,
+    "name":"AE4La",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T22:05:29.862434Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"NUFQ-3936-2194-4742-8681",
+    "norad_cat_id":98234.0,
+    "norad_follow_id":null,
+    "name":"BRO-23",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T22:08:22.587821Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"KLMD-3777-4508-3128-1894",
+    "norad_cat_id":98233.0,
+    "norad_follow_id":null,
+    "name":"eLEAF-01",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T22:35:54.288998Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"ACKX-1140-5183-6176-7652",
+    "norad_cat_id":98232.0,
+    "norad_follow_id":null,
+    "name":"Baby Bird",
+    "names":"BABYBIRD",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T23:04:40.225767Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"KYSS-8964-3341-4194-7483",
+    "norad_cat_id":98231.0,
+    "norad_follow_id":null,
+    "name":"HERMES",
+    "names":"HERMES-01",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T23:12:02.768585Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"VAQZ-2289-0950-5015-4960",
+    "norad_cat_id":98230.0,
+    "norad_follow_id":null,
+    "name":"Terra Nova",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T23:15:46.951333Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"ZXRE-2151-7495-1741-1122",
+    "norad_cat_id":98229.0,
+    "norad_follow_id":null,
+    "name":"BRO-32",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-09-29T23:29:31.374119Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
     "is_frequency_violator":false,
     "associated_satellites":[
 
