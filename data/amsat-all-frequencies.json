@@ -418,6 +418,17 @@
     "satnogs_id":null
   },
   {
+    "name":"AE4La",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2277.300",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"AggieSat-4",
     "norad_id":"41313",
     "uplink":null,
@@ -735,6 +746,17 @@
     "callsign":"RS65S",
     "status":"unknown",
     "satnogs_id":"OVJV-1933-3688-6136-9655"
+  },
+  {
+    "name":"Altair-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2249.850\/2262.125",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Al-Farabi-2",
@@ -2145,6 +2167,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Athene-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"137.500\/848.000\/2441.750::::to be launched",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Athenoxat-1",
     "norad_id":"41168",
     "uplink":null,
@@ -2286,6 +2319,17 @@
     "callsign":"ASAT1S",
     "status":"active",
     "satnogs_id":"IKZL-1016-6920-2274-7552"
+  },
+  {
+    "name":"Baby Bird",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":"9k6 GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"BALKAN-1",
@@ -5742,6 +5786,17 @@
     "satnogs_id":"WKBS-6047-7369-7033-9398"
   },
   {
+    "name":"CRIMSON-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.125\/2217.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"CroCube",
     "norad_id":null,
     "uplink":null,
@@ -7576,6 +7631,17 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"eLEAF-01",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2277.300",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -10109,6 +10175,17 @@
     "satnogs_id":"LQPY-8821-4598-4140-0055"
   },
   {
+    "name":"GOMX-5",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2247.320\/2250.240",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Good-Ancestor-Kilakila",
     "norad_id":null,
     "uplink":null,
@@ -10162,6 +10239,17 @@
     "callsign":"4XTECH-11 12",
     "status":"active",
     "satnogs_id":"FCHF-0545-3706-3789-8061"
+  },
+  {
+    "name":"GPDM",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2267.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"GRAHAM",
@@ -10788,6 +10876,17 @@
     "mode":"1k2 AFSK",
     "callsign":null,
     "status":"failure",
+    "satnogs_id":null
+  },
+  {
+    "name":"HERMES",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2240.850",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -13230,6 +13329,39 @@
     "mode":"1k2_FSK",
     "callsign":null,
     "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"ION-SCV-024",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2245.501",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"ION-SCV-025",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2243.501",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"ION-SCV-026",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2277.501",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {
@@ -18975,6 +19107,17 @@
     "satnogs_id":null
   },
   {
+    "name":"OSSIE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.525",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"OSSI-1",
     "norad_id":"39131",
     "uplink":null,
@@ -19006,6 +19149,17 @@
     "callsign":null,
     "status":"active",
     "satnogs_id":"XEOD-9474-3581-0595-2203"
+  },
+  {
+    "name":"OTTER",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"38k4 GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"OTP-2",
@@ -20504,6 +20658,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Protostar",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"9k6 GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"PROVES-Alcyone",
     "norad_id":null,
     "uplink":null,
@@ -21164,6 +21329,28 @@
     "satnogs_id":"XQDI-8444-4243-4320-9055"
   },
   {
+    "name":"RADIX-A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2229.500\/2233.500",
+    "beacon":null,
+    "mode":"125k GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
+    "name":"RADIX-MK",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2229.500\/2233.500",
+    "beacon":null,
+    "mode":"125k GFSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"RadSat-g",
     "norad_id":"43553",
     "uplink":null,
@@ -21382,6 +21569,17 @@
     "callsign":"WR9XTX",
     "status":"active",
     "satnogs_id":"ZNYX-2468-9597-3161-5205"
+  },
+  {
+    "name":"Reason-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.650",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"Red Diamond",
@@ -26521,6 +26719,17 @@
     "satnogs_id":"XJZB-8484-4108-1845-4033"
   },
   {
+    "name":"Terra Nova",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2261.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"TetherSat",
     "norad_id":null,
     "uplink":null,
@@ -27080,6 +27289,17 @@
     "callsign":"HB9DE",
     "status":"inactive",
     "satnogs_id":"TSLM-4078-5089-9909-4945"
+  },
+  {
+    "name":"TITANIA",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2222.500\/2223.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
   },
   {
     "name":"TiungSat",
@@ -27739,6 +27959,17 @@
     "mode":"1k2 AFSK",
     "callsign":"OA0UAP",
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"UASAT-NANO",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2243.500\/2246.200",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"to be launched",
     "satnogs_id":null
   },
   {

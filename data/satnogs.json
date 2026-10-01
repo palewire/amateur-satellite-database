@@ -11064,8 +11064,8 @@
     "name":"D-Star ONE iSat",
     "names":"DP1GOS",
     "image":"",
-    "status":"in orbit",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-09-29T00:00:00Z",
     "launched":"2018-12-27T00:00:00Z",
     "deployed":null,
     "website":"http:\/\/web.archive.org\/web\/20190807184852\/http:\/\/www.d-star.one\/",
@@ -11074,8 +11074,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-28T14:55:43.883853Z",
-    "citation":"http:\/\/web.archive.org\/web\/20190807184852\/http:\/\/www.d-star.one\/",
+    "updated":"2026-10-01T13:09:29.295158Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=43879",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -23656,10 +23656,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       },
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -78624,7 +78624,7 @@
     "norad_cat_id":98372.0,
     "norad_follow_id":null,
     "name":"KENSAT",
-    "names":"",
+    "names":"KO6IKZ",
     "image":"satellites\/IMG_1734.JPG",
     "status":"future",
     "decayed":null,
@@ -78636,8 +78636,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-09-29T20:02:59.086691Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "updated":"2026-10-01T13:09:43.792123Z",
+    "citation":"https:\/\/github.com\/kenchangh\/kensat",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -83972,6 +83972,36 @@
     }
   },
   {
+    "sat_id":"PMPT-7315-6887-7877-7838",
+    "norad_cat_id":98217.0,
+    "norad_follow_id":null,
+    "name":"REASON-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T10:34:04.169524Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
     "sat_id":"SNWC-2750-0877-5251-7810",
     "norad_cat_id":98240.0,
     "norad_follow_id":null,
@@ -84276,7 +84306,7 @@
     "norad_cat_id":98228.0,
     "norad_follow_id":null,
     "name":"ION SCV Absolute Andreas",
-    "names":"",
+    "names":"ION SCV-025(?)",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -84288,8 +84318,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-09-30T07:57:05.686311Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "updated":"2026-10-01T06:55:38.100880Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -84306,7 +84336,7 @@
     "norad_cat_id":98227.0,
     "norad_follow_id":null,
     "name":"ION SCV Empowering Ekaterina",
-    "names":"",
+    "names":"ION SCV-026(?)",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -84318,8 +84348,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-09-30T07:57:05.680606Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "updated":"2026-10-01T06:55:38.088930Z",
+    "citation":"celestrak.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -84336,6 +84366,216 @@
     "norad_cat_id":98226.0,
     "norad_follow_id":null,
     "name":"ION SCV Alluring Alexander",
+    "names":"ION SCV-024(?)",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T06:55:38.095805Z",
+    "citation":"celestrak.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"YHRR-5784-8353-1006-4323",
+    "norad_cat_id":68988.0,
+    "norad_follow_id":null,
+    "name":"OT-FOREST-17 TELPERION",
+    "names":"2026-100J",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-05-03T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T13:07:35.383945Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1-O-sXhR64raK7gasW14yDXurl1kduVGt__UP5nTirX0\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"CNUV-7450-7753-1612-7674",
+    "norad_cat_id":69737.0,
+    "norad_follow_id":null,
+    "name":"OBJECT A",
+    "names":"2026-149A",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-07-01T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"CN",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T13:07:10.616161Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1-W5v9ck8VTCPnhStJu7qHMjzOhS0HUxYDMCDI4-fJM4\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"GPTJ-0695-8904-2842-6953",
+    "norad_cat_id":98221.0,
+    "norad_follow_id":null,
+    "name":"OSSIE",
+    "names":"OSSIED",
+    "image":"satellites\/ossie_1.png",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":"2026-10-01T19:18:26Z",
+    "website":"https:\/\/www.uarx.com\/projects\/ossie.php",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T08:39:42.510415Z",
+    "citation":"https:\/\/www.itu.int\/itu-r\/space\/apps\/public\/spaceexplorer\/networks-explorer\/space-stations\/dashboard\/non-plans\/OSSIED\/125545295",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"ZKZZ-3777-2014-2860-9930",
+    "norad_cat_id":98225.0,
+    "norad_follow_id":null,
+    "name":"NIQ-PQ",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KZ",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T06:51:12.861796Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-18-oct-2026\/14924\/9",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"ARYH-3319-2113-1500-1149",
+    "norad_cat_id":98224.0,
+    "norad_follow_id":null,
+    "name":"RADIX-A",
+    "names":"Watchdog v0-A",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T07:33:54.671039Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"KMZY-5626-8243-0436-8698",
+    "norad_cat_id":98223.0,
+    "norad_follow_id":null,
+    "name":"RADIX-MK",
+    "names":"Watchdog v0-MK",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T07:33:54.664089Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"ZBHR-7198-1794-8728-0872",
+    "norad_cat_id":98222.0,
+    "norad_follow_id":null,
+    "name":"ATHENE-1",
     "names":"",
     "image":"",
     "status":"future",
@@ -84348,7 +84588,127 @@
     "telemetries":[
 
     ],
-    "updated":"2026-09-30T07:57:05.667527Z",
+    "updated":"2026-10-01T07:59:25.355614Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"XGKA-2142-1660-9388-0553",
+    "norad_cat_id":98220.0,
+    "norad_follow_id":null,
+    "name":"TITANIA",
+    "names":"F2G1",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T09:14:16.445961Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18 and celestrak.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"MKTR-7930-7047-9316-1915",
+    "norad_cat_id":98219.0,
+    "norad_follow_id":null,
+    "name":"ALTAIR-1",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T09:41:25.295895Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"LUWA-0968-1317-6392-2058",
+    "norad_cat_id":98218.0,
+    "norad_follow_id":null,
+    "name":"OTTER",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T10:16:42.671005Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"KWBG-7848-7960-3395-4111",
+    "norad_cat_id":98216.0,
+    "norad_follow_id":null,
+    "name":"Protostar",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-01T18:18:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-01T10:59:41.524219Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
     "is_frequency_violator":false,
     "associated_satellites":[
