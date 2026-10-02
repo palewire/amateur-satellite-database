@@ -19110,7 +19110,7 @@
     "name":"OSSIE",
     "norad_id":null,
     "uplink":null,
-    "downlink":"401.525",
+    "downlink":"401.525\/2275.000",
     "beacon":null,
     "mode":null,
     "callsign":null,
