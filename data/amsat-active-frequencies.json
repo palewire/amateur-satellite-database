@@ -760,6 +760,16 @@
     "satnogs_id":"WKBS-6047-7369-7033-9398"
   },
   {
+    "name":"CRIMSON-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.125\/2217.000",
+    "beacon":null,
+    "mode":"2k4 BPSK",
+    "callsign":"9V1CRM",
+    "satnogs_id":null
+  },
+  {
     "name":"CSTP-1.1",
     "norad_id":"57202",
     "uplink":null,
@@ -3377,6 +3387,16 @@
     "beacon":null,
     "mode":"9k6 GMSK",
     "callsign":"6K0FX",
+    "satnogs_id":null
+  },
+  {
+    "name":"SPRITE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"437.325\/2402.000",
+    "beacon":null,
+    "mode":"9k6*\/19k2_GMSK",
+    "callsign":"SPRITE",
     "satnogs_id":null
   },
   {

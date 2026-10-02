@@ -425,7 +425,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -755,7 +755,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -2170,7 +2170,7 @@
     "name":"Athene-1",
     "norad_id":null,
     "uplink":null,
-    "downlink":"137.500\/848.000\/2441.750::::to be launched",
+    "downlink":"137.500\/848.000\/2441.750::::unknown",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -2328,7 +2328,7 @@
     "beacon":null,
     "mode":"9k6 GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -3604,7 +3604,7 @@
     "beacon":null,
     "mode":"4k8\/9k6 FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -3626,7 +3626,7 @@
     "beacon":null,
     "mode":"4k8\/9k6 FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -5791,9 +5791,9 @@
     "uplink":null,
     "downlink":"437.125\/2217.000",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"to be launched",
+    "mode":"2k4 BPSK",
+    "callsign":"9V1CRM",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -7641,7 +7641,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7927,7 +7927,7 @@
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
     "callsign":"DP0PQA",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7938,7 +7938,7 @@
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
     "callsign":"DP0PQB",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -7949,7 +7949,7 @@
     "beacon":null,
     "mode":"600-19k2 GFSK GMSK BPSK",
     "callsign":"DP0PQC",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10182,7 +10182,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10248,7 +10248,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10512,7 +10512,7 @@
     "beacon":"437.375",
     "mode":"4k8 GMSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10578,7 +10578,7 @@
     "beacon":"436.888",
     "mode":"200-2k4 USB FM CW",
     "callsign":"AM1HAD",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10589,7 +10589,7 @@
     "beacon":"436.888",
     "mode":"200-2k4 USB FM CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10600,7 +10600,7 @@
     "beacon":"436.666",
     "mode":"200-2k4 USB FM CW",
     "callsign":"AM1HAD",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10611,7 +10611,7 @@
     "beacon":null,
     "mode":"800 FSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -10886,7 +10886,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13339,7 +13339,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13350,7 +13350,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -13361,7 +13361,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -14417,7 +14417,7 @@
     "beacon":null,
     "mode":"9k6 GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -16419,7 +16419,7 @@
     "beacon":"436.666",
     "mode":"200-2k4 USB FM CW",
     "callsign":"AM1HAD",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -19114,7 +19114,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -19158,7 +19158,7 @@
     "beacon":null,
     "mode":"38k4 GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -20665,7 +20665,7 @@
     "beacon":null,
     "mode":"9k6 GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -21182,7 +21182,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -21336,7 +21336,7 @@
     "beacon":null,
     "mode":"125k GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -21347,7 +21347,7 @@
     "beacon":null,
     "mode":"125k GFSK",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -21578,7 +21578,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -22425,7 +22425,7 @@
     "beacon":null,
     "mode":"500 1k GFSK SSDV",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -22546,7 +22546,7 @@
     "beacon":null,
     "mode":"500 1k GFSK SSDV",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -23305,7 +23305,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -23316,7 +23316,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -25074,9 +25074,9 @@
     "uplink":null,
     "downlink":"437.325\/2402.000",
     "beacon":null,
-    "mode":"19k2GMSK",
-    "callsign":null,
-    "status":"to be launched",
+    "mode":"9k6*\/19k2_GMSK",
+    "callsign":"SPRITE",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -26726,7 +26726,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -27298,7 +27298,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -27969,7 +27969,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -28585,7 +28585,7 @@
     "beacon":"436.888",
     "mode":"200-2k4 USB FM CW",
     "callsign":"AM1HAD",
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -28596,7 +28596,7 @@
     "beacon":"436.888",
     "mode":"200-2k4 USB FM CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -28805,7 +28805,7 @@
     "beacon":null,
     "mode":null,
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
