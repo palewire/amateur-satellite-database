@@ -84485,8 +84485,8 @@
     "sat_id":"ZKZZ-3777-2014-2860-9930",
     "norad_cat_id":98225.0,
     "norad_follow_id":null,
-    "name":"NIQ-PQ",
-    "names":"",
+    "name":"NIS-PQ",
+    "names":"QUBIK-5",
     "image":"",
     "status":"future",
     "decayed":null,
@@ -84498,8 +84498,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-10-01T20:54:37.059433Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "updated":"2026-10-03T14:01:57.710380Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/eg04ajqcp7bpcc",
     "is_frequency_violator":false,
     "associated_satellites":[
 
