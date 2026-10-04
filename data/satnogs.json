@@ -78139,12 +78139,12 @@
     "sat_id":"EARJ-4650-0809-6617-4860",
     "norad_cat_id":98385.0,
     "norad_follow_id":null,
-    "name":"SanoSat-2.0",
-    "names":"UTNH-SAJILO-SAT",
+    "name":"SanoSat-2",
+    "names":"SAJILO, UTNH-SAJILO- SAT",
     "image":"satellites\/Sanosat2-satnogsdb.JPG",
-    "status":"future",
+    "status":"in orbit",
     "decayed":null,
-    "launched":"2026-06-01T00:00:00Z",
+    "launched":"2026-10-01T18:32:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -78152,11 +78152,11 @@
     "telemetries":[
 
     ],
-    "updated":"2026-03-13T17:06:58.130900Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-10-04T06:06:19.630136Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1015",
     "is_frequency_violator":false,
     "associated_satellites":[
-
+      "HVGS-6941-5465-7026-3510"
     ],
     "reception_status":"Unknown",
     "reception_evidence":{
@@ -83852,6 +83852,186 @@
     }
   },
   {
+    "sat_id":"HYTS-5747-3762-8528-3227",
+    "norad_cat_id":98207.0,
+    "norad_follow_id":null,
+    "name":"ERMINAZ-2U",
+    "names":"DP0PQA",
+    "image":"satellites\/ERMINAZ-2UVX.jpg",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"https:\/\/amsat-dl.org\/erminaz\/",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:40:42.680439Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"YBRE-7892-9466-0034-0948",
+    "norad_cat_id":98208.0,
+    "norad_follow_id":null,
+    "name":"ERMINAZ-2V",
+    "names":"DP0PQB",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"https:\/\/amsat-dl.org\/erminaz\/",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:40:42.708647Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"PKDA-8722-9172-3734-8754",
+    "norad_cat_id":98209.0,
+    "norad_follow_id":null,
+    "name":"ERMINAZ-2X",
+    "names":"DP0PQC",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"https:\/\/amsat-dl.org\/erminaz\/",
+    "operator":"None",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:40:42.736587Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"FJFL-4353-5428-1545-1976",
+    "norad_cat_id":98206.0,
+    "norad_follow_id":null,
+    "name":"HADES-L",
+    "names":"",
+    "image":"satellites\/HADES-L.png",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.amsat-ea.org\/proyectos\/",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:02:26.923150Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"AZNB-1972-1511-6151-8557",
+    "norad_cat_id":98205.0,
+    "norad_follow_id":null,
+    "name":"UNNE-1B",
+    "names":"HADES-E2",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"https:\/\/www.amsat-ea.org\/proyectos\/",
+    "operator":"None",
+    "countries":"ES",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:07:41.496960Z",
+    "citation":"https:\/\/iaru.amsat-uk.org\/finished_detail.php?serialnum=1086",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"GOUZ-2621-7238-9637-3875",
+    "norad_cat_id":98211.0,
+    "norad_follow_id":null,
+    "name":"UTNH-Sat",
+    "names":"UTNH",
+    "image":"satellites\/UTNH_DIY1.jpeg",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"https:\/\/frh.utn.edu.ar\/frh-al-espacio-satelite-pocket-cube-utn-frh-diy-1\/",
+    "operator":"None",
+    "countries":"AR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:33:17.881702Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
     "sat_id":"ZZGH-0737-1648-8495-9534",
     "norad_cat_id":68504.0,
     "norad_follow_id":null,
@@ -84452,6 +84632,36 @@
     }
   },
   {
+    "sat_id":"RYLK-8905-3729-2332-3871",
+    "norad_cat_id":98210.0,
+    "norad_follow_id":null,
+    "name":"ETNS",
+    "names":"ETNS-A",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:40:42.652764Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
     "sat_id":"GPTJ-0695-8904-2842-6953",
     "norad_cat_id":98221.0,
     "norad_follow_id":null,
@@ -84710,6 +84920,216 @@
     ],
     "updated":"2026-10-01T20:54:36.939664Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"IVZP-8826-1773-8448-4855",
+    "norad_cat_id":98212.0,
+    "norad_follow_id":null,
+    "name":"USAT-I",
+    "names":"USAT 1",
+    "image":"satellites\/8be60028-8a8f-450c-833a-510d4a6ecb56.jpg",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"AR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:40:42.624443Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"CQLO-6712-3512-5210-2074",
+    "norad_cat_id":98214.0,
+    "norad_follow_id":null,
+    "name":"EduSat-2",
+    "names":"",
+    "image":"satellites\/missionbagde.jpg",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"BR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T05:29:00.858864Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"JZCE-3251-2667-6320-0541",
+    "norad_cat_id":98213.0,
+    "norad_follow_id":null,
+    "name":"EduSat-3",
+    "names":"",
+    "image":"satellites\/missionbagde_2l2uAj2.jpg",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"BR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T05:29:05.841298Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"KPJP-2422-8913-1094-0450",
+    "norad_cat_id":98204.0,
+    "norad_follow_id":null,
+    "name":"SIDLOC PQ-03",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:20:50.870386Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-18-rideshare-vsfb-slc-4e-2026-10-01-18-32-utc\/14924\/9",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"MFOR-9210-8363-3251-4177",
+    "norad_cat_id":98203.0,
+    "norad_follow_id":null,
+    "name":"SIDLOC PQ-04",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:20:50.850575Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-18-rideshare-vsfb-slc-4e-2026-10-01-18-32-utc\/14924\/9",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"KVOS-4539-2765-7785-6036",
+    "norad_cat_id":98202.0,
+    "norad_follow_id":null,
+    "name":"SIDLOC PQ-05",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:20:50.831647Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-18-rideshare-vsfb-slc-4e-2026-10-01-18-32-utc\/14924\/9",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"UNLT-7458-6697-2171-0383",
+    "norad_cat_id":98201.0,
+    "norad_follow_id":null,
+    "name":"SIDLOC PQ-06",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-04T07:20:50.797575Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-18-rideshare-vsfb-slc-4e-2026-10-01-18-32-utc\/14924\/9",
     "is_frequency_violator":false,
     "associated_satellites":[
 

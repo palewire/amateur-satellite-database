@@ -8107,6 +8107,17 @@
     "satnogs_id":"LBQI-9987-6865-3928-8294"
   },
   {
+    "name":"ETNS",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.900",
+    "beacon":null,
+    "mode":"9k6 FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"ETRISat",
     "norad_id":null,
     "uplink":null,
@@ -9788,6 +9799,17 @@
     "callsign":"N7GAS",
     "status":"re-entered",
     "satnogs_id":"NYPQ-6177-1118-6247-2663"
+  },
+  {
+    "name":"GBSAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"GCOM-W1",
@@ -17908,6 +17930,17 @@
     "satnogs_id":"RNRC-0705-2439-6456-1589"
   },
   {
+    "name":"NIS-PQ",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.240",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"NIUSAT",
     "norad_id":"42766",
     "uplink":null,
@@ -22443,7 +22476,7 @@
     "name":"SAJILO",
     "norad_id":null,
     "uplink":null,
-    "downlink":"436.600",
+    "downlink":"436.650",
     "beacon":null,
     "mode":"500 1k GFSK SSDV",
     "callsign":null,
@@ -22561,10 +22594,10 @@
     "satnogs_id":"BZWR-6172-2785-3507-5423"
   },
   {
-    "name":"SanoSat-3",
+    "name":"SanoSat-2",
     "norad_id":null,
     "uplink":null,
-    "downlink":"436.600",
+    "downlink":"436.650",
     "beacon":null,
     "mode":"500 1k GFSK SSDV",
     "callsign":null,
@@ -23320,7 +23353,7 @@
     "satnogs_id":"EUTM-6475-4739-7036-7152"
   },
   {
-    "name":"SIDROC-PQ1",
+    "name":"SIDROC-PQ-03",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.500",
@@ -23331,7 +23364,29 @@
     "satnogs_id":null
   },
   {
-    "name":"SIDROC-PQ2",
+    "name":"SIDROC-PQ-04",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SIDROC-PQ-05",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.500",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SIDROC-PQ-06",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.500",
@@ -28765,6 +28820,17 @@
     "satnogs_id":"MAEY-6712-7402-2396-4318"
   },
   {
+    "name":"USAT-I",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2425.000",
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"USNAP1",
     "norad_id":"44355",
     "uplink":"28.120\/145.825",
@@ -28823,7 +28889,7 @@
     "name":"UTNH",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"436.850",
     "beacon":null,
     "mode":null,
     "callsign":null,
