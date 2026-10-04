@@ -84488,7 +84488,7 @@
     "name":"NIS-PQ",
     "names":"QUBIK-5",
     "image":"",
-    "status":"future",
+    "status":"in orbit",
     "decayed":null,
     "launched":"2026-10-01T18:32:00Z",
     "deployed":null,
@@ -84498,8 +84498,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-10-03T14:01:57.710380Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/eg04ajqcp7bpcc",
+    "updated":"2026-10-03T19:54:53.731195Z",
+    "citation":"admin request for change",
     "is_frequency_violator":false,
     "associated_satellites":[
 

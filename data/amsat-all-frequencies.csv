@@ -688,6 +688,8 @@ EDGECUBE,45124,,437.465,,1k2 FSK,,re-entered,
 EDSN 1-8,,,2401.200-2431.200,437.100,1k2 AFSK,,failure,
 EduSat-1,42824,,437.375,437.372,1k2AFSK 9k6GMSK CW,JG6YJR,re-entered,
 EduSat-1,,,468.500,,,,failure,
+EduSat-2,,,,,,,unknown,
+EduSat-3,,,,,,,unknown,
 EGG,41934,,437.200,,1k2 AFSK,,re-entered,EAAO-8745-7217-6703-0963
 Egycubesat-1,44792,,437.970,437.970,CW,,inactive,
 Egycubesat-2,44718,,437.974,437.974,CW,,unknown,
