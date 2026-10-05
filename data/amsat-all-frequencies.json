@@ -7947,7 +7947,7 @@
     "uplink":null,
     "downlink":"435.900",
     "beacon":null,
-    "mode":"600-19k2 GFSK GMSK BPSK",
+    "mode":"9k6 GMSK",
     "callsign":"DP0PQA",
     "status":"unknown",
     "satnogs_id":null
@@ -7958,7 +7958,7 @@
     "uplink":null,
     "downlink":"145.920",
     "beacon":null,
-    "mode":"600-19k2 GFSK GMSK BPSK",
+    "mode":"9k6 GMSK",
     "callsign":"DP0PQB",
     "status":"unknown",
     "satnogs_id":null
@@ -7969,7 +7969,7 @@
     "uplink":null,
     "downlink":"145.960",
     "beacon":null,
-    "mode":"600-19k2 GFSK GMSK BPSK",
+    "mode":"9k6 GMSK",
     "callsign":"DP0PQC",
     "status":"unknown",
     "satnogs_id":null
@@ -19200,13 +19200,13 @@
     "uplink":null,
     "downlink":"401.025",
     "beacon":null,
-    "mode":"4k8_FSK",
+    "mode":"4k8_GMSK",
     "callsign":null,
     "status":"active",
     "satnogs_id":"XEOD-9474-3581-0595-2203"
   },
   {
-    "name":"OTTER",
+    "name":"OTTER-24C",
     "norad_id":null,
     "uplink":null,
     "downlink":"400.500",
@@ -21233,7 +21233,7 @@
     "name":"Qubik-5",
     "norad_id":null,
     "uplink":null,
-    "downlink":"453.240",
+    "downlink":"435.240",
     "beacon":null,
     "mode":null,
     "callsign":null,
@@ -28886,7 +28886,7 @@
     "satnogs_id":"ESPB-1611-5692-0685-8383"
   },
   {
-    "name":"UTNH",
+    "name":"UTNH-Sat",
     "norad_id":null,
     "uplink":null,
     "downlink":"436.850",
