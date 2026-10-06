@@ -2453,6 +2453,17 @@
     "satnogs_id":"NRSJ-0186-1878-6327-0190"
   },
   {
+    "name":"BEECON-A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.025",
+    "beacon":null,
+    "mode":"50k GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"BEESAT-1",
     "norad_id":"35933",
     "uplink":null,
@@ -10754,7 +10765,7 @@
     "beacon":"436.888",
     "mode":"200\/800 FSK FM CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -10776,7 +10787,7 @@
     "beacon":null,
     "mode":"800 FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -14701,7 +14712,7 @@
     "uplink":null,
     "downlink":"437.080",
     "beacon":null,
-    "mode":"9k6 GFSK",
+    "mode":"1k2 GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -19503,12 +19514,12 @@
     "satnogs_id":null
   },
   {
-    "name":"OSSIE",
+    "name":"OSSIE-D",
     "norad_id":null,
     "uplink":null,
     "downlink":"401.525\/2275.000",
     "beacon":null,
-    "mode":null,
+    "mode":"50k GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -20997,6 +21008,17 @@
     "callsign":"JQ1YCX",
     "status":"re-entered",
     "satnogs_id":"VAJK-7711-8203-8371-3078"
+  },
+  {
+    "name":"PRISM-A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.025",
+    "beacon":null,
+    "mode":"50k GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Proci-2",
@@ -25861,17 +25883,6 @@
     "satnogs_id":null
   },
   {
-    "name":"Star Catcher Protostar",
-    "norad_id":null,
-    "uplink":null,
-    "downlink":"400.500",
-    "beacon":null,
-    "mode":"9k6 GFSK",
-    "callsign":null,
-    "status":"unknown",
-    "satnogs_id":null
-  },
-  {
     "name":"Star-Vibe",
     "norad_id":"55009",
     "uplink":null,
@@ -29146,7 +29157,7 @@
     "beacon":"436.888",
     "mode":"200\/800 FSK FM CW",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

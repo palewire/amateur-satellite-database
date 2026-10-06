@@ -1480,6 +1480,26 @@
     "satnogs_id":"CAOL-2416-3135-3240-8425"
   },
   {
+    "name":"HADES-E2",
+    "norad_id":null,
+    "uplink":"145.925",
+    "downlink":"436.888",
+    "beacon":"436.888",
+    "mode":"200\/800 FSK FM CW",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"HADES-L",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.665",
+    "beacon":null,
+    "mode":"800 FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"HADES-SA",
     "norad_id":"68446",
     "uplink":"145.875",
@@ -3728,6 +3748,16 @@
     "mode":"9k6 GFSK",
     "callsign":"II0US",
     "satnogs_id":"QKBK-9080-1354-2848-1016"
+  },
+  {
+    "name":"UNNE-1B",
+    "norad_id":null,
+    "uplink":"145.925",
+    "downlink":"436.888",
+    "beacon":"436.888",
+    "mode":"200\/800 FSK FM CW",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"UTMN-2",

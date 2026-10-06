@@ -23933,10 +23933,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -39996,8 +39996,8 @@
     "name":"Astrocast-0201",
     "names":"2021-059CD",
     "image":"",
-    "status":"in orbit",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-02-13T00:00:00Z",
     "launched":"2021-06-30T00:00:00Z",
     "deployed":"2021-06-30T00:00:00Z",
     "website":"",
@@ -40006,8 +40006,8 @@
     "telemetries":[
 
     ],
-    "updated":"2023-05-15T17:35:15.286435Z",
-    "citation":"https:\/\/docs.google.com\/document\/d\/1S5u8WhQZWeIc-fx4pibxXTx35J8d0U6xXgHTO1YDno8\/edit?usp=sharing",
+    "updated":"2026-10-06T17:40:55.350703Z",
+    "citation":"space-track.org",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -40209,8 +40209,8 @@
     "name":"SNIPE C",
     "names":"KASI-SAT C, SNIPE 3",
     "image":"satellites\/SNIPE_VdScGIb.jpg",
-    "status":"in orbit",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-09-24T00:00:00Z",
     "launched":"2023-05-25T09:24:00Z",
     "deployed":"2023-05-25T09:38:23Z",
     "website":"http:\/\/kswrc.kasi.re.kr\/snipe\/main.php",
@@ -40219,8 +40219,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-11-20T15:02:15.289666Z",
-    "citation":"https:\/\/orbit.ing-now.com\/satellite-tle\/2023-072C\/",
+    "updated":"2026-10-06T17:41:47.296518Z",
+    "citation":"https:\/\/celestrak.org\/satcat\/table-satcat.php?CATNR=56746",
     "is_frequency_violator":true,
     "associated_satellites":[
 
@@ -83960,7 +83960,7 @@
     ],
     "updated":"2026-10-04T07:02:26.923150Z",
     "citation":"Add temporary NORAD ID",
-    "is_frequency_violator":true,
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ],
@@ -85149,19 +85149,19 @@
     "norad_follow_id":null,
     "name":"BEECON-A",
     "names":"SOLAR SENTRY",
-    "image":"",
+    "image":"satellites\/BEECON_assembly.jpg",
     "status":"in orbit",
     "decayed":null,
     "launched":"2026-10-01T18:32:00Z",
     "deployed":null,
-    "website":"",
-    "operator":"TU Berlin",
+    "website":"https:\/\/etherealspace.com\/",
+    "operator":"None",
     "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2026-10-05T16:21:06.926622Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-10-06T16:41:15.080650Z",
+    "citation":"BEECON in the clean room",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -85179,19 +85179,19 @@
     "norad_follow_id":null,
     "name":"PRISM-A",
     "names":"",
-    "image":"",
+    "image":"satellites\/PRISM-A_during_integration.jpg",
     "status":"in orbit",
     "decayed":null,
     "launched":"2026-10-01T18:32:00Z",
     "deployed":null,
-    "website":"",
+    "website":"https:\/\/etherealspace.com\/",
     "operator":"None",
-    "countries":"",
+    "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2026-10-05T16:27:38.164717Z",
-    "citation":"https:\/\/community.libre.space\/t\/transporter-18-rideshare-vsfb-slc-4e-2026-10-01-18-32-utc\/14924\/182",
+    "updated":"2026-10-06T16:41:05.880930Z",
+    "citation":"PRISM-A in the clean room",
     "is_frequency_violator":false,
     "associated_satellites":[
 
