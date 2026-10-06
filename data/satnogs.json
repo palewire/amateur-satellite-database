@@ -84366,19 +84366,19 @@
     "norad_cat_id":98232.0,
     "norad_follow_id":null,
     "name":"Baby Bird",
-    "names":"BABYBIRD",
-    "image":"",
+    "names":"BABY BIRD",
+    "image":"satellites\/Baby_Bird.jpg",
     "status":"in orbit",
     "decayed":null,
     "launched":"2026-10-01T18:32:00Z",
-    "deployed":null,
-    "website":"",
+    "deployed":"2026-10-01T19:27:55Z",
+    "website":"https:\/\/blackwingspace.com\/",
     "operator":"None",
-    "countries":"",
+    "countries":"US",
     "telemetries":[
 
     ],
-    "updated":"2026-10-01T20:54:37.423497Z",
+    "updated":"2026-10-05T10:23:51.374938Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -84706,7 +84706,9 @@
     "operator":"None",
     "countries":"KZ",
     "telemetries":[
-
+      {
+        "decoder":"yamcs"
+      }
     ],
     "updated":"2026-10-03T19:54:53.731195Z",
     "citation":"admin request for change",
@@ -85130,6 +85132,66 @@
     ],
     "updated":"2026-10-04T07:20:50.797575Z",
     "citation":"https:\/\/community.libre.space\/t\/transporter-18-rideshare-vsfb-slc-4e-2026-10-01-18-32-utc\/14924\/9",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"QCIJ-2354-2472-1355-2081",
+    "norad_cat_id":98200.0,
+    "norad_follow_id":null,
+    "name":"BEECON-A",
+    "names":"SOLAR SENTRY",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"TU Berlin",
+    "countries":"DE",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-05T16:21:06.926622Z",
+    "citation":"Add temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"AHWY-9934-7340-1780-8533",
+    "norad_cat_id":98199.0,
+    "norad_follow_id":null,
+    "name":"PRISM-A",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-05T16:27:38.164717Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-18-rideshare-vsfb-slc-4e-2026-10-01-18-32-utc\/14924\/182",
     "is_frequency_violator":false,
     "associated_satellites":[
 

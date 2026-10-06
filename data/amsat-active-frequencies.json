@@ -1020,6 +1020,16 @@
     "satnogs_id":null
   },
   {
+    "name":"ERMINAZ-2U",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.900",
+    "beacon":"435.900",
+    "mode":"9k6 GMSK CW*",
+    "callsign":"DP0PQA",
+    "satnogs_id":null
+  },
+  {
     "name":"ERMIS-1",
     "norad_id":"68468",
     "uplink":null,
