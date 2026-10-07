@@ -23656,10 +23656,10 @@
     "countries":"",
     "telemetries":[
       {
-        "decoder":"gaspacs"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gaspacs"
       }
     ],
     "updated":"2022-06-27T16:36:59.869161Z",
@@ -23933,10 +23933,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -83646,19 +83646,21 @@
     "name":"GBSAT",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"in orbit",
     "decayed":null,
-    "launched":"2026-10-07T00:00:00Z",
-    "deployed":"2026-10-07T00:00:00Z",
+    "launched":"2026-10-07T03:25:00Z",
+    "deployed":null,
     "website":"",
     "operator":"None",
     "countries":"KR",
     "telemetries":[
-
+      {
+        "decoder":"gbsat"
+      }
     ],
-    "updated":"2026-09-02T13:50:45.370894Z",
-    "citation":"Add temporary NORAD ID",
-    "is_frequency_violator":false,
+    "updated":"2026-10-07T04:06:40.647330Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ],
@@ -83706,10 +83708,10 @@
     "name":"SLEDGE",
     "names":"",
     "image":"satellites\/SLEDGE_1.png",
-    "status":"future",
+    "status":"in orbit",
     "decayed":null,
-    "launched":"2026-10-07T00:00:00Z",
-    "deployed":"2026-10-07T00:00:00Z",
+    "launched":"2026-10-07T03:25:00Z",
+    "deployed":null,
     "website":"https:\/\/onbspace.com",
     "operator":"None",
     "countries":"KR",
@@ -83718,8 +83720,8 @@
         "decoder":"sledge"
       }
     ],
-    "updated":"2026-09-10T11:00:50.259010Z",
-    "citation":"I am the operator of this satellite",
+    "updated":"2026-10-07T04:06:40.687509Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -85144,6 +85146,36 @@
     }
   },
   {
+    "sat_id":"FMVB-7072-2528-1720-4046",
+    "norad_cat_id":98196.0,
+    "norad_follow_id":null,
+    "name":"SD-1_SAT",
+    "names":"",
+    "image":"satellites\/SD1_Logo.png",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-07T03:25:00Z",
+    "deployed":null,
+    "website":"https:\/\/hyvrid.yonsei.ac.kr\/",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-07T04:06:40.797576Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
     "sat_id":"QCIJ-2354-2472-1355-2081",
     "norad_cat_id":98200.0,
     "norad_follow_id":null,
@@ -85192,6 +85224,126 @@
     ],
     "updated":"2026-10-06T16:41:05.880930Z",
     "citation":"PRISM-A in the clean room",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"AMZY-1477-5767-9442-4222",
+    "norad_cat_id":98194.0,
+    "norad_follow_id":null,
+    "name":"CPSAT",
+    "names":"CPSAT1",
+    "image":"satellites\/cpsat_satellite.jpg",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-07T03:25:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-07T04:06:40.836562Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"IWEU-2763-6341-8444-5242",
+    "norad_cat_id":98197.0,
+    "norad_follow_id":null,
+    "name":"BEE-1012",
+    "names":"",
+    "image":"satellites\/BEE1012_SATNogs.png",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-07T03:25:00Z",
+    "deployed":null,
+    "website":"https:\/\/hyvrid.yonsei.ac.kr",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-07T04:06:40.761560Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"QTPA-4263-2736-0029-1519",
+    "norad_cat_id":98198.0,
+    "norad_follow_id":null,
+    "name":"UEL-Y-Sys",
+    "names":"",
+    "image":"satellites\/\ub204\ub9ac\ud6385\ucc28_\uc728\ub9ac\uc2dc\uc2a4_\ubbf8\uc158\ud328\uce58\ucd5c\uc885_\uc774\ubbf8\uc9c0_\ud30c\uc77c_1.png",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-07T03:25:00Z",
+    "deployed":null,
+    "website":"https:\/\/hyvrid.yonsei.ac.kr\/",
+    "operator":"None",
+    "countries":"KR",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-07T04:06:40.610950Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0",
+    "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"MMTC-5981-6631-5895-6501",
+    "norad_cat_id":98195.0,
+    "norad_follow_id":null,
+    "name":"DaejeonSat-1",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-07T03:25:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-07T04:06:40.725600Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -2618,6 +2618,17 @@
     "satnogs_id":null
   },
   {
+    "name":"BEE-1012",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500\/2403.500",
+    "beacon":null,
+    "mode":"4k8_FSK 2000k_QPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"BELIEFSAT-1",
     "norad_id":null,
     "uplink":"435.825",
@@ -5625,10 +5636,10 @@
     "norad_id":null,
     "uplink":"145.835",
     "downlink":"437.265",
-    "beacon":null,
-    "mode":"1k2\/2k4\/4k8_BPSK",
+    "beacon":"437.265",
+    "mode":"1k2\/2k4\/4k8_BPSK CW",
     "callsign":null,
-    "status":"to be launched",
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -6639,6 +6650,17 @@
     "downlink":"437.080\/2432.000",
     "beacon":null,
     "mode":"1k2AFSK 9k6GMSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"DaejeonSat-1",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"2245.800",
+    "beacon":null,
+    "mode":null,
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -9892,9 +9914,9 @@
     "name":"GBSAT",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"435.950",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6_GFSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -14301,6 +14323,17 @@
   },
   {
     "name":"Jack-006",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"JACK-007",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -20009,7 +20042,7 @@
     "satnogs_id":null
   },
   {
-    "name":"PERSAT-01",
+    "name":"Persat-01",
     "norad_id":"66656",
     "uplink":null,
     "downlink":"437.125",
@@ -20017,6 +20050,17 @@
     "mode":"FM",
     "callsign":null,
     "status":"inactive",
+    "satnogs_id":null
+  },
+  {
+    "name":"Persat-02",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
     "satnogs_id":null
   },
   {
@@ -23450,6 +23494,17 @@
     "callsign":null,
     "status":"unknown",
     "satnogs_id":"UUIC-2721-5016-2935-6643"
+  },
+  {
+    "name":"SD-1_Sat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":"4k8_FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"SeaLion",
@@ -28587,6 +28642,17 @@
     "callsign":"ON03GB",
     "status":"inactive",
     "satnogs_id":"JLKC-1650-3566-2142-6611"
+  },
+  {
+    "name":"UEL-Y-Sys",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500\/2403.500",
+    "beacon":null,
+    "mode":"4k8_FSK 2000k_QPSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"Uguisu",
