@@ -82592,7 +82592,7 @@
   {
     "sat_id":"QYDP-8943-6593-0386-9661",
     "norad_cat_id":98287.0,
-    "norad_follow_id":69921.0,
+    "norad_follow_id":69913.0,
     "name":"IPoS-TDsM",
     "names":"WQ2XKO",
     "image":"satellites\/apolink.jpg",
@@ -82606,7 +82606,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-10-03T03:49:04.684252Z",
+    "updated":"2026-10-08T00:08:39.080517Z",
     "citation":"Satellite Team",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -83889,7 +83889,7 @@
     "norad_follow_id":null,
     "name":"ERMINAZ-2V",
     "names":"DP0PQB",
-    "image":"",
+    "image":"satellites\/ERMINAZ-2UVX_QSfnwWl.jpg",
     "status":"in orbit",
     "decayed":null,
     "launched":"2026-10-01T18:32:00Z",
@@ -83900,8 +83900,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-10-04T07:40:42.708647Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "updated":"2026-10-07T18:54:45.120640Z",
+    "citation":"https:\/\/amsat-dl.org\/erminaz\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -83919,7 +83919,7 @@
     "norad_follow_id":null,
     "name":"ERMINAZ-2X",
     "names":"DP0PQC",
-    "image":"",
+    "image":"satellites\/ERMINAZ-2UVX_9f8FZ58.jpg",
     "status":"in orbit",
     "decayed":null,
     "launched":"2026-10-01T18:32:00Z",
@@ -83930,8 +83930,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-10-04T07:40:42.736587Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "updated":"2026-10-07T18:54:39.195903Z",
+    "citation":"https:\/\/amsat-dl.org\/erminaz\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -85026,6 +85026,36 @@
     }
   },
   {
+    "sat_id":"KHHV-1921-7769-5036-6297",
+    "norad_cat_id":69931.0,
+    "norad_follow_id":null,
+    "name":"GRITTS",
+    "names":"2026-156BQ",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-07-07T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"NL",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-07T18:55:01.120595Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1_kmRIslS2dAllIKz0V3n2VFLWDMxlmWNPGfM2vOtm9w\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Verified",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
     "sat_id":"KPJP-2422-8913-1094-0450",
     "norad_cat_id":98204.0,
     "norad_follow_id":null,
@@ -85345,6 +85375,36 @@
     "updated":"2026-10-07T04:06:40.725600Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0",
     "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"BFEA-6446-3541-2879-0397",
+    "norad_cat_id":98193.0,
+    "norad_follow_id":null,
+    "name":"JACK-007",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-07T03:25:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-07T18:37:34.248841Z",
+    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0 and https:\/\/community.libre.space\/t\/kslv-2-launch-planned-2026-10-07-03-25-utc\/15296\/84",
+    "is_frequency_violator":true,
     "associated_satellites":[
 
     ],
