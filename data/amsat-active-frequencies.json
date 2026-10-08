@@ -761,7 +761,7 @@
   },
   {
     "name":"CRIMSON-1",
-    "norad_id":null,
+    "norad_id":"A0892",
     "uplink":null,
     "downlink":"437.125\/2217.000",
     "beacon":null,
@@ -1491,7 +1491,7 @@
   },
   {
     "name":"HADES-L",
-    "norad_id":null,
+    "norad_id":"A0909",
     "uplink":null,
     "downlink":"436.665",
     "beacon":null,
@@ -3421,7 +3421,7 @@
   },
   {
     "name":"SPRITE",
-    "norad_id":null,
+    "norad_id":"A0954",
     "uplink":null,
     "downlink":"437.325\/2402.000",
     "beacon":null,
