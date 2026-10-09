@@ -23933,10 +23933,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -85405,6 +85405,36 @@
     "updated":"2026-10-07T18:37:34.248841Z",
     "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0 and https:\/\/community.libre.space\/t\/kslv-2-launch-planned-2026-10-07-03-25-utc\/15296\/84",
     "is_frequency_violator":true,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"ITIN-8610-5346-1248-4770",
+    "norad_cat_id":67283.0,
+    "norad_follow_id":null,
+    "name":"Khors 5",
+    "names":"Hors 5, OBJECT AM",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2025-12-28T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"RU",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-08T18:32:56.021911Z",
+    "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/khors-1.htm",
+    "is_frequency_violator":false,
     "associated_satellites":[
 
     ],
