@@ -250,6 +250,16 @@
     "satnogs_id":null
   },
   {
+    "name":"BEE-1012",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500\/2403.500",
+    "beacon":null,
+    "mode":"4k8_FSK 2000k_QPSK",
+    "callsign":"BEE1012",
+    "satnogs_id":null
+  },
+  {
     "name":"BIRDS-X",
     "norad_id":"65729",
     "uplink":"145.825\/435.375",
@@ -747,6 +757,16 @@
     "beacon":"145.875*",
     "mode":"1k2_AFSK 10k17_FSK CW*",
     "callsign":"VA7UVS",
+    "satnogs_id":null
+  },
+  {
+    "name":"CPSAT",
+    "norad_id":null,
+    "uplink":"145.835",
+    "downlink":"437.265",
+    "beacon":"437.265",
+    "mode":"1k2\/2k4\/4k8_BPSK CW",
+    "callsign":"CPSAT1",
     "satnogs_id":null
   },
   {
@@ -1340,6 +1360,16 @@
     "satnogs_id":"XHOE-9718-5112-5196-7058"
   },
   {
+    "name":"GBSAT",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"435.950",
+    "beacon":null,
+    "mode":"9k6_GFSK",
+    "callsign":"GBSAT0",
+    "satnogs_id":null
+  },
+  {
     "name":"Gemini-Pollux",
     "norad_id":"69000",
     "uplink":"145.900",
@@ -1877,6 +1907,16 @@
     "beacon":null,
     "mode":"9k6 GFSK",
     "callsign":"DS35",
+    "satnogs_id":null
+  },
+  {
+    "name":"JACK-007",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.300",
+    "beacon":null,
+    "mode":"9k6 GFSK",
+    "callsign":"JACK7",
     "satnogs_id":null
   },
   {
@@ -2800,6 +2840,16 @@
     "satnogs_id":null
   },
   {
+    "name":"SD-1_Sat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500",
+    "beacon":null,
+    "mode":"4k8_FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"SEEDS-II",
     "norad_id":"32791",
     "uplink":null,
@@ -3290,6 +3340,16 @@
     "satnogs_id":null
   },
   {
+    "name":"SLEDGE",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.775",
+    "beacon":null,
+    "mode":"19k2_GFSK",
+    "callsign":"ESGS01",
+    "satnogs_id":null
+  },
+  {
     "name":"SMOG-P",
     "norad_id":"44832",
     "uplink":null,
@@ -3708,6 +3768,16 @@
     "mode":"9k6_GFSK",
     "callsign":"TRON 2",
     "satnogs_id":"ZVLY-3305-1364-3664-7659"
+  },
+  {
+    "name":"UEL-Y-Sys",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"436.500\/2403.500",
+    "beacon":null,
+    "mode":"4k8_FSK 2000k_QPSK",
+    "callsign":null,
+    "satnogs_id":null
   },
   {
     "name":"UmKA-1",

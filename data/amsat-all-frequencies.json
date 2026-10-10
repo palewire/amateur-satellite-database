@@ -2624,8 +2624,8 @@
     "downlink":"436.500\/2403.500",
     "beacon":null,
     "mode":"4k8_FSK 2000k_QPSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"BEE1012",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -5638,8 +5638,8 @@
     "downlink":"437.265",
     "beacon":"437.265",
     "mode":"1k2\/2k4\/4k8_BPSK CW",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"CPSAT1",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9917,8 +9917,8 @@
     "downlink":"435.950",
     "beacon":null,
     "mode":"9k6_GFSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"GBSAT0",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -14336,11 +14336,11 @@
     "name":"JACK-007",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"436.300",
     "beacon":null,
-    "mode":null,
-    "callsign":null,
-    "status":"unknown",
+    "mode":"9k6 GFSK",
+    "callsign":"JACK7",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -23503,7 +23503,7 @@
     "beacon":null,
     "mode":"4k8_FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -24778,8 +24778,8 @@
     "downlink":"401.775",
     "beacon":null,
     "mode":"19k2_GFSK",
-    "callsign":null,
-    "status":"to be launched",
+    "callsign":"ESGS01",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -28651,7 +28651,7 @@
     "beacon":null,
     "mode":"4k8_FSK 2000k_QPSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
