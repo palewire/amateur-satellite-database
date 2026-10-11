@@ -761,7 +761,7 @@
   },
   {
     "name":"CPSAT",
-    "norad_id":null,
+    "norad_id":"A0956",
     "uplink":"145.835",
     "downlink":"437.265",
     "beacon":"437.265",
@@ -1041,7 +1041,7 @@
   },
   {
     "name":"ERMINAZ-2U",
-    "norad_id":null,
+    "norad_id":"A0928",
     "uplink":null,
     "downlink":"435.900",
     "beacon":"435.900",
@@ -1361,7 +1361,7 @@
   },
   {
     "name":"GBSAT",
-    "norad_id":null,
+    "norad_id":"A0957",
     "uplink":null,
     "downlink":"435.950",
     "beacon":null,
