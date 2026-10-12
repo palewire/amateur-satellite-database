@@ -78754,7 +78754,9 @@
     "operator":"None",
     "countries":"GR",
     "telemetries":[
-
+      {
+        "decoder":"optisat"
+      }
     ],
     "updated":"2026-04-16T15:48:45.313163Z",
     "citation":"Network observations and ikhnos analysis",
@@ -83868,7 +83870,9 @@
     "operator":"None",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"erminaz2"
+      }
     ],
     "updated":"2026-10-04T07:40:42.680439Z",
     "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
@@ -83898,7 +83902,9 @@
     "operator":"None",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"erminaz2"
+      }
     ],
     "updated":"2026-10-07T18:54:45.120640Z",
     "citation":"https:\/\/amsat-dl.org\/erminaz\/",
@@ -83928,7 +83934,9 @@
     "operator":"None",
     "countries":"DE",
     "telemetries":[
-
+      {
+        "decoder":"erminaz2"
+      }
     ],
     "updated":"2026-10-07T18:54:39.195903Z",
     "citation":"https:\/\/amsat-dl.org\/erminaz\/",
@@ -85280,10 +85288,12 @@
     "operator":"None",
     "countries":"KR",
     "telemetries":[
-
+      {
+        "decoder":"cpsat"
+      }
     ],
-    "updated":"2026-10-07T04:06:40.836562Z",
-    "citation":"https:\/\/forum.nasaspaceflight.com\/index.php?topic=65471.0",
+    "updated":"2026-10-12T05:56:52.738587Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/fg0z7gw81gxs0c",
     "is_frequency_violator":false,
     "associated_satellites":[
 
