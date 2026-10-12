@@ -10781,7 +10781,7 @@
   },
   {
     "name":"HADES-E2",
-    "norad_id":null,
+    "norad_id":"A0948",
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
@@ -10803,7 +10803,7 @@
   },
   {
     "name":"HADES-L",
-    "norad_id":"A0909",
+    "norad_id":"A0938",
     "uplink":null,
     "downlink":"436.665",
     "beacon":null,
@@ -29217,7 +29217,7 @@
   },
   {
     "name":"UNNE-1B",
-    "norad_id":null,
+    "norad_id":"A0948",
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
