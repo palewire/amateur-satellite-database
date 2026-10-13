@@ -1515,7 +1515,7 @@
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"200\/800 FSK FM CW",
+    "mode":"200*\/800 FSK FM CW",
     "callsign":null,
     "satnogs_id":null
   },
@@ -3825,7 +3825,7 @@
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
-    "mode":"200\/800 FSK FM CW",
+    "mode":"200*\/800 FSK FM CW",
     "callsign":null,
     "satnogs_id":null
   },
