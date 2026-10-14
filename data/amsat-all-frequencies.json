@@ -737,6 +737,17 @@
     "satnogs_id":"IWJW-7383-4186-3264-0647"
   },
   {
+    "name":"ALSAT-3A",
+    "norad_id":"67474",
+    "uplink":null,
+    "downlink":"2250.720",
+    "beacon":null,
+    "mode":"400k",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Altair",
     "norad_id":"61779",
     "uplink":null,
@@ -1804,12 +1815,23 @@
     "satnogs_id":null
   },
   {
+    "name":"ARVAKER-1",
+    "norad_id":"63252",
+    "uplink":null,
+    "downlink":"2245.000",
+    "beacon":null,
+    "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":"GGXJ-9238-8176-9137-9636"
+  },
+  {
     "name":"ARVAKER-2",
     "norad_id":"64567",
     "uplink":null,
     "downlink":"2228.500",
     "beacon":null,
-    "mode":"FM",
+    "mode":"1000k",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -18320,7 +18342,7 @@
     "uplink":null,
     "downlink":"435.240",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6 FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -21653,7 +21675,7 @@
     "uplink":null,
     "downlink":"435.240",
     "beacon":null,
-    "mode":null,
+    "mode":"9k6 FSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -23502,7 +23524,7 @@
     "downlink":"436.500",
     "beacon":null,
     "mode":"4k8_FSK",
-    "callsign":null,
+    "callsign":"SD1",
     "status":"active",
     "satnogs_id":null
   },

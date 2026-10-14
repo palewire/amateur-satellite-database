@@ -23933,10 +23933,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       },
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -65863,8 +65863,8 @@
     "name":"SDX01",
     "names":"",
     "image":"",
-    "status":"in orbit",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-10-12T00:00:00Z",
     "launched":null,
     "deployed":null,
     "website":"https:\/\/www.isro.gov.in\/mission_SpaDeX.html",
@@ -65873,8 +65873,8 @@
     "telemetries":[
 
     ],
-    "updated":"2025-02-02T12:34:39.549390Z",
-    "citation":"STRF Observation",
+    "updated":"2026-10-14T10:48:32.296414Z",
+    "citation":"https:\/\/www.n2yo.com\/satellite\/?s=62459",
     "is_frequency_violator":false,
     "associated_satellites":[
 
