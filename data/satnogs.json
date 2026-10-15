@@ -23933,10 +23933,10 @@
     "countries":"US",
     "telemetries":[
       {
-        "decoder":"gt1"
+        "decoder":"ax25monitor"
       },
       {
-        "decoder":"ax25monitor"
+        "decoder":"gt1"
       }
     ],
     "updated":"2022-09-19T16:31:25.837583Z",
@@ -85444,6 +85444,216 @@
     ],
     "updated":"2026-10-08T18:32:56.021911Z",
     "citation":"https:\/\/space.skyrocket.de\/doc_sdat\/khors-1.htm",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"GKMO-3923-4583-0146-4428",
+    "norad_cat_id":67474.0,
+    "norad_follow_id":null,
+    "name":"ALSAT 3A",
+    "names":"2026-009A",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-01-15T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"DZ",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-15T05:38:02.518064Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1qf-wSe5f75Twn-txrWaPo5KoyuQvuRJg2Un9-BfeWKk\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"VSVD-9788-3797-0897-1030",
+    "norad_cat_id":64567.0,
+    "norad_follow_id":null,
+    "name":"ARVAKER-2",
+    "names":"2025-135AR",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2025-06-23T00:00:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"NO",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-15T05:38:26.174801Z",
+    "citation":"https:\/\/docs.google.com\/document\/d\/1jHdyls6_uk10o3cgfcesl3iygOzd94KROZowSdora2M\/edit?usp=sharing",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"LMGA-5606-0783-6252-6235",
+    "norad_cat_id":98188.0,
+    "norad_follow_id":null,
+    "name":"MOI-1A",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-15T13:32:59.957892Z",
+    "citation":"Change temporary NORAD ID",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"LEZH-4499-2843-2430-2631",
+    "norad_cat_id":98192.0,
+    "norad_follow_id":null,
+    "name":"OSIRIS-C",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-15T05:45:44.449341Z",
+    "citation":"https:\/\/dorbit.space\/mission-updates\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"IBYZ-9243-9869-1455-7981",
+    "norad_cat_id":98191.0,
+    "norad_follow_id":null,
+    "name":"OSIRIS-D",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-15T05:45:44.434242Z",
+    "citation":"https:\/\/dorbit.space\/mission-updates\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"POZK-5695-9149-2308-1691",
+    "norad_cat_id":98190.0,
+    "norad_follow_id":null,
+    "name":"OSIRIS-E",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-15T05:45:44.418464Z",
+    "citation":"https:\/\/dorbit.space\/mission-updates\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"FVKH-2787-7867-2386-5036",
+    "norad_cat_id":98189.0,
+    "norad_follow_id":null,
+    "name":"OSIRIS-F",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":"2026-10-01T18:32:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-15T05:45:44.400353Z",
+    "citation":"https:\/\/dorbit.space\/mission-updates\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 

@@ -745,7 +745,7 @@
     "mode":"400k",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"GKMO-3923-4583-0146-4428"
   },
   {
     "name":"Altair",
@@ -1834,7 +1834,7 @@
     "mode":"1000k",
     "callsign":null,
     "status":"unknown",
-    "satnogs_id":null
+    "satnogs_id":"VSVD-9788-3797-0897-1030"
   },
   {
     "name":"ARVAKER-3",
