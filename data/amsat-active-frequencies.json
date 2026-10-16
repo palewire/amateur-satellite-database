@@ -251,7 +251,7 @@
   },
   {
     "name":"BEE-1012",
-    "norad_id":null,
+    "norad_id":"A0960",
     "uplink":null,
     "downlink":"436.500\/2403.500",
     "beacon":null,
@@ -2470,6 +2470,16 @@
     "satnogs_id":"BGSA-1802-1526-4835-1410"
   },
   {
+    "name":"NIS-PQ",
+    "norad_id":"A0897",
+    "uplink":null,
+    "downlink":"435.240",
+    "beacon":null,
+    "mode":"9k6 FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"Norby-2",
     "norad_id":"57179",
     "uplink":null,
@@ -2700,6 +2710,16 @@
     "satnogs_id":"ZYDE-4447-8719-9309-2022"
   },
   {
+    "name":"Qubik-5",
+    "norad_id":"A0897",
+    "uplink":null,
+    "downlink":"435.240",
+    "beacon":null,
+    "mode":"9k6 FSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"RadFxSat",
     "norad_id":"43017",
     "uplink":"435.250",
@@ -2841,7 +2861,7 @@
   },
   {
     "name":"SD-1_Sat",
-    "norad_id":null,
+    "norad_id":"A0965",
     "uplink":null,
     "downlink":"436.500",
     "beacon":null,
@@ -3771,7 +3791,7 @@
   },
   {
     "name":"UEL-Y-Sys",
-    "norad_id":null,
+    "norad_id":"A0959",
     "uplink":null,
     "downlink":"436.500\/2403.500",
     "beacon":null,

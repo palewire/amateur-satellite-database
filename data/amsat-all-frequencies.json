@@ -2641,7 +2641,7 @@
   },
   {
     "name":"BEE-1012",
-    "norad_id":null,
+    "norad_id":"A0960",
     "uplink":null,
     "downlink":"436.500\/2403.500",
     "beacon":null,
@@ -18355,7 +18355,7 @@
     "beacon":null,
     "mode":"9k6 FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -19580,12 +19580,12 @@
     "satnogs_id":null
   },
   {
-    "name":"OSIRIS-C~F",
+    "name":"OSIRIS-E",
     "norad_id":null,
     "uplink":null,
-    "downlink":null,
+    "downlink":"401.025",
     "beacon":null,
-    "mode":null,
+    "mode":"50k GMSK",
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -21699,7 +21699,7 @@
     "beacon":null,
     "mode":"9k6 FSK",
     "callsign":null,
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -23541,7 +23541,7 @@
   },
   {
     "name":"SD-1_Sat",
-    "norad_id":null,
+    "norad_id":"A0965",
     "uplink":null,
     "downlink":"436.500",
     "beacon":null,
@@ -28689,7 +28689,7 @@
   },
   {
     "name":"UEL-Y-Sys",
-    "norad_id":null,
+    "norad_id":"A0959",
     "uplink":null,
     "downlink":"436.500\/2403.500",
     "beacon":null,
