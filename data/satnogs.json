@@ -85611,19 +85611,19 @@
     "norad_follow_id":null,
     "name":"OSIRIS-E",
     "names":"",
-    "image":"",
+    "image":"satellites\/Image_7.jfif",
     "status":"in orbit",
     "decayed":null,
     "launched":"2026-10-01T18:32:00Z",
-    "deployed":null,
-    "website":"",
+    "deployed":"2026-10-15T00:00:00Z",
+    "website":"https:\/\/etherealspace.com\/",
     "operator":"None",
-    "countries":"",
+    "countries":"DE",
     "telemetries":[
 
     ],
-    "updated":"2026-10-15T05:45:44.418464Z",
-    "citation":"https:\/\/dorbit.space\/mission-updates\/",
+    "updated":"2026-10-16T02:54:35.480385Z",
+    "citation":"OSIRIS-E in clean room",
     "is_frequency_violator":false,
     "associated_satellites":[
 

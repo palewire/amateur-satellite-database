@@ -2836,5 +2836,5 @@ VSVD-9788-3797-0897-1030,64567.0,,ARVAKER-2,2025-135AR,,in orbit,,2025-06-23T00:
 LMGA-5606-0783-6252-6235,98188.0,,MOI-1A,,,in orbit,,2026-10-01T18:32:00Z,,,None,,[],2026-10-15T13:32:59.957892Z,Change temporary NORAD ID,False,[],Unknown,{'urls': []}
 LEZH-4499-2843-2430-2631,98192.0,,OSIRIS-C,,,in orbit,,2026-10-01T18:32:00Z,,,None,,[],2026-10-15T05:45:44.449341Z,https://dorbit.space/mission-updates/,False,[],Unknown,{'urls': []}
 IBYZ-9243-9869-1455-7981,98191.0,,OSIRIS-D,,,in orbit,,2026-10-01T18:32:00Z,,,None,,[],2026-10-15T05:45:44.434242Z,https://dorbit.space/mission-updates/,False,[],Unknown,{'urls': []}
-POZK-5695-9149-2308-1691,98190.0,,OSIRIS-E,,,in orbit,,2026-10-01T18:32:00Z,,,None,,[],2026-10-15T05:45:44.418464Z,https://dorbit.space/mission-updates/,False,[],Unknown,{'urls': []}
+POZK-5695-9149-2308-1691,98190.0,,OSIRIS-E,,satellites/Image_7.jfif,in orbit,,2026-10-01T18:32:00Z,2026-10-15T00:00:00Z,https://etherealspace.com/,None,DE,[],2026-10-16T02:54:35.480385Z,OSIRIS-E in clean room,False,[],Unknown,{'urls': []}
 FVKH-2787-7867-2386-5036,98189.0,,OSIRIS-F,,,in orbit,,2026-10-01T18:32:00Z,,,None,,[],2026-10-15T05:45:44.400353Z,https://dorbit.space/mission-updates/,False,[],Unknown,{'urls': []}
