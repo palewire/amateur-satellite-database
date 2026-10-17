@@ -83626,7 +83626,9 @@
     "operator":"None",
     "countries":"US",
     "telemetries":[
-
+      {
+        "decoder":"suncet"
+      }
     ],
     "updated":"2026-09-01T21:20:46.622327Z",
     "citation":"Add temporary NORAD ID",
@@ -84556,7 +84558,7 @@
     "norad_cat_id":98226.0,
     "norad_follow_id":null,
     "name":"ION SCV Alluring Alexander",
-    "names":"ION SCV-024(?)",
+    "names":"ION SCV-024",
     "image":"",
     "status":"in orbit",
     "decayed":null,
@@ -84568,8 +84570,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-10-01T20:54:37.094504Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "updated":"2026-10-17T09:15:56.300066Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-18-rideshare-vsfb-slc-4e-2026-10-01-18-32-utc\/14924\/283",
     "is_frequency_violator":false,
     "associated_satellites":[
 
