@@ -822,32 +822,32 @@ FossaSat-1,44829,,436.700,,FSK RTTY 45 baud,,re-entered,MOSP-5595-5214-8491-9029
 FossaSat-1b,,,436.700/436.800,436.800,125k LoRa 9k6GMSK CW,,failure,
 FossaSat-1b2,53956,,436.700/436.800,436.800,125k LoRa 9k6GMSK CW,,re-entered,
 FossaSat-2,,,436.700/436.900,436.900,125k LoRa 9k6GMSK CW,,failure,
-FossaSat-2E1,50985,,401.700,,9k6 GFSK 125k LoRa*,,active,
-FossaSat-2E2,50984,,401.700,,9k6 GFSK 125k LoRa*,,re-entered,
-FossaSat-2E3,50990,,401.700,,9k6 GFSK 125k LoRa*,,active,
-FossaSat-2E4,50987,,401.700,,9k6 GFSK 125k LoRa*,,active,
-FossaSat-2E5,51001,,401.700,,9k6 GFSK 125k LoRa*,,re-entered,
-FossaSat-2E6,50991,,401.700,,9k6 GFSK 125k LoRa*,,re-entered,
-FossaSat-2E7,52778,,401.700,,9k6 GFSK 125k LoRa*,,active,
-FossaSat-2E8,52779,,401.700,,9k6 GFSK 125k LoRa*,,active,
-FossaSat-2E9,,,401.700,,9k6 GFSK 125k LoRa*,,active,
-FossaSat-2E10,,,401.700,,9k6 GFSK 125k LoRa*,,active,
-FossaSat-2E11,52750,,401.700,,9k6 GFSK 125k LoRa*,,re-entered,RQGN-8584-9526-1967-0454
-FossaSat-2E12,52773,,401.700,,9k6 GFSK 125k LoRa*,,re-entered,MYQU-2688-4982-5356-0669
-FossaSat-2E13,52776,,401.700,,9k6 GFSK 125k LoRa*,,active,
+FossaSat-2E1,50985,,401.700,,9k6 GFSK 125k LoRa,,unknown,
+FossaSat-2E2,50984,,401.700,,9k6 GFSK 125k LoRa,,re-entered,
+FossaSat-2E3,50990,,401.700,,9k6 GFSK 125k LoRa,,unknown,
+FossaSat-2E4,50987,,401.700,,9k6 GFSK 125k LoRa,,unknown,
+FossaSat-2E5,51001,,401.700,,9k6 GFSK 125k LoRa,,re-entered,
+FossaSat-2E6,50991,,401.700,,9k6 GFSK 125k LoRa,,re-entered,
+FossaSat-2E7,52778,,401.700,,9k6 GFSK 125k LoRa,,unknown,
+FossaSat-2E8,52779,,401.700,,9k6 GFSK 125k LoRa,,unknown,
+FossaSat-2E9,,,401.700,,9k6 GFSK 125k LoRa,,unknown,
+FossaSat-2E10,,,401.700,,9k6 GFSK 125k LoRa,,unknown,
+FossaSat-2E11,52750,,401.700,,9k6 GFSK 125k LoRa,,re-entered,RQGN-8584-9526-1967-0454
+FossaSat-2E12,52773,,401.700,,9k6 GFSK 125k LoRa,,re-entered,MYQU-2688-4982-5356-0669
+FossaSat-2E13,52776,,401.700,,9k6 GFSK 125k LoRa,,unknown,
 FossaSat-2E14,,,401.700,,LoRa,,re-entered,
 FossaSat-2E15,,,401.700,,LoRa,,re-entered,
 FossaSat-2E16,,,401.700,,LoRa,,re-entered,
 FossaSat-2E17,,,401.700,,LoRa,,re-entered,
-FossaSat-2E18,,,401.700,,LoRa,,unknown,
-FossaSat-2E19,62676,,401.700,,LoRa,,unknown,QUNZ-3626-5921-8463-0434
-FossaSat-2E20,,,401.700,,LoRa,,unknown,
+FossaSat-2E18,62686,,401.700,,LoRa,,active,KRMS-8197-7538-8237-8188
+FossaSat-2E19,62676,,401.700,,LoRa,,active,QUNZ-3626-5921-8463-0434
+FossaSat-2E20,63003,,401.700,,LoRa,,unknown,TVMZ-2332-3454-6429-1922
 FossaSat-2E21,64536,,401.700,,LoRa,,active,RBAW-0155-7922-9410-2702
 FossaSat-2E22,66779,,401.700,,LoRa,,active,
-FossaSat-2E23,,,401.700,,LoRa,,unknown,
+FossaSat-2E23,67483,,401.700,,LoRa,,active,
 FossaSat-2E24,66780,,401.700,,LoRa,,active,
-FossaSat-2E25,,,401.700,,LoRa,,unknown,
-FossaSat-2E26,69899,,401.700,,LoRa,,unknown,
+FossaSat-2E25,68478,,401.700,,LoRa,,active,
+FossaSat-2E26,69899,,401.700,,LoRa,,active,
 FOSSASat-2E27,,,401.700,,LoRa,,unknown,
 FossaSat-FEROX 14~17,,,401.700,,LoRa,,re-entered,
 Fox-1A,40967,435.182,145.980,145.980,FM CTCSS 67.0/200 DUV,,inactive,VQGN-3314-0779-1450-1457
