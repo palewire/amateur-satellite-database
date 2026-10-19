@@ -83560,7 +83560,7 @@
     "image":"satellites\/satellite_T.Microsat-3.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-10-19T10:30:00Z",
     "deployed":null,
     "website":"https:\/\/www.tronfuture.com\/",
     "operator":"None",
@@ -83568,8 +83568,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-08-28T11:00:09.369825Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-10-18T20:35:41.180242Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/bandwagon5",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -83590,7 +83590,7 @@
     "image":"satellites\/satellite_T.Microsat-4.jpeg",
     "status":"future",
     "decayed":null,
-    "launched":null,
+    "launched":"2026-10-19T10:30:00Z",
     "deployed":null,
     "website":"https:\/\/www.tronfuture.com\/",
     "operator":"None",
@@ -83598,8 +83598,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-08-28T11:05:39.457060Z",
-    "citation":"Add temporary NORAD ID",
+    "updated":"2026-10-18T20:35:41.877431Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/bandwagon5",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -85656,6 +85656,36 @@
     ],
     "updated":"2026-10-15T05:45:44.400353Z",
     "citation":"https:\/\/dorbit.space\/mission-updates\/",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
+  },
+  {
+    "sat_id":"BOLE-1606-4842-8826-6231",
+    "norad_cat_id":98187.0,
+    "norad_follow_id":null,
+    "name":"FOSSASAT-2E27",
+    "names":"",
+    "image":"",
+    "status":"future",
+    "decayed":null,
+    "launched":"2026-10-19T10:30:00Z",
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-18T20:37:01.691733Z",
+    "citation":"https:\/\/www.spacex.com\/launches\/bandwagon5",
     "is_frequency_violator":false,
     "associated_satellites":[
 
