@@ -83558,9 +83558,9 @@
     "name":"T.Microsat-3",
     "names":"",
     "image":"satellites\/satellite_T.Microsat-3.jpeg",
-    "status":"future",
+    "status":"in orbit",
     "decayed":null,
-    "launched":"2026-10-19T10:30:00Z",
+    "launched":"2026-10-19T11:04:00Z",
     "deployed":null,
     "website":"https:\/\/www.tronfuture.com\/",
     "operator":"None",
@@ -83568,7 +83568,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-10-18T20:35:41.180242Z",
+    "updated":"2026-10-20T11:05:06.554195Z",
     "citation":"https:\/\/www.spacex.com\/launches\/bandwagon5",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -83588,9 +83588,9 @@
     "name":"T.MicroSat-4",
     "names":"",
     "image":"satellites\/satellite_T.Microsat-4.jpeg",
-    "status":"future",
+    "status":"in orbit",
     "decayed":null,
-    "launched":"2026-10-19T10:30:00Z",
+    "launched":"2026-10-19T11:04:00Z",
     "deployed":null,
     "website":"https:\/\/www.tronfuture.com\/",
     "operator":"None",
@@ -83598,7 +83598,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-10-18T20:35:41.877431Z",
+    "updated":"2026-10-20T11:05:07.261864Z",
     "citation":"https:\/\/www.spacex.com\/launches\/bandwagon5",
     "is_frequency_violator":false,
     "associated_satellites":[
@@ -85674,9 +85674,9 @@
     "name":"FOSSASAT-2E27",
     "names":"",
     "image":"",
-    "status":"future",
+    "status":"in orbit",
     "decayed":null,
-    "launched":"2026-10-19T10:30:00Z",
+    "launched":"2026-10-19T11:04:00Z",
     "deployed":null,
     "website":"",
     "operator":"None",
@@ -85684,7 +85684,7 @@
     "telemetries":[
 
     ],
-    "updated":"2026-10-18T20:37:01.691733Z",
+    "updated":"2026-10-20T11:05:05.854625Z",
     "citation":"https:\/\/www.spacex.com\/launches\/bandwagon5",
     "is_frequency_violator":false,
     "associated_satellites":[
