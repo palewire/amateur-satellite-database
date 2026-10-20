@@ -20,7 +20,10 @@ AAUSAT-2,32788,,437.426,,1k2*MSK 9k6 FSK,OZ2CUB,re-entered,IMKY-8694-8138-3077-8
 AAUSAT-3,39087,,437.425,437.425,4k8 FSK CW,OZ3CUB,inactive,SPZX-9367-0355-8865-6645
 AAUSAT-4,41460,,437.425,437.425,2k4*/9k6/19k2 GFSK CW,OZ4CUB,re-entered,AISX-1350-2546-0237-2310
 AAUSAT-5,40948,,437.425,437.425,9k6 GMSK CW,OZ5CUB,re-entered,VWNC-0826-0031-1681-1741
+Acadia-7,64583,,,,,,unknown,
 Acadia-10,,,,,,,unknown,
+Acadia-11,,,,,,,unknown,
+Acadia-12,,,,,,,unknown,
 ACRUX-1,44369,,437.200,,9k6 GMSK,CQ,re-entered,DYYY-0442-0736-6026-2557
 ACS3,59588,,401.500,,2k4 GMSK,,non-amateur,EYEX-3123-7466-3755-9687
 AC1-001/002/003,,,2255.000,,,,unknown,
@@ -357,6 +360,9 @@ Canyval-X 1/2,,,435.000,435.000,9k6 MSK,,unknown,
 CANYVAL-C1,,,436.330,,4k8 MSK,,re-entered,
 CANYVAL-C2,,,437.500,,4k8 MSK,,re-entered,
 Capella-17,64583,,,,,,unknown,
+Capella-20,,,,,,,unknown,
+Capella-21,,,,,,,unknown,
+Capella-22,,,,,,,unknown,
 CAPE-1,31130,,435.245,435.248,1k2 AFSK,K5USL,inactive,CICP-0434-9716-2826-6897
 CAPE-2,39382,145.825,145.822/437.325,145.825,1k2 AFSK CW Voice,W5UL,re-entered,ETNK-7168-8466-2812-2733
 CAPE-3,47309,,145.825/437.325*,,1k2*AFSK 9k6 FSK,W5UL,re-entered,KCVQ-5243-0306-5795-8893
@@ -1174,6 +1180,14 @@ ICEYE-X79,69870,,,,,,unknown,
 ICEYE-X80,69893,,,,,,unknown,
 ICEYE-X81,69889,,,,,,unknown,
 ICEYE-X82,68996,,2276.000,,FM,,unknown,
+ICEYE-X83,,,,,,,unknown,
+ICEYE-X84,,,,,,,unknown,
+ICEYE-X85,,,,,,,unknown,
+ICEYE-X86,,,,,,,unknown,
+ICEYE-X87,,,,,,,unknown,
+ICEYE-X88,,,,,,,unknown,
+ICEYE-X109,,,,,,,unknown,
+ICEYE-X110,,,,,,,unknown,
 ICUBE-1,39432,435.060,145.947,,1k2 BPSK/FM-DSB,,inactive,EAJC-4988-4301-3837-9744
 IDEASSat,47458,,437.345/2420.000,BN0IDA,9k6 GMSK,,re-entered,FIOW-8506-8934-6705-7282
 IDEFIX,27422,,145.840,,400 BPSK,,inactive,
