@@ -8097,7 +8097,7 @@
   },
   {
     "name":"ERMINAZ-2U",
-    "norad_id":"A0928",
+    "norad_id":"A1098",
     "uplink":null,
     "downlink":"435.900",
     "beacon":"435.900",
@@ -8108,7 +8108,7 @@
   },
   {
     "name":"ERMINAZ-2V",
-    "norad_id":null,
+    "norad_id":"A1095",
     "uplink":null,
     "downlink":"145.920",
     "beacon":"145.920",
@@ -8119,7 +8119,7 @@
   },
   {
     "name":"ERMINAZ-2X",
-    "norad_id":null,
+    "norad_id":"A1094",
     "uplink":null,
     "downlink":"145.960",
     "beacon":"145.960",
@@ -10880,7 +10880,7 @@
   },
   {
     "name":"HADES-E2",
-    "norad_id":"A0948",
+    "norad_id":"A1101",
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
@@ -10902,7 +10902,7 @@
   },
   {
     "name":"HADES-L",
-    "norad_id":"A0938",
+    "norad_id":"A1102",
     "uplink":null,
     "downlink":"436.665",
     "beacon":null,
@@ -14521,7 +14521,7 @@
   },
   {
     "name":"JACK-007",
-    "norad_id":null,
+    "norad_id":"A0964",
     "uplink":null,
     "downlink":"436.300",
     "beacon":null,
@@ -18514,7 +18514,7 @@
   },
   {
     "name":"NIS-PQ",
-    "norad_id":"A0897",
+    "norad_id":"A1093",
     "uplink":null,
     "downlink":"435.240",
     "beacon":null,
@@ -21858,7 +21858,7 @@
   },
   {
     "name":"Qubik-5",
-    "norad_id":"A0897",
+    "norad_id":"A1093",
     "uplink":null,
     "downlink":"435.240",
     "beacon":null,
@@ -24047,7 +24047,7 @@
   },
   {
     "name":"SIDROC-PQ-03",
-    "norad_id":null,
+    "norad_id":"A1096",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
@@ -24058,7 +24058,7 @@
   },
   {
     "name":"SIDROC-PQ-04",
-    "norad_id":null,
+    "norad_id":"A1097",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
@@ -24069,7 +24069,7 @@
   },
   {
     "name":"SIDROC-PQ-05",
-    "norad_id":null,
+    "norad_id":"A1103",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
@@ -24080,7 +24080,7 @@
   },
   {
     "name":"SIDROC-PQ-06",
-    "norad_id":null,
+    "norad_id":"A1092",
     "uplink":null,
     "downlink":"401.500",
     "beacon":null,
@@ -29448,7 +29448,7 @@
   },
   {
     "name":"UNNE-1B",
-    "norad_id":"A0948",
+    "norad_id":"A1101",
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",

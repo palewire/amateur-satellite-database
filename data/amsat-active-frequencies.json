@@ -1041,7 +1041,7 @@
   },
   {
     "name":"ERMINAZ-2U",
-    "norad_id":"A0928",
+    "norad_id":"A1098",
     "uplink":null,
     "downlink":"435.900",
     "beacon":"435.900",
@@ -1481,7 +1481,7 @@
   },
   {
     "name":"HADES-E2",
-    "norad_id":"A0948",
+    "norad_id":"A1101",
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
@@ -1491,7 +1491,7 @@
   },
   {
     "name":"HADES-L",
-    "norad_id":"A0938",
+    "norad_id":"A1102",
     "uplink":null,
     "downlink":"436.665",
     "beacon":null,
@@ -1881,7 +1881,7 @@
   },
   {
     "name":"JACK-007",
-    "norad_id":null,
+    "norad_id":"A0964",
     "uplink":null,
     "downlink":"436.300",
     "beacon":null,
@@ -2441,7 +2441,7 @@
   },
   {
     "name":"NIS-PQ",
-    "norad_id":"A0897",
+    "norad_id":"A1093",
     "uplink":null,
     "downlink":"435.240",
     "beacon":null,
@@ -2681,7 +2681,7 @@
   },
   {
     "name":"Qubik-5",
-    "norad_id":"A0897",
+    "norad_id":"A1093",
     "uplink":null,
     "downlink":"435.240",
     "beacon":null,
@@ -3811,7 +3811,7 @@
   },
   {
     "name":"UNNE-1B",
-    "norad_id":"A0948",
+    "norad_id":"A1101",
     "uplink":"145.925",
     "downlink":"436.888",
     "beacon":"436.888",
