@@ -9411,8 +9411,8 @@
     "downlink":"401.700",
     "beacon":null,
     "mode":"LoRa",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"FO027",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -9733,6 +9733,17 @@
     "callsign":null,
     "status":"re-entered",
     "satnogs_id":"CXJW-8959-9671-2060-9440"
+  },
+  {
+    "name":"FRG-100D4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
   },
   {
     "name":"FrontierSat",
@@ -10385,6 +10396,17 @@
   },
   {
     "name":"GNOMES-10",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":"unknown",
+    "status":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"GNOMES-11",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -11067,6 +11089,39 @@
   },
   {
     "name":"Hawk-14C",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Hawk-15A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Hawk-15B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Hawk-15C",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -16247,6 +16302,17 @@
     "satnogs_id":"CVWL-5147-2655-6759-5452"
   },
   {
+    "name":"LEO Express-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"LEONAV-1",
     "norad_id":null,
     "uplink":null,
@@ -17045,6 +17111,17 @@
     "downlink":"437.575",
     "beacon":null,
     "mode":"9k6_FSK",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Maxwell",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -20251,6 +20328,17 @@
     "satnogs_id":null
   },
   {
+    "name":"Pelican-12",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Persat-01",
     "norad_id":"66656",
     "uplink":null,
@@ -21483,6 +21571,28 @@
     "satnogs_id":null
   },
   {
+    "name":"PTS-1:::::::unknown",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"PTS-2:::::::unknown",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":null,
+    "satnogs_id":null
+  },
+  {
     "name":"PUCP-SAT-1",
     "norad_id":"39442",
     "uplink":"145.840",
@@ -21502,6 +21612,50 @@
     "mode":null,
     "callsign":null,
     "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Pulsar-01:::::::unknown",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"Pulsar-02:::::::unknown",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"Pulsar-03:::::::unknown",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":null,
+    "satnogs_id":null
+  },
+  {
+    "name":"Pulsar-04:::::::unknown",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":null,
     "satnogs_id":null
   },
   {
@@ -24156,6 +24310,28 @@
     "satnogs_id":"OWBN-9783-9030-5673-9344"
   },
   {
+    "name":"SIRIUS-A",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"SIRIUS-B",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Sirius-SINP-3U",
     "norad_id":"57170",
     "uplink":null,
@@ -25972,6 +26148,17 @@
   },
   {
     "name":"StangSat",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Starburst-1",
     "norad_id":null,
     "uplink":null,
     "downlink":null,
@@ -28193,6 +28380,28 @@
     "satnogs_id":null
   },
   {
+    "name":"Tomorrow-S14",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Tomorrow-S15",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
     "name":"Tomsk-TPU-120",
     "norad_id":"42910",
     "uplink":null,
@@ -28771,8 +28980,8 @@
     "downlink":"401.025",
     "beacon":null,
     "mode":"9k6 GFSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"TRON 3",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -28782,8 +28991,8 @@
     "downlink":"401.025",
     "beacon":null,
     "mode":"9k6 GFSK",
-    "callsign":null,
-    "status":"unknown",
+    "callsign":"TRON 4",
+    "status":"active",
     "satnogs_id":null
   },
   {
@@ -29074,7 +29283,7 @@
   },
   {
     "name":"Umbra-09",
-    "norad_id":null,
+    "norad_id":"60541",
     "uplink":null,
     "downlink":"2254.000",
     "beacon":null,
@@ -29085,11 +29294,55 @@
   },
   {
     "name":"Umbra-10",
-    "norad_id":null,
+    "norad_id":"60547",
     "uplink":null,
     "downlink":"2254.000",
     "beacon":null,
     "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Umbra-11",
+    "norad_id":"66748",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Umbra-12",
+    "norad_id":"67371",
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Umbra-13",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"Umbra-14",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null
@@ -30355,6 +30608,17 @@
     "downlink":"2272.500",
     "beacon":null,
     "mode":"FM",
+    "callsign":null,
+    "status":"unknown",
+    "satnogs_id":null
+  },
+  {
+    "name":"WINNEBAGO-07",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":null,
+    "beacon":null,
+    "mode":null,
     "callsign":null,
     "status":"unknown",
     "satnogs_id":null

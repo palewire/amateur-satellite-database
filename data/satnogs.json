@@ -80194,7 +80194,7 @@
     "decayed":null,
     "launched":"2026-04-23T03:09:00Z",
     "deployed":"2026-04-23T04:02:00Z",
-    "website":"https:\/\/sakamotolab.phys.aoyama.ac.jp\/research\/future_space\/ARICA-2_en",
+    "website":"https:\/\/sakamotolab.phys.aoyama.ac.jp\/research\/current_space\/ARICA-2_en",
     "operator":"None",
     "countries":"JP",
     "telemetries":[
@@ -80202,8 +80202,8 @@
         "decoder":"arica2"
       }
     ],
-    "updated":"2026-05-06T18:43:59.994426Z",
-    "citation":"https:\/\/dashboard.satnogs.org\/d\/arica-2",
+    "updated":"2026-10-21T06:06:19.518186Z",
+    "citation":"The website's URL has been changed and fixed.",
     "is_frequency_violator":false,
     "associated_satellites":[
 
@@ -83876,16 +83876,16 @@
         "decoder":"erminaz2"
       }
     ],
-    "updated":"2026-10-04T07:40:42.680439Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter18",
+    "updated":"2026-10-21T12:12:39.929135Z",
+    "citation":"https:\/\/dashboard.satnogs.org\/d\/erminaz-2u\/",
     "is_frequency_violator":false,
     "associated_satellites":[
 
     ],
-    "reception_status":"Unknown",
+    "reception_status":"Verified",
     "reception_evidence":{
       "urls":[
-
+        "https:\/\/dashboard.satnogs.org\/d\/erminaz-2u\/"
       ]
     }
   },

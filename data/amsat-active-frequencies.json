@@ -1190,6 +1190,16 @@
     "satnogs_id":null
   },
   {
+    "name":"FOSSASat-2E27",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.700",
+    "beacon":null,
+    "mode":"LoRa",
+    "callsign":"FO027",
+    "satnogs_id":null
+  },
+  {
     "name":"Fox-1B",
     "norad_id":"43017",
     "uplink":"435.250",
@@ -3758,6 +3768,26 @@
     "mode":"9k6_GFSK",
     "callsign":"TRON 2",
     "satnogs_id":"ZVLY-3305-1364-3664-7659"
+  },
+  {
+    "name":"T_MicroSat-3",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.025",
+    "beacon":null,
+    "mode":"9k6 GFSK",
+    "callsign":"TRON 3",
+    "satnogs_id":null
+  },
+  {
+    "name":"T_MicroSat-4",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"401.025",
+    "beacon":null,
+    "mode":"9k6 GFSK",
+    "callsign":"TRON 4",
+    "satnogs_id":null
   },
   {
     "name":"UEL-Y-Sys",
