@@ -2650,6 +2650,16 @@
     "satnogs_id":"HGYE-7318-8290-9065-4147"
   },
   {
+    "name":"Platform-6",
+    "norad_id":"A0611",
+    "uplink":null,
+    "downlink":"401.360\/2277.500",
+    "beacon":null,
+    "mode":"9k6_GMSK",
+    "callsign":"ESPLT6",
+    "satnogs_id":null
+  },
+  {
     "name":"Polytech-Universe-3",
     "norad_id":"57191",
     "uplink":null,

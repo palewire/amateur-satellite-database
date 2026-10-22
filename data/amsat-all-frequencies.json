@@ -266,7 +266,7 @@
   {
     "name":"Acadia-12",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"2272.500",
     "downlink":null,
     "beacon":null,
     "mode":null,
@@ -3995,7 +3995,7 @@
   {
     "name":"Capella-22",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"2272.500",
     "downlink":null,
     "beacon":null,
     "mode":null,
@@ -13059,7 +13059,7 @@
   {
     "name":"ICEYE-X84",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"2263.500",
     "downlink":null,
     "beacon":null,
     "mode":null,
@@ -13081,7 +13081,7 @@
   {
     "name":"ICEYE-X86",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"2238.000",
     "downlink":null,
     "beacon":null,
     "mode":null,
@@ -13103,7 +13103,7 @@
   {
     "name":"ICEYE-X88",
     "norad_id":null,
-    "uplink":null,
+    "uplink":"2276.000",
     "downlink":null,
     "beacon":null,
     "mode":null,
@@ -21044,13 +21044,13 @@
   },
   {
     "name":"Platform-6",
-    "norad_id":null,
+    "norad_id":"A0611",
     "uplink":null,
-    "downlink":"401.360",
+    "downlink":"401.360\/2277.500",
     "beacon":null,
     "mode":"9k6_GMSK",
     "callsign":"ESPLT6",
-    "status":"unknown",
+    "status":"active",
     "satnogs_id":null
   },
   {

@@ -23,7 +23,7 @@ AAUSAT-5,40948,,437.425,437.425,9k6 GMSK CW,OZ5CUB,re-entered,VWNC-0826-0031-168
 Acadia-7,64583,,,,,,unknown,
 Acadia-10,,,,,,,unknown,
 Acadia-11,,,,,,,unknown,
-Acadia-12,,,,,,,unknown,
+Acadia-12,,2272.500,,,,,unknown,
 ACRUX-1,44369,,437.200,,9k6 GMSK,CQ,re-entered,DYYY-0442-0736-6026-2557
 ACS3,59588,,401.500,,2k4 GMSK,,non-amateur,EYEX-3123-7466-3755-9687
 AC1-001/002/003,,,2255.000,,,,unknown,
@@ -362,7 +362,7 @@ CANYVAL-C2,,,437.500,,4k8 MSK,,re-entered,
 Capella-17,64583,,,,,,unknown,
 Capella-20,,,,,,,unknown,
 Capella-21,,,,,,,unknown,
-Capella-22,,,,,,,unknown,
+Capella-22,,2272.500,,,,,unknown,
 CAPE-1,31130,,435.245,435.248,1k2 AFSK,K5USL,inactive,CICP-0434-9716-2826-6897
 CAPE-2,39382,145.825,145.822/437.325,145.825,1k2 AFSK CW Voice,W5UL,re-entered,ETNK-7168-8466-2812-2733
 CAPE-3,47309,,145.825/437.325*,,1k2*AFSK 9k6 FSK,W5UL,re-entered,KCVQ-5243-0306-5795-8893
@@ -1186,11 +1186,11 @@ ICEYE-X80,69893,,,,,,unknown,
 ICEYE-X81,69889,,,,,,unknown,
 ICEYE-X82,68996,,2276.000,,FM,,unknown,
 ICEYE-X83,,,,,,,unknown,
-ICEYE-X84,,,,,,,unknown,
+ICEYE-X84,,2263.500,,,,,unknown,
 ICEYE-X85,,,,,,,unknown,
-ICEYE-X86,,,,,,,unknown,
+ICEYE-X86,,2238.000,,,,,unknown,
 ICEYE-X87,,,,,,,unknown,
-ICEYE-X88,,,,,,,unknown,
+ICEYE-X88,,2276.000,,,,,unknown,
 ICEYE-X109,,,,,,,unknown,
 ICEYE-X110,,,,,,,unknown,
 ICUBE-1,39432,435.060,145.947,,1k2 BPSK/FM-DSB,,inactive,EAJC-4988-4301-3837-9744
@@ -1912,7 +1912,7 @@ Platform-1,52770,,400.360,,2k4/4k8*/9k6 GFSK,SS2141,re-entered,UIXV-7191-6999-40
 Platform-2,55067,,401.360,,4k8 GFSK,,re-entered,ZVIO-0893-8720-4254-3996
 Platform-3,56183,,401.360,,4k8 GMSK,,re-entered,AOWV-3972-1112-6379-5554
 Platform-5,58339,,401.360/2277.500,,4k8 GMSK,PL0005,re-entered,PRZP-7386-5227-9698-5175
-Platform-6,,,401.360,,9k6_GMSK,ESPLT6,unknown,
+Platform-6,A0611,,401.360/2277.500,,9k6_GMSK,ESPLT6,active,
 Pleiades-Orpheus,,,437.400,,LoRa,,unknown,
 Pocket-PUCP,,,437.200,437.200,1k2 AFSK CW,,inactive,
 POEM-4,62461,145.825,145.870,,1k2AFSK FM APRS SSTV,,re-entered,UCVR-0643-6863-2318-5100
