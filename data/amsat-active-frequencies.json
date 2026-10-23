@@ -1045,8 +1045,18 @@
     "uplink":null,
     "downlink":"435.900",
     "beacon":"435.900",
-    "mode":"9k6 GMSK CW*",
+    "mode":"9k6 GMSK CW",
     "callsign":"DP0PQA",
+    "satnogs_id":null
+  },
+  {
+    "name":"ERMINAZ-2V",
+    "norad_id":"A1095",
+    "uplink":null,
+    "downlink":"145.920",
+    "beacon":"145.920",
+    "mode":"9k6 GMSK CW",
+    "callsign":"DP0PQB",
     "satnogs_id":null
   },
   {

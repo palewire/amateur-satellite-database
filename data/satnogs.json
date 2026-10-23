@@ -40661,8 +40661,8 @@
     "name":"AHMAT-1",
     "names":"RS41S",
     "image":"satellites\/large_Ahmat_1_7564081887.jpeg",
-    "status":"in orbit",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-10-15T00:00:00Z",
     "launched":"2023-06-27T11:34:00Z",
     "deployed":null,
     "website":"https:\/\/spacepi.space\/wiki\/article\/ahmat-1\/",
@@ -40671,8 +40671,8 @@
     "telemetries":[
 
     ],
-    "updated":"2024-05-29T00:33:18.740656Z",
-    "citation":"Change status",
+    "updated":"2026-10-23T09:06:24.170972Z",
+    "citation":"https:\/\/decay.satgs.ru\/",
     "is_frequency_violator":true,
     "associated_satellites":[
 
