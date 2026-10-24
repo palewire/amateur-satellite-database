@@ -82984,7 +82984,7 @@
   {
     "sat_id":"AJQX-1966-2916-6116-6970",
     "norad_cat_id":98271.0,
-    "norad_follow_id":null,
+    "norad_follow_id":69877.0,
     "name":"Maveric",
     "names":"",
     "image":"satellites\/MAVERIC_Rendered.png",
@@ -82998,8 +82998,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-07-07T15:23:02.700562Z",
-    "citation":"https:\/\/www.spacex.com\/launches\/transporter17",
+    "updated":"2026-10-23T20:45:09.098268Z",
+    "citation":"https:\/\/community.libre.space\/t\/transporter-17-rideshare-vsfb-slc-4e-2026-07-07-07-10-utc\/14950\/359",
     "is_frequency_violator":false,
     "associated_satellites":[
 
