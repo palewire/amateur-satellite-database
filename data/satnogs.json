@@ -77384,10 +77384,10 @@
     "norad_cat_id":98398.0,
     "norad_follow_id":67686.0,
     "name":"UiTMSAT-2",
-    "names":"",
+    "names":"JG6YMX",
     "image":"satellites\/UiTMSAT-2.jpg",
-    "status":"in orbit",
-    "decayed":null,
+    "status":"re-entered",
+    "decayed":"2026-10-21T00:00:00Z",
     "launched":"2025-10-26T00:00:00Z",
     "deployed":"2026-02-03T00:00:00Z",
     "website":"",
@@ -77396,8 +77396,8 @@
     "telemetries":[
 
     ],
-    "updated":"2026-02-08T12:57:43.493883Z",
-    "citation":"https:\/\/community.libre.space\/t\/iss-deployment-jaxa-j-ssod-35-2026-02-03-08-20-utc\/14320\/51",
+    "updated":"2026-10-24T11:07:06.146815Z",
+    "citation":"https:\/\/keeptrack.space\/satellite\/67686",
     "is_frequency_violator":false,
     "associated_satellites":[
 
