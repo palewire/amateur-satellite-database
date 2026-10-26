@@ -85696,5 +85696,35 @@
 
       ]
     }
+  },
+  {
+    "sat_id":"YDAJ-8386-5549-4313-5754",
+    "norad_cat_id":69892.0,
+    "norad_follow_id":null,
+    "name":"ICEYE-X77",
+    "names":"",
+    "image":"",
+    "status":"in orbit",
+    "decayed":null,
+    "launched":null,
+    "deployed":null,
+    "website":"",
+    "operator":"None",
+    "countries":"",
+    "telemetries":[
+
+    ],
+    "updated":"2026-10-26T09:13:16.283400Z",
+    "citation":"space-track.org",
+    "is_frequency_violator":false,
+    "associated_satellites":[
+
+    ],
+    "reception_status":"Unknown",
+    "reception_evidence":{
+      "urls":[
+
+      ]
+    }
   }
 ]

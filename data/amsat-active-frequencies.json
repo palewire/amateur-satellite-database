@@ -2570,6 +2570,16 @@
     "satnogs_id":"XEOD-9474-3581-0595-2203"
   },
   {
+    "name":"OTTER-24C",
+    "norad_id":null,
+    "uplink":null,
+    "downlink":"400.500",
+    "beacon":null,
+    "mode":"38k4 GFSK",
+    "callsign":null,
+    "satnogs_id":null
+  },
+  {
     "name":"OTP-2",
     "norad_id":"63235",
     "uplink":null,
