@@ -1386,6 +1386,28 @@
     "satnogs_id":"REOO-2119-3738-4964-1579"
   },
   {
+    "name":"AO-129",
+    "norad_id":"A1098",
+    "uplink":null,
+    "downlink":"435.900",
+    "beacon":"435.900",
+    "mode":"9k6 GMSK CW",
+    "callsign":"DP0PQA",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
+    "name":"AO-130",
+    "norad_id":"A1095",
+    "uplink":null,
+    "downlink":"145.920",
+    "beacon":"145.920",
+    "mode":"9k6 GMSK CW",
+    "callsign":"DP0PQB",
+    "status":"active",
+    "satnogs_id":null
+  },
+  {
     "name":"APEX-ARIES-1",
     "norad_id":"59129",
     "uplink":null,
