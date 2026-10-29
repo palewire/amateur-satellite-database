@@ -17765,6 +17765,17 @@
     "satnogs_id":null
   },
   {
+    "name":"MOMIJI",
+    "norad_id":null,
+    "uplink":"145.825",
+    "downlink":"437.375",
+    "beacon":null,
+    "mode":"APRS 4k8_GMSK",
+    "callsign":null,
+    "status":"to be launched",
+    "satnogs_id":null
+  },
+  {
     "name":"Monitor-1",
     "norad_id":"53374",
     "uplink":null,
